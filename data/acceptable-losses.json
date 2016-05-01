@@ -1,0 +1,13 @@
+{
+  "title": "Acceptable Losses",
+  "image": "./img/acceptable-losses.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Acceptable Losses, discard a card at random.Acceptable Losses deals 5 damage to target creature.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "172",
+  "artist": "Mike Ploog",
+  "rating": "1.018",
+  "votes": "82"
+}

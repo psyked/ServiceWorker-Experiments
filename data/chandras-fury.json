@@ -1,0 +1,13 @@
+{
+  "title": "Chandra's Fury",
+  "image": "./img/chandras-fury.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Chandra's Fury deals 4 damage to target player and 1 damage to each creature that player controls.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "136",
+  "artist": "Volkan Baga",
+  "rating": "5",
+  "votes": "0"
+}

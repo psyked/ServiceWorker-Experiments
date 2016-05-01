@@ -1,0 +1,13 @@
+{
+  "title": "Hinder",
+  "image": "./img/hinder.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell. If that spell is countered this way, put that card on the top or bottom of its owner's library instead of into that player's graveyard.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "65",
+  "artist": "Wayne Reynolds",
+  "rating": "3.983",
+  "votes": "87"
+}

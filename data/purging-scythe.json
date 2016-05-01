@@ -1,0 +1,13 @@
+{
+  "title": "Purging Scythe",
+  "image": "./img/purging-scythe.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, Purging Scythe deals 2 damage to the creature with the least toughness. If two or more creatures are tied for least toughness, you choose one of them.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "308",
+  "artist": "Matthew Wilson",
+  "rating": "3.888",
+  "votes": "40"
+}

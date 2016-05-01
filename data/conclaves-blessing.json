@@ -1,0 +1,13 @@
+{
+  "title": "Conclave's Blessing",
+  "image": "./img/conclaves-blessing.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for  or one mana of that creature's color.)Enchant creatureEnchanted creature gets +0/+2 for each other creature you control.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "11",
+  "artist": "Shishizaru",
+  "rating": "2.179",
+  "votes": "39"
+}

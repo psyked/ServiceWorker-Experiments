@@ -1,0 +1,13 @@
+{
+  "title": "Thrull Retainer",
+  "image": "./img/thrull-retainer.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+1.Sacrifice Thrull Retainer: Regenerate enchanted creature.",
+  "expansion": "Masters Edition",
+  "rarity": "Common",
+  "cardNumber": "84",
+  "artist": "Ron Spencer",
+  "rating": "3.362",
+  "votes": "40"
+}

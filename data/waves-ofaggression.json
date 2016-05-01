@@ -1,0 +1,13 @@
+{
+  "title": "Waves of Aggression",
+  "image": "./img/waves-ofaggression.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",
+  "expansion": "Eventide",
+  "rarity": "Rare",
+  "cardNumber": "148",
+  "artist": "Jim Pavelec",
+  "rating": "3.833",
+  "votes": "69"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Braid of Fire",
+  "image": "./img/braid-offire.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Cumulative upkeep—Add  to your mana pool. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "78",
+  "artist": "Cyril Van Der Haegen",
+  "rating": "4.514",
+  "votes": "208"
+}

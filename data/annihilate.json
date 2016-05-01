@@ -1,0 +1,13 @@
+{
+  "title": "Annihilate",
+  "image": "./img/annihilate.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Destroy target nonblack creature. It can't be regenerated.Draw a card.",
+  "expansion": "Commander 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "134",
+  "artist": "Kev Walker",
+  "rating": "5",
+  "votes": "0"
+}

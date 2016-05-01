@@ -1,0 +1,13 @@
+{
+  "title": "Fiend Hunter",
+  "image": "./img/fiend-hunter.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": "When Fiend Hunter enters the battlefield, you may exile another target creature.When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+  "expansion": "Duel Decks: Blessed vs. Cursed",
+  "rarity": "Uncommon",
+  "cardNumber": "11",
+  "artist": "Wayne Reynolds",
+  "rating": "5",
+  "votes": "0"
+}

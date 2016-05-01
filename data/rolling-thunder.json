@@ -1,0 +1,13 @@
+{
+  "title": "Rolling Thunder",
+  "image": "./img/rolling-thunder.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Rolling Thunder deals X damage divided as you choose among any number of target creatures and/or players.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "154",
+  "artist": "Yohann Schepacz",
+  "rating": "5",
+  "votes": "0"
+}

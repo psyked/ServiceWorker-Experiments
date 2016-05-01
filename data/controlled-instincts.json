@@ -1,0 +1,13 @@
+{
+  "title": "Controlled Instincts",
+  "image": "./img/controlled-instincts.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant red or green creatureEnchanted creature doesn't untap during its controller's untap step.",
+  "expansion": "Conflux",
+  "rarity": "Uncommon",
+  "cardNumber": "23",
+  "artist": "Ralph Horsley",
+  "rating": "2.038",
+  "votes": "53"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Anointer of Champions",
+  "image": "./img/anointer-ofchampions.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": ": Target attacking creature gets +1/+1 until end of turn.",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "3",
+  "artist": "Anna Steinbauer",
+  "rating": "5",
+  "votes": "0"
+}

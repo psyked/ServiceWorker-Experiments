@@ -1,0 +1,13 @@
+{
+  "title": "Skeletal Changeling",
+  "image": "./img/skeletal-changeling.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Shapeshifter",
+  "text": "Changeling (This card is every creature type.): Regenerate Skeletal Changeling.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "140",
+  "artist": "Alan Pollack",
+  "rating": "2.797",
+  "votes": "32"
+}

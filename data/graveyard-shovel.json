@@ -1,0 +1,13 @@
+{
+  "title": "Graveyard Shovel",
+  "image": "./img/graveyard-shovel.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", : Target player exiles a card from his or her graveyard. If it's a creature card, you gain 2 life.",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "225",
+  "artist": "Martina Pilcerova",
+  "rating": "1.898",
+  "votes": "54"
+}

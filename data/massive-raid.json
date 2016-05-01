@@ -1,0 +1,13 @@
+{
+  "title": "Massive Raid",
+  "image": "./img/massive-raid.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Massive Raid deals damage to target creature or player equal to the number of creatures you control.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "100",
+  "artist": "Zoltan Boros",
+  "rating": "3.170",
+  "votes": "53"
+}

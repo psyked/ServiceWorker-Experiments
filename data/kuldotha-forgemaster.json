@@ -1,0 +1,13 @@
+{
+  "title": "Kuldotha Forgemaster",
+  "image": "./img/kuldotha-forgemaster.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Construct",
+  "text": ", Sacrifice three artifacts: Search your library for an artifact card and put it onto the battlefield. Then shuffle your library.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "169",
+  "artist": "jD",
+  "rating": "4.413",
+  "votes": "121"
+}

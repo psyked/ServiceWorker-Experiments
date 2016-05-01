@@ -1,0 +1,13 @@
+{
+  "title": "Sphinx of the Final Word",
+  "image": "./img/sphinx-ofthefinalword.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Sphinx",
+  "text": "Sphinx of the Final Word can't be countered.Flying, hexproofInstant and sorcery spells you control can't be countered by spells or abilities.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Mythic Rare",
+  "cardNumber": "63",
+  "artist": "Lius Lasahido",
+  "rating": "5",
+  "votes": "0"
+}

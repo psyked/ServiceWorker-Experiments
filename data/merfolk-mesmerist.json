@@ -1,0 +1,13 @@
+{
+  "title": "Merfolk Mesmerist",
+  "image": "./img/merfolk-mesmerist.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk Wizard",
+  "text": ", : Target player puts the top two cards of his or her library into his or her graveyard.",
+  "expansion": "Magic 2012",
+  "rarity": "Common",
+  "cardNumber": "66",
+  "artist": "Jana Schirmer & Johannes Voss",
+  "rating": "3.150",
+  "votes": "50"
+}

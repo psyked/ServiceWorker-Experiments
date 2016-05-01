@@ -1,0 +1,13 @@
+{
+  "title": "Paralyze",
+  "image": "./img/paralyze.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Paralyze enters the battlefield, tap enchanted creature.Enchanted creature doesn't untap during its controller's untap step.At the beginning of the upkeep of enchanted creature's controller, that player may pay . If he or she does, untap the creature.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "132",
+  "artist": "Ron Spencer",
+  "rating": "4.000",
+  "votes": "1"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Council Guardian",
+  "image": "./img/council-guardian.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant Soldier",
+  "text": "Will of the council — When Council Guardian enters the battlefield, starting with you, each player votes for blue, black, red, or green. Council Guardian gains protection from each color with the most votes or tied for most votes.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Uncommon",
+  "cardNumber": "15",
+  "artist": "Volkan Baga",
+  "rating": "4.083",
+  "votes": "6"
+}

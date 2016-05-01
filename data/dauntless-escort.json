@@ -1,0 +1,13 @@
+{
+  "title": "Dauntless Escort",
+  "image": "./img/dauntless-escort.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Rhino Soldier",
+  "text": "Sacrifice Dauntless Escort: Creatures you control gain indestructible until end of turn.",
+  "expansion": "Alara Reborn",
+  "rarity": "Rare",
+  "cardNumber": "67",
+  "artist": "Volkan Baga",
+  "rating": "3.933",
+  "votes": "171"
+}

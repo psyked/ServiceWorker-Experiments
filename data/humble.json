@@ -1,0 +1,13 @@
+{
+  "title": "Humble",
+  "image": "./img/humble.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Until end of turn, target creature loses all abilities and has base power and toughness 0/1.",
+  "expansion": "Urza's Saga",
+  "rarity": "Uncommon",
+  "cardNumber": "18",
+  "artist": "Val Mayerik",
+  "rating": "4.384",
+  "votes": "69"
+}

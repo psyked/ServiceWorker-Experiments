@@ -1,0 +1,13 @@
+{
+  "title": "Spiteflame Witch",
+  "image": "./img/spiteflame-witch.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elemental Shaman",
+  "text": ": Each player loses 1 life.",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "197",
+  "artist": "William O'Connor",
+  "rating": "3.108",
+  "votes": "37"
+}

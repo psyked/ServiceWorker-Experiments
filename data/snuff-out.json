@@ -1,0 +1,13 @@
+{
+  "title": "Snuff Out",
+  "image": "./img/snuff-out.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "If you control a Swamp, you may pay 4 life rather than pay Snuff Out's mana cost.Destroy target nonblack creature. It can't be regenerated.",
+  "expansion": "Duel Decks Anthology, Garruk vs. Liliana",
+  "rarity": "Common",
+  "cardNumber": "53",
+  "artist": "Steve Argyle",
+  "rating": "5",
+  "votes": "0"
+}

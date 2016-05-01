@@ -1,0 +1,13 @@
+{
+  "title": "Genesis Chamber",
+  "image": "./img/genesis-chamber.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Whenever a nontoken creature enters the battlefield, if Genesis Chamber is untapped, that creature's controller puts a 1/1 colorless Myr artifact creature token onto the battlefield.",
+  "expansion": "Darksteel",
+  "rarity": "Uncommon",
+  "cardNumber": "122",
+  "artist": "Mark Tedin",
+  "rating": "4.019",
+  "votes": "81"
+}

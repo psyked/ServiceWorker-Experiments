@@ -1,0 +1,13 @@
+{
+  "title": "Soulflayer",
+  "image": "./img/soulflayer.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Demon",
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for .)If a creature card with flying was exiled with Soulflayer's delve ability, Soulflayer has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, reach, trample, and vigilance.",
+  "expansion": "Fate Reforged",
+  "rarity": "Rare",
+  "cardNumber": "84",
+  "artist": "Seb McKinnon",
+  "rating": "5",
+  "votes": "0"
+}

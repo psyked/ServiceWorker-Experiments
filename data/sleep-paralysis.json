@@ -1,0 +1,13 @@
+{
+  "title": "Sleep Paralysis",
+  "image": "./img/sleep-paralysis.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Sleep Paralysis enters the battlefield, tap enchanted creature.Enchanted creature doesn't untap during its controller's untap step.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "87",
+  "artist": "Josu Hernaiz",
+  "rating": "5",
+  "votes": "0"
+}

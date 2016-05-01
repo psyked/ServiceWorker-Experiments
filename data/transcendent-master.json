@@ -1,0 +1,13 @@
+{
+  "title": "Transcendent Master",
+  "image": "./img/transcendent-master.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric Avatar",
+  "text": "Level up  (: Put a level counter on this. Level up only as a sorcery.)LEVEL 6-116/6LifelinkLEVEL 12+9/9Lifelink, indestructible",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Mythic Rare",
+  "cardNumber": "51",
+  "artist": "Steven Belledin",
+  "rating": "4.263",
+  "votes": "179"
+}

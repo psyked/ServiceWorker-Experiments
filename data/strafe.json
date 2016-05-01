@@ -1,0 +1,13 @@
+{
+  "title": "Strafe",
+  "image": "./img/strafe.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Strafe deals 3 damage to target nonred creature.",
+  "expansion": "Planeshift",
+  "rarity": "Uncommon",
+  "cardNumber": "73",
+  "artist": "Jim Nelson",
+  "rating": "3.052",
+  "votes": "48"
+}

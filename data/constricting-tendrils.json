@@ -1,0 +1,13 @@
+{
+  "title": "Constricting Tendrils",
+  "image": "./img/constricting-tendrils.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets -3/-0 until end of turn.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Conflux",
+  "rarity": "Common",
+  "cardNumber": "22",
+  "artist": "David Palumbo",
+  "rating": "1.559",
+  "votes": "68"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Yamabushi's Flame",
+  "image": "./img/yamabushis-flame.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Yamabushi's Flame deals 3 damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "198",
+  "artist": "Christopher Moeller",
+  "rating": "3.088",
+  "votes": "40"
+}

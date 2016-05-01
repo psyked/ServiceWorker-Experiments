@@ -1,0 +1,13 @@
+{
+  "title": "Bouncing Beebles",
+  "image": "./img/bouncing-beebles.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Beeble",
+  "text": "Bouncing Beebles can't be blocked as long as defending player controls an artifact.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Common",
+  "cardNumber": "28",
+  "artist": "Jeff Miracola",
+  "rating": "3.756",
+  "votes": "45"
+}

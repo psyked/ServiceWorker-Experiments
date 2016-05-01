@@ -1,0 +1,13 @@
+{
+  "title": "Psychic Possession",
+  "image": "./img/psychic-possession.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant opponentSkip your draw step.Whenever enchanted opponent draws a card, you may draw a card.",
+  "expansion": "Dissension",
+  "rarity": "Rare",
+  "cardNumber": "30",
+  "artist": "Mark Tedin",
+  "rating": "3.949",
+  "votes": "69"
+}

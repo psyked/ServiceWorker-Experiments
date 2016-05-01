@@ -1,0 +1,13 @@
+{
+  "title": "Tariff",
+  "image": "./img/tariff.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Each player sacrifices the creature he or she controls with the highest converted mana cost unless he or she pays that creature's mana cost. If two or more creatures a player controls are tied for highest cost, that player chooses one.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Rare",
+  "cardNumber": "47",
+  "artist": "Kev Walker",
+  "rating": "3.766",
+  "votes": "32"
+}

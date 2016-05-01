@@ -1,0 +1,13 @@
+{
+  "title": "Dream Fracture",
+  "image": "./img/dream-fracture.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell. Its controller draws a card.Draw a card.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "95",
+  "artist": "Howard Lyon",
+  "rating": "3.800",
+  "votes": "5"
+}

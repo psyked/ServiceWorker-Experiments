@@ -1,0 +1,13 @@
+{
+  "title": "Faithless Looting",
+  "image": "./img/faithless-looting.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Draw two cards, then discard two cards.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Commander 2015",
+  "rarity": "Common",
+  "cardNumber": "153",
+  "artist": "Gabor Szikszai",
+  "rating": "5",
+  "votes": "0"
+}

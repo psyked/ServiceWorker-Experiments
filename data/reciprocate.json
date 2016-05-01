@@ -1,0 +1,13 @@
+{
+  "title": "Reciprocate",
+  "image": "./img/reciprocate.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Exile target creature that dealt damage to you this turn.",
+  "expansion": "Duel Decks: Knights vs. Dragons",
+  "rarity": "Uncommon",
+  "cardNumber": "24",
+  "artist": "Pat Lee",
+  "rating": "3.456",
+  "votes": "34"
+}

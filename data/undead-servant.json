@@ -1,0 +1,13 @@
+{
+  "title": "Undead Servant",
+  "image": "./img/undead-servant.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie",
+  "text": "When Undead Servant enters the battlefield, put a 2/2 black Zombie creature token onto the battlefield for each card named Undead Servant in your graveyard.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "124",
+  "artist": "James Zapata",
+  "rating": "5",
+  "votes": "0"
+}

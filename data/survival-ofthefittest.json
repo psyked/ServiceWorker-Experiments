@@ -1,0 +1,13 @@
+{
+  "title": "Survival of the Fittest",
+  "image": "./img/survival-ofthefittest.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": ", Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Mythic Rare",
+  "cardNumber": "199",
+  "artist": "Pete Venters",
+  "rating": "5",
+  "votes": "0"
+}

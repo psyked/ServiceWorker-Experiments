@@ -1,0 +1,13 @@
+{
+  "title": "Carnassid",
+  "image": "./img/carnassid.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Beast",
+  "text": "Trample: Regenerate Carnassid.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "167",
+  "artist": "Brom",
+  "rating": "5",
+  "votes": "0"
+}

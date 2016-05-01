@@ -1,0 +1,13 @@
+{
+  "title": "Gustcloak Skirmisher",
+  "image": "./img/gustcloak-skirmisher.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Bird Soldier",
+  "text": "FlyingWhenever Gustcloak Skirmisher becomes blocked, you may untap it and remove it from combat.",
+  "expansion": "Duel Decks: Elspeth vs. Kiora",
+  "rarity": "Uncommon",
+  "cardNumber": "13",
+  "artist": "Dan Frazier",
+  "rating": "5",
+  "votes": "0"
+}

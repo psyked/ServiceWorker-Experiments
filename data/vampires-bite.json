@@ -1,0 +1,13 @@
+{
+  "title": "Vampire's Bite",
+  "image": "./img/vampires-bite.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)Target creature gets +3/+0 until end of turn. If Vampire's Bite was kicked, that creature gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Common",
+  "cardNumber": "19",
+  "artist": "Christopher Moeller",
+  "rating": "3.077",
+  "votes": "13"
+}

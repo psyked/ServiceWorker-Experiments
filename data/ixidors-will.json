@@ -1,0 +1,13 @@
+{
+  "title": "Ixidor's Will",
+  "image": "./img/ixidors-will.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell unless its controller pays  for each Wizard on the battlefield.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "90",
+  "artist": "Eric Peterson",
+  "rating": "2.022",
+  "votes": "45"
+}

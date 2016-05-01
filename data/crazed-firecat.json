@@ -1,0 +1,13 @@
+{
+  "title": "Crazed Firecat",
+  "image": "./img/crazed-firecat.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Elemental Cat",
+  "text": "When Crazed Firecat enters the battlefield, flip a coin until you lose a flip. Put a +1/+1 counter on Crazed Firecat for each flip you win.",
+  "expansion": "Torment",
+  "rarity": "Uncommon",
+  "cardNumber": "94",
+  "artist": "Ron Spears",
+  "rating": "2.561",
+  "votes": "41"
+}

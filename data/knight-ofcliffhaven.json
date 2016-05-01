@@ -1,0 +1,13 @@
+{
+  "title": "Knight of Cliffhaven",
+  "image": "./img/knight-ofcliffhaven.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kor Knight",
+  "text": "Level up  (: Put a level counter on this. Level up only as a sorcery.)LEVEL 1-32/3FlyingLEVEL 4+4/4Flying, vigilance",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "5",
+  "artist": "Matt Cavotta",
+  "rating": "5",
+  "votes": "0"
+}

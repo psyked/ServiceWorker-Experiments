@@ -1,0 +1,13 @@
+{
+  "title": "Cyclone",
+  "image": "./img/cyclone.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, put a wind counter on Cyclone, then sacrifice Cyclone unless you pay  for each wind counter on it. If you pay, Cyclone deals damage equal to the number of wind counters on it to each creature and each player.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "148",
+  "artist": "Mark Tedin",
+  "rating": "2.775",
+  "votes": "20"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Wreak Havoc",
+  "image": "./img/wreak-havoc.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Wreak Havoc can't be countered by spells or abilities.Destroy target artifact or land.",
+  "expansion": "Guildpact",
+  "rarity": "Uncommon",
+  "cardNumber": "139",
+  "artist": "Wayne Reynolds",
+  "rating": "3.340",
+  "votes": "47"
+}

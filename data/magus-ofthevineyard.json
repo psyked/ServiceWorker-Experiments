@@ -1,0 +1,13 @@
+{
+  "title": "Magus of the Vineyard",
+  "image": "./img/magus-ofthevineyard.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Wizard",
+  "text": "At the beginning of each player's precombat main phase, add  to that player's mana pool.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Rare",
+  "cardNumber": "166",
+  "artist": "Jim Murray",
+  "rating": "3.766",
+  "votes": "32"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Part Water",
+  "image": "./img/part-water.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "X target creatures gain islandwalk until end of turn. (They can't be blocked as long as defending player controls an Island.)",
+  "expansion": "Legends",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "NéNé Thomas",
+  "rating": "1.606",
+  "votes": "33"
+}

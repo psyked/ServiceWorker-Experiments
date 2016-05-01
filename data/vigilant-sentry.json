@@ -1,0 +1,13 @@
+{
+  "title": "Vigilant Sentry",
+  "image": "./img/vigilant-sentry.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Nomad",
+  "text": "Threshold — As long as seven or more cards are in your graveyard, Vigilant Sentry gets +1/+1 and has \": Target attacking or blocking creature gets +3/+3 until end of turn.\"",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "33",
+  "artist": "Eric Peterson",
+  "rating": "2.841",
+  "votes": "22"
+}

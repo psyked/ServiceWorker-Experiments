@@ -1,0 +1,13 @@
+{
+  "title": "Fanatical Devotion",
+  "image": "./img/fanatical-devotion.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Sacrifice a creature: Regenerate target creature.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "8",
+  "artist": "Massimilano Frezzato",
+  "rating": "3.217",
+  "votes": "23"
+}

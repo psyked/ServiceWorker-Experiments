@@ -1,0 +1,13 @@
+{
+  "title": "Roiling Waters",
+  "image": "./img/roiling-waters.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "Return up to two target creatures your opponents control to their owners' hands. Target player draws two cards.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "62",
+  "artist": "David Gaillet",
+  "rating": "5",
+  "votes": "0"
+}

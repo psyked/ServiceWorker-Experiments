@@ -1,0 +1,13 @@
+{
+  "title": "Sire of the Storm",
+  "image": "./img/sire-ofthestorm.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Spirit",
+  "text": "FlyingWhenever you cast a Spirit or Arcane spell, you may draw a card.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "85",
+  "artist": "Arnie Swekel",
+  "rating": "2.707",
+  "votes": "29"
+}

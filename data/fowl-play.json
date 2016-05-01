@@ -1,0 +1,13 @@
+{
+  "title": "Fowl Play",
+  "image": "./img/fowl-play.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchant Creature",
+  "text": "Enchanted creature loses all abilities and is a 1/1 creature that counts as a Chicken.",
+  "expansion": "Unglued",
+  "rarity": "Common",
+  "cardNumber": "24",
+  "artist": "Mark Poole",
+  "rating": "4.365",
+  "votes": "26"
+}

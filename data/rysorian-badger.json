@@ -1,0 +1,13 @@
+{
+  "title": "Rysorian Badger",
+  "image": "./img/rysorian-badger.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Badger",
+  "text": "Whenever Rysorian Badger attacks and isn't blocked, you may exile up to two target creature cards from defending player's graveyard. If you do, you gain 1 life for each card exiled this way and Rysorian Badger assigns no combat damage this turn.",
+  "expansion": "Homelands",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Heather Hudson",
+  "rating": "3.235",
+  "votes": "51"
+}

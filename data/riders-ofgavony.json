@@ -1,0 +1,13 @@
+{
+  "title": "Riders of Gavony",
+  "image": "./img/riders-ofgavony.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Knight",
+  "text": "VigilanceAs Riders of Gavony enters the battlefield, choose a creature type.Human creatures you control have protection from creatures of the chosen type.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "33",
+  "artist": "Volkan Baga",
+  "rating": "3.797",
+  "votes": "64"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Feedback Bolt",
+  "image": "./img/feedback-bolt.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Feedback Bolt deals damage to target player equal to the number of artifacts you control.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "64",
+  "artist": "Ron Spencer",
+  "rating": "3.032",
+  "votes": "31"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Celestial Mantle",
+  "image": "./img/celestial-mantle.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +3/+3.Whenever enchanted creature deals combat damage to a player, double its controller's life total.",
+  "expansion": "Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "6",
+  "artist": "Steve Argyle",
+  "rating": "3.860",
+  "votes": "150"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Hua Tuo, Honored Physician",
+  "image": "./img/hua-tuohonoredphysician.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Creature  — Human",
+  "text": ": Put target creature card from your graveyard on top of your library. Activate this ability only during your turn, before attackers are declared.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "149",
+  "artist": "Gao Jianzhang",
+  "rating": "3.783",
+  "votes": "23"
+}

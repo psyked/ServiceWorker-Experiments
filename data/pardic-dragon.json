@@ -1,0 +1,13 @@
+{
+  "title": "Pardic Dragon",
+  "image": "./img/pardic-dragon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "Flying: Pardic Dragon gets +1/+0 until end of turn.Suspend 2—Whenever an opponent casts a spell, if Pardic Dragon is suspended, that player may put a time counter on Pardic Dragon.",
+  "expansion": "Modern Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "124",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "2.560",
+  "votes": "25"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sunscape Apprentice",
+  "image": "./img/sunscape-apprentice.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Wizard",
+  "text": ", : Target creature gets +1/+1 until end of turn., : Put target creature you control on top of its owner's library.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "41",
+  "artist": "Stephanie Law",
+  "rating": "3.156",
+  "votes": "32"
+}

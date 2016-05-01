@@ -1,0 +1,13 @@
+{
+  "title": "Bog Rats",
+  "image": "./img/bog-rats.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Rat",
+  "text": "Bog Rats can't be blocked by Walls.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Common",
+  "cardNumber": "117",
+  "artist": "Ron Spencer",
+  "rating": "2.141",
+  "votes": "39"
+}

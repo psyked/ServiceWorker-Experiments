@@ -1,0 +1,13 @@
+{
+  "title": "Staff of the Ages",
+  "image": "./img/staff-oftheages.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Creatures with landwalk abilities can be blocked as though they didn't have those abilities.",
+  "expansion": "Ice Age",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Daniel Gelon",
+  "rating": "3.102",
+  "votes": "44"
+}

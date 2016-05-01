@@ -1,0 +1,13 @@
+{
+  "title": "Beast of Burden",
+  "image": "./img/beast-ofburden.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Golem",
+  "text": "Beast of Burden's power and toughness are each equal to the number of creatures on the battlefield.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "288",
+  "artist": "Chippy",
+  "rating": "3.517",
+  "votes": "58"
+}

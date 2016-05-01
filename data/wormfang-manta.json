@@ -1,0 +1,13 @@
+{
+  "title": "Wormfang Manta",
+  "image": "./img/wormfang-manta.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Nightmare Fish Beast",
+  "text": "FlyingWhen Wormfang Manta enters the battlefield, you skip your next turn.When Wormfang Manta leaves the battlefield, you take an extra turn after this one.",
+  "expansion": "Judgment",
+  "rarity": "Rare",
+  "cardNumber": "58",
+  "artist": "Heather Hudson",
+  "rating": "2.773",
+  "votes": "44"
+}

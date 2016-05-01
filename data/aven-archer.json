@@ -1,0 +1,13 @@
+{
+  "title": "Aven Archer",
+  "image": "./img/aven-archer.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bird Soldier Archer",
+  "text": "Flying, : Aven Archer deals 2 damage to target attacking or blocking creature.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "6",
+  "artist": "Mark Zug",
+  "rating": "1.742",
+  "votes": "31"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ugin's Insight",
+  "image": "./img/ugins-insight.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Scry X, where X is the highest converted mana cost among permanents you control, then draw three cards.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "87",
+  "artist": "Tyler Jacobson",
+  "rating": "5",
+  "votes": "0"
+}

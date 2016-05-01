@@ -1,0 +1,13 @@
+{
+  "title": "Beacon Hawk",
+  "image": "./img/beacon-hawk.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Bird",
+  "text": "FlyingWhenever Beacon Hawk deals combat damage to a player, you may untap target creature.: Beacon Hawk gets +0/+1 until end of turn.",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "3",
+  "artist": "William Simpson",
+  "rating": "3.362",
+  "votes": "47"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Leap of Faith",
+  "image": "./img/leap-offaith.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Target creature gains flying until end of turn. Prevent all damage that would be dealt to that creature this turn.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "26",
+  "artist": "Gabor Szikszai",
+  "rating": "1.315",
+  "votes": "27"
+}

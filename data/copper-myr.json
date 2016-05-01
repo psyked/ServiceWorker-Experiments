@@ -1,0 +1,13 @@
+{
+  "title": "Copper Myr",
+  "image": "./img/copper-myr.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Myr",
+  "text": ": Add  to your mana pool.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "146",
+  "artist": "Alan Pollack",
+  "rating": "2.919",
+  "votes": "68"
+}

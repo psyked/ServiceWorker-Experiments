@@ -1,0 +1,13 @@
+{
+  "title": "Blistering Dieflyn",
+  "image": "./img/blistering-dieflyn.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Imp",
+  "text": "Flying: Blistering Dieflyn gets +1/+0 until end of turn.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "82",
+  "artist": "Scott Altmann",
+  "rating": "1.578",
+  "votes": "58"
+}

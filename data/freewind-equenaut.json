@@ -1,0 +1,13 @@
+{
+  "title": "Freewind Equenaut",
+  "image": "./img/freewind-equenaut.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Archer",
+  "text": "FlyingAs long as Freewind Equenaut is enchanted, it has \": Freewind Equenaut deals 2 damage to target attacking or blocking creature.\"",
+  "expansion": "Duel Decks: Heroes vs. Monsters",
+  "rarity": "Common",
+  "cardNumber": "10",
+  "artist": "Rebecca Guay",
+  "rating": "3.045",
+  "votes": "11"
+}

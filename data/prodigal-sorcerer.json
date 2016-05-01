@@ -1,0 +1,13 @@
+{
+  "title": "Prodigal Sorcerer",
+  "image": "./img/prodigal-sorcerer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": ": Prodigal Sorcerer deals 1 damage to target creature or player.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "58",
+  "artist": "Douglas Shuler",
+  "rating": "4.049",
+  "votes": "41"
+}

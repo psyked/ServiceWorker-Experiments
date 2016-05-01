@@ -1,0 +1,13 @@
+{
+  "title": "Cunning Strike",
+  "image": "./img/cunning-strike.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Cunning Strike deals 2 damage to target creature and 2 damage to target player.Draw a card.",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "150",
+  "artist": "Clint Cearley",
+  "rating": "5",
+  "votes": "0"
+}

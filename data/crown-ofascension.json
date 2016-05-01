@@ -1,0 +1,13 @@
+{
+  "title": "Crown of Ascension",
+  "image": "./img/crown-ofascension.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has flying.Sacrifice Crown of Ascension: Enchanted creature and other creatures that share a creature type with it gain flying until end of turn.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "78",
+  "artist": "Bradley Williams",
+  "rating": "2.614",
+  "votes": "22"
+}

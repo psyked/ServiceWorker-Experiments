@@ -1,0 +1,13 @@
+{
+  "title": "Treacherous Werewolf",
+  "image": "./img/treacherous-werewolf.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Werewolf Minion",
+  "text": "Threshold — As long as seven or more cards are in your graveyard, Treacherous Werewolf gets +2/+2 and has \"When Treacherous Werewolf dies, you lose 4 life.\"",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "76",
+  "artist": "Mark Tedin",
+  "rating": "2.328",
+  "votes": "32"
+}

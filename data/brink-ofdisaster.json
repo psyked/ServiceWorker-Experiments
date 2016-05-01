@@ -1,0 +1,13 @@
+{
+  "title": "Brink of Disaster",
+  "image": "./img/brink-ofdisaster.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature or landWhen enchanted permanent becomes tapped, destroy it.",
+  "expansion": "Magic 2012",
+  "rarity": "Common",
+  "cardNumber": "84",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "1.880",
+  "votes": "50"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Kapsho Kitefins",
+  "image": "./img/kapsho-kitefins.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Fish",
+  "text": "FlyingWhenever Kapsho Kitefins or another creature enters the battlefield under your control, tap target creature an opponent controls.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "66",
+  "artist": "Ryan Yee",
+  "rating": "2.917",
+  "votes": "6"
+}

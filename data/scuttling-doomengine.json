@@ -1,0 +1,13 @@
+{
+  "title": "Scuttling Doom Engine",
+  "image": "./img/scuttling-doomengine.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Construct",
+  "text": "Scuttling Doom Engine can't be blocked by creatures with power 2 or less.When Scuttling Doom Engine dies, it deals 6 damage to target opponent.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "229",
+  "artist": "Filip Burburan",
+  "rating": "4.000",
+  "votes": "7"
+}

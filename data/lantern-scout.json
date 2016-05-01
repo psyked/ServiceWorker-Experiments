@@ -1,0 +1,13 @@
+{
+  "title": "Lantern Scout",
+  "image": "./img/lantern-scout.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Scout Ally",
+  "text": "Rally — Whenever Lantern Scout or another Ally enters the battlefield under your control, creatures you control gain lifelink until end of turn.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "37",
+  "artist": "Steven Belledin",
+  "rating": "5",
+  "votes": "0"
+}

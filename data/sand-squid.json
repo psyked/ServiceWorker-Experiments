@@ -1,0 +1,13 @@
+{
+  "title": "Sand Squid",
+  "image": "./img/sand-squid.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Squid Beast",
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)You may choose not to untap Sand Squid during your untap step.: Tap target creature. That creature doesn't untap during its controller's untap step for as long as Sand Squid remains tapped.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "96",
+  "artist": "Kev Walker",
+  "rating": "3.625",
+  "votes": "32"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Wind Shear",
+  "image": "./img/wind-shear.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Attacking creatures with flying get -2/-2 and lose flying until end of turn.",
+  "expansion": "Visions",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "John Matson",
+  "rating": "3.243",
+  "votes": "35"
+}

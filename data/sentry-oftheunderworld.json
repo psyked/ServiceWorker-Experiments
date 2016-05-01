@@ -1,0 +1,13 @@
+{
+  "title": "Sentry of the Underworld",
+  "image": "./img/sentry-oftheunderworld.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Griffin Skeleton",
+  "text": "Flying, vigilance, Pay 3 life: Regenerate Sentry of the Underworld.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "202",
+  "artist": "Dave Kendall",
+  "rating": "3.385",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Vaultbreaker",
+  "image": "./img/vaultbreaker.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Orc Rogue",
+  "text": "Whenever Vaultbreaker attacks, you may discard a card. If you do, draw a card.Dash  (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "117",
+  "artist": "Wayne Reynolds",
+  "rating": "5",
+  "votes": "0"
+}

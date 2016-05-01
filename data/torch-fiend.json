@@ -1,0 +1,13 @@
+{
+  "title": "Torch Fiend",
+  "image": "./img/torch-fiend.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Devil",
+  "text": ", Sacrifice Torch Fiend: Destroy target artifact.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "166",
+  "artist": "Winona Nelson",
+  "rating": "3.611",
+  "votes": "9"
+}

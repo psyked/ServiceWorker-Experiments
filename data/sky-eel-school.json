@@ -1,0 +1,13 @@
+{
+  "title": "Sky-Eel School",
+  "image": "./img/sky-eel-school.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Fish",
+  "text": "FlyingWhen Sky-Eel School enters the battlefield, draw a card, then discard a card.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "44",
+  "artist": "Daniel Ljunggren",
+  "rating": "2.175",
+  "votes": "63"
+}

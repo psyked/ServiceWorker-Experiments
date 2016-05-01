@@ -1,0 +1,13 @@
+{
+  "title": "Orchard Warden",
+  "image": "./img/orchard-warden.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Treefolk Shaman",
+  "text": "Whenever another Treefolk creature enters the battlefield under your control, you may gain life equal to that creature's toughness.",
+  "expansion": "Morningtide",
+  "rarity": "Uncommon",
+  "cardNumber": "131",
+  "artist": "Rebecca Guay",
+  "rating": "3.000",
+  "votes": "48"
+}

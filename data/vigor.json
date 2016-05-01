@@ -1,0 +1,13 @@
+{
+  "title": "Vigor",
+  "image": "./img/vigor.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental Incarnation",
+  "text": "TrampleIf damage would be dealt to a creature you control other than Vigor, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way.When Vigor is put into a graveyard from anywhere, shuffle it into its owner's library.",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "240",
+  "artist": "Jim Murray",
+  "rating": "4.263",
+  "votes": "215"
+}

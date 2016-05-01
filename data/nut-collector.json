@@ -1,0 +1,13 @@
+{
+  "title": "Nut Collector",
+  "image": "./img/nut-collector.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Human Druid",
+  "text": "At the beginning of your upkeep, you may put a 1/1 green Squirrel creature token onto the battlefield.Threshold — Squirrel creatures get +2/+2 as long as seven or more cards are in your graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "259",
+  "artist": "Christopher Moeller",
+  "rating": "4.036",
+  "votes": "56"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Combat Medic",
+  "image": "./img/combat-medic.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric Soldier",
+  "text": ": Prevent the next 1 damage that would be dealt to target creature or player this turn.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "9",
+  "artist": "Anson Maddocks",
+  "rating": "2.533",
+  "votes": "46"
+}

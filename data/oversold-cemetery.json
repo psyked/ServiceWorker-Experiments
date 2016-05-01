@@ -1,0 +1,13 @@
+{
+  "title": "Oversold Cemetery",
+  "image": "./img/oversold-cemetery.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, if you have four or more creature cards in your graveyard, you may return target creature card from your graveyard to your hand.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "160",
+  "artist": "Thomas M. Baxa",
+  "rating": "4.261",
+  "votes": "71"
+}

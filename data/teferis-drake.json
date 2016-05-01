@@ -1,0 +1,13 @@
+{
+  "title": "Teferi's Drake",
+  "image": "./img/teferis-drake.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Drake",
+  "text": "FlyingPhasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Kari Johnson",
+  "rating": "2.823",
+  "votes": "31"
+}

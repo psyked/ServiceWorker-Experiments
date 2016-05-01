@@ -1,0 +1,13 @@
+{
+  "title": "Vithian Renegades",
+  "image": "./img/vithian-renegades.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Shaman",
+  "text": "When Vithian Renegades enters the battlefield, destroy target artifact.",
+  "expansion": "Alara Reborn",
+  "rarity": "Uncommon",
+  "cardNumber": "64",
+  "artist": "rk post",
+  "rating": "4.101",
+  "votes": "74"
+}

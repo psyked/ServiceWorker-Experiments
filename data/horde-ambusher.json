@@ -1,0 +1,13 @@
+{
+  "title": "Horde Ambusher",
+  "image": "./img/horde-ambusher.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Berserker",
+  "text": "Whenever Horde Ambusher blocks, it deals 1 damage to you.Morph—Reveal a red card in your hand. (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)When Horde Ambusher is turned face up, target creature can't block this turn.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "110",
+  "artist": "Tyler Jacobson",
+  "rating": "3.250",
+  "votes": "2"
+}

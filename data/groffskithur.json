@@ -1,0 +1,13 @@
+{
+  "title": "Groffskithur",
+  "image": "./img/groffskithur.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Beast",
+  "text": "Whenever Groffskithur becomes blocked, you may return target card named Groffskithur from your graveyard to your hand.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "121",
+  "artist": "John Matson",
+  "rating": "1.081",
+  "votes": "31"
+}

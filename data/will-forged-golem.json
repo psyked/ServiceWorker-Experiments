@@ -1,0 +1,13 @@
+{
+  "title": "Will-Forged Golem",
+  "image": "./img/will-forged-golem.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Golem",
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for  or one mana of that creature's color.)",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "239",
+  "artist": "Jason Felix",
+  "rating": "2.500",
+  "votes": "7"
+}

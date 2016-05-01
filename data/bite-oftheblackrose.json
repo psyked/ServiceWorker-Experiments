@@ -1,0 +1,13 @@
+{
+  "title": "Bite of the Black Rose",
+  "image": "./img/bite-oftheblackrose.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Will of the council — Starting with you, each player votes for sickness or psychosis. If sickness gets more votes, creatures your opponents control get -2/-2 until end of turn. If psychosis gets more votes or the vote is tied, each opponent discards two cards.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Uncommon",
+  "cardNumber": "26",
+  "artist": "Franz Vohwinkel",
+  "rating": "3.083",
+  "votes": "6"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Orzhov Keyrune",
+  "image": "./img/orzhov-keyrune.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  or  to your mana pool.: Orzhov Keyrune becomes a 1/4 white and black Thrull artifact creature with lifelink until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "233",
+  "artist": "Daniel Ljunggren",
+  "rating": "3.011",
+  "votes": "44"
+}

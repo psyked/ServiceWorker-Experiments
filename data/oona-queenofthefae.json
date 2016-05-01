@@ -1,0 +1,13 @@
+{
+  "title": "Oona, Queen of the Fae",
+  "image": "./img/oona-queenofthefae.jpg",
+  "convertedManaCost": "6",
+  "types": "Legendary Creature  — Faerie Wizard",
+  "text": "Flying: Choose a color. Target opponent exiles the top X cards of his or her library. For each card of the chosen color exiled this way, put a 1/1 blue and black Faerie Rogue creature token with flying onto the battlefield.",
+  "expansion": "Modern Masters",
+  "rarity": "Rare",
+  "cardNumber": "193",
+  "artist": "Adam Rex",
+  "rating": "4.487",
+  "votes": "39"
+}

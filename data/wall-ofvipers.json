@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Vipers",
+  "image": "./img/wall-ofvipers.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Snake Wall",
+  "text": "Defender (This creature can't attack.): Destroy Wall of Vipers and target creature it's blocking. Any player may activate this ability.",
+  "expansion": "Prophecy",
+  "rarity": "Uncommon",
+  "cardNumber": "80",
+  "artist": "Marc Fishman",
+  "rating": "2.833",
+  "votes": "36"
+}

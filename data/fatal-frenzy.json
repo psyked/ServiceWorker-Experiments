@@ -1,0 +1,13 @@
+{
+  "title": "Fatal Frenzy",
+  "image": "./img/fatal-frenzy.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Until end of turn, target creature you control gains trample and gets +X/+0, where X is its power. Sacrifice it at the beginning of the next end step.",
+  "expansion": "Planar Chaos",
+  "rarity": "Rare",
+  "cardNumber": "98",
+  "artist": "Steve Ellis",
+  "rating": "3.707",
+  "votes": "41"
+}

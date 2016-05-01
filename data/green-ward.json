@@ -1,0 +1,13 @@
+{
+  "title": "Green Ward",
+  "image": "./img/green-ward.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has protection from green. This effect doesn't remove Green Ward.",
+  "expansion": "Fourth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Dan Frazier",
+  "rating": "1.609",
+  "votes": "32"
+}

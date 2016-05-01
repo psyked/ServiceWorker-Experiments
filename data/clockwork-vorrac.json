@@ -1,0 +1,13 @@
+{
+  "title": "Clockwork Vorrac",
+  "image": "./img/clockwork-vorrac.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Boar Beast",
+  "text": "TrampleClockwork Vorrac enters the battlefield with four +1/+1 counters on it.Whenever Clockwork Vorrac attacks or blocks, remove a +1/+1 counter from it at end of combat.: Put a +1/+1 counter on Clockwork Vorrac.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "156",
+  "artist": "Arnie Swekel",
+  "rating": "3.147",
+  "votes": "34"
+}

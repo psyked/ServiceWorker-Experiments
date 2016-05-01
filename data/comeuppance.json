@@ -1,0 +1,13 @@
+{
+  "title": "Comeuppance",
+  "image": "./img/comeuppance.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Prevent all damage that would be dealt to you and planeswalkers you control this turn by sources you don't control. If damage from a creature source is prevented this way, Comeuppance deals that much damage to that creature. If damage from a noncreature source is prevented this way, Comeuppance deals that much damage to the source's controller.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "4",
+  "artist": "Marco Nelor",
+  "rating": "5",
+  "votes": "0"
+}

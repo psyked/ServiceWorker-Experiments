@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Recruiter",
+  "image": "./img/goblin-recruiter.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin",
+  "text": "When Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards and reveal those cards. Shuffle your library, then put them on top of it in any order.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "186",
+  "artist": "Scott Kirschner",
+  "rating": "4.569",
+  "votes": "87"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ogre Enforcer",
+  "image": "./img/ogre-enforcer.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Ogre",
+  "text": "Ogre Enforcer can't be destroyed by lethal damage unless lethal damage dealt by a single source is marked on it.",
+  "expansion": "Visions",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Pete Venters",
+  "rating": "3.562",
+  "votes": "40"
+}

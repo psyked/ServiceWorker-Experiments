@@ -1,0 +1,13 @@
+{
+  "title": "Explosive Vegetation",
+  "image": "./img/explosive-vegetation.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "186",
+  "artist": "Florian de Gesincourt",
+  "rating": "5",
+  "votes": "0"
+}

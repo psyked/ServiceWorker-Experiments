@@ -1,0 +1,13 @@
+{
+  "title": "Penumbra Kavu",
+  "image": "./img/penumbra-kavu.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Kavu",
+  "text": "When Penumbra Kavu dies, put a 3/3 black Kavu creature token onto the battlefield.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "83",
+  "artist": "Tony Szczudlo",
+  "rating": "3.750",
+  "votes": "50"
+}

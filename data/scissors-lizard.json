@@ -1,0 +1,13 @@
+{
+  "title": "Scissors Lizard",
+  "image": "./img/scissors-lizard.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature",
+  "text": "Paper Tigers cannot attack or block.",
+  "expansion": "Unglued",
+  "rarity": "Common",
+  "cardNumber": "80",
+  "artist": "Heather Hudson",
+  "rating": "4.221",
+  "votes": "34"
+}

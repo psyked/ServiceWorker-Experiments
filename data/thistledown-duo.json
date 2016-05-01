@@ -1,0 +1,13 @@
+{
+  "title": "Thistledown Duo",
+  "image": "./img/thistledown-duo.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kithkin Soldier Wizard",
+  "text": "Whenever you cast a white spell, Thistledown Duo gets +1/+1 until end of turn.Whenever you cast a blue spell, Thistledown Duo gains flying until end of turn.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "152",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "2.417",
+  "votes": "30"
+}

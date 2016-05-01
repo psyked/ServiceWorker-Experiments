@@ -1,0 +1,13 @@
+{
+  "title": "Vebulid",
+  "image": "./img/vebulid.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Horror",
+  "text": "Vebulid enters the battlefield with a +1/+1 counter on it.At the beginning of your upkeep, you may put a +1/+1 counter on Vebulid.When Vebulid attacks or blocks, destroy it at end of combat.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "165",
+  "artist": "Ron Spencer",
+  "rating": "3.459",
+  "votes": "49"
+}

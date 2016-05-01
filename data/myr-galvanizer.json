@@ -1,0 +1,13 @@
+{
+  "title": "Myr Galvanizer",
+  "image": "./img/myr-galvanizer.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Myr",
+  "text": "Other Myr creatures you control get +1/+1., : Untap each other Myr you control.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "181",
+  "artist": "Greg Staples",
+  "rating": "4.173",
+  "votes": "162"
+}

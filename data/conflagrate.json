@@ -1,0 +1,13 @@
+{
+  "title": "Conflagrate",
+  "image": "./img/conflagrate.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Conflagrate deals X damage divided as you choose among any number of target creatures and/or players.Flashback—, Discard X cards. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "151",
+  "artist": "Warren Mahy",
+  "rating": "3.641",
+  "votes": "39"
+}

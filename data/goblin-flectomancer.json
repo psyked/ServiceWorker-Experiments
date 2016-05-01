@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Flectomancer",
+  "image": "./img/goblin-flectomancer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Wizard",
+  "text": "Sacrifice Goblin Flectomancer: You may change the targets of target instant or sorcery spell.",
+  "expansion": "Guildpact",
+  "rarity": "Uncommon",
+  "cardNumber": "116",
+  "artist": "Matt Cavotta",
+  "rating": "3.837",
+  "votes": "46"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Shriek Raptor",
+  "image": "./img/shriek-raptor.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bird",
+  "text": "FlyingInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "24",
+  "artist": "Efrem Palacios",
+  "rating": "2.670",
+  "votes": "56"
+}

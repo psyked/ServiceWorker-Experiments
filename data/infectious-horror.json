@@ -1,0 +1,13 @@
+{
+  "title": "Infectious Horror",
+  "image": "./img/infectious-horror.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie Horror",
+  "text": "Whenever Infectious Horror attacks, each opponent loses 2 life.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "115",
+  "artist": "Pete Venters",
+  "rating": "3.667",
+  "votes": "3"
+}

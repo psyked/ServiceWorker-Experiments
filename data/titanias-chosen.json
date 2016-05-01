@@ -1,0 +1,13 @@
+{
+  "title": "Titania's Chosen",
+  "image": "./img/titanias-chosen.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Archer",
+  "text": "Whenever a player casts a green spell, put a +1/+1 counter on Titania's Chosen.",
+  "expansion": "Commander 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "221",
+  "artist": "Mark Zug",
+  "rating": "5",
+  "votes": "0"
+}

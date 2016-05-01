@@ -1,0 +1,13 @@
+{
+  "title": "Etherium Sculptor",
+  "image": "./img/etherium-sculptor.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Vedalken Artificer",
+  "text": "Artifact spells you cast cost  less to cast.",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "44",
+  "artist": "Steven Belledin",
+  "rating": "4.524",
+  "votes": "41"
+}

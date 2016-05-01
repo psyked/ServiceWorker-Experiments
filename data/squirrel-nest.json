@@ -1,0 +1,13 @@
+{
+  "title": "Squirrel Nest",
+  "image": "./img/squirrel-nest.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landEnchanted land has \": Put a 1/1 green Squirrel creature token onto the battlefield.\"",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Uncommon",
+  "cardNumber": "180",
+  "artist": "Daniel Ljunggren",
+  "rating": "4.350",
+  "votes": "10"
+}

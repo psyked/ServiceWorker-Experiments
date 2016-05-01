@@ -1,0 +1,13 @@
+{
+  "title": "Mold Adder",
+  "image": "./img/mold-adder.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Fungus Snake",
+  "text": "Whenever an opponent casts a blue or black spell, you may put a +1/+1 counter on Mold Adder.",
+  "expansion": "Magic 2010",
+  "rarity": "Uncommon",
+  "cardNumber": "194",
+  "artist": "Matt Cavotta",
+  "rating": "3.769",
+  "votes": "52"
+}

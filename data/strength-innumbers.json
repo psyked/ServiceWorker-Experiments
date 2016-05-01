@@ -1,0 +1,13 @@
+{
+  "title": "Strength in Numbers",
+  "image": "./img/strength-innumbers.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Until end of turn, target creature gains trample and gets +X/+X, where X is the number of attacking creatures.",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "224",
+  "artist": "Ron Spencer",
+  "rating": "3.230",
+  "votes": "37"
+}

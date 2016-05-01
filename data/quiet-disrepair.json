@@ -1,0 +1,13 @@
+{
+  "title": "Quiet Disrepair",
+  "image": "./img/quiet-disrepair.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant artifact or enchantmentAt the beginning of your upkeep, choose one —• Destroy enchanted permanent.• You gain 2 life.",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Common",
+  "cardNumber": "75",
+  "artist": "Glen Angus",
+  "rating": "2.750",
+  "votes": "12"
+}

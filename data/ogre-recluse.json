@@ -1,0 +1,13 @@
+{
+  "title": "Ogre Recluse",
+  "image": "./img/ogre-recluse.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Ogre Warrior",
+  "text": "Whenever a player casts a spell, tap Ogre Recluse.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "113",
+  "artist": "Jim Murray",
+  "rating": "1.443",
+  "votes": "35"
+}

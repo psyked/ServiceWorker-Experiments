@@ -1,0 +1,13 @@
+{
+  "title": "Mogg Sentry",
+  "image": "./img/mogg-sentry.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Whenever an opponent casts a spell, Mogg Sentry gets +2/+2 until end of turn.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "204",
+  "artist": "Greg Staples",
+  "rating": "4.138",
+  "votes": "40"
+}

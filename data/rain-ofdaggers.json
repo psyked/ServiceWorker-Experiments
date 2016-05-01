@@ -1,0 +1,13 @@
+{
+  "title": "Rain of Daggers",
+  "image": "./img/rain-ofdaggers.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Destroy all creatures target opponent controls. You lose 2 life for each creature destroyed this way.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "94",
+  "artist": "Melissa A. Benson",
+  "rating": "3.477",
+  "votes": "22"
+}

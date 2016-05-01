@@ -1,0 +1,13 @@
+{
+  "title": "Geistcatcher's Rig",
+  "image": "./img/geistcatchers-rig.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Construct",
+  "text": "When Geistcatcher's Rig enters the battlefield, you may have it deal 4 damage to target creature with flying.",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "223",
+  "artist": "Vincent Proce",
+  "rating": "2.646",
+  "votes": "41"
+}

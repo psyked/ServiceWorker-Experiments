@@ -1,0 +1,13 @@
+{
+  "title": "Primal Plasma",
+  "image": "./img/primal-plasma.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elemental Shapeshifter",
+  "text": "As Primal Plasma enters the battlefield, it becomes your choice of a 3/3 creature, a 2/2 creature with flying, or a 1/6 creature with defender.",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Common",
+  "cardNumber": "23",
+  "artist": "Luca Zontini",
+  "rating": "2.442",
+  "votes": "26"
+}

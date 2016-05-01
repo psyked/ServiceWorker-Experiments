@@ -1,0 +1,13 @@
+{
+  "title": "Epic Proportions",
+  "image": "./img/epic-proportions.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment  — Aura",
+  "text": "FlashEnchant creatureEnchanted creature gets +5/+5 and has trample.",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "209",
+  "artist": "Jesper Ejsing",
+  "rating": "3.686",
+  "votes": "59"
+}

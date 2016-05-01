@@ -1,0 +1,13 @@
+{
+  "title": "Dragon Fodder",
+  "image": "./img/dragon-fodder.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Put two 1/1 red Goblin creature tokens onto the battlefield.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "140",
+  "artist": "Jaime Jones",
+  "rating": "5",
+  "votes": "0"
+}

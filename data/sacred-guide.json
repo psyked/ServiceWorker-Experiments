@@ -1,0 +1,13 @@
+{
+  "title": "Sacred Guide",
+  "image": "./img/sacred-guide.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": ", Sacrifice Sacred Guide: Reveal cards from the top of your library until you reveal a white card. Put that card into your hand and exile all other cards revealed this way.",
+  "expansion": "Tempest",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Zina Saunders",
+  "rating": "3.300",
+  "votes": "30"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Terrus Wurm",
+  "image": "./img/terrus-wurm.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Zombie Wurm",
+  "text": "Scavenge  (, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "80",
+  "artist": "Cliff Childs",
+  "rating": "1.703",
+  "votes": "64"
+}

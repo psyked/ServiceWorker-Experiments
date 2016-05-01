@@ -1,0 +1,13 @@
+{
+  "title": "Aura Barbs",
+  "image": "./img/aura-barbs.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant  — Arcane",
+  "text": "Each enchantment deals 2 damage to its controller, then each Aura attached to a creature deals 2 damage to the creature it's attached to.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "94",
+  "artist": "Aleksi Briclot",
+  "rating": "3.094",
+  "votes": "32"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Terastodon",
+  "image": "./img/terastodon.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Elephant",
+  "text": "When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller puts a 3/3 green Elephant creature token onto the battlefield.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "204",
+  "artist": "Lars Grant-West",
+  "rating": "5",
+  "votes": "0"
+}

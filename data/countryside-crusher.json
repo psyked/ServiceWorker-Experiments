@@ -1,0 +1,13 @@
+{
+  "title": "Countryside Crusher",
+  "image": "./img/countryside-crusher.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Giant Warrior",
+  "text": "At the beginning of your upkeep, reveal the top card of your library. If it's a land card, put it into your graveyard and repeat this process.Whenever a land card is put into your graveyard from anywhere, put a +1/+1 counter on Countryside Crusher.",
+  "expansion": "Modern Masters",
+  "rarity": "Rare",
+  "cardNumber": "108",
+  "artist": "Volkan Baga",
+  "rating": "4.013",
+  "votes": "39"
+}

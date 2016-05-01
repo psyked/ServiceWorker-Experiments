@@ -1,0 +1,13 @@
+{
+  "title": "Rimebound Dead",
+  "image": "./img/rimebound-dead.jpg",
+  "convertedManaCost": "1",
+  "types": "Snow Creature  — Skeleton",
+  "text": ": Regenerate Rimebound Dead. ( can be paid with one mana from a snow permanent.)",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "69",
+  "artist": "Dave Kendall",
+  "rating": "3.942",
+  "votes": "77"
+}

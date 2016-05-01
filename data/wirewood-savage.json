@@ -1,0 +1,13 @@
+{
+  "title": "Wirewood Savage",
+  "image": "./img/wirewood-savage.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf",
+  "text": "Whenever a Beast enters the battlefield, you may draw a card.",
+  "expansion": "Duel Decks Anthology, Garruk vs. Liliana",
+  "rarity": "Common",
+  "cardNumber": "6",
+  "artist": "DiTerlizzi",
+  "rating": "5",
+  "votes": "0"
+}

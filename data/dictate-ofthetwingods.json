@@ -1,0 +1,13 @@
+{
+  "title": "Dictate of the Twin Gods",
+  "image": "./img/dictate-ofthetwingods.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "FlashIf a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Rare",
+  "cardNumber": "93",
+  "artist": "Jaime Jones",
+  "rating": "3.531",
+  "votes": "32"
+}

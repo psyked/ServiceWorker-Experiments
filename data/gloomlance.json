@@ -1,0 +1,13 @@
+{
+  "title": "Gloomlance",
+  "image": "./img/gloomlance.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Destroy target creature. If that creature was green or white, its controller discards a card.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "67",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "2.216",
+  "votes": "44"
+}

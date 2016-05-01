@@ -1,0 +1,13 @@
+{
+  "title": "Spectral Gateguards",
+  "image": "./img/spectral-gateguards.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit Soldier",
+  "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)As long as Spectral Gateguards is paired with another creature, both creatures have vigilance.",
+  "expansion": "Duel Decks: Blessed vs. Cursed",
+  "rarity": "Common",
+  "cardNumber": "19",
+  "artist": "Wayne England",
+  "rating": "5",
+  "votes": "0"
+}

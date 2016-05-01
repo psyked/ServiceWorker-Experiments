@@ -1,0 +1,13 @@
+{
+  "title": "Volcanic Eruption",
+  "image": "./img/volcanic-eruption.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Destroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains put into a graveyard this way.",
+  "expansion": "Fourth Edition",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Douglas Shuler",
+  "rating": "3.290",
+  "votes": "31"
+}

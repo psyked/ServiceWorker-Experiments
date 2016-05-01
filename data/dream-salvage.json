@@ -1,0 +1,13 @@
+{
+  "title": "Dream Salvage",
+  "image": "./img/dream-salvage.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Draw cards equal to the number of cards target opponent discarded this turn.",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "160",
+  "artist": "Howard Lyon",
+  "rating": "3.683",
+  "votes": "52"
+}

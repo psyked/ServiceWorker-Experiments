@@ -1,0 +1,13 @@
+{
+  "title": "Asphodel Wanderer",
+  "image": "./img/asphodel-wanderer.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Skeleton Soldier",
+  "text": ": Regenerate Asphodel Wanderer.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "77",
+  "artist": "Scott Chou",
+  "rating": "2.239",
+  "votes": "44"
+}

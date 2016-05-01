@@ -1,0 +1,13 @@
+{
+  "title": "Sepulchral Primordial",
+  "image": "./img/sepulchral-primordial.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Avatar",
+  "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)When Sepulchral Primordial enters the battlefield, for each opponent, you may put up to one target creature card from that player's graveyard onto the battlefield under your control.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "75",
+  "artist": "Stephan Martiniere",
+  "rating": "3.493",
+  "votes": "71"
+}

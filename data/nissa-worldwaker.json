@@ -1,0 +1,13 @@
+{
+  "title": "Nissa, Worldwaker",
+  "image": "./img/nissa-worldwaker.jpg",
+  "convertedManaCost": "5",
+  "types": "Planeswalker  — Nissa",
+  "text": "+1: Target land you control becomes a 4/4 Elemental creature with trample. It's still a land.+1: Untap up to four target Forests.−7: Search your library for any number of basic land cards, put them onto the battlefield, then shuffle your library. Those lands become 4/4 Elemental creatures with trample. They're still lands.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Mythic Rare",
+  "cardNumber": "187",
+  "artist": "Peter Mohrbacher",
+  "rating": "4.150",
+  "votes": "10"
+}

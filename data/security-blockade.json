@@ -1,0 +1,13 @@
+{
+  "title": "Security Blockade",
+  "image": "./img/security-blockade.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landWhen Security Blockade enters the battlefield, put a 2/2 white Knight creature token with vigilance onto the battlefield.Enchanted land has \": Prevent the next 1 damage that would be dealt to you this turn.\"",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "20",
+  "artist": "James Ryman",
+  "rating": "2.721",
+  "votes": "43"
+}

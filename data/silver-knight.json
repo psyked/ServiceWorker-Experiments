@@ -1,0 +1,13 @@
+{
+  "title": "Silver Knight",
+  "image": "./img/silver-knight.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Knight",
+  "text": "First strike, protection from red",
+  "expansion": "Duel Decks: Knights vs. Dragons",
+  "rarity": "Uncommon",
+  "cardNumber": "8",
+  "artist": "Steve Prescott",
+  "rating": "4.288",
+  "votes": "52"
+}

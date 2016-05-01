@@ -1,0 +1,13 @@
+{
+  "title": "Shadowborn Apostle",
+  "image": "./img/shadowborn-apostle.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": "A deck can have any number of cards named Shadowborn Apostle., Sacrifice six creatures named Shadowborn Apostle: Search your library for a Demon creature card and put it onto the battlefield. Then shuffle your library.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "114",
+  "artist": "Lucas Graciano",
+  "rating": "3.598",
+  "votes": "56"
+}

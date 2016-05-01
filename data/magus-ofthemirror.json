@@ -1,0 +1,13 @@
+{
+  "title": "Magus of the Mirror",
+  "image": "./img/magus-ofthemirror.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Human Wizard",
+  "text": ", Sacrifice Magus of the Mirror: Exchange life totals with target opponent. Activate this ability only during your upkeep.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Rare",
+  "cardNumber": "117",
+  "artist": "Christopher Moeller",
+  "rating": "3.375",
+  "votes": "8"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Vine Snare",
+  "image": "./img/vine-snare.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Prevent all combat damage that would be dealt this turn by creatures with power 4 or less.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "205",
+  "artist": "Igor Kieryluk",
+  "rating": "5",
+  "votes": "0"
+}

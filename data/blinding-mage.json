@@ -1,0 +1,13 @@
+{
+  "title": "Blinding Mage",
+  "image": "./img/blinding-mage.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": ", : Tap target creature.",
+  "expansion": "Magic 2011",
+  "rarity": "Common",
+  "cardNumber": "8",
+  "artist": "Eric Deschamps",
+  "rating": "3.260",
+  "votes": "96"
+}

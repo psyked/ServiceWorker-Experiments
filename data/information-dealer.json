@@ -1,0 +1,13 @@
+{
+  "title": "Information Dealer",
+  "image": "./img/information-dealer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": ": Look at the top X cards of your library, where X is the number of Wizards on the battlefield, then put them back in any order.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "88",
+  "artist": "Jerry Tiritilli",
+  "rating": "3.862",
+  "votes": "29"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Thunder Wall",
+  "image": "./img/thunder-wall.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)Flying: Thunder Wall gets +1/+1 until end of turn.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "71",
+  "artist": "Richard Thomas",
+  "rating": "2.938",
+  "votes": "24"
+}

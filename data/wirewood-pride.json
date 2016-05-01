@@ -1,0 +1,13 @@
+{
+  "title": "Wirewood Pride",
+  "image": "./img/wirewood-pride.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "303",
+  "artist": "Dave Dorman",
+  "rating": "3.411",
+  "votes": "28"
+}

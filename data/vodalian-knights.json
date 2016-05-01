@@ -1,0 +1,13 @@
+{
+  "title": "Vodalian Knights",
+  "image": "./img/vodalian-knights.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Merfolk Knight",
+  "text": "First strikeVodalian Knights can't attack unless defending player controls an Island.When you control no Islands, sacrifice Vodalian Knights.: Vodalian Knights gains flying until end of turn.",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "55",
+  "artist": "Susan Van Camp",
+  "rating": "2.735",
+  "votes": "34"
+}

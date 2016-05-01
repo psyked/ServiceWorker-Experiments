@@ -1,0 +1,13 @@
+{
+  "title": "Veiled Apparition",
+  "image": "./img/veiled-apparition.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "When an opponent casts a spell, if Veiled Apparition is an enchantment, Veiled Apparition becomes a 3/3 Illusion creature with flying and \"At the beginning of your upkeep, sacrifice Veiled Apparition unless you pay .\"",
+  "expansion": "Urza's Saga",
+  "rarity": "Uncommon",
+  "cardNumber": "107",
+  "artist": "Andrew Robinson",
+  "rating": "2.516",
+  "votes": "31"
+}

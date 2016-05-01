@@ -1,0 +1,13 @@
+{
+  "title": "Volition Reins",
+  "image": "./img/volition-reins.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant permanentWhen Volition Reins enters the battlefield, if enchanted permanent is tapped, untap it.You control enchanted permanent.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "53",
+  "artist": "Svetlin Velinov",
+  "rating": "3.725",
+  "votes": "91"
+}

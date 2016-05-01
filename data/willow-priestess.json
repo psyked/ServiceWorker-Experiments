@@ -1,0 +1,13 @@
+{
+  "title": "Willow Priestess",
+  "image": "./img/willow-priestess.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Faerie Druid",
+  "text": ": You may put a Faerie permanent card from your hand onto the battlefield.: Target green creature gains protection from black until end of turn.",
+  "expansion": "Masters Edition III",
+  "rarity": "Uncommon",
+  "cardNumber": "138",
+  "artist": "Susan Van Camp",
+  "rating": "3.419",
+  "votes": "43"
+}

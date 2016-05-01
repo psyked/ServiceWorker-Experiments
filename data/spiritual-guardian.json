@@ -1,0 +1,13 @@
+{
+  "title": "Spiritual Guardian",
+  "image": "./img/spiritual-guardian.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit",
+  "text": "When Spiritual Guardian enters the battlefield, you gain 4 life.",
+  "expansion": "Portal",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Terese Nielsen",
+  "rating": "2.824",
+  "votes": "17"
+}

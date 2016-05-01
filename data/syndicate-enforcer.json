@@ -1,0 +1,13 @@
+{
+  "title": "Syndicate Enforcer",
+  "image": "./img/syndicate-enforcer.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Rogue",
+  "text": "Extort (Whenever you cast a spell, you may pay . If you do, each opponent loses 1 life and you gain that much life.)",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "80",
+  "artist": "Steven Belledin",
+  "rating": "2.443",
+  "votes": "44"
+}

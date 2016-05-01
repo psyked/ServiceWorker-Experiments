@@ -1,0 +1,13 @@
+{
+  "title": "Flameblade Angel",
+  "image": "./img/flameblade-angel.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Angel",
+  "text": "FlyingWhenever a source an opponent controls deals damage to you or a permanent you control, you may have Flameblade Angel deal 1 damage to that source's controller.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "157",
+  "artist": "Cynthia Sheppard",
+  "rating": "5",
+  "votes": "0"
+}

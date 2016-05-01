@@ -1,0 +1,13 @@
+{
+  "title": "Sydri, Galvanic Genius",
+  "image": "./img/sydri-galvanicgenius.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Creature  — Human Artificer",
+  "text": ": Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.: Target artifact creature gains deathtouch and lifelink until end of turn.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Mythic Rare",
+  "cardNumber": "220",
+  "artist": "Terese Nielsen",
+  "rating": "3.830",
+  "votes": "50"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Scuttlemutt",
+  "image": "./img/scuttlemutt.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Scarecrow",
+  "text": ": Add one mana of any color to your mana pool.: Target creature becomes the color or colors of your choice until end of turn.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "263",
+  "artist": "Jeremy Jarvis",
+  "rating": "3.897",
+  "votes": "58"
+}

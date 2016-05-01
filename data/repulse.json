@@ -1,0 +1,13 @@
+{
+  "title": "Repulse",
+  "image": "./img/repulse.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Return target creature to its owner's hand.Draw a card.",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Common",
+  "cardNumber": "25",
+  "artist": "Aaron Boyd",
+  "rating": "5",
+  "votes": "0"
+}

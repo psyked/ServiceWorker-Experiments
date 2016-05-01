@@ -1,0 +1,13 @@
+{
+  "title": "Lashknife",
+  "image": "./img/lashknife.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "If you control a Plains, you may tap an untapped creature you control rather than pay Lashknife's mana cost.Enchant creatureEnchanted creature has first strike.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "9",
+  "artist": "Hannibal King",
+  "rating": "2.185",
+  "votes": "27"
+}

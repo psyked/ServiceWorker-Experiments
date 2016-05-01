@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Blossoms",
+  "image": "./img/wall-ofblossoms.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Plant Wall",
+  "text": "DefenderWhen Wall of Blossoms enters the battlefield, draw a card.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "211",
+  "artist": "Heather Hudson",
+  "rating": "5",
+  "votes": "0"
+}

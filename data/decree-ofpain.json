@@ -1,0 +1,13 @@
+{
+  "title": "Decree of Pain",
+  "image": "./img/decree-ofpain.jpg",
+  "convertedManaCost": "8",
+  "types": "Sorcery",
+  "text": "Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.Cycling  (, Discard this card: Draw a card.)When you cycle Decree of Pain, all creatures get -2/-2 until end of turn.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "72",
+  "artist": "Mathias Kollros",
+  "rating": "3.932",
+  "votes": "37"
+}

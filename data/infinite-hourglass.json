@@ -1,0 +1,13 @@
+{
+  "title": "Infinite Hourglass",
+  "image": "./img/infinite-hourglass.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, put a time counter on Infinite Hourglass.All creatures get +1/+0 for each time counter on Infinite Hourglass.: Remove a time counter from Infinite Hourglass. Any player may activate this ability but only during any upkeep step.",
+  "expansion": "Fifth Edition",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Adam Rex",
+  "rating": "3.040",
+  "votes": "25"
+}

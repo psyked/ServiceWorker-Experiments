@@ -1,0 +1,13 @@
+{
+  "title": "Curse of Shallow Graves",
+  "image": "./img/curse-ofshallowgraves.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura Curse",
+  "text": "Enchant playerWhenever a player attacks enchanted player with one or more creatures, that attacking player may put a 2/2 black Zombie creature token onto the battlefield tapped.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "71",
+  "artist": "Karla Ortiz",
+  "rating": "3.638",
+  "votes": "29"
+}

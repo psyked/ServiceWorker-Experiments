@@ -1,0 +1,13 @@
+{
+  "title": "Undead Leotau",
+  "image": "./img/undead-leotau.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Zombie Cat",
+  "text": ": Undead Leotau gets +1/-1 until end of turn.Unearth  (: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "90",
+  "artist": "Carl Critchlow",
+  "rating": "1.550",
+  "votes": "90"
+}

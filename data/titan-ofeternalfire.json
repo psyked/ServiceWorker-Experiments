@@ -1,0 +1,13 @@
+{
+  "title": "Titan of Eternal Fire",
+  "image": "./img/titan-ofeternalfire.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant",
+  "text": "Each Human creature you control has \", : This creature deals 1 damage to target creature or player.\"",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "144",
+  "artist": "Aleksi Briclot",
+  "rating": "3.388",
+  "votes": "40"
+}

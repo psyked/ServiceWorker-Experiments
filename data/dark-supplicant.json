@@ -1,0 +1,13 @@
+{
+  "title": "Dark Supplicant",
+  "image": "./img/dark-supplicant.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": ", Sacrifice three Clerics: Search your graveyard, hand, and/or library for a card named Scion of Darkness and put it onto the battlefield. If you search your library this way, shuffle it.",
+  "expansion": "Legions",
+  "rarity": "Uncommon",
+  "cardNumber": "64",
+  "artist": "Mark Zug",
+  "rating": "3.375",
+  "votes": "32"
+}

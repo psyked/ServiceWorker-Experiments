@@ -1,0 +1,13 @@
+{
+  "title": "Essence Flare",
+  "image": "./img/essence-flare.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+0.At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "48",
+  "artist": "Richard Kane Ferguson",
+  "rating": "2.613",
+  "votes": "31"
+}

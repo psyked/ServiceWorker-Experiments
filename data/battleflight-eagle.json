@@ -1,0 +1,13 @@
+{
+  "title": "Battleflight Eagle",
+  "image": "./img/battleflight-eagle.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bird",
+  "text": "FlyingWhen Battleflight Eagle enters the battlefield, target creature gets +2/+2 and gains flying until end of turn.",
+  "expansion": "Magic 2013",
+  "rarity": "Common",
+  "cardNumber": "7",
+  "artist": "Kev Walker",
+  "rating": "1.784",
+  "votes": "51"
+}

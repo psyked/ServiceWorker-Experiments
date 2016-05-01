@@ -1,0 +1,13 @@
+{
+  "title": "Holy Day",
+  "image": "./img/holy-day.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Prevent all combat damage that would be dealt this turn.",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "21",
+  "artist": "Volkan Baga",
+  "rating": "4.133",
+  "votes": "75"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Zurgo Bellstriker",
+  "image": "./img/zurgo-bellstriker.jpg",
+  "convertedManaCost": "1",
+  "types": "Legendary Creature  — Orc Warrior",
+  "text": "Zurgo Bellstriker can't block creatures with power 2 or greater.Dash  (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "169",
+  "artist": "Jason Rainville",
+  "rating": "5",
+  "votes": "0"
+}

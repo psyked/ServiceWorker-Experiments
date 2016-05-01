@@ -1,0 +1,13 @@
+{
+  "title": "Mistform Mask",
+  "image": "./img/mistform-mask.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature: Enchanted creature becomes the creature type of your choice until end of turn.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "94",
+  "artist": "Monte Michael Moore",
+  "rating": "1.900",
+  "votes": "30"
+}

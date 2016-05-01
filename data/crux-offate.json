@@ -1,0 +1,13 @@
+{
+  "title": "Crux of Fate",
+  "image": "./img/crux-offate.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Choose one —• Destroy all Dragon creatures.• Destroy all non-Dragon creatures.",
+  "expansion": "Fate Reforged",
+  "rarity": "Rare",
+  "cardNumber": "65",
+  "artist": "Michael Komarck",
+  "rating": "5",
+  "votes": "0"
+}

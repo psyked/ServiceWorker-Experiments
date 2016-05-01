@@ -1,0 +1,13 @@
+{
+  "title": "Rising Miasma",
+  "image": "./img/rising-miasma.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "All creatures get -2/-2 until end of turn.Awaken 3— (If you cast this spell for , also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "122",
+  "artist": "Deruchenko Alexander",
+  "rating": "5",
+  "votes": "0"
+}

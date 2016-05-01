@@ -1,0 +1,13 @@
+{
+  "title": "Mogg Bombers",
+  "image": "./img/mogg-bombers.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Goblin",
+  "text": "When another creature enters the battlefield, sacrifice Mogg Bombers and it deals 3 damage to target player.",
+  "expansion": "Stronghold",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Dermot Power",
+  "rating": "2.667",
+  "votes": "33"
+}

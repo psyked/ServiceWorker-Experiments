@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Gaveleer",
+  "image": "./img/goblin-gaveleer.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Warrior",
+  "text": "TrampleGoblin Gaveleer gets +2/+0 for each Equipment attached to it.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "92",
+  "artist": "Svetlin Velinov",
+  "rating": "3.852",
+  "votes": "88"
+}

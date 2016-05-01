@@ -1,0 +1,13 @@
+{
+  "title": "Fieldmist Borderpost",
+  "image": "./img/fieldmist-borderpost.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "You may pay  and return a basic land you control to its owner's hand rather than pay Fieldmist Borderpost's mana cost.Fieldmist Borderpost enters the battlefield tapped.: Add  or  to your mana pool.",
+  "expansion": "Archenemy",
+  "rarity": "Common",
+  "cardNumber": "85",
+  "artist": "Michael Bruinsma",
+  "rating": "2.841",
+  "votes": "41"
+}

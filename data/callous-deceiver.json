@@ -1,0 +1,13 @@
+{
+  "title": "Callous Deceiver",
+  "image": "./img/callous-deceiver.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": ": Look at the top card of your library.: Reveal the top card of your library. If it's a land card, Callous Deceiver gets +1/+0 and gains flying until end of turn. Activate this ability only once each turn.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "53",
+  "artist": "Kensuke Okabayashi",
+  "rating": "1.265",
+  "votes": "34"
+}

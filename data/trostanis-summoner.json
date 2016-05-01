@@ -1,0 +1,13 @@
+{
+  "title": "Trostani's Summoner",
+  "image": "./img/trostanis-summoner.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Elf Shaman",
+  "text": "When Trostani's Summoner enters the battlefield, put a 2/2 white Knight creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green Rhino creature token with trample onto the battlefield.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Uncommon",
+  "cardNumber": "110",
+  "artist": "Howard Lyon",
+  "rating": "3.797",
+  "votes": "79"
+}

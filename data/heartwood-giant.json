@@ -1,0 +1,13 @@
+{
+  "title": "Heartwood Giant",
+  "image": "./img/heartwood-giant.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Giant",
+  "text": ", Sacrifice a Forest: Heartwood Giant deals 2 damage to target player.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Rare",
+  "cardNumber": "174",
+  "artist": "Randy Elliott",
+  "rating": "5",
+  "votes": "0"
+}

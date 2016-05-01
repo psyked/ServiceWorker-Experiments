@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Resistance",
+  "image": "./img/wall-ofresistance.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)FlyingAt the beginning of each end step, if Wall of Resistance was dealt damage this turn, put a +0/+1 counter on it.",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Harold McNeill",
+  "rating": "3.366",
+  "votes": "41"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Hammerhead Shark",
+  "image": "./img/hammerhead-shark.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Fish",
+  "text": "Hammerhead Shark can't attack unless defending player controls an Island.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "52",
+  "artist": "Stephen Daniele",
+  "rating": "5",
+  "votes": "0"
+}

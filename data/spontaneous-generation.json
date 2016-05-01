@@ -1,0 +1,13 @@
+{
+  "title": "Spontaneous Generation",
+  "image": "./img/spontaneous-generation.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Put a 1/1 green Saproling creature token onto the battlefield for each card in your hand.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "274",
+  "artist": "Alan Pollack",
+  "rating": "3.875",
+  "votes": "20"
+}

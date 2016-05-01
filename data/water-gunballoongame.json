@@ -1,0 +1,13 @@
+{
+  "title": "Water Gun Balloon Game",
+  "image": "./img/water-gunballoongame.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "As Water Gun Balloon Game comes into play, each player puts a pop counter on a 0.Whenever a player plays a spell, move that player's pop counter up 1.Whenever a player's pop counter hits 5, that player puts a 5/5 pink Giant Teddy Bear creature token into play and resets all pop counters to 0.",
+  "expansion": "Unhinged",
+  "rarity": "Rare",
+  "cardNumber": "132",
+  "artist": "Mark Brill",
+  "rating": "4.229",
+  "votes": "48"
+}

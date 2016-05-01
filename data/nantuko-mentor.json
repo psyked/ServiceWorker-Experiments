@@ -1,0 +1,13 @@
+{
+  "title": "Nantuko Mentor",
+  "image": "./img/nantuko-mentor.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Insect Druid",
+  "text": ", : Target creature gets +X/+X until end of turn, where X is that creature's power.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "255",
+  "artist": "John Matson",
+  "rating": "3.371",
+  "votes": "35"
+}

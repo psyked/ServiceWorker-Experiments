@@ -1,0 +1,13 @@
+{
+  "title": "Elite Inquisitor",
+  "image": "./img/elite-inquisitor.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier",
+  "text": "First strike, vigilanceProtection from Vampires, from Werewolves, and from Zombies",
+  "expansion": "Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "13",
+  "artist": "Jana Schirmer & Johannes Voss",
+  "rating": "3.905",
+  "votes": "179"
+}

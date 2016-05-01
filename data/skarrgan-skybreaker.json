@@ -1,0 +1,13 @@
+{
+  "title": "Skarrgan Skybreaker",
+  "image": "./img/skarrgan-skybreaker.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Giant Shaman",
+  "text": "Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.), Sacrifice Skarrgan Skybreaker: Skarrgan Skybreaker deals damage equal to its power to target creature or player.",
+  "expansion": "Duel Decks: Heroes vs. Monsters",
+  "rarity": "Uncommon",
+  "cardNumber": "60",
+  "artist": "Dan Scott",
+  "rating": "3.033",
+  "votes": "15"
+}

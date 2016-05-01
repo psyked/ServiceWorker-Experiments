@@ -1,0 +1,13 @@
+{
+  "title": "Kozilek, Butcher of Truth",
+  "image": "./img/kozilek-butcheroftruth.jpg",
+  "convertedManaCost": "10",
+  "types": "Legendary Creature  — Eldrazi",
+  "text": "When you cast Kozilek, Butcher of Truth, draw four cards.Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)When Kozilek is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Mythic Rare",
+  "cardNumber": "5",
+  "artist": "Michael Komarck",
+  "rating": "5",
+  "votes": "0"
+}

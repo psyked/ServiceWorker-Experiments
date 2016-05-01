@@ -1,0 +1,13 @@
+{
+  "title": "Bog Imp",
+  "image": "./img/bog-imp.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Imp",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+  "expansion": "Ninth Edition",
+  "rarity": "Common",
+  "cardNumber": "116",
+  "artist": "Carl Critchlow",
+  "rating": "2.060",
+  "votes": "42"
+}

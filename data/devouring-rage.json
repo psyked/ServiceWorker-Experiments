@@ -1,0 +1,13 @@
+{
+  "title": "Devouring Rage",
+  "image": "./img/devouring-rage.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant  — Arcane",
+  "text": "As an additional cost to cast Devouring Rage, you may sacrifice any number of Spirits.Target creature gets +3/+0 until end of turn. For each Spirit sacrificed this way, that creature gets an additional +3/+0 until end of turn.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "164",
+  "artist": "Vance Kovacs",
+  "rating": "1.871",
+  "votes": "31"
+}

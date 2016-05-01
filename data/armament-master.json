@@ -1,0 +1,13 @@
+{
+  "title": "Armament Master",
+  "image": "./img/armament-master.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kor Soldier",
+  "text": "Other Kor creatures you control get +2/+2 for each Equipment attached to Armament Master.",
+  "expansion": "Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "1",
+  "artist": "Steven Belledin",
+  "rating": "3.898",
+  "votes": "118"
+}

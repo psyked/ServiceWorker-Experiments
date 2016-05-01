@@ -1,0 +1,13 @@
+{
+  "title": "Ranger of Eos",
+  "image": "./img/ranger-ofeos.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Soldier",
+  "text": "When Ranger of Eos enters the battlefield, you may search your library for up to two creature cards with converted mana cost 1 or less, reveal them, and put them into your hand. If you do, shuffle your library.",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "21",
+  "artist": "Volkan Baga",
+  "rating": "4.081",
+  "votes": "166"
+}

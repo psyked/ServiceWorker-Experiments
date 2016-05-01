@@ -1,0 +1,13 @@
+{
+  "title": "Oracle of Mul Daya",
+  "image": "./img/oracle-ofmuldaya.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elf Shaman",
+  "text": "You may play an additional land on each of your turns.Play with the top card of your library revealed.You may play the top card of your library if it's a land card.",
+  "expansion": "Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "172",
+  "artist": "Vance Kovacs",
+  "rating": "4.052",
+  "votes": "165"
+}

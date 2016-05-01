@@ -1,0 +1,13 @@
+{
+  "title": "Indentured Djinn",
+  "image": "./img/indentured-djinn.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Djinn",
+  "text": "FlyingWhen Indentured Djinn enters the battlefield, each other player may draw up to three cards.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "85",
+  "artist": "Val Mayerik",
+  "rating": "2.903",
+  "votes": "36"
+}

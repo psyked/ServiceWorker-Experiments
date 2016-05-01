@@ -1,0 +1,13 @@
+{
+  "title": "Venarian Glimmer",
+  "image": "./img/venarian-glimmer.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target player reveals his or her hand. You choose a nonland card with converted mana cost X or less from it. That player discards that card.",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "52",
+  "artist": "John Avon",
+  "rating": "2.843",
+  "votes": "35"
+}

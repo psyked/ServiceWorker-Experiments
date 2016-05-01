@@ -1,0 +1,13 @@
+{
+  "title": "Heavy Infantry",
+  "image": "./img/heavy-infantry.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Soldier",
+  "text": "When Heavy Infantry enters the battlefield, tap target creature an opponent controls.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "18",
+  "artist": "David Gaillet",
+  "rating": "5",
+  "votes": "0"
+}

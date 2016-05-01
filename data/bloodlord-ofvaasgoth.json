@@ -1,0 +1,13 @@
+{
+  "title": "Bloodlord of Vaasgoth",
+  "image": "./img/bloodlord-ofvaasgoth.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Vampire Warrior",
+  "text": "Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)FlyingWhenever you cast a Vampire creature spell, it gains bloodthirst 3.",
+  "expansion": "Magic 2012",
+  "rarity": "Mythic Rare",
+  "cardNumber": "82",
+  "artist": "Greg Staples",
+  "rating": "3.950",
+  "votes": "130"
+}

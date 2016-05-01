@@ -1,0 +1,13 @@
+{
+  "title": "Think Tank",
+  "image": "./img/think-tank.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, look at the top card of your library. You may put that card into your graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "104",
+  "artist": "Jim Nelson",
+  "rating": "3.833",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sphere of the Suns",
+  "image": "./img/sphere-ofthesuns.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Sphere of the Suns enters the battlefield tapped and with three charge counters on it., Remove a charge counter from Sphere of the Suns: Add one mana of any color to your mana pool.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "231",
+  "artist": "Jana Schirmer & Johannes Voss",
+  "rating": "5",
+  "votes": "0"
+}

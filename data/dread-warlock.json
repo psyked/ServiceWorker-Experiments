@@ -1,0 +1,13 @@
+{
+  "title": "Dread Warlock",
+  "image": "./img/dread-warlock.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "Dread Warlock can't be blocked except by black creatures.",
+  "expansion": "Magic 2010",
+  "rarity": "Common",
+  "cardNumber": "94",
+  "artist": "Daarken",
+  "rating": "3.609",
+  "votes": "64"
+}

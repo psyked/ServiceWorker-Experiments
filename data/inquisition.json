@@ -1,0 +1,13 @@
+{
+  "title": "Inquisition",
+  "image": "./img/inquisition.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target player reveals his or her hand. Inquisition deals damage to that player equal to the number of white cards in his or her hand.",
+  "expansion": "The Dark",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Anson Maddocks",
+  "rating": "2.603",
+  "votes": "34"
+}

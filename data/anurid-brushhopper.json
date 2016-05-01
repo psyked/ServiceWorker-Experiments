@@ -1,0 +1,13 @@
+{
+  "title": "Anurid Brushhopper",
+  "image": "./img/anurid-brushhopper.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Frog Beast",
+  "text": "Discard two cards: Exile Anurid Brushhopper. Return it to the battlefield under its owner's control at the beginning of the next end step.",
+  "expansion": "Judgment",
+  "rarity": "Rare",
+  "cardNumber": "137",
+  "artist": "Arnie Swekel",
+  "rating": "4.122",
+  "votes": "45"
+}

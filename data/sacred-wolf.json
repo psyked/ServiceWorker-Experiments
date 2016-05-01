@@ -1,0 +1,13 @@
+{
+  "title": "Sacred Wolf",
+  "image": "./img/sacred-wolf.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wolf",
+  "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+  "expansion": "Magic 2012",
+  "rarity": "Common",
+  "cardNumber": "194",
+  "artist": "Matt Stewart",
+  "rating": "3.718",
+  "votes": "55"
+}

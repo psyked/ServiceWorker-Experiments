@@ -1,0 +1,13 @@
+{
+  "title": "Chief Engineer",
+  "image": "./img/chief-engineer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Vedalken Artificer",
+  "text": "Artifact spells you cast have convoke. (Your creatures can help cast those spells. Each creature you tap while casting an artifact spell pays for  or one mana of that creature's color.)",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "47",
+  "artist": "Steven Belledin",
+  "rating": "3.562",
+  "votes": "8"
+}

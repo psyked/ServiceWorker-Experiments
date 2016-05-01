@@ -1,0 +1,13 @@
+{
+  "title": "Brass Man",
+  "image": "./img/brass-man.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact Creature  — Construct",
+  "text": "Brass Man doesn't untap during your untap step.At the beginning of your upkeep, you may pay . If you do, untap Brass Man.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "185",
+  "artist": "Christopher Rush",
+  "rating": "3.423",
+  "votes": "39"
+}

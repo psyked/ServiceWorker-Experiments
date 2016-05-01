@@ -1,0 +1,13 @@
+{
+  "title": "Skred",
+  "image": "./img/skred.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Skred deals damage to target creature equal to the number of snow permanents you control.",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "97",
+  "artist": "Christopher Moeller",
+  "rating": "4.072",
+  "votes": "69"
+}

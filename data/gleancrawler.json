@@ -1,0 +1,13 @@
+{
+  "title": "Gleancrawler",
+  "image": "./img/gleancrawler.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Insect Horror",
+  "text": "( can be paid with either  or .)TrampleAt the beginning of your end step, return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Rare",
+  "cardNumber": "64",
+  "artist": "Jeremy Jarvis",
+  "rating": "3.797",
+  "votes": "32"
+}

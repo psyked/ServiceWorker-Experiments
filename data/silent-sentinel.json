@@ -1,0 +1,13 @@
+{
+  "title": "Silent Sentinel",
+  "image": "./img/silent-sentinel.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Archon",
+  "text": "FlyingWhenever Silent Sentinel attacks, you may return target enchantment card from your graveyard to the battlefield.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "81",
+  "artist": "Slawomir Maniak",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "People of the Woods",
+  "image": "./img/people-ofthewoods.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human",
+  "text": "People of the Woods's toughness is equal to the number of Forests you control.",
+  "expansion": "The Dark",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Drew Tucker",
+  "rating": "3.311",
+  "votes": "45"
+}

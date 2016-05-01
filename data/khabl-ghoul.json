@@ -1,0 +1,13 @@
+{
+  "title": "Khabál Ghoul",
+  "image": "./img/khabl-ghoul.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": "At the beginning of each end step, put a +1/+1 counter on Khabál Ghoul for each creature that died this turn.",
+  "expansion": "Masters Edition",
+  "rarity": "Rare",
+  "cardNumber": "75",
+  "artist": "Douglas Shuler",
+  "rating": "3.779",
+  "votes": "34"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mercurial Pretender",
+  "image": "./img/mercurial-pretender.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Shapeshifter",
+  "text": "You may have Mercurial Pretender enter the battlefield as a copy of any creature you control except it gains \": Return this creature to its owner's hand.\"",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "68",
+  "artist": "Izzy",
+  "rating": "2.583",
+  "votes": "6"
+}

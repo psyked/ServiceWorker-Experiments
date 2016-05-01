@@ -1,0 +1,13 @@
+{
+  "title": "Seer's Lantern",
+  "image": "./img/seers-lantern.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  to your mana pool. ( represents colorless mana.), : Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "165",
+  "artist": "Jung Park",
+  "rating": "5",
+  "votes": "0"
+}

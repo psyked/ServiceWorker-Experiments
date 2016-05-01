@@ -1,0 +1,13 @@
+{
+  "title": "Safehold Elite",
+  "image": "./img/safehold-elite.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Scout",
+  "text": "Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "239",
+  "artist": "Richard Whitters",
+  "rating": "3.831",
+  "votes": "59"
+}

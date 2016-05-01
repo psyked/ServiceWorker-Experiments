@@ -1,0 +1,13 @@
+{
+  "title": "Surgical Extraction",
+  "image": "./img/surgical-extraction.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "( can be paid with either  or 2 life.)Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles his or her library.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Rare",
+  "cardNumber": "99",
+  "artist": "Steven Belledin",
+  "rating": "5",
+  "votes": "0"
+}

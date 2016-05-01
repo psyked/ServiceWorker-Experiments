@@ -1,0 +1,13 @@
+{
+  "title": "Tenacious Dead",
+  "image": "./img/tenacious-dead.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Skeleton Warrior",
+  "text": "When Tenacious Dead dies, you may pay . If you do, return it to the battlefield tapped under its owner's control.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "118",
+  "artist": "John Stanko",
+  "rating": "3.578",
+  "votes": "51"
+}

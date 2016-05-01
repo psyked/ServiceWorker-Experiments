@@ -1,0 +1,13 @@
+{
+  "title": "Triumph of Ferocity",
+  "image": "./img/triumph-offerocity.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, draw a card if you control the creature with the greatest power or tied for the greatest power.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Uncommon",
+  "cardNumber": "198",
+  "artist": "James Ryman",
+  "rating": "3.676",
+  "votes": "71"
+}

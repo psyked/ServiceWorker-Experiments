@@ -1,0 +1,13 @@
+{
+  "title": "Ana Battlemage",
+  "image": "./img/ana-battlemage.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "Kicker  and/or  (You may pay an additional  and/or  as you cast this spell.)When Ana Battlemage enters the battlefield, if it was kicked with its  kicker, target player discards three cards.When Ana Battlemage enters the battlefield, if it was kicked with its  kicker, tap target untapped creature and that creature deals damage equal to its power to its controller.",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "124",
+  "artist": "Jim Nelson",
+  "rating": "3.693",
+  "votes": "57"
+}

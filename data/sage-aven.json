@@ -1,0 +1,13 @@
+{
+  "title": "Sage Aven",
+  "image": "./img/sage-aven.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Bird Wizard",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)When Sage Aven enters the battlefield, look at the top four cards of your library, then put them back in any order.",
+  "expansion": "Ninth Edition",
+  "rarity": "Common",
+  "cardNumber": "95",
+  "artist": "Randy Gallegos",
+  "rating": "1.827",
+  "votes": "26"
+}

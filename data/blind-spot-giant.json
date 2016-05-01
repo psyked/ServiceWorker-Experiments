@@ -1,0 +1,13 @@
+{
+  "title": "Blind-Spot Giant",
+  "image": "./img/blind-spot-giant.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Giant Warrior",
+  "text": "Blind-Spot Giant can't attack or block unless you control another Giant.",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "105",
+  "artist": "Jim Murray",
+  "rating": "3.031",
+  "votes": "16"
+}

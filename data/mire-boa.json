@@ -1,0 +1,13 @@
+{
+  "title": "Mire Boa",
+  "image": "./img/mire-boa.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Snake",
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.): Regenerate Mire Boa.",
+  "expansion": "Planar Chaos",
+  "rarity": "Common",
+  "cardNumber": "135",
+  "artist": "Greg Hildebrandt",
+  "rating": "4.214",
+  "votes": "98"
+}

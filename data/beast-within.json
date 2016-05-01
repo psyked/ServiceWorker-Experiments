@@ -1,0 +1,13 @@
+{
+  "title": "Beast Within",
+  "image": "./img/beast-within.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Destroy target permanent. Its controller puts a 3/3 green Beast creature token onto the battlefield.",
+  "expansion": "Duel Decks: Heroes vs. Monsters",
+  "rarity": "Uncommon",
+  "cardNumber": "69",
+  "artist": "Jesper Ejsing",
+  "rating": "4.561",
+  "votes": "49"
+}

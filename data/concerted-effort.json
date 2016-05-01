@@ -1,0 +1,13 @@
+{
+  "title": "Concerted Effort",
+  "image": "./img/concerted-effort.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of each upkeep, creatures you control gain flying until end of turn if a creature you control has flying. The same is true for fear, first strike, double strike, landwalk, protection, trample, and vigilance.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "8",
+  "artist": "Michael Sutfin",
+  "rating": "3.929",
+  "votes": "77"
+}

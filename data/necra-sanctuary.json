@@ -1,0 +1,13 @@
+{
+  "title": "Necra Sanctuary",
+  "image": "./img/necra-sanctuary.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, if you control a green or white permanent, target player loses 1 life. If you control a green permanent and a white permanent, that player loses 3 life instead.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "45",
+  "artist": "Eric Peterson",
+  "rating": "3.474",
+  "votes": "39"
+}

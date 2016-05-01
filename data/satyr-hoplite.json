@@ -1,0 +1,13 @@
+{
+  "title": "Satyr Hoplite",
+  "image": "./img/satyr-hoplite.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Satyr Soldier",
+  "text": "Heroic — Whenever you cast a spell that targets Satyr Hoplite, put a +1/+1 counter on Satyr Hoplite.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "110",
+  "artist": "Mark Zug",
+  "rating": "3.200",
+  "votes": "25"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Molting Harpy",
+  "image": "./img/molting-harpy.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Harpy Mercenary",
+  "text": "FlyingAt the beginning of your upkeep, sacrifice Molting Harpy unless you pay .",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "148",
+  "artist": "Jeff Laubenstein",
+  "rating": "2.092",
+  "votes": "38"
+}

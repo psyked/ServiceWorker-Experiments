@@ -1,0 +1,13 @@
+{
+  "title": "Landfill",
+  "image": "./img/landfill.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Choose a land type. Remove from play all lands of that type that you control. Drop those cards, one at a time, onto the playing area from a height of at least one foot. Destroy each card in play that is completely covered by those cards. Then return to play, tapped, all lands dropped in this way.",
+  "expansion": "Unglued",
+  "rarity": "Rare",
+  "cardNumber": "49",
+  "artist": "Daren Bader",
+  "rating": "3.095",
+  "votes": "21"
+}

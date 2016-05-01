@@ -1,0 +1,13 @@
+{
+  "title": "Spiteful Shadows",
+  "image": "./img/spiteful-shadows.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature is dealt damage, it deals that much damage to its controller.",
+  "expansion": "Dark Ascension",
+  "rarity": "Common",
+  "cardNumber": "75",
+  "artist": "John Stanko",
+  "rating": "2.125",
+  "votes": "44"
+}

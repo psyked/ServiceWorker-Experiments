@@ -1,0 +1,13 @@
+{
+  "title": "Somberwald Dryad",
+  "image": "./img/somberwald-dryad.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Dryad",
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+  "expansion": "Dark Ascension",
+  "rarity": "Common",
+  "cardNumber": "126",
+  "artist": "Jaime Jones",
+  "rating": "3.684",
+  "votes": "76"
+}

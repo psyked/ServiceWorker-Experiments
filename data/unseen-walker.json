@@ -1,0 +1,13 @@
+{
+  "title": "Unseen Walker",
+  "image": "./img/unseen-walker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Dryad",
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.): Target creature gains forestwalk until end of turn.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "262",
+  "artist": "Alan Rabinowitz",
+  "rating": "2.828",
+  "votes": "32"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Briarhorn",
+  "image": "./img/briarhorn.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elemental",
+  "text": "FlashWhen Briarhorn enters the battlefield, target creature gets +3/+3 until end of turn.Evoke  (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",
+  "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+  "rarity": "Uncommon",
+  "cardNumber": "14",
+  "artist": "Nils Hamm",
+  "rating": "3.638",
+  "votes": "40"
+}

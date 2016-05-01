@@ -1,0 +1,13 @@
+{
+  "title": "Spore Cloud",
+  "image": "./img/spore-cloud.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Tap all blocking creatures. Prevent all combat damage that would be dealt this turn. Each attacking creature and each blocking creature doesn't untap during its controller's next untap step.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "176",
+  "artist": "Susan Van Camp",
+  "rating": "3.774",
+  "votes": "42"
+}

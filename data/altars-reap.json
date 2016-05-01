@@ -1,0 +1,13 @@
+{
+  "title": "Altar's Reap",
+  "image": "./img/altars-reap.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "As an additional cost to cast Altar's Reap, sacrifice a creature.Draw two cards.",
+  "expansion": "Commander 2015",
+  "rarity": "Common",
+  "cardNumber": "112",
+  "artist": "Donato Giancola",
+  "rating": "5",
+  "votes": "0"
+}

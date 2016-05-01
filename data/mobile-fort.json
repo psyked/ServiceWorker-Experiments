@@ -1,0 +1,13 @@
+{
+  "title": "Mobile Fort",
+  "image": "./img/mobile-fort.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Wall",
+  "text": "Defender (This creature can't attack.): Mobile Fort gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate this ability only once each turn.",
+  "expansion": "Urza's Saga",
+  "rarity": "Uncommon",
+  "cardNumber": "303",
+  "artist": "Mark Tedin",
+  "rating": "3.422",
+  "votes": "32"
+}

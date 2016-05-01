@@ -1,0 +1,13 @@
+{
+  "title": "Syphon Mind",
+  "image": "./img/syphon-mind.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Each other player discards a card. You draw a card for each card discarded this way.",
+  "expansion": "Commander 2014",
+  "rarity": "Common",
+  "cardNumber": "165",
+  "artist": "Jeff Easley",
+  "rating": "5",
+  "votes": "0"
+}

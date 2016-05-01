@@ -1,0 +1,13 @@
+{
+  "title": "Crypt Angel",
+  "image": "./img/crypt-angel.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Angel",
+  "text": "Flying, protection from whiteWhen Crypt Angel enters the battlefield, return target blue or red creature card from your graveyard to your hand.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "97",
+  "artist": "Todd Lockwood",
+  "rating": "4.069",
+  "votes": "58"
+}

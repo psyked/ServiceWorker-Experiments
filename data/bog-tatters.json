@@ -1,0 +1,13 @@
+{
+  "title": "Bog Tatters",
+  "image": "./img/bog-tatters.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Wraith",
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "84",
+  "artist": "Daarken",
+  "rating": "2.120",
+  "votes": "54"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Leechridden Swamp",
+  "image": "./img/leechridden-swamp.jpg",
+  "convertedManaCost": "",
+  "types": "Land  — Swamp",
+  "text": "(: Add  to your mana pool.)Leechridden Swamp enters the battlefield tapped., : Each opponent loses 1 life. Activate this ability only if you control two or more black permanents.",
+  "expansion": "Planechase",
+  "rarity": "Uncommon",
+  "cardNumber": "135",
+  "artist": "Lars Grant-West",
+  "rating": "3.393",
+  "votes": "42"
+}

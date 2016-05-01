@@ -1,0 +1,13 @@
+{
+  "title": "Pieces of the Puzzle",
+  "image": "./img/pieces-ofthepuzzle.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Reveal the top five cards of your library. Put up to two instant and/or sorcery cards from among them into your hand and the rest into your graveyard.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "78",
+  "artist": "Magali Villeneuve",
+  "rating": "5",
+  "votes": "0"
+}

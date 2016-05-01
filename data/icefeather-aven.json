@@ -1,0 +1,13 @@
+{
+  "title": "Icefeather Aven",
+  "image": "./img/icefeather-aven.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Bird Shaman",
+  "text": "FlyingMorph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)When Icefeather Aven is turned face up, you may return another target creature to its owner's hand.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "178",
+  "artist": "Slawomir Maniak",
+  "rating": "4.375",
+  "votes": "4"
+}

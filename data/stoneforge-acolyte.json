@@ -1,0 +1,13 @@
+{
+  "title": "Stoneforge Acolyte",
+  "image": "./img/stoneforge-acolyte.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Kor Artificer Ally",
+  "text": "Cohort — , Tap an untapped Ally you control: Look at the top four cards of your library. You may reveal an Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "38",
+  "artist": "Chris Rallis",
+  "rating": "5",
+  "votes": "0"
+}

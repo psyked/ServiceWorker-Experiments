@@ -1,0 +1,13 @@
+{
+  "title": "Marauding Knight",
+  "image": "./img/marauding-knight.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie Knight",
+  "text": "Protection from whiteMarauding Knight gets +1/+1 for each Plains your opponents control.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "110",
+  "artist": "Daren Bader",
+  "rating": "4.132",
+  "votes": "38"
+}

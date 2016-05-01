@@ -1,0 +1,13 @@
+{
+  "title": "Burnout",
+  "image": "./img/burnout.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Counter target instant spell if it's blue.Draw a card at the beginning of the next turn's upkeep.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "121",
+  "artist": "Mike Raabe",
+  "rating": "3.950",
+  "votes": "40"
+}

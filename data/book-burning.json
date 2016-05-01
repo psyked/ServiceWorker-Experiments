@@ -1,0 +1,13 @@
+{
+  "title": "Book Burning",
+  "image": "./img/book-burning.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Any player may have Book Burning deal 6 damage to him or her. If no one does, target player puts the top six cards of his or her library into his or her graveyard.",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "80",
+  "artist": "Dave Dorman",
+  "rating": "3.088",
+  "votes": "57"
+}

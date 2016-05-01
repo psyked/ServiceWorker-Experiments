@@ -1,0 +1,13 @@
+{
+  "title": "Salvage",
+  "image": "./img/salvage.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Put target card from your graveyard on top of your library.",
+  "expansion": "Portal Second Age",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Keith Parkinson",
+  "rating": "3.360",
+  "votes": "25"
+}

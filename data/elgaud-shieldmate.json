@@ -1,0 +1,13 @@
+{
+  "title": "Elgaud Shieldmate",
+  "image": "./img/elgaud-shieldmate.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Soldier",
+  "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)As long as Elgaud Shieldmate is paired with another creature, both creatures have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "50",
+  "artist": "Anthony Palumbo",
+  "rating": "3.841",
+  "votes": "82"
+}

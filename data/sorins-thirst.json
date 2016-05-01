@@ -1,0 +1,13 @@
+{
+  "title": "Sorin's Thirst",
+  "image": "./img/sorins-thirst.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Sorin's Thirst deals 2 damage to target creature and you gain 2 life.",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Common",
+  "cardNumber": "21",
+  "artist": "Karl Kopinski",
+  "rating": "3.024",
+  "votes": "21"
+}

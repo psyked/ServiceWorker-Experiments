@@ -1,0 +1,13 @@
+{
+  "title": "Shoving Match",
+  "image": "./img/shoving-match.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Until end of turn, all creatures gain \": Tap target creature.\"",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "103",
+  "artist": "Dave Dorman",
+  "rating": "3.837",
+  "votes": "43"
+}

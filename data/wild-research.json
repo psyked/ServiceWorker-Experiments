@@ -1,0 +1,13 @@
+{
+  "title": "Wild Research",
+  "image": "./img/wild-research.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": ": Search your library for an enchantment card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle your library.: Search your library for an instant card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle your library.",
+  "expansion": "Apocalypse",
+  "rarity": "Rare",
+  "cardNumber": "72",
+  "artist": "Gary Ruddell",
+  "rating": "3.839",
+  "votes": "31"
+}

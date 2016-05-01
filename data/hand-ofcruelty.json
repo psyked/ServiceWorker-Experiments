@@ -1,0 +1,13 @@
+{
+  "title": "Hand of Cruelty",
+  "image": "./img/hand-ofcruelty.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Samurai",
+  "text": "Protection from whiteBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "71",
+  "artist": "Kev Walker",
+  "rating": "3.933",
+  "votes": "67"
+}

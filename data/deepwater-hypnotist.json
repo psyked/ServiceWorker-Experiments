@@ -1,0 +1,13 @@
+{
+  "title": "Deepwater Hypnotist",
+  "image": "./img/deepwater-hypnotist.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk Wizard",
+  "text": "Inspired — Whenever Deepwater Hypnotist becomes untapped, target creature an opponent controls gets -3/-0 until end of turn.",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "35",
+  "artist": "Christopher Moeller",
+  "rating": "3.500",
+  "votes": "25"
+}

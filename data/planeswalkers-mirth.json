@@ -1,0 +1,13 @@
+{
+  "title": "Planeswalker's Mirth",
+  "image": "./img/planeswalkers-mirth.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": ": Target opponent reveals a card at random from his or her hand. You gain life equal to that card's converted mana cost.",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "12",
+  "artist": "John Matson",
+  "rating": "2.902",
+  "votes": "41"
+}

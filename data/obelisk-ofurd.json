@@ -1,0 +1,13 @@
+{
+  "title": "Obelisk of Urd",
+  "image": "./img/obelisk-ofurd.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact",
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for  or one mana of that creature's color.)As Obelisk of Urd enters the battlefield, choose a creature type.Creatures you control of the chosen type get +2/+2.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "222",
+  "artist": "John Severin Brassell",
+  "rating": "3.167",
+  "votes": "6"
+}

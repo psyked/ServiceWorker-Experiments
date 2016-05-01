@@ -1,0 +1,13 @@
+{
+  "title": "Dragon Arch",
+  "image": "./img/dragon-arch.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": ", : You may put a multicolored creature card from your hand onto the battlefield.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "135",
+  "artist": "Dana Knutson",
+  "rating": "4.425",
+  "votes": "107"
+}

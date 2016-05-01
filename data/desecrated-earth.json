@@ -1,0 +1,13 @@
+{
+  "title": "Desecrated Earth",
+  "image": "./img/desecrated-earth.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Destroy target land. Its controller discards a card.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "86",
+  "artist": "Daarken",
+  "rating": "3.076",
+  "votes": "59"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Meddle",
+  "image": "./img/meddle.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "If target spell has only one target and that target is a creature, change that spell's target to another creature.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "92",
+  "artist": "Brian Snoddy",
+  "rating": "3.482",
+  "votes": "28"
+}

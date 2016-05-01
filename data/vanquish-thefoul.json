@@ -1,0 +1,13 @@
+{
+  "title": "Vanquish the Foul",
+  "image": "./img/vanquish-thefoul.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Destroy target creature with power 4 or greater. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "35",
+  "artist": "Eric Deschamps",
+  "rating": "1.936",
+  "votes": "55"
+}

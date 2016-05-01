@@ -1,0 +1,13 @@
+{
+  "title": "Summoner's Egg",
+  "image": "./img/summoners-egg.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Construct",
+  "text": "Imprint — When Summoner's Egg enters the battlefield, you may exile a card from your hand face down.When Summoner's Egg dies, turn the exiled card face up. If it's a creature card, put it onto the battlefield under your control.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Rare",
+  "cardNumber": "157",
+  "artist": "Jim Nelson",
+  "rating": "4.185",
+  "votes": "46"
+}

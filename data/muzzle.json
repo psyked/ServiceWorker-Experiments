@@ -1,0 +1,13 @@
+{
+  "title": "Muzzle",
+  "image": "./img/muzzle.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creaturePrevent all damage that would be dealt by enchanted creature.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "30",
+  "artist": "Matt Cavotta",
+  "rating": "3.268",
+  "votes": "28"
+}

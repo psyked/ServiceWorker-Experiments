@@ -1,0 +1,13 @@
+{
+  "title": "Foundry Street Denizen",
+  "image": "./img/foundry-streetdenizen.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Whenever another red creature enters the battlefield under your control, Foundry Street Denizen gets +1/+0 until end of turn.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "141",
+  "artist": "Raoul Vitale",
+  "rating": "3.250",
+  "votes": "6"
+}

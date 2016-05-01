@@ -1,0 +1,13 @@
+{
+  "title": "Heartmender",
+  "image": "./img/heartmender.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elemental",
+  "text": "At the beginning of your upkeep, remove a -1/-1 counter from each creature you control.Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "228",
+  "artist": "Rebecca Guay",
+  "rating": "4.040",
+  "votes": "101"
+}

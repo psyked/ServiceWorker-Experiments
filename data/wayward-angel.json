@@ -1,0 +1,13 @@
+{
+  "title": "Wayward Angel",
+  "image": "./img/wayward-angel.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Angel Horror",
+  "text": "Flying, vigilanceThreshold — As long as seven or more cards are in your graveyard, Wayward Angel gets +3/+3, is black, has trample, and has \"At the beginning of your upkeep, sacrifice a creature.\"",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "57",
+  "artist": "Mark Tedin",
+  "rating": "3.938",
+  "votes": "40"
+}

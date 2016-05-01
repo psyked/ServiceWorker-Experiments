@@ -1,0 +1,13 @@
+{
+  "title": "Soratami Cloudskater",
+  "image": "./img/soratami-cloudskater.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Moonfolk Rogue",
+  "text": "Flying, Return a land you control to its owner's hand: Draw a card, then discard a card.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "86",
+  "artist": "Michael Sutfin",
+  "rating": "2.667",
+  "votes": "36"
+}

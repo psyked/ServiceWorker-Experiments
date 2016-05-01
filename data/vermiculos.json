@@ -1,0 +1,13 @@
+{
+  "title": "Vermiculos",
+  "image": "./img/vermiculos.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Horror",
+  "text": "Whenever an artifact enters the battlefield, Vermiculos gets +4/+4 until end of turn.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "80",
+  "artist": "Daren Bader",
+  "rating": "3.162",
+  "votes": "37"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Kheru Dreadmaw",
+  "image": "./img/kheru-dreadmaw.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie Crocodile",
+  "text": "Defender, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "76",
+  "artist": "Ryan Yee",
+  "rating": "2.500",
+  "votes": "3"
+}

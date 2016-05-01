@@ -1,0 +1,13 @@
+{
+  "title": "Wort, Boggart Auntie",
+  "image": "./img/wort-boggartauntie.jpg",
+  "convertedManaCost": "4",
+  "types": "Legendary Creature  — Goblin Shaman",
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)At the beginning of your upkeep, you may return target Goblin card from your graveyard to your hand.",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "252",
+  "artist": "Larry MacDougall",
+  "rating": "4.067",
+  "votes": "112"
+}

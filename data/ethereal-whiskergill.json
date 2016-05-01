@@ -1,0 +1,13 @@
+{
+  "title": "Ethereal Whiskergill",
+  "image": "./img/ethereal-whiskergill.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elemental",
+  "text": "FlyingEthereal Whiskergill can't attack unless defending player controls an Island.",
+  "expansion": "Lorwyn",
+  "rarity": "Uncommon",
+  "cardNumber": "60",
+  "artist": "Howard Lyon",
+  "rating": "2.288",
+  "votes": "33"
+}

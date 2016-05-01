@@ -1,0 +1,13 @@
+{
+  "title": "Laccolith Rig",
+  "image": "./img/laccolith-rig.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature becomes blocked, you may have it deal damage equal to its power to target creature. If you do, the first creature assigns no combat damage this turn.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "88",
+  "artist": "Massimilano Frezzato",
+  "rating": "3.574",
+  "votes": "27"
+}

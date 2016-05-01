@@ -1,0 +1,13 @@
+{
+  "title": "Vines of Vastwood",
+  "image": "./img/vines-ofvastwood.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)Target creature can't be the target of spells or abilities your opponents control this turn. If Vines of Vastwood was kicked, that creature gets +4/+4 until end of turn.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "168",
+  "artist": "Christopher Moeller",
+  "rating": "5",
+  "votes": "0"
+}

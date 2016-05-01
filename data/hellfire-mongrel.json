@@ -1,0 +1,13 @@
+{
+  "title": "Hellfire Mongrel",
+  "image": "./img/hellfire-mongrel.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental Hound",
+  "text": "At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Hellfire Mongrel deals 2 damage to him or her.",
+  "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+  "rarity": "Uncommon",
+  "cardNumber": "48",
+  "artist": "Dan Scott",
+  "rating": "3.045",
+  "votes": "22"
+}

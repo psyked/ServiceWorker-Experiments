@@ -1,0 +1,13 @@
+{
+  "title": "Kill Switch",
+  "image": "./img/kill-switch.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", : Tap all other artifacts. They don't untap during their controllers' untap steps for as long as Kill Switch remains tapped.",
+  "expansion": "Nemesis",
+  "rarity": "Rare",
+  "cardNumber": "133",
+  "artist": "Brian Snoddy",
+  "rating": "4.340",
+  "votes": "53"
+}

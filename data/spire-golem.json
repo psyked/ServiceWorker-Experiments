@@ -1,0 +1,13 @@
+{
+  "title": "Spire Golem",
+  "image": "./img/spire-golem.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Golem",
+  "text": "Affinity for Islands (This spell costs  less to cast for each Island you control.)Flying",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Common",
+  "cardNumber": "16",
+  "artist": "Daren Bader",
+  "rating": "5",
+  "votes": "0"
+}

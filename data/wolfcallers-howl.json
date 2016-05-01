@@ -1,0 +1,13 @@
+{
+  "title": "Wolfcaller's Howl",
+  "image": "./img/wolfcallers-howl.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, put X 2/2 green Wolf creature tokens onto the battlefield, where X is the number of your opponents with four or more cards in hand.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "52",
+  "artist": "Ralph Horsley",
+  "rating": "5",
+  "votes": "0"
+}

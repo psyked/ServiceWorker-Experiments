@@ -1,0 +1,13 @@
+{
+  "title": "Great Sable Stag",
+  "image": "./img/great-sablestag.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elk",
+  "text": "Great Sable Stag can't be countered.Protection from blue and from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue or black.)",
+  "expansion": "Magic 2010",
+  "rarity": "Rare",
+  "cardNumber": "186",
+  "artist": "Matt Cavotta",
+  "rating": "4.351",
+  "votes": "174"
+}

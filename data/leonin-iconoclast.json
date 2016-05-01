@@ -1,0 +1,13 @@
+{
+  "title": "Leonin Iconoclast",
+  "image": "./img/leonin-iconoclast.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Cat Monk",
+  "text": "Heroic — Whenever you cast a spell that targets Leonin Iconoclast, destroy target enchantment creature an opponent controls.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "16",
+  "artist": "Steve Prescott",
+  "rating": "3.020",
+  "votes": "25"
+}

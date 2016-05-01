@@ -1,0 +1,13 @@
+{
+  "title": "Nissa's Expedition",
+  "image": "./img/nissas-expedition.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for  or one mana of that creature's color.)Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "188",
+  "artist": "Dan Scott",
+  "rating": "3.167",
+  "votes": "6"
+}

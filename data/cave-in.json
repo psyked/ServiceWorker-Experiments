@@ -1,0 +1,13 @@
+{
+  "title": "Cave-In",
+  "image": "./img/cave-in.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "You may exile a red card from your hand rather than pay Cave-In's mana cost.Cave-In deals 2 damage to each creature and each player.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "180",
+  "artist": "Mark Tedin",
+  "rating": "3.737",
+  "votes": "38"
+}

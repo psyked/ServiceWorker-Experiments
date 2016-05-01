@@ -1,0 +1,13 @@
+{
+  "title": "Raving Oni-Slave",
+  "image": "./img/raving-oni-slave.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Ogre Warrior",
+  "text": "When Raving Oni-Slave enters the battlefield or leaves the battlefield, you lose 3 life if you don't control a Demon.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "86",
+  "artist": "Eric Polak",
+  "rating": "2.312",
+  "votes": "32"
+}

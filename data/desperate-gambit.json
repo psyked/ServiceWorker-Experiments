@@ -1,0 +1,13 @@
+{
+  "title": "Desperate Gambit",
+  "image": "./img/desperate-gambit.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Choose a source you control and flip a coin. If you win the flip, the next time that source would deal damage this turn, it deals double that damage instead. If you lose the flip, the next time it would deal damage this turn, prevent that damage.",
+  "expansion": "Weatherlight",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Pete Venters",
+  "rating": "2.533",
+  "votes": "30"
+}

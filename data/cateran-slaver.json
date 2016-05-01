@@ -1,0 +1,13 @@
+{
+  "title": "Cateran Slaver",
+  "image": "./img/cateran-slaver.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Horror Mercenary",
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.), : Search your library for a Mercenary permanent card with converted mana cost 5 or less and put it onto the battlefield. Then shuffle your library.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "125",
+  "artist": "Carl Critchlow",
+  "rating": "3.530",
+  "votes": "33"
+}

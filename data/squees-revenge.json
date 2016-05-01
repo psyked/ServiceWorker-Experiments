@@ -1,0 +1,13 @@
+{
+  "title": "Squee's Revenge",
+  "image": "./img/squees-revenge.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Choose a number. Flip a coin that many times or until you lose a flip, whichever comes first. If you win all the flips, draw two cards for each flip.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "123",
+  "artist": "Kev Walker",
+  "rating": "2.934",
+  "votes": "38"
+}

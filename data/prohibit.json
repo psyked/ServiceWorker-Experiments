@@ -1,0 +1,13 @@
+{
+  "title": "Prohibit",
+  "image": "./img/prohibit.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)Counter target spell if its converted mana cost is 2 or less. If Prohibit was kicked, counter that spell if its converted mana cost is 4 or less instead.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Common",
+  "cardNumber": "25",
+  "artist": "Adam Rex",
+  "rating": "3.792",
+  "votes": "12"
+}

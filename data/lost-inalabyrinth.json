@@ -1,0 +1,13 @@
+{
+  "title": "Lost in a Labyrinth",
+  "image": "./img/lost-inalabyrinth.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets -3/-0 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "52",
+  "artist": "Winona Nelson",
+  "rating": "2.118",
+  "votes": "34"
+}

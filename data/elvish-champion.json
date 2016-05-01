@@ -1,0 +1,13 @@
+{
+  "title": "Elvish Champion",
+  "image": "./img/elvish-champion.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf",
+  "text": "Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.)",
+  "expansion": "Tenth Edition",
+  "rarity": "Rare",
+  "cardNumber": "261",
+  "artist": "D. Alexander Gregory",
+  "rating": "4.299",
+  "votes": "72"
+}

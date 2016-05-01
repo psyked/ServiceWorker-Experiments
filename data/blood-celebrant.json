@@ -1,0 +1,13 @@
+{
+  "title": "Blood Celebrant",
+  "image": "./img/blood-celebrant.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": ", Pay 1 life: Add one mana of any color to your mana pool.",
+  "expansion": "Legions",
+  "rarity": "Common",
+  "cardNumber": "61",
+  "artist": "Ben Thompson",
+  "rating": "2.333",
+  "votes": "36"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Tattered Drake",
+  "image": "./img/tattered-drake.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie Drake",
+  "text": "Flying: Regenerate Tattered Drake.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "68",
+  "artist": "Glenn Fabry",
+  "rating": "1.643",
+  "votes": "42"
+}

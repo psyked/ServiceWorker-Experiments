@@ -1,0 +1,13 @@
+{
+  "title": "Weatherseed Elf",
+  "image": "./img/weatherseed-elf.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf",
+  "text": ": Target creature gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)",
+  "expansion": "Urza's Legacy",
+  "rarity": "Common",
+  "cardNumber": "115",
+  "artist": "Heather Hudson",
+  "rating": "2.588",
+  "votes": "34"
+}

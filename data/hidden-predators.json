@@ -1,0 +1,13 @@
+{
+  "title": "Hidden Predators",
+  "image": "./img/hidden-predators.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment",
+  "text": "When an opponent controls a creature with power 4 or greater, if Hidden Predators is an enchantment, Hidden Predators becomes a 4/4 Beast creature.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "263",
+  "artist": "John Matson",
+  "rating": "3.750",
+  "votes": "24"
+}

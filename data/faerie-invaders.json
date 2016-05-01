@@ -1,0 +1,13 @@
+{
+  "title": "Faerie Invaders",
+  "image": "./img/faerie-invaders.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Faerie Rogue",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)Flying",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Common",
+  "cardNumber": "57",
+  "artist": "Ryan Pancoast",
+  "rating": "5",
+  "votes": "0"
+}

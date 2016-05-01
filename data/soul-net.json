@@ -1,0 +1,13 @@
+{
+  "title": "Soul Net",
+  "image": "./img/soul-net.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": "Whenever a creature dies, you may pay . If you do, you gain 1 life.",
+  "expansion": "Seventh Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "317",
+  "artist": "Ron Spencer",
+  "rating": "1.962",
+  "votes": "39"
+}

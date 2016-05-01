@@ -1,0 +1,13 @@
+{
+  "title": "Venerable Monk",
+  "image": "./img/venerable-monk.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Monk Cleric",
+  "text": "When Venerable Monk enters the battlefield, you gain 2 life.",
+  "expansion": "Duel Decks Anthology, Divine vs. Demonic",
+  "rarity": "Common",
+  "cardNumber": "5",
+  "artist": "D. Alexander Gregory",
+  "rating": "5",
+  "votes": "0"
+}

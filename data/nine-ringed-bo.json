@@ -1,0 +1,13 @@
+{
+  "title": "Nine-Ringed Bo",
+  "image": "./img/nine-ringed-bo.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Nine-Ringed Bo deals 1 damage to target Spirit creature. If that creature would die this turn, exile it instead.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "263",
+  "artist": "Ralph Horsley",
+  "rating": "1.028",
+  "votes": "54"
+}

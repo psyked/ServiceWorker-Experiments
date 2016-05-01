@@ -1,0 +1,13 @@
+{
+  "title": "Dimir Charm",
+  "image": "./img/dimir-charm.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Choose one —• Counter target sorcery spell.• Destroy target creature with power 2 or less.• Look at the top three cards of target player's library, then put one back and the rest into that player's graveyard.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "154",
+  "artist": "Zoltan Boros",
+  "rating": "4.197",
+  "votes": "117"
+}

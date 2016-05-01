@@ -1,0 +1,13 @@
+{
+  "title": "Faerie Noble",
+  "image": "./img/faerie-noble.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Faerie",
+  "text": "FlyingOther Faerie creatures you control get +0/+1.: Other Faerie creatures you control get +1/+0 until end of turn.",
+  "expansion": "Masters Edition III",
+  "rarity": "Uncommon",
+  "cardNumber": "117",
+  "artist": "Susan Van Camp",
+  "rating": "3.300",
+  "votes": "30"
+}

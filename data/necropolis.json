@@ -1,0 +1,13 @@
+{
+  "title": "Necropolis",
+  "image": "./img/necropolis.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Wall",
+  "text": "Defender (This creature can't attack.)Exile a creature card from your graveyard: Put X +0/+1 counters on Necropolis, where X is the exiled card's converted mana cost.",
+  "expansion": "The Dark",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "NéNé Thomas",
+  "rating": "3.081",
+  "votes": "37"
+}

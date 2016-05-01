@@ -1,0 +1,13 @@
+{
+  "title": "Alloy Myr",
+  "image": "./img/alloy-myr.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Myr",
+  "text": ": Add one mana of any color to your mana pool.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "201",
+  "artist": "Matt Cavotta",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mardu Hateblade",
+  "image": "./img/mardu-hateblade.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Warrior",
+  "text": ": Mardu Hateblade gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "16",
+  "artist": "Ryan Alexander Lee",
+  "rating": "2.750",
+  "votes": "2"
+}

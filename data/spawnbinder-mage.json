@@ -1,0 +1,13 @@
+{
+  "title": "Spawnbinder Mage",
+  "image": "./img/spawnbinder-mage.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Wizard Ally",
+  "text": "Cohort — , Tap an untapped Ally you control: Tap target creature.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "35",
+  "artist": "Dan Scott",
+  "rating": "5",
+  "votes": "0"
+}

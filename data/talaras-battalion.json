@@ -1,0 +1,13 @@
+{
+  "title": "Talara's Battalion",
+  "image": "./img/talaras-battalion.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Warrior",
+  "text": "TrampleCast Talara's Battalion only if you've cast another green spell this turn.",
+  "expansion": "Eventide",
+  "rarity": "Rare",
+  "cardNumber": "77",
+  "artist": "Todd Lockwood",
+  "rating": "4.160",
+  "votes": "94"
+}

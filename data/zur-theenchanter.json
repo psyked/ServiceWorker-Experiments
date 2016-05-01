@@ -1,0 +1,13 @@
+{
+  "title": "Zur the Enchanter",
+  "image": "./img/zur-theenchanter.jpg",
+  "convertedManaCost": "4",
+  "types": "Legendary Creature  — Human Wizard",
+  "text": "FlyingWhenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library.",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "135",
+  "artist": "Pete Venters",
+  "rating": "4.186",
+  "votes": "153"
+}

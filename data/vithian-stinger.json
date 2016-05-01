@@ -1,0 +1,13 @@
+{
+  "title": "Vithian Stinger",
+  "image": "./img/vithian-stinger.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Shaman",
+  "text": ": Vithian Stinger deals 1 damage to target creature or player.Unearth  (: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Common",
+  "cardNumber": "47",
+  "artist": "Dave Kendall",
+  "rating": "3.577",
+  "votes": "13"
+}

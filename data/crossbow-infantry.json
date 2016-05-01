@@ -1,0 +1,13 @@
+{
+  "title": "Crossbow Infantry",
+  "image": "./img/crossbow-infantry.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier Archer",
+  "text": ": Crossbow Infantry deals 1 damage to target attacking or blocking creature.",
+  "expansion": "Ninth Edition",
+  "rarity": "Common",
+  "cardNumber": "12",
+  "artist": "James Bernardin",
+  "rating": "2.924",
+  "votes": "33"
+}

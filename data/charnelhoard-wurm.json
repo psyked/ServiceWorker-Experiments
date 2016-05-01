@@ -1,0 +1,13 @@
+{
+  "title": "Charnelhoard Wurm",
+  "image": "./img/charnelhoard-wurm.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Wurm",
+  "text": "TrampleWhenever Charnelhoard Wurm deals damage to an opponent, you may return target card from your graveyard to your hand.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "180",
+  "artist": "Lars Grant-West",
+  "rating": "3.594",
+  "votes": "16"
+}

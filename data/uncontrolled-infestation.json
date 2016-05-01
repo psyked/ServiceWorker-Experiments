@@ -1,0 +1,13 @@
+{
+  "title": "Uncontrolled Infestation",
+  "image": "./img/uncontrolled-infestation.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant nonbasic landWhen enchanted land becomes tapped, destroy it.",
+  "expansion": "Scourge",
+  "rarity": "Common",
+  "cardNumber": "108",
+  "artist": "Tony Szczudlo",
+  "rating": "2.604",
+  "votes": "24"
+}

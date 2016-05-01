@@ -1,0 +1,13 @@
+{
+  "title": "Mystical Tutor",
+  "image": "./img/mystical-tutor.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.",
+  "expansion": "From the Vault: Exiled",
+  "rarity": "Mythic Rare",
+  "cardNumber": "8",
+  "artist": "David O'Connor",
+  "rating": "4.604",
+  "votes": "125"
+}

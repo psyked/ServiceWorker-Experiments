@@ -1,0 +1,13 @@
+{
+  "title": "Leveler",
+  "image": "./img/leveler.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Juggernaut",
+  "text": "When Leveler enters the battlefield, exile all cards from your library.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "195",
+  "artist": "Carl Critchlow",
+  "rating": "3.097",
+  "votes": "118"
+}

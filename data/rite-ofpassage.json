@@ -1,0 +1,13 @@
+{
+  "title": "Rite of Passage",
+  "image": "./img/rite-ofpassage.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a creature you control is dealt damage, put a +1/+1 counter on it. (The damage is dealt before the counter is put on.)",
+  "expansion": "Fifth Dawn",
+  "rarity": "Rare",
+  "cardNumber": "91",
+  "artist": "Kev Walker",
+  "rating": "3.128",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sand Golem",
+  "image": "./img/sand-golem.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Golem",
+  "text": "When a spell or ability an opponent controls causes you to discard Sand Golem, return Sand Golem from your graveyard to the battlefield with a +1/+1 counter on it at the beginning of the next end step.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "John Matson",
+  "rating": "2.919",
+  "votes": "37"
+}

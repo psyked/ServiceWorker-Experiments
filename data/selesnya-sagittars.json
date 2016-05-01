@@ -1,0 +1,13 @@
+{
+  "title": "Selesnya Sagittars",
+  "image": "./img/selesnya-sagittars.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elf Archer",
+  "text": "Reach (This creature can block creatures with flying.)Selesnya Sagittars can block an additional creature each combat.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "229",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "2.919",
+  "votes": "37"
+}

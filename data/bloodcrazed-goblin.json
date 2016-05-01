@@ -1,0 +1,13 @@
+{
+  "title": "Bloodcrazed Goblin",
+  "image": "./img/bloodcrazed-goblin.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Berserker",
+  "text": "Bloodcrazed Goblin can't attack unless an opponent has been dealt damage this turn.",
+  "expansion": "Magic 2011",
+  "rarity": "Common",
+  "cardNumber": "125",
+  "artist": "Steve Prescott",
+  "rating": "2.199",
+  "votes": "68"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Magma Rift",
+  "image": "./img/magma-rift.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Magma Rift, sacrifice a land.Magma Rift deals 5 damage to target creature.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "136",
+  "artist": "Jung Park",
+  "rating": "1.859",
+  "votes": "46"
+}

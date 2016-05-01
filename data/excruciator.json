@@ -1,0 +1,13 @@
+{
+  "title": "Excruciator",
+  "image": "./img/excruciator.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Avatar",
+  "text": "Damage that would be dealt by Excruciator can't be prevented.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "121",
+  "artist": "Paolo Parente",
+  "rating": "3.181",
+  "votes": "80"
+}

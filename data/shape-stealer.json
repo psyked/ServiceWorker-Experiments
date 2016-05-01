@@ -1,0 +1,13 @@
+{
+  "title": "Shape Stealer",
+  "image": "./img/shape-stealer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Shapeshifter Spirit",
+  "text": "Whenever Shape Stealer blocks or becomes blocked by a creature, change Shape Stealer's base power and toughness to that creature's power and toughness until end of turn.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "55",
+  "artist": "Jim Nelson",
+  "rating": "3.808",
+  "votes": "39"
+}

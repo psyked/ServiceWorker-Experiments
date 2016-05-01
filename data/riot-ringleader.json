@@ -1,0 +1,13 @@
+{
+  "title": "Riot Ringleader",
+  "image": "./img/riot-ringleader.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Warrior",
+  "text": "Whenever Riot Ringleader attacks, Human creatures you control get +1/+0 until end of turn.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "152",
+  "artist": "Gabor Szikszai",
+  "rating": "2.562",
+  "votes": "40"
+}

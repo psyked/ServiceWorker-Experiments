@@ -1,0 +1,13 @@
+{
+  "title": "Aven Riftwatcher",
+  "image": "./img/aven-riftwatcher.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Bird Rebel Soldier",
+  "text": "FlyingVanishing 3 (This creature enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)When Aven Riftwatcher enters the battlefield or leaves the battlefield, you gain 2 life.",
+  "expansion": "Planar Chaos",
+  "rarity": "Common",
+  "cardNumber": "1",
+  "artist": "Don Hazeltine",
+  "rating": "3.809",
+  "votes": "68"
+}

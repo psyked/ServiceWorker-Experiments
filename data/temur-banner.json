@@ -1,0 +1,13 @@
+{
+  "title": "Temur Banner",
+  "image": "./img/temur-banner.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add , , or  to your mana pool., , Sacrifice Temur Banner: Draw a card.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "226",
+  "artist": "Daniel Ljunggren",
+  "rating": "2.500",
+  "votes": "2"
+}

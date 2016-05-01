@@ -1,0 +1,13 @@
+{
+  "title": "Riptide Entrancer",
+  "image": "./img/riptide-entrancer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "Whenever Riptide Entrancer deals combat damage to a player, you may sacrifice it. If you do, gain control of target creature that player controls. (This effect lasts indefinitely.)Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "108",
+  "artist": "Scott Hampton",
+  "rating": "3.864",
+  "votes": "22"
+}

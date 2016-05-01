@@ -1,0 +1,13 @@
+{
+  "title": "Pewter Golem",
+  "image": "./img/pewter-golem.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Golem",
+  "text": ": Regenerate Pewter Golem.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "227",
+  "artist": "Paolo Parente",
+  "rating": "1.786",
+  "votes": "21"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Crag Saurian",
+  "image": "./img/crag-saurian.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Lizard",
+  "text": "Whenever a source deals damage to Crag Saurian, that source's controller gains control of Crag Saurian.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "185",
+  "artist": "Matthew Wilson",
+  "rating": "2.145",
+  "votes": "38"
+}

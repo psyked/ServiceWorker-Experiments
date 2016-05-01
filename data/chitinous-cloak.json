@@ -1,0 +1,13 @@
+{
+  "title": "Chitinous Cloak",
+  "image": "./img/chitinous-cloak.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +2/+2 and has menace. (It can't be blocked except by two or more creatures.)Equip",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "163",
+  "artist": "Chris Rahn",
+  "rating": "5",
+  "votes": "0"
+}

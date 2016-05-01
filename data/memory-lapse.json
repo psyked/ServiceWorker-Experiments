@@ -1,0 +1,13 @@
+{
+  "title": "Memory Lapse",
+  "image": "./img/memory-lapse.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Common",
+  "cardNumber": "24",
+  "artist": "Rebecca Guay",
+  "rating": "4.554",
+  "votes": "46"
+}

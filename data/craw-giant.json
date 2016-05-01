@@ -1,0 +1,13 @@
+{
+  "title": "Craw Giant",
+  "image": "./img/craw-giant.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Giant",
+  "text": "TrampleRampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "76",
+  "artist": "Christopher Rush",
+  "rating": "3.593",
+  "votes": "43"
+}

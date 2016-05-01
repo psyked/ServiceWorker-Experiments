@@ -1,0 +1,13 @@
+{
+  "title": "Augur of Skulls",
+  "image": "./img/augur-ofskulls.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Skeleton Wizard",
+  "text": ": Regenerate Augur of Skulls.Sacrifice Augur of Skulls: Target player discards two cards. Activate this ability only during your upkeep.",
+  "expansion": "Future Sight",
+  "rarity": "Common",
+  "cardNumber": "63",
+  "artist": "Chippy",
+  "rating": "4.097",
+  "votes": "77"
+}

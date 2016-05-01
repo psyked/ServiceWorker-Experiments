@@ -1,0 +1,13 @@
+{
+  "title": "Hoof Skulkin",
+  "image": "./img/hoof-skulkin.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Scarecrow",
+  "text": ": Target green creature gets +1/+1 until end of turn.",
+  "expansion": "Eventide",
+  "rarity": "Common",
+  "cardNumber": "169",
+  "artist": "Joshua Hagler",
+  "rating": "1.755",
+  "votes": "47"
+}

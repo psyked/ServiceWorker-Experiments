@@ -1,0 +1,13 @@
+{
+  "title": "Teeka's Dragon",
+  "image": "./img/teekas-dragon.jpg",
+  "convertedManaCost": "9",
+  "types": "Artifact Creature  — Dragon",
+  "text": "Flying; trample; rampage 4 (Whenever this creature becomes blocked, it gets +4/+4 until end of turn for each creature blocking it beyond the first.)",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Liz Danforth",
+  "rating": "3.934",
+  "votes": "68"
+}

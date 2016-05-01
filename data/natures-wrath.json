@@ -1,0 +1,13 @@
+{
+  "title": "Nature's Wrath",
+  "image": "./img/natures-wrath.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, sacrifice Nature's Wrath unless you pay .Whenever a player puts an Island or blue permanent onto the battlefield, he or she sacrifices an Island or blue permanent.Whenever a player puts a Swamp or black permanent onto the battlefield, he or she sacrifices a Swamp or black permanent.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "172",
+  "artist": "Liz Danforth",
+  "rating": "3.558",
+  "votes": "26"
+}

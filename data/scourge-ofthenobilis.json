@@ -1,0 +1,13 @@
+{
+  "title": "Scourge of the Nobilis",
+  "image": "./img/scourge-ofthenobilis.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAs long as enchanted creature is red, it gets +1/+1 and has \": This creature gets +1/+0 until end of turn.\"As long as enchanted creature is white, it gets +1/+1 and has lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)",
+  "expansion": "Eventide",
+  "rarity": "Common",
+  "cardNumber": "146",
+  "artist": "Dan Scott",
+  "rating": "4.068",
+  "votes": "88"
+}

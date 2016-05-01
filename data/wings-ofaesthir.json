@@ -1,0 +1,13 @@
+{
+  "title": "Wings of Aesthir",
+  "image": "./img/wings-ofaesthir.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+0 and has flying and first strike.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "199",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "3.432",
+  "votes": "37"
+}

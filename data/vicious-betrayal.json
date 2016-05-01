@@ -1,0 +1,13 @@
+{
+  "title": "Vicious Betrayal",
+  "image": "./img/vicious-betrayal.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Vicious Betrayal, sacrifice any number of creatures.Target creature gets +2/+2 until end of turn for each creature sacrificed this way.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "60",
+  "artist": "Tomas Giorello",
+  "rating": "1.278",
+  "votes": "45"
+}

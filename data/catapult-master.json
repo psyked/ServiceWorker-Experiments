@@ -1,0 +1,13 @@
+{
+  "title": "Catapult Master",
+  "image": "./img/catapult-master.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Soldier",
+  "text": "Tap five untapped Soldiers you control: Exile target creature.",
+  "expansion": "Duel Decks: Elspeth vs. Tezzeret",
+  "rarity": "Rare",
+  "cardNumber": "18",
+  "artist": "Terese Nielsen",
+  "rating": "4.202",
+  "votes": "42"
+}

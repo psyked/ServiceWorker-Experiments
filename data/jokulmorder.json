@@ -1,0 +1,13 @@
+{
+  "title": "Jokulmorder",
+  "image": "./img/jokulmorder.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Leviathan",
+  "text": "TrampleJokulmorder enters the battlefield tapped.When Jokulmorder enters the battlefield, sacrifice it unless you sacrifice five lands.Jokulmorder doesn't untap during your untap step.Whenever you play an Island, you may untap Jokulmorder.",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "37",
+  "artist": "Mark Zug",
+  "rating": "2.783",
+  "votes": "90"
+}

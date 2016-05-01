@@ -1,0 +1,13 @@
+{
+  "title": "Steel Wall",
+  "image": "./img/steel-wall.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact Creature  — Wall",
+  "text": "Defender (This creature can't attack.)",
+  "expansion": "Duel Decks: Elspeth vs. Tezzeret",
+  "rarity": "Common",
+  "cardNumber": "41",
+  "artist": "David Day",
+  "rating": "4.104",
+  "votes": "48"
+}

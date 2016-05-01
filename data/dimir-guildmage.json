@@ -1,0 +1,13 @@
+{
+  "title": "Dimir Guildmage",
+  "image": "./img/dimir-guildmage.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": "( can be paid with either  or .): Target player draws a card. Activate this ability only any time you could cast a sorcery.: Target player discards a card. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "192",
+  "artist": "Adam Rex",
+  "rating": "5",
+  "votes": "0"
+}

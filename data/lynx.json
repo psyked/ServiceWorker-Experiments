@@ -1,0 +1,13 @@
+{
+  "title": "Lynx",
+  "image": "./img/lynx.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Cat",
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+  "expansion": "Starter 1999",
+  "rarity": "Uncommon",
+  "cardNumber": "131",
+  "artist": "Rebecca Guay",
+  "rating": "3.060",
+  "votes": "25"
+}

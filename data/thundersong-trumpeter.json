@@ -1,0 +1,13 @@
+{
+  "title": "Thundersong Trumpeter",
+  "image": "./img/thundersong-trumpeter.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier",
+  "text": ": Target creature can't attack or block this turn.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "235",
+  "artist": "Michael Sutfin",
+  "rating": "3.790",
+  "votes": "50"
+}

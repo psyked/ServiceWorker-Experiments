@@ -1,0 +1,13 @@
+{
+  "title": "Armageddon Clock",
+  "image": "./img/armageddon-clock.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, put a doom counter on Armageddon Clock.At the beginning of your draw step, Armageddon Clock deals damage equal to the number of doom counters on it to each player.: Remove a doom counter from Armageddon Clock. Any player may activate this ability but only during any upkeep step.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "180",
+  "artist": "Amy Weber",
+  "rating": "3.889",
+  "votes": "27"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sorrow's Path",
+  "image": "./img/sorrows-path.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Choose two target blocking creatures an opponent controls. If each of those creatures could block all creatures that the other is blocking, remove both of them from combat. Each one then blocks all creatures the other was blocking.Whenever Sorrow's Path becomes tapped, it deals 2 damage to you and each creature you control.",
+  "expansion": "Masters Edition III",
+  "rarity": "Rare",
+  "cardNumber": "211",
+  "artist": "Randy Asplund",
+  "rating": "0.906",
+  "votes": "256"
+}

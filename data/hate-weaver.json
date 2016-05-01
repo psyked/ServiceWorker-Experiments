@@ -1,0 +1,13 @@
+{
+  "title": "Hate Weaver",
+  "image": "./img/hate-weaver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie Wizard",
+  "text": ": Target blue or red creature gets +1/+0 until end of turn.",
+  "expansion": "Tenth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "147",
+  "artist": "Roger Raupp",
+  "rating": "2.297",
+  "votes": "32"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Withstand Death",
+  "image": "./img/withstand-death.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "134",
+  "artist": "Tomasz Jedruszek",
+  "rating": "3.284",
+  "votes": "81"
+}

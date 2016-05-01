@@ -1,0 +1,13 @@
+{
+  "title": "Animate Land",
+  "image": "./img/animate-land.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Until end of turn, target land becomes a 3/3 creature that's still a land.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "101",
+  "artist": "Rebecca Guay",
+  "rating": "3.975",
+  "votes": "40"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Razormane Masticore",
+  "image": "./img/razormane-masticore.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Masticore",
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)At the beginning of your upkeep, sacrifice Razormane Masticore unless you discard a card.At the beginning of your draw step, you may have Razormane Masticore deal 3 damage to target creature.",
+  "expansion": "Duel Decks: Elspeth vs. Tezzeret",
+  "rarity": "Rare",
+  "cardNumber": "56",
+  "artist": "Jim Murray",
+  "rating": "4.509",
+  "votes": "57"
+}

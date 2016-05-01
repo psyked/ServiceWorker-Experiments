@@ -1,0 +1,13 @@
+{
+  "title": "Sengir Nosferatu",
+  "image": "./img/sengir-nosferatu.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Vampire",
+  "text": "Flying, Exile Sengir Nosferatu: Put a 1/2 black Bat creature token with flying onto the battlefield. It has \", Sacrifice this creature: Return an exiled card named Sengir Nosferatu to the battlefield under its owner's control.\"",
+  "expansion": "Time Spiral",
+  "rarity": "Rare",
+  "cardNumber": "128",
+  "artist": "Scott M. Fischer",
+  "rating": "4.144",
+  "votes": "52"
+}

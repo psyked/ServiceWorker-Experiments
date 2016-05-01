@@ -1,0 +1,13 @@
+{
+  "title": "Lightning Coils",
+  "image": "./img/lightning-coils.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Whenever a nontoken creature you control dies, put a charge counter on Lightning Coils.At the beginning of your upkeep, if Lightning Coils has five or more charge counters on it, remove all of them from it and put that many 3/1 red Elemental creature tokens with haste onto the battlefield. Exile them at the beginning of the next end step.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "198",
+  "artist": "Brian Snoddy",
+  "rating": "3.755",
+  "votes": "47"
+}

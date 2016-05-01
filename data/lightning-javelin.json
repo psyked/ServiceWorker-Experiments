@@ -1,0 +1,13 @@
+{
+  "title": "Lightning Javelin",
+  "image": "./img/lightning-javelin.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Lightning Javelin deals 3 damage to target creature or player. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "153",
+  "artist": "Seb McKinnon",
+  "rating": "5",
+  "votes": "0"
+}

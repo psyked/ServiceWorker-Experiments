@@ -1,0 +1,13 @@
+{
+  "title": "Spell Pierce",
+  "image": "./img/spell-pierce.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Counter target noncreature spell unless its controller pays .",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "67",
+  "artist": "Vance Kovacs",
+  "rating": "4.537",
+  "votes": "191"
+}

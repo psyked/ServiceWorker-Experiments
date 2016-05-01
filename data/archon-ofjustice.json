@@ -1,0 +1,13 @@
+{
+  "title": "Archon of Justice",
+  "image": "./img/archon-ofjustice.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Archon",
+  "text": "FlyingWhen Archon of Justice dies, exile target permanent.",
+  "expansion": "Magic 2012",
+  "rarity": "Rare",
+  "cardNumber": "6",
+  "artist": "Jason Chan",
+  "rating": "3.872",
+  "votes": "109"
+}

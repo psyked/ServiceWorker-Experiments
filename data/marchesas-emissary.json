@@ -1,0 +1,13 @@
+{
+  "title": "Marchesa's Emissary",
+  "image": "./img/marchesas-emissary.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Rogue",
+  "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "21",
+  "artist": "Tyler Jacobson",
+  "rating": "3.071",
+  "votes": "7"
+}

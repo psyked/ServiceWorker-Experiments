@@ -1,0 +1,13 @@
+{
+  "title": "Chainer's Edict",
+  "image": "./img/chainers-edict.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target player sacrifices a creature.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "108",
+  "artist": "Mark Zug",
+  "rating": "4.000",
+  "votes": "1"
+}

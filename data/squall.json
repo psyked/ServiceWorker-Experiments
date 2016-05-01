@@ -1,0 +1,13 @@
+{
+  "title": "Squall",
+  "image": "./img/squall.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Squall deals 2 damage to each creature with flying.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "168",
+  "artist": "Carl Critchlow",
+  "rating": "2.957",
+  "votes": "23"
+}

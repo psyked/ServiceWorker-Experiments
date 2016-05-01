@@ -1,0 +1,13 @@
+{
+  "title": "Sword of the Animist",
+  "image": "./img/sword-oftheanimist.jpg",
+  "convertedManaCost": "2",
+  "types": "Legendary Artifact  — Equipment",
+  "text": "Equipped creature gets +1/+1.Whenever equipped creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.Equip",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "240",
+  "artist": "Daniel Ljunggren",
+  "rating": "5",
+  "votes": "0"
+}

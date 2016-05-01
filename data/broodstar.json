@@ -1,0 +1,13 @@
+{
+  "title": "Broodstar",
+  "image": "./img/broodstar.jpg",
+  "convertedManaCost": "10",
+  "types": "Creature  — Beast",
+  "text": "Affinity for artifacts (This spell costs  less to cast for each artifact you control.)FlyingBroodstar's power and toughness are each equal to the number of artifacts you control.",
+  "expansion": "Planechase",
+  "rarity": "Rare",
+  "cardNumber": "8",
+  "artist": "Glen Angus",
+  "rating": "4.347",
+  "votes": "75"
+}

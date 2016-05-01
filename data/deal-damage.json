@@ -1,0 +1,13 @@
+{
+  "title": "Deal Damage",
+  "image": "./img/deal-damage.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Deal Damage deals 4 damage to target creature or player.Gotcha Whenever an opponent says \"Deal\" or \"Damage,\" you may say \"Gotcha\" If you do, return Deal Damage from your graveyard to your hand.",
+  "expansion": "Unhinged",
+  "rarity": "Uncommon",
+  "cardNumber": "74",
+  "artist": "Scott M. Fischer",
+  "rating": "4.143",
+  "votes": "28"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dust Corona",
+  "image": "./img/dust-corona.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+0 and can't be blocked by creatures with flying.",
+  "expansion": "Planar Chaos",
+  "rarity": "Common",
+  "cardNumber": "97",
+  "artist": "Luca Zontini",
+  "rating": "2.893",
+  "votes": "42"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Blue Elemental Blast",
+  "image": "./img/blue-elementalblast.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Choose one —• Counter target red spell.• Destroy target red permanent.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "39",
+  "artist": "Richard Thomas",
+  "rating": "4.189",
+  "votes": "37"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Arcane Denial",
+  "image": "./img/arcane-denial.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep.You draw a card at the beginning of the next turn's upkeep.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Common",
+  "cardNumber": "28",
+  "artist": "Mark Zug",
+  "rating": "4.103",
+  "votes": "29"
+}

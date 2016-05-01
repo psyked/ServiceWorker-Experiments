@@ -1,0 +1,13 @@
+{
+  "title": "Zombie Musher",
+  "image": "./img/zombie-musher.jpg",
+  "convertedManaCost": "4",
+  "types": "Snow Creature  — Zombie",
+  "text": "Snow landwalk (This creature can't be blocked as long as defending player controls a snow land.): Regenerate Zombie Musher. ( can be paid with one mana from a snow permanent.)",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "75",
+  "artist": "Kev Walker",
+  "rating": "3.152",
+  "votes": "56"
+}

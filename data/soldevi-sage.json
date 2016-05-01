@@ -1,0 +1,13 @@
+{
+  "title": "Soldevi Sage",
+  "image": "./img/soldevi-sage.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": ", Sacrifice two lands: Draw three cards, then discard one of them.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "99",
+  "artist": "Carol Heyer",
+  "rating": "2.200",
+  "votes": "40"
+}

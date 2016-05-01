@@ -1,0 +1,13 @@
+{
+  "title": "Kitesail Apprentice",
+  "image": "./img/kitesail-apprentice.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Kor Soldier",
+  "text": "As long as Kitesail Apprentice is equipped, it gets +1/+1 and has flying.",
+  "expansion": "Worldwake",
+  "rarity": "Common",
+  "cardNumber": "10",
+  "artist": "Austin Hsu",
+  "rating": "3.230",
+  "votes": "76"
+}

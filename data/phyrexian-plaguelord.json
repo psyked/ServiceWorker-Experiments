@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Plaguelord",
+  "image": "./img/phyrexian-plaguelord.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Carrier",
+  "text": ", Sacrifice Phyrexian Plaguelord: Target creature gets -4/-4 until end of turn.Sacrifice a creature: Target creature gets -1/-1 until end of turn.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "131",
+  "artist": "Kev Walker",
+  "rating": "5",
+  "votes": "0"
+}

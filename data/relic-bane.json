@@ -1,0 +1,13 @@
+{
+  "title": "Relic Bane",
+  "image": "./img/relic-bane.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant artifactEnchanted artifact has \"At the beginning of your upkeep, you lose 2 life.\"",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "76",
+  "artist": "Eric Peterson",
+  "rating": "2.906",
+  "votes": "32"
+}

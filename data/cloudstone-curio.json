@@ -1,0 +1,13 @@
+{
+  "title": "Cloudstone Curio",
+  "image": "./img/cloudstone-curio.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Whenever a nonartifact permanent enters the battlefield under your control, you may return another permanent you control that shares a permanent type with it to its owner's hand.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "257",
+  "artist": "Heather Hudson",
+  "rating": "4.000",
+  "votes": "71"
+}

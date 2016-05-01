@@ -1,0 +1,13 @@
+{
+  "title": "Cunning Lethemancer",
+  "image": "./img/cunning-lethemancer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "At the beginning of your upkeep, each player discards a card.",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "69",
+  "artist": "Paul Bonner",
+  "rating": "2.914",
+  "votes": "64"
+}

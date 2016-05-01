@@ -1,0 +1,13 @@
+{
+  "title": "Deathcap Cultivator",
+  "image": "./img/deathcap-cultivator.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Druid",
+  "text": ": Add  or  to your mana pool.Delirium — Deathcap Cultivator has deathtouch as long as there are four or more card types among cards in your graveyard.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "202",
+  "artist": "Karla Ortiz",
+  "rating": "5",
+  "votes": "0"
+}

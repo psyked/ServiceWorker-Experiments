@@ -1,0 +1,13 @@
+{
+  "title": "Thirst",
+  "image": "./img/thirst.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Thirst enters the battlefield, tap enchanted creature.Enchanted creature doesn't untap during its controller's untap step.At the beginning of your upkeep, sacrifice Thirst unless you pay .",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Roger Raupp",
+  "rating": "3.045",
+  "votes": "33"
+}

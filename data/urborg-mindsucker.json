@@ -1,0 +1,13 @@
+{
+  "title": "Urborg Mindsucker",
+  "image": "./img/urborg-mindsucker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Horror",
+  "text": ", Sacrifice Urborg Mindsucker: Target opponent discards a card at random. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Visions",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Tony DiTerlizzi",
+  "rating": "3.250",
+  "votes": "40"
+}

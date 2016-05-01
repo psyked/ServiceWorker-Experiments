@@ -1,0 +1,13 @@
+{
+  "title": "Sigiled Behemoth",
+  "image": "./img/sigiled-behemoth.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Beast",
+  "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",
+  "expansion": "Alara Reborn",
+  "rarity": "Common",
+  "cardNumber": "79",
+  "artist": "Donato Giancola",
+  "rating": "2.225",
+  "votes": "60"
+}

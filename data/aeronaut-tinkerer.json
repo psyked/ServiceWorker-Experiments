@@ -1,0 +1,13 @@
+{
+  "title": "Aeronaut Tinkerer",
+  "image": "./img/aeronaut-tinkerer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Artificer",
+  "text": "Aeronaut Tinkerer has flying as long as you control an artifact. (It can't be blocked except by creatures with flying or reach.)",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "43",
+  "artist": "Willian Murai",
+  "rating": "3.083",
+  "votes": "6"
+}

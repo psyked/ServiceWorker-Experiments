@@ -1,0 +1,13 @@
+{
+  "title": "Voyage's End",
+  "image": "./img/voyages-end.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Return target creature to its owner's hand. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "73",
+  "artist": "Chris Rahn",
+  "rating": "3.489",
+  "votes": "44"
+}

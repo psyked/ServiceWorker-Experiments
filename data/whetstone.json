@@ -1,0 +1,13 @@
+{
+  "title": "Whetstone",
+  "image": "./img/whetstone.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Each player puts the top two cards of his or her library into his or her graveyard.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "316",
+  "artist": "Greg Simanson",
+  "rating": "3.742",
+  "votes": "31"
+}

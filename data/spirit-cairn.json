@@ -1,0 +1,13 @@
+{
+  "title": "Spirit Cairn",
+  "image": "./img/spirit-cairn.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a player discards a card, you may pay . If you do, put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "48",
+  "artist": "Gary Ruddell",
+  "rating": "5",
+  "votes": "0"
+}

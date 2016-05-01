@@ -1,0 +1,13 @@
+{
+  "title": "War Elemental",
+  "image": "./img/war-elemental.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental",
+  "text": "When War Elemental enters the battlefield, sacrifice it unless an opponent was dealt damage this turn.Whenever an opponent is dealt damage, put that many +1/+1 counters on War Elemental.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "112",
+  "artist": "Anthony S. Waters",
+  "rating": "4.194",
+  "votes": "62"
+}

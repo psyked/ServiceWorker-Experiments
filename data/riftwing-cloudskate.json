@@ -1,0 +1,13 @@
+{
+  "title": "Riftwing Cloudskate",
+  "image": "./img/riftwing-cloudskate.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Illusion",
+  "text": "FlyingWhen Riftwing Cloudskate enters the battlefield, return target permanent to its owner's hand.Suspend 3— (Rather than cast this card from your hand, you may pay  and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Uncommon",
+  "cardNumber": "15",
+  "artist": "Carl Critchlow",
+  "rating": "5",
+  "votes": "0"
+}

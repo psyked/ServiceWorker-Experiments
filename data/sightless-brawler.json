@@ -1,0 +1,13 @@
+{
+  "title": "Sightless Brawler",
+  "image": "./img/sightless-brawler.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment Creature  — Human Warrior",
+  "text": "Bestow  (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)Sightless Brawler can't attack alone.Enchanted creature gets +3/+2 and can't attack alone.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "24",
+  "artist": "Johann Bodin",
+  "rating": "3.105",
+  "votes": "19"
+}

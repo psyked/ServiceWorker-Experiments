@@ -1,0 +1,13 @@
+{
+  "title": "Dauthi Embrace",
+  "image": "./img/dauthi-embrace.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": ": Target creature gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Andrew Robinson",
+  "rating": "4.439",
+  "votes": "57"
+}

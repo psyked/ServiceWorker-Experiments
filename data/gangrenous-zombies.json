@@ -1,0 +1,13 @@
+{
+  "title": "Gangrenous Zombies",
+  "image": "./img/gangrenous-zombies.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": ", Sacrifice Gangrenous Zombies: Gangrenous Zombies deals 1 damage to each creature and each player. If you control a snow Swamp, Gangrenous Zombies deals 2 damage to each creature and each player instead.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "92",
+  "artist": "Brian Snoddy",
+  "rating": "3.069",
+  "votes": "29"
+}

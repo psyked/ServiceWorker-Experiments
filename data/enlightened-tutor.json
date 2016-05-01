@@ -1,0 +1,13 @@
+{
+  "title": "Enlightened Tutor",
+  "image": "./img/enlightened-tutor.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "19",
+  "artist": "Dan Frazier",
+  "rating": "4.570",
+  "votes": "86"
+}

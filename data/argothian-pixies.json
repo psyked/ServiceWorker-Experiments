@@ -1,0 +1,13 @@
+{
+  "title": "Argothian Pixies",
+  "image": "./img/argothian-pixies.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Faerie",
+  "text": "Argothian Pixies can't be blocked by artifact creatures.Prevent all damage that would be dealt to Argothian Pixies by artifact creatures.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "142",
+  "artist": "Amy Weber",
+  "rating": "3.136",
+  "votes": "22"
+}

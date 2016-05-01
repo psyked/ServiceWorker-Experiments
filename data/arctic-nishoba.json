@@ -1,0 +1,13 @@
+{
+  "title": "Arctic Nishoba",
+  "image": "./img/arctic-nishoba.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Cat Warrior",
+  "text": "TrampleCumulative upkeep  or  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)When Arctic Nishoba dies, you gain 2 life for each age counter on it.",
+  "expansion": "Coldsnap",
+  "rarity": "Uncommon",
+  "cardNumber": "102",
+  "artist": "Dave Kendall",
+  "rating": "3.448",
+  "votes": "48"
+}

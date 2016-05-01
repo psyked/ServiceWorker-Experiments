@@ -1,0 +1,13 @@
+{
+  "title": "Siren of the Fanged Coast",
+  "image": "./img/siren-ofthefangedcoast.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Siren",
+  "text": "FlyingTribute 3 (As this creature enters the battlefield, an opponent of your choice may place three +1/+1 counters on it.)When Siren of the Fanged Coast enters the battlefield, if tribute wasn't paid, gain control of target creature.",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "50",
+  "artist": "Michael C. Hayes",
+  "rating": "2.833",
+  "votes": "33"
+}

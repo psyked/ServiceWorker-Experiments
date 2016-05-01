@@ -1,0 +1,13 @@
+{
+  "title": "Cytospawn Shambler",
+  "image": "./img/cytospawn-shambler.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Elemental Mutant",
+  "text": "Graft 6 (This creature enters the battlefield with six +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.): Target creature with a +1/+1 counter on it gains trample until end of turn.",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "82",
+  "artist": "Anthony S. Waters",
+  "rating": "2.543",
+  "votes": "35"
+}

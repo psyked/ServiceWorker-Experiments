@@ -1,0 +1,13 @@
+{
+  "title": "Bonescythe Sliver",
+  "image": "./img/bonescythe-sliver.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Sliver",
+  "text": "Sliver creatures you control have double strike. (They deal both first-strike and regular combat damage.)",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "9",
+  "artist": "Trevor Claxton",
+  "rating": "3.623",
+  "votes": "69"
+}

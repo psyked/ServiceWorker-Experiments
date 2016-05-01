@@ -1,0 +1,13 @@
+{
+  "title": "Hellkite Tyrant",
+  "image": "./img/hellkite-tyrant.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "Flying, trampleWhenever Hellkite Tyrant deals combat damage to a player, gain control of all artifacts that player controls.At the beginning of your upkeep, if you control twenty or more artifacts, you win the game.",
+  "expansion": "Gatecrash",
+  "rarity": "Mythic Rare",
+  "cardNumber": "94",
+  "artist": "Aleksi Briclot",
+  "rating": "4.209",
+  "votes": "127"
+}

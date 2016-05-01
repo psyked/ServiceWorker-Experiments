@@ -1,0 +1,13 @@
+{
+  "title": "Izzet Charm",
+  "image": "./img/izzet-charm.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Choose one —• Counter target noncreature spell unless its controller pays .• Izzet Charm deals 2 damage to target creature.• Draw two cards, then discard two cards.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "172",
+  "artist": "Zoltan Boros",
+  "rating": "4.252",
+  "votes": "131"
+}

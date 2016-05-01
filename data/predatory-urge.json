@@ -1,0 +1,13 @@
+{
+  "title": "Predatory Urge",
+  "image": "./img/predatory-urge.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has \": This creature deals damage equal to its power to target creature. That creature deals damage equal to its power to this creature.\"",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Rare",
+  "cardNumber": "74",
+  "artist": "Scott Chou",
+  "rating": "3.375",
+  "votes": "16"
+}

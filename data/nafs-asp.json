@@ -1,0 +1,13 @@
+{
+  "title": "Nafs Asp",
+  "image": "./img/nafs-asp.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Snake",
+  "text": "Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of his or her next draw step unless he or she pays  before that draw step.",
+  "expansion": "Fourth Edition",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Christopher Rush",
+  "rating": "3.308",
+  "votes": "39"
+}

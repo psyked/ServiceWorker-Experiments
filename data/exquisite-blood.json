@@ -1,0 +1,13 @@
+{
+  "title": "Exquisite Blood",
+  "image": "./img/exquisite-blood.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "Whenever an opponent loses life, you gain that much life.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "102",
+  "artist": "Cynthia Sheppard",
+  "rating": "3.839",
+  "votes": "90"
+}

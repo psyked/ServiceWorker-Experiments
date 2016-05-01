@@ -1,0 +1,13 @@
+{
+  "title": "Vault Skirge",
+  "image": "./img/vault-skirge.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Imp",
+  "text": "( can be paid with either  or 2 life.)FlyingLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "76",
+  "artist": "Brad Rigney",
+  "rating": "3.825",
+  "votes": "197"
+}

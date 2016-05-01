@@ -1,0 +1,13 @@
+{
+  "title": "Coordinated Barrage",
+  "image": "./img/coordinated-barrage.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Choose a creature type. Coordinated Barrage deals damage to target attacking or blocking creature equal to the number of permanents you control of the chosen type.",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "7",
+  "artist": "Franz Vohwinkel",
+  "rating": "2.903",
+  "votes": "36"
+}

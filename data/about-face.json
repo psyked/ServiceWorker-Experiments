@@ -1,0 +1,13 @@
+{
+  "title": "About Face",
+  "image": "./img/about-face.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Switch target creature's power and toughness until end of turn.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Common",
+  "cardNumber": "73",
+  "artist": "Melissa A. Benson",
+  "rating": "3.398",
+  "votes": "44"
+}

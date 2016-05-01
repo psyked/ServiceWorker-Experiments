@@ -1,0 +1,13 @@
+{
+  "title": "Flesh to Dust",
+  "image": "./img/flesh-todust.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Destroy target creature. It can't be regenerated.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "280",
+  "artist": "Julie Dillon",
+  "rating": "5",
+  "votes": "0"
+}

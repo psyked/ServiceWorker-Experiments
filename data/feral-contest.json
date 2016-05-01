@@ -1,0 +1,13 @@
+{
+  "title": "Feral Contest",
+  "image": "./img/feral-contest.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Put a +1/+1 counter on target creature you control. Another target creature blocks it this turn if able.",
+  "expansion": "Worldwake",
+  "rarity": "Common",
+  "cardNumber": "100",
+  "artist": "Daarken",
+  "rating": "1.946",
+  "votes": "46"
+}

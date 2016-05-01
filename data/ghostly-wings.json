@@ -1,0 +1,13 @@
+{
+  "title": "Ghostly Wings",
+  "image": "./img/ghostly-wings.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+1 and has flying.Discard a card: Return enchanted creature to its owner's hand.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "66",
+  "artist": "Josu Hernaiz",
+  "rating": "5",
+  "votes": "0"
+}

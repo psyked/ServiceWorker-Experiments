@@ -1,0 +1,13 @@
+{
+  "title": "Veiled Crocodile",
+  "image": "./img/veiled-crocodile.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "When a player has no cards in hand, if Veiled Crocodile is an enchantment, Veiled Crocodile becomes a 4/4 Crocodile creature.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "108",
+  "artist": "Paolo Parente",
+  "rating": "3.312",
+  "votes": "32"
+}

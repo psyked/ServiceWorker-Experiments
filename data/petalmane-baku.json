@@ -1,0 +1,13 @@
+{
+  "title": "Petalmane Baku",
+  "image": "./img/petalmane-baku.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Petalmane Baku., Remove X ki counters from Petalmane Baku: Add X mana of any one color to your mana pool.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "139",
+  "artist": "Rebecca Guay",
+  "rating": "3.100",
+  "votes": "30"
+}

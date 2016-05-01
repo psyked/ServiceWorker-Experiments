@@ -1,0 +1,13 @@
+{
+  "title": "Etherium Astrolabe",
+  "image": "./img/etherium-astrolabe.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Flash, , Sacrifice an artifact: Draw a card.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "41",
+  "artist": "Michael Bruinsma",
+  "rating": "2.600",
+  "votes": "50"
+}

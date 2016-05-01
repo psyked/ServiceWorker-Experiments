@@ -1,0 +1,13 @@
+{
+  "title": "Wrath of Marit Lage",
+  "image": "./img/wrath-ofmaritlage.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "When Wrath of Marit Lage enters the battlefield, tap all red creatures.Red creatures don't untap during their controllers' untap steps.",
+  "expansion": "Eighth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "115",
+  "artist": "Matt Thompson",
+  "rating": "3.274",
+  "votes": "42"
+}

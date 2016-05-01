@@ -1,0 +1,13 @@
+{
+  "title": "Repopulate",
+  "image": "./img/repopulate.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Shuffle all creature cards from target player's graveyard into that player's library.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Urza's Legacy",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "Una Fricker",
+  "rating": "4.174",
+  "votes": "43"
+}

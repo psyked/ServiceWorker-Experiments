@@ -1,0 +1,13 @@
+{
+  "title": "Disembowel",
+  "image": "./img/disembowel.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Destroy target creature with converted mana cost X.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "85",
+  "artist": "Chengo McFlingers",
+  "rating": "2.398",
+  "votes": "44"
+}

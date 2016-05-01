@@ -1,0 +1,13 @@
+{
+  "title": "Time Warp",
+  "image": "./img/time-warp.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Target player takes an extra turn after this one.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Mythic Rare",
+  "cardNumber": "74",
+  "artist": "Pete Venters",
+  "rating": "5",
+  "votes": "0"
+}

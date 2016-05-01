@@ -1,0 +1,13 @@
+{
+  "title": "Torpid Moloch",
+  "image": "./img/torpid-moloch.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Lizard",
+  "text": "Defender (This creature can't attack.)Sacrifice three lands: Torpid Moloch loses defender until end of turn.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "147",
+  "artist": "Paolo Parente",
+  "rating": "3.613",
+  "votes": "62"
+}

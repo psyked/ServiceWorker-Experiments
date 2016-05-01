@@ -1,0 +1,13 @@
+{
+  "title": "Psychic Membrane",
+  "image": "./img/psychic-membrane.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)Whenever Psychic Membrane blocks, you may draw a card.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "46",
+  "artist": "Tony Szczudlo",
+  "rating": "2.857",
+  "votes": "35"
+}

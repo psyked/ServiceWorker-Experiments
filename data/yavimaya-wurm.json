@@ -1,0 +1,13 @@
+{
+  "title": "Yavimaya Wurm",
+  "image": "./img/yavimaya-wurm.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Wurm",
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)",
+  "expansion": "Magic 2011",
+  "rarity": "Common",
+  "cardNumber": "200",
+  "artist": "Steven Belledin",
+  "rating": "3.363",
+  "votes": "84"
+}

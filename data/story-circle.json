@@ -1,0 +1,13 @@
+{
+  "title": "Story Circle",
+  "image": "./img/story-circle.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "As Story Circle enters the battlefield, choose a color.: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.",
+  "expansion": "Tenth Edition",
+  "rarity": "Rare",
+  "cardNumber": "49",
+  "artist": "Aleksi Briclot",
+  "rating": "4.330",
+  "votes": "106"
+}

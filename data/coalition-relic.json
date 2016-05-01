@@ -1,0 +1,13 @@
+{
+  "title": "Coalition Relic",
+  "image": "./img/coalition-relic.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add one mana of any color to your mana pool.: Put a charge counter on Coalition Relic.At the beginning of your precombat main phase, remove all charge counters from Coalition Relic. Add one mana of any color to your mana pool for each charge counter removed this way.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Rare",
+  "cardNumber": "54",
+  "artist": "Donato Giancola",
+  "rating": "4.310",
+  "votes": "63"
+}

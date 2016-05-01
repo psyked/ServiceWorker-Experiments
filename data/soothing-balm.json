@@ -1,0 +1,13 @@
+{
+  "title": "Soothing Balm",
+  "image": "./img/soothing-balm.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target player gains 5 life.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "48",
+  "artist": "Scott M. Fischer",
+  "rating": "2.472",
+  "votes": "36"
+}

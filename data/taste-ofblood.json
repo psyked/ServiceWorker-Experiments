@@ -1,0 +1,13 @@
+{
+  "title": "Taste of Blood",
+  "image": "./img/taste-ofblood.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Taste of Blood deals 1 damage to target player and you gain 1 life.",
+  "expansion": "Magic 2012",
+  "rarity": "Common",
+  "cardNumber": "113",
+  "artist": "Howard Lyon",
+  "rating": "1.946",
+  "votes": "83"
+}

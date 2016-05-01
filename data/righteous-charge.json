@@ -1,0 +1,13 @@
+{
+  "title": "Righteous Charge",
+  "image": "./img/righteous-charge.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Creatures you control get +2/+2 until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "23",
+  "artist": "Svetlin Velinov",
+  "rating": "2.867",
+  "votes": "45"
+}

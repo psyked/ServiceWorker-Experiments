@@ -1,0 +1,13 @@
+{
+  "title": "Verduran Enchantress",
+  "image": "./img/verduran-enchantress.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Druid",
+  "text": "Whenever you cast an enchantment spell, you may draw a card.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "279",
+  "artist": "Rob Alexander",
+  "rating": "3.973",
+  "votes": "55"
+}

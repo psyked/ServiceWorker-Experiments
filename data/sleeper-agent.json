@@ -1,0 +1,13 @@
+{
+  "title": "Sleeper Agent",
+  "image": "./img/sleeper-agent.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Minion",
+  "text": "When Sleeper Agent enters the battlefield, target opponent gains control of it.At the beginning of your upkeep, Sleeper Agent deals 2 damage to you.",
+  "expansion": "Tenth Edition",
+  "rarity": "Rare",
+  "cardNumber": "178",
+  "artist": "Randy Gallegos",
+  "rating": "3.449",
+  "votes": "59"
+}

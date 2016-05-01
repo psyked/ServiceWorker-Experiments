@@ -1,0 +1,13 @@
+{
+  "title": "Charging Bandits",
+  "image": "./img/charging-bandits.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Rogue",
+  "text": "Whenever Charging Bandits attacks, it gets +2/+0 until end of turn.",
+  "expansion": "Portal",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Dermot Power",
+  "rating": "2.180",
+  "votes": "25"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Cultural Exchange",
+  "image": "./img/cultural-exchange.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Choose any number of creatures target player controls. Choose the same number of creatures another target player controls. Those players exchange control of those creatures. (This effect lasts indefinitely.)",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "79",
+  "artist": "Daren Bader",
+  "rating": "3.915",
+  "votes": "41"
+}

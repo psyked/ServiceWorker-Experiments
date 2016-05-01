@@ -1,0 +1,13 @@
+{
+  "title": "Rift Bolt",
+  "image": "./img/rift-bolt.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Rift Bolt deals 3 damage to target creature or player.Suspend 1— (Rather than cast this card from your hand, you may pay  and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "126",
+  "artist": "Daniel Ljunggren",
+  "rating": "3.982",
+  "votes": "28"
+}

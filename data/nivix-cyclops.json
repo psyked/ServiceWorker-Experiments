@@ -1,0 +1,13 @@
+{
+  "title": "Nivix Cyclops",
+  "image": "./img/nivix-cyclops.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Cyclops",
+  "text": "DefenderWhenever you cast an instant or sorcery spell, Nivix Cyclops gets +3/+0 until end of turn and can attack this turn as though it didn't have defender.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Common",
+  "cardNumber": "87",
+  "artist": "Wayne Reynolds",
+  "rating": "3.805",
+  "votes": "100"
+}

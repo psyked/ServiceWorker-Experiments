@@ -1,0 +1,13 @@
+{
+  "title": "Filthy Cur",
+  "image": "./img/filthy-cur.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Hound",
+  "text": "Whenever Filthy Cur is dealt damage, you lose that much life.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "136",
+  "artist": "Adam Rex",
+  "rating": "1.029",
+  "votes": "85"
+}

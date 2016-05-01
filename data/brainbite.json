@@ -1,0 +1,13 @@
+{
+  "title": "Brainbite",
+  "image": "./img/brainbite.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Target opponent reveals his or her hand. You choose a card from it. That player discards that card.Draw a card.",
+  "expansion": "Alara Reborn",
+  "rarity": "Common",
+  "cardNumber": "18",
+  "artist": "Mark Hyzer",
+  "rating": "2.975",
+  "votes": "80"
+}

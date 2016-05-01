@@ -1,0 +1,13 @@
+{
+  "title": "Dross Hopper",
+  "image": "./img/dross-hopper.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Insect Horror",
+  "text": "Sacrifice a creature: Dross Hopper gains flying until end of turn.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "60",
+  "artist": "Dave Allsop",
+  "rating": "2.022",
+  "votes": "69"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mystical Teachings",
+  "image": "./img/mystical-teachings.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Search your library for an instant card or a card with flash, reveal it, and put it into your hand. Then shuffle your library.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "69",
+  "artist": "Ron Spears",
+  "rating": "4.269",
+  "votes": "67"
+}

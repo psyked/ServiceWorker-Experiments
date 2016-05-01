@@ -1,0 +1,13 @@
+{
+  "title": "Stromkirk Captain",
+  "image": "./img/stromkirk-captain.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vampire Soldier",
+  "text": "First strikeOther Vampire creatures you control get +1/+1 and have first strike.",
+  "expansion": "Dark Ascension",
+  "rarity": "Uncommon",
+  "cardNumber": "143",
+  "artist": "Jana Schirmer & Johannes Voss",
+  "rating": "3.890",
+  "votes": "145"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Spawning Pool",
+  "image": "./img/spawning-pool.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "Spawning Pool enters the battlefield tapped.: Add  to your mana pool.: Spawning Pool becomes a 1/1 black Skeleton creature with \": Regenerate this creature\" until end of turn. It's still a land. (If it regenerates, the next time it would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+  "expansion": "Tenth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "358",
+  "artist": "Nils Hamm",
+  "rating": "4.044",
+  "votes": "34"
+}

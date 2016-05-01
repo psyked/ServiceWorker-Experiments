@@ -1,0 +1,13 @@
+{
+  "title": "Tainted Remedy",
+  "image": "./img/tainted-remedy.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "If an opponent would gain life, that player loses that much life instead.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "120",
+  "artist": "Izzy",
+  "rating": "5",
+  "votes": "0"
+}

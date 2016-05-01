@@ -1,0 +1,13 @@
+{
+  "title": "Prismatic Wardrobe",
+  "image": "./img/prismatic-wardrobe.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Destroy target card that does not share a color with clothing worn by its controller. You cannot choose an artifact or land card.",
+  "expansion": "Unglued",
+  "rarity": "Common",
+  "cardNumber": "12",
+  "artist": "D. Alexander Gregory",
+  "rating": "3.000",
+  "votes": "21"
+}

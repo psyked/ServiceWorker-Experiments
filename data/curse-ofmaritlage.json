@@ -1,0 +1,13 @@
+{
+  "title": "Curse of Marit Lage",
+  "image": "./img/curse-ofmaritlage.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "When Curse of Marit Lage enters the battlefield, tap all Islands.Islands don't untap during their controllers' untap steps.",
+  "expansion": "Ice Age",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Amy Weber",
+  "rating": "3.605",
+  "votes": "38"
+}

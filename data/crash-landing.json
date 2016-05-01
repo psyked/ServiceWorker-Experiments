@@ -1,0 +1,13 @@
+{
+  "title": "Crash Landing",
+  "image": "./img/crash-landing.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Target creature with flying loses flying until end of turn. Crash Landing deals damage to that creature equal to the number of Forests you control.",
+  "expansion": "Guildpact",
+  "rarity": "Uncommon",
+  "cardNumber": "82",
+  "artist": "Darrell Riche",
+  "rating": "1.786",
+  "votes": "35"
+}

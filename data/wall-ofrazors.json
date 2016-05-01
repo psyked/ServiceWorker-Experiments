@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Razors",
+  "image": "./img/wall-ofrazors.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)First strike",
+  "expansion": "Stronghold",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Michael Sutfin",
+  "rating": "4.000",
+  "votes": "58"
+}

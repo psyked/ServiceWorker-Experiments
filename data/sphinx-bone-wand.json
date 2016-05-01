@@ -1,0 +1,13 @@
+{
+  "title": "Sphinx-Bone Wand",
+  "image": "./img/sphinx-bone-wand.jpg",
+  "convertedManaCost": "7",
+  "types": "Artifact",
+  "text": "Whenever you cast an instant or sorcery spell, you may put a charge counter on Sphinx-Bone Wand. If you do, Sphinx-Bone Wand deals damage equal to the number of charge counters on it to target creature or player.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Rare",
+  "cardNumber": "29",
+  "artist": "Franz Vohwinkel",
+  "rating": "2.792",
+  "votes": "24"
+}

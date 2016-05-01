@@ -1,0 +1,13 @@
+{
+  "title": "Golem Artisan",
+  "image": "./img/golem-artisan.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Golem",
+  "text": ": Target artifact creature gets +1/+1 until end of turn.: Target artifact creature gains your choice of flying, trample, or haste until end of turn.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "159",
+  "artist": "Nic Klein",
+  "rating": "3.426",
+  "votes": "68"
+}

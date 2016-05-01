@@ -1,0 +1,13 @@
+{
+  "title": "Duergar Mine-Captain",
+  "image": "./img/duergar-mine-captain.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Dwarf Soldier",
+  "text": ", : Attacking creatures get +1/+0 until end of turn. ( is the untap symbol.)",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "138",
+  "artist": "Matt Cavotta",
+  "rating": "2.798",
+  "votes": "42"
+}

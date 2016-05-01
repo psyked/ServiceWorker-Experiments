@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Marauder",
+  "image": "./img/phyrexian-marauder.jpg",
+  "convertedManaCost": "0",
+  "types": "Artifact Creature  — Construct",
+  "text": "Phyrexian Marauder enters the battlefield with X +1/+1 counters on it.Phyrexian Marauder can't block.Phyrexian Marauder can't attack unless you pay  for each +1/+1 counter on it.",
+  "expansion": "Visions",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "David Seeley",
+  "rating": "1.500",
+  "votes": "55"
+}

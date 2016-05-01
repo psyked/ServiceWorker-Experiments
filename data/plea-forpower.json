@@ -1,0 +1,13 @@
+{
+  "title": "Plea for Power",
+  "image": "./img/plea-forpower.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Will of the council — Starting with you, each player votes for time or knowledge. If time gets more votes, take an extra turn after this one. If knowledge gets more votes or the vote is tied, draw three cards.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Rare",
+  "cardNumber": "24",
+  "artist": "John Severin Brassell",
+  "rating": "4.000",
+  "votes": "10"
+}

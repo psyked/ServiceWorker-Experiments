@@ -1,0 +1,13 @@
+{
+  "title": "Mistveil Plains",
+  "image": "./img/mistveil-plains.jpg",
+  "convertedManaCost": "",
+  "types": "Land  — Plains",
+  "text": "(: Add  to your mana pool.)Mistveil Plains enters the battlefield tapped., : Put target card from your graveyard on the bottom of your library. Activate this ability only if you control two or more white permanents.",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "275",
+  "artist": "Rob Alexander",
+  "rating": "3.044",
+  "votes": "57"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Briar Shield",
+  "image": "./img/briar-shield.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+1.Sacrifice Briar Shield: Enchanted creature gets +3/+3 until end of turn.",
+  "expansion": "Weatherlight",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Scott Kirschner",
+  "rating": "3.333",
+  "votes": "36"
+}

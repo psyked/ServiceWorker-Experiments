@@ -1,0 +1,13 @@
+{
+  "title": "Infernal Denizen",
+  "image": "./img/infernal-denizen.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Demon",
+  "text": "At the beginning of your upkeep, sacrifice two Swamps. If you can't, tap Infernal Denizen, and an opponent may gain control of a creature you control of his or her choice for as long as Infernal Denizen remains on the battlefield.: Gain control of target creature for as long as Infernal Denizen remains on the battlefield.",
+  "expansion": "Ice Age",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Drew Tucker",
+  "rating": "2.133",
+  "votes": "49"
+}

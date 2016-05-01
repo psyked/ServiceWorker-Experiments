@@ -1,0 +1,13 @@
+{
+  "title": "Volcanic Awakening",
+  "image": "./img/volcanic-awakening.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Destroy target land.Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "186",
+  "artist": "Dan Scott",
+  "rating": "2.878",
+  "votes": "45"
+}

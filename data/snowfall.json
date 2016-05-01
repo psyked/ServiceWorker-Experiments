@@ -1,0 +1,13 @@
+{
+  "title": "Snowfall",
+  "image": "./img/snowfall.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Cumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)Whenever an Island is tapped for mana, its controller may add  to his or her mana pool (in addition to the mana the land produces). If that Island is snow, its controller may add  to his or her mana pool instead. Spend this mana only to pay cumulative upkeep costs.",
+  "expansion": "Ice Age",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Phil Foglio",
+  "rating": "2.302",
+  "votes": "43"
+}

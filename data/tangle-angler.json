@@ -1,0 +1,13 @@
+{
+  "title": "Tangle Angler",
+  "image": "./img/tangle-angler.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Horror",
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.): Target creature blocks Tangle Angler this turn if able.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "128",
+  "artist": "Igor Kieryluk",
+  "rating": "3.573",
+  "votes": "110"
+}

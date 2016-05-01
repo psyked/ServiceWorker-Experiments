@@ -1,0 +1,13 @@
+{
+  "title": "Vampire Nighthawk",
+  "image": "./img/vampire-nighthawk.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vampire Shaman",
+  "text": "FlyingDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)Lifelink (Damage dealt by this creature also causes you to gain that much life.)",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "58",
+  "artist": "Jason Chan",
+  "rating": "5",
+  "votes": "0"
+}

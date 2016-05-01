@@ -1,0 +1,13 @@
+{
+  "title": "Wreath of Geists",
+  "image": "./img/wreath-ofgeists.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +X/+X, where X is the number of creature cards in your graveyard.",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "211",
+  "artist": "Jason A. Engle",
+  "rating": "3.491",
+  "votes": "58"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Tower Above",
+  "image": "./img/tower-above.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "( can be paid with any two mana or with . This card's converted mana cost is 6.)Until end of turn, target creature gets +4/+4 and gains trample, wither, and \"When this creature attacks, target creature blocks it this turn if able.\" (It deals damage to creatures in the form of -1/-1 counters.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "131",
+  "artist": "Thomas Denmark",
+  "rating": "3.733",
+  "votes": "60"
+}

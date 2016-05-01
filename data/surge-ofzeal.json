@@ -1,0 +1,13 @@
+{
+  "title": "Surge of Zeal",
+  "image": "./img/surge-ofzeal.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Radiance — Target creature and each other creature that shares a color with it gain haste until end of turn.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "146",
+  "artist": "Justin Sweet",
+  "rating": "1.705",
+  "votes": "44"
+}

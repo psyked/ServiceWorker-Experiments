@@ -1,0 +1,13 @@
+{
+  "title": "Shred Memory",
+  "image": "./img/shred-memory.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Exile up to four target cards from a single graveyard.Transmute  (, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "105",
+  "artist": "Hideaki Takamura",
+  "rating": "3.622",
+  "votes": "45"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Welding Jar",
+  "image": "./img/welding-jar.jpg",
+  "convertedManaCost": "0",
+  "types": "Artifact",
+  "text": "Sacrifice Welding Jar: Regenerate target artifact.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "274",
+  "artist": "Mark Brill",
+  "rating": "4.132",
+  "votes": "68"
+}

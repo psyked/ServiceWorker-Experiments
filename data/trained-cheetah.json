@@ -1,0 +1,13 @@
+{
+  "title": "Trained Cheetah",
+  "image": "./img/trained-cheetah.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Cat",
+  "text": "Whenever Trained Cheetah becomes blocked, it gets +1/+1 until end of turn.",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Uncommon",
+  "cardNumber": "155",
+  "artist": "Fang Yue",
+  "rating": "1.923",
+  "votes": "26"
+}

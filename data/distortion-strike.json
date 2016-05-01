@@ -1,0 +1,13 @@
+{
+  "title": "Distortion Strike",
+  "image": "./img/distortion-strike.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Target creature gets +1/+0 until end of turn and can't be blocked this turn.Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "60",
+  "artist": "Goran Josic",
+  "rating": "4.225",
+  "votes": "191"
+}

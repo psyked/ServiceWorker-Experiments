@@ -1,0 +1,13 @@
+{
+  "title": "Niblis of the Mist",
+  "image": "./img/niblis-ofthemist.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "FlyingWhen Niblis of the Mist enters the battlefield, you may tap target creature.",
+  "expansion": "Dark Ascension",
+  "rarity": "Common",
+  "cardNumber": "15",
+  "artist": "Igor Kieryluk",
+  "rating": "2.130",
+  "votes": "46"
+}

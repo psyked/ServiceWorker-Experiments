@@ -1,0 +1,13 @@
+{
+  "title": "Bomb Squad",
+  "image": "./img/bomb-squad.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Dwarf",
+  "text": ": Put a fuse counter on target creature.At the beginning of your upkeep, put a fuse counter on each creature with a fuse counter on it.Whenever a creature has four or more fuse counters on it, remove all fuse counters from it and destroy it. That creature deals 4 damage to its controller.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "179",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "3.469",
+  "votes": "32"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Brain Gorgers",
+  "image": "./img/brain-gorgers.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie",
+  "text": "When you cast Brain Gorgers, any player may sacrifice a creature. If a player does, counter Brain Gorgers.Madness  (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "expansion": "Planar Chaos",
+  "rarity": "Common",
+  "cardNumber": "65",
+  "artist": "Kev Walker",
+  "rating": "2.905",
+  "votes": "37"
+}

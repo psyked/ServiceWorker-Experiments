@@ -1,0 +1,13 @@
+{
+  "title": "Infernal Medusa",
+  "image": "./img/infernal-medusa.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Gorgon",
+  "text": "Whenever Infernal Medusa blocks a creature, destroy that creature at end of combat.Whenever Infernal Medusa becomes blocked by a non-Wall creature, destroy that creature at end of combat.",
+  "expansion": "Legends",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Anson Maddocks",
+  "rating": "3.391",
+  "votes": "32"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Abu Ja'far",
+  "image": "./img/abu-jafar.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human",
+  "text": "When Abu Ja'far dies, destroy all creatures blocking or blocked by it. They can't be regenerated.",
+  "expansion": "Chronicles",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Ken Meyer, Jr.",
+  "rating": "3.797",
+  "votes": "69"
+}

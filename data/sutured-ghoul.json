@@ -1,0 +1,13 @@
+{
+  "title": "Sutured Ghoul",
+  "image": "./img/sutured-ghoul.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Zombie",
+  "text": "TrampleAs Sutured Ghoul enters the battlefield, exile any number of creature cards from your graveyard.Sutured Ghoul's power is equal to the total power of the exiled cards and its toughness is equal to their total toughness.",
+  "expansion": "Magic 2012",
+  "rarity": "Rare",
+  "cardNumber": "112",
+  "artist": "Carl Critchlow",
+  "rating": "4.091",
+  "votes": "77"
+}

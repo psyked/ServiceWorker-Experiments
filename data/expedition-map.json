@@ -1,0 +1,13 @@
+{
+  "title": "Expedition Map",
+  "image": "./img/expedition-map.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ", , Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "213",
+  "artist": "Franz Vohwinkel",
+  "rating": "5",
+  "votes": "0"
+}

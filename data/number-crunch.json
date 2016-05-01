@@ -1,0 +1,13 @@
+{
+  "title": "Number Crunch",
+  "image": "./img/number-crunch.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Return target permanent to its owner's hand.Gotcha Whenever an opponent says a number, you may say \"Gotcha\" If you do, return Number Crunch from your graveyard to your hand.",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "42",
+  "artist": "Stephen Daniele",
+  "rating": "3.650",
+  "votes": "20"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Lightning Berserker",
+  "image": "./img/lightning-berserker.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Berserker",
+  "text": ": Lightning Berserker gets +1/+0 until end of turn.Dash  (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "146",
+  "artist": "Joseph Meehan",
+  "rating": "5",
+  "votes": "0"
+}

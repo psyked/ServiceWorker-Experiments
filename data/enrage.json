@@ -1,0 +1,13 @@
+{
+  "title": "Enrage",
+  "image": "./img/enrage.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets +X/+0 until end of turn.",
+  "expansion": "Ninth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "180",
+  "artist": "Justin Sweet",
+  "rating": "3.053",
+  "votes": "38"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Rakdos the Defiler",
+  "image": "./img/rakdos-thedefiler.jpg",
+  "convertedManaCost": "6",
+  "types": "Legendary Creature  — Demon",
+  "text": "Flying, trampleWhenever Rakdos the Defiler attacks, sacrifice half the non-Demon permanents you control, rounded up.Whenever Rakdos deals combat damage to a player, that player sacrifices half the non-Demon permanents he or she controls, rounded up.",
+  "expansion": "Dissension",
+  "rarity": "Rare",
+  "cardNumber": "129",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "3.799",
+  "votes": "132"
+}

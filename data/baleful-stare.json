@@ -1,0 +1,13 @@
+{
+  "title": "Baleful Stare",
+  "image": "./img/baleful-stare.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target opponent reveals his or her hand. You draw a card for each Mountain and red card in it.",
+  "expansion": "Ninth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "64",
+  "artist": "Randy Gallegos",
+  "rating": "3.297",
+  "votes": "32"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Pariah's Shield",
+  "image": "./img/pariahs-shield.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact  — Equipment",
+  "text": "All damage that would be dealt to you is dealt to equipped creature instead.Equip",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "267",
+  "artist": "Doug Chaffee",
+  "rating": "3.705",
+  "votes": "61"
+}

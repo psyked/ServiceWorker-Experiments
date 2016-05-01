@@ -1,0 +1,13 @@
+{
+  "title": "Curse of Inertia",
+  "image": "./img/curse-ofinertia.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura Curse",
+  "text": "Enchant playerWhenever a player attacks enchanted player with one or more creatures, that attacking player may tap or untap target permanent of his or her choice.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "36",
+  "artist": "Jasper Sandner",
+  "rating": "3.567",
+  "votes": "15"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sliver Overlord",
+  "image": "./img/sliver-overlord.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Sliver Mutant",
+  "text": ": Search your library for a Sliver card, reveal that card, and put it into your hand. Then shuffle your library.: Gain control of target Sliver. (This effect lasts indefinitely.)",
+  "expansion": "Premium Deck Series: Slivers",
+  "rarity": "Mythic Rare",
+  "cardNumber": "24",
+  "artist": "Tony Szczudlo",
+  "rating": "4.232",
+  "votes": "136"
+}

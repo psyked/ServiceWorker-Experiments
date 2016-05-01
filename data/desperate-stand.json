@@ -1,0 +1,13 @@
+{
+  "title": "Desperate Stand",
+  "image": "./img/desperate-stand.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Strive — Desperate Stand costs  more to cast for each target beyond the first.Any number of target creatures each get +2/+0 and gain first strike and vigilance until end of turn.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "147",
+  "artist": "Raymond Swanland",
+  "rating": "2.692",
+  "votes": "26"
+}

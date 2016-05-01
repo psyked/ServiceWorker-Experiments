@@ -1,0 +1,13 @@
+{
+  "title": "Sunscorch Regent",
+  "image": "./img/sunscorch-regent.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhenever an opponent casts a spell, put a +1/+1 counter on Sunscorch Regent and you gain 1 life.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "41",
+  "artist": "Matt Stewart",
+  "rating": "5",
+  "votes": "0"
+}

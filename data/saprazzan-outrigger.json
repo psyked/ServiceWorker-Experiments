@@ -1,0 +1,13 @@
+{
+  "title": "Saprazzan Outrigger",
+  "image": "./img/saprazzan-outrigger.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Merfolk",
+  "text": "When Saprazzan Outrigger attacks or blocks, put it on top of its owner's library at end of combat.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "101",
+  "artist": "Doug Chaffee",
+  "rating": "2.263",
+  "votes": "38"
+}

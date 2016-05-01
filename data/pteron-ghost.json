@@ -1,0 +1,13 @@
+{
+  "title": "Pteron Ghost",
+  "image": "./img/pteron-ghost.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": "FlyingSacrifice Pteron Ghost: Regenerate target artifact.",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "10",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "2.421",
+  "votes": "38"
+}

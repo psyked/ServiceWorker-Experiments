@@ -1,0 +1,13 @@
+{
+  "title": "Razor Swine",
+  "image": "./img/razor-swine.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Boar",
+  "text": "First strikeInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "92",
+  "artist": "Dave Allsop",
+  "rating": "3.539",
+  "votes": "89"
+}

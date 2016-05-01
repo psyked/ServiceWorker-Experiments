@@ -1,0 +1,13 @@
+{
+  "title": "Howl of the Horde",
+  "image": "./img/howl-ofthehorde.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.Raid — If you attacked with a creature this turn, when you cast your next instant or sorcery spell this turn, copy that spell an additional time. You may choose new targets for the copy.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "112",
+  "artist": "Slawomir Maniak",
+  "rating": "3.375",
+  "votes": "4"
+}

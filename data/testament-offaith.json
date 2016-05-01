@@ -1,0 +1,13 @@
+{
+  "title": "Testament of Faith",
+  "image": "./img/testament-offaith.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment",
+  "text": ": Testament of Faith becomes an X/X Wall creature with defender in addition to its other types until end of turn.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "55",
+  "artist": "Roger Raupp",
+  "rating": "2.679",
+  "votes": "28"
+}

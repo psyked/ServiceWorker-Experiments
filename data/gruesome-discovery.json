@@ -1,0 +1,13 @@
+{
+  "title": "Gruesome Discovery",
+  "image": "./img/gruesome-discovery.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Target player discards two cards.Morbid — If a creature died this turn, instead that player reveals his or her hand, you choose two cards from it, then that player discards those cards.",
+  "expansion": "Dark Ascension",
+  "rarity": "Common",
+  "cardNumber": "66",
+  "artist": "John Stanko",
+  "rating": "2.817",
+  "votes": "41"
+}

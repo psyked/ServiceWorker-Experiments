@@ -1,0 +1,13 @@
+{
+  "title": "Stormscape Apprentice",
+  "image": "./img/stormscape-apprentice.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Wizard",
+  "text": ", : Tap target creature., : Target player loses 1 life.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "75",
+  "artist": "D. Alexander Gregory",
+  "rating": "4.220",
+  "votes": "59"
+}

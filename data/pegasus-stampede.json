@@ -1,0 +1,13 @@
+{
+  "title": "Pegasus Stampede",
+  "image": "./img/pegasus-stampede.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Buyback—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)Put a 1/1 white Pegasus creature token with flying onto the battlefield.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "24",
+  "artist": "Mark Zug",
+  "rating": "5",
+  "votes": "0"
+}

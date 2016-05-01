@@ -1,0 +1,13 @@
+{
+  "title": "Tormented Soul",
+  "image": "./img/tormented-soul.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Spirit",
+  "text": "Tormented Soul can't block and can't be blocked.",
+  "expansion": "Magic 2013",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "Karl Kopinski",
+  "rating": "3.877",
+  "votes": "61"
+}

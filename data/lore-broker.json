@@ -1,0 +1,13 @@
+{
+  "title": "Lore Broker",
+  "image": "./img/lore-broker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Rogue",
+  "text": ": Each player draws a card, then discards a card.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "57",
+  "artist": "Alan Pollack",
+  "rating": "3.230",
+  "votes": "37"
+}

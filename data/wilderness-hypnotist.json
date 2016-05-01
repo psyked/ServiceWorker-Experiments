@@ -1,0 +1,13 @@
+{
+  "title": "Wilderness Hypnotist",
+  "image": "./img/wilderness-hypnotist.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Merfolk Wizard",
+  "text": ": Target red or green creature gets -2/-0 until end of turn.",
+  "expansion": "Eventide",
+  "rarity": "Common",
+  "cardNumber": "32",
+  "artist": "Rebecca Guay",
+  "rating": "1.021",
+  "votes": "48"
+}

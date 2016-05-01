@@ -1,0 +1,13 @@
+{
+  "title": "Impromptu Raid",
+  "image": "./img/impromptu-raid.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": ": Reveal the top card of your library. If it isn't a creature card, put it into your graveyard. Otherwise, put that card onto the battlefield. That creature gains haste. Sacrifice it at the beginning of the next end step.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "209",
+  "artist": "Randy Gallegos",
+  "rating": "2.814",
+  "votes": "43"
+}

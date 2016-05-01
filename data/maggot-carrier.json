@@ -1,0 +1,13 @@
+{
+  "title": "Maggot Carrier",
+  "image": "./img/maggot-carrier.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Zombie",
+  "text": "When Maggot Carrier enters the battlefield, each player loses 1 life.",
+  "expansion": "Eighth Edition",
+  "rarity": "Common",
+  "cardNumber": "142",
+  "artist": "Ron Spencer",
+  "rating": "3.649",
+  "votes": "47"
+}

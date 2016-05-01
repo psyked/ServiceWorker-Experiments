@@ -1,0 +1,13 @@
+{
+  "title": "Sword of the Paruns",
+  "image": "./img/sword-oftheparuns.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact  — Equipment",
+  "text": "As long as equipped creature is tapped, tapped creatures you control get +2/+0.As long as equipped creature is untapped, untapped creatures you control get +0/+2.: You may tap or untap equipped creature.Equip",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "264",
+  "artist": "Greg Hildebrandt",
+  "rating": "3.833",
+  "votes": "9"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Tolarian Serpent",
+  "image": "./img/tolarian-serpent.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Serpent",
+  "text": "At the beginning of your upkeep, put the top seven cards of your library into your graveyard.",
+  "expansion": "Weatherlight",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Stuart Griffin",
+  "rating": "2.625",
+  "votes": "52"
+}

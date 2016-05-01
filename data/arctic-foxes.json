@@ -1,0 +1,13 @@
+{
+  "title": "Arctic Foxes",
+  "image": "./img/arctic-foxes.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Fox",
+  "text": "Arctic Foxes can't be blocked by creatures with power 2 or greater as long as defending player controls a snow land.",
+  "expansion": "Ice Age",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Mark Poole",
+  "rating": "1.854",
+  "votes": "41"
+}

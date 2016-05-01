@@ -1,0 +1,13 @@
+{
+  "title": "Viashino Sandswimmer",
+  "image": "./img/viashino-sandswimmer.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Viashino",
+  "text": ": Flip a coin. If you win the flip, return Viashino Sandswimmer to its owner's hand. If you lose the flip, sacrifice Viashino Sandswimmer.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "225",
+  "artist": "Pete Venters",
+  "rating": "2.348",
+  "votes": "33"
+}

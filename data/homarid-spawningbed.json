@@ -1,0 +1,13 @@
+{
+  "title": "Homarid Spawning Bed",
+  "image": "./img/homarid-spawningbed.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": ", Sacrifice a blue creature: Put X 1/1 blue Camarid creature tokens onto the battlefield, where X is the sacrificed creature's converted mana cost.",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "36",
+  "artist": "Douglas Shuler",
+  "rating": "4.322",
+  "votes": "45"
+}

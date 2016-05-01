@@ -1,0 +1,13 @@
+{
+  "title": "Ghost-Lit Nourisher",
+  "image": "./img/ghost-lit-nourisher.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": ", : Target creature gets +2/+2 until end of turn.Channel — , Discard Ghost-Lit Nourisher: Target creature gets +4/+4 until end of turn.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "131",
+  "artist": "Tsutomu Kawade",
+  "rating": "2.241",
+  "votes": "29"
+}

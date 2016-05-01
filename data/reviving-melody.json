@@ -1,0 +1,13 @@
+{
+  "title": "Reviving Melody",
+  "image": "./img/reviving-melody.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Choose one or both —• Return target creature card from your graveyard to your hand.• Return target enchantment card from your graveyard to your hand.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "138",
+  "artist": "Cynthia Sheppard",
+  "rating": "3.658",
+  "votes": "19"
+}

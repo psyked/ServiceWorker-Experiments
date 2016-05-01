@@ -1,0 +1,13 @@
+{
+  "title": "Tibalt, the Fiend-Blooded",
+  "image": "./img/tibalt-thefiend-blooded.jpg",
+  "convertedManaCost": "2",
+  "types": "Planeswalker  — Tibalt",
+  "text": "+1: Draw a card, then discard a card at random.−4: Tibalt, the Fiend-Blooded deals damage equal to the number of cards in target player's hand to that player.−6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Mythic Rare",
+  "cardNumber": "41",
+  "artist": "Chase Stone",
+  "rating": "2.962",
+  "votes": "118"
+}

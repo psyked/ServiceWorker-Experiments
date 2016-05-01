@@ -1,0 +1,13 @@
+{
+  "title": "Primeval Light",
+  "image": "./img/primeval-light.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy all enchantments target player controls.",
+  "expansion": "Guildpact",
+  "rarity": "Uncommon",
+  "cardNumber": "93",
+  "artist": "Jim Nelson",
+  "rating": "3.605",
+  "votes": "43"
+}

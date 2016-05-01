@@ -1,0 +1,13 @@
+{
+  "title": "Trench Gorger",
+  "image": "./img/trench-gorger.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Leviathan",
+  "text": "TrampleWhen Trench Gorger enters the battlefield, you may search your library for any number of land cards, exile them, then shuffle your library. If you do, Trench Gorger has base power and base toughness each equal to the number of cards exiled this way.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Rare",
+  "cardNumber": "65",
+  "artist": "Hideaki Takamura",
+  "rating": "3.783",
+  "votes": "60"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Snake Pit",
+  "image": "./img/snake-pit.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever an opponent casts a blue or black spell, you may put a 1/1 green Snake creature token onto the battlefield.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "271",
+  "artist": "Carl Critchlow",
+  "rating": "3.942",
+  "votes": "26"
+}

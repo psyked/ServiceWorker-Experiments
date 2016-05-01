@@ -1,0 +1,13 @@
+{
+  "title": "Biting Rain",
+  "image": "./img/biting-rain.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "All creatures get -2/-2 until end of turn. Madness  (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "102",
+  "artist": "John Stanko",
+  "rating": "5",
+  "votes": "0"
+}

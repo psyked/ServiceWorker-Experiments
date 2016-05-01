@@ -1,0 +1,13 @@
+{
+  "title": "Andradite Leech",
+  "image": "./img/andradite-leech.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Leech",
+  "text": "Black spells you cast cost  more to cast.: Andradite Leech gets +1/+1 until end of turn.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "93",
+  "artist": "Wayne England",
+  "rating": "1.190",
+  "votes": "87"
+}

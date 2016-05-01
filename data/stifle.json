@@ -1,0 +1,13 @@
+{
+  "title": "Stifle",
+  "image": "./img/stifle.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Counter target activated or triggered ability. (Mana abilities can't be targeted.)",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Rare",
+  "cardNumber": "108",
+  "artist": "Eric Fortune",
+  "rating": "4.696",
+  "votes": "23"
+}

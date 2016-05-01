@@ -1,0 +1,13 @@
+{
+  "title": "Thunderscape Apprentice",
+  "image": "./img/thunderscape-apprentice.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Wizard",
+  "text": ", : Target player loses 1 life., : Target creature gets +1/+1 until end of turn.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "174",
+  "artist": "D. Alexander Gregory",
+  "rating": "3.107",
+  "votes": "42"
+}

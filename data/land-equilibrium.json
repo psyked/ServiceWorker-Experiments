@@ -1,0 +1,13 @@
+{
+  "title": "Land Equilibrium",
+  "image": "./img/land-equilibrium.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "If an opponent who controls at least as many lands as you do would put a land onto the battlefield, that player instead puts that land onto the battlefield then sacrifices a land.",
+  "expansion": "Masters Edition III",
+  "rarity": "Rare",
+  "cardNumber": "40",
+  "artist": "Jesper Myrfors",
+  "rating": "4.488",
+  "votes": "43"
+}

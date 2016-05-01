@@ -1,0 +1,13 @@
+{
+  "title": "Puppet's Verdict",
+  "image": "./img/puppets-verdict.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Flip a coin. If you win the flip, destroy all creatures with power 2 or less. If you lose the flip, destroy all creatures with power 3 or greater.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "208",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "3.552",
+  "votes": "29"
+}

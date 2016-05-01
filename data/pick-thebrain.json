@@ -1,0 +1,13 @@
+{
+  "title": "Pick the Brain",
+  "image": "./img/pick-thebrain.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target opponent reveals his or her hand. You choose a nonland card from it and exile that card.Delirium — If there are four or more card types among cards in your graveyard, search that player's graveyard, hand, and library for any number of cards with the same name as the exiled card, exile those cards, then that player shuffles his or her library.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "129",
+  "artist": "Mathias Kollros",
+  "rating": "5",
+  "votes": "0"
+}

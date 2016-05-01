@@ -1,0 +1,13 @@
+{
+  "title": "Spell Crumple",
+  "image": "./img/spell-crumple.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell. If that spell is countered this way, put it on the bottom of its owner's library instead of into that player's graveyard. Put Spell Crumple on the bottom of its owner's library.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Uncommon",
+  "cardNumber": "63",
+  "artist": "Dan Scott",
+  "rating": "3.881",
+  "votes": "59"
+}

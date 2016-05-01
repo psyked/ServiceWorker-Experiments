@@ -1,0 +1,13 @@
+{
+  "title": "Generator Servant",
+  "image": "./img/generator-servant.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elemental",
+  "text": ", Sacrifice Generator Servant: Add  to your mana pool. If that mana is spent on a creature spell, it gains haste until end of turn. (That creature can attack and  as soon as it comes under your control.)",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "143",
+  "artist": "Mathias Kollros",
+  "rating": "3.722",
+  "votes": "9"
+}

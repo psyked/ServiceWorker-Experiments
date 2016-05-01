@@ -1,0 +1,13 @@
+{
+  "title": "Cathodion",
+  "image": "./img/cathodion.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Construct",
+  "text": "When Cathodion dies, add  to your mana pool.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "203",
+  "artist": "Izzy",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sidisi's Pet",
+  "image": "./img/sidisis-pet.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie Ape",
+  "text": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "90",
+  "artist": "Evan Shipard",
+  "rating": "2.250",
+  "votes": "2"
+}

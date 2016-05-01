@@ -1,0 +1,13 @@
+{
+  "title": "Loyal Retainers",
+  "image": "./img/loyal-retainers.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Advisor",
+  "text": "Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared.",
+  "expansion": "Commander's Arsenal",
+  "rarity": "Uncommon",
+  "cardNumber": "10",
+  "artist": "Solomon Au Yeung",
+  "rating": "4.538",
+  "votes": "40"
+}

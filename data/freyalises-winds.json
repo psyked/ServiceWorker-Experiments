@@ -1,0 +1,13 @@
+{
+  "title": "Freyalise's Winds",
+  "image": "./img/freyalises-winds.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever a permanent becomes tapped, put a wind counter on it.If a permanent with a wind counter on it would untap during its controller's untap step, remove all wind counters from it instead.",
+  "expansion": "Masters Edition III",
+  "rarity": "Rare",
+  "cardNumber": "119",
+  "artist": "Mark Tedin",
+  "rating": "3.759",
+  "votes": "27"
+}

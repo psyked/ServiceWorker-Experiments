@@ -1,0 +1,13 @@
+{
+  "title": "Steppe Lynx",
+  "image": "./img/steppe-lynx.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Cat",
+  "text": "Landfall — Whenever a land enters the battlefield under your control, Steppe Lynx gets +2/+2 until end of turn.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "36",
+  "artist": "Nic Klein",
+  "rating": "4.096",
+  "votes": "162"
+}

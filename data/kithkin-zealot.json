@@ -1,0 +1,13 @@
+{
+  "title": "Kithkin Zealot",
+  "image": "./img/kithkin-zealot.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kithkin Cleric",
+  "text": "When Kithkin Zealot enters the battlefield, you gain 1 life for each black and/or red permanent target opponent controls.",
+  "expansion": "Eventide",
+  "rarity": "Common",
+  "cardNumber": "9",
+  "artist": "Scott Altmann",
+  "rating": "2.220",
+  "votes": "41"
+}

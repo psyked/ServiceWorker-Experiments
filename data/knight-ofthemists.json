@@ -1,0 +1,13 @@
+{
+  "title": "Knight of the Mists",
+  "image": "./img/knight-ofthemists.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)When Knight of the Mists enters the battlefield, you may pay . If you don't, destroy target Knight and it can't be regenerated.",
+  "expansion": "Visions",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Harold McNeill",
+  "rating": "3.482",
+  "votes": "57"
+}

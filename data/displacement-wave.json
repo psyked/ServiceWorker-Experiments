@@ -1,0 +1,13 @@
+{
+  "title": "Displacement Wave",
+  "image": "./img/displacement-wave.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Return all nonland permanents with converted mana cost X or less to their owners' hands.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "55",
+  "artist": "Seb McKinnon",
+  "rating": "5",
+  "votes": "0"
+}

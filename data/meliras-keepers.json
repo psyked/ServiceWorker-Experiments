@@ -1,0 +1,13 @@
+{
+  "title": "Melira's Keepers",
+  "image": "./img/meliras-keepers.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Warrior",
+  "text": "Melira's Keepers can't have counters placed on it.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Uncommon",
+  "cardNumber": "83",
+  "artist": "Eric Deschamps",
+  "rating": "3.147",
+  "votes": "68"
+}

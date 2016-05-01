@@ -1,0 +1,13 @@
+{
+  "title": "Ojutai's Command",
+  "image": "./img/ojutais-command.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Choose two —• Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.• You gain 4 life.• Counter target creature spell.• Draw a card.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "227",
+  "artist": "Willian Murai",
+  "rating": "5",
+  "votes": "0"
+}

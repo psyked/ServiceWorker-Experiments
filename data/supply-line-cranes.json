@@ -1,0 +1,13 @@
+{
+  "title": "Supply-Line Cranes",
+  "image": "./img/supply-line-cranes.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bird",
+  "text": "FlyingWhen Supply-Line Cranes enters the battlefield, put a +1/+1 counter on target creature.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "28",
+  "artist": "Daniel Ljunggren",
+  "rating": "3.238",
+  "votes": "21"
+}

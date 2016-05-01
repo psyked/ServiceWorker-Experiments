@@ -1,0 +1,13 @@
+{
+  "title": "Order of the Ebon Hand",
+  "image": "./img/order-oftheebonhand.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Cleric Knight",
+  "text": "Protection from white: Order of the Ebon Hand gains first strike until end of turn.: Order of the Ebon Hand gets +1/+0 until end of turn.",
+  "expansion": "Masters Edition",
+  "rarity": "Common",
+  "cardNumber": "78",
+  "artist": "Ron Spencer",
+  "rating": "4.476",
+  "votes": "85"
+}

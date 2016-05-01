@@ -1,0 +1,13 @@
+{
+  "title": "Cursed Land",
+  "image": "./img/cursed-land.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landAt the beginning of the upkeep of enchanted land's controller, Cursed Land deals 1 damage to that player.",
+  "expansion": "Fifth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Jesper Myrfors",
+  "rating": "2.317",
+  "votes": "30"
+}

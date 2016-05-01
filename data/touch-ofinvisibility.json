@@ -1,0 +1,13 @@
+{
+  "title": "Touch of Invisibility",
+  "image": "./img/touch-ofinvisibility.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Target creature can't be blocked this turn.Draw a card.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "109",
+  "artist": "Eric Peterson",
+  "rating": "1.383",
+  "votes": "30"
+}

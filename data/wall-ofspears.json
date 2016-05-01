@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Spears",
+  "image": "./img/wall-ofspears.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Wall",
+  "text": "Defender (This creature can't attack.)First strike",
+  "expansion": "Eighth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "320",
+  "artist": "Christopher Moeller",
+  "rating": "3.036",
+  "votes": "55"
+}

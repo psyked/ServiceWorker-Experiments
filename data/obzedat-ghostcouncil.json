@@ -1,0 +1,13 @@
+{
+  "title": "Obzedat, Ghost Council",
+  "image": "./img/obzedat-ghostcouncil.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Spirit Advisor",
+  "text": "When Obzedat, Ghost Council enters the battlefield, target opponent loses 2 life and you gain 2 life.At the beginning of your end step, you may exile Obzedat. If you do, return it to the battlefield under its owner's control at the beginning of your next upkeep. It gains haste.",
+  "expansion": "Gatecrash",
+  "rarity": "Mythic Rare",
+  "cardNumber": "182",
+  "artist": "Svetlin Velinov",
+  "rating": "4.035",
+  "votes": "212"
+}

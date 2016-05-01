@@ -1,0 +1,13 @@
+{
+  "title": "Alpha Brawl",
+  "image": "./img/alpha-brawl.jpg",
+  "convertedManaCost": "8",
+  "types": "Sorcery",
+  "text": "Target creature an opponent controls deals damage equal to its power to each other creature that player controls, then each of those creatures deals damage equal to its power to that creature.",
+  "expansion": "Dark Ascension",
+  "rarity": "Rare",
+  "cardNumber": "82",
+  "artist": "Randy Gallegos",
+  "rating": "2.843",
+  "votes": "83"
+}

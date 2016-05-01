@@ -1,0 +1,13 @@
+{
+  "title": "Necrotic Plague",
+  "image": "./img/necrotic-plague.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has \"At the beginning of your upkeep, sacrifice this creature.\"When enchanted creature dies, its controller chooses target creature one of his or her opponents controls. Return Necrotic Plague from its owner's graveyard to the battlefield attached to that creature.",
+  "expansion": "Magic 2011",
+  "rarity": "Rare",
+  "cardNumber": "107",
+  "artist": "Jaime Jones",
+  "rating": "2.854",
+  "votes": "72"
+}

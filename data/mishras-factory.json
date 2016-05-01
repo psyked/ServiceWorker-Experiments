@@ -1,0 +1,13 @@
+{
+  "title": "Mishra's Factory",
+  "image": "./img/mishras-factory.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool.: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.: Target Assembly-Worker creature gets +1/+1 until end of turn.",
+  "expansion": "Duel Decks: Elspeth vs. Tezzeret",
+  "rarity": "Uncommon",
+  "cardNumber": "73",
+  "artist": "Scott Chou",
+  "rating": "4.579",
+  "votes": "70"
+}

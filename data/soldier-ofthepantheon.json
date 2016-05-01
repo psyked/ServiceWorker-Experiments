@@ -1,0 +1,13 @@
+{
+  "title": "Soldier of the Pantheon",
+  "image": "./img/soldier-ofthepantheon.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Soldier",
+  "text": "Protection from multicoloredWhenever an opponent casts a multicolored spell, you gain 1 life.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "32",
+  "artist": "Eric Deschamps",
+  "rating": "3.743",
+  "votes": "107"
+}

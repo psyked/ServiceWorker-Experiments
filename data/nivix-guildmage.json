@@ -1,0 +1,13 @@
+{
+  "title": "Nivix Guildmage",
+  "image": "./img/nivix-guildmage.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": ": Draw a card, then discard a card.: Copy target instant or sorcery spell you control. You may choose new targets for the copy.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "202",
+  "artist": "Scott M. Fischer",
+  "rating": "3.900",
+  "votes": "10"
+}

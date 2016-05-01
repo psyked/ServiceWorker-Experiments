@@ -1,0 +1,13 @@
+{
+  "title": "Shrieking Grotesque",
+  "image": "./img/shrieking-grotesque.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Gargoyle",
+  "text": "FlyingWhen Shrieking Grotesque enters the battlefield, if  was spent to cast it, target player discards a card.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "15",
+  "artist": "Dany Orizio",
+  "rating": "3.321",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Myojin of Cleansing Fire",
+  "image": "./img/myojin-ofcleansingfire.jpg",
+  "convertedManaCost": "8",
+  "types": "Legendary Creature  — Spirit",
+  "text": "Myojin of Cleansing Fire enters the battlefield with a divinity counter on it if you cast it from your hand.Myojin of Cleansing Fire has indestructible as long as it has a divinity counter on it.Remove a divinity counter from Myojin of Cleansing Fire: Destroy all other creatures.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "35",
+  "artist": "Kev Walker",
+  "rating": "4.019",
+  "votes": "53"
+}

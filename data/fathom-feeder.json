@@ -1,0 +1,13 @@
+{
+  "title": "Fathom Feeder",
+  "image": "./img/fathom-feeder.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.)DeathtouchIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.): Draw a card. Each opponent exiles the top card of his or her library.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "203",
+  "artist": "Clint Cearley",
+  "rating": "5",
+  "votes": "0"
+}

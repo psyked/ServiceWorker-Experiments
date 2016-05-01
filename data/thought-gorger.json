@@ -1,0 +1,13 @@
+{
+  "title": "Thought Gorger",
+  "image": "./img/thought-gorger.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Horror",
+  "text": "TrampleWhen Thought Gorger enters the battlefield, put a +1/+1 counter on it for each card in your hand. If you do, discard your hand.When Thought Gorger leaves the battlefield, draw a card for each +1/+1 counter on it.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Rare",
+  "cardNumber": "129",
+  "artist": "Jason Felix",
+  "rating": "3.911",
+  "votes": "79"
+}

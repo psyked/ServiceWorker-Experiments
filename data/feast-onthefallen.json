@@ -1,0 +1,13 @@
+{
+  "title": "Feast on the Fallen",
+  "image": "./img/feast-onthefallen.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of each upkeep, if an opponent lost life last turn, put a +1/+1 counter on target creature you control.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "96",
+  "artist": "Dave Kendall",
+  "rating": "2.429",
+  "votes": "7"
+}

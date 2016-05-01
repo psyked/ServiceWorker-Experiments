@@ -1,0 +1,13 @@
+{
+  "title": "Sleight of Hand",
+  "image": "./img/sleight-ofhand.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "62",
+  "artist": "Phil Foglio",
+  "rating": "4.345",
+  "votes": "42"
+}

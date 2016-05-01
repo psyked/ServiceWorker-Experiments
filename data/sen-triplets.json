@@ -1,0 +1,13 @@
+{
+  "title": "Sen Triplets",
+  "image": "./img/sen-triplets.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Artifact Creature  — Human Wizard",
+  "text": "At the beginning of your upkeep, choose target opponent. This turn, that player can't cast spells or activate abilities and plays with his or her hand revealed. You may play cards from that player's hand this turn.",
+  "expansion": "Alara Reborn",
+  "rarity": "Mythic Rare",
+  "cardNumber": "109",
+  "artist": "Greg Staples",
+  "rating": "3.998",
+  "votes": "216"
+}

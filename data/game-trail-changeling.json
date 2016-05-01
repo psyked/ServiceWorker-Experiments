@@ -1,0 +1,13 @@
+{
+  "title": "Game-Trail Changeling",
+  "image": "./img/game-trail-changeling.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Shapeshifter",
+  "text": "Changeling (This card is every creature type.)Trample",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "123",
+  "artist": "Martina Pilcerova",
+  "rating": "3.033",
+  "votes": "46"
+}

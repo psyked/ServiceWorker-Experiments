@@ -1,0 +1,13 @@
+{
+  "title": "Nature's Lore",
+  "image": "./img/natures-lore.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.",
+  "expansion": "Duel Decks Anthology, Garruk vs. Liliana",
+  "rarity": "Common",
+  "cardNumber": "17",
+  "artist": "Terese Nielsen",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Rot Farm Skeleton",
+  "image": "./img/rot-farmskeleton.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Plant Skeleton",
+  "text": "Rot Farm Skeleton can't block., Put the top four cards of your library into your graveyard: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Uncommon",
+  "cardNumber": "98",
+  "artist": "Maciej Kuciara",
+  "rating": "3.836",
+  "votes": "55"
+}

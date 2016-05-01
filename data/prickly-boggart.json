@@ -1,0 +1,13 @@
+{
+  "title": "Prickly Boggart",
+  "image": "./img/prickly-boggart.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Rogue",
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "74",
+  "artist": "Jesper Ejsing",
+  "rating": "3.659",
+  "votes": "69"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Bludgeon Brawl",
+  "image": "./img/bludgeon-brawl.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Each noncreature, non-Equipment artifact is an Equipment with equip  and \"Equipped creature gets +X/+0,\" where X is that artifact's converted mana cost.",
+  "expansion": "New Phyrexia",
+  "rarity": "Rare",
+  "cardNumber": "80",
+  "artist": "Kev Walker",
+  "rating": "3.191",
+  "votes": "102"
+}

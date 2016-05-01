@@ -1,0 +1,13 @@
+{
+  "title": "Sanguinary Mage",
+  "image": "./img/sanguinary-mage.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Vampire Wizard",
+  "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "178",
+  "artist": "David Gaillet",
+  "rating": "5",
+  "votes": "0"
+}

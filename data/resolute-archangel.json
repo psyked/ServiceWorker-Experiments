@@ -1,0 +1,13 @@
+{
+  "title": "Resolute Archangel",
+  "image": "./img/resolute-archangel.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Angel",
+  "text": "FlyingWhen Resolute Archangel enters the battlefield, if your life total is less than your starting life total, it becomes equal to your starting life total.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "28",
+  "artist": "Anthony Palumbo",
+  "rating": "3.500",
+  "votes": "5"
+}

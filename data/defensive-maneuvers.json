@@ -1,0 +1,13 @@
+{
+  "title": "Defensive Maneuvers",
+  "image": "./img/defensive-maneuvers.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Creatures of the creature type of your choice get +0/+4 until end of turn.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "23",
+  "artist": "Luca Zontini",
+  "rating": "1.352",
+  "votes": "27"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Snow Devil",
+  "image": "./img/snow-devil.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has flying.Enchanted creature has first strike as long as it's blocking and you control a snow land.",
+  "expansion": "Ice Age",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Ken Meyer, Jr.",
+  "rating": "2.839",
+  "votes": "31"
+}

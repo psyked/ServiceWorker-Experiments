@@ -1,0 +1,13 @@
+{
+  "title": "Venomous Fangs",
+  "image": "./img/venomous-fangs.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature deals damage to a creature, destroy the other creature.",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "280",
+  "artist": "Lawrence Snelly",
+  "rating": "3.066",
+  "votes": "38"
+}

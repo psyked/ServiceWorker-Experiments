@@ -1,0 +1,13 @@
+{
+  "title": "Urza's Mine",
+  "image": "./img/urzas-mine.jpg",
+  "convertedManaCost": "",
+  "types": "Land  — Urza’s Mine",
+  "text": ": Add  to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add  to your mana pool instead.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Basic Land",
+  "cardNumber": "257",
+  "artist": "Anson Maddocks",
+  "rating": "4.190",
+  "votes": "42"
+}

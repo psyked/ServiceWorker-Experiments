@@ -1,0 +1,13 @@
+{
+  "title": "Molten Disaster",
+  "image": "./img/molten-disaster.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)If Molten Disaster was kicked, it has split second. (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)Molten Disaster deals X damage to each creature without flying and each player.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "117",
+  "artist": "Ittoku",
+  "rating": "3.500",
+  "votes": "9"
+}

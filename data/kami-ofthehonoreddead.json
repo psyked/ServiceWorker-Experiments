@@ -1,0 +1,13 @@
+{
+  "title": "Kami of the Honored Dead",
+  "image": "./img/kami-ofthehonoreddead.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Spirit",
+  "text": "FlyingWhenever Kami of the Honored Dead is dealt damage, you gain that much life.Soulshift 6 (When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "12",
+  "artist": "Mark Zug",
+  "rating": "2.571",
+  "votes": "35"
+}

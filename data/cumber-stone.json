@@ -1,0 +1,13 @@
+{
+  "title": "Cumber Stone",
+  "image": "./img/cumber-stone.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "Creatures your opponents control get -1/-0.",
+  "expansion": "Conflux",
+  "rarity": "Uncommon",
+  "cardNumber": "24",
+  "artist": "Warren Mahy",
+  "rating": "3.000",
+  "votes": "90"
+}

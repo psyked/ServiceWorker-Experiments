@@ -1,0 +1,13 @@
+{
+  "title": "Quest for the Gravelord",
+  "image": "./img/quest-forthegravelord.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment",
+  "text": "Whenever a creature dies, you may put a quest counter on Quest for the Gravelord.Remove three quest counters from Quest for the Gravelord and sacrifice it: Put a 5/5 black Zombie Giant creature token onto the battlefield.",
+  "expansion": "Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "108",
+  "artist": "Chris Rahn",
+  "rating": "3.869",
+  "votes": "88"
+}

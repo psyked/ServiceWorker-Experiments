@@ -1,0 +1,13 @@
+{
+  "title": "Perilous Myr",
+  "image": "./img/perilous-myr.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Myr",
+  "text": "When Perilous Myr dies, it deals 2 damage to target creature or player.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "192",
+  "artist": "Jason Felix",
+  "rating": "4.110",
+  "votes": "146"
+}

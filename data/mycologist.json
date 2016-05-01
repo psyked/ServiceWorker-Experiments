@@ -1,0 +1,13 @@
+{
+  "title": "Mycologist",
+  "image": "./img/mycologist.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Druid",
+  "text": "At the beginning of your upkeep, put a spore counter on Mycologist.Remove three spore counters from Mycologist: Put a 1/1 green Saproling creature token onto the battlefield.Sacrifice a Saproling: You gain 2 life.",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "27",
+  "artist": "Kev Walker",
+  "rating": "2.961",
+  "votes": "38"
+}

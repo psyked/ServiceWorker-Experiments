@@ -1,0 +1,13 @@
+{
+  "title": "Viashino Shanktail",
+  "image": "./img/viashino-shanktail.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Viashino Warrior",
+  "text": "First strikeBloodrush — , Discard Viashino Shanktail: Target attacking creature gets +3/+1 and gains first strike until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "110",
+  "artist": "Kev Walker",
+  "rating": "2.938",
+  "votes": "40"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Vampire Hounds",
+  "image": "./img/vampire-hounds.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vampire Hound",
+  "text": "Discard a creature card: Vampire Hounds gets +2/+2 until end of turn.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "122",
+  "artist": "Kev Walker",
+  "rating": "5",
+  "votes": "0"
+}

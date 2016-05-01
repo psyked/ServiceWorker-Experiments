@@ -1,0 +1,13 @@
+{
+  "title": "Aku Djinn",
+  "image": "./img/aku-djinn.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Djinn",
+  "text": "TrampleAt the beginning of your upkeep, put a +1/+1 counter on each creature each opponent controls.",
+  "expansion": "Visions",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Terese Nielsen",
+  "rating": "3.273",
+  "votes": "77"
+}

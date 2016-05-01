@@ -1,0 +1,13 @@
+{
+  "title": "Sabertooth Wyvern",
+  "image": "./img/sabertooth-wyvern.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Drake",
+  "text": "Flying, first strike",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "153",
+  "artist": "Keith Parkinson",
+  "rating": "5",
+  "votes": "0"
+}

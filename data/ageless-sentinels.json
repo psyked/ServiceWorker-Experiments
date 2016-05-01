@@ -1,0 +1,13 @@
+{
+  "title": "Ageless Sentinels",
+  "image": "./img/ageless-sentinels.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)FlyingWhen Ageless Sentinels blocks, it becomes a Bird Giant, and it loses defender. (It's no longer a Wall. This effect lasts indefinitely.)",
+  "expansion": "Scourge",
+  "rarity": "Rare",
+  "cardNumber": "1",
+  "artist": "Tony Szczudlo",
+  "rating": "3.847",
+  "votes": "62"
+}

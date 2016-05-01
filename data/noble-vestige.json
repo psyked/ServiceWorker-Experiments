@@ -1,0 +1,13 @@
+{
+  "title": "Noble Vestige",
+  "image": "./img/noble-vestige.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "Flying: Prevent the next 1 damage that would be dealt to target player this turn.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "29",
+  "artist": "Jason Chan",
+  "rating": "1.627",
+  "votes": "67"
+}

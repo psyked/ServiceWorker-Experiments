@@ -1,0 +1,13 @@
+{
+  "title": "Serum Tank",
+  "image": "./img/serum-tank.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Whenever Serum Tank or another artifact enters the battlefield, put a charge counter on Serum Tank., , Remove a charge counter from Serum Tank: Draw a card.",
+  "expansion": "Planechase",
+  "rarity": "Uncommon",
+  "cardNumber": "125",
+  "artist": "Corey D. Macourek",
+  "rating": "3.269",
+  "votes": "26"
+}

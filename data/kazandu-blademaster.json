@@ -1,0 +1,13 @@
+{
+  "title": "Kazandu Blademaster",
+  "image": "./img/kazandu-blademaster.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier Ally",
+  "text": "First strike, vigilanceWhenever Kazandu Blademaster or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Kazandu Blademaster.",
+  "expansion": "Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "16",
+  "artist": "Michael Komarck",
+  "rating": "4.119",
+  "votes": "248"
+}

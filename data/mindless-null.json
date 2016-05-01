@@ -1,0 +1,13 @@
+{
+  "title": "Mindless Null",
+  "image": "./img/mindless-null.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": "Mindless Null can't block unless you control a Vampire.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "103",
+  "artist": "Karl Kopinski",
+  "rating": "0.851",
+  "votes": "379"
+}

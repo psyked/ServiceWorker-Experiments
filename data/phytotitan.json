@@ -1,0 +1,13 @@
+{
+  "title": "Phytotitan",
+  "image": "./img/phytotitan.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Plant Elemental",
+  "text": "When Phytotitan dies, return it to the battlefield tapped under its owner's control at the beginning of his or her next upkeep.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "191",
+  "artist": "Marco Nelor",
+  "rating": "3.444",
+  "votes": "9"
+}

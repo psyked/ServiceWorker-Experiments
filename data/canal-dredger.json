@@ -1,0 +1,13 @@
+{
+  "title": "Canal Dredger",
+  "image": "./img/canal-dredger.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Construct",
+  "text": "Draft Canal Dredger face up.Each player passes the last card from each booster pack to a player who drafted a card named Canal Dredger.: Put target card from your graveyard on the bottom of your library.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Rare",
+  "cardNumber": "55",
+  "artist": "John Avon",
+  "rating": "3.458",
+  "votes": "12"
+}

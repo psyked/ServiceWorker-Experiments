@@ -1,0 +1,13 @@
+{
+  "title": "Pulse of the Grid",
+  "image": "./img/pulse-ofthegrid.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Draw two cards, then discard a card. Then if an opponent has more cards in hand than you, return Pulse of the Grid to its owner's hand.",
+  "expansion": "Darksteel",
+  "rarity": "Rare",
+  "cardNumber": "29",
+  "artist": "Wayne England",
+  "rating": "3.462",
+  "votes": "26"
+}

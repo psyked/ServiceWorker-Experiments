@@ -1,0 +1,13 @@
+{
+  "title": "Morbid Plunder",
+  "image": "./img/morbid-plunder.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Return up to two target creature cards from your graveyard to your hand.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "47",
+  "artist": "Mike Bierek",
+  "rating": "3.007",
+  "votes": "72"
+}

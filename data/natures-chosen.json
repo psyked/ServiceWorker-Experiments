@@ -1,0 +1,13 @@
+{
+  "title": "Nature's Chosen",
+  "image": "./img/natures-chosen.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature you control: Untap enchanted creature. Activate this ability only during your turn and only once each turn.Tap enchanted creature: Untap target artifact, creature, or land. Activate this ability only if enchanted creature is white and is untapped and only once each turn.",
+  "expansion": "Alliances",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Rebecca Guay",
+  "rating": "3.846",
+  "votes": "39"
+}

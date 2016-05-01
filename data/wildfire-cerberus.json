@@ -1,0 +1,13 @@
+{
+  "title": "Wildfire Cerberus",
+  "image": "./img/wildfire-cerberus.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Hound",
+  "text": ": Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)When Wildfire Cerberus becomes monstrous, it deals 2 damage to each opponent and each creature your opponents control.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "116",
+  "artist": "Slawomir Maniak",
+  "rating": "3.000",
+  "votes": "20"
+}

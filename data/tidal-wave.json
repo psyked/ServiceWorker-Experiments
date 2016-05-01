@@ -1,0 +1,13 @@
+{
+  "title": "Tidal Wave",
+  "image": "./img/tidal-wave.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Put a 5/5 blue Wall creature token with defender onto the battlefield. Sacrifice it at the beginning of the next end step.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Brian Snoddy",
+  "rating": "3.329",
+  "votes": "41"
+}

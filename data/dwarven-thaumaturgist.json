@@ -1,0 +1,13 @@
+{
+  "title": "Dwarven Thaumaturgist",
+  "image": "./img/dwarven-thaumaturgist.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Dwarf Shaman",
+  "text": ": Switch target creature's power and toughness until end of turn.",
+  "expansion": "Weatherlight",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Kipling West",
+  "rating": "3.198",
+  "votes": "43"
+}

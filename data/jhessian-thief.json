@@ -1,0 +1,13 @@
+{
+  "title": "Jhessian Thief",
+  "image": "./img/jhessian-thief.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Rogue",
+  "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)Whenever Jhessian Thief deals combat damage to a player, draw a card.",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "62",
+  "artist": "Miles Johnston",
+  "rating": "5",
+  "votes": "0"
+}

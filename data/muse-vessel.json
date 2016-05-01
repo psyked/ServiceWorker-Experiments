@@ -1,0 +1,13 @@
+{
+  "title": "Muse Vessel",
+  "image": "./img/muse-vessel.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ", : Target player exiles a card from his or her hand. Activate this ability only any time you could cast a sorcery.: Choose a card exiled with Muse Vessel. You may play that card this turn.",
+  "expansion": "Dissension",
+  "rarity": "Rare",
+  "cardNumber": "163",
+  "artist": "Christopher Rush",
+  "rating": "3.581",
+  "votes": "37"
+}

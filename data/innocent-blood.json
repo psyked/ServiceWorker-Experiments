@@ -1,0 +1,13 @@
+{
+  "title": "Innocent Blood",
+  "image": "./img/innocent-blood.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Each player sacrifices a creature.",
+  "expansion": "Planechase",
+  "rarity": "Common",
+  "cardNumber": "33",
+  "artist": "Carl Critchlow",
+  "rating": "4.537",
+  "votes": "95"
+}

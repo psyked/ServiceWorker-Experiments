@@ -1,0 +1,13 @@
+{
+  "title": "Worldgorger Dragon",
+  "image": "./img/worldgorger-dragon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Nightmare Dragon",
+  "text": "Flying, trampleWhen Worldgorger Dragon enters the battlefield, exile all other permanents you control.When Worldgorger Dragon leaves the battlefield, return the exiled cards to the battlefield under their owners' control.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "193",
+  "artist": "Wayne England",
+  "rating": "4.500",
+  "votes": "1"
+}

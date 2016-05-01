@@ -1,0 +1,13 @@
+{
+  "title": "Urbis Protector",
+  "image": "./img/urbis-protector.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Human Cleric",
+  "text": "When Urbis Protector enters the battlefield, put a 4/4 white Angel creature token with flying onto the battlefield.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "27",
+  "artist": "Steve Argyle",
+  "rating": "2.798",
+  "votes": "47"
+}

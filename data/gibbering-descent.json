@@ -1,0 +1,13 @@
+{
+  "title": "Gibbering Descent",
+  "image": "./img/gibbering-descent.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "At the beginning of each player's upkeep, that player loses 1 life and discards a card.Hellbent — Skip your upkeep step if you have no cards in hand.Madness  (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "expansion": "Future Sight",
+  "rarity": "Rare",
+  "cardNumber": "66",
+  "artist": "Ittoku",
+  "rating": "3.750",
+  "votes": "54"
+}

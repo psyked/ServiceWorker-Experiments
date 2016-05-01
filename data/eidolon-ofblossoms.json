@@ -1,0 +1,13 @@
+{
+  "title": "Eidolon of Blossoms",
+  "image": "./img/eidolon-ofblossoms.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment Creature  — Spirit",
+  "text": "Constellation — Whenever Eidolon of Blossoms or another enchantment enters the battlefield under your control, draw a card.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Rare",
+  "cardNumber": "122",
+  "artist": "Min Yum",
+  "rating": "3.905",
+  "votes": "58"
+}

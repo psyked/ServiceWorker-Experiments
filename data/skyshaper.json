@@ -1,0 +1,13 @@
+{
+  "title": "Skyshaper",
+  "image": "./img/skyshaper.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Sacrifice Skyshaper: Creatures you control gain flying until end of turn.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "231",
+  "artist": "Donato Giancola",
+  "rating": "5",
+  "votes": "0"
+}

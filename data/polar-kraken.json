@@ -1,0 +1,13 @@
+{
+  "title": "Polar Kraken",
+  "image": "./img/polar-kraken.jpg",
+  "convertedManaCost": "11",
+  "types": "Creature  — Kraken",
+  "text": "TramplePolar Kraken enters the battlefield tapped.Cumulative upkeep—Sacrifice a land. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+  "expansion": "Masters Edition",
+  "rarity": "Rare",
+  "cardNumber": "44",
+  "artist": "Mark Tedin",
+  "rating": "3.136",
+  "votes": "66"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Arctic Aven",
+  "image": "./img/arctic-aven.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Bird Wizard",
+  "text": "FlyingArctic Aven gets +1/+1 as long as you control a Plains.: Arctic Aven gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.)",
+  "expansion": "Magic 2013",
+  "rarity": "Uncommon",
+  "cardNumber": "42",
+  "artist": "Igor Kieryluk",
+  "rating": "3.453",
+  "votes": "64"
+}

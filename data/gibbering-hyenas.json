@@ -1,0 +1,13 @@
+{
+  "title": "Gibbering Hyenas",
+  "image": "./img/gibbering-hyenas.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Hyena",
+  "text": "Gibbering Hyenas can't block black creatures.",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Una Fricker",
+  "rating": "2.382",
+  "votes": "38"
+}

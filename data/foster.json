@@ -1,0 +1,13 @@
+{
+  "title": "Foster",
+  "image": "./img/foster.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever a creature you control dies, you may pay . If you do, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest into your graveyard.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "146",
+  "artist": "Carl Critchlow",
+  "rating": "4.227",
+  "votes": "11"
+}

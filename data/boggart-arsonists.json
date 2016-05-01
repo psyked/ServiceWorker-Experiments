@@ -1,0 +1,13 @@
+{
+  "title": "Boggart Arsonists",
+  "image": "./img/boggart-arsonists.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Rogue",
+  "text": "Plainswalk (This creature can't be blocked as long as defending player controls a Plains.), Sacrifice Boggart Arsonists: Destroy target Scarecrow or Plains.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "85",
+  "artist": "Jesper Ejsing",
+  "rating": "2.363",
+  "votes": "51"
+}

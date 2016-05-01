@@ -1,0 +1,13 @@
+{
+  "title": "Dark Banishing",
+  "image": "./img/dark-banishing.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Destroy target nonblack creature. It can't be regenerated.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "92",
+  "artist": "John Matson",
+  "rating": "5",
+  "votes": "0"
+}

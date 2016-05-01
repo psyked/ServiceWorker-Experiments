@@ -1,0 +1,13 @@
+{
+  "title": "Martyrs' Tomb",
+  "image": "./img/martyrs-tomb.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Pay 2 life: Prevent the next 1 damage that would be dealt to target creature this turn.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "110",
+  "artist": "Anthony S. Waters",
+  "rating": "1.378",
+  "votes": "74"
+}

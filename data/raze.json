@@ -1,0 +1,13 @@
+{
+  "title": "Raze",
+  "image": "./img/raze.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Raze, sacrifice a land.Destroy target land.",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "207",
+  "artist": "Mike Raabe",
+  "rating": "3.929",
+  "votes": "42"
+}

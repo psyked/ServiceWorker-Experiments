@@ -1,0 +1,13 @@
+{
+  "title": "Shadowborn Demon",
+  "image": "./img/shadowborn-demon.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Demon",
+  "text": "FlyingWhen Shadowborn Demon enters the battlefield, destroy target non-Demon creature.At the beginning of your upkeep, if there are fewer than six creature cards in your graveyard, sacrifice a creature.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Mythic Rare",
+  "cardNumber": "115",
+  "artist": "Lucas Graciano",
+  "rating": "3.651",
+  "votes": "63"
+}

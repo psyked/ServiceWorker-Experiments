@@ -1,0 +1,13 @@
+{
+  "title": "Fleshmad Steed",
+  "image": "./img/fleshmad-steed.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Horse",
+  "text": "Whenever another creature dies, tap Fleshmad Steed.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "88",
+  "artist": "Robbie Trevino",
+  "rating": "1.750",
+  "votes": "86"
+}

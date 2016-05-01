@@ -1,0 +1,13 @@
+{
+  "title": "Ghost-Lit Raider",
+  "image": "./img/ghost-lit-raider.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": ", : Ghost-Lit Raider deals 2 damage to target creature.Channel — , Discard Ghost-Lit Raider: Ghost-Lit Raider deals 4 damage to target creature.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "99",
+  "artist": "Ittoku",
+  "rating": "3.567",
+  "votes": "30"
+}

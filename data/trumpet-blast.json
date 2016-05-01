@@ -1,0 +1,13 @@
+{
+  "title": "Trumpet Blast",
+  "image": "./img/trumpet-blast.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Attacking creatures get +2/+0 until end of turn.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "124",
+  "artist": "Steve Prescott",
+  "rating": "2.750",
+  "votes": "2"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mourning",
+  "image": "./img/mourning.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets -2/-0.: Return Mourning to its owner's hand.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "Terese Nielsen",
+  "rating": "2.148",
+  "votes": "27"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Scourge of Fleets",
+  "image": "./img/scourge-offleets.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Kraken",
+  "text": "When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner's hand, where X is the number of Islands you control.",
+  "expansion": "Duel Decks: Elspeth vs. Kiora",
+  "rarity": "Rare",
+  "cardNumber": "41",
+  "artist": "Steven Belledin",
+  "rating": "5",
+  "votes": "0"
+}

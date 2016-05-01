@@ -1,0 +1,13 @@
+{
+  "title": "Tajuru Archer",
+  "image": "./img/tajuru-archer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Archer Ally",
+  "text": "Whenever Tajuru Archer or another Ally enters the battlefield under your control, you may have Tajuru Archer deal damage to target creature with flying equal to the number of Allies you control.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "23",
+  "artist": "Chris Rahn",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Boon of Erebos",
+  "image": "./img/boon-oferebos.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets +2/+0 until end of turn. Regenerate it. You lose 2 life.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "80",
+  "artist": "James Ryman",
+  "rating": "3.280",
+  "votes": "41"
+}

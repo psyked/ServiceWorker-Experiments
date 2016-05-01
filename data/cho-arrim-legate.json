@@ -1,0 +1,13 @@
+{
+  "title": "Cho-Arrim Legate",
+  "image": "./img/cho-arrim-legate.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "Protection from blackIf an opponent controls a Swamp and you control a Plains, you may cast Cho-Arrim Legate without paying its mana cost.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "10",
+  "artist": "rk post",
+  "rating": "3.847",
+  "votes": "36"
+}

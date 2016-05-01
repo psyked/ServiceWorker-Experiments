@@ -1,0 +1,13 @@
+{
+  "title": "Lightning Reflexes",
+  "image": "./img/lightning-reflexes.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "You may cast Lightning Reflexes as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.Enchant creatureEnchanted creature gets +1/+0 and has first strike.",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Tom Kyffin",
+  "rating": "3.000",
+  "votes": "32"
+}

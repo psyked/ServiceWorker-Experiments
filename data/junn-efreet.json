@@ -1,0 +1,13 @@
+{
+  "title": "Junún Efreet",
+  "image": "./img/junn-efreet.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Efreet",
+  "text": "FlyingAt the beginning of your upkeep, sacrifice Junún Efreet unless you pay .",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "88",
+  "artist": "Christopher Rush",
+  "rating": "2.940",
+  "votes": "25"
+}

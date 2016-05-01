@@ -1,0 +1,13 @@
+{
+  "title": "Simian Grunts",
+  "image": "./img/simian-grunts.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Ape",
+  "text": "FlashEcho  (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "232",
+  "artist": "Pete Venters",
+  "rating": "5",
+  "votes": "0"
+}

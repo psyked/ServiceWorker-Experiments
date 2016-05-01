@@ -1,0 +1,13 @@
+{
+  "title": "The Great Aurora",
+  "image": "./img/the-greataurora.jpg",
+  "convertedManaCost": "9",
+  "types": "Sorcery",
+  "text": "Each player shuffles all cards from his or her hand and all permanents he or she owns into his or her library, then draws that many cards. Each player may put any number of land cards from his or her hand onto the battlefield. Exile The Great Aurora.",
+  "expansion": "Magic Origins",
+  "rarity": "Mythic Rare",
+  "cardNumber": "179",
+  "artist": "Sam Burley",
+  "rating": "5",
+  "votes": "0"
+}

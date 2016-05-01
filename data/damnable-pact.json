@@ -1,0 +1,13 @@
+{
+  "title": "Damnable Pact",
+  "image": "./img/damnable-pact.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target player draws X cards and loses X life.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "93",
+  "artist": "Zack Stella",
+  "rating": "5",
+  "votes": "0"
+}

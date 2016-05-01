@@ -1,0 +1,13 @@
+{
+  "title": "Whisperer of the Wilds",
+  "image": "./img/whisperer-ofthewilds.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Shaman",
+  "text": ": Add  to your mana pool.Ferocious — : Add  to your mana pool. Activate this ability only if you control a creature with power 4 or greater.",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "144",
+  "artist": "David Gaillet",
+  "rating": "5",
+  "votes": "0"
+}

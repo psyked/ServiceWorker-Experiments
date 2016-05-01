@@ -1,0 +1,13 @@
+{
+  "title": "Thassa's Emissary",
+  "image": "./img/thassas-emissary.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment Creature  — Crab",
+  "text": "Bestow  (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)Whenever Thassa's Emissary or enchanted creature deals combat damage to a player, draw a card.Enchanted creature gets +3/+3.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "68",
+  "artist": "Sam Burley",
+  "rating": "3.417",
+  "votes": "48"
+}

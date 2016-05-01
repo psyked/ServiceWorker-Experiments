@@ -1,0 +1,13 @@
+{
+  "title": "Wei Ambush Force",
+  "image": "./img/wei-ambushforce.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier",
+  "text": "Whenever Wei Ambush Force attacks, it gets +2/+0 until end of turn.",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Common",
+  "cardNumber": "85",
+  "artist": "Ku Xueming",
+  "rating": "3.286",
+  "votes": "28"
+}

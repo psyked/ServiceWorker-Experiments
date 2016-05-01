@@ -1,0 +1,13 @@
+{
+  "title": "Segmented Wurm",
+  "image": "./img/segmented-wurm.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Wurm",
+  "text": "Whenever Segmented Wurm becomes the target of a spell or ability, put a -1/-1 counter on it.",
+  "expansion": "Beatdown Box Set",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Jeff Miracola",
+  "rating": "2.197",
+  "votes": "33"
+}

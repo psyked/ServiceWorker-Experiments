@@ -1,0 +1,13 @@
+{
+  "title": "Turnabout",
+  "image": "./img/turnabout.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Choose artifact, creature, or land. Tap all untapped permanents of the chosen type target player controls, or untap all tapped permanents of that type that player controls.",
+  "expansion": "Vintage Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "99",
+  "artist": "Steve Prescott",
+  "rating": "4.500",
+  "votes": "1"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ordeal of Erebos",
+  "image": "./img/ordeal-oferebos.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Erebos.When you sacrifice Ordeal of Erebos, target player discards two cards.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "99",
+  "artist": "Tyler Jacobson",
+  "rating": "3.061",
+  "votes": "33"
+}

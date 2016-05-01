@@ -1,0 +1,13 @@
+{
+  "title": "Sidisi's Faithful",
+  "image": "./img/sidisis-faithful.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Naga Wizard",
+  "text": "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)When Sidisi's Faithful exploits a creature, return target creature to its owner's hand.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "74",
+  "artist": "Lius Lasahido",
+  "rating": "5",
+  "votes": "0"
+}

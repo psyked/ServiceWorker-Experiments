@@ -1,0 +1,13 @@
+{
+  "title": "Nin, the Pain Artist",
+  "image": "./img/nin-thepainartist.jpg",
+  "convertedManaCost": "2",
+  "types": "Legendary Creature  — Vedalken Wizard",
+  "text": ", : Nin, the Pain Artist deals X damage to target creature. That creature's controller draws X cards.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Rare",
+  "cardNumber": "213",
+  "artist": "Brad Rigney",
+  "rating": "3.944",
+  "votes": "72"
+}

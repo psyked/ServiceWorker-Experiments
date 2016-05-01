@@ -1,0 +1,13 @@
+{
+  "title": "Ulamog's Despoiler",
+  "image": "./img/ulamogs-despoiler.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Eldrazi Processor",
+  "text": "As Ulamog's Despoiler enters the battlefield, you may put two cards your opponents own from exile into their owners' graveyards. If you do, Ulamog's Despoiler enters the battlefield with four +1/+1 counters on it.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "16",
+  "artist": "Peter Mohrbacher",
+  "rating": "5",
+  "votes": "0"
+}

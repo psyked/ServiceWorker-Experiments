@@ -1,0 +1,13 @@
+{
+  "title": "Shivan Harvest",
+  "image": "./img/shivan-harvest.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": ", Sacrifice a creature: Destroy target nonbasic land.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "167",
+  "artist": "Daren Bader",
+  "rating": "3.431",
+  "votes": "29"
+}

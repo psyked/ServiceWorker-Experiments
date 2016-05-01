@@ -1,0 +1,13 @@
+{
+  "title": "Sea Drake",
+  "image": "./img/sea-drake.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Drake",
+  "text": "FlyingWhen Sea Drake enters the battlefield, return two target lands you control to their owner's hand.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "92",
+  "artist": "Rebecca Guay",
+  "rating": "5",
+  "votes": "0"
+}

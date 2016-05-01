@@ -1,0 +1,13 @@
+{
+  "title": "Gallowbraid",
+  "image": "./img/gallowbraid.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Horror",
+  "text": "TrampleCumulative upkeep—Pay 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+  "expansion": "Weatherlight",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Carl Critchlow",
+  "rating": "2.337",
+  "votes": "49"
+}

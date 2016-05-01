@@ -1,0 +1,13 @@
+{
+  "title": "Ooze Flux",
+  "image": "./img/ooze-flux.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": ", Remove one or more +1/+1 counters from among creatures you control: Put an X/X green Ooze creature token onto the battlefield, where X is the number of +1/+1 counters removed this way.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "128",
+  "artist": "Zoltan Boros",
+  "rating": "3.316",
+  "votes": "76"
+}

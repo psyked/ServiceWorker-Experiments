@@ -1,0 +1,13 @@
+{
+  "title": "Bola Warrior",
+  "image": "./img/bola-warrior.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Spellshaper Warrior",
+  "text": ", , Discard a card: Target creature can't block this turn.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "78",
+  "artist": "Adam Rex",
+  "rating": "2.100",
+  "votes": "30"
+}

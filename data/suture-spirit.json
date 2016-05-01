@@ -1,0 +1,13 @@
+{
+  "title": "Suture Spirit",
+  "image": "./img/suture-spirit.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": "Flying: Regenerate target creature.",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "16",
+  "artist": "Larry MacDougall",
+  "rating": "2.979",
+  "votes": "48"
+}

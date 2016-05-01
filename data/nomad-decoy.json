@@ -1,0 +1,13 @@
+{
+  "title": "Nomad Decoy",
+  "image": "./img/nomad-decoy.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Nomad",
+  "text": ", : Tap target creature.Threshold — , : Tap two target creatures. Activate this ability only if seven or more cards are in your graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "37",
+  "artist": "Pete Venters",
+  "rating": "3.182",
+  "votes": "22"
+}

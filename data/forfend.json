@@ -1,0 +1,13 @@
+{
+  "title": "Forfend",
+  "image": "./img/forfend.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Prevent all damage that would be dealt to creatures this turn.",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "10",
+  "artist": "Franz Vohwinkel",
+  "rating": "2.028",
+  "votes": "36"
+}

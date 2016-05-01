@@ -1,0 +1,13 @@
+{
+  "title": "Nezumi Ronin",
+  "image": "./img/nezumi-ronin.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Rat Samurai",
+  "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "130",
+  "artist": "Scott M. Fischer",
+  "rating": "2.821",
+  "votes": "39"
+}

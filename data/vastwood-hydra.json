@@ -1,0 +1,13 @@
+{
+  "title": "Vastwood Hydra",
+  "image": "./img/vastwood-hydra.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Hydra",
+  "text": "Vastwood Hydra enters the battlefield with X +1/+1 counters on it.When Vastwood Hydra dies, you may distribute a number of +1/+1 counters equal to the number of +1/+1 counters on Vastwood Hydra among any number of creatures you control.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "198",
+  "artist": "Slawomir Maniak",
+  "rating": "3.598",
+  "votes": "41"
+}

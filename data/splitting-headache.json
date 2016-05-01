@@ -1,0 +1,13 @@
+{
+  "title": "Splitting Headache",
+  "image": "./img/splitting-headache.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Choose one —• Target player discards two cards.• Target player reveals his or her hand, you choose a card from it, then that player discards that card.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "79",
+  "artist": "Thomas Denmark",
+  "rating": "2.750",
+  "votes": "30"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Anurid Scavenger",
+  "image": "./img/anurid-scavenger.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Frog Beast",
+  "text": "Protection from blackAt the beginning of your upkeep, sacrifice Anurid Scavenger unless you put a card from your graveyard on the bottom of your library.",
+  "expansion": "Torment",
+  "rarity": "Uncommon",
+  "cardNumber": "119",
+  "artist": "Bob Petillo",
+  "rating": "3.714",
+  "votes": "28"
+}

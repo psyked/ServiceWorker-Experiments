@@ -1,0 +1,13 @@
+{
+  "title": "Pardic Arsonist",
+  "image": "./img/pardic-arsonist.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Barbarian",
+  "text": "Threshold — As long as seven or more cards are in your graveyard, Pardic Arsonist has \"When Pardic Arsonist enters the battlefield, it deals 3 damage to target creature or player.\"",
+  "expansion": "Torment",
+  "rarity": "Uncommon",
+  "cardNumber": "105",
+  "artist": "rk post",
+  "rating": "3.320",
+  "votes": "25"
+}

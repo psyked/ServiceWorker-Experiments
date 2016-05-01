@@ -1,0 +1,13 @@
+{
+  "title": "Skulking Knight",
+  "image": "./img/skulking-knight.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie Knight",
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)When Skulking Knight becomes the target of a spell or ability, sacrifice it.",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "130",
+  "artist": "rk post",
+  "rating": "2.724",
+  "votes": "38"
+}

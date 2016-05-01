@@ -1,0 +1,13 @@
+{
+  "title": "Graceful Reprieve",
+  "image": "./img/graceful-reprieve.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "When target creature dies this turn, return that card to the battlefield under its owner's control.",
+  "expansion": "Morningtide",
+  "rarity": "Uncommon",
+  "cardNumber": "11",
+  "artist": "William O'Connor",
+  "rating": "3.569",
+  "votes": "36"
+}

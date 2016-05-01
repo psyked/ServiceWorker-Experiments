@@ -1,0 +1,13 @@
+{
+  "title": "Cloudreach Cavalry",
+  "image": "./img/cloudreach-cavalry.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier",
+  "text": "As long as you control a Bird, Cloudreach Cavalry gets +2/+2 and has flying.",
+  "expansion": "Legions",
+  "rarity": "Uncommon",
+  "cardNumber": "7",
+  "artist": "Kev Walker",
+  "rating": "3.320",
+  "votes": "25"
+}

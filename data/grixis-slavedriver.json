@@ -1,0 +1,13 @@
+{
+  "title": "Grixis Slavedriver",
+  "image": "./img/grixis-slavedriver.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Zombie Giant",
+  "text": "When Grixis Slavedriver leaves the battlefield, put a 2/2 black Zombie creature token onto the battlefield.Unearth  (: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "expansion": "Conflux",
+  "rarity": "Uncommon",
+  "cardNumber": "46",
+  "artist": "Dave Kendall",
+  "rating": "3.032",
+  "votes": "77"
+}

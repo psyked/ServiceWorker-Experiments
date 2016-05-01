@@ -1,0 +1,13 @@
+{
+  "title": "Muscle Burst",
+  "image": "./img/muscle-burst.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +X/+X until end of turn, where X is 3 plus the number of cards named Muscle Burst in all graveyards.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "252",
+  "artist": "Gary Ruddell",
+  "rating": "3.350",
+  "votes": "40"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Anti-Magic Aura",
+  "image": "./img/anti-magic-aura.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature can't be the target of spells and can't be enchanted by other Auras.",
+  "expansion": "Fifth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Zak Plucinski",
+  "rating": "2.081",
+  "votes": "31"
+}

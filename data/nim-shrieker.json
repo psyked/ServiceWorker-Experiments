@@ -1,0 +1,13 @@
+{
+  "title": "Nim Shrieker",
+  "image": "./img/nim-shrieker.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie",
+  "text": "FlyingNim Shrieker gets +1/+0 for each artifact you control.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "73",
+  "artist": "Adam Rex",
+  "rating": "3.221",
+  "votes": "34"
+}

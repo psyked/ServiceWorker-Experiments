@@ -1,0 +1,13 @@
+{
+  "title": "Stoic Ephemera",
+  "image": "./img/stoic-ephemera.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "Defender (This creature can't attack.)FlyingWhen Stoic Ephemera blocks, sacrifice it at end of combat.",
+  "expansion": "Dissension",
+  "rarity": "Uncommon",
+  "cardNumber": "19",
+  "artist": "Randy Gallegos",
+  "rating": "2.587",
+  "votes": "46"
+}

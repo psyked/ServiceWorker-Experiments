@@ -1,0 +1,13 @@
+{
+  "title": "Searing Spear Askari",
+  "image": "./img/searing-spearaskari.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.): Searing Spear Askari gains menace until end of turn. (It can't be blocked except by two or more creatures.)",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Richard Kane Ferguson",
+  "rating": "3.900",
+  "votes": "30"
+}

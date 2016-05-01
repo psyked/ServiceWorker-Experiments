@@ -1,0 +1,13 @@
+{
+  "title": "Herald of Dromoka",
+  "image": "./img/herald-ofdromoka.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Warrior",
+  "text": "VigilanceOther Warrior creatures you control have vigilance.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "22",
+  "artist": "Zack Stella",
+  "rating": "5",
+  "votes": "0"
+}

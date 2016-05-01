@@ -1,0 +1,13 @@
+{
+  "title": "Shambling Shell",
+  "image": "./img/shambling-shell.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Plant Zombie",
+  "text": "Sacrifice Shambling Shell: Put a +1/+1 counter on target creature.Dredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Common",
+  "cardNumber": "57",
+  "artist": "Joel Thomas",
+  "rating": "4.393",
+  "votes": "28"
+}

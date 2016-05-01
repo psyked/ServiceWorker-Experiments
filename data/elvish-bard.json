@@ -1,0 +1,13 @@
+{
+  "title": "Elvish Bard",
+  "image": "./img/elvish-bard.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elf Shaman",
+  "text": "All creatures able to block Elvish Bard do so.",
+  "expansion": "Ninth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "236",
+  "artist": "Rob Alexander",
+  "rating": "3.276",
+  "votes": "29"
+}

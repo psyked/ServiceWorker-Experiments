@@ -1,0 +1,13 @@
+{
+  "title": "Launch",
+  "image": "./img/launch.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has flying.When Launch is put into a graveyard from the battlefield, return Launch to its owner's hand.",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "82",
+  "artist": "Val Mayerik",
+  "rating": "3.766",
+  "votes": "32"
+}

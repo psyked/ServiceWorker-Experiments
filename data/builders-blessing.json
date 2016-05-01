@@ -1,0 +1,13 @@
+{
+  "title": "Builder's Blessing",
+  "image": "./img/builders-blessing.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Untapped creatures you control get +0/+2.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Uncommon",
+  "cardNumber": "8",
+  "artist": "John Stanko",
+  "rating": "2.229",
+  "votes": "48"
+}

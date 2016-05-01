@@ -1,0 +1,13 @@
+{
+  "title": "Mental Note",
+  "image": "./img/mental-note.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Put the top two cards of your library into your graveyard.Draw a card.",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "46",
+  "artist": "Bradley Williams",
+  "rating": "3.295",
+  "votes": "39"
+}

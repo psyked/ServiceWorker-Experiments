@@ -1,0 +1,13 @@
+{
+  "title": "Ghostform",
+  "image": "./img/ghostform.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Up to two target creatures can't be blocked this turn.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Scott Chou",
+  "rating": "2.851",
+  "votes": "37"
+}

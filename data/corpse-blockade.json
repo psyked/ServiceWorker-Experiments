@@ -1,0 +1,13 @@
+{
+  "title": "Corpse Blockade",
+  "image": "./img/corpse-blockade.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": "DefenderSacrifice another creature: Corpse Blockade gains deathtouch until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "60",
+  "artist": "Lucas Graciano",
+  "rating": "2.144",
+  "votes": "52"
+}

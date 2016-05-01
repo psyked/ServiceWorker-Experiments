@@ -1,0 +1,13 @@
+{
+  "title": "Time Bomb",
+  "image": "./img/time-bomb.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, put a time counter on Time Bomb., , Sacrifice Time Bomb: Time Bomb deals damage equal to the number of time counters on it to each creature and each player.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "223",
+  "artist": "Amy Weber",
+  "rating": "3.540",
+  "votes": "25"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Springing Tiger",
+  "image": "./img/springing-tiger.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Cat",
+  "text": "Threshold — Springing Tiger gets +2/+2 as long as seven or more cards are in your graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "272",
+  "artist": "Arnie Swekel",
+  "rating": "3.656",
+  "votes": "32"
+}

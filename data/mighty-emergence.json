@@ -1,0 +1,13 @@
+{
+  "title": "Mighty Emergence",
+  "image": "./img/mighty-emergence.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a creature with power 5 or greater enters the battlefield under your control, you may put two +1/+1 counters on it.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "137",
+  "artist": "Steve Prescott",
+  "rating": "3.030",
+  "votes": "67"
+}

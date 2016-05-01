@@ -1,0 +1,13 @@
+{
+  "title": "Ethereal Guidance",
+  "image": "./img/ethereal-guidance.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Creatures you control get +2/+1 until end of turn.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "18",
+  "artist": "Ben Maier",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Cavern Crawler",
+  "image": "./img/cavern-crawler.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Insect",
+  "text": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.): Cavern Crawler gets +1/-1 until end of turn.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "181",
+  "artist": "Pete Venters",
+  "rating": "1.471",
+  "votes": "34"
+}

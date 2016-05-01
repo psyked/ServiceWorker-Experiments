@@ -1,0 +1,13 @@
+{
+  "title": "Altar of Bone",
+  "image": "./img/altar-ofbone.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Altar of Bone, sacrifice a creature.Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.",
+  "expansion": "Ice Age",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Melissa Benson",
+  "rating": "2.700",
+  "votes": "50"
+}

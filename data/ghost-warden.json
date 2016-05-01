@@ -1,0 +1,13 @@
+{
+  "title": "Ghost Warden",
+  "image": "./img/ghost-warden.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": ": Target creature gets +1/+1 until end of turn.",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "16",
+  "artist": "Ittoku",
+  "rating": "2.829",
+  "votes": "38"
+}

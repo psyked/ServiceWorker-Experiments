@@ -1,0 +1,13 @@
+{
+  "title": "Watercourser",
+  "image": "./img/watercourser.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental",
+  "text": ": Watercourser gets +1/-1 until end of turn.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "82",
+  "artist": "Mathias Kollros",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Rushing River",
+  "image": "./img/rushing-river.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Kicker—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.)Return target nonland permanent to its owner's hand. If Rushing River was kicked, return another target nonland permanent to its owner's hand.",
+  "expansion": "Planeshift",
+  "rarity": "Common",
+  "cardNumber": "30",
+  "artist": "Don Hazeltine",
+  "rating": "3.500",
+  "votes": "48"
+}

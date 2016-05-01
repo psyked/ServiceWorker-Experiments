@@ -1,0 +1,13 @@
+{
+  "title": "Orcish Captain",
+  "image": "./img/orcish-captain.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Orc Warrior",
+  "text": ": Flip a coin. If you win the flip, target Orc creature gets +2/+0 until end of turn. If you lose the flip, it gets -0/-2 until end of turn.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "139",
+  "artist": "Mark Tedin",
+  "rating": "2.726",
+  "votes": "42"
+}

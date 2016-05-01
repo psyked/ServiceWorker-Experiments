@@ -1,0 +1,13 @@
+{
+  "title": "Stormwing Dragon",
+  "image": "./img/stormwing-dragon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "Flying, first strikeMegamorph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)When Stormwing Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "159",
+  "artist": "Svetlin Velinov",
+  "rating": "5",
+  "votes": "0"
+}

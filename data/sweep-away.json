@@ -1,0 +1,13 @@
+{
+  "title": "Sweep Away",
+  "image": "./img/sweep-away.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Return target creature to its owner's hand. If that creature is attacking, you may put it on top of its owner's library instead.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "64",
+  "artist": "Winona Nelson",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "War Report",
+  "image": "./img/war-report.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "You gain life equal to the number of creatures on the battlefield plus the number of artifacts on the battlefield.",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "26",
+  "artist": "Mike Bierek",
+  "rating": "3.106",
+  "votes": "94"
+}

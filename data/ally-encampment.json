@@ -1,0 +1,13 @@
+{
+  "title": "Ally Encampment",
+  "image": "./img/ally-encampment.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool.: Add one mana of any color to your mana pool. Spend this mana only to cast an Ally spell., , Sacrifice Ally Encampment: Return target Ally you control to its owner's hand.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "228",
+  "artist": "Jonas De Ro",
+  "rating": "5",
+  "votes": "0"
+}

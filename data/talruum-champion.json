@@ -1,0 +1,13 @@
+{
+  "title": "Talruum Champion",
+  "image": "./img/talruum-champion.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Minotaur",
+  "text": "First strikeWhenever Talruum Champion blocks or becomes blocked by a creature, that creature loses first strike until end of turn.",
+  "expansion": "Visions",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Pete Venters",
+  "rating": "3.367",
+  "votes": "49"
+}

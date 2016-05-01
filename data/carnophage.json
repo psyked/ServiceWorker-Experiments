@@ -1,0 +1,13 @@
+{
+  "title": "Carnophage",
+  "image": "./img/carnophage.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Zombie",
+  "text": "At the beginning of your upkeep, tap Carnophage unless you pay 1 life.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "84",
+  "artist": "Pete Venters",
+  "rating": "5",
+  "votes": "0"
+}

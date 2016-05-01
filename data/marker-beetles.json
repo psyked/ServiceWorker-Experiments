@@ -1,0 +1,13 @@
+{
+  "title": "Marker Beetles",
+  "image": "./img/marker-beetles.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Insect",
+  "text": "When Marker Beetles dies, target creature gets +1/+1 until end of turn., Sacrifice Marker Beetles: Draw a card.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "112",
+  "artist": "Ron Spencer",
+  "rating": "3.742",
+  "votes": "31"
+}

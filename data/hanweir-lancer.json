@@ -1,0 +1,13 @@
+{
+  "title": "Hanweir Lancer",
+  "image": "./img/hanweir-lancer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)As long as Hanweir Lancer is paired with another creature, both creatures have first strike.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "138",
+  "artist": "Steve Prescott",
+  "rating": "3.056",
+  "votes": "36"
+}

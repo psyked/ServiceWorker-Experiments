@@ -1,0 +1,13 @@
+{
+  "title": "Fleecemane Lion",
+  "image": "./img/fleecemane-lion.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Cat",
+  "text": ": Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)As long as Fleecemane Lion is monstrous, it has hexproof and indestructible.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "193",
+  "artist": "Slawomir Maniak",
+  "rating": "3.873",
+  "votes": "162"
+}

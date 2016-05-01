@@ -1,0 +1,13 @@
+{
+  "title": "Harvest Mage",
+  "image": "./img/harvest-mage.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Spellshaper",
+  "text": ", , Discard a card: Until end of turn, if you tap a land for mana, it produces one mana of a color of your choice instead of any other type and amount.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "105",
+  "artist": "Dan Frazier",
+  "rating": "1.904",
+  "votes": "26"
+}

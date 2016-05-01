@@ -1,0 +1,13 @@
+{
+  "title": "Hatred",
+  "image": "./img/hatred.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "As an additional cost to cast Hatred, pay X life.Target creature gets +X/+0 until end of turn.",
+  "expansion": "Exodus",
+  "rarity": "Rare",
+  "cardNumber": "64",
+  "artist": "Brom",
+  "rating": "4.500",
+  "votes": "112"
+}

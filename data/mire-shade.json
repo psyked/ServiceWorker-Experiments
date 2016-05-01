@@ -1,0 +1,13 @@
+{
+  "title": "Mire Shade",
+  "image": "./img/mire-shade.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Shade",
+  "text": ", Sacrifice a Swamp: Put a +1/+1 counter on Mire Shade. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Randy Gallegos",
+  "rating": "1.896",
+  "votes": "48"
+}

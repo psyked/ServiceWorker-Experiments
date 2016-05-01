@@ -1,0 +1,13 @@
+{
+  "title": "Vampire Lacerator",
+  "image": "./img/vampire-lacerator.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Vampire Warrior",
+  "text": "At the beginning of your upkeep, you lose 1 life unless an opponent has 10 or less life.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "101",
+  "artist": "Steve Argyle",
+  "rating": "5",
+  "votes": "0"
+}

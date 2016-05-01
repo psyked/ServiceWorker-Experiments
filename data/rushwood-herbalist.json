@@ -1,0 +1,13 @@
+{
+  "title": "Rushwood Herbalist",
+  "image": "./img/rushwood-herbalist.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Spellshaper",
+  "text": ", , Discard a card: Regenerate target creature.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "265",
+  "artist": "Terese Nielsen",
+  "rating": "2.208",
+  "votes": "24"
+}

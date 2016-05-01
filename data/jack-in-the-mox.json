@@ -1,0 +1,13 @@
+{
+  "title": "Jack-in-the-Mox",
+  "image": "./img/jack-in-the-mox.jpg",
+  "convertedManaCost": "0",
+  "types": "Artifact",
+  "text": "ocT: Roll a six-sided die for Jack-in-the-Mox. On a 1, sacrifice Jack-in-the-Mox and lose 5 life. Otherwise, Jack-in-the-Mox has one of the following effects. Treat this ability as a mana source.2 Add oW to your mana pool.3 Add oU to your mana pool.4 Add oB to your mana pool.5 Add oR to your mana pool.6 Add oG to your mana pool.",
+  "expansion": "Unglued",
+  "rarity": "Rare",
+  "cardNumber": "75",
+  "artist": "Dan Frazier",
+  "rating": "3.987",
+  "votes": "39"
+}

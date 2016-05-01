@@ -1,0 +1,13 @@
+{
+  "title": "Sek'Kuar, Deathkeeper",
+  "image": "./img/sekkuar-deathkeeper.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Orc Shaman",
+  "text": "Whenever another nontoken creature you control dies, put a 3/1 black and red Graveborn creature token with haste onto the battlefield.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "210",
+  "artist": "Jesper Ejsing",
+  "rating": "3.783",
+  "votes": "23"
+}

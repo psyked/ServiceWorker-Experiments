@@ -1,0 +1,13 @@
+{
+  "title": "Krark-Clan Ironworks",
+  "image": "./img/krark-clan-ironworks.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "Sacrifice an artifact: Add  to your mana pool.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "134",
+  "artist": "Tim Hildebrandt",
+  "rating": "4.361",
+  "votes": "61"
+}

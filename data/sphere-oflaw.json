@@ -1,0 +1,13 @@
+{
+  "title": "Sphere of Law",
+  "image": "./img/sphere-oflaw.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "If a red source would deal damage to you, prevent 2 of that damage.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "50",
+  "artist": "Christopher Moeller",
+  "rating": "3.312",
+  "votes": "24"
+}

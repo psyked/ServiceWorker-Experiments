@@ -1,0 +1,13 @@
+{
+  "title": "Mycosynth Fiend",
+  "image": "./img/mycosynth-fiend.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Horror",
+  "text": "Mycosynth Fiend gets +1/+1 for each poison counter your opponents have.",
+  "expansion": "New Phyrexia",
+  "rarity": "Uncommon",
+  "cardNumber": "117",
+  "artist": "Kev Walker",
+  "rating": "2.613",
+  "votes": "62"
+}

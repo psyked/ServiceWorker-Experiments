@@ -1,0 +1,13 @@
+{
+  "title": "Noetic Scales",
+  "image": "./img/noetic-scales.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "At the beginning of each player's upkeep, return to its owner's hand each creature that player controls with power greater than the number of cards in his or her hand.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "304",
+  "artist": "Andrew Robinson",
+  "rating": "4.449",
+  "votes": "49"
+}

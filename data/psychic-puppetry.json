@@ -1,0 +1,13 @@
+{
+  "title": "Psychic Puppetry",
+  "image": "./img/psychic-puppetry.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant  — Arcane",
+  "text": "You may tap or untap target permanent.Splice onto Arcane  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "80",
+  "artist": "Joel Thomas",
+  "rating": "3.527",
+  "votes": "37"
+}

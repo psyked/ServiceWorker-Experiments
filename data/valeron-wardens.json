@@ -1,0 +1,13 @@
+{
+  "title": "Valeron Wardens",
+  "image": "./img/valeron-wardens.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Monk",
+  "text": "Renown 2 (When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.)Whenever a creature you control becomes renowned, draw a card.",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "203",
+  "artist": "Howard Lyon",
+  "rating": "5",
+  "votes": "0"
+}

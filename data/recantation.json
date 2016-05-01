@@ -1,0 +1,13 @@
+{
+  "title": "Recantation",
+  "image": "./img/recantation.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, you may put a verse counter on Recantation., Sacrifice Recantation: Return up to X target permanents to their owners' hands, where X is the number of verse counters on Recantation.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "91",
+  "artist": "Greg Simanson",
+  "rating": "2.346",
+  "votes": "26"
+}

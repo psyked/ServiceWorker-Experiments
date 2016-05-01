@@ -1,0 +1,13 @@
+{
+  "title": "Worry Beads",
+  "image": "./img/worry-beads.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "At the beginning of each player's upkeep, that player puts the top card of his or her library into his or her graveyard.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "315",
+  "artist": "rk post",
+  "rating": "2.583",
+  "votes": "30"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Digester",
+  "image": "./img/phyrexian-digester.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Construct",
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "120",
+  "artist": "Dave Allsop",
+  "rating": "2.115",
+  "votes": "65"
+}

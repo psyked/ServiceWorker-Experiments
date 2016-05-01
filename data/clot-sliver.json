@@ -1,0 +1,13 @@
+{
+  "title": "Clot Sliver",
+  "image": "./img/clot-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Sliver",
+  "text": "All Slivers have \": Regenerate this permanent.\"",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "85",
+  "artist": "Jeff Laubenstein",
+  "rating": "5",
+  "votes": "0"
+}

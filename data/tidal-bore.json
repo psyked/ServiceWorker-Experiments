@@ -1,0 +1,13 @@
+{
+  "title": "Tidal Bore",
+  "image": "./img/tidal-bore.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "You may return an Island you control to its owner's hand rather than pay Tidal Bore's mana cost.You may tap or untap target creature.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "109",
+  "artist": "Frank Kelly Freas",
+  "rating": "2.897",
+  "votes": "34"
+}

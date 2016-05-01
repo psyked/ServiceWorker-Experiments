@@ -1,0 +1,13 @@
+{
+  "title": "Opal Caryatid",
+  "image": "./img/opal-caryatid.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment",
+  "text": "When an opponent casts a creature spell, if Opal Caryatid is an enchantment, Opal Caryatid becomes a 2/2 Soldier creature.",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "24",
+  "artist": "Berry",
+  "rating": "3.762",
+  "votes": "40"
+}

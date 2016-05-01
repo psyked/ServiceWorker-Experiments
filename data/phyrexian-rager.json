@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Rager",
+  "image": "./img/phyrexian-rager.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Horror",
+  "text": "When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.",
+  "expansion": "Commander 2015",
+  "rarity": "Common",
+  "cardNumber": "132",
+  "artist": "Stephan Martiniere",
+  "rating": "5",
+  "votes": "0"
+}

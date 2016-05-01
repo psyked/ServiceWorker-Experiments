@@ -1,0 +1,13 @@
+{
+  "title": "Undying Beast",
+  "image": "./img/undying-beast.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Beast",
+  "text": "When Undying Beast dies, put it on top of its owner's library.",
+  "expansion": "Portal",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Steve Luke",
+  "rating": "2.174",
+  "votes": "23"
+}

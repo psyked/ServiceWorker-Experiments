@@ -1,0 +1,13 @@
+{
+  "title": "Nim Devourer",
+  "image": "./img/nim-devourer.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie",
+  "text": "Nim Devourer gets +1/+0 for each artifact you control.: Return Nim Devourer from your graveyard to the battlefield, then sacrifice a creature. Activate this ability only during your upkeep.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "70",
+  "artist": "Adam Rex",
+  "rating": "3.408",
+  "votes": "38"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Skirk Ridge Exhumer",
+  "image": "./img/skirk-ridgeexhumer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie Spellshaper",
+  "text": ", , Discard a card: Put a 1/1 black Zombie Goblin creature token named Festering Goblin onto the battlefield. It has \"When Festering Goblin dies, target creature gets -1/-1 until end of turn.\"",
+  "expansion": "Future Sight",
+  "rarity": "Uncommon",
+  "cardNumber": "77",
+  "artist": "Michael Phillippi",
+  "rating": "3.858",
+  "votes": "53"
+}

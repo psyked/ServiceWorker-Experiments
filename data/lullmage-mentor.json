@@ -1,0 +1,13 @@
+{
+  "title": "Lullmage Mentor",
+  "image": "./img/lullmage-mentor.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Merfolk Wizard",
+  "text": "Whenever a spell or ability you control counters a spell, you may put a 1/1 blue Merfolk creature token onto the battlefield.Tap seven untapped Merfolk you control: Counter target spell.",
+  "expansion": "Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "54",
+  "artist": "Jaime Jones",
+  "rating": "4.197",
+  "votes": "89"
+}

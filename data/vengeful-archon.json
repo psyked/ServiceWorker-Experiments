@@ -1,0 +1,13 @@
+{
+  "title": "Vengeful Archon",
+  "image": "./img/vengeful-archon.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Archon",
+  "text": "Flying: Prevent the next X damage that would be dealt to you this turn. If damage is prevented this way, Vengeful Archon deals that much damage to target player.",
+  "expansion": "Magic 2011",
+  "rarity": "Rare",
+  "cardNumber": "37",
+  "artist": "Greg Staples",
+  "rating": "4.051",
+  "votes": "88"
+}

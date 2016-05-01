@@ -1,0 +1,13 @@
+{
+  "title": "Longhorn Firebeast",
+  "image": "./img/longhorn-firebeast.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental Ox Beast",
+  "text": "When Longhorn Firebeast enters the battlefield, any opponent may have it deal 5 damage to him or her. If a player does, sacrifice Longhorn Firebeast.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "103",
+  "artist": "Glen Angus",
+  "rating": "2.683",
+  "votes": "30"
+}

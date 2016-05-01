@@ -1,0 +1,13 @@
+{
+  "title": "Zhalfirin Commander",
+  "image": "./img/zhalfirin-commander.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.): Target Knight creature gets +1/+1 until end of turn.",
+  "expansion": "Duel Decks: Knights vs. Dragons",
+  "rarity": "Uncommon",
+  "cardNumber": "13",
+  "artist": "Stuart Griffin",
+  "rating": "3.682",
+  "votes": "22"
+}

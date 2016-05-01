@@ -1,0 +1,13 @@
+{
+  "title": "Slippery Bogle",
+  "image": "./img/slippery-bogle.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Beast",
+  "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+  "expansion": "Eventide",
+  "rarity": "Common",
+  "cardNumber": "160",
+  "artist": "Dave Allsop",
+  "rating": "4.050",
+  "votes": "100"
+}

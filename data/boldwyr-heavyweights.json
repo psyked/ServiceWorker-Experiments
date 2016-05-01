@@ -1,0 +1,13 @@
+{
+  "title": "Boldwyr Heavyweights",
+  "image": "./img/boldwyr-heavyweights.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Giant Warrior",
+  "text": "TrampleWhen Boldwyr Heavyweights enters the battlefield, each opponent may search his or her library for a creature card and put it onto the battlefield. Then each player who searched his or her library this way shuffles it.",
+  "expansion": "Morningtide",
+  "rarity": "Rare",
+  "cardNumber": "85",
+  "artist": "Wayne Reynolds",
+  "rating": "3.164",
+  "votes": "70"
+}

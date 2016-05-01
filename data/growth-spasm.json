@@ -1,0 +1,13 @@
+{
+  "title": "Growth Spasm",
+  "image": "./img/growth-spasm.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has \"Sacrifice this creature: Add  to your mana pool.\"",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "186",
+  "artist": "Dan Scott",
+  "rating": "4.033",
+  "votes": "61"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Carrion Wall",
+  "image": "./img/carrion-wall.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.): Regenerate Carrion Wall.",
+  "expansion": "Eighth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "121",
+  "artist": "Tony Szczudlo",
+  "rating": "3.242",
+  "votes": "31"
+}

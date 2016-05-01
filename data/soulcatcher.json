@@ -1,0 +1,13 @@
+{
+  "title": "Soulcatcher",
+  "image": "./img/soulcatcher.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Bird Soldier",
+  "text": "FlyingWhenever a creature with flying dies, put a +1/+1 counter on Soulcatcher.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Uncommon",
+  "cardNumber": "82",
+  "artist": "Julie Dillon",
+  "rating": "4.214",
+  "votes": "7"
+}

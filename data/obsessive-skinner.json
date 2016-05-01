@@ -1,0 +1,13 @@
+{
+  "title": "Obsessive Skinner",
+  "image": "./img/obsessive-skinner.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Rogue",
+  "text": "When Obsessive Skinner enters the battlefield, put a +1/+1 counter on target creature.Delirium — At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, put a +1/+1 counter on target creature.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "220",
+  "artist": "John Stanko",
+  "rating": "5",
+  "votes": "0"
+}

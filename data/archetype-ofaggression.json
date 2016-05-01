@@ -1,0 +1,13 @@
+{
+  "title": "Archetype of Aggression",
+  "image": "./img/archetype-ofaggression.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment Creature  — Human Warrior",
+  "text": "Creatures you control have trample.Creatures your opponents control lose trample and can't have or gain trample.",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "88",
+  "artist": "Mathias Kollros",
+  "rating": "3.827",
+  "votes": "49"
+}

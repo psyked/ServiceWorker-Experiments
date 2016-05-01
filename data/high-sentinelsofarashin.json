@@ -1,0 +1,13 @@
+{
+  "title": "High Sentinels of Arashin",
+  "image": "./img/high-sentinelsofarashin.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Bird Soldier",
+  "text": "FlyingHigh Sentinels of Arashin gets +1/+1 for each other creature you control with a +1/+1 counter on it.: Put a +1/+1 counter on target creature.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "13",
+  "artist": "James Ryman",
+  "rating": "3.833",
+  "votes": "3"
+}

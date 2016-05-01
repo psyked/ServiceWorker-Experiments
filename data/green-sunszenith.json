@@ -1,0 +1,13 @@
+{
+  "title": "Green Sun's Zenith",
+  "image": "./img/green-sunszenith.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Search your library for a green creature card with converted mana cost X or less, put it onto the battlefield, then shuffle your library. Shuffle Green Sun's Zenith into its owner's library.",
+  "expansion": "From the Vault: Twenty",
+  "rarity": "Mythic Rare",
+  "cardNumber": "19",
+  "artist": "David Rapoza",
+  "rating": "4.598",
+  "votes": "66"
+}

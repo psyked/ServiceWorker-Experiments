@@ -1,0 +1,13 @@
+{
+  "title": "Takklemaggot",
+  "image": "./img/takklemaggot.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAt the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.When enchanted creature dies, that creature's controller chooses a creature that Takklemaggot could enchant. If he or she does, return Takklemaggot to the battlefield under your control attached to that creature. If he or she doesn't, return Takklemaggot to the battlefield under your control as a non-Aura enchantment. It loses \"enchant creature\" and gains \"At the beginning of that player's upkeep, Takklemaggot deals 1 damage to him or her.\"",
+  "expansion": "Masters Edition III",
+  "rarity": "Uncommon",
+  "cardNumber": "76",
+  "artist": "Daniel Gelon",
+  "rating": "3.600",
+  "votes": "50"
+}

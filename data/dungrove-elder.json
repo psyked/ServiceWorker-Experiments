@@ -1,0 +1,13 @@
+{
+  "title": "Dungrove Elder",
+  "image": "./img/dungrove-elder.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Treefolk",
+  "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)Dungrove Elder's power and toughness are each equal to the number of Forests you control.",
+  "expansion": "Magic 2012",
+  "rarity": "Rare",
+  "cardNumber": "171",
+  "artist": "Matt Stewart",
+  "rating": "4.189",
+  "votes": "143"
+}

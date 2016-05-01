@@ -1,0 +1,13 @@
+{
+  "title": "Magus of the Disk",
+  "image": "./img/magus-ofthedisk.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Wizard",
+  "text": "Magus of the Disk enters the battlefield tapped., : Destroy all artifacts, creatures, and enchantments.",
+  "expansion": "Time Spiral",
+  "rarity": "Rare",
+  "cardNumber": "27",
+  "artist": "Jeremy Jarvis",
+  "rating": "4.188",
+  "votes": "77"
+}

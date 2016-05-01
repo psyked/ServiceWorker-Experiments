@@ -1,0 +1,13 @@
+{
+  "title": "Call the Bloodline",
+  "image": "./img/call-thebloodline.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": ", Discard a card: Put a 1/1 black Vampire Knight creature token with lifelink onto the battlefield. Activate this ability only once each turn.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "103",
+  "artist": "Lake Hurwitz",
+  "rating": "5",
+  "votes": "0"
+}

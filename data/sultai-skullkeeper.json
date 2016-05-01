@@ -1,0 +1,13 @@
+{
+  "title": "Sultai Skullkeeper",
+  "image": "./img/sultai-skullkeeper.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Naga Shaman",
+  "text": "When Sultai Skullkeeper enters the battlefield, put the top two cards of your library into your graveyard.",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "53",
+  "artist": "Ryan Barger",
+  "rating": "5",
+  "votes": "0"
+}

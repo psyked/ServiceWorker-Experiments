@@ -1,0 +1,13 @@
+{
+  "title": "Divine Light",
+  "image": "./img/divine-light.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Prevent all damage that would be dealt this turn to creatures you control.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "8",
+  "artist": "Christopher Moeller",
+  "rating": "2.744",
+  "votes": "45"
+}

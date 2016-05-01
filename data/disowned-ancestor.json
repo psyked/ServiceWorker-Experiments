@@ -1,0 +1,13 @@
+{
+  "title": "Disowned Ancestor",
+  "image": "./img/disowned-ancestor.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Spirit Warrior",
+  "text": "Outlast  (, : Put a +1/+1 counter on this creature. Outlast only as a sorcery.)",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "70",
+  "artist": "Zack Stella",
+  "rating": "3.300",
+  "votes": "5"
+}

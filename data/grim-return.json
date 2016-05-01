@@ -1,0 +1,13 @@
+{
+  "title": "Grim Return",
+  "image": "./img/grim-return.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose target creature card in a graveyard that was put there from the battlefield this turn. Put that card onto the battlefield under your control.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "100",
+  "artist": "Seb McKinnon",
+  "rating": "3.594",
+  "votes": "69"
+}

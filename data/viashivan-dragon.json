@@ -1,0 +1,13 @@
+{
+  "title": "Viashivan Dragon",
+  "image": "./img/viashivan-dragon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "Flying: Viashivan Dragon gets +1/+0 until end of turn.: Viashivan Dragon gets +0/+1 until end of turn.",
+  "expansion": "Visions",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Ian Miller",
+  "rating": "3.842",
+  "votes": "57"
+}

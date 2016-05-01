@@ -1,0 +1,13 @@
+{
+  "title": "Evasive Action",
+  "image": "./img/evasive-action.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Domain — Counter target spell unless its controller pays  for each basic land type among lands you control.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Uncommon",
+  "cardNumber": "50",
+  "artist": "Brian Snoddy",
+  "rating": "3.364",
+  "votes": "33"
+}

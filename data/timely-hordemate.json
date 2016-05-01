@@ -1,0 +1,13 @@
+{
+  "title": "Timely Hordemate",
+  "image": "./img/timely-hordemate.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Warrior",
+  "text": "Raid — When Timely Hordemate enters the battlefield, if you attacked with a creature this turn, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "27",
+  "artist": "Steve Prescott",
+  "rating": "3.500",
+  "votes": "2"
+}

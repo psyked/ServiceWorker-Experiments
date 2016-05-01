@@ -1,0 +1,13 @@
+{
+  "title": "Sleep",
+  "image": "./img/sleep.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Tap all creatures target player controls. Those creatures don't untap during that player's next untap step.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "106",
+  "artist": "Chris Rahn",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dead Drop",
+  "image": "./img/dead-drop.jpg",
+  "convertedManaCost": "10",
+  "types": "Sorcery",
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for .)Target player sacrifices two creatures.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "67",
+  "artist": "Greg Staples",
+  "rating": "1.700",
+  "votes": "5"
+}

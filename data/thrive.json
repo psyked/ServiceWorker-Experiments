@@ -1,0 +1,13 @@
+{
+  "title": "Thrive",
+  "image": "./img/thrive.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Put a +1/+1 counter on each of X target creatures.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "166",
+  "artist": "Daren Bader",
+  "rating": "5",
+  "votes": "0"
+}

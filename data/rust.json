@@ -1,0 +1,13 @@
+{
+  "title": "Rust",
+  "image": "./img/rust.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Counter target activated ability from an artifact source. (Mana abilities can't be targeted.)",
+  "expansion": "Legends",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Liz Danforth",
+  "rating": "3.302",
+  "votes": "43"
+}

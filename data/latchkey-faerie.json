@@ -1,0 +1,13 @@
+{
+  "title": "Latchkey Faerie",
+  "image": "./img/latchkey-faerie.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Faerie Rogue",
+  "text": "FlyingProwl  (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Faerie or Rogue.)When Latchkey Faerie enters the battlefield, if its prowl cost was paid, draw a card.",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "50",
+  "artist": "Warren Mahy",
+  "rating": "3.107",
+  "votes": "14"
+}

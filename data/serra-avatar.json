@@ -1,0 +1,13 @@
+{
+  "title": "Serra Avatar",
+  "image": "./img/serra-avatar.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Avatar",
+  "text": "Serra Avatar's power and toughness are each equal to your life total.When Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library.",
+  "expansion": "Commander 2014",
+  "rarity": "Mythic Rare",
+  "cardNumber": "87",
+  "artist": "Dermot Power",
+  "rating": "5",
+  "votes": "0"
+}

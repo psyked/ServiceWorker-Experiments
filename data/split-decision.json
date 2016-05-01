@@ -1,0 +1,13 @@
+{
+  "title": "Split Decision",
+  "image": "./img/split-decision.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Will of the council — Choose target instant or sorcery spell. Starting with you, each player votes for denial or duplication. If denial gets more votes, counter the spell. If duplication gets more votes or the vote is tied, copy the spell. You may choose new targets for the copy.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Uncommon",
+  "cardNumber": "25",
+  "artist": "Robbie Trevino",
+  "rating": "3.929",
+  "votes": "7"
+}

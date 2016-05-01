@@ -1,0 +1,13 @@
+{
+  "title": "Voidmage Prodigy",
+  "image": "./img/voidmage-prodigy.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": ", Sacrifice a Wizard: Counter target spell.Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "34",
+  "artist": "Christopher Moeller",
+  "rating": "3.973",
+  "votes": "56"
+}

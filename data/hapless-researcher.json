@@ -1,0 +1,13 @@
+{
+  "title": "Hapless Researcher",
+  "image": "./img/hapless-researcher.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Wizard",
+  "text": "Sacrifice Hapless Researcher: Draw a card, then discard a card.",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "42",
+  "artist": "Ron Spears",
+  "rating": "2.818",
+  "votes": "44"
+}

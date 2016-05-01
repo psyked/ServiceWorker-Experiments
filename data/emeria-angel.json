@@ -1,0 +1,13 @@
+{
+  "title": "Emeria Angel",
+  "image": "./img/emeria-angel.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Angel",
+  "text": "FlyingLandfall — Whenever a land enters the battlefield under your control, you may put a 1/1 white Bird creature token with flying onto the battlefield.",
+  "expansion": "Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "11",
+  "artist": "Jim Murray",
+  "rating": "4.037",
+  "votes": "150"
+}

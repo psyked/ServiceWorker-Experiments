@@ -1,0 +1,13 @@
+{
+  "title": "Seraph Sanctuary",
+  "image": "./img/seraph-sanctuary.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "When Seraph Sanctuary enters the battlefield, you gain 1 life.Whenever an Angel enters the battlefield under your control, you gain 1 life.: Add  to your mana pool.",
+  "expansion": "Duel Decks: Blessed vs. Cursed",
+  "rarity": "Common",
+  "cardNumber": "33",
+  "artist": "David Palumbo",
+  "rating": "5",
+  "votes": "0"
+}

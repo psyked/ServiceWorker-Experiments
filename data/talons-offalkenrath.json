@@ -1,0 +1,13 @@
+{
+  "title": "Talons of Falkenrath",
+  "image": "./img/talons-offalkenrath.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)Enchant creatureEnchanted creature has \": This creature gets +2/+0 until end of turn.\"",
+  "expansion": "Dark Ascension",
+  "rarity": "Common",
+  "cardNumber": "105",
+  "artist": "Svetlin Velinov",
+  "rating": "1.663",
+  "votes": "52"
+}

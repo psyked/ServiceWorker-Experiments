@@ -1,0 +1,13 @@
+{
+  "title": "Wild Mammoth",
+  "image": "./img/wild-mammoth.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elephant",
+  "text": "At the beginning of your upkeep, if a player controls more creatures than each other player, the player who controls the most creatures gains control of Wild Mammoth.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "124",
+  "artist": "Bradley Williams",
+  "rating": "2.879",
+  "votes": "29"
+}

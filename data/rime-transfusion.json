@@ -1,0 +1,13 @@
+{
+  "title": "Rime Transfusion",
+  "image": "./img/rime-transfusion.jpg",
+  "convertedManaCost": "2",
+  "types": "Snow Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+1 and has \": This creature can't be blocked this turn except by snow creatures.\" ( can be paid with one mana from a snow permanent.)",
+  "expansion": "Coldsnap",
+  "rarity": "Uncommon",
+  "cardNumber": "68",
+  "artist": "Jeff Nentrup",
+  "rating": "3.538",
+  "votes": "40"
+}

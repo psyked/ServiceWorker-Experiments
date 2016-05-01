@@ -1,0 +1,13 @@
+{
+  "title": "Warrior en-Kor",
+  "image": "./img/warrior-en-kor.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kor Warrior Knight",
+  "text": ": The next 1 damage that would be dealt to Warrior en-Kor this turn is dealt to target creature you control instead.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "39",
+  "artist": "Stephen Daniele",
+  "rating": "5",
+  "votes": "0"
+}

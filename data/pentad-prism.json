@@ -1,0 +1,13 @@
+{
+  "title": "Pentad Prism",
+  "image": "./img/pentad-prism.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)Remove a charge counter from Pentad Prism: Add one mana of any color to your mana pool.",
+  "expansion": "Planechase",
+  "rarity": "Common",
+  "cardNumber": "122",
+  "artist": "David Martin",
+  "rating": "4.417",
+  "votes": "54"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Damping Matrix",
+  "image": "./img/damping-matrix.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Activated abilities of artifacts and creatures can't be activated unless they're mana abilities.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "161",
+  "artist": "Mike Dringenberg",
+  "rating": "3.977",
+  "votes": "44"
+}

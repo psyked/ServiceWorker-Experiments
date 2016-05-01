@@ -1,0 +1,13 @@
+{
+  "title": "Balshan Griffin",
+  "image": "./img/balshan-griffin.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Griffin",
+  "text": "Flying, Discard a card: Return Balshan Griffin to its owner's hand.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "67",
+  "artist": "Wayne England",
+  "rating": "1.379",
+  "votes": "33"
+}

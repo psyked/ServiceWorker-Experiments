@@ -1,0 +1,13 @@
+{
+  "title": "Genju of the Spires",
+  "image": "./img/genju-ofthespires.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant Mountain: Enchanted Mountain becomes a 6/1 red Spirit creature until end of turn. It's still a land.When enchanted Mountain is put into a graveyard, you may return Genju of the Spires from your graveyard to your hand.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "105",
+  "artist": "Joel Thomas",
+  "rating": "4.225",
+  "votes": "51"
+}

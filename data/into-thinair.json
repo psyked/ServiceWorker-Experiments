@@ -1,0 +1,13 @@
+{
+  "title": "Into Thin Air",
+  "image": "./img/into-thinair.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "Affinity for artifacts (This spell costs  less to cast for each artifact you control.)Return target artifact to its owner's hand.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "33",
+  "artist": "Ittoku",
+  "rating": "1.550",
+  "votes": "30"
+}

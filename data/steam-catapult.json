@@ -1,0 +1,13 @@
+{
+  "title": "Steam Catapult",
+  "image": "./img/steam-catapult.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Soldier",
+  "text": ": Destroy target tapped creature. Activate this ability only during your turn, before attackers are declared.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "29",
+  "artist": "Mark Tedin",
+  "rating": "3.395",
+  "votes": "19"
+}

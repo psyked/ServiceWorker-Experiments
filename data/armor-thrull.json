@@ -1,0 +1,13 @@
+{
+  "title": "Armor Thrull",
+  "image": "./img/armor-thrull.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Thrull",
+  "text": ", Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "77",
+  "artist": "Pete Venters",
+  "rating": "3.065",
+  "votes": "23"
+}

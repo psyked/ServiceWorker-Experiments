@@ -1,0 +1,13 @@
+{
+  "title": "Tethmos High Priest",
+  "image": "./img/tethmos-highpriest.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Cat Cleric",
+  "text": "Heroic — Whenever you cast a spell that targets Tethmos High Priest, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "29",
+  "artist": "Mark Zug",
+  "rating": "3.743",
+  "votes": "35"
+}

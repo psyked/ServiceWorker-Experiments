@@ -1,0 +1,13 @@
+{
+  "title": "Transmogrifying Licid",
+  "image": "./img/transmogrifying-licid.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Licid",
+  "text": ", : Transmogrifying Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay  to end this effect.Enchanted creature gets +1/+1 and is an artifact in addition to its other types.",
+  "expansion": "Exodus",
+  "rarity": "Uncommon",
+  "cardNumber": "141",
+  "artist": "Jim Nelson",
+  "rating": "3.197",
+  "votes": "33"
+}

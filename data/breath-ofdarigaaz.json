@@ -1,0 +1,13 @@
+{
+  "title": "Breath of Darigaaz",
+  "image": "./img/breath-ofdarigaaz.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)Breath of Darigaaz deals 1 damage to each creature without flying and each player. If Breath of Darigaaz was kicked, it deals 4 damage to each creature without flying and each player instead.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "143",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "5",
+  "votes": "0"
+}

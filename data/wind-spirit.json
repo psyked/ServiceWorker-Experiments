@@ -1,0 +1,13 @@
+{
+  "title": "Wind Spirit",
+  "image": "./img/wind-spirit.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental Spirit",
+  "text": "FlyingMenace (This creature can't be blocked except by two or more creatures.)",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "75",
+  "artist": "Kaja Foglio",
+  "rating": "2.944",
+  "votes": "27"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Withered Wretch",
+  "image": "./img/withered-wretch.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie Cleric",
+  "text": ": Exile target card from a graveyard.",
+  "expansion": "Planechase",
+  "rarity": "Uncommon",
+  "cardNumber": "45",
+  "artist": "Tim Hildebrandt",
+  "rating": "4.342",
+  "votes": "57"
+}

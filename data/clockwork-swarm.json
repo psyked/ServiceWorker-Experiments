@@ -1,0 +1,13 @@
+{
+  "title": "Clockwork Swarm",
+  "image": "./img/clockwork-swarm.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Insect",
+  "text": "Clockwork Swarm enters the battlefield with four +1/+0 counters on it.Clockwork Swarm can't be blocked by Walls.At end of combat, if Clockwork Swarm attacked or blocked this combat, remove a +1/+0 counter from it., : Put up to X +1/+0 counters on Clockwork Swarm. This ability can't cause the total number of +1/+0 counters on Clockwork Swarm to be greater than four. Activate this ability only during your upkeep.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "192",
+  "artist": "Amy Weber",
+  "rating": "3.056",
+  "votes": "18"
+}

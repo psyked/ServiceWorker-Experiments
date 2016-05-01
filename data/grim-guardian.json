@@ -1,0 +1,13 @@
+{
+  "title": "Grim Guardian",
+  "image": "./img/grim-guardian.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment Creature  — Zombie",
+  "text": "Constellation — Whenever Grim Guardian or another enchantment enters the battlefield under your control, each opponent loses 1 life.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "73",
+  "artist": "Ryan Barger",
+  "rating": "3.661",
+  "votes": "31"
+}

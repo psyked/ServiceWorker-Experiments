@@ -1,0 +1,13 @@
+{
+  "title": "Profane Memento",
+  "image": "./img/profane-memento.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": "Whenever a creature card is put into an opponent's graveyard from anywhere, you gain 1 life.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "226",
+  "artist": "Franz Vohwinkel",
+  "rating": "2.667",
+  "votes": "6"
+}

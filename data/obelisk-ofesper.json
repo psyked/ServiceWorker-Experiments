@@ -1,0 +1,13 @@
+{
+  "title": "Obelisk of Esper",
+  "image": "./img/obelisk-ofesper.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add , , or  to your mana pool.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Common",
+  "cardNumber": "250",
+  "artist": "Francis Tsai",
+  "rating": "2.389",
+  "votes": "9"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Magebane Armor",
+  "image": "./img/magebane-armor.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +2/+4 and loses flying.Prevent all noncombat damage that would be dealt to equipped creature.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Magic 2010",
+  "rarity": "Rare",
+  "cardNumber": "214",
+  "artist": "Izzy",
+  "rating": "3.994",
+  "votes": "84"
+}

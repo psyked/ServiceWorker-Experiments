@@ -1,0 +1,13 @@
+{
+  "title": "Soratami Mindsweeper",
+  "image": "./img/soratami-mindsweeper.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Moonfolk Wizard",
+  "text": "Flying, Return a land you control to its owner's hand: Target player puts the top two cards of his or her library into his or her graveyard.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "52",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "2.773",
+  "votes": "33"
+}

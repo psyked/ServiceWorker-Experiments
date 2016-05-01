@@ -1,0 +1,13 @@
+{
+  "title": "Magma Mine",
+  "image": "./img/magma-mine.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ": Put a pressure counter on Magma Mine., Sacrifice Magma Mine: Magma Mine deals damage equal to the number of pressure counters on it to target creature or player.",
+  "expansion": "Visions",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Ron Spencer",
+  "rating": "3.058",
+  "votes": "52"
+}

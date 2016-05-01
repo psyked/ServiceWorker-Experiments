@@ -1,0 +1,13 @@
+{
+  "title": "Hungry Spriggan",
+  "image": "./img/hungry-spriggan.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Warrior",
+  "text": "TrampleWhenever Hungry Spriggan attacks, it gets +3/+3 until end of turn.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "120",
+  "artist": "Drew Tucker",
+  "rating": "3.263",
+  "votes": "59"
+}

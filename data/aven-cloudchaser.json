@@ -1,0 +1,13 @@
+{
+  "title": "Aven Cloudchaser",
+  "image": "./img/aven-cloudchaser.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Bird Soldier",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)When Aven Cloudchaser enters the battlefield, destroy target enchantment.",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "7",
+  "artist": "Justin Sweet",
+  "rating": "3.074",
+  "votes": "27"
+}

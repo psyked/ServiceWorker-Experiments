@@ -1,0 +1,13 @@
+{
+  "title": "Magus of the Unseen",
+  "image": "./img/magus-oftheunseen.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": ", : Untap target artifact an opponent controls and gain control of it until end of turn. It gains haste until end of turn. When you lose control of the artifact, tap it.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "53",
+  "artist": "Kaja Foglio",
+  "rating": "4.000",
+  "votes": "32"
+}

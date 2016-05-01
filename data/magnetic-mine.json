@@ -1,0 +1,13 @@
+{
+  "title": "Magnetic Mine",
+  "image": "./img/magnetic-mine.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "Whenever another artifact is put into a graveyard from the battlefield, Magnetic Mine deals 2 damage to that artifact's controller.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Rare",
+  "cardNumber": "113",
+  "artist": "David Rapoza",
+  "rating": "2.298",
+  "votes": "52"
+}

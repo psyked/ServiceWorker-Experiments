@@ -1,0 +1,13 @@
+{
+  "title": "Stinging Licid",
+  "image": "./img/stinging-licid.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Licid",
+  "text": ", : Stinging Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay  to end this effect.Whenever enchanted creature becomes tapped, Stinging Licid deals 2 damage to that creature's controller.",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Paolo Parente",
+  "rating": "3.232",
+  "votes": "28"
+}

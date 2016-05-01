@@ -1,0 +1,13 @@
+{
+  "title": "Viscid Lemures",
+  "image": "./img/viscid-lemures.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit",
+  "text": ": Viscid Lemures gets -1/-0 and gains swampwalk until end of turn. (It can't be blocked as long as defending player controls a Swamp.)",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "141",
+  "artist": "Drew Tucker",
+  "rating": "1.959",
+  "votes": "37"
+}

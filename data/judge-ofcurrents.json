@@ -1,0 +1,13 @@
+{
+  "title": "Judge of Currents",
+  "image": "./img/judge-ofcurrents.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk Wizard",
+  "text": "Whenever a Merfolk you control becomes tapped, you may gain 1 life.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "22",
+  "artist": "Dan Scott",
+  "rating": "3.453",
+  "votes": "43"
+}

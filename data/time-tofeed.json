@@ -1,0 +1,13 @@
+{
+  "title": "Time to Feed",
+  "image": "./img/time-tofeed.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Choose target creature an opponent controls. When that creature dies this turn, you gain 3 life. Target creature you control fights that creature. (Each deals damage equal to its power to the other.)",
+  "expansion": "Duel Decks: Elspeth vs. Kiora",
+  "rarity": "Common",
+  "cardNumber": "50",
+  "artist": "Wayne Reynolds",
+  "rating": "5",
+  "votes": "0"
+}

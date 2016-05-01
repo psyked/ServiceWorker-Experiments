@@ -1,0 +1,13 @@
+{
+  "title": "Aven Fisher",
+  "image": "./img/aven-fisher.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Bird Soldier",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)When Aven Fisher dies, you may draw a card.",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "68",
+  "artist": "Christopher Moeller",
+  "rating": "2.714",
+  "votes": "35"
+}

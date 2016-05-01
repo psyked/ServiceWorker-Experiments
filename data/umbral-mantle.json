@@ -1,0 +1,13 @@
+{
+  "title": "Umbral Mantle",
+  "image": "./img/umbral-mantle.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature has \", : This creature gets +2/+2 until end of turn.\" ( is the untap symbol.)Equip",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "267",
+  "artist": "Richard Sardinha",
+  "rating": "4.024",
+  "votes": "62"
+}

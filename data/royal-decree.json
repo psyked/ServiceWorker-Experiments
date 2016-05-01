@@ -1,0 +1,13 @@
+{
+  "title": "Royal Decree",
+  "image": "./img/royal-decree.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Cumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)Whenever a Swamp, Mountain, black permanent, or red permanent becomes tapped, Royal Decree deals 1 damage to that permanent's controller.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "31",
+  "artist": "Pete Venters",
+  "rating": "3.444",
+  "votes": "27"
+}

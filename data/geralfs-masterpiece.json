@@ -1,0 +1,13 @@
+{
+  "title": "Geralf's Masterpiece",
+  "image": "./img/geralfs-masterpiece.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie Horror",
+  "text": "FlyingGeralf's Masterpiece gets -1/-1 for each card in your hand., Discard three cards: Return Geralf's Masterpiece from your graveyard to the battlefield tapped.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Mythic Rare",
+  "cardNumber": "65",
+  "artist": "Daarken",
+  "rating": "5",
+  "votes": "0"
+}

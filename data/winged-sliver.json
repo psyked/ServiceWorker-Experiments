@@ -1,0 +1,13 @@
+{
+  "title": "Winged Sliver",
+  "image": "./img/winged-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Sliver",
+  "text": "All Sliver creatures have flying.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "82",
+  "artist": "Anthony S. Waters",
+  "rating": "5",
+  "votes": "0"
+}

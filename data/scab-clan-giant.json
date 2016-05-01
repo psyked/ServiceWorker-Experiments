@@ -1,0 +1,13 @@
+{
+  "title": "Scab-Clan Giant",
+  "image": "./img/scab-clan-giant.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant Warrior",
+  "text": "When Scab-Clan Giant enters the battlefield, it fights target creature an opponent controls chosen at random.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Uncommon",
+  "cardNumber": "101",
+  "artist": "Zoltan Boros",
+  "rating": "3.079",
+  "votes": "38"
+}

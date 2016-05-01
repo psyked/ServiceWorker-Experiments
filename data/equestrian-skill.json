@@ -1,0 +1,13 @@
+{
+  "title": "Equestrian Skill",
+  "image": "./img/equestrian-skill.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +3/+3.As long as enchanted creature is a Human, it has trample.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "204",
+  "artist": "Zoltan Boros",
+  "rating": "5",
+  "votes": "0"
+}

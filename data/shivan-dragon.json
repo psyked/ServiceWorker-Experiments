@@ -1,0 +1,13 @@
+{
+  "title": "Shivan Dragon",
+  "image": "./img/shivan-dragon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.): Shivan Dragon gets +1/+0 until end of turn.",
+  "expansion": "Welcome Deck 2016",
+  "rarity": "Rare",
+  "cardNumber": "13",
+  "artist": "Donato Giancola",
+  "rating": "5",
+  "votes": "0"
+}

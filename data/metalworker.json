@@ -1,0 +1,13 @@
+{
+  "title": "Metalworker",
+  "image": "./img/metalworker.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Construct",
+  "text": ": Reveal any number of artifact cards in your hand. Add  to your mana pool for each card revealed this way.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Rare",
+  "cardNumber": "135",
+  "artist": "Hazeltine",
+  "rating": "4.593",
+  "votes": "199"
+}

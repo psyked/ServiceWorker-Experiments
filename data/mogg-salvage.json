@@ -1,0 +1,13 @@
+{
+  "title": "Mogg Salvage",
+  "image": "./img/mogg-salvage.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "If an opponent controls an Island and you control a Mountain, you may cast Mogg Salvage without paying its mana cost.Destroy target artifact.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "94",
+  "artist": "Paolo Parente",
+  "rating": "3.981",
+  "votes": "26"
+}

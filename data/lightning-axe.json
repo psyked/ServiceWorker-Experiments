@@ -1,0 +1,13 @@
+{
+  "title": "Lightning Axe",
+  "image": "./img/lightning-axe.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "As an additional cost to cast Lightning Axe, discard a card or pay .Lightning Axe deals 5 damage to target creature.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "170",
+  "artist": "Jason A. Engle",
+  "rating": "5",
+  "votes": "0"
+}

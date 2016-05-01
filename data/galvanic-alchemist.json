@@ -1,0 +1,13 @@
+{
+  "title": "Galvanic Alchemist",
+  "image": "./img/galvanic-alchemist.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)As long as Galvanic Alchemist is paired with another creature, each of those creatures has \": Untap this creature.\"",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "54",
+  "artist": "Svetlin Velinov",
+  "rating": "2.889",
+  "votes": "36"
+}

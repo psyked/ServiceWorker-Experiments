@@ -1,0 +1,13 @@
+{
+  "title": "Steeling Stance",
+  "image": "./img/steeling-stance.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Creatures you control get +1/+1 until end of turn.Forecast — , Reveal Steeling Stance from your hand: Target creature gets +1/+1 until end of turn. (Activate this ability only during your upkeep and only once each turn.)",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "18",
+  "artist": "Randy Gallegos",
+  "rating": "2.403",
+  "votes": "36"
+}

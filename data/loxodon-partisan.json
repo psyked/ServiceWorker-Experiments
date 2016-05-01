@@ -1,0 +1,13 @@
+{
+  "title": "Loxodon Partisan",
+  "image": "./img/loxodon-partisan.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elephant Soldier",
+  "text": "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)",
+  "expansion": "Duel Decks: Elspeth vs. Kiora",
+  "rarity": "Common",
+  "cardNumber": "17",
+  "artist": "Matt Stewart",
+  "rating": "5",
+  "votes": "0"
+}

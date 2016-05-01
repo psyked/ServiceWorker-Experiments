@@ -1,0 +1,13 @@
+{
+  "title": "Trespassing Souleater",
+  "image": "./img/trespassing-souleater.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Construct",
+  "text": ": Trespassing Souleater can't be blocked this turn. ( can be paid with either  or 2 life.)",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "163",
+  "artist": "Scott Chou",
+  "rating": "2.915",
+  "votes": "53"
+}

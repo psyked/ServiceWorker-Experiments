@@ -1,0 +1,13 @@
+{
+  "title": "Vile Bile",
+  "image": "./img/vile-bile.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature — Ooze",
+  "text": "Whenever a player's skin or fingernail touches Vile Bile, that player loses 2 life.",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "65",
+  "artist": "Tony Szczudlo",
+  "rating": "4.326",
+  "votes": "46"
+}

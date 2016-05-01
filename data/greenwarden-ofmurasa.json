@@ -1,0 +1,13 @@
+{
+  "title": "Greenwarden of Murasa",
+  "image": "./img/greenwarden-ofmurasa.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": "When Greenwarden of Murasa enters the battlefield, you may return target card from your graveyard to your hand.When Greenwarden of Murasa dies, you may exile it. If you do, return target card from your graveyard to your hand.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Mythic Rare",
+  "cardNumber": "174",
+  "artist": "Eric Deschamps",
+  "rating": "5",
+  "votes": "0"
+}

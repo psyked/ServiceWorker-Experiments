@@ -1,0 +1,13 @@
+{
+  "title": "Thermal Navigator",
+  "image": "./img/thermal-navigator.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Construct",
+  "text": "Sacrifice an artifact: Thermal Navigator gains flying until end of turn.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "162",
+  "artist": "Jim Murray",
+  "rating": "1.600",
+  "votes": "30"
+}

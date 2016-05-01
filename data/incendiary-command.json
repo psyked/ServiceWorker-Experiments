@@ -1,0 +1,13 @@
+{
+  "title": "Incendiary Command",
+  "image": "./img/incendiary-command.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Choose two —• Incendiary Command deals 4 damage to target player.• Incendiary Command deals 2 damage to each creature.• Destroy target nonbasic land.• Each player discards all the cards in his or her hand, then draws that many cards.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "113",
+  "artist": "Wayne England",
+  "rating": "3.615",
+  "votes": "13"
+}

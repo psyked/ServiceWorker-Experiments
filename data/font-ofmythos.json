@@ -1,0 +1,13 @@
+{
+  "title": "Font of Mythos",
+  "image": "./img/font-ofmythos.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "At the beginning of each player's draw step, that player draws two additional cards.",
+  "expansion": "Conflux",
+  "rarity": "Rare",
+  "cardNumber": "136",
+  "artist": "Dave Allsop",
+  "rating": "3.418",
+  "votes": "98"
+}

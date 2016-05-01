@@ -1,0 +1,13 @@
+{
+  "title": "Double Header",
+  "image": "./img/double-header.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature — Drake",
+  "text": "FlyingWhen Double Header comes into play, you may return target permanent with a two-word name to its owner's hand.",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "31",
+  "artist": "Richard Sardinha",
+  "rating": "2.904",
+  "votes": "26"
+}

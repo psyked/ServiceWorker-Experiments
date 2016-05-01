@@ -1,0 +1,13 @@
+{
+  "title": "Dragon Mask",
+  "image": "./img/dragon-mask.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", : Target creature you control gets +2/+2 until end of turn. Return it to its owner's hand at the beginning of the next end step. (Return it only if it's on the battlefield.)",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "283",
+  "artist": "Craig Hooper",
+  "rating": "2.539",
+  "votes": "38"
+}

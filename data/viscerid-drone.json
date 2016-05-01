@@ -1,0 +1,13 @@
+{
+  "title": "Viscerid Drone",
+  "image": "./img/viscerid-drone.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Homarid Drone",
+  "text": ", Sacrifice a creature and a Swamp: Destroy target nonartifact creature. It can't be regenerated., Sacrifice a creature and a snow Swamp: Destroy target creature. It can't be regenerated.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "73",
+  "artist": "Heather Hudson",
+  "rating": "3.175",
+  "votes": "40"
+}

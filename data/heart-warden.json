@@ -1,0 +1,13 @@
+{
+  "title": "Heart Warden",
+  "image": "./img/heart-warden.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Druid",
+  "text": ": Add  to your mana pool., Sacrifice Heart Warden: Draw a card.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "108",
+  "artist": "Adam Rex",
+  "rating": "4.107",
+  "votes": "28"
+}

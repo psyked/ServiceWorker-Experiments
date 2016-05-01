@@ -1,0 +1,13 @@
+{
+  "title": "Squirming Mass",
+  "image": "./img/squirming-mass.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Horror",
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "73",
+  "artist": "Ron Spencer",
+  "rating": "2.258",
+  "votes": "33"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Veteran's Armaments",
+  "image": "./img/veterans-armaments.jpg",
+  "convertedManaCost": "2",
+  "types": "Tribal Artifact  — Soldier Equipment",
+  "text": "Equipped creature has \"Whenever this creature attacks or blocks, it gets +1/+1 until end of turn for each attacking creature.\"Whenever a Soldier creature enters the battlefield, you may attach Veteran's Armaments to it.Equip",
+  "expansion": "Morningtide",
+  "rarity": "Uncommon",
+  "cardNumber": "146",
+  "artist": "Alan Pollack",
+  "rating": "3.500",
+  "votes": "42"
+}

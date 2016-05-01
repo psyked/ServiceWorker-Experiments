@@ -1,0 +1,13 @@
+{
+  "title": "Dawnray Archer",
+  "image": "./img/dawnray-archer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Archer",
+  "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.), : Dawnray Archer deals 1 damage to target attacking or blocking creature.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "39",
+  "artist": "Dan Dos Santos",
+  "rating": "2.074",
+  "votes": "47"
+}

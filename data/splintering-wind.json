@@ -1,0 +1,13 @@
+{
+  "title": "Splintering Wind",
+  "image": "./img/splintering-wind.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": ": Splintering Wind deals 1 damage to target creature. Put a 1/1 green Splinter creature token onto the battlefield. It has flying and \"Cumulative upkeep .\" When it leaves the battlefield, it deals 1 damage to you and each creature you control. (At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless he or she pays its upkeep cost for each age counter on it.)",
+  "expansion": "Alliances",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Ron Spencer",
+  "rating": "2.085",
+  "votes": "41"
+}

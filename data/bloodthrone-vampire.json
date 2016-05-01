@@ -1,0 +1,13 @@
+{
+  "title": "Bloodthrone Vampire",
+  "image": "./img/bloodthrone-vampire.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Vampire",
+  "text": "Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "46",
+  "artist": "Steve Argyle",
+  "rating": "5",
+  "votes": "0"
+}

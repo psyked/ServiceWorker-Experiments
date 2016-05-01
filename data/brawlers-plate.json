@@ -1,0 +1,13 @@
+{
+  "title": "Brawler's Plate",
+  "image": "./img/brawlers-plate.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +2/+2 and has trample. (It can deal excess combat damage to defending player or planeswalker while attacking.)Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "224",
+  "artist": "Jung Park",
+  "rating": "5",
+  "votes": "0"
+}

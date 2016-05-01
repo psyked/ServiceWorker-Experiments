@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Essence",
+  "image": "./img/wall-ofessence.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)Whenever Wall of Essence is dealt combat damage, you gain that much life.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "38",
+  "artist": "Adam Rex",
+  "rating": "5",
+  "votes": "0"
+}

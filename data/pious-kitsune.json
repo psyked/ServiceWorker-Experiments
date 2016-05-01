@@ -1,0 +1,13 @@
+{
+  "title": "Pious Kitsune",
+  "image": "./img/pious-kitsune.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Fox Cleric",
+  "text": "At the beginning of your upkeep, put a devotion counter on Pious Kitsune. Then if a creature named Eight-and-a-Half-Tails is on the battlefield, you gain 1 life for each devotion counter on Pious Kitsune., Remove a devotion counter from Pious Kitsune: You gain 1 life.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "38",
+  "artist": "Anthony S. Waters",
+  "rating": "2.308",
+  "votes": "39"
+}

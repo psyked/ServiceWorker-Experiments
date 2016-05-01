@@ -1,0 +1,13 @@
+{
+  "title": "Declaration in Stone",
+  "image": "./img/declaration-instone.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Exile target creature and all other creatures its controller controls with the same name as that creature. That player investigates for each nontoken creature exiled this way.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "12",
+  "artist": "Tyler Jacobson",
+  "rating": "5",
+  "votes": "0"
+}

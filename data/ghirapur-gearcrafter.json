@@ -1,0 +1,13 @@
+{
+  "title": "Ghirapur Gearcrafter",
+  "image": "./img/ghirapur-gearcrafter.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Artificer",
+  "text": "When Ghirapur Gearcrafter enters the battlefield, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield. (A creature with flying can't be blocked except by creatures with flying or reach.)",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "149",
+  "artist": "Victor Adame Minguez",
+  "rating": "5",
+  "votes": "0"
+}

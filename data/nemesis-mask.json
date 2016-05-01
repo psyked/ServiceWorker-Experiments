@@ -1,0 +1,13 @@
+{
+  "title": "Nemesis Mask",
+  "image": "./img/nemesis-mask.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": "All creatures able to block equipped creature do so.Equip  (: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",
+  "expansion": "Darksteel",
+  "rarity": "Uncommon",
+  "cardNumber": "134",
+  "artist": "Adam Rex",
+  "rating": "3.689",
+  "votes": "37"
+}

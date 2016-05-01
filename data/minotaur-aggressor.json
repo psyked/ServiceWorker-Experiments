@@ -1,0 +1,13 @@
+{
+  "title": "Minotaur Aggressor",
+  "image": "./img/minotaur-aggressor.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Minotaur Berserker",
+  "text": "First strike, haste",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "100",
+  "artist": "Lucas Graciano",
+  "rating": "2.395",
+  "votes": "62"
+}

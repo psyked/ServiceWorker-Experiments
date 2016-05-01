@@ -1,0 +1,13 @@
+{
+  "title": "Lightwielder Paladin",
+  "image": "./img/lightwielder-paladin.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Knight",
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)Whenever Lightwielder Paladin deals combat damage to a player, you may exile target black or red permanent that player controls.",
+  "expansion": "Magic 2010",
+  "rarity": "Rare",
+  "cardNumber": "19",
+  "artist": "D. Alexander Gregory",
+  "rating": "3.662",
+  "votes": "80"
+}

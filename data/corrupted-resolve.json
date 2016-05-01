@@ -1,0 +1,13 @@
+{
+  "title": "Corrupted Resolve",
+  "image": "./img/corrupted-resolve.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Counter target spell if its controller is poisoned.",
+  "expansion": "New Phyrexia",
+  "rarity": "Uncommon",
+  "cardNumber": "32",
+  "artist": "Greg Staples",
+  "rating": "3.742",
+  "votes": "128"
+}

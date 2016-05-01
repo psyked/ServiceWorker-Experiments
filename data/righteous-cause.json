@@ -1,0 +1,13 @@
+{
+  "title": "Righteous Cause",
+  "image": "./img/righteous-cause.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "Whenever a creature attacks, you gain 1 life.",
+  "expansion": "Duel Decks Anthology, Divine vs. Demonic",
+  "rarity": "Uncommon",
+  "cardNumber": "22",
+  "artist": "Scott M. Fischer",
+  "rating": "5",
+  "votes": "0"
+}

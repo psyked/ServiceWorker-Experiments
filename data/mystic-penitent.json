@@ -1,0 +1,13 @@
+{
+  "title": "Mystic Penitent",
+  "image": "./img/mystic-penitent.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Nomad Mystic",
+  "text": "VigilanceThreshold — As long as seven or more cards are in your graveyard, Mystic Penitent gets +1/+1 and has flying.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "34",
+  "artist": "Larry Elmore",
+  "rating": "3.763",
+  "votes": "38"
+}

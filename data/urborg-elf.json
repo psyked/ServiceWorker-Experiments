@@ -1,0 +1,13 @@
+{
+  "title": "Urborg Elf",
+  "image": "./img/urborg-elf.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Druid",
+  "text": ": Add , , or  to your mana pool.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "90",
+  "artist": "Bob Petillo",
+  "rating": "3.984",
+  "votes": "63"
+}

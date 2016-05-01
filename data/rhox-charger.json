@@ -1,0 +1,13 @@
+{
+  "title": "Rhox Charger",
+  "image": "./img/rhox-charger.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Rhino Soldier",
+  "text": "TrampleExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "145",
+  "artist": "Chris Rahn",
+  "rating": "3.006",
+  "votes": "84"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Tendrils of Agony",
+  "image": "./img/tendrils-ofagony.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Target player loses 2 life and you gain 2 life.Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+  "expansion": "Vintage Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "142",
+  "artist": "Volkan Baga",
+  "rating": "4.500",
+  "votes": "3"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Grixis Battlemage",
+  "image": "./img/grixis-battlemage.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": ", : Draw a card, then discard a card., : Target creature can't block this turn.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "78",
+  "artist": "Nils Hamm",
+  "rating": "2.964",
+  "votes": "55"
+}

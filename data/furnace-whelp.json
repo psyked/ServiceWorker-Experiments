@@ -1,0 +1,13 @@
+{
+  "title": "Furnace Whelp",
+  "image": "./img/furnace-whelp.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Dragon",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.): Furnace Whelp gets +1/+0 until end of turn.",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Uncommon",
+  "cardNumber": "43",
+  "artist": "Matt Cavotta",
+  "rating": "5",
+  "votes": "0"
+}

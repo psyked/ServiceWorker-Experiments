@@ -1,0 +1,13 @@
+{
+  "title": "Bastion Protector",
+  "image": "./img/bastion-protector.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "Commander creatures you control get +2/+2 and have indestructible.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "1",
+  "artist": "Victor Adame Minguez",
+  "rating": "5",
+  "votes": "0"
+}

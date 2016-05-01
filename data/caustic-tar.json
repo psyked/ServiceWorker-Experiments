@@ -1,0 +1,13 @@
+{
+  "title": "Caustic Tar",
+  "image": "./img/caustic-tar.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landEnchanted land has \": Target player loses 3 life.\"",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "89",
+  "artist": "Jung Park",
+  "rating": "2.500",
+  "votes": "6"
+}

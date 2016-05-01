@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Driver",
+  "image": "./img/phyrexian-driver.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie Mercenary",
+  "text": "When Phyrexian Driver enters the battlefield, other Mercenary creatures get +1/+1 until end of turn.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "64",
+  "artist": "Chippy",
+  "rating": "2.688",
+  "votes": "32"
+}

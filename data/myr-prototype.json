@@ -1,0 +1,13 @@
+{
+  "title": "Myr Prototype",
+  "image": "./img/myr-prototype.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Myr",
+  "text": "At the beginning of your upkeep, put a +1/+1 counter on Myr Prototype.Myr Prototype can't attack or block unless you pay  for each +1/+1 counter on it.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "214",
+  "artist": "Dave Dorman",
+  "rating": "1.659",
+  "votes": "41"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Soltari Emissary",
+  "image": "./img/soltari-emissary.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Soltari Soldier",
+  "text": ": Soltari Emissary gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "46",
+  "artist": "Adam Rex",
+  "rating": "5",
+  "votes": "0"
+}

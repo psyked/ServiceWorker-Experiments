@@ -1,0 +1,13 @@
+{
+  "title": "Wicker Warcrawler",
+  "image": "./img/wicker-warcrawler.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Scarecrow",
+  "text": "Whenever Wicker Warcrawler attacks or blocks, put a -1/-1 counter on it at end of combat.",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "269",
+  "artist": "Carl Critchlow",
+  "rating": "2.717",
+  "votes": "30"
+}

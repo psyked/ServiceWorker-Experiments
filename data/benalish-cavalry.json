@@ -1,0 +1,13 @@
+{
+  "title": "Benalish Cavalry",
+  "image": "./img/benalish-cavalry.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Knight",
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "4",
+  "artist": "Parente",
+  "rating": "3.725",
+  "votes": "60"
+}

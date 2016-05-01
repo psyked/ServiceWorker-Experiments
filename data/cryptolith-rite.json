@@ -1,0 +1,13 @@
+{
+  "title": "Cryptolith Rite",
+  "image": "./img/cryptolith-rite.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Creatures you control have \": Add one mana of any color to your mana pool.\"",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "200",
+  "artist": "Zack Stella",
+  "rating": "5",
+  "votes": "0"
+}

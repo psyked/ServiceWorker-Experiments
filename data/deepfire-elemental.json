@@ -1,0 +1,13 @@
+{
+  "title": "Deepfire Elemental",
+  "image": "./img/deepfire-elemental.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": ": Destroy target artifact or creature with converted mana cost X.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "185",
+  "artist": "Joel Thomas",
+  "rating": "3.333",
+  "votes": "15"
+}

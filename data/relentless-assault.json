@@ -1,0 +1,13 @@
+{
+  "title": "Relentless Assault",
+  "image": "./img/relentless-assault.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.",
+  "expansion": "Planechase",
+  "rarity": "Rare",
+  "cardNumber": "62",
+  "artist": "Greg Hildebrandt",
+  "rating": "4.221",
+  "votes": "52"
+}

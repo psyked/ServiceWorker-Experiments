@@ -1,0 +1,13 @@
+{
+  "title": "Jhoira's Toolbox",
+  "image": "./img/jhoiras-toolbox.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Insect",
+  "text": ": Regenerate target artifact creature.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Uncommon",
+  "cardNumber": "128",
+  "artist": "Mike Raabe",
+  "rating": "3.893",
+  "votes": "42"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Radiant's Judgment",
+  "image": "./img/radiants-judgment.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Destroy target creature with power 4 or greater.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "41",
+  "artist": "Greg Staples",
+  "rating": "3.500",
+  "votes": "1"
+}

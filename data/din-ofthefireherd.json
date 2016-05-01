@@ -1,0 +1,13 @@
+{
+  "title": "Din of the Fireherd",
+  "image": "./img/din-ofthefireherd.jpg",
+  "convertedManaCost": "8",
+  "types": "Sorcery",
+  "text": "Put a 5/5 black and red Elemental creature token onto the battlefield. Target opponent sacrifices a creature for each black creature you control, then sacrifices a land for each red creature you control.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "184",
+  "artist": "Dave Dorman",
+  "rating": "3.939",
+  "votes": "74"
+}

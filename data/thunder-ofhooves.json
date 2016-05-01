@@ -1,0 +1,13 @@
+{
+  "title": "Thunder of Hooves",
+  "image": "./img/thunder-ofhooves.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Thunder of Hooves deals X damage to each creature without flying and each player, where X is the number of Beasts on the battlefield.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "242",
+  "artist": "Jim Nelson",
+  "rating": "2.289",
+  "votes": "19"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Blazing Salvo",
+  "image": "./img/blazing-salvo.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Blazing Salvo deals 3 damage to target creature unless that creature's controller has Blazing Salvo deal 5 damage to him or her.",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Common",
+  "cardNumber": "58",
+  "artist": "rk post",
+  "rating": "3.640",
+  "votes": "25"
+}

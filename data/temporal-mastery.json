@@ -1,0 +1,13 @@
+{
+  "title": "Temporal Mastery",
+  "image": "./img/temporal-mastery.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "Take an extra turn after this one. Exile Temporal Mastery.Miracle  (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+  "expansion": "Avacyn Restored",
+  "rarity": "Mythic Rare",
+  "cardNumber": "81",
+  "artist": "Franz Vohwinkel",
+  "rating": "4.087",
+  "votes": "179"
+}

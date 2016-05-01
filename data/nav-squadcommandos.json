@@ -1,0 +1,13 @@
+{
+  "title": "Nav Squad Commandos",
+  "image": "./img/nav-squadcommandos.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Soldier",
+  "text": "Battalion — Whenever Nav Squad Commandos and at least two other creatures attack, Nav Squad Commandos gets +1/+1 until end of turn. Untap it.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "22",
+  "artist": "Steve Prescott",
+  "rating": "2.120",
+  "votes": "50"
+}

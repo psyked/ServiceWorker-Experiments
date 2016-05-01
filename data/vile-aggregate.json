@@ -1,0 +1,13 @@
+{
+  "title": "Vile Aggregate",
+  "image": "./img/vile-aggregate.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.)Vile Aggregate's power is equal to the number of colorless creatures you control.TrampleIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "137",
+  "artist": "Chris Rallis",
+  "rating": "5",
+  "votes": "0"
+}

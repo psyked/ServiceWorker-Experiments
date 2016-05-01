@@ -1,0 +1,13 @@
+{
+  "title": "Behold the Beyond",
+  "image": "./img/behold-thebeyond.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "Discard your hand. Search your library for three cards and put those cards into your hand. Then shuffle your library.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Mythic Rare",
+  "cardNumber": "101",
+  "artist": "Noah Bradley",
+  "rating": "5",
+  "votes": "0"
+}

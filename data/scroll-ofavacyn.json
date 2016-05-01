@@ -1,0 +1,13 @@
+{
+  "title": "Scroll of Avacyn",
+  "image": "./img/scroll-ofavacyn.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ", Sacrifice Scroll of Avacyn: Draw a card. If you control an Angel, you gain 5 life.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "220",
+  "artist": "Cliff Childs",
+  "rating": "2.962",
+  "votes": "39"
+}

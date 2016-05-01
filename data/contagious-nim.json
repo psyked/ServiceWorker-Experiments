@@ -1,0 +1,13 @@
+{
+  "title": "Contagious Nim",
+  "image": "./img/contagious-nim.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "58",
+  "artist": "Efrem Palacios",
+  "rating": "3.051",
+  "votes": "79"
+}

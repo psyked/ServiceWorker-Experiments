@@ -1,0 +1,13 @@
+{
+  "title": "Transluminant",
+  "image": "./img/transluminant.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Dryad Shaman",
+  "text": ", Sacrifice Transluminant: Put a 1/1 white Spirit creature token with flying onto the battlefield at the beginning of the next end step.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "186",
+  "artist": "Greg Hildebrandt",
+  "rating": "2.949",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ancestor's Chosen",
+  "image": "./img/ancestors-chosen.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Human Cleric",
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)When Ancestor's Chosen enters the battlefield, you gain 1 life for each card in your graveyard.",
+  "expansion": "Tenth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "1",
+  "artist": "Pete Venters",
+  "rating": "3.105",
+  "votes": "43"
+}

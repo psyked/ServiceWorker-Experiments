@@ -1,0 +1,13 @@
+{
+  "title": "Night Revelers",
+  "image": "./img/night-revelers.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Vampire",
+  "text": "Night Revelers has haste as long as an opponent controls a Human.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "153",
+  "artist": "Steve Argyle",
+  "rating": "2.106",
+  "votes": "47"
+}

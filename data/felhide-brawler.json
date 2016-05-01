@@ -1,0 +1,13 @@
+{
+  "title": "Felhide Brawler",
+  "image": "./img/felhide-brawler.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Minotaur",
+  "text": "Felhide Brawler can't block unless you control another Minotaur.",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "70",
+  "artist": "Nils Hamm",
+  "rating": "1.804",
+  "votes": "28"
+}

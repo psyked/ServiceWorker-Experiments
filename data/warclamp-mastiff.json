@@ -1,0 +1,13 @@
+{
+  "title": "Warclamp Mastiff",
+  "image": "./img/warclamp-mastiff.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Hound",
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)",
+  "expansion": "Magic 2013",
+  "rarity": "Common",
+  "cardNumber": "40",
+  "artist": "David Palumbo",
+  "rating": "2.943",
+  "votes": "44"
+}

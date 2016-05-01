@@ -1,0 +1,13 @@
+{
+  "title": "Candles of Leng",
+  "image": "./img/candles-ofleng.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", : Reveal the top card of your library. If it has the same name as a card in your graveyard, put it into your graveyard. Otherwise, draw a card.",
+  "expansion": "Time Spiral",
+  "rarity": "Rare",
+  "cardNumber": "250",
+  "artist": "Daniel Gelon",
+  "rating": "2.743",
+  "votes": "37"
+}

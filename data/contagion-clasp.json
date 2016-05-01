@@ -1,0 +1,13 @@
+{
+  "title": "Contagion Clasp",
+  "image": "./img/contagion-clasp.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "When Contagion Clasp enters the battlefield, put a -1/-1 counter on target creature., : Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "144",
+  "artist": "Anthony Palumbo",
+  "rating": "4.242",
+  "votes": "99"
+}

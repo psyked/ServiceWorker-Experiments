@@ -1,0 +1,13 @@
+{
+  "title": "Akroan Hoplite",
+  "image": "./img/akroan-hoplite.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier",
+  "text": "Whenever Akroan Hoplite attacks, it gets +X/+0 until end of turn, where X is the number of attacking creatures you control.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "185",
+  "artist": "Igor Kieryluk",
+  "rating": "3.570",
+  "votes": "57"
+}

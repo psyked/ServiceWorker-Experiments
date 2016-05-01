@@ -1,0 +1,13 @@
+{
+  "title": "Dawnglow Infusion",
+  "image": "./img/dawnglow-infusion.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "You gain X life if  was spent to cast Dawnglow Infusion and X life if  was spent to cast it. (Do both if  was spent.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "225",
+  "artist": "Rebecca Guay",
+  "rating": "3.614",
+  "votes": "83"
+}

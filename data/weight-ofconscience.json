@@ -1,0 +1,13 @@
+{
+  "title": "Weight of Conscience",
+  "image": "./img/weight-ofconscience.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature can't attack.Tap two untapped creatures you control that share a creature type: Exile enchanted creature.",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "28",
+  "artist": "Heather Hudson",
+  "rating": "3.075",
+  "votes": "40"
+}

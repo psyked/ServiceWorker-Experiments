@@ -1,0 +1,13 @@
+{
+  "title": "Sparring Golem",
+  "image": "./img/sparring-golem.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Golem",
+  "text": "Whenever Sparring Golem becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "312",
+  "artist": "Adam Rex",
+  "rating": "3.122",
+  "votes": "37"
+}

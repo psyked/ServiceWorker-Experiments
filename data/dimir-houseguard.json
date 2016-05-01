@@ -1,0 +1,13 @@
+{
+  "title": "Dimir House Guard",
+  "image": "./img/dimir-houseguard.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Skeleton",
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)Sacrifice a creature: Regenerate Dimir House Guard.Transmute  (, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "83",
+  "artist": "John Zeleznik",
+  "rating": "3.570",
+  "votes": "43"
+}

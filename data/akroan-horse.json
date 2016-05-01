@@ -1,0 +1,13 @@
+{
+  "title": "Akroan Horse",
+  "image": "./img/akroan-horse.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Horse",
+  "text": "DefenderWhen Akroan Horse enters the battlefield, an opponent gains control of it.At the beginning of your upkeep, each opponent puts a 1/1 white Soldier creature token onto the battlefield.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "210",
+  "artist": "Seb McKinnon",
+  "rating": "3.424",
+  "votes": "72"
+}

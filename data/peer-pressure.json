@@ -1,0 +1,13 @@
+{
+  "title": "Peer Pressure",
+  "image": "./img/peer-pressure.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Choose a creature type. If you control more creatures of that type than each other player, you gain control of all creatures of that type. (This effect lasts indefinitely.)",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "101",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "3.145",
+  "votes": "31"
+}

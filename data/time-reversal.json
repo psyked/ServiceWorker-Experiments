@@ -1,0 +1,13 @@
+{
+  "title": "Time Reversal",
+  "image": "./img/time-reversal.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Each player shuffles his or her hand and graveyard into his or her library, then draws seven cards. Exile Time Reversal.",
+  "expansion": "Magic 2012",
+  "rarity": "Mythic Rare",
+  "cardNumber": "77",
+  "artist": "Howard Lyon",
+  "rating": "3.186",
+  "votes": "105"
+}

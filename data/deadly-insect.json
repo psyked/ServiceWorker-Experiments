@@ -1,0 +1,13 @@
+{
+  "title": "Deadly Insect",
+  "image": "./img/deadly-insect.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Insect",
+  "text": "Shroud (This creature can't be the target of spells or abilities.)",
+  "expansion": "Beatdown Box Set",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Randy Gallegos",
+  "rating": "3.198",
+  "votes": "43"
+}

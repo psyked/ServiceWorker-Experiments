@@ -1,0 +1,13 @@
+{
+  "title": "Kyren Archive",
+  "image": "./img/kyren-archive.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, you may exile the top card of your library face down., Discard your hand, Sacrifice Kyren Archive: Put all cards exiled with Kyren Archive into their owner's hand.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "302",
+  "artist": "Roger Raupp",
+  "rating": "2.724",
+  "votes": "29"
+}

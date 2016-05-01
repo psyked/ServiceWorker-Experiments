@@ -1,0 +1,13 @@
+{
+  "title": "Cursed Totem",
+  "image": "./img/cursed-totem.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Activated abilities of creatures can't be activated.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Rare",
+  "cardNumber": "278",
+  "artist": "D. Alexander Gregory",
+  "rating": "4.307",
+  "votes": "44"
+}

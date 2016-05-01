@@ -1,0 +1,13 @@
+{
+  "title": "Blaze Commando",
+  "image": "./img/blaze-commando.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Minotaur Soldier",
+  "text": "Whenever an instant or sorcery spell you control deals damage, put two 1/1 red and white Soldier creature tokens with haste onto the battlefield.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Uncommon",
+  "cardNumber": "56",
+  "artist": "James Ryman",
+  "rating": "3.805",
+  "votes": "77"
+}

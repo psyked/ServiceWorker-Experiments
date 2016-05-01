@@ -1,0 +1,13 @@
+{
+  "title": "Cowardice",
+  "image": "./img/cowardice.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "Whenever a creature becomes the target of a spell or ability, return that creature to its owner's hand. (It won't be affected by the spell or ability.)",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "70",
+  "artist": "Michael Sutfin",
+  "rating": "3.645",
+  "votes": "38"
+}

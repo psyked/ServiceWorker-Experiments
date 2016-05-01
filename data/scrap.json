@@ -1,0 +1,13 @@
+{
+  "title": "Scrap",
+  "image": "./img/scrap.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Destroy target artifact.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "213",
+  "artist": "Donato Giancola",
+  "rating": "2.862",
+  "votes": "40"
+}

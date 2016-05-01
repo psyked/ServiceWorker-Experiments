@@ -1,0 +1,13 @@
+{
+  "title": "Sun's Bounty",
+  "image": "./img/suns-bounty.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "You gain 4 life.Recover  (When a creature is put into your graveyard from the battlefield, you may pay . If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "18",
+  "artist": "Michael Sutfin",
+  "rating": "2.485",
+  "votes": "34"
+}

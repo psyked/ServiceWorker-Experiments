@@ -1,0 +1,13 @@
+{
+  "title": "Reckless Imp",
+  "image": "./img/reckless-imp.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Imp",
+  "text": "FlyingReckless Imp can't block.Dash  (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "115",
+  "artist": "Torstein Nordstrand",
+  "rating": "5",
+  "votes": "0"
+}

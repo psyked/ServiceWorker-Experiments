@@ -1,0 +1,13 @@
+{
+  "title": "Untamed Wilds",
+  "image": "./img/untamed-wilds.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.",
+  "expansion": "Seventh Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "279",
+  "artist": "Thomas Gianni",
+  "rating": "2.729",
+  "votes": "35"
+}

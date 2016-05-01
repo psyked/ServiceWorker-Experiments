@@ -1,0 +1,13 @@
+{
+  "title": "Elvish House Party",
+  "image": "./img/elvish-houseparty.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature — Elf Rogue",
+  "text": "Elvish House Party's power and toughness are each equal to the current hour, using the twelve-hour system.",
+  "expansion": "Unhinged",
+  "rarity": "Uncommon",
+  "cardNumber": "94",
+  "artist": "Thomas Manning",
+  "rating": "3.767",
+  "votes": "30"
+}

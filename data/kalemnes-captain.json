@@ -1,0 +1,13 @@
+{
+  "title": "Kalemne's Captain",
+  "image": "./img/kalemnes-captain.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Giant Soldier",
+  "text": "Vigilance: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)When Kalemne's Captain becomes monstrous, exile all artifacts and enchantments.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "5",
+  "artist": "Tomasz Jedruszek",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sandbar Crocodile",
+  "image": "./img/sandbar-crocodile.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Crocodile",
+  "text": "Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Una Fricker",
+  "rating": "2.900",
+  "votes": "50"
+}

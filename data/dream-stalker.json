@@ -1,0 +1,13 @@
+{
+  "title": "Dream Stalker",
+  "image": "./img/dream-stalker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Illusion",
+  "text": "When Dream Stalker enters the battlefield, return a permanent you control to its owner's hand.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Common",
+  "cardNumber": "7",
+  "artist": "Brian Despain",
+  "rating": "3.778",
+  "votes": "9"
+}

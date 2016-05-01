@@ -1,0 +1,13 @@
+{
+  "title": "Wild Guess",
+  "image": "./img/wild-guess.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Wild Guess, discard a card.Draw two cards.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "161",
+  "artist": "Lucas Graciano",
+  "rating": "3.094",
+  "votes": "32"
+}

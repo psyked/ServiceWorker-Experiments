@@ -1,0 +1,13 @@
+{
+  "title": "Ghor-Clan Savage",
+  "image": "./img/ghor-clan-savage.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Centaur Berserker",
+  "text": "Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)",
+  "expansion": "Duel Decks: Heroes vs. Monsters",
+  "rarity": "Common",
+  "cardNumber": "53",
+  "artist": "Greg Staples",
+  "rating": "2.500",
+  "votes": "14"
+}

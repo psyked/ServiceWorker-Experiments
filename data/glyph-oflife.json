@@ -1,0 +1,13 @@
+{
+  "title": "Glyph of Life",
+  "image": "./img/glyph-oflife.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Choose target Wall creature. Whenever that creature is dealt damage by an attacking creature this turn, you gain that much life.",
+  "expansion": "Legends",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Susan Van Camp",
+  "rating": "2.030",
+  "votes": "33"
+}

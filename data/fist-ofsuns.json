@@ -1,0 +1,13 @@
+{
+  "title": "Fist of Suns",
+  "image": "./img/fist-ofsuns.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "You may pay  rather than pay the mana cost for spells that you cast.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Rare",
+  "cardNumber": "123",
+  "artist": "Arnie Swekel",
+  "rating": "4.303",
+  "votes": "94"
+}

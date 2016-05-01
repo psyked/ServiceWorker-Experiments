@@ -1,0 +1,13 @@
+{
+  "title": "Mistform Wall",
+  "image": "./img/mistform-wall.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Illusion Wall",
+  "text": "Mistform Wall has defender as long as it's a Wall.: Mistform Wall becomes the creature type of your choice until end of turn.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "99",
+  "artist": "Franz Vohwinkel",
+  "rating": "2.821",
+  "votes": "28"
+}

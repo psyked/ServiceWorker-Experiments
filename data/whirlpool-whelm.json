@@ -1,0 +1,13 @@
+{
+  "title": "Whirlpool Whelm",
+  "image": "./img/whirlpool-whelm.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Clash with an opponent, then return target creature to its owner's hand. If you win, you may put that creature on top of its owner's library instead. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Common",
+  "cardNumber": "69",
+  "artist": "Cyril Van Der Haegen",
+  "rating": "2.210",
+  "votes": "31"
+}

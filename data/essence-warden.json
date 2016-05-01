@@ -1,0 +1,13 @@
+{
+  "title": "Essence Warden",
+  "image": "./img/essence-warden.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Shaman",
+  "text": "Whenever another creature enters the battlefield, you gain 1 life.",
+  "expansion": "Commander 2014",
+  "rarity": "Common",
+  "cardNumber": "194",
+  "artist": "Terese Nielsen",
+  "rating": "5",
+  "votes": "0"
+}

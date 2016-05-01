@@ -1,0 +1,13 @@
+{
+  "title": "Favorable Destiny",
+  "image": "./img/favorable-destiny.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+2 as long as it's white.Enchanted creature has shroud as long as its controller controls another creature. (It can't be the target of spells or abilities.)",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Thomas Gianni",
+  "rating": "3.032",
+  "votes": "47"
+}

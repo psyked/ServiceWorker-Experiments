@@ -1,0 +1,13 @@
+{
+  "title": "Orcish Settlers",
+  "image": "./img/orcish-settlers.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Orc",
+  "text": ", , Sacrifice Orcish Settlers: Destroy X target lands.",
+  "expansion": "Weatherlight",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Pete Venters",
+  "rating": "4.300",
+  "votes": "80"
+}

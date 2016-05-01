@@ -1,0 +1,13 @@
+{
+  "title": "Spell Counter",
+  "image": "./img/spell-counter.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Counter target spell.Gotcha Whenever an opponent says \"Spell\" or \"Counter,\" you may say \"Gotcha\" If you do, return Spell Counter from your graveyard to your hand.",
+  "expansion": "Unhinged",
+  "rarity": "Uncommon",
+  "cardNumber": "46",
+  "artist": "Doug Chaffee",
+  "rating": "3.525",
+  "votes": "20"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Elderwood Scion",
+  "image": "./img/elderwood-scion.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental",
+  "text": "Trample, lifelinkSpells you cast that target Elderwood Scion cost  less to cast.Spells your opponents cast that target Elderwood Scion cost  more to cast.",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Rare",
+  "cardNumber": "88",
+  "artist": "Nils Hamm",
+  "rating": "4.011",
+  "votes": "46"
+}

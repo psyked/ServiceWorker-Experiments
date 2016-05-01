@@ -1,0 +1,13 @@
+{
+  "title": "Dread Specter",
+  "image": "./img/dread-specter.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Specter",
+  "text": "Whenever Dread Specter blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Kathryn Rathke",
+  "rating": "2.595",
+  "votes": "37"
+}

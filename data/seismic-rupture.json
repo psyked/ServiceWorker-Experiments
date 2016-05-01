@@ -1,0 +1,13 @@
+{
+  "title": "Seismic Rupture",
+  "image": "./img/seismic-rupture.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Seismic Rupture deals 2 damage to each creature without flying.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "156",
+  "artist": "Jason A. Engle",
+  "rating": "5",
+  "votes": "0"
+}

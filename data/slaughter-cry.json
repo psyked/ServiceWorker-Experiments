@@ -1,0 +1,13 @@
+{
+  "title": "Slaughter Cry",
+  "image": "./img/slaughter-cry.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)",
+  "expansion": "Magic 2012",
+  "rarity": "Common",
+  "cardNumber": "155",
+  "artist": "Matt Cavotta",
+  "rating": "2.182",
+  "votes": "44"
+}

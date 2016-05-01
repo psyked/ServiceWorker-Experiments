@@ -1,0 +1,13 @@
+{
+  "title": "Wicked Reward",
+  "image": "./img/wicked-reward.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "As an additional cost to cast Wicked Reward, sacrifice a creature.Target creature gets +4/+2 until end of turn.",
+  "expansion": "Visions",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "D. Alexander Gregory",
+  "rating": "3.035",
+  "votes": "43"
+}

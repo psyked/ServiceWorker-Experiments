@@ -1,0 +1,13 @@
+{
+  "title": "Vedalken Anatomist",
+  "image": "./img/vedalken-anatomist.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vedalken Wizard",
+  "text": ", : Put a -1/-1 counter on target creature. You may tap or untap that creature.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Uncommon",
+  "cardNumber": "36",
+  "artist": "Greg Staples",
+  "rating": "3.349",
+  "votes": "83"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Kathari Bomber",
+  "image": "./img/kathari-bomber.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Bird Shaman",
+  "text": "FlyingWhen Kathari Bomber deals combat damage to a player, put two 1/1 red Goblin creature tokens onto the battlefield and sacrifice Kathari Bomber.Unearth  (: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Common",
+  "cardNumber": "11",
+  "artist": "Carl Critchlow",
+  "rating": "5",
+  "votes": "0"
+}

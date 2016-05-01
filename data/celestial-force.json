@@ -1,0 +1,13 @@
+{
+  "title": "Celestial Force",
+  "image": "./img/celestial-force.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Elemental",
+  "text": "At the beginning of each upkeep, you gain 3 life.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Rare",
+  "cardNumber": "10",
+  "artist": "Véronique Meignaud",
+  "rating": "3.769",
+  "votes": "52"
+}

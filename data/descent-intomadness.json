@@ -1,0 +1,13 @@
+{
+  "title": "Descent into Madness",
+  "image": "./img/descent-intomadness.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, put a despair counter on Descent into Madness, then each player exiles X permanents he or she controls and/or cards from his or her hand, where X is the number of despair counters on Descent into Madness.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Mythic Rare",
+  "cardNumber": "97",
+  "artist": "Anthony Francisco",
+  "rating": "3.125",
+  "votes": "84"
+}

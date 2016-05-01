@@ -1,0 +1,13 @@
+{
+  "title": "Oculus",
+  "image": "./img/oculus.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Homunculus",
+  "text": "When Oculus dies, you may draw a card.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "29",
+  "artist": "Dan Scott",
+  "rating": "2.771",
+  "votes": "70"
+}

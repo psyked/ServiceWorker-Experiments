@@ -1,0 +1,13 @@
+{
+  "title": "Tinder Wall",
+  "image": "./img/tinder-wall.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Plant Wall",
+  "text": "Defender (This creature can't attack.)Sacrifice Tinder Wall: Add  to your mana pool., Sacrifice Tinder Wall: Tinder Wall deals 2 damage to target creature it's blocking.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "184",
+  "artist": "Rick Emond",
+  "rating": "4.556",
+  "votes": "80"
+}

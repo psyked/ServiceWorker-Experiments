@@ -1,0 +1,13 @@
+{
+  "title": "Dross Golem",
+  "image": "./img/dross-golem.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Golem",
+  "text": "Affinity for Swamps (This spell costs  less to cast for each Swamp you control.)Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "119",
+  "artist": "Adam Rex",
+  "rating": "3.774",
+  "votes": "42"
+}

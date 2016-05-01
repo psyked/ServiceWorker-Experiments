@@ -1,0 +1,13 @@
+{
+  "title": "Numot, the Devastator",
+  "image": "./img/numot-thedevastator.jpg",
+  "convertedManaCost": "6",
+  "types": "Legendary Creature  — Dragon",
+  "text": "FlyingWhenever Numot, the Devastator deals combat damage to a player, you may pay . If you do, destroy up to two target lands.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Rare",
+  "cardNumber": "215",
+  "artist": "Dan Dos Santos",
+  "rating": "4.020",
+  "votes": "50"
+}

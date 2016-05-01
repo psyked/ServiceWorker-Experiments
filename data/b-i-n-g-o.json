@@ -1,0 +1,13 @@
+{
+  "title": "B-I-N-G-O",
+  "image": "./img/b-i-n-g-o.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature — Hound",
+  "text": "TrampleWhenever a player plays a spell, put a chip counter on its converted mana cost.  B-I-N-G-O gets +9/+9 for each set of three numbers in a row with chip counters on them.",
+  "expansion": "Unhinged",
+  "rarity": "Rare",
+  "cardNumber": "92",
+  "artist": "Ron Spencer",
+  "rating": "3.842",
+  "votes": "38"
+}

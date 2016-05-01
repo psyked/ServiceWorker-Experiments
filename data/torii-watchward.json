@@ -1,0 +1,13 @@
+{
+  "title": "Torii Watchward",
+  "image": "./img/torii-watchward.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit",
+  "text": "Vigilance (Attacking doesn't cause this creature to tap.)Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "30",
+  "artist": "Jeff Miracola",
+  "rating": "2.129",
+  "votes": "31"
+}

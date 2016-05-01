@@ -1,0 +1,13 @@
+{
+  "title": "Cryptic Gateway",
+  "image": "./img/cryptic-gateway.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": "Tap two untapped creatures you control: You may put a creature card from your hand that shares a creature type with each creature tapped this way onto the battlefield.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "306",
+  "artist": "David Martin",
+  "rating": "4.337",
+  "votes": "52"
+}

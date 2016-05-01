@@ -1,0 +1,13 @@
+{
+  "title": "Death of a Thousand Stings",
+  "image": "./img/death-ofathousandstings.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant  — Arcane",
+  "text": "Target player loses 1 life and you gain 1 life.At the beginning of your upkeep, if you have more cards in hand than each opponent, you may return Death of a Thousand Stings from your graveyard to your hand.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "64",
+  "artist": "Scott M. Fischer",
+  "rating": "1.432",
+  "votes": "74"
+}

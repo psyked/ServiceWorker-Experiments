@@ -1,0 +1,13 @@
+{
+  "title": "Mimic Vat",
+  "image": "./img/mimic-vat.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Imprint — Whenever a nontoken creature dies, you may exile that card. If you do, return each other card exiled with Mimic Vat to its owner's graveyard., : Put a token onto the battlefield that's a copy of the exiled card. It gains haste. Exile it at the beginning of the next end step.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "175",
+  "artist": "Matt Cavotta",
+  "rating": "4.304",
+  "votes": "280"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Surveilling Sprite",
+  "image": "./img/surveilling-sprite.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Faerie Rogue",
+  "text": "FlyingWhen Surveilling Sprite dies, you may draw a card.",
+  "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+  "rarity": "Common",
+  "cardNumber": "43",
+  "artist": "Terese Nielsen",
+  "rating": "3.152",
+  "votes": "23"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Worldfire",
+  "image": "./img/worldfire.jpg",
+  "convertedManaCost": "9",
+  "types": "Sorcery",
+  "text": "Exile all permanents. Exile all cards from all hands and graveyards. Each player's life total becomes 1.",
+  "expansion": "Magic 2013",
+  "rarity": "Mythic Rare",
+  "cardNumber": "158",
+  "artist": "Izzy",
+  "rating": "3.775",
+  "votes": "129"
+}

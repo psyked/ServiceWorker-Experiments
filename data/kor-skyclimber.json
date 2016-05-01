@@ -1,0 +1,13 @@
+{
+  "title": "Kor Sky Climber",
+  "image": "./img/kor-skyclimber.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kor Soldier Ally",
+  "text": ": Kor Sky Climber gains flying until end of turn.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "24",
+  "artist": "Victor Adame Minguez",
+  "rating": "5",
+  "votes": "0"
+}

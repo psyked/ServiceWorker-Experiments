@@ -1,0 +1,13 @@
+{
+  "title": "Werebear",
+  "image": "./img/werebear.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Bear Druid",
+  "text": ": Add  to your mana pool.Threshold — Werebear gets +3/+3 as long as seven or more cards are in your graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "282",
+  "artist": "Carl Critchlow",
+  "rating": "4.563",
+  "votes": "174"
+}

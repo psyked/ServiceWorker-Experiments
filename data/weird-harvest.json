@@ -1,0 +1,13 @@
+{
+  "title": "Weird Harvest",
+  "image": "./img/weird-harvest.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Each player may search his or her library for up to X creature cards, reveal those cards, and put them into his or her hand. Then each player who searched his or her library this way shuffles it.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "282",
+  "artist": "Bob Petillo",
+  "rating": "3.741",
+  "votes": "29"
+}

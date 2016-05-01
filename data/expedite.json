@@ -1,0 +1,13 @@
+{
+  "title": "Expedite",
+  "image": "./img/expedite.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gains haste until end of turn.Draw a card.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "108",
+  "artist": "Kieran Yanner",
+  "rating": "5",
+  "votes": "0"
+}

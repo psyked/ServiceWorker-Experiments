@@ -1,0 +1,13 @@
+{
+  "title": "Scar",
+  "image": "./img/scar.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Put a -1/-1 counter on target creature.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "194",
+  "artist": "Pete Venters",
+  "rating": "3.045",
+  "votes": "67"
+}

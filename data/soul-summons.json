@@ -1,0 +1,13 @@
+{
+  "title": "Soul Summons",
+  "image": "./img/soul-summons.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+  "expansion": "Ugin's Fate promos",
+  "rarity": "Common",
+  "cardNumber": "26",
+  "artist": "Johann Bodin",
+  "rating": "5",
+  "votes": "0"
+}

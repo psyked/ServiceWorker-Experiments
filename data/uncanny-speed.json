@@ -1,0 +1,13 @@
+{
+  "title": "Uncanny Speed",
+  "image": "./img/uncanny-speed.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +3/+0 and gains haste until end of turn.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "163",
+  "artist": "Raymond Swanland",
+  "rating": "2.173",
+  "votes": "26"
+}

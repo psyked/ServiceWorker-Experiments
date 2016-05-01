@@ -1,0 +1,13 @@
+{
+  "title": "Energy Tap",
+  "image": "./img/energy-tap.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Tap target untapped creature you control. If you do, add an amount of  to your mana pool equal to that creature's converted mana cost.",
+  "expansion": "Fourth Edition",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Daniel Gelon",
+  "rating": "4.160",
+  "votes": "47"
+}

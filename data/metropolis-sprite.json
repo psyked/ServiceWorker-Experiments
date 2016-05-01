@@ -1,0 +1,13 @@
+{
+  "title": "Metropolis Sprite",
+  "image": "./img/metropolis-sprite.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Faerie Rogue",
+  "text": "Flying: Metropolis Sprite gets +1/-1 until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "42",
+  "artist": "Scott Chou",
+  "rating": "2.809",
+  "votes": "47"
+}

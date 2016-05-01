@@ -1,0 +1,13 @@
+{
+  "title": "Urborg Uprising",
+  "image": "./img/urborg-uprising.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Return up to two target creature cards from your graveyard to your hand.Draw a card.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "144",
+  "artist": "Adam Rex",
+  "rating": "5",
+  "votes": "0"
+}

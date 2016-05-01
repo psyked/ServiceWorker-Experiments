@@ -1,0 +1,13 @@
+{
+  "title": "Crosis's Charm",
+  "image": "./img/crosiss-charm.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose one —• Return target permanent to its owner's hand.• Destroy target nonblack creature. It can't be regenerated.• Destroy target artifact.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "181",
+  "artist": "Marco Nelor",
+  "rating": "4.029",
+  "votes": "17"
+}

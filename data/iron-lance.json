@@ -1,0 +1,13 @@
+{
+  "title": "Iron Lance",
+  "image": "./img/iron-lance.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", : Target creature gains first strike until end of turn.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "300",
+  "artist": "Scott M. Fischer",
+  "rating": "1.690",
+  "votes": "29"
+}

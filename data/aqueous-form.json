@@ -1,0 +1,13 @@
+{
+  "title": "Aqueous Form",
+  "image": "./img/aqueous-form.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature can't be blocked.Whenever enchanted creature attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "39",
+  "artist": "Slawomir Maniak",
+  "rating": "3.654",
+  "votes": "120"
+}

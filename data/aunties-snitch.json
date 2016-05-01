@@ -1,0 +1,13 @@
+{
+  "title": "Auntie's Snitch",
+  "image": "./img/aunties-snitch.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Rogue",
+  "text": "Auntie's Snitch can't block.Prowl  (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)Whenever a Goblin or Rogue you control deals combat damage to a player, if Auntie's Snitch is in your graveyard, you may return Auntie's Snitch to your hand.",
+  "expansion": "Modern Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "72",
+  "artist": "Warren Mahy",
+  "rating": "3.029",
+  "votes": "17"
+}

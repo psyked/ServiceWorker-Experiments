@@ -1,0 +1,13 @@
+{
+  "title": "Markov Blademaster",
+  "image": "./img/markov-blademaster.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vampire Warrior",
+  "text": "Double strikeWhenever Markov Blademaster deals combat damage to a player, put a +1/+1 counter on it.",
+  "expansion": "Dark Ascension",
+  "rarity": "Rare",
+  "cardNumber": "96",
+  "artist": "Jana Schirmer & Johannes Voss",
+  "rating": "3.646",
+  "votes": "82"
+}

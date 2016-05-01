@@ -1,0 +1,13 @@
+{
+  "title": "Conclave Equenaut",
+  "image": "./img/conclave-equenaut.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Human Soldier",
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for  or one mana of that creature's color.)Flying",
+  "expansion": "Duel Decks: Elspeth vs. Tezzeret",
+  "rarity": "Common",
+  "cardNumber": "19",
+  "artist": "Terese Nielsen",
+  "rating": "2.118",
+  "votes": "34"
+}

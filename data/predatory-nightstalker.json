@@ -1,0 +1,13 @@
+{
+  "title": "Predatory Nightstalker",
+  "image": "./img/predatory-nightstalker.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Nightstalker",
+  "text": "When Predatory Nightstalker enters the battlefield, you may have target opponent sacrifice a creature.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "134",
+  "artist": "D. Alexander Gregory",
+  "rating": "5",
+  "votes": "0"
+}

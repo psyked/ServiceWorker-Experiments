@@ -1,0 +1,13 @@
+{
+  "title": "Akroan Sergeant",
+  "image": "./img/akroan-sergeant.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "130",
+  "artist": "Zack Stella",
+  "rating": "5",
+  "votes": "0"
+}

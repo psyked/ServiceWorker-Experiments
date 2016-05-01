@@ -1,0 +1,13 @@
+{
+  "title": "Shepherd of the Lost",
+  "image": "./img/shepherd-ofthelost.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Angel",
+  "text": "Flying, first strike, vigilance",
+  "expansion": "Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "34",
+  "artist": "Kekai Kotaki",
+  "rating": "3.861",
+  "votes": "147"
+}

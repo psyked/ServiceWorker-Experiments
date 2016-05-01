@@ -1,0 +1,13 @@
+{
+  "title": "Fated Return",
+  "image": "./img/fated-return.jpg",
+  "convertedManaCost": "7",
+  "types": "Instant",
+  "text": "Put target creature card from a graveyard onto the battlefield under your control. It gains indestructible. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "expansion": "Born of the Gods",
+  "rarity": "Rare",
+  "cardNumber": "69",
+  "artist": "Peter Mohrbacher",
+  "rating": "3.640",
+  "votes": "43"
+}

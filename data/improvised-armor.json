@@ -1,0 +1,13 @@
+{
+  "title": "Improvised Armor",
+  "image": "./img/improvised-armor.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+5.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "40",
+  "artist": "Alan Pollack",
+  "rating": "3.014",
+  "votes": "36"
+}

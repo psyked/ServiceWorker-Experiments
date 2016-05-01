@@ -1,0 +1,13 @@
+{
+  "title": "Cloak of Mists",
+  "image": "./img/cloak-ofmists.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature can't be blocked.",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "65",
+  "artist": "John Matson",
+  "rating": "4.053",
+  "votes": "57"
+}

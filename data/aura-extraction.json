@@ -1,0 +1,13 @@
+{
+  "title": "Aura Extraction",
+  "image": "./img/aura-extraction.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Put target enchantment on top of its owner's library.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "5",
+  "artist": "Luca Zontini",
+  "rating": "2.389",
+  "votes": "27"
+}

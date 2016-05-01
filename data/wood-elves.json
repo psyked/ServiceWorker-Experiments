@@ -1,0 +1,13 @@
+{
+  "title": "Wood Elves",
+  "image": "./img/wood-elves.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Scout",
+  "text": "When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.",
+  "expansion": "Commander 2015",
+  "rarity": "Common",
+  "cardNumber": "212",
+  "artist": "Christopher Moeller",
+  "rating": "5",
+  "votes": "0"
+}

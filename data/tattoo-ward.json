@@ -1,0 +1,13 @@
+{
+  "title": "Tattoo Ward",
+  "image": "./img/tattoo-ward.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+1 and has protection from enchantments. This effect doesn't remove Tattoo Ward.Sacrifice Tattoo Ward: Destroy target enchantment.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "54",
+  "artist": "Ben Thompson",
+  "rating": "2.325",
+  "votes": "20"
+}

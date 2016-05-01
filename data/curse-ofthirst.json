@@ -1,0 +1,13 @@
+{
+  "title": "Curse of Thirst",
+  "image": "./img/curse-ofthirst.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura Curse",
+  "text": "Enchant playerAt the beginning of enchanted player's upkeep, Curse of Thirst deals damage to that player equal to the number of Curses attached to him or her.",
+  "expansion": "Dark Ascension",
+  "rarity": "Uncommon",
+  "cardNumber": "57",
+  "artist": "Christopher Moeller",
+  "rating": "2.173",
+  "votes": "52"
+}

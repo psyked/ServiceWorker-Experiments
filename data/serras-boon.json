@@ -1,0 +1,13 @@
+{
+  "title": "Serra's Boon",
+  "image": "./img/serras-boon.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+2 as long as it's white. Otherwise, it gets -2/-1.",
+  "expansion": "Duel Decks Anthology, Divine vs. Demonic",
+  "rarity": "Uncommon",
+  "cardNumber": "18",
+  "artist": "Steven Belledin",
+  "rating": "5",
+  "votes": "0"
+}

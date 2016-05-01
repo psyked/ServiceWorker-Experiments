@@ -1,0 +1,13 @@
+{
+  "title": "Rescue",
+  "image": "./img/rescue.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Return target permanent you control to its owner's hand.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "44",
+  "artist": "Greg Staples",
+  "rating": "3.959",
+  "votes": "49"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Essence Feed",
+  "image": "./img/essence-feed.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Target player loses 3 life. You gain 3 life and put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have \"Sacrifice this creature: Add  to your mana pool.\"",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "110",
+  "artist": "Daarken",
+  "rating": "2.511",
+  "votes": "44"
+}

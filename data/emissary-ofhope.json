@@ -1,0 +1,13 @@
+{
+  "title": "Emissary of Hope",
+  "image": "./img/emissary-ofhope.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "FlyingWhenever Emissary of Hope deals combat damage to a player, you gain 1 life for each artifact that player controls.",
+  "expansion": "Darksteel",
+  "rarity": "Uncommon",
+  "cardNumber": "3",
+  "artist": "rk post",
+  "rating": "2.481",
+  "votes": "27"
+}

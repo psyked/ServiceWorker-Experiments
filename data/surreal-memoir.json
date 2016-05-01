@@ -1,0 +1,13 @@
+{
+  "title": "Surreal Memoir",
+  "image": "./img/surreal-memoir.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Return an instant card at random from your graveyard to your hand.Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "167",
+  "artist": "Jaime Jones",
+  "rating": "3.856",
+  "votes": "66"
+}

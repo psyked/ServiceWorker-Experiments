@@ -1,0 +1,13 @@
+{
+  "title": "Sultai Runemark",
+  "image": "./img/sultai-runemark.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+2.Enchanted creature has deathtouch as long as you control a green or blue permanent. (Any amount of damage it deals to a creature is enough to destroy it.)",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "86",
+  "artist": "Volkan Baga",
+  "rating": "5",
+  "votes": "0"
+}

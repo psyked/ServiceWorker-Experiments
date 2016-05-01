@@ -1,0 +1,13 @@
+{
+  "title": "Balshan Beguiler",
+  "image": "./img/balshan-beguiler.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "Whenever Balshan Beguiler deals combat damage to a player, that player reveals the top two cards of his or her library. You choose one of those cards and put it into his or her graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "66",
+  "artist": "Ray Lago",
+  "rating": "2.400",
+  "votes": "25"
+}

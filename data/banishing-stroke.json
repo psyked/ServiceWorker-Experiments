@@ -1,0 +1,13 @@
+{
+  "title": "Banishing Stroke",
+  "image": "./img/banishing-stroke.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "Put target artifact, creature, or enchantment on the bottom of its owner's library.Miracle  (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+  "expansion": "Avacyn Restored",
+  "rarity": "Uncommon",
+  "cardNumber": "7",
+  "artist": "Igor Kieryluk",
+  "rating": "3.526",
+  "votes": "58"
+}

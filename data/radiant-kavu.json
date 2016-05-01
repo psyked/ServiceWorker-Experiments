@@ -1,0 +1,13 @@
+{
+  "title": "Radiant Kavu",
+  "image": "./img/radiant-kavu.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kavu",
+  "text": ": Prevent all combat damage blue creatures and black creatures would deal this turn.",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "120",
+  "artist": "Ron Spencer",
+  "rating": "3.926",
+  "votes": "34"
+}

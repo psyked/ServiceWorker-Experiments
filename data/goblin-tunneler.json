@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Tunneler",
+  "image": "./img/goblin-tunneler.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Rogue",
+  "text": ": Target creature with power 2 or less can't be blocked this turn.",
+  "expansion": "Magic 2012",
+  "rarity": "Common",
+  "cardNumber": "142",
+  "artist": "Jesper Ejsing",
+  "rating": "3.053",
+  "votes": "57"
+}

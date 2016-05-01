@@ -1,0 +1,13 @@
+{
+  "title": "Angelic Gift",
+  "image": "./img/angelic-gift.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Angelic Gift enters the battlefield, draw a card.Enchanted creature has flying.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "19",
+  "artist": "Josu Hernaiz",
+  "rating": "5",
+  "votes": "0"
+}

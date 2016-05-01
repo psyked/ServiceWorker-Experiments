@@ -1,0 +1,13 @@
+{
+  "title": "Weatherseed Totem",
+  "image": "./img/weatherseed-totem.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  to your mana pool.: Weatherseed Totem becomes a 5/3 green Treefolk artifact creature with trample until end of turn.When Weatherseed Totem is put into a graveyard from the battlefield, if it was a creature, return this card to its owner's hand.",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "268",
+  "artist": "Heather Hudson",
+  "rating": "3.343",
+  "votes": "35"
+}

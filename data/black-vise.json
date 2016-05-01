@@ -1,0 +1,13 @@
+{
+  "title": "Black Vise",
+  "image": "./img/black-vise.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": "As Black Vise enters the battlefield, choose an opponent.At the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in his or her hand minus 4.",
+  "expansion": "From the Vault: Relics",
+  "rarity": "Mythic Rare",
+  "cardNumber": "2",
+  "artist": "Dan Scott",
+  "rating": "4.583",
+  "votes": "133"
+}

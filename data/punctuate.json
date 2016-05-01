@@ -1,0 +1,13 @@
+{
+  "title": "Punctuate",
+  "image": "./img/punctuate.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Punctuate deals damage to target creature equal to half the number of punctuation marks in that creature's text box. (The punctuation marks are  ? , ; : - ( ) / \" ' & .)",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "84",
+  "artist": "Jim Pavelec",
+  "rating": "3.342",
+  "votes": "19"
+}

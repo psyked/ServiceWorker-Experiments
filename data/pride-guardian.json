@@ -1,0 +1,13 @@
+{
+  "title": "Pride Guardian",
+  "image": "./img/pride-guardian.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Cat Monk",
+  "text": "DefenderWhenever Pride Guardian blocks, you gain 3 life.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "77",
+  "artist": "Chris Rahn",
+  "rating": "3.200",
+  "votes": "5"
+}

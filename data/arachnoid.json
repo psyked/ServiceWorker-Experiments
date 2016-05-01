@@ -1,0 +1,13 @@
+{
+  "title": "Arachnoid",
+  "image": "./img/arachnoid.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Spider",
+  "text": "Reach (This creature can block creatures with flying.)",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "102",
+  "artist": "Greg Staples",
+  "rating": "1.371",
+  "votes": "58"
+}

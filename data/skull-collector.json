@@ -1,0 +1,13 @@
+{
+  "title": "Skull Collector",
+  "image": "./img/skull-collector.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Ogre Warrior",
+  "text": "At the beginning of your upkeep, return a black creature you control to its owner's hand.: Regenerate Skull Collector.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "90",
+  "artist": "Thomas M. Baxa",
+  "rating": "3.234",
+  "votes": "32"
+}

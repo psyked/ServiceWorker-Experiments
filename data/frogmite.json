@@ -1,0 +1,13 @@
+{
+  "title": "Frogmite",
+  "image": "./img/frogmite.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Frog",
+  "text": "Affinity for artifacts (This spell costs  less to cast for each artifact you control.)",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "215",
+  "artist": "Terese Nielsen",
+  "rating": "5",
+  "votes": "0"
+}

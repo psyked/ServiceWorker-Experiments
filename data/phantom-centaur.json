@@ -1,0 +1,13 @@
+{
+  "title": "Phantom Centaur",
+  "image": "./img/phantom-centaur.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Centaur Spirit",
+  "text": "Protection from blackPhantom Centaur enters the battlefield with three +1/+1 counters on it.If damage would be dealt to Phantom Centaur, prevent that damage. Remove a +1/+1 counter from Phantom Centaur.",
+  "expansion": "Judgment",
+  "rarity": "Uncommon",
+  "cardNumber": "127",
+  "artist": "Carl Critchlow",
+  "rating": "4.226",
+  "votes": "62"
+}

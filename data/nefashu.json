@@ -1,0 +1,13 @@
+{
+  "title": "Nefashu",
+  "image": "./img/nefashu.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Zombie Mutant",
+  "text": "Whenever Nefashu attacks, up to five target creatures each get -1/-1 until end of turn.",
+  "expansion": "Planechase",
+  "rarity": "Rare",
+  "cardNumber": "34",
+  "artist": "rk post",
+  "rating": "3.816",
+  "votes": "38"
+}

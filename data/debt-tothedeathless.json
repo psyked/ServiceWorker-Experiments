@@ -1,0 +1,13 @@
+{
+  "title": "Debt to the Deathless",
+  "image": "./img/debt-tothedeathless.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Each opponent loses two times X life. You gain life equal to the life lost this way.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Uncommon",
+  "cardNumber": "64",
+  "artist": "Seb McKinnon",
+  "rating": "3.784",
+  "votes": "125"
+}

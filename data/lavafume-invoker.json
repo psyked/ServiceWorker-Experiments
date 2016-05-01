@@ -1,0 +1,13 @@
+{
+  "title": "Lavafume Invoker",
+  "image": "./img/lavafume-invoker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Shaman",
+  "text": ": Creatures you control get +3/+0 until end of turn.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "155",
+  "artist": "Dave Kendall",
+  "rating": "2.833",
+  "votes": "36"
+}

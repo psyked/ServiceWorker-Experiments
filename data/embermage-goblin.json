@@ -1,0 +1,13 @@
+{
+  "title": "Embermage Goblin",
+  "image": "./img/embermage-goblin.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Goblin Wizard",
+  "text": "When Embermage Goblin enters the battlefield, you may search your library for a card named Embermage Goblin, reveal it, and put it into your hand. If you do, shuffle your library.: Embermage Goblin deals 1 damage to target creature or player.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "200",
+  "artist": "Pete Venters",
+  "rating": "3.122",
+  "votes": "37"
+}

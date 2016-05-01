@@ -1,0 +1,13 @@
+{
+  "title": "Armadillo Cloak",
+  "image": "./img/armadillo-cloak.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+2 and has trample.Whenever enchanted creature deals damage, you gain that much life.",
+  "expansion": "Vintage Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "242",
+  "artist": "Wayne Reynolds",
+  "rating": "4.250",
+  "votes": "2"
+}

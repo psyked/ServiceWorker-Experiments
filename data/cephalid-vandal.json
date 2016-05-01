@@ -1,0 +1,13 @@
+{
+  "title": "Cephalid Vandal",
+  "image": "./img/cephalid-vandal.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Cephalid Rogue",
+  "text": "At the beginning of your upkeep, put a shred counter on Cephalid Vandal. Then put the top card of your library into your graveyard for each shred counter on Cephalid Vandal.",
+  "expansion": "Torment",
+  "rarity": "Rare",
+  "cardNumber": "31",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "2.362",
+  "votes": "29"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Temple Acolyte",
+  "image": "./img/temple-acolyte.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": "When Temple Acolyte enters the battlefield, you gain 3 life.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "31",
+  "artist": "Lubov",
+  "rating": "3.531",
+  "votes": "32"
+}

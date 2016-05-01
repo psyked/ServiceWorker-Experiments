@@ -1,0 +1,13 @@
+{
+  "title": "Rush of Ice",
+  "image": "./img/rush-ofice.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Tap target creature. It doesn't untap during its controller's next untap step.Awaken 3— (If you cast this spell for , also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "84",
+  "artist": "Deruchenko Alexander",
+  "rating": "5",
+  "votes": "0"
+}

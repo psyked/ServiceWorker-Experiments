@@ -1,0 +1,13 @@
+{
+  "title": "Vinelasher Kudzu",
+  "image": "./img/vinelasher-kudzu.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Plant",
+  "text": "Whenever a land enters the battlefield under your control, put a +1/+1 counter on Vinelasher Kudzu.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Rare",
+  "cardNumber": "50",
+  "artist": "Mark Tedin",
+  "rating": "4.042",
+  "votes": "12"
+}

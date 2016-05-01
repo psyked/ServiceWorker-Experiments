@@ -1,0 +1,13 @@
+{
+  "title": "Cursed Monstrosity",
+  "image": "./img/cursed-monstrosity.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Horror",
+  "text": "FlyingWhenever Cursed Monstrosity becomes the target of a spell or ability, sacrifice it unless you discard a land card.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "126",
+  "artist": "Jeff Remmer",
+  "rating": "0.944",
+  "votes": "81"
+}

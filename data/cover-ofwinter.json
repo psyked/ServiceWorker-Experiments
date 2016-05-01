@@ -1,0 +1,13 @@
+{
+  "title": "Cover of Winter",
+  "image": "./img/cover-ofwinter.jpg",
+  "convertedManaCost": "3",
+  "types": "Snow Enchantment",
+  "text": "Cumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.  can be paid with one mana from a snow permanent.)If a creature would deal combat damage to you and/or one or more creatures you control, prevent X of that damage, where X is the number of age counters on Cover of Winter.: Put an age counter on Cover of Winter.",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "3",
+  "artist": "Wayne Reynolds",
+  "rating": "3.066",
+  "votes": "38"
+}

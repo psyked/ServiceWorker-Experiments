@@ -1,0 +1,13 @@
+{
+  "title": "Crypt Sliver",
+  "image": "./img/crypt-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Sliver",
+  "text": "All Slivers have \": Regenerate target Sliver.\"",
+  "expansion": "Legions",
+  "rarity": "Common",
+  "cardNumber": "63",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "3.939",
+  "votes": "41"
+}

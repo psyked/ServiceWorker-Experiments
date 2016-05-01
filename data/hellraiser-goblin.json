@@ -1,0 +1,13 @@
+{
+  "title": "Hellraiser Goblin",
+  "image": "./img/hellraiser-goblin.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Berserker",
+  "text": "Creatures you control have haste and attack each combat if able.",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Uncommon",
+  "cardNumber": "7",
+  "artist": "Karl Kopinski",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Kami of Lunacy",
+  "image": "./img/kami-oflunacy.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Spirit",
+  "text": "FlyingSoulshift 5 (When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "119",
+  "artist": "Daren Bader",
+  "rating": "1.609",
+  "votes": "23"
+}

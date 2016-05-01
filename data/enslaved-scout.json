@@ -1,0 +1,13 @@
+{
+  "title": "Enslaved Scout",
+  "image": "./img/enslaved-scout.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Scout",
+  "text": ": Enslaved Scout gains mountainwalk until end of turn. (It can't be blocked as long as defending player controls a Mountain.)",
+  "expansion": "Alliances",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Rebecca Guay",
+  "rating": "1.929",
+  "votes": "35"
+}

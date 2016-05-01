@@ -1,0 +1,13 @@
+{
+  "title": "Searchlight Geist",
+  "image": "./img/searchlight-geist.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "Flying: Searchlight Geist gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "119",
+  "artist": "Steven Belledin",
+  "rating": "2.250",
+  "votes": "34"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Flamekin Brawler",
+  "image": "./img/flamekin-brawler.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elemental Warrior",
+  "text": ": Flamekin Brawler gets +1/+0 until end of turn.",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Common",
+  "cardNumber": "35",
+  "artist": "Daren Bader",
+  "rating": "5",
+  "votes": "0"
+}

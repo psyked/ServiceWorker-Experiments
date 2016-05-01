@@ -1,0 +1,13 @@
+{
+  "title": "Thunderclap",
+  "image": "./img/thunderclap.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "You may sacrifice a Mountain rather than pay Thunderclap's mana cost.Thunderclap deals 3 damage to target creature.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "219",
+  "artist": "Tom Wänerstrand",
+  "rating": "3.500",
+  "votes": "37"
+}

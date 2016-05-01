@@ -1,0 +1,13 @@
+{
+  "title": "Fiery Fall",
+  "image": "./img/fiery-fall.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "Fiery Fall deals 5 damage to target creature.Basic landcycling  (, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "113",
+  "artist": "Daarken",
+  "rating": "5",
+  "votes": "0"
+}

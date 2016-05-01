@@ -1,0 +1,13 @@
+{
+  "title": "Desolation Angel",
+  "image": "./img/desolation-angel.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Angel",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)FlyingWhen Desolation Angel enters the battlefield, destroy all lands you control. If it was kicked, destroy all lands instead.",
+  "expansion": "Apocalypse",
+  "rarity": "Rare",
+  "cardNumber": "38",
+  "artist": "Brom",
+  "rating": "4.281",
+  "votes": "89"
+}

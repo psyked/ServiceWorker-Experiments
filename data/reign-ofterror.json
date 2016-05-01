@@ -1,0 +1,13 @@
+{
+  "title": "Reign of Terror",
+  "image": "./img/reign-ofterror.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Destroy all green creatures or all white creatures. They can't be regenerated. You lose 2 life for each creature that died this way.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Gary Leach",
+  "rating": "2.750",
+  "votes": "28"
+}

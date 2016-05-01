@@ -1,0 +1,13 @@
+{
+  "title": "Rakshasa's Disdain",
+  "image": "./img/rakshasas-disdain.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell unless its controller pays  for each card in your graveyard.",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "45",
+  "artist": "Seb McKinnon",
+  "rating": "5",
+  "votes": "0"
+}

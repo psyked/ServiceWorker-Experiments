@@ -1,0 +1,13 @@
+{
+  "title": "Carrier Pigeons",
+  "image": "./img/carrier-pigeons.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Bird",
+  "text": "FlyingWhen Carrier Pigeons enters the battlefield, draw a card at the beginning of the next turn's upkeep.",
+  "expansion": "Alliances",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Pat Morrissey",
+  "rating": "1.798",
+  "votes": "42"
+}

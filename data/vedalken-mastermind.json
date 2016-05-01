@@ -1,0 +1,13 @@
+{
+  "title": "Vedalken Mastermind",
+  "image": "./img/vedalken-mastermind.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Vedalken Wizard",
+  "text": ", : Return target permanent you control to its owner's hand.",
+  "expansion": "Tenth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "123",
+  "artist": "Darrell Riche",
+  "rating": "4.323",
+  "votes": "93"
+}

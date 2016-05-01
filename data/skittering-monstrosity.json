@@ -1,0 +1,13 @@
+{
+  "title": "Skittering Monstrosity",
+  "image": "./img/skittering-monstrosity.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Horror",
+  "text": "When you cast a creature spell, sacrifice Skittering Monstrosity.",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "129",
+  "artist": "rk post",
+  "rating": "1.622",
+  "votes": "41"
+}

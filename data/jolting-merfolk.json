@@ -1,0 +1,13 @@
+{
+  "title": "Jolting Merfolk",
+  "image": "./img/jolting-merfolk.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Merfolk",
+  "text": "Fading 4 (This creature enters the battlefield with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)Remove a fade counter from Jolting Merfolk: Tap target creature.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "34",
+  "artist": "Glen Angus",
+  "rating": "2.944",
+  "votes": "36"
+}

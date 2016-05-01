@@ -1,0 +1,13 @@
+{
+  "title": "Shipwreck Singer",
+  "image": "./img/shipwreck-singer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Siren",
+  "text": "Flying: Target creature an opponent controls attacks this turn if able., : Attacking creatures get -1/-1 until end of turn.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "203",
+  "artist": "Daarken",
+  "rating": "3.516",
+  "votes": "63"
+}

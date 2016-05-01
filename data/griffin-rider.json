@@ -1,0 +1,13 @@
+{
+  "title": "Griffin Rider",
+  "image": "./img/griffin-rider.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Knight",
+  "text": "As long as you control a Griffin creature, Griffin Rider gets +3/+3 and has flying.",
+  "expansion": "Magic 2012",
+  "rarity": "Common",
+  "cardNumber": "20",
+  "artist": "Steve Prescott",
+  "rating": "3.685",
+  "votes": "54"
+}

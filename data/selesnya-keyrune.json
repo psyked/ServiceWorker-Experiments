@@ -1,0 +1,13 @@
+{
+  "title": "Selesnya Keyrune",
+  "image": "./img/selesnya-keyrune.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  or  to your mana pool.: Selesnya Keyrune becomes a 3/3 green and white Wolf artifact creature until end of turn.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "233",
+  "artist": "Daniel Ljunggren",
+  "rating": "3.348",
+  "votes": "46"
+}

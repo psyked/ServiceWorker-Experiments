@@ -1,0 +1,13 @@
+{
+  "title": "Spire Monitor",
+  "image": "./img/spire-monitor.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Drake",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)Flying",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "46",
+  "artist": "Daniel Ljunggren",
+  "rating": "2.885",
+  "votes": "52"
+}

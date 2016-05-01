@@ -1,0 +1,13 @@
+{
+  "title": "Parallel Evolution",
+  "image": "./img/parallel-evolution.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "For each creature token on the battlefield, its controller puts a token that's a copy of that creature onto the battlefield.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Torment",
+  "rarity": "Rare",
+  "cardNumber": "136",
+  "artist": "Matt Cavotta",
+  "rating": "3.565",
+  "votes": "31"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Seizures",
+  "image": "./img/seizures.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature becomes tapped, Seizures deals 3 damage to that creature's controller unless that player pays .",
+  "expansion": "Ice Age",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Julie Baroh",
+  "rating": "3.328",
+  "votes": "29"
+}

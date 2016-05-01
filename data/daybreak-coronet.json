@@ -1,0 +1,13 @@
+{
+  "title": "Daybreak Coronet",
+  "image": "./img/daybreak-coronet.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature with another Aura attached to itEnchanted creature gets +3/+3 and has first strike, vigilance, and lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Rare",
+  "cardNumber": "14",
+  "artist": "Johannes Voss",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Shoreline Raider",
+  "image": "./img/shoreline-raider.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Merfolk",
+  "text": "Protection from Kavu",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "73",
+  "artist": "Nelson DeCastro",
+  "rating": "2.653",
+  "votes": "36"
+}

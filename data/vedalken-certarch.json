@@ -1,0 +1,13 @@
+{
+  "title": "Vedalken Certarch",
+  "image": "./img/vedalken-certarch.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Vedalken Wizard",
+  "text": "Metalcraft — : Tap target artifact, creature, or land. Activate this ability only if you control three or more artifacts.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "52",
+  "artist": "Karl Kopinski",
+  "rating": "3.873",
+  "votes": "75"
+}

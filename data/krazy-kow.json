@@ -1,0 +1,13 @@
+{
+  "title": "Krazy Kow",
+  "image": "./img/krazy-kow.jpg",
+  "convertedManaCost": "4",
+  "types": "Summon — Cow",
+  "text": "During your upkeep, roll a six-sided die. On a 1, sacrifice Krazy Kow and it deals 3 damage to each creature and player.",
+  "expansion": "Unglued",
+  "rarity": "Common",
+  "cardNumber": "48",
+  "artist": "Ron Spencer",
+  "rating": "3.225",
+  "votes": "20"
+}

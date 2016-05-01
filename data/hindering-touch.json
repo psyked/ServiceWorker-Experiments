@@ -1,0 +1,13 @@
+{
+  "title": "Hindering Touch",
+  "image": "./img/hindering-touch.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Counter target spell unless its controller pays .Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+  "expansion": "Scourge",
+  "rarity": "Common",
+  "cardNumber": "37",
+  "artist": "Glen Angus",
+  "rating": "2.778",
+  "votes": "36"
+}

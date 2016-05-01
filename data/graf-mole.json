@@ -1,0 +1,13 @@
+{
+  "title": "Graf Mole",
+  "image": "./img/graf-mole.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Mole Beast",
+  "text": "Whenever you sacrifice a Clue, you gain 3 life.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "207",
+  "artist": "Lars Grant-West",
+  "rating": "5",
+  "votes": "0"
+}

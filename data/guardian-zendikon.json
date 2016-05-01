@@ -1,0 +1,13 @@
+{
+  "title": "Guardian Zendikon",
+  "image": "./img/guardian-zendikon.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landEnchanted land is a 2/6 white Wall creature with defender. It's still a land.When enchanted land dies, return that card to its owner's hand.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "71",
+  "artist": "John Avon",
+  "rating": "2.875",
+  "votes": "4"
+}

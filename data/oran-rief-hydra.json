@@ -1,0 +1,13 @@
+{
+  "title": "Oran-Rief Hydra",
+  "image": "./img/oran-rief-hydra.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Hydra",
+  "text": "TrampleLandfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Oran-Rief Hydra. If that land is a Forest, put two +1/+1 counters on Oran-Rief Hydra instead.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "181",
+  "artist": "Chris Rahn",
+  "rating": "5",
+  "votes": "0"
+}

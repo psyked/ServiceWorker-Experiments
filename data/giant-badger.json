@@ -1,0 +1,13 @@
+{
+  "title": "Giant Badger",
+  "image": "./img/giant-badger.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Badger",
+  "text": "Whenever Giant Badger blocks, it gets +2/+2 until end of turn.",
+  "expansion": "Eighth Edition",
+  "rarity": "Common",
+  "cardNumber": "253",
+  "artist": "Lars Grant-West",
+  "rating": "3.306",
+  "votes": "31"
+}

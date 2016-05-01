@@ -1,0 +1,13 @@
+{
+  "title": "Painful Truths",
+  "image": "./img/painful-truths.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Converge — You draw X cards and you lose X life, where X is the number of colors of mana spent to cast Painful Truths.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "120",
+  "artist": "Winona Nelson",
+  "rating": "5",
+  "votes": "0"
+}

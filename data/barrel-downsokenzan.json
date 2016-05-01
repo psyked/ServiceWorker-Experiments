@@ -1,0 +1,13 @@
+{
+  "title": "Barrel Down Sokenzan",
+  "image": "./img/barrel-downsokenzan.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant  — Arcane",
+  "text": "Sweep — Return any number of Mountains you control to their owner's hand. Barrel Down Sokenzan deals damage to target creature equal to twice the number of Mountains returned this way.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "94",
+  "artist": "Greg Staples",
+  "rating": "2.774",
+  "votes": "31"
+}

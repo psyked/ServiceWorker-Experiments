@@ -1,0 +1,13 @@
+{
+  "title": "Vodalian Mystic",
+  "image": "./img/vodalian-mystic.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk Wizard",
+  "text": ": Target instant or sorcery spell becomes the color of your choice.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "33",
+  "artist": "Bob Petillo",
+  "rating": "2.100",
+  "votes": "40"
+}

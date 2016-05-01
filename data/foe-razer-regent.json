@@ -1,0 +1,13 @@
+{
+  "title": "Foe-Razer Regent",
+  "image": "./img/foe-razer-regent.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhen Foe-Razer Regent enters the battlefield, you may have it fight target creature you don't control.Whenever a creature you control fights, put two +1/+1 counters on it at the beginning of the next end step.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "187",
+  "artist": "Lucas Graciano",
+  "rating": "5",
+  "votes": "0"
+}

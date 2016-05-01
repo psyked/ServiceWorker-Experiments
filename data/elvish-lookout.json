@@ -1,0 +1,13 @@
+{
+  "title": "Elvish Lookout",
+  "image": "./img/elvish-lookout.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf",
+  "text": "Shroud (This creature can't be the target of spells or abilities.)",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "103",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "2.742",
+  "votes": "33"
+}

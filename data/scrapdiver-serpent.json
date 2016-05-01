@@ -1,0 +1,13 @@
+{
+  "title": "Scrapdiver Serpent",
+  "image": "./img/scrapdiver-serpent.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Serpent",
+  "text": "Scrapdiver Serpent can't be blocked as long as defending player controls an artifact.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "41",
+  "artist": "Adrian Smith",
+  "rating": "2.882",
+  "votes": "51"
+}

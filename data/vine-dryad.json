@@ -1,0 +1,13 @@
+{
+  "title": "Vine Dryad",
+  "image": "./img/vine-dryad.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Dryad",
+  "text": "FlashForestwalk (This creature can't be blocked as long as defending player controls a Forest.)You may exile a green card from your hand rather than pay Vine Dryad's mana cost.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "284",
+  "artist": "Jeff Laubenstein",
+  "rating": "4.287",
+  "votes": "82"
+}

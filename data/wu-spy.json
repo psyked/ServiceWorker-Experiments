@@ -1,0 +1,13 @@
+{
+  "title": "Wu Spy",
+  "image": "./img/wu-spy.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier Rogue",
+  "text": "When Wu Spy enters the battlefield, look at the top two cards of target player's library. Put one of them into his or her graveyard.",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Uncommon",
+  "cardNumber": "63",
+  "artist": "Zhao Tan",
+  "rating": "3.750",
+  "votes": "22"
+}

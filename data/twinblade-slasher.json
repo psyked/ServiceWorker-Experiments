@@ -1,0 +1,13 @@
+{
+  "title": "Twinblade Slasher",
+  "image": "./img/twinblade-slasher.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Warrior",
+  "text": "Wither (This deals damage to creatures in the form of -1/-1 counters.): Twinblade Slasher gets +2/+2 until end of turn. Activate this ability only once each turn.",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "79",
+  "artist": "Trevor Hairsine",
+  "rating": "3.985",
+  "votes": "65"
+}

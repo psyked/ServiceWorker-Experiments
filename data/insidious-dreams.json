@@ -1,0 +1,13 @@
+{
+  "title": "Insidious Dreams",
+  "image": "./img/insidious-dreams.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "As an additional cost to cast Insidious Dreams, discard X cards.Search your library for X cards. Then shuffle your library and put those cards on top of it in any order.",
+  "expansion": "Torment",
+  "rarity": "Rare",
+  "cardNumber": "66",
+  "artist": "John Avon",
+  "rating": "4.041",
+  "votes": "37"
+}

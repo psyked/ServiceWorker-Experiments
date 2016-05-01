@@ -1,0 +1,13 @@
+{
+  "title": "Norwood Warrior",
+  "image": "./img/norwood-warrior.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Warrior",
+  "text": "Whenever Norwood Warrior becomes blocked, it gets +1/+1 until end of turn.",
+  "expansion": "Portal Second Age",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Rebecca Guay",
+  "rating": "2.692",
+  "votes": "26"
+}

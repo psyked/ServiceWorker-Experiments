@@ -1,0 +1,13 @@
+{
+  "title": "Rhystic Tutor",
+  "image": "./img/rhystic-tutor.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Unless any player pays , search your library for a card, put that card into your hand, then shuffle your library.",
+  "expansion": "Prophecy",
+  "rarity": "Rare",
+  "cardNumber": "77",
+  "artist": "Dan Frazier",
+  "rating": "3.541",
+  "votes": "37"
+}

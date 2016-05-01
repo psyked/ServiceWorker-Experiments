@@ -1,0 +1,13 @@
+{
+  "title": "Arboria",
+  "image": "./img/arboria.jpg",
+  "convertedManaCost": "4",
+  "types": "World Enchantment",
+  "text": "Creatures can't attack a player unless that player cast a spell or put a nontoken permanent onto the battlefield during his or her last turn.",
+  "expansion": "Masters Edition III",
+  "rarity": "Rare",
+  "cardNumber": "113",
+  "artist": "Daniel Gelon",
+  "rating": "4.061",
+  "votes": "33"
+}

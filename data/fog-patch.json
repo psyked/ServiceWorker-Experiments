@@ -1,0 +1,13 @@
+{
+  "title": "Fog Patch",
+  "image": "./img/fog-patch.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Cast Fog Patch only during the declare blockers step.Attacking creatures become blocked. (This spell works on creatures that can't be blocked.)",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "104",
+  "artist": "Rebecca Guay",
+  "rating": "3.712",
+  "votes": "33"
+}

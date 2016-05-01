@@ -1,0 +1,13 @@
+{
+  "title": "Worldslayer",
+  "image": "./img/worldslayer.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact  — Equipment",
+  "text": "Whenever equipped creature deals combat damage to a player, destroy all permanents other than Worldslayer.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Magic 2012",
+  "rarity": "Rare",
+  "cardNumber": "222",
+  "artist": "Greg Staples",
+  "rating": "3.841",
+  "votes": "113"
+}

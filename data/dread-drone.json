@@ -1,0 +1,13 @@
+{
+  "title": "Dread Drone",
+  "image": "./img/dread-drone.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "When Dread Drone enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have \"Sacrifice this creature: Add  to your mana pool.\"",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "80",
+  "artist": "Raymond Swanland",
+  "rating": "5",
+  "votes": "0"
+}

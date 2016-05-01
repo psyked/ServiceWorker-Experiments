@@ -1,0 +1,13 @@
+{
+  "title": "Goham Djinn",
+  "image": "./img/goham-djinn.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Djinn",
+  "text": ": Regenerate Goham Djinn.Goham Djinn gets -2/-2 as long as black is the most common color among all permanents or is tied for most common.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "107",
+  "artist": "Ron Spencer",
+  "rating": "2.194",
+  "votes": "31"
+}

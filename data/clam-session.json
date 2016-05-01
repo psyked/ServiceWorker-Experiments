@@ -1,0 +1,13 @@
+{
+  "title": "Clam Session",
+  "image": "./img/clam-session.jpg",
+  "convertedManaCost": "3",
+  "types": "Summon — Clamfolk",
+  "text": "When Clam Session comes into play, choose a word. During your upkeep, sing at least six words of a song, one of which must be the chosen word, or sacrifice Clam Session. You cannot repeat a song.",
+  "expansion": "Unglued",
+  "rarity": "Common",
+  "cardNumber": "20",
+  "artist": "Randy Elliott",
+  "rating": "3.125",
+  "votes": "24"
+}

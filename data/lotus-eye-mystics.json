@@ -1,0 +1,13 @@
+{
+  "title": "Lotus-Eye Mystics",
+  "image": "./img/lotus-eye-mystics.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Monk",
+  "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)When Lotus-Eye Mystics enters the battlefield, return target enchantment card from your graveyard to your hand.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "17",
+  "artist": "Dan Scott",
+  "rating": "5",
+  "votes": "0"
+}

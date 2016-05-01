@@ -1,0 +1,13 @@
+{
+  "title": "Nahiri's Machinations",
+  "image": "./img/nahiris-machinations.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "At the beginning of combat on your turn, target creature you control gains indestructible until end of turn.: Nahiri's Machinations deals 1 damage to target blocking creature.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "28",
+  "artist": "Lake Hurwitz",
+  "rating": "5",
+  "votes": "0"
+}

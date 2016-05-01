@@ -1,0 +1,13 @@
+{
+  "title": "Sage of the Inward Eye",
+  "image": "./img/sage-oftheinwardeye.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Djinn Wizard",
+  "text": "FlyingWhenever you cast a noncreature spell, creatures you control gain lifelink until end of turn.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "195",
+  "artist": "Chase Stone",
+  "rating": "3.750",
+  "votes": "2"
+}

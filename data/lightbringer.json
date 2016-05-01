@@ -1,0 +1,13 @@
+{
+  "title": "Lightbringer",
+  "image": "./img/lightbringer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kor Rebel",
+  "text": ", Sacrifice Lightbringer: Exile target black creature.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "11",
+  "artist": "Paolo Parente",
+  "rating": "3.238",
+  "votes": "21"
+}

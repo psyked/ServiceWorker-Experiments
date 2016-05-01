@@ -1,0 +1,13 @@
+{
+  "title": "Ashcoat Bear",
+  "image": "./img/ashcoat-bear.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Bear",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "190",
+  "artist": "Carl Critchlow",
+  "rating": "4.105",
+  "votes": "100"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sigiled Skink",
+  "image": "./img/sigiled-skink.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Lizard",
+  "text": "Whenever Sigiled Skink attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "Yeong-Hao Han",
+  "rating": "3.222",
+  "votes": "27"
+}

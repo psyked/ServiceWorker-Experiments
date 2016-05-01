@@ -1,0 +1,13 @@
+{
+  "title": "Mayael's Aria",
+  "image": "./img/mayaels-aria.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, put a +1/+1 counter on each creature you control if you control a creature with power 5 or greater. Then you gain 10 life if you control a creature with power 10 or greater. Then you win the game if you control a creature with power 20 or greater.",
+  "expansion": "Alara Reborn",
+  "rarity": "Rare",
+  "cardNumber": "121",
+  "artist": "Steve Argyle",
+  "rating": "3.836",
+  "votes": "146"
+}

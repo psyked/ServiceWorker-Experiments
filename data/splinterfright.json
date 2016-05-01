@@ -1,0 +1,13 @@
+{
+  "title": "Splinterfright",
+  "image": "./img/splinterfright.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental",
+  "text": "TrampleSplinterfright's power and toughness are each equal to the number of creature cards in your graveyard.At the beginning of your upkeep, put the top two cards of your library into your graveyard.",
+  "expansion": "Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "205",
+  "artist": "Eric Deschamps",
+  "rating": "3.892",
+  "votes": "116"
+}

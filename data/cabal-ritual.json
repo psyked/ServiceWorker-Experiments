@@ -1,0 +1,13 @@
+{
+  "title": "Cabal Ritual",
+  "image": "./img/cabal-ritual.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Add  to your mana pool.Threshold — Add  to your mana pool instead if seven or more cards are in your graveyard.",
+  "expansion": "Vintage Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "106",
+  "artist": "Greg Hildebrandt",
+  "rating": "4.500",
+  "votes": "1"
+}

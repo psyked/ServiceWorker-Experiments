@@ -1,0 +1,13 @@
+{
+  "title": "Igneous Golem",
+  "image": "./img/igneous-golem.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Golem",
+  "text": ": Igneous Golem gains trample until end of turn.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Adam Rex",
+  "rating": "2.226",
+  "votes": "31"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Reforge the Soul",
+  "image": "./img/reforge-thesoul.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Each player discards his or her hand, then draws seven cards.Miracle  (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "151",
+  "artist": "Jaime Jones",
+  "rating": "4.100",
+  "votes": "115"
+}

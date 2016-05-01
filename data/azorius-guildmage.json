@@ -1,0 +1,13 @@
+{
+  "title": "Azorius Guildmage",
+  "image": "./img/azorius-guildmage.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Vedalken Wizard",
+  "text": ": Tap target creature.: Counter target activated ability. (Mana abilities can't be targeted.)",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Uncommon",
+  "cardNumber": "183",
+  "artist": "Christopher Moeller",
+  "rating": "4.441",
+  "votes": "51"
+}

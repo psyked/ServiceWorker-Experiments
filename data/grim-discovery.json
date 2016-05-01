@@ -1,0 +1,13 @@
+{
+  "title": "Grim Discovery",
+  "image": "./img/grim-discovery.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Choose one or both —• Return target creature card from your graveyard to your hand.• Return target land card from your graveyard to your hand.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "91",
+  "artist": "Christopher Moeller",
+  "rating": "4.431",
+  "votes": "101"
+}

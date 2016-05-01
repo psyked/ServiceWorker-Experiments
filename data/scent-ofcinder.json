@@ -1,0 +1,13 @@
+{
+  "title": "Scent of Cinder",
+  "image": "./img/scent-ofcinder.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Reveal any number of red cards in your hand. Scent of Cinder deals X damage to target creature or player, where X is the number of cards revealed this way.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "96",
+  "artist": "Marc Fishman",
+  "rating": "3.766",
+  "votes": "32"
+}

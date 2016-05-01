@@ -1,0 +1,13 @@
+{
+  "title": "Niveous Wisps",
+  "image": "./img/niveous-wisps.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature becomes white until end of turn. Tap that creature.Draw a card.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "15",
+  "artist": "Jim Nelson",
+  "rating": "2.967",
+  "votes": "45"
+}

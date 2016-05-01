@@ -1,0 +1,13 @@
+{
+  "title": "Kagemaro's Clutch",
+  "image": "./img/kagemaros-clutch.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets -X/-X, where X is the number of cards in your hand.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "74",
+  "artist": "Pat Lee",
+  "rating": "1.839",
+  "votes": "28"
+}

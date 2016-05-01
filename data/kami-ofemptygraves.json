@@ -1,0 +1,13 @@
+{
+  "title": "Kami of Empty Graves",
+  "image": "./img/kami-ofemptygraves.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Spirit",
+  "text": "Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "75",
+  "artist": "Greg Hildebrandt",
+  "rating": "1.557",
+  "votes": "35"
+}

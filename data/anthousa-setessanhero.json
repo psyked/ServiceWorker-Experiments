@@ -1,0 +1,13 @@
+{
+  "title": "Anthousa, Setessan Hero",
+  "image": "./img/anthousa-setessanhero.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Human Warrior",
+  "text": "Heroic — Whenever you cast a spell that targets Anthousa, Setessan Hero, up to three target lands you control each become 2/2 Warrior creatures until end of turn. They're still lands.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "149",
+  "artist": "Howard Lyon",
+  "rating": "2.788",
+  "votes": "66"
+}

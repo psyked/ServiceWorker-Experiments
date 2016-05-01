@@ -1,0 +1,13 @@
+{
+  "title": "Dire Undercurrents",
+  "image": "./img/dire-undercurrents.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "Whenever a blue creature enters the battlefield under your control, you may have target player draw a card.Whenever a black creature enters the battlefield under your control, you may have target player discard a card.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "159",
+  "artist": "Franz Vohwinkel",
+  "rating": "3.536",
+  "votes": "56"
+}

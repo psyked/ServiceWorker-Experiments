@@ -1,0 +1,13 @@
+{
+  "title": "Asha's Favor",
+  "image": "./img/ashas-favor.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has flying, first strike, and vigilance.",
+  "expansion": "Conflux",
+  "rarity": "Common",
+  "cardNumber": "2",
+  "artist": "Donato Giancola",
+  "rating": "3.000",
+  "votes": "92"
+}

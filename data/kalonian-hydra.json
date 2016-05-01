@@ -1,0 +1,13 @@
+{
+  "title": "Kalonian Hydra",
+  "image": "./img/kalonian-hydra.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Hydra",
+  "text": "TrampleKalonian Hydra enters the battlefield with four +1/+1 counters on it.Whenever Kalonian Hydra attacks, double the number of +1/+1 counters on each creature you control.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Mythic Rare",
+  "cardNumber": "181",
+  "artist": "Chris Rahn",
+  "rating": "3.888",
+  "votes": "130"
+}

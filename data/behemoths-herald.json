@@ -1,0 +1,13 @@
+{
+  "title": "Behemoth's Herald",
+  "image": "./img/behemoths-herald.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Shaman",
+  "text": ", , Sacrifice a red creature, a green creature, and a white creature: Search your library for a card named Godsire and put it onto the battlefield. Then shuffle your library.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "124",
+  "artist": "Parente",
+  "rating": "1.717",
+  "votes": "69"
+}

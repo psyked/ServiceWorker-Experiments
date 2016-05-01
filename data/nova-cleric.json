@@ -1,0 +1,13 @@
+{
+  "title": "Nova Cleric",
+  "image": "./img/nova-cleric.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": ", , Sacrifice Nova Cleric: Destroy all enchantments.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "45",
+  "artist": "Alan Pollack",
+  "rating": "3.988",
+  "votes": "41"
+}

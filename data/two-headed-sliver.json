@@ -1,0 +1,13 @@
+{
+  "title": "Two-Headed Sliver",
+  "image": "./img/two-headed-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Sliver",
+  "text": "All Sliver creatures have menace. (They can't be blocked except by two or more creatures.)",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "183",
+  "artist": "Dany Orizio",
+  "rating": "3.551",
+  "votes": "49"
+}

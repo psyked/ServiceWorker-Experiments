@@ -1,0 +1,13 @@
+{
+  "title": "Hot Soup",
+  "image": "./img/hot-soup.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature can't be blocked.Whenever equipped creature is dealt damage, destroy it.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "219",
+  "artist": "David Palumbo",
+  "rating": "3.286",
+  "votes": "7"
+}

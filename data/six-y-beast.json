@@ -1,0 +1,13 @@
+{
+  "title": "Six-y Beast",
+  "image": "./img/six-y-beast.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature — Beast",
+  "text": "As Six-y Beast comes into play, you secretly put six or fewer +1/+1 counters on it, then an opponent guesses the number of counters. If that player guesses right, sacrifice Six-y Beast.",
+  "expansion": "Unhinged",
+  "rarity": "Uncommon",
+  "cardNumber": "89",
+  "artist": "Anson Maddocks",
+  "rating": "3.762",
+  "votes": "21"
+}

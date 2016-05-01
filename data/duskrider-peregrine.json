@@ -1,0 +1,13 @@
+{
+  "title": "Duskrider Peregrine",
+  "image": "./img/duskrider-peregrine.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Bird",
+  "text": "Flying, protection from blackSuspend 3— (Rather than cast this card from your hand, you may pay  and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "14",
+  "artist": "Una Fricker",
+  "rating": "2.700",
+  "votes": "35"
+}

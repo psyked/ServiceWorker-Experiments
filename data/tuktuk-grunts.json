@@ -1,0 +1,13 @@
+{
+  "title": "Tuktuk Grunts",
+  "image": "./img/tuktuk-grunts.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Goblin Warrior Ally",
+  "text": "HasteWhenever Tuktuk Grunts or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Tuktuk Grunts.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "152",
+  "artist": "Mike Bierek",
+  "rating": "1.927",
+  "votes": "48"
+}

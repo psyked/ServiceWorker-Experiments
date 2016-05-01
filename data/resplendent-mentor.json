@@ -1,0 +1,13 @@
+{
+  "title": "Resplendent Mentor",
+  "image": "./img/resplendent-mentor.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Kithkin Cleric",
+  "text": "White creatures you control have \": You gain 1 life.\"",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "19",
+  "artist": "Franz Vohwinkel",
+  "rating": "2.569",
+  "votes": "36"
+}

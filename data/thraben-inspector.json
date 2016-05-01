@@ -1,0 +1,13 @@
+{
+  "title": "Thraben Inspector",
+  "image": "./img/thraben-inspector.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Soldier",
+  "text": "When Thraben Inspector enters the battlefield, investigate. (Put a colorless Clue artifact token onto the battlefield with \", Sacrifice this artifact: Draw a card.\")",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "44",
+  "artist": "Matt Stewart",
+  "rating": "5",
+  "votes": "0"
+}

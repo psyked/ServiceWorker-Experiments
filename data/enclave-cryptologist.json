@@ -1,0 +1,13 @@
+{
+  "title": "Enclave Cryptologist",
+  "image": "./img/enclave-cryptologist.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Merfolk Wizard",
+  "text": "Level up  (: Put a level counter on this. Level up only as a sorcery.)LEVEL 1-20/1: Draw a card, then discard a card.LEVEL 3+0/1: Draw a card.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "66",
+  "artist": "Igor Kieryluk",
+  "rating": "3.944",
+  "votes": "89"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Magical Hacker",
+  "image": "./img/magical-hacker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature — Human Gamer",
+  "text": ": Change the text of target spell or permanent by replacing all instances of + with -, and vice versa, until end of turn.",
+  "expansion": "Unhinged",
+  "rarity": "Uncommon",
+  "cardNumber": "37",
+  "artist": "Doug Chaffee",
+  "rating": "4.378",
+  "votes": "45"
+}

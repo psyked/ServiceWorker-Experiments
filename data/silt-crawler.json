@@ -1,0 +1,13 @@
+{
+  "title": "Silt Crawler",
+  "image": "./img/silt-crawler.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Beast",
+  "text": "When Silt Crawler enters the battlefield, tap all lands you control.",
+  "expansion": "Prophecy",
+  "rarity": "Common",
+  "cardNumber": "123",
+  "artist": "Arnie Swekel",
+  "rating": "2.875",
+  "votes": "32"
+}

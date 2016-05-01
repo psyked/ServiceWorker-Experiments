@@ -1,0 +1,13 @@
+{
+  "title": "Noble Stand",
+  "image": "./img/noble-stand.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "Whenever a creature you control blocks, you gain 2 life.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "14",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "3.019",
+  "votes": "26"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Deeptread Merrow",
+  "image": "./img/deeptread-merrow.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk Rogue",
+  "text": ": Deeptread Merrow gains islandwalk until end of turn. (It can't be blocked as long as defending player controls an Island.)",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "57",
+  "artist": "Terese Nielsen & Philip Tan",
+  "rating": "2.233",
+  "votes": "30"
+}

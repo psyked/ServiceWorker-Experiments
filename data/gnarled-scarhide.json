@@ -1,0 +1,13 @@
+{
+  "title": "Gnarled Scarhide",
+  "image": "./img/gnarled-scarhide.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment Creature  — Minotaur",
+  "text": "Bestow  (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)Gnarled Scarhide can't block.Enchanted creature gets +2/+1 and can't block.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "72",
+  "artist": "Greg Staples",
+  "rating": "3.720",
+  "votes": "41"
+}

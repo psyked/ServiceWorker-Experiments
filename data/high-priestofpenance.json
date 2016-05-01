@@ -1,0 +1,13 @@
+{
+  "title": "High Priest of Penance",
+  "image": "./img/high-priestofpenance.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": "Whenever High Priest of Penance is dealt damage, you may destroy target nonland permanent.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "171",
+  "artist": "Mark Zug",
+  "rating": "3.928",
+  "votes": "111"
+}

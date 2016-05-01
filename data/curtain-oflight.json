@@ -1,0 +1,13 @@
+{
+  "title": "Curtain of Light",
+  "image": "./img/curtain-oflight.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Cast Curtain of Light only during combat after blockers are declared.Target unblocked attacking creature becomes blocked. (This spell works on creatures that can't be blocked.)Draw a card.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "6",
+  "artist": "Chippy",
+  "rating": "3.234",
+  "votes": "47"
+}

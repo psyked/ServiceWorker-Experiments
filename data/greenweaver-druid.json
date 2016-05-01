@@ -1,0 +1,13 @@
+{
+  "title": "Greenweaver Druid",
+  "image": "./img/greenweaver-druid.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Druid",
+  "text": ": Add  to your mana pool.",
+  "expansion": "Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "164",
+  "artist": "Justin Sweet",
+  "rating": "3.480",
+  "votes": "74"
+}

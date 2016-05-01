@@ -1,0 +1,13 @@
+{
+  "title": "Lifegift",
+  "image": "./img/lifegift.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a land enters the battlefield, you may gain 1 life.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "132",
+  "artist": "John Matson",
+  "rating": "3.711",
+  "votes": "45"
+}

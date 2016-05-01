@@ -1,0 +1,13 @@
+{
+  "title": "Friendly Fire",
+  "image": "./img/friendly-fire.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Target creature's controller reveals a card at random from his or her hand. Friendly Fire deals damage to that creature and that player equal to the revealed card's converted mana cost.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "101",
+  "artist": "Anthony Palumbo",
+  "rating": "5",
+  "votes": "0"
+}

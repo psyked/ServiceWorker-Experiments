@@ -1,0 +1,13 @@
+{
+  "title": "Tattermunge Witch",
+  "image": "./img/tattermunge-witch.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Shaman",
+  "text": ": Each blocked creature gets +1/+0 and gains trample until end of turn.",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "220",
+  "artist": "Warren Mahy",
+  "rating": "3.442",
+  "votes": "43"
+}

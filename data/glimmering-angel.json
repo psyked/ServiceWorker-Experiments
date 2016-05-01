@@ -1,0 +1,13 @@
+{
+  "title": "Glimmering Angel",
+  "image": "./img/glimmering-angel.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Angel",
+  "text": "Flying: Glimmering Angel gains shroud until end of turn. (It can't be the target of spells or abilities.)",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "17",
+  "artist": "Ciruelo",
+  "rating": "2.750",
+  "votes": "38"
+}

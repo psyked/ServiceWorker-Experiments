@@ -1,0 +1,13 @@
+{
+  "title": "Dissipate",
+  "image": "./img/dissipate.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "51",
+  "artist": "Tomasz Jedruszek",
+  "rating": "4.000",
+  "votes": "7"
+}

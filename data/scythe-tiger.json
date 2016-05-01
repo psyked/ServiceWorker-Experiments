@@ -1,0 +1,13 @@
+{
+  "title": "Scythe Tiger",
+  "image": "./img/scythe-tiger.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Cat",
+  "text": "Shroud (This creature can't be the target of spells or abilities.)When Scythe Tiger enters the battlefield, sacrifice it unless you sacrifice a land.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "183",
+  "artist": "Michael Komarck",
+  "rating": "3.805",
+  "votes": "133"
+}

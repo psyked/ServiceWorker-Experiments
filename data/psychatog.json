@@ -1,0 +1,13 @@
+{
+  "title": "Psychatog",
+  "image": "./img/psychatog.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Atog",
+  "text": "Discard a card: Psychatog gets +1/+1 until end of turn.Exile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.",
+  "expansion": "Vintage Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "258",
+  "artist": "Izzy",
+  "rating": "4.167",
+  "votes": "3"
+}

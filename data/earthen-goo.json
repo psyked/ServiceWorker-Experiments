@@ -1,0 +1,13 @@
+{
+  "title": "Earthen Goo",
+  "image": "./img/earthen-goo.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Ooze",
+  "text": "TrampleCumulative upkeep  or  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)Earthen Goo gets +1/+1 for each age counter on it.",
+  "expansion": "Coldsnap",
+  "rarity": "Uncommon",
+  "cardNumber": "80",
+  "artist": "Nick Percival",
+  "rating": "2.959",
+  "votes": "37"
+}

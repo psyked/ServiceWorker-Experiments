@@ -1,0 +1,13 @@
+{
+  "title": "Farmstead",
+  "image": "./img/farmstead.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landEnchanted land has \"At the beginning of your upkeep, you may pay . If you do, you gain 1 life.\"",
+  "expansion": "Revised Edition",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Mark Poole",
+  "rating": "1.190",
+  "votes": "71"
+}

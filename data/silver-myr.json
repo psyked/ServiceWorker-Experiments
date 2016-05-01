@@ -1,0 +1,13 @@
+{
+  "title": "Silver Myr",
+  "image": "./img/silver-myr.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Myr",
+  "text": ": Add  to your mana pool.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "202",
+  "artist": "Alan Pollack",
+  "rating": "3.473",
+  "votes": "75"
+}

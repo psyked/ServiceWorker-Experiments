@@ -1,0 +1,13 @@
+{
+  "title": "Skyship Weatherlight",
+  "image": "./img/skyship-weatherlight.jpg",
+  "convertedManaCost": "4",
+  "types": "Legendary Artifact",
+  "text": "When Skyship Weatherlight enters the battlefield, search your library for any number of artifact and/or creature cards and exile them. Then shuffle your library., : Choose a card at random that was exiled with Skyship Weatherlight. Put that card into its owner's hand.",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "133",
+  "artist": "Kev Walker",
+  "rating": "3.850",
+  "votes": "40"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Hypersonic Dragon",
+  "image": "./img/hypersonic-dragon.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Dragon",
+  "text": "Flying, hasteYou may cast sorcery cards as though they had flash. (You may cast them any time you could cast an instant.)",
+  "expansion": "Return to Ravnica",
+  "rarity": "Rare",
+  "cardNumber": "170",
+  "artist": "Dan Scott",
+  "rating": "3.938",
+  "votes": "96"
+}

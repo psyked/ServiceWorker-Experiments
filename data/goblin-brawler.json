@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Brawler",
+  "image": "./img/goblin-brawler.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Warrior",
+  "text": "First strikeGoblin Brawler can't be equipped.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "66",
+  "artist": "Heather Hudson",
+  "rating": "2.470",
+  "votes": "33"
+}

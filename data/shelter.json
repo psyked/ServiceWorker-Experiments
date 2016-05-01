@@ -1,0 +1,13 @@
+{
+  "title": "Shelter",
+  "image": "./img/shelter.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature you control gains protection from the color of your choice until end of turn.Draw a card.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "44",
+  "artist": "Christopher Moeller",
+  "rating": "4.000",
+  "votes": "1"
+}

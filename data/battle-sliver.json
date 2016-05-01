@@ -1,0 +1,13 @@
+{
+  "title": "Battle Sliver",
+  "image": "./img/battle-sliver.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Sliver",
+  "text": "Sliver creatures you control get +2/+0.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "128",
+  "artist": "Slawomir Maniak",
+  "rating": "2.490",
+  "votes": "48"
+}

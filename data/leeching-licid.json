@@ -1,0 +1,13 @@
+{
+  "title": "Leeching Licid",
+  "image": "./img/leeching-licid.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Licid",
+  "text": ", : Leeching Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay  to end this effect.At the beginning of the upkeep of enchanted creature's controller, Leeching Licid deals 1 damage to that player.",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Joel Biske",
+  "rating": "2.621",
+  "votes": "29"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Abzan Beastmaster",
+  "image": "./img/abzan-beastmaster.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Hound Shaman",
+  "text": "At the beginning of your upkeep, draw a card if you control the creature with the greatest toughness or tied for the greatest toughness.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "119",
+  "artist": "Winona Nelson",
+  "rating": "5",
+  "votes": "0"
+}

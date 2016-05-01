@@ -1,0 +1,13 @@
+{
+  "title": "Death's Caress",
+  "image": "./img/deaths-caress.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Destroy target creature. If that creature was a Human, you gain life equal to its toughness.",
+  "expansion": "Dark Ascension",
+  "rarity": "Common",
+  "cardNumber": "59",
+  "artist": "James Ryman",
+  "rating": "1.370",
+  "votes": "77"
+}

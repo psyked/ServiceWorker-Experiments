@@ -1,0 +1,13 @@
+{
+  "title": "Gamble",
+  "image": "./img/gamble.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Search your library for a card, put that card into your hand, discard a card at random, then shuffle your library.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "162",
+  "artist": "Andrew Goldhawk",
+  "rating": "4.000",
+  "votes": "1"
+}

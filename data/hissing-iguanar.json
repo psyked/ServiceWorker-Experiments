@@ -1,0 +1,13 @@
+{
+  "title": "Hissing Iguanar",
+  "image": "./img/hissing-iguanar.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Lizard",
+  "text": "Whenever another creature dies, you may have Hissing Iguanar deal 1 damage to target player.",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Common",
+  "cardNumber": "46",
+  "artist": "Brandon Kitkouski",
+  "rating": "2.717",
+  "votes": "23"
+}

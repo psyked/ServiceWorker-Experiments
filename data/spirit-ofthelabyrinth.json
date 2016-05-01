@@ -1,0 +1,13 @@
+{
+  "title": "Spirit of the Labyrinth",
+  "image": "./img/spirit-ofthelabyrinth.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment Creature  — Spirit",
+  "text": "Each player can't draw more than one card each turn.",
+  "expansion": "Born of the Gods",
+  "rarity": "Rare",
+  "cardNumber": "27",
+  "artist": "Jason Chan",
+  "rating": "4.491",
+  "votes": "113"
+}

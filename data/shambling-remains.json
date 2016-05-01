@@ -1,0 +1,13 @@
+{
+  "title": "Shambling Remains",
+  "image": "./img/shambling-remains.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie Horror",
+  "text": "Shambling Remains can't block.Unearth  (: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Uncommon",
+  "cardNumber": "12",
+  "artist": "Nils Hamm",
+  "rating": "3.500",
+  "votes": "1"
+}

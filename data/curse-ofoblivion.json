@@ -1,0 +1,13 @@
+{
+  "title": "Curse of Oblivion",
+  "image": "./img/curse-ofoblivion.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura Curse",
+  "text": "Enchant playerAt the beginning of enchanted player's upkeep, that player exiles two cards from his or her graveyard.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "95",
+  "artist": "Jana Schirmer & Johannes Voss",
+  "rating": "2.308",
+  "votes": "52"
+}

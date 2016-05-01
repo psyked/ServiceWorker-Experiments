@@ -1,0 +1,13 @@
+{
+  "title": "Spidery Grasp",
+  "image": "./img/spidery-grasp.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Untap target creature. It gets +2/+4 and gains reach until end of turn. (It can block creatures with flying.)",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "204",
+  "artist": "James Ryman",
+  "rating": "2.730",
+  "votes": "50"
+}

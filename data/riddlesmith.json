@@ -1,0 +1,13 @@
+{
+  "title": "Riddlesmith",
+  "image": "./img/riddlesmith.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Artificer",
+  "text": "Whenever you cast an artifact spell, you may draw a card. If you do, discard a card.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "40",
+  "artist": "Eric Deschamps",
+  "rating": "3.690",
+  "votes": "71"
+}

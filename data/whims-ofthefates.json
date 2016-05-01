@@ -1,0 +1,13 @@
+{
+  "title": "Whims of the Fates",
+  "image": "./img/whims-ofthefates.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Starting with you, each player separates all permanents he or she controls into three piles. Then each player chooses one of his or her piles at random and sacrifices those permanents. (Piles can be empty.)",
+  "expansion": "Born of the Gods",
+  "rarity": "Rare",
+  "cardNumber": "115",
+  "artist": "Seb McKinnon",
+  "rating": "3.333",
+  "votes": "33"
+}

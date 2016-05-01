@@ -1,0 +1,13 @@
+{
+  "title": "Call to Heel",
+  "image": "./img/call-toheel.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Return target creature to its owner's hand. Its controller draws a card.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Common",
+  "cardNumber": "18",
+  "artist": "Randy Gallegos",
+  "rating": "2.385",
+  "votes": "13"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Tattermunge Maniac",
+  "image": "./img/tattermunge-maniac.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Tattermunge Maniac attacks each turn if able.",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "219",
+  "artist": "Matt Cavotta",
+  "rating": "3.924",
+  "votes": "72"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Vectis Dominator",
+  "image": "./img/vectis-dominator.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Human Wizard",
+  "text": ": Tap target creature unless its controller pays 2 life.",
+  "expansion": "Alara Reborn",
+  "rarity": "Common",
+  "cardNumber": "84",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "2.292",
+  "votes": "84"
+}

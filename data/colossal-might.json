@@ -1,0 +1,13 @@
+{
+  "title": "Colossal Might",
+  "image": "./img/colossal-might.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +4/+2 and gains trample until end of turn.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Common",
+  "cardNumber": "190",
+  "artist": "Justin Sweet",
+  "rating": "2.837",
+  "votes": "52"
+}

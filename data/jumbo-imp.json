@@ -1,0 +1,13 @@
+{
+  "title": "Jumbo Imp",
+  "image": "./img/jumbo-imp.jpg",
+  "convertedManaCost": "3",
+  "types": "Summon — Imp",
+  "text": "FlyingWhen you play Jumbo Imp, roll a six-sided die. Jumbo Imp comes into play with a number of +1/+1 counters on it equal to the die roll.During your upkeep, roll a six-sided die and put on Jumbo Imp a number of +1/+1 counters equal to the die roll.At the end of your turn, roll a six-sided die and remove from Jumbo Imp a number of +1/+1 counters equal to the die roll.",
+  "expansion": "Unglued",
+  "rarity": "Uncommon",
+  "cardNumber": "34",
+  "artist": "Pete Venters",
+  "rating": "3.139",
+  "votes": "18"
+}

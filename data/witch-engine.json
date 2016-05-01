@@ -1,0 +1,13 @@
+{
+  "title": "Witch Engine",
+  "image": "./img/witch-engine.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Horror",
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.): Add  to your mana pool. Target opponent gains control of Witch Engine. (Activate this ability only any time you could cast an instant.)",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "169",
+  "artist": "Kev Walker",
+  "rating": "3.321",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sandstone Needle",
+  "image": "./img/sandstone-needle.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "Sandstone Needle enters the battlefield tapped with two depletion counters on it., Remove a depletion counter from Sandstone Needle: Add  to your mana pool. If there are no depletion counters on Sandstone Needle, sacrifice it.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "326",
+  "artist": "Alan Rabinowitz",
+  "rating": "4.182",
+  "votes": "33"
+}

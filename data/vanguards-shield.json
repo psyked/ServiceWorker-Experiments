@@ -1,0 +1,13 @@
+{
+  "title": "Vanguard's Shield",
+  "image": "./img/vanguards-shield.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +0/+3 and can block an additional creature each combat.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "223",
+  "artist": "Ryan Pancoast",
+  "rating": "1.939",
+  "votes": "41"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ydwen Efreet",
+  "image": "./img/ydwen-efreet.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Efreet",
+  "text": "Whenever Ydwen Efreet blocks, flip a coin. If you lose the flip, remove Ydwen Efreet from combat and it can't block this turn. Creatures it was blocking that had become blocked by only Ydwen Efreet this combat become unblocked.",
+  "expansion": "Masters Edition",
+  "rarity": "Rare",
+  "cardNumber": "112",
+  "artist": "Drew Tucker",
+  "rating": "3.888",
+  "votes": "40"
+}

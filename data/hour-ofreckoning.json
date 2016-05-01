@@ -1,0 +1,13 @@
+{
+  "title": "Hour of Reckoning",
+  "image": "./img/hour-ofreckoning.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for  or one mana of that creature's color.)Destroy all nontoken creatures.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Rare",
+  "cardNumber": "15",
+  "artist": "Randy Gallegos",
+  "rating": "3.671",
+  "votes": "38"
+}

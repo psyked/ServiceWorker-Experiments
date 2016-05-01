@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Grenade",
+  "image": "./img/goblin-grenade.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Goblin Grenade, sacrifice a Goblin.Goblin Grenade deals 5 damage to target creature or player.",
+  "expansion": "Magic 2012",
+  "rarity": "Uncommon",
+  "cardNumber": "140",
+  "artist": "Kev Walker",
+  "rating": "4.326",
+  "votes": "201"
+}

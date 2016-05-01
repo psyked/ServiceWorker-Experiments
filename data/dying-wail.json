@@ -1,0 +1,13 @@
+{
+  "title": "Dying Wail",
+  "image": "./img/dying-wail.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen enchanted creature dies, target player discards two cards.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "58",
+  "artist": "Brian Snoddy",
+  "rating": "2.900",
+  "votes": "30"
+}

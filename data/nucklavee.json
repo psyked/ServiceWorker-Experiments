@@ -1,0 +1,13 @@
+{
+  "title": "Nucklavee",
+  "image": "./img/nucklavee.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Beast",
+  "text": "When Nucklavee enters the battlefield, you may return target red sorcery card from your graveyard to your hand.When Nucklavee enters the battlefield, you may return target blue instant card from your graveyard to your hand.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Uncommon",
+  "cardNumber": "214",
+  "artist": "Trevor Hairsine",
+  "rating": "3.647",
+  "votes": "34"
+}

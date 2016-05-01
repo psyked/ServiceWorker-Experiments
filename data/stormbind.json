@@ -1,0 +1,13 @@
+{
+  "title": "Stormbind",
+  "image": "./img/stormbind.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": ", Discard a card at random: Stormbind deals 2 damage to target creature or player.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "102",
+  "artist": "NéNé Thomas & Phillip Mosness",
+  "rating": "3.776",
+  "votes": "38"
+}

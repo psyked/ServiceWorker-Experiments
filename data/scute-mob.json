@@ -1,0 +1,13 @@
+{
+  "title": "Scute Mob",
+  "image": "./img/scute-mob.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Insect",
+  "text": "At the beginning of your upkeep, if you control five or more lands, put four +1/+1 counters on Scute Mob.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Rare",
+  "cardNumber": "22",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "5",
+  "votes": "0"
+}

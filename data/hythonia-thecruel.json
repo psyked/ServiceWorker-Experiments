@@ -1,0 +1,13 @@
+{
+  "title": "Hythonia the Cruel",
+  "image": "./img/hythonia-thecruel.jpg",
+  "convertedManaCost": "6",
+  "types": "Legendary Creature  — Gorgon",
+  "text": "Deathtouch: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)When Hythonia the Cruel becomes monstrous, destroy all non-Gorgon creatures.",
+  "expansion": "Theros",
+  "rarity": "Mythic Rare",
+  "cardNumber": "91",
+  "artist": "Chris Rahn",
+  "rating": "3.456",
+  "votes": "91"
+}

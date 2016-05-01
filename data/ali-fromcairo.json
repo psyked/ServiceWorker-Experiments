@@ -1,0 +1,13 @@
+{
+  "title": "Ali from Cairo",
+  "image": "./img/ali-fromcairo.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human",
+  "text": "Damage that would reduce your life total to less than 1 reduces it to 1 instead.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "107",
+  "artist": "Mark Poole",
+  "rating": "4.150",
+  "votes": "50"
+}

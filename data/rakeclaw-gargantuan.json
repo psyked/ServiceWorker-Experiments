@@ -1,0 +1,13 @@
+{
+  "title": "Rakeclaw Gargantuan",
+  "image": "./img/rakeclaw-gargantuan.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast",
+  "text": ": Target creature with power 5 or greater gains first strike until end of turn.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Common",
+  "cardNumber": "205",
+  "artist": "Jesper Ejsing",
+  "rating": "3.542",
+  "votes": "12"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Festerhide Boar",
+  "image": "./img/festerhide-boar.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Boar",
+  "text": "TrampleMorbid — Festerhide Boar enters the battlefield with two +1/+1 counters on it if a creature died this turn.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Common",
+  "cardNumber": "59",
+  "artist": "Nils Hamm",
+  "rating": "3.778",
+  "votes": "9"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Twilight's Call",
+  "image": "./img/twilights-call.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "You may cast Twilight's Call as though it had flash if you pay  more to cast it. (You may cast it any time you could cast an instant.)Each player returns all creature cards from his or her graveyard to the battlefield.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Rare",
+  "cardNumber": "76",
+  "artist": "Mark Romanoski",
+  "rating": "4.406",
+  "votes": "16"
+}

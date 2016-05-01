@@ -1,0 +1,13 @@
+{
+  "title": "Merfolk Observer",
+  "image": "./img/merfolk-observer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk Rogue",
+  "text": "When Merfolk Observer enters the battlefield, look at the top card of target player's library.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "76",
+  "artist": "Anthony Francisco",
+  "rating": "2.274",
+  "votes": "42"
+}

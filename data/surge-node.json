@@ -1,0 +1,13 @@
+{
+  "title": "Surge Node",
+  "image": "./img/surge-node.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": "Surge Node enters the battlefield with six charge counters on it., , Remove a charge counter from Surge Node: Put a charge counter on target artifact.",
+  "expansion": "New Phyrexia",
+  "rarity": "Uncommon",
+  "cardNumber": "160",
+  "artist": "Lars Grant-West",
+  "rating": "3.280",
+  "votes": "75"
+}

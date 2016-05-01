@@ -1,0 +1,13 @@
+{
+  "title": "Jeskai Banner",
+  "image": "./img/jeskai-banner.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add , , or  to your mana pool., , Sacrifice Jeskai Banner: Draw a card.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "222",
+  "artist": "Daniel Ljunggren",
+  "rating": "2.667",
+  "votes": "3"
+}

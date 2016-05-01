@@ -1,0 +1,13 @@
+{
+  "title": "Brindle Shoat",
+  "image": "./img/brindle-shoat.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Boar",
+  "text": "When Brindle Shoat dies, put a 3/3 green Boar creature token onto the battlefield.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "199",
+  "artist": "Steven Belledin",
+  "rating": "5",
+  "votes": "0"
+}

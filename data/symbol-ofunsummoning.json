@@ -1,0 +1,13 @@
+{
+  "title": "Symbol of Unsummoning",
+  "image": "./img/symbol-ofunsummoning.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Return target creature to its owner's hand.Draw a card.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "65",
+  "artist": "Adam Rex",
+  "rating": "3.029",
+  "votes": "17"
+}

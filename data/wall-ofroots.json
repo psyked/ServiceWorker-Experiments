@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Roots",
+  "image": "./img/wall-ofroots.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Plant Wall",
+  "text": "DefenderPut a -0/-1 counter on Wall of Roots: Add  to your mana pool. Activate this ability only once each turn.",
+  "expansion": "Archenemy",
+  "rarity": "Common",
+  "cardNumber": "73",
+  "artist": "John Matson",
+  "rating": "4.430",
+  "votes": "43"
+}

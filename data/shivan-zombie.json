@@ -1,0 +1,13 @@
+{
+  "title": "Shivan Zombie",
+  "image": "./img/shivan-zombie.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Barbarian Zombie",
+  "text": "Protection from white",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "271",
+  "artist": "Tony Szczudlo",
+  "rating": "3.900",
+  "votes": "45"
+}

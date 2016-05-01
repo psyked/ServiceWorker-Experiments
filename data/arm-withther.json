@@ -1,0 +1,13 @@
+{
+  "title": "Arm with Æther",
+  "image": "./img/arm-withther.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Until end of turn, creatures you control gain \"Whenever this creature deals damage to an opponent, you may return target creature that player controls to its owner's hand.\"",
+  "expansion": "New Phyrexia",
+  "rarity": "Uncommon",
+  "cardNumber": "28",
+  "artist": "Austin Hsu",
+  "rating": "2.870",
+  "votes": "69"
+}

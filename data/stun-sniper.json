@@ -1,0 +1,13 @@
+{
+  "title": "Stun Sniper",
+  "image": "./img/stun-sniper.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Archer",
+  "text": ", : Stun Sniper deals 1 damage to target creature. Tap that creature.",
+  "expansion": "Duel Decks: Heroes vs. Monsters",
+  "rarity": "Uncommon",
+  "cardNumber": "7",
+  "artist": "Steve Prescott",
+  "rating": "3.769",
+  "votes": "13"
+}

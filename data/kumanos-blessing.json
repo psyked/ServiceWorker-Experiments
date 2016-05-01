@@ -1,0 +1,13 @@
+{
+  "title": "Kumano's Blessing",
+  "image": "./img/kumanos-blessing.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "FlashEnchant creatureIf a creature dealt damage by enchanted creature this turn would die, exile it instead.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "Keith Garletts",
+  "rating": "1.046",
+  "votes": "54"
+}

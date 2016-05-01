@@ -1,0 +1,13 @@
+{
+  "title": "Ride Down",
+  "image": "./img/ride-down.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Destroy target blocking creature. Creatures that were blocked by that creature this combat gain trample until end of turn.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "194",
+  "artist": "Daarken",
+  "rating": "3.250",
+  "votes": "2"
+}

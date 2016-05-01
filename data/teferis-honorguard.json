@@ -1,0 +1,13 @@
+{
+  "title": "Teferi's Honor Guard",
+  "image": "./img/teferis-honorguard.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.): Teferi's Honor Guard phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)",
+  "expansion": "Visions",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Cecil Fernando",
+  "rating": "3.406",
+  "votes": "32"
+}

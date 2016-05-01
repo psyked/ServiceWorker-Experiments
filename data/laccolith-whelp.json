@@ -1,0 +1,13 @@
+{
+  "title": "Laccolith Whelp",
+  "image": "./img/laccolith-whelp.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Beast",
+  "text": "Whenever Laccolith Whelp becomes blocked, you may have it deal damage equal to its power to target creature. If you do, Laccolith Whelp assigns no combat damage this turn.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "91",
+  "artist": "Dave Dorman",
+  "rating": "4.000",
+  "votes": "40"
+}

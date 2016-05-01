@@ -1,0 +1,13 @@
+{
+  "title": "Life Burst",
+  "image": "./img/life-burst.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target player gains 4 life, then gains 4 life for each card named Life Burst in each graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "30",
+  "artist": "John Avon",
+  "rating": "3.269",
+  "votes": "54"
+}

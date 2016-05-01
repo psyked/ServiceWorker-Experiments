@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Denial",
+  "image": "./img/wall-ofdenial.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wall",
+  "text": "Defender, flyingShroud (This creature can't be the target of spells or abilities.)",
+  "expansion": "Duel Decks: Venser vs. Koth",
+  "rarity": "Uncommon",
+  "cardNumber": "11",
+  "artist": "Howard Lyon",
+  "rating": "3.784",
+  "votes": "97"
+}

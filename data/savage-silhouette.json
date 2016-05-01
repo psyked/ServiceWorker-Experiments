@@ -1,0 +1,13 @@
+{
+  "title": "Savage Silhouette",
+  "image": "./img/savage-silhouette.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+2 and has \": Regenerate this creature.\"",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "181",
+  "artist": "Dave Kendall",
+  "rating": "3.167",
+  "votes": "57"
+}

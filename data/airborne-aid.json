@@ -1,0 +1,13 @@
+{
+  "title": "Airborne Aid",
+  "image": "./img/airborne-aid.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Draw a card for each Bird on the battlefield.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "62",
+  "artist": "Bradley Williams",
+  "rating": "2.905",
+  "votes": "42"
+}

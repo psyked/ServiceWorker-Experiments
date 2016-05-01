@@ -1,0 +1,13 @@
+{
+  "title": "Ribbon Snake",
+  "image": "./img/ribbon-snake.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Snake",
+  "text": "Flying: Ribbon Snake loses flying until end of turn. Any player may activate this ability.",
+  "expansion": "Prophecy",
+  "rarity": "Common",
+  "cardNumber": "46",
+  "artist": "Mark Zug",
+  "rating": "3.194",
+  "votes": "31"
+}

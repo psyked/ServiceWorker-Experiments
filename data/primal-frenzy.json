@@ -1,0 +1,13 @@
+{
+  "title": "Primal Frenzy",
+  "image": "./img/primal-frenzy.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has trample.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "262",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "2.016",
+  "votes": "31"
+}

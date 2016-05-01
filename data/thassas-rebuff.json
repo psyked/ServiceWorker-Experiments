@@ -1,0 +1,13 @@
+{
+  "title": "Thassa's Rebuff",
+  "image": "./img/thassas-rebuff.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Counter target spell unless its controller pays , where X is your devotion to blue. (Each  in the mana costs of permanents you control counts toward your devotion to blue.)",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "54",
+  "artist": "Lucas Graciano",
+  "rating": "3.667",
+  "votes": "30"
+}

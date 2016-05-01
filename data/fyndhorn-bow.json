@@ -1,0 +1,13 @@
+{
+  "title": "Fyndhorn Bow",
+  "image": "./img/fyndhorn-bow.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", : Target creature gains first strike until end of turn.",
+  "expansion": "Ice Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Rob Alexander",
+  "rating": "1.750",
+  "votes": "38"
+}

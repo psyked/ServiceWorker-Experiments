@@ -1,0 +1,13 @@
+{
+  "title": "Ground Rift",
+  "image": "./img/ground-rift.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Target creature without flying can't block this turn.Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "162",
+  "artist": "Thomas M. Baxa",
+  "rating": "2.391",
+  "votes": "32"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Feldon of the Third Path",
+  "image": "./img/feldon-ofthethirdpath.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Creature  — Human Artificer",
+  "text": ", : Put a token onto the battlefield that's a copy of target creature card in your graveyard, except it's an artifact in addition to its other types. It gains haste. Sacrifice it at the beginning of the next end step.",
+  "expansion": "Commander 2014",
+  "rarity": "Mythic Rare",
+  "cardNumber": "35",
+  "artist": "Chase Stone",
+  "rating": "5",
+  "votes": "0"
+}

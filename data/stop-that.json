@@ -1,0 +1,13 @@
+{
+  "title": "Stop That",
+  "image": "./img/stop-that.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target player discards a card.Gotcha Whenever an opponent audibly flicks the cards in his or her hand, you may say \"Gotcha\" If you do, return Stop That from your graveyard to your hand.",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "63",
+  "artist": "Anson Maddocks",
+  "rating": "4.136",
+  "votes": "22"
+}

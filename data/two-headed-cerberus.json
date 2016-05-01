@@ -1,0 +1,13 @@
+{
+  "title": "Two-Headed Cerberus",
+  "image": "./img/two-headed-cerberus.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Hound",
+  "text": "Double strike (This creature deals both first-strike and regular combat damage.)",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "146",
+  "artist": "Karl Kopinski",
+  "rating": "3.292",
+  "votes": "36"
+}

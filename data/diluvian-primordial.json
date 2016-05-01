@@ -1,0 +1,13 @@
+{
+  "title": "Diluvian Primordial",
+  "image": "./img/diluvian-primordial.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Avatar",
+  "text": "FlyingWhen Diluvian Primordial enters the battlefield, for each opponent, you may cast up to one target instant or sorcery card from that player's graveyard without paying its mana cost. If a card cast this way would be put into a graveyard this turn, exile it instead.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "33",
+  "artist": "Stephan Martiniere",
+  "rating": "3.069",
+  "votes": "72"
+}

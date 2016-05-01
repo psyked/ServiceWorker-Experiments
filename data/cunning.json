@@ -1,0 +1,13 @@
+{
+  "title": "Cunning",
+  "image": "./img/cunning.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +3/+3.When enchanted creature attacks or blocks, sacrifice Cunning at the beginning of the next cleanup step.",
+  "expansion": "Exodus",
+  "rarity": "Common",
+  "cardNumber": "28",
+  "artist": "Kev Walker",
+  "rating": "2.095",
+  "votes": "37"
+}

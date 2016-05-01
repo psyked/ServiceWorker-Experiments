@@ -1,0 +1,13 @@
+{
+  "title": "Vulshok Battlegear",
+  "image": "./img/vulshok-battlegear.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +3/+3.Equip  (: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",
+  "expansion": "Duel Decks: Venser vs. Koth",
+  "rarity": "Uncommon",
+  "cardNumber": "68",
+  "artist": "Kevin Dobler",
+  "rating": "3.857",
+  "votes": "14"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Siren Song Lyre",
+  "image": "./img/siren-songlyre.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature has \", : Tap target creature.\"Equip",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "161",
+  "artist": "James Paick",
+  "rating": "2.571",
+  "votes": "28"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Foothill Guide",
+  "image": "./img/foothill-guide.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": "Protection from GoblinsMorph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "29",
+  "artist": "Eric Peterson",
+  "rating": "3.015",
+  "votes": "33"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Borborygmos",
+  "image": "./img/borborygmos.jpg",
+  "convertedManaCost": "7",
+  "types": "Legendary Creature  — Cyclops",
+  "text": "TrampleWhenever Borborygmos deals combat damage to a player, put a +1/+1 counter on each creature you control.",
+  "expansion": "Guildpact",
+  "rarity": "Rare",
+  "cardNumber": "103",
+  "artist": "Todd Lockwood",
+  "rating": "4.021",
+  "votes": "95"
+}

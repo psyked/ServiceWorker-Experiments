@@ -1,0 +1,13 @@
+{
+  "title": "Shaman of Forgotten Ways",
+  "image": "./img/shaman-offorgottenways.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Shaman",
+  "text": ": Add two mana in any combination of colors to your mana pool. Spend this mana only to cast creature spells.Formidable — , : Each player's life total becomes the number of creatures he or she controls. Activate this ability only if creatures you control have total power 8 or greater.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Mythic Rare",
+  "cardNumber": "204",
+  "artist": "Tyler Jacobson",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Gluetius Maximus",
+  "image": "./img/gluetius-maximus.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature — Beast",
+  "text": "As Gluetius Maximus comes into play, an opponent chooses one of your fingers. (Thumbs are fingers, too.)When the chosen finger isn't touching Gluetius Maximus, sacrifice Gluetius Maximus.",
+  "expansion": "Unhinged",
+  "rarity": "Uncommon",
+  "cardNumber": "98",
+  "artist": "Jeff Easley",
+  "rating": "1.325",
+  "votes": "20"
+}

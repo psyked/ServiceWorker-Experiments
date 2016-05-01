@@ -1,0 +1,13 @@
+{
+  "title": "Soaring Hope",
+  "image": "./img/soaring-hope.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Soaring Hope enters the battlefield, you gain 3 life.Enchanted creature has flying.: Put Soaring Hope on top of its owner's library.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "40",
+  "artist": "Martina Pilcerova",
+  "rating": "1.475",
+  "votes": "61"
+}

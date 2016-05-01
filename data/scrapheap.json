@@ -1,0 +1,13 @@
+{
+  "title": "Scrapheap",
+  "image": "./img/scrapheap.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Whenever an artifact or enchantment is put into your graveyard from the battlefield, you gain 1 life.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Rare",
+  "cardNumber": "132",
+  "artist": "Bradley Williams",
+  "rating": "2.864",
+  "votes": "33"
+}

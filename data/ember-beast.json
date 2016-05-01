@@ -1,0 +1,13 @@
+{
+  "title": "Ember Beast",
+  "image": "./img/ember-beast.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Beast",
+  "text": "Ember Beast can't attack or block alone.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "89",
+  "artist": "David Rapoza",
+  "rating": "3.100",
+  "votes": "45"
+}

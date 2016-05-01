@@ -1,0 +1,13 @@
+{
+  "title": "Attunement",
+  "image": "./img/attunement.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Return Attunement to its owner's hand: Draw three cards, then discard four cards.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "61",
+  "artist": "Randy Gallegos",
+  "rating": "3.657",
+  "votes": "35"
+}

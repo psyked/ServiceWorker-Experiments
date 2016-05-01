@@ -1,0 +1,13 @@
+{
+  "title": "Galvanoth",
+  "image": "./img/galvanoth.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast",
+  "text": "At the beginning of your upkeep, you may look at the top card of your library. If it's an instant or sorcery card, you may cast it without paying its mana cost.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Rare",
+  "cardNumber": "10",
+  "artist": "Kev Walker",
+  "rating": "3.156",
+  "votes": "32"
+}

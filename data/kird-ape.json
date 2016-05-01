@@ -1,0 +1,13 @@
+{
+  "title": "Kird Ape",
+  "image": "./img/kird-ape.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Ape",
+  "text": "Kird Ape gets +1/+2 as long as you control a Forest.",
+  "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+  "rarity": "Uncommon",
+  "cardNumber": "2",
+  "artist": "Terese Nielsen",
+  "rating": "4.484",
+  "votes": "64"
+}

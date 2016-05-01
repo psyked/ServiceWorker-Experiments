@@ -1,0 +1,13 @@
+{
+  "title": "Static Orb",
+  "image": "./img/static-orb.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "As long as Static Orb is untapped, players can't untap more than two permanents during their untap steps.",
+  "expansion": "Seventh Edition",
+  "rarity": "Rare",
+  "cardNumber": "319",
+  "artist": "Terese Nielsen",
+  "rating": "4.138",
+  "votes": "29"
+}

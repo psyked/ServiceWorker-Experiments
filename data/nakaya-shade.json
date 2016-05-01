@@ -1,0 +1,13 @@
+{
+  "title": "Nakaya Shade",
+  "image": "./img/nakaya-shade.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Shade",
+  "text": ": Nakaya Shade gets +1/+1 until end of turn unless any player pays .",
+  "expansion": "Prophecy",
+  "rarity": "Uncommon",
+  "cardNumber": "69",
+  "artist": "Ray Lago",
+  "rating": "3.605",
+  "votes": "38"
+}

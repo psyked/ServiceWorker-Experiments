@@ -1,0 +1,13 @@
+{
+  "title": "Scourge of Kher Ridges",
+  "image": "./img/scourge-ofkherridges.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Dragon",
+  "text": "Flying: Scourge of Kher Ridges deals 2 damage to each creature without flying.: Scourge of Kher Ridges deals 6 damage to each other creature with flying.",
+  "expansion": "Future Sight",
+  "rarity": "Rare",
+  "cardNumber": "107",
+  "artist": "Daren Bader",
+  "rating": "4.190",
+  "votes": "87"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Blood Cultist",
+  "image": "./img/blood-cultist.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": ": Blood Cultist deals 1 damage to target creature.Whenever a creature dealt damage by Blood Cultist this turn dies, put a +1/+1 counter on Blood Cultist.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "157",
+  "artist": "Karl Kopinski",
+  "rating": "2.984",
+  "votes": "91"
+}

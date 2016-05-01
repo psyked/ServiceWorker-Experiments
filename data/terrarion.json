@@ -1,0 +1,13 @@
+{
+  "title": "Terrarion",
+  "image": "./img/terrarion.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": "Terrarion enters the battlefield tapped., , Sacrifice Terrarion: Add two mana in any combination of colors to your mana pool.When Terrarion is put into a graveyard from the battlefield, draw a card.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "273",
+  "artist": "Luca Zontini",
+  "rating": "3.318",
+  "votes": "44"
+}

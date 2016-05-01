@@ -1,0 +1,13 @@
+{
+  "title": "Wooden Sphere",
+  "image": "./img/wooden-sphere.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": "Whenever a player casts a green spell, you may pay . If you do, you gain 1 life.",
+  "expansion": "Eighth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "321",
+  "artist": "Donato Giancola",
+  "rating": "1.255",
+  "votes": "51"
+}

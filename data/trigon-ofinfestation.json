@@ -1,0 +1,13 @@
+{
+  "title": "Trigon of Infestation",
+  "image": "./img/trigon-ofinfestation.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "Trigon of Infestation enters the battlefield with three charge counters on it., : Put a charge counter on Trigon of Infestation., , Remove a charge counter from Trigon of Infestation: Put a 1/1 green Insect creature token with infect onto the battlefield.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "214",
+  "artist": "Dave Allsop",
+  "rating": "3.000",
+  "votes": "54"
+}

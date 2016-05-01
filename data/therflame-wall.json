@@ -1,0 +1,13 @@
+{
+  "title": "Ætherflame Wall",
+  "image": "./img/therflame-wall.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Wall",
+  "text": "DefenderÆtherflame Wall can block creatures with shadow as though they didn't have shadow.: Ætherflame Wall gets +1/+0 until end of turn.",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "142",
+  "artist": "Justin Sweet",
+  "rating": "3.358",
+  "votes": "53"
+}

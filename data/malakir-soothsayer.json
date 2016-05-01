@@ -1,0 +1,13 @@
+{
+  "title": "Malakir Soothsayer",
+  "image": "./img/malakir-soothsayer.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Vampire Shaman Ally",
+  "text": "Cohort — , Tap an untapped Ally you control: You draw a card and you lose 1 life.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "87",
+  "artist": "Greg Opalinski",
+  "rating": "5",
+  "votes": "0"
+}

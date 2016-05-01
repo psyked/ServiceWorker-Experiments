@@ -1,0 +1,13 @@
+{
+  "title": "Brothers Yamazaki",
+  "image": "./img/brothers-yamazaki.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Creature  — Human Samurai",
+  "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)If there are exactly two permanents named Brothers Yamazaki on the battlefield, the \"legend rule\" doesn't apply to them.Each other creature named Brothers Yamazaki gets +2/+2 and has haste.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "160",
+  "artist": "Ron Spears",
+  "rating": "3.750",
+  "votes": "42"
+}

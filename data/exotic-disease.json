@@ -1,0 +1,13 @@
+{
+  "title": "Exotic Disease",
+  "image": "./img/exotic-disease.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Domain — Target player loses X life and you gain X life, where X is the number of basic land types among lands you control.",
+  "expansion": "Planeshift",
+  "rarity": "Uncommon",
+  "cardNumber": "43",
+  "artist": "Kev Walker",
+  "rating": "2.171",
+  "votes": "35"
+}

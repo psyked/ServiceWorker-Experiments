@@ -1,0 +1,13 @@
+{
+  "title": "Rhys the Exiled",
+  "image": "./img/rhys-theexiled.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Creature  — Elf Warrior",
+  "text": "Whenever Rhys the Exiled attacks, you gain 1 life for each Elf you control., Sacrifice an Elf: Regenerate Rhys the Exiled.",
+  "expansion": "Morningtide",
+  "rarity": "Rare",
+  "cardNumber": "135",
+  "artist": "Steve Prescott",
+  "rating": "3.588",
+  "votes": "51"
+}

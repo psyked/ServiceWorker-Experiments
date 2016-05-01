@@ -1,0 +1,13 @@
+{
+  "title": "Temple of Enlightenment",
+  "image": "./img/temple-ofenlightenment.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "Temple of Enlightenment enters the battlefield tapped.When Temple of Enlightenment enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.): Add  or  to your mana pool.",
+  "expansion": "Born of the Gods",
+  "rarity": "Rare",
+  "cardNumber": "163",
+  "artist": "Svetlin Velinov",
+  "rating": "3.811",
+  "votes": "37"
+}

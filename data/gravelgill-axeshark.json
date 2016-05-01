@@ -1,0 +1,13 @@
+{
+  "title": "Gravelgill Axeshark",
+  "image": "./img/gravelgill-axeshark.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Merfolk Soldier",
+  "text": "Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "164",
+  "artist": "Dave Kendall",
+  "rating": "2.579",
+  "votes": "38"
+}

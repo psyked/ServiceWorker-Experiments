@@ -1,0 +1,13 @@
+{
+  "title": "Agent of the Fates",
+  "image": "./img/agent-ofthefates.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Assassin",
+  "text": "DeathtouchHeroic — Whenever you cast a spell that targets Agent of the Fates, each opponent sacrifices a creature.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "76",
+  "artist": "Matt Stewart",
+  "rating": "3.581",
+  "votes": "118"
+}

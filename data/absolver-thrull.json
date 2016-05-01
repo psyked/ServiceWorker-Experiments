@@ -1,0 +1,13 @@
+{
+  "title": "Absolver Thrull",
+  "image": "./img/absolver-thrull.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Thrull Cleric",
+  "text": "Haunt (When this creature dies, exile it haunting target creature.)When Absolver Thrull enters the battlefield or the creature it haunts dies, destroy target enchantment.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "1",
+  "artist": "Rob Alexander",
+  "rating": "2.963",
+  "votes": "54"
+}

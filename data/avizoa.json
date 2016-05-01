@@ -1,0 +1,13 @@
+{
+  "title": "Avizoa",
+  "image": "./img/avizoa.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Jellyfish",
+  "text": "Flying: Avizoa gets +2/+2 until end of turn. You skip your next untap step. Activate this ability only once each turn.",
+  "expansion": "Weatherlight",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Paolo Parente",
+  "rating": "2.011",
+  "votes": "45"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Surging Dementia",
+  "image": "./img/surging-dementia.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Ripple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)Target player discards a card.",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "72",
+  "artist": "Hideaki Takamura",
+  "rating": "1.811",
+  "votes": "37"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Swan Song",
+  "image": "./img/swan-song.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Counter target enchantment, instant, or sorcery spell. Its controller puts a 2/2 blue Bird creature token with flying onto the battlefield.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "65",
+  "artist": "Peter Mohrbacher",
+  "rating": "4.079",
+  "votes": "95"
+}

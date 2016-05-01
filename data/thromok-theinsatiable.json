@@ -1,0 +1,13 @@
+{
+  "title": "Thromok the Insatiable",
+  "image": "./img/thromok-theinsatiable.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Hellion",
+  "text": "Devour X, where X is the number of creatures devoured this way (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with X +1/+1 counters on it for each of those creatures.)",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Mythic Rare",
+  "cardNumber": "106",
+  "artist": "Terese Nielsen",
+  "rating": "4.076",
+  "votes": "92"
+}

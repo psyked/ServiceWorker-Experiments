@@ -1,0 +1,13 @@
+{
+  "title": "Pendrell Flux",
+  "image": "./img/pendrell-flux.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has \"At the beginning of your upkeep, sacrifice this creature unless you pay its mana cost.\"",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "87",
+  "artist": "Andrew Robinson",
+  "rating": "4.122",
+  "votes": "37"
+}

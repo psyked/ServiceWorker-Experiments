@@ -1,0 +1,13 @@
+{
+  "title": "Eightfold Maze",
+  "image": "./img/eightfold-maze.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Cast Eightfold Maze only during the declare attackers step and only if you've been attacked this step.Destroy target attacking creature.",
+  "expansion": "Masters Edition III",
+  "rarity": "Uncommon",
+  "cardNumber": "9",
+  "artist": "Shang Huitong",
+  "rating": "2.976",
+  "votes": "21"
+}

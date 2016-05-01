@@ -1,0 +1,13 @@
+{
+  "title": "Spiny Starfish",
+  "image": "./img/spiny-starfish.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Starfish",
+  "text": ": Regenerate Spiny Starfish.At the beginning of each end step, if Spiny Starfish regenerated this turn, put a 0/1 blue Starfish creature token onto the battlefield for each time it regenerated this turn.",
+  "expansion": "Masters Edition III",
+  "rarity": "Uncommon",
+  "cardNumber": "50",
+  "artist": "Alan Rabinowitz",
+  "rating": "4.290",
+  "votes": "50"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Shriekgeist",
+  "image": "./img/shriekgeist.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": "FlyingWhenever Shriekgeist deals combat damage to a player, that player puts the top two cards of his or her library into his or her graveyard.",
+  "expansion": "Dark Ascension",
+  "rarity": "Common",
+  "cardNumber": "49",
+  "artist": "Raymond Swanland",
+  "rating": "3.213",
+  "votes": "47"
+}

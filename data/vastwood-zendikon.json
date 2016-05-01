@@ -1,0 +1,13 @@
+{
+  "title": "Vastwood Zendikon",
+  "image": "./img/vastwood-zendikon.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landEnchanted land is a 6/4 green Elemental creature. It's still a land.When enchanted land dies, return that card to its owner's hand.",
+  "expansion": "Worldwake",
+  "rarity": "Common",
+  "cardNumber": "117",
+  "artist": "Rob Alexander",
+  "rating": "2.574",
+  "votes": "54"
+}

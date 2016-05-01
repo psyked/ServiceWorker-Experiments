@@ -1,0 +1,13 @@
+{
+  "title": "Crookclaw Transmuter",
+  "image": "./img/crookclaw-transmuter.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Bird Wizard",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)FlyingWhen Crookclaw Transmuter enters the battlefield, switch target creature's power and toughness until end of turn.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "94",
+  "artist": "Ron Spencer",
+  "rating": "3.833",
+  "votes": "6"
+}

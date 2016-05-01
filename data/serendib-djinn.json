@@ -1,0 +1,13 @@
+{
+  "title": "Serendib Djinn",
+  "image": "./img/serendib-djinn.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Djinn",
+  "text": "FlyingAt the beginning of your upkeep, sacrifice a land. If you sacrifice an Island this way, Serendib Djinn deals 3 damage to you.When you control no lands, sacrifice Serendib Djinn.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "61",
+  "artist": "Anson Maddocks",
+  "rating": "3.318",
+  "votes": "22"
+}

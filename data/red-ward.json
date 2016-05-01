@@ -1,0 +1,13 @@
+{
+  "title": "Red Ward",
+  "image": "./img/red-ward.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has protection from red. This effect doesn't remove Red Ward.",
+  "expansion": "Fourth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Dan Frazier",
+  "rating": "2.458",
+  "votes": "36"
+}

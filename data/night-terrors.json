@@ -1,0 +1,13 @@
+{
+  "title": "Night Terrors",
+  "image": "./img/night-terrors.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target player reveals his or her hand. You choose a nonland card from it. Exile that card.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "Christopher Moeller",
+  "rating": "2.954",
+  "votes": "54"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Molten Primordial",
+  "image": "./img/molten-primordial.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Avatar",
+  "text": "HasteWhen Molten Primordial enters the battlefield, for each opponent, gain control of up to one target creature that player controls until end of turn. Untap those creatures. They gain haste until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "101",
+  "artist": "Stephan Martiniere",
+  "rating": "3.222",
+  "votes": "54"
+}

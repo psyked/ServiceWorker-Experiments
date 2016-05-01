@@ -1,0 +1,13 @@
+{
+  "title": "Blockbuster",
+  "image": "./img/blockbuster.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": ", Sacrifice Blockbuster: Blockbuster deals 3 damage to each tapped creature and each player.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "115",
+  "artist": "Dave Dorman",
+  "rating": "1.761",
+  "votes": "44"
+}

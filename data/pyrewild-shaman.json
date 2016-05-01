@@ -1,0 +1,13 @@
+{
+  "title": "Pyrewild Shaman",
+  "image": "./img/pyrewild-shaman.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Shaman",
+  "text": "Bloodrush — , Discard Pyrewild Shaman: Target attacking creature gets +3/+1 until end of turn.Whenever one or more creatures you control deal combat damage to a player, if Pyrewild Shaman is in your graveyard, you may pay . If you do, return Pyrewild Shaman to your hand.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Rare",
+  "cardNumber": "36",
+  "artist": "Lucas Graciano",
+  "rating": "3.718",
+  "votes": "62"
+}

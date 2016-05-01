@@ -1,0 +1,13 @@
+{
+  "title": "Task Force",
+  "image": "./img/task-force.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Rebel",
+  "text": "Whenever Task Force becomes the target of a spell or ability, it gets +0/+3 until end of turn.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "52",
+  "artist": "Gary Ruddell",
+  "rating": "3.426",
+  "votes": "27"
+}

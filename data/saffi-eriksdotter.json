@@ -1,0 +1,13 @@
+{
+  "title": "Saffi Eriksdotter",
+  "image": "./img/saffi-eriksdotter.jpg",
+  "convertedManaCost": "2",
+  "types": "Legendary Creature  — Human Scout",
+  "text": "Sacrifice Saffi Eriksdotter: When target creature is put into your graveyard from the battlefield this turn, return that card to the battlefield.",
+  "expansion": "Time Spiral",
+  "rarity": "Rare",
+  "cardNumber": "245",
+  "artist": "Christopher Moeller",
+  "rating": "4.051",
+  "votes": "69"
+}

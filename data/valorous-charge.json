@@ -1,0 +1,13 @@
+{
+  "title": "Valorous Charge",
+  "image": "./img/valorous-charge.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "White creatures get +2/+0 until end of turn.",
+  "expansion": "Portal",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Douglas Shuler",
+  "rating": "1.705",
+  "votes": "22"
+}

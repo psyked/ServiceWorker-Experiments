@@ -1,0 +1,13 @@
+{
+  "title": "Pack Rat",
+  "image": "./img/pack-rat.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Rat",
+  "text": "Pack Rat's power and toughness are each equal to the number of Rats you control., Discard a card: Put a token onto the battlefield that's a copy of Pack Rat.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Rare",
+  "cardNumber": "73",
+  "artist": "Kev Walker",
+  "rating": "4.020",
+  "votes": "100"
+}

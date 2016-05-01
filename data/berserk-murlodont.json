@@ -1,0 +1,13 @@
+{
+  "title": "Berserk Murlodont",
+  "image": "./img/berserk-murlodont.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast",
+  "text": "Whenever a Beast becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.",
+  "expansion": "Legions",
+  "rarity": "Common",
+  "cardNumber": "117",
+  "artist": "Arnie Swekel",
+  "rating": "2.625",
+  "votes": "20"
+}

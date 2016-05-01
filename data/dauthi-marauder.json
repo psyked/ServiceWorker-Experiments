@@ -1,0 +1,13 @@
+{
+  "title": "Dauthi Marauder",
+  "image": "./img/dauthi-marauder.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Dauthi Minion",
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "96",
+  "artist": "Andrew Robinson",
+  "rating": "5",
+  "votes": "0"
+}

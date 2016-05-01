@@ -1,0 +1,13 @@
+{
+  "title": "Glyph of Delusion",
+  "image": "./img/glyph-ofdelusion.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Put X glyph counters on target creature that target Wall blocked this turn, where X is the power of that blocked creature. The creature gains \"This creature doesn't untap during your untap step if it has a glyph counter on it\" and \"At the beginning of your upkeep, remove a glyph counter from this creature.\"",
+  "expansion": "Legends",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Susan Van Camp",
+  "rating": "2.317",
+  "votes": "30"
+}

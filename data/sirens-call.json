@@ -1,0 +1,13 @@
+{
+  "title": "Siren's Call",
+  "image": "./img/sirens-call.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Cast Siren's Call only during an opponent's turn, before attackers are declared.Creatures the active player controls attack this turn if able.At the beginning of the next end step, destroy all non-Wall creatures that player controls that didn't attack this turn. Ignore this effect for each creature the player didn't control continuously since the beginning of the turn.",
+  "expansion": "Fourth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Anson Maddocks",
+  "rating": "4.071",
+  "votes": "56"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ob Nixilis, Unshackled",
+  "image": "./img/ob-nixilisunshackled.jpg",
+  "convertedManaCost": "6",
+  "types": "Legendary Creature  — Demon",
+  "text": "Flying, trampleWhenever an opponent searches his or her library, that player sacrifices a creature and loses 10 life.Whenever another creature dies, put a +1/+1 counter on Ob Nixilis, Unshackled.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "110",
+  "artist": "Karl Kopinski",
+  "rating": "3.600",
+  "votes": "15"
+}

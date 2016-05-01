@@ -1,0 +1,13 @@
+{
+  "title": "Champion Lancer",
+  "image": "./img/champion-lancer.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Human Knight",
+  "text": "Prevent all damage that would be dealt to Champion Lancer by creatures.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "8",
+  "artist": "Chippy",
+  "rating": "2.870",
+  "votes": "23"
+}

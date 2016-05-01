@@ -1,0 +1,13 @@
+{
+  "title": "Harsh Mercy",
+  "image": "./img/harsh-mercy.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Each player chooses a creature type. Destroy all creatures that aren't of a type chosen this way. They can't be regenerated.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "39",
+  "artist": "John Matson",
+  "rating": "3.759",
+  "votes": "29"
+}

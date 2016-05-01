@@ -1,0 +1,13 @@
+{
+  "title": "Truefire Paladin",
+  "image": "./img/truefire-paladin.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Knight",
+  "text": "Vigilance: Truefire Paladin gets +2/+0 until end of turn.: Truefire Paladin gains first strike until end of turn.",
+  "expansion": "Duel Decks: Heroes vs. Monsters",
+  "rarity": "Uncommon",
+  "cardNumber": "8",
+  "artist": "Michael C. Hayes",
+  "rating": "3.917",
+  "votes": "18"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Glistener Elf",
+  "image": "./img/glistener-elf.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Warrior",
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "Steve Argyle",
+  "rating": "3.784",
+  "votes": "176"
+}

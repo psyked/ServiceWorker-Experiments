@@ -1,0 +1,13 @@
+{
+  "title": "Kithkin Zephyrnaut",
+  "image": "./img/kithkin-zephyrnaut.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kithkin Soldier",
+  "text": "Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Kithkin Zephyrnaut, you may reveal it. If you do, Kithkin Zephyrnaut gets +2/+2 and gains flying and vigilance until end of turn.",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "16",
+  "artist": "Quinton Hoover & Val Mayerik",
+  "rating": "2.875",
+  "votes": "28"
+}

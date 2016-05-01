@@ -1,0 +1,13 @@
+{
+  "title": "Ulvenwald Tracker",
+  "image": "./img/ulvenwald-tracker.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Shaman",
+  "text": ", : Target creature you control fights another target creature. (Each deals damage equal to its power to the other.)",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "200",
+  "artist": "Christopher Moeller",
+  "rating": "3.959",
+  "votes": "97"
+}

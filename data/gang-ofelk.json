@@ -1,0 +1,13 @@
+{
+  "title": "Gang of Elk",
+  "image": "./img/gang-ofelk.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elk Beast",
+  "text": "Whenever Gang of Elk becomes blocked, it gets +2/+2 until end of turn for each creature blocking it.",
+  "expansion": "Seventh Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "247",
+  "artist": "Thomas Gianni",
+  "rating": "3.581",
+  "votes": "31"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Diffusion",
+  "image": "./img/wall-ofdiffusion.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)Wall of Diffusion can block creatures with shadow as though Wall of Diffusion had shadow.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "164",
+  "artist": "DiTerlizzi",
+  "rating": "5",
+  "votes": "0"
+}

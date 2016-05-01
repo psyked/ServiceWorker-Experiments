@@ -1,0 +1,13 @@
+{
+  "title": "Arbor Colossus",
+  "image": "./img/arbor-colossus.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Giant",
+  "text": "Reach: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)When Arbor Colossus becomes monstrous, destroy target creature with flying an opponent controls.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "174",
+  "artist": "Jaime Jones",
+  "rating": "5",
+  "votes": "0"
+}

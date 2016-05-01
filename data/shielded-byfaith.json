@@ -1,0 +1,13 @@
+{
+  "title": "Shielded by Faith",
+  "image": "./img/shielded-byfaith.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has indestructible.Whenever a creature enters the battlefield, you may attach Shielded by Faith to that creature.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "8",
+  "artist": "David Palumbo",
+  "rating": "5",
+  "votes": "0"
+}

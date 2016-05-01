@@ -1,0 +1,13 @@
+{
+  "title": "Copper Carapace",
+  "image": "./img/copper-carapace.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +2/+2 and can't block.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "205",
+  "artist": "Franz Vohwinkel",
+  "rating": "5",
+  "votes": "0"
+}

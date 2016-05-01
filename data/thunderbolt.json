@@ -1,0 +1,13 @@
+{
+  "title": "Thunderbolt",
+  "image": "./img/thunderbolt.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Choose one —• Thunderbolt deals 3 damage to target player.• Thunderbolt deals 4 damage to target creature with flying.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "159",
+  "artist": "Anthony Francisco",
+  "rating": "3.915",
+  "votes": "53"
+}

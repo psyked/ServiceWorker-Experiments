@@ -1,0 +1,13 @@
+{
+  "title": "Shard of Broken Glass",
+  "image": "./img/shard-ofbrokenglass.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +1/+0.Whenever equipped creature attacks, you may put the top two cards of your library into your graveyard.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "262",
+  "artist": "Franz Vohwinkel",
+  "rating": "5",
+  "votes": "0"
+}

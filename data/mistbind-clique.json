@@ -1,0 +1,13 @@
+{
+  "title": "Mistbind Clique",
+  "image": "./img/mistbind-clique.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Faerie Wizard",
+  "text": "FlashFlyingChampion a Faerie (When this enters the battlefield, sacrifice it unless you exile another Faerie you control. When this leaves the battlefield, that card returns to the battlefield.)When a Faerie is championed with Mistbind Clique, tap all lands target player controls.",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "75",
+  "artist": "Ben Thompson",
+  "rating": "4.039",
+  "votes": "103"
+}

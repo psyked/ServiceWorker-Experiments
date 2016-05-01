@@ -1,0 +1,13 @@
+{
+  "title": "Traveler's Cloak",
+  "image": "./img/travelers-cloak.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAs Traveler's Cloak enters the battlefield, choose a land type.When Traveler's Cloak enters the battlefield, draw a card.Enchanted creature has landwalk of the chosen type. (It can't be blocked as long as defending player controls a land of that type.)",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "109",
+  "artist": "Rebecca Guay",
+  "rating": "3.800",
+  "votes": "5"
+}

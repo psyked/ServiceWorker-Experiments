@@ -1,0 +1,13 @@
+{
+  "title": "Faerie Trickery",
+  "image": "./img/faerie-trickery.jpg",
+  "convertedManaCost": "3",
+  "types": "Tribal Instant  — Faerie",
+  "text": "Counter target non-Faerie spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "62",
+  "artist": "Terese Nielsen",
+  "rating": "3.842",
+  "votes": "57"
+}

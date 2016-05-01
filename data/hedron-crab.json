@@ -1,0 +1,13 @@
+{
+  "title": "Hedron Crab",
+  "image": "./img/hedron-crab.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Crab",
+  "text": "Landfall — Whenever a land enters the battlefield under your control, target player puts the top three cards of his or her library into his or her graveyard.",
+  "expansion": "Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "47",
+  "artist": "Jesper Ejsing",
+  "rating": "4.220",
+  "votes": "286"
+}

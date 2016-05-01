@@ -1,0 +1,13 @@
+{
+  "title": "Hyalopterous Lemure",
+  "image": "./img/hyalopterous-lemure.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit",
+  "text": ": Hyalopterous Lemure gets -1/-0 and gains flying until end of turn.",
+  "expansion": "Masters Edition",
+  "rarity": "Common",
+  "cardNumber": "72",
+  "artist": "Richard Thomas",
+  "rating": "3.423",
+  "votes": "52"
+}

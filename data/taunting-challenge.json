@@ -1,0 +1,13 @@
+{
+  "title": "Taunting Challenge",
+  "image": "./img/taunting-challenge.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "All creatures able to block target creature this turn do so.",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Rare",
+  "cardNumber": "152",
+  "artist": "Gao Yan",
+  "rating": "3.059",
+  "votes": "17"
+}

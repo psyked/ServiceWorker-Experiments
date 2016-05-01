@@ -1,0 +1,13 @@
+{
+  "title": "Kitsune Dawnblade",
+  "image": "./img/kitsune-dawnblade.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Fox Samurai",
+  "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)When Kitsune Dawnblade enters the battlefield, you may tap target creature.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "16",
+  "artist": "Carl Critchlow",
+  "rating": "1.743",
+  "votes": "37"
+}

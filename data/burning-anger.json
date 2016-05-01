@@ -1,0 +1,13 @@
+{
+  "title": "Burning Anger",
+  "image": "./img/burning-anger.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has \": This creature deals damage equal to its power to target creature or player.\"",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "133",
+  "artist": "Anthony Palumbo",
+  "rating": "3.357",
+  "votes": "7"
+}

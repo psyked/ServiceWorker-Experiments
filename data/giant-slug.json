@@ -1,0 +1,13 @@
+{
+  "title": "Giant Slug",
+  "image": "./img/giant-slug.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Slug",
+  "text": ": At the beginning of your next upkeep, choose a basic land type. Giant Slug gains landwalk of the chosen type until the end of that turn. (It can't be blocked as long as defending player controls a land of that type.)",
+  "expansion": "Chronicles",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Anson Maddocks",
+  "rating": "1.294",
+  "votes": "97"
+}

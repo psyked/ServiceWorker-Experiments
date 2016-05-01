@@ -1,0 +1,13 @@
+{
+  "title": "Cloud Pirates",
+  "image": "./img/cloud-pirates.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Pirate",
+  "text": "FlyingCloud Pirates can block only creatures with flying.",
+  "expansion": "Portal",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Phil Foglio",
+  "rating": "2.961",
+  "votes": "38"
+}

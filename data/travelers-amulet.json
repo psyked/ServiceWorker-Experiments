@@ -1,0 +1,13 @@
+{
+  "title": "Traveler's Amulet",
+  "image": "./img/travelers-amulet.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ", Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "221",
+  "artist": "Franz Vohwinkel",
+  "rating": "3.109",
+  "votes": "32"
+}

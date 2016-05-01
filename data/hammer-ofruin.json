@@ -1,0 +1,13 @@
+{
+  "title": "Hammer of Ruin",
+  "image": "./img/hammer-ofruin.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +2/+0.Whenever equipped creature deals combat damage to a player, you may destroy target Equipment that player controls.Equip",
+  "expansion": "Worldwake",
+  "rarity": "Uncommon",
+  "cardNumber": "124",
+  "artist": "Vincent Proce",
+  "rating": "2.582",
+  "votes": "55"
+}

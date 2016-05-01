@@ -1,0 +1,13 @@
+{
+  "title": "Boa Constrictor",
+  "image": "./img/boa-constrictor.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Snake",
+  "text": ": Boa Constrictor gets +3/+3 until end of turn.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "231",
+  "artist": "Carl Critchlow",
+  "rating": "2.647",
+  "votes": "34"
+}

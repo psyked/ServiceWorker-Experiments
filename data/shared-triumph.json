@@ -1,0 +1,13 @@
+{
+  "title": "Shared Triumph",
+  "image": "./img/shared-triumph.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "As Shared Triumph enters the battlefield, choose a creature type.Creatures of the chosen type get +1/+1.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "53",
+  "artist": "Mark Brill",
+  "rating": "4.280",
+  "votes": "50"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Pilgrim of Virtue",
+  "image": "./img/pilgrim-ofvirtue.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": "Protection from black, Sacrifice Pilgrim of Virtue: The next time a black source of your choice would deal damage this turn, prevent that damage.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "41",
+  "artist": "Massimilano Frezzato",
+  "rating": "2.327",
+  "votes": "26"
+}

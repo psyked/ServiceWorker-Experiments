@@ -1,0 +1,13 @@
+{
+  "title": "Rending Vines",
+  "image": "./img/rending-vines.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant  — Arcane",
+  "text": "Destroy target artifact or enchantment if its converted mana cost is less than or equal to the number of cards in your hand.Draw a card.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "143",
+  "artist": "Dan Frazier",
+  "rating": "2.303",
+  "votes": "38"
+}

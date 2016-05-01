@@ -1,0 +1,13 @@
+{
+  "title": "Bloodthorn Taunter",
+  "image": "./img/bloodthorn-taunter.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Scout",
+  "text": "Haste: Target creature with power 5 or greater gains haste until end of turn.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "94",
+  "artist": "Jesper Ejsing",
+  "rating": "2.777",
+  "votes": "65"
+}

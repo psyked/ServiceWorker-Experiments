@@ -1,0 +1,13 @@
+{
+  "title": "No Quarter",
+  "image": "./img/no-quarter.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever a creature becomes blocked by a creature with lesser power, destroy the blocking creature.Whenever a creature blocks a creature with lesser power, destroy the attacking creature.",
+  "expansion": "Tempest",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Doug Chaffee",
+  "rating": "3.300",
+  "votes": "30"
+}

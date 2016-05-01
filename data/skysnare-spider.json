@@ -1,0 +1,13 @@
+{
+  "title": "Skysnare Spider",
+  "image": "./img/skysnare-spider.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Spider",
+  "text": "Vigilance (Attacking doesn't cause this creature to tap.)Reach (This creature can block creatures with flying.)",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "197",
+  "artist": "Filip Burburan",
+  "rating": "5",
+  "votes": "0"
+}

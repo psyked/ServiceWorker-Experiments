@@ -1,0 +1,13 @@
+{
+  "title": "Shuko",
+  "image": "./img/shuko.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +1/+0.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "159",
+  "artist": "Tim Hildebrandt",
+  "rating": "4.169",
+  "votes": "62"
+}

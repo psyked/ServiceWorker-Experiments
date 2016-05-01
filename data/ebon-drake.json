@@ -1,0 +1,13 @@
+{
+  "title": "Ebon Drake",
+  "image": "./img/ebon-drake.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Drake",
+  "text": "FlyingWhenever a player casts a spell, you lose 1 life.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "48",
+  "artist": "Pete Venters",
+  "rating": "1.913",
+  "votes": "52"
+}

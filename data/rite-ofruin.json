@@ -1,0 +1,13 @@
+{
+  "title": "Rite of Ruin",
+  "image": "./img/rite-ofruin.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "Choose an order for artifacts, creatures, and lands. Each player sacrifices one permanent of the first type, sacrifices two of the second type, then sacrifices three of the third type.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "153",
+  "artist": "Clint Cearley",
+  "rating": "2.969",
+  "votes": "32"
+}

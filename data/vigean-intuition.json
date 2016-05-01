@@ -1,0 +1,13 @@
+{
+  "title": "Vigean Intuition",
+  "image": "./img/vigean-intuition.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Choose a card type, then reveal the top four cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest into your graveyard. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)",
+  "expansion": "Dissension",
+  "rarity": "Uncommon",
+  "cardNumber": "136",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "2.000",
+  "votes": "43"
+}

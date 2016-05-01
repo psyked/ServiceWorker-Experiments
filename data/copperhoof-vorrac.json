@@ -1,0 +1,13 @@
+{
+  "title": "Copperhoof Vorrac",
+  "image": "./img/copperhoof-vorrac.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Boar Beast",
+  "text": "Copperhoof Vorrac gets +1/+1 for each untapped permanent your opponents control.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "116",
+  "artist": "Matt Cavotta",
+  "rating": "3.080",
+  "votes": "44"
+}

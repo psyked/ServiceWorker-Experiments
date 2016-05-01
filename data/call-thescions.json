@@ -1,0 +1,13 @@
+{
+  "title": "Call the Scions",
+  "image": "./img/call-thescions.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Devoid (This card has no color.)Put two 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have \"Sacrifice this creature: Add  to your mana pool.\"",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "165",
+  "artist": "Winona Nelson",
+  "rating": "5",
+  "votes": "0"
+}

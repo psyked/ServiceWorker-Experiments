@@ -1,0 +1,13 @@
+{
+  "title": "Shadowblood Egg",
+  "image": "./img/shadowblood-egg.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ", , Sacrifice Shadowblood Egg: Add  to your mana pool. Draw a card.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "308",
+  "artist": "David Martin",
+  "rating": "2.442",
+  "votes": "26"
+}

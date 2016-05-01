@@ -1,0 +1,13 @@
+{
+  "title": "Warren-Scourge Elf",
+  "image": "./img/warren-scourge-elf.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Warrior",
+  "text": "Protection from Goblins",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "241",
+  "artist": "Christopher Moeller",
+  "rating": "1.947",
+  "votes": "38"
+}

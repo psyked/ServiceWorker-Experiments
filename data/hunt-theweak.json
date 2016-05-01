@@ -1,0 +1,13 @@
+{
+  "title": "Hunt the Weak",
+  "image": "./img/hunt-theweak.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. (Each deals damage equal to its power to the other.)",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "133",
+  "artist": "Lars Grant-West",
+  "rating": "5",
+  "votes": "0"
+}

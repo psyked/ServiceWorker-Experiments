@@ -1,0 +1,13 @@
+{
+  "title": "Reckless Charge",
+  "image": "./img/reckless-charge.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Target creature gets +3/+0 and gains haste until end of turn.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "181",
+  "artist": "Scott M. Fischer",
+  "rating": "5",
+  "votes": "0"
+}

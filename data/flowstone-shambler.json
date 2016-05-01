@@ -1,0 +1,13 @@
+{
+  "title": "Flowstone Shambler",
+  "image": "./img/flowstone-shambler.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Beast",
+  "text": ": Flowstone Shambler gets +1/-1 until end of turn.",
+  "expansion": "Ninth Edition",
+  "rarity": "Common",
+  "cardNumber": "185",
+  "artist": "Jim Nelson",
+  "rating": "2.281",
+  "votes": "32"
+}

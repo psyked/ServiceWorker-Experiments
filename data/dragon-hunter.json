@@ -1,0 +1,13 @@
+{
+  "title": "Dragon Hunter",
+  "image": "./img/dragon-hunter.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Warrior",
+  "text": "Protection from DragonsDragon Hunter can block Dragons as though it had reach.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "10",
+  "artist": "Johannes Voss",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Twinflame",
+  "image": "./img/twinflame.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Strive — Twinflame costs  more to cast for each target beyond the first.Choose any number of target creatures you control. For each of them, put a token that's a copy of that creature onto the battlefield. Those tokens have haste. Exile them at the beginning of the next end step.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Rare",
+  "cardNumber": "115",
+  "artist": "Chase Stone",
+  "rating": "3.233",
+  "votes": "30"
+}

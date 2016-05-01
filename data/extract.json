@@ -1,0 +1,13 @@
+{
+  "title": "Extract",
+  "image": "./img/extract.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Search target player's library for a card and exile it. Then that player shuffles his or her library.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "85",
+  "artist": "Matt Cavotta",
+  "rating": "4.326",
+  "votes": "69"
+}

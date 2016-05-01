@@ -1,0 +1,13 @@
+{
+  "title": "Cenn's Heir",
+  "image": "./img/cenns-heir.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kithkin Soldier",
+  "text": "Whenever Cenn's Heir attacks, it gets +1/+1 until end of turn for each other attacking Kithkin.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "8",
+  "artist": "Steven Belledin",
+  "rating": "3.373",
+  "votes": "51"
+}

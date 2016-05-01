@@ -1,0 +1,13 @@
+{
+  "title": "Cabal Archon",
+  "image": "./img/cabal-archon.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": ", Sacrifice a Cleric: Target player loses 2 life and you gain 2 life.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "129",
+  "artist": "Pete Venters",
+  "rating": "3.744",
+  "votes": "43"
+}

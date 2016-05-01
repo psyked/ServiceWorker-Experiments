@@ -1,0 +1,13 @@
+{
+  "title": "Twin Bolt",
+  "image": "./img/twin-bolt.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Twin Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "164",
+  "artist": "Svetlin Velinov",
+  "rating": "5",
+  "votes": "0"
+}

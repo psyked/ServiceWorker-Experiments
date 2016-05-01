@@ -1,0 +1,13 @@
+{
+  "title": "Ash Zealot",
+  "image": "./img/ash-zealot.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Warrior",
+  "text": "First strike, hasteWhenever a player casts a spell from a graveyard, Ash Zealot deals 3 damage to that player.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Rare",
+  "cardNumber": "86",
+  "artist": "Eric Deschamps",
+  "rating": "4.053",
+  "votes": "187"
+}

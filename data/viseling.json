@@ -1,0 +1,13 @@
+{
+  "title": "Viseling",
+  "image": "./img/viseling.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Construct",
+  "text": "At the beginning of each opponent's upkeep, Viseling deals X damage to that player, where X is the number of cards in his or her hand minus 4.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "269",
+  "artist": "Kev Walker",
+  "rating": "3.654",
+  "votes": "13"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Fertile Ground",
+  "image": "./img/fertile-ground.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landWhenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Common",
+  "cardNumber": "52",
+  "artist": "Carl Critchlow",
+  "rating": "4.274",
+  "votes": "42"
+}

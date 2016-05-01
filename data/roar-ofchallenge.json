@@ -1,0 +1,13 @@
+{
+  "title": "Roar of Challenge",
+  "image": "./img/roar-ofchallenge.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "All creatures able to block target creature this turn do so.Ferocious — That creature gains indestructible until end of turn if you control a creature with power 4 or greater.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "145",
+  "artist": "Viktor Titov",
+  "rating": "2.833",
+  "votes": "3"
+}

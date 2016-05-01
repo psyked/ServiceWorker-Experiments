@@ -1,0 +1,13 @@
+{
+  "title": "Golgari Guildmage",
+  "image": "./img/golgari-guildmage.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Shaman",
+  "text": ", Sacrifice a creature: Return target creature card from your graveyard to your hand.: Put a +1/+1 counter on target creature.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "229",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "3.500",
+  "votes": "13"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Wild Evocation",
+  "image": "./img/wild-evocation.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "At the beginning of each player's upkeep, that player reveals a card at random from his or her hand. If it's a land card, the player puts it onto the battlefield. Otherwise, the player casts it without paying its mana cost if able.",
+  "expansion": "Magic 2011",
+  "rarity": "Rare",
+  "cardNumber": "160",
+  "artist": "Chippy",
+  "rating": "3.826",
+  "votes": "66"
+}

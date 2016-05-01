@@ -1,0 +1,13 @@
+{
+  "title": "Blessing of Leeches",
+  "image": "./img/blessing-ofleeches.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "FlashEnchant creatureAt the beginning of your upkeep, you lose 1 life.: Regenerate enchanted creature.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "62",
+  "artist": "Rebecca Guay",
+  "rating": "3.191",
+  "votes": "47"
+}

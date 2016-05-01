@@ -1,0 +1,13 @@
+{
+  "title": "Yew Spirit",
+  "image": "./img/yew-spirit.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit Treefolk",
+  "text": ": Yew Spirit gets +X/+X until end of turn, where X is its power.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Uncommon",
+  "cardNumber": "207",
+  "artist": "Dan Scott",
+  "rating": "2.934",
+  "votes": "38"
+}

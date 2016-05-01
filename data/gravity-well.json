@@ -1,0 +1,13 @@
+{
+  "title": "Gravity Well",
+  "image": "./img/gravity-well.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a creature with flying attacks, it loses flying until end of turn.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "185",
+  "artist": "Rob Alexander",
+  "rating": "3.844",
+  "votes": "64"
+}

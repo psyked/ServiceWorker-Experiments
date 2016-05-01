@@ -1,0 +1,13 @@
+{
+  "title": "Murasa Pyromancer",
+  "image": "./img/murasa-pyromancer.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Human Shaman Ally",
+  "text": "Whenever Murasa Pyromancer or another Ally enters the battlefield under your control, you may have Murasa Pyromancer deal damage to target creature equal to the number of Allies you control.",
+  "expansion": "Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "139",
+  "artist": "Kekai Kotaki",
+  "rating": "3.000",
+  "votes": "56"
+}

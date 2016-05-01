@@ -1,0 +1,13 @@
+{
+  "title": "Kindled Fury",
+  "image": "./img/kindled-fury.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets +1/+0 and gains first strike until end of turn.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "142",
+  "artist": "Dan Scott",
+  "rating": "5",
+  "votes": "0"
+}

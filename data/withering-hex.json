@@ -1,0 +1,13 @@
+{
+  "title": "Withering Hex",
+  "image": "./img/withering-hex.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever a player cycles a card, put a plague counter on Withering Hex.Enchanted creature gets -1/-1 for each plague counter on Withering Hex.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "181",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "1.591",
+  "votes": "22"
+}

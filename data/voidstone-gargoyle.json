@@ -1,0 +1,13 @@
+{
+  "title": "Voidstone Gargoyle",
+  "image": "./img/voidstone-gargoyle.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Gargoyle",
+  "text": "FlyingAs Voidstone Gargoyle enters the battlefield, name a nonland card.The named card can't be cast.Activated abilities of sources with the chosen name can't be activated.",
+  "expansion": "Planar Chaos",
+  "rarity": "Rare",
+  "cardNumber": "21",
+  "artist": "Terese Nielsen",
+  "rating": "3.802",
+  "votes": "48"
+}

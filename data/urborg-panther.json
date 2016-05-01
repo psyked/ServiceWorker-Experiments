@@ -1,0 +1,13 @@
+{
+  "title": "Urborg Panther",
+  "image": "./img/urborg-panther.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Nightstalker Cat",
+  "text": ", Sacrifice Urborg Panther: Destroy target creature blocking Urborg Panther.Sacrifice a creature named Feral Shadow, a creature named Breathstealer, and Urborg Panther: Search your library for a card named Spirit of the Night and put that card onto the battlefield. Then shuffle your library.",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Cliff Nielsen",
+  "rating": "3.375",
+  "votes": "32"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dimir Cluestone",
+  "image": "./img/dimir-cluestone.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  or  to your mana pool., , Sacrifice Dimir Cluestone: Draw a card.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Common",
+  "cardNumber": "138",
+  "artist": "Raoul Vitale",
+  "rating": "2.650",
+  "votes": "30"
+}

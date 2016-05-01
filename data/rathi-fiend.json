@@ -1,0 +1,13 @@
+{
+  "title": "Rathi Fiend",
+  "image": "./img/rathi-fiend.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Horror Mercenary",
+  "text": "When Rathi Fiend enters the battlefield, each player loses 3 life., : Search your library for a Mercenary permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "68",
+  "artist": "Mark Tedin",
+  "rating": "3.348",
+  "votes": "23"
+}

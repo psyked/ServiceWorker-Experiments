@@ -1,0 +1,13 @@
+{
+  "title": "Silkenfist Fighter",
+  "image": "./img/silkenfist-fighter.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kor Soldier",
+  "text": "Whenever Silkenfist Fighter becomes blocked, untap it.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "19",
+  "artist": "Mark Brill",
+  "rating": "3.104",
+  "votes": "24"
+}

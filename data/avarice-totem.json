@@ -1,0 +1,13 @@
+{
+  "title": "Avarice Totem",
+  "image": "./img/avarice-totem.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ": Exchange control of Avarice Totem and target nonland permanent.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "104",
+  "artist": "Ben Thompson",
+  "rating": "3.667",
+  "votes": "36"
+}

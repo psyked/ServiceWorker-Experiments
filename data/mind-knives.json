@@ -1,0 +1,13 @@
+{
+  "title": "Mind Knives",
+  "image": "./img/mind-knives.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target opponent discards a card at random.",
+  "expansion": "Portal",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Rebecca Guay",
+  "rating": "2.744",
+  "votes": "39"
+}

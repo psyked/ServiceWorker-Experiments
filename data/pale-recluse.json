@@ -1,0 +1,13 @@
+{
+  "title": "Pale Recluse",
+  "image": "./img/pale-recluse.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Spider",
+  "text": "Reach (This creature can block creatures with flying.)Forestcycling , plainscycling  (, Discard this card: Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "expansion": "Archenemy",
+  "rarity": "Common",
+  "cardNumber": "91",
+  "artist": "Cyril Van Der Haegen",
+  "rating": "3.042",
+  "votes": "36"
+}

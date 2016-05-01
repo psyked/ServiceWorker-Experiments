@@ -1,0 +1,13 @@
+{
+  "title": "Wing Puncture",
+  "image": "./img/wing-puncture.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature you control deals damage equal to its power to target creature with flying.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "133",
+  "artist": "jD",
+  "rating": "2.325",
+  "votes": "57"
+}

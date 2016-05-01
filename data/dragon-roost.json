@@ -1,0 +1,13 @@
+{
+  "title": "Dragon Roost",
+  "image": "./img/dragon-roost.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": ": Put a 5/5 red Dragon creature token with flying onto the battlefield. (It can't be blocked except by creatures with flying or reach.)",
+  "expansion": "Tenth Edition",
+  "rarity": "Rare",
+  "cardNumber": "197",
+  "artist": "Jim Pavelec",
+  "rating": "3.927",
+  "votes": "62"
+}

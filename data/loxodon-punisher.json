@@ -1,0 +1,13 @@
+{
+  "title": "Loxodon Punisher",
+  "image": "./img/loxodon-punisher.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elephant Soldier",
+  "text": "Loxodon Punisher gets +2/+2 for each Equipment attached to it.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "14",
+  "artist": "Terese Nielsen",
+  "rating": "3.092",
+  "votes": "38"
+}

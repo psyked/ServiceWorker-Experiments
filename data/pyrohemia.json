@@ -1,0 +1,13 @@
+{
+  "title": "Pyrohemia",
+  "image": "./img/pyrohemia.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pyrohemia.: Pyrohemia deals 1 damage to each creature and each player.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Uncommon",
+  "cardNumber": "132",
+  "artist": "Stephen Tappin",
+  "rating": "3.944",
+  "votes": "54"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mana Vapors",
+  "image": "./img/mana-vapors.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Lands target player controls don't untap during his or her next untap step.",
+  "expansion": "Prophecy",
+  "rarity": "Uncommon",
+  "cardNumber": "38",
+  "artist": "Mark Romanoski",
+  "rating": "3.938",
+  "votes": "48"
+}

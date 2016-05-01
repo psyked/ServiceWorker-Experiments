@@ -1,0 +1,13 @@
+{
+  "title": "Thieves' Fortune",
+  "image": "./img/thieves-fortune.jpg",
+  "convertedManaCost": "3",
+  "types": "Tribal Instant  — Rogue",
+  "text": "Prowl  (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",
+  "expansion": "Morningtide",
+  "rarity": "Uncommon",
+  "cardNumber": "54",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "3.016",
+  "votes": "31"
+}

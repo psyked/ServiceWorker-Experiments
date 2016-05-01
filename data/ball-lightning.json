@@ -1,0 +1,13 @@
+{
+  "title": "Ball Lightning",
+  "image": "./img/ball-lightning.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental",
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)Haste (This creature can attack and  as soon as it comes under your control.)At the beginning of the end step, sacrifice Ball Lightning.",
+  "expansion": "Premium Deck Series: Fire and Lightning",
+  "rarity": "Rare",
+  "cardNumber": "12",
+  "artist": "Trevor Claxton",
+  "rating": "4.140",
+  "votes": "100"
+}

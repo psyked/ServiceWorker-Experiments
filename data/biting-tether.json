@@ -1,0 +1,13 @@
+{
+  "title": "Biting Tether",
+  "image": "./img/biting-tether.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureYou control enchanted creature.At the beginning of your upkeep, put a -1/-1 counter on enchanted creature.",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "29",
+  "artist": "Thomas Denmark",
+  "rating": "2.520",
+  "votes": "49"
+}

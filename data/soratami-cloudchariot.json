@@ -1,0 +1,13 @@
+{
+  "title": "Soratami Cloud Chariot",
+  "image": "./img/soratami-cloudchariot.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": ": Target creature you control gains flying until end of turn.: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "160",
+  "artist": "Franz Vohwinkel",
+  "rating": "2.887",
+  "votes": "31"
+}

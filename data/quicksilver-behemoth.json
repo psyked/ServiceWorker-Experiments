@@ -1,0 +1,13 @@
+{
+  "title": "Quicksilver Behemoth",
+  "image": "./img/quicksilver-behemoth.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Beast",
+  "text": "Affinity for artifacts (This spell costs  less to cast for each artifact you control.)When Quicksilver Behemoth attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "30",
+  "artist": "Anthony S. Waters",
+  "rating": "2.288",
+  "votes": "33"
+}

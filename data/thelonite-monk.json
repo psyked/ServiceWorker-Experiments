@@ -1,0 +1,13 @@
+{
+  "title": "Thelonite Monk",
+  "image": "./img/thelonite-monk.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Insect Monk Cleric",
+  "text": ", Sacrifice a green creature: Target land becomes a Forest. (This effect lasts indefinitely.)",
+  "expansion": "Fallen Empires",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Bryon Wackwitz",
+  "rating": "2.893",
+  "votes": "42"
+}

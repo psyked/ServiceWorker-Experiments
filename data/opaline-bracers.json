@@ -1,0 +1,13 @@
+{
+  "title": "Opaline Bracers",
+  "image": "./img/opaline-bracers.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact  — Equipment",
+  "text": "Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)Equipped creature gets +X/+X, where X is the number of charge counters on Opaline Bracers.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "141",
+  "artist": "Anthony S. Waters",
+  "rating": "3.040",
+  "votes": "25"
+}

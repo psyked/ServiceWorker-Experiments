@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Firebug",
+  "image": "./img/goblin-firebug.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin",
+  "text": "When Goblin Firebug leaves the battlefield, sacrifice a land.",
+  "expansion": "Legions",
+  "rarity": "Common",
+  "cardNumber": "98",
+  "artist": "Christopher Moeller",
+  "rating": "0.926",
+  "votes": "68"
+}

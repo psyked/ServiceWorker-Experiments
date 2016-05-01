@@ -1,0 +1,13 @@
+{
+  "title": "Boldwyr Intimidator",
+  "image": "./img/boldwyr-intimidator.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Giant Warrior",
+  "text": "Cowards can't block Warriors.: Target creature becomes a Coward until end of turn.: Target creature becomes a Warrior until end of turn.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Uncommon",
+  "cardNumber": "137",
+  "artist": "Esad Ribic",
+  "rating": "3.500",
+  "votes": "7"
+}

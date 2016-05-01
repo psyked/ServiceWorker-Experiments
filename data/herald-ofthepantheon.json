@@ -1,0 +1,13 @@
+{
+  "title": "Herald of the Pantheon",
+  "image": "./img/herald-ofthepantheon.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Centaur Shaman",
+  "text": "Enchantment spells you cast cost  less to cast.Whenever you cast an enchantment spell, you gain 1 life.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "180",
+  "artist": "Jason A. Engle",
+  "rating": "5",
+  "votes": "0"
+}

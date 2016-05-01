@@ -1,0 +1,13 @@
+{
+  "title": "Silkwing Scout",
+  "image": "./img/silkwing-scout.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Faerie Scout",
+  "text": "Flying, Sacrifice Silkwing Scout: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "31",
+  "artist": "Rebecca Guay",
+  "rating": "2.574",
+  "votes": "34"
+}

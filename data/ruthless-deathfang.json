@@ -1,0 +1,13 @@
+{
+  "title": "Ruthless Deathfang",
+  "image": "./img/ruthless-deathfang.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhenever you sacrifice a creature, target opponent sacrifices a creature.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "229",
+  "artist": "Filip Burburan",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Delver",
+  "image": "./img/phyrexian-delver.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie",
+  "text": "When Phyrexian Delver enters the battlefield, return target creature card from your graveyard to the battlefield. You lose life equal to that card's converted mana cost.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "86",
+  "artist": "Igor Kieryluk",
+  "rating": "4.237",
+  "votes": "19"
+}

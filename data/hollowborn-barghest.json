@@ -1,0 +1,13 @@
+{
+  "title": "Hollowborn Barghest",
+  "image": "./img/hollowborn-barghest.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Demon Hound",
+  "text": "At the beginning of your upkeep, if you have no cards in hand, each opponent loses 2 life.At the beginning of each opponent's upkeep, if that player has no cards in hand, he or she loses 2 life.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "68",
+  "artist": "Eric Fortune",
+  "rating": "3.713",
+  "votes": "54"
+}

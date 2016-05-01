@@ -1,0 +1,13 @@
+{
+  "title": "Servant of Tymaret",
+  "image": "./img/servant-oftymaret.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": "Inspired — Whenever Servant of Tymaret becomes untapped, each opponent loses 1 life. You gain life equal to the life lost this way.: Regenerate Servant of Tymaret.",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "82",
+  "artist": "Karl Kopinski",
+  "rating": "3.833",
+  "votes": "30"
+}

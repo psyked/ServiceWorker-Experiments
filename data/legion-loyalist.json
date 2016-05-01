@@ -1,0 +1,13 @@
+{
+  "title": "Legion Loyalist",
+  "image": "./img/legion-loyalist.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Soldier",
+  "text": "HasteBattalion — Whenever Legion Loyalist and at least two other creatures attack, creatures you control gain first strike and trample until end of turn and can't be blocked by creature tokens this turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "97",
+  "artist": "Eric Deschamps",
+  "rating": "4.054",
+  "votes": "149"
+}

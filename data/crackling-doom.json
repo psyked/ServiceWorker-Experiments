@@ -1,0 +1,13 @@
+{
+  "title": "Crackling Doom",
+  "image": "./img/crackling-doom.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Crackling Doom deals 2 damage to each opponent. Each opponent sacrifices a creature with the greatest power among creatures he or she controls.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "171",
+  "artist": "Yohann Schepacz",
+  "rating": "4.400",
+  "votes": "5"
+}

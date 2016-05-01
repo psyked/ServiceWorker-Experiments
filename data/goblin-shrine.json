@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Shrine",
+  "image": "./img/goblin-shrine.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landAs long as enchanted land is a basic Mountain, Goblin creatures get +1/+0.When Goblin Shrine leaves the battlefield, it deals 1 damage to each Goblin creature.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "122",
+  "artist": "Ron Spencer",
+  "rating": "2.783",
+  "votes": "30"
+}

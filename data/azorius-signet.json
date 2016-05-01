@@ -1,0 +1,13 @@
+{
+  "title": "Azorius Signet",
+  "image": "./img/azorius-signet.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", : Add  to your mana pool.",
+  "expansion": "Archenemy",
+  "rarity": "Common",
+  "cardNumber": "103",
+  "artist": "Greg Hildebrandt",
+  "rating": "3.625",
+  "votes": "36"
+}

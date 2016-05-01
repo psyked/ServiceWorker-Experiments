@@ -1,0 +1,13 @@
+{
+  "title": "Selesnya Cluestone",
+  "image": "./img/selesnya-cluestone.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  or  to your mana pool., , Sacrifice Selesnya Cluestone: Draw a card.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Common",
+  "cardNumber": "144",
+  "artist": "Raoul Vitale",
+  "rating": "2.727",
+  "votes": "33"
+}

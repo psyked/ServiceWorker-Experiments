@@ -1,0 +1,13 @@
+{
+  "title": "Dwarven Shrine",
+  "image": "./img/dwarven-shrine.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a player casts a spell, Dwarven Shrine deals X damage to that player, where X is twice the number of cards in all graveyards with the same name as that spell.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "187",
+  "artist": "Matt Cavotta",
+  "rating": "1.841",
+  "votes": "22"
+}

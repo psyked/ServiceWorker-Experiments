@@ -1,0 +1,13 @@
+{
+  "title": "Propaganda",
+  "image": "./img/propaganda.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Creatures can't attack you unless their controller pays  for each creature he or she controls that's attacking you.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "53",
+  "artist": "Clint Cearley",
+  "rating": "4.367",
+  "votes": "30"
+}

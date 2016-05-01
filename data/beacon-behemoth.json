@@ -1,0 +1,13 @@
+{
+  "title": "Beacon Behemoth",
+  "image": "./img/beacon-behemoth.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast",
+  "text": ": Target creature with power 5 or greater gains vigilance until end of turn.",
+  "expansion": "Conflux",
+  "rarity": "Common",
+  "cardNumber": "78",
+  "artist": "Jesper Ejsing",
+  "rating": "2.787",
+  "votes": "54"
+}

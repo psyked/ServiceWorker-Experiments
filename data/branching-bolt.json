@@ -1,0 +1,13 @@
+{
+  "title": "Branching Bolt",
+  "image": "./img/branching-bolt.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose one or both —• Branching Bolt deals 3 damage to target creature with flying.• Branching Bolt deals 3 damage to target creature without flying.",
+  "expansion": "Archenemy",
+  "rarity": "Common",
+  "cardNumber": "82",
+  "artist": "Vance Kovacs",
+  "rating": "3.018",
+  "votes": "55"
+}

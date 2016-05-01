@@ -1,0 +1,13 @@
+{
+  "title": "Stasis",
+  "image": "./img/stasis.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Players skip their untap steps.At the beginning of your upkeep, sacrifice Stasis unless you pay .",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "64",
+  "artist": "Fay Jones",
+  "rating": "4.546",
+  "votes": "87"
+}

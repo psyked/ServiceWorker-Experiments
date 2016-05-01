@@ -1,0 +1,13 @@
+{
+  "title": "Synthetic Destiny",
+  "image": "./img/synthetic-destiny.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "Exile all creatures you control. At the beginning of the next end step, reveal cards from the top of your library until you reveal that many creature cards, put all creature cards revealed this way onto the battlefield, then shuffle the rest of the revealed cards into your library.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "15",
+  "artist": "Dave Kendall",
+  "rating": "5",
+  "votes": "0"
+}

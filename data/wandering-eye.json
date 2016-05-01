@@ -1,0 +1,13 @@
+{
+  "title": "Wandering Eye",
+  "image": "./img/wandering-eye.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Illusion",
+  "text": "FlyingPlayers play with their hands revealed.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "50",
+  "artist": "Sam Wood",
+  "rating": "3.204",
+  "votes": "27"
+}

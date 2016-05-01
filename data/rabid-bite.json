@@ -1,0 +1,13 @@
+{
+  "title": "Rabid Bite",
+  "image": "./img/rabid-bite.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target creature you control deals damage equal to its power to target creature you don't control.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "223",
+  "artist": "Karl Kopinski",
+  "rating": "5",
+  "votes": "0"
+}

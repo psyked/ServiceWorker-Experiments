@@ -1,0 +1,13 @@
+{
+  "title": "Dwarven Sea Clan",
+  "image": "./img/dwarven-seaclan.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Dwarf",
+  "text": ": Choose target attacking or blocking creature whose controller controls an Island. Dwarven Sea Clan deals 2 damage to that creature at end of combat. Activate this ability only before the end of combat step.",
+  "expansion": "Homelands",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Amy Weber",
+  "rating": "1.343",
+  "votes": "51"
+}

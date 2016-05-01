@@ -1,0 +1,13 @@
+{
+  "title": "Ballynock Cohort",
+  "image": "./img/ballynock-cohort.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kithkin Soldier",
+  "text": "First strikeBallynock Cohort gets +1/+1 as long as you control another white creature.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "3",
+  "artist": "Jesper Ejsing",
+  "rating": "3.430",
+  "votes": "57"
+}

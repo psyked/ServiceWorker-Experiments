@@ -1,0 +1,13 @@
+{
+  "title": "Hurly-Burly",
+  "image": "./img/hurly-burly.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Choose one —• Hurly-Burly deals 1 damage to each creature without flying.• Hurly-Burly deals 1 damage to each creature with flying.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "177",
+  "artist": "Steve Prescott",
+  "rating": "3.402",
+  "votes": "51"
+}

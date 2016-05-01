@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Offensive",
+  "image": "./img/goblin-offensive.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Put X 1/1 red Goblin creature tokens onto the battlefield.",
+  "expansion": "Planechase",
+  "rarity": "Uncommon",
+  "cardNumber": "56",
+  "artist": "Carl Critchlow",
+  "rating": "3.062",
+  "votes": "48"
+}

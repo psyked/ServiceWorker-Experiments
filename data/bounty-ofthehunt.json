@@ -1,0 +1,13 @@
+{
+  "title": "Bounty of the Hunt",
+  "image": "./img/bounty-ofthehunt.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "You may exile a green card from your hand rather than pay Bounty of the Hunt's mana cost.Distribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a +1/+1 counter from that creature at the beginning of the next cleanup step.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "154",
+  "artist": "Jeff A. Menges",
+  "rating": "3.031",
+  "votes": "32"
+}

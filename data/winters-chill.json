@@ -1,0 +1,13 @@
+{
+  "title": "Winter's Chill",
+  "image": "./img/winters-chill.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Cast Winter's Chill only during combat before blockers are declared.X can't be greater than the number of snow lands you control.Choose X target attacking creatures. For each of those creatures, its controller may pay  or . If that player doesn't, destroy that creature at end of combat. If that player pays only , prevent all combat damage that would be dealt to and dealt by that creature this combat.",
+  "expansion": "Ice Age",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Edward Beard, Jr.",
+  "rating": "3.342",
+  "votes": "38"
+}

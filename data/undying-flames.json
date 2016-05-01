@@ -1,0 +1,13 @@
+{
+  "title": "Undying Flames",
+  "image": "./img/undying-flames.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Exile cards from the top of your library until you exile a nonland card. Undying Flames deals damage to target creature or player equal to that card's converted mana cost.Epic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "119",
+  "artist": "Tsutomu Kawade",
+  "rating": "3.420",
+  "votes": "44"
+}

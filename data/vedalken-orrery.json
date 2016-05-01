@@ -1,0 +1,13 @@
+{
+  "title": "Vedalken Orrery",
+  "image": "./img/vedalken-orrery.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "You may cast nonland cards as though they had flash.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Rare",
+  "cardNumber": "206",
+  "artist": "John Avon",
+  "rating": "4.250",
+  "votes": "8"
+}

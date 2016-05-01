@@ -1,0 +1,13 @@
+{
+  "title": "Disintegrate",
+  "image": "./img/disintegrate.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Disintegrate deals X damage to target creature or player. That creature can't be regenerated this turn. If the creature would die this turn, exile it instead.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "58",
+  "artist": "Anson Maddocks",
+  "rating": "4.357",
+  "votes": "77"
+}

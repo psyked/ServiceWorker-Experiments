@@ -1,0 +1,13 @@
+{
+  "title": "Engineered Plague",
+  "image": "./img/engineered-plague.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "As Engineered Plague enters the battlefield, choose a creature type.All creatures of the chosen type get -1/-1.",
+  "expansion": "Seventh Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "133",
+  "artist": "Andrew Goldhawk",
+  "rating": "4.350",
+  "votes": "40"
+}

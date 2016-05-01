@@ -1,0 +1,13 @@
+{
+  "title": "Phalanx Formation",
+  "image": "./img/phalanx-formation.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Strive — Phalanx Formation costs  more to cast for each target beyond the first.Any number of target creatures each gain double strike until end of turn. (They deal both first-strike and regular combat damage.)",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "21",
+  "artist": "Dan Scott",
+  "rating": "3.312",
+  "votes": "24"
+}

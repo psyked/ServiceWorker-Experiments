@@ -1,0 +1,13 @@
+{
+  "title": "Wavecrash Triton",
+  "image": "./img/wavecrash-triton.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Merfolk Wizard",
+  "text": "Heroic — Whenever you cast a spell that targets Wavecrash Triton, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "74",
+  "artist": "Ryan Barger",
+  "rating": "3.462",
+  "votes": "26"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mortus Strider",
+  "image": "./img/mortus-strider.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Skeleton",
+  "text": "When Mortus Strider dies, return it to its owner's hand.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "179",
+  "artist": "Tomasz Jedruszek",
+  "rating": "3.104",
+  "votes": "67"
+}

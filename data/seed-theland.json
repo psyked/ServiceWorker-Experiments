@@ -1,0 +1,13 @@
+{
+  "title": "Seed the Land",
+  "image": "./img/seed-theland.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever a land enters the battlefield, its controller puts a 1/1 green Snake creature token onto the battlefield.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "146",
+  "artist": "Anthony S. Waters",
+  "rating": "2.541",
+  "votes": "37"
+}

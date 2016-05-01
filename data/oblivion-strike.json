@@ -1,0 +1,13 @@
+{
+  "title": "Oblivion Strike",
+  "image": "./img/oblivion-strike.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Devoid (This card has no color.)Exile target creature.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "75",
+  "artist": "Daniel Ljunggren",
+  "rating": "5",
+  "votes": "0"
+}

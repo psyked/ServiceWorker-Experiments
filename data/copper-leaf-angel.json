@@ -1,0 +1,13 @@
+{
+  "title": "Copper-Leaf Angel",
+  "image": "./img/copper-leaf-angel.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Angel",
+  "text": "Flying, Sacrifice X lands: Put X +1/+1 counters on Copper-Leaf Angel.",
+  "expansion": "Prophecy",
+  "rarity": "Rare",
+  "cardNumber": "137",
+  "artist": "Christopher Moeller",
+  "rating": "2.310",
+  "votes": "63"
+}

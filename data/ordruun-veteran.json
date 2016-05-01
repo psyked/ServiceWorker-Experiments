@@ -1,0 +1,13 @@
+{
+  "title": "Ordruun Veteran",
+  "image": "./img/ordruun-veteran.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Minotaur Soldier",
+  "text": "Battalion — Whenever Ordruun Veteran and at least two other creatures attack, Ordruun Veteran gains double strike until end of turn. (It deals both first-strike and regular combat damage.)",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "184",
+  "artist": "Greg Staples",
+  "rating": "2.814",
+  "votes": "43"
+}

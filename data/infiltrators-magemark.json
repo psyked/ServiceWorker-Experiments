@@ -1,0 +1,13 @@
+{
+  "title": "Infiltrator's Magemark",
+  "image": "./img/infiltrators-magemark.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureCreatures you control that are enchanted get +1/+1 and can't be blocked except by creatures with defender.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "28",
+  "artist": "Brandon Kitkouski",
+  "rating": "3.935",
+  "votes": "54"
+}

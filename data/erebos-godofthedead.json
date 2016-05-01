@@ -1,0 +1,13 @@
+{
+  "title": "Erebos, God of the Dead",
+  "image": "./img/erebos-godofthedead.jpg",
+  "convertedManaCost": "4",
+  "types": "Legendary Enchantment Creature  — God",
+  "text": "IndestructibleAs long as your devotion to black is less than five, Erebos isn't a creature. (Each  in the mana costs of permanents you control counts toward your devotion to black.)Your opponents can't gain life., Pay 2 life: Draw a card.",
+  "expansion": "Theros",
+  "rarity": "Mythic Rare",
+  "cardNumber": "85",
+  "artist": "Peter Mohrbacher",
+  "rating": "3.802",
+  "votes": "154"
+}

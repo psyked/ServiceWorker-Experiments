@@ -1,0 +1,13 @@
+{
+  "title": "Bladed Bracers",
+  "image": "./img/bladed-bracers.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +1/+1.As long as equipped creature is a Human or an Angel, it has vigilance.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "213",
+  "artist": "Ryan Yee",
+  "rating": "2.667",
+  "votes": "42"
+}

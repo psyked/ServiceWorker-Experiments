@@ -1,0 +1,13 @@
+{
+  "title": "Crimson Acolyte",
+  "image": "./img/crimson-acolyte.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": "Protection from red: Target creature gains protection from red until end of turn.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "11",
+  "artist": "Orizio Daniele",
+  "rating": "3.696",
+  "votes": "28"
+}

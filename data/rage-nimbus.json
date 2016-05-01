@@ -1,0 +1,13 @@
+{
+  "title": "Rage Nimbus",
+  "image": "./img/rage-nimbus.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental",
+  "text": "Defender, flying: Target creature attacks this turn if able.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Rare",
+  "cardNumber": "160",
+  "artist": "Vincent Proce",
+  "rating": "3.959",
+  "votes": "122"
+}

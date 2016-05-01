@@ -1,0 +1,13 @@
+{
+  "title": "Shattered Perception",
+  "image": "./img/shattered-perception.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Discard all the cards in your hand, then draw that many cards.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Dark Ascension",
+  "rarity": "Uncommon",
+  "cardNumber": "104",
+  "artist": "Terese Nielsen",
+  "rating": "3.013",
+  "votes": "39"
+}

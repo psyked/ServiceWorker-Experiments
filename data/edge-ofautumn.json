@@ -1,0 +1,13 @@
+{
+  "title": "Edge of Autumn",
+  "image": "./img/edge-ofautumn.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "If you control four or fewer lands, search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.Cycling—Sacrifice a land. (Sacrifice a land, Discard this card: Draw a card.)",
+  "expansion": "Duel Decks: Knights vs. Dragons",
+  "rarity": "Common",
+  "cardNumber": "25",
+  "artist": "Jean-Sébastien Rossbach",
+  "rating": "3.078",
+  "votes": "32"
+}

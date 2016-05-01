@@ -1,0 +1,13 @@
+{
+  "title": "Fickle Efreet",
+  "image": "./img/fickle-efreet.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Efreet",
+  "text": "Whenever Fickle Efreet attacks or blocks, flip a coin at end of combat. If you lose the flip, an opponent gains control of Fickle Efreet.",
+  "expansion": "Prophecy",
+  "rarity": "Rare",
+  "cardNumber": "89",
+  "artist": "Dave Dorman",
+  "rating": "2.113",
+  "votes": "31"
+}

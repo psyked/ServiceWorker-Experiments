@@ -1,0 +1,13 @@
+{
+  "title": "Vedalken Heretic",
+  "image": "./img/vedalken-heretic.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Vedalken Rogue",
+  "text": "Whenever Vedalken Heretic deals damage to an opponent, you may draw a card.",
+  "expansion": "Alara Reborn",
+  "rarity": "Rare",
+  "cardNumber": "104",
+  "artist": "Greg Staples",
+  "rating": "2.954",
+  "votes": "98"
+}

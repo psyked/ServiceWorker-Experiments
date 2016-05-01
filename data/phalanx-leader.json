@@ -1,0 +1,13 @@
+{
+  "title": "Phalanx Leader",
+  "image": "./img/phalanx-leader.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier",
+  "text": "Heroic — Whenever you cast a spell that targets Phalanx Leader, put a +1/+1 counter on each creature you control.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "26",
+  "artist": "David Palumbo",
+  "rating": "3.533",
+  "votes": "75"
+}

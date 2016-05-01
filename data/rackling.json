@@ -1,0 +1,13 @@
+{
+  "title": "Rackling",
+  "image": "./img/rackling.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Construct",
+  "text": "At the beginning of each opponent's upkeep, Rackling deals X damage to that player, where X is 3 minus the number of cards in his or her hand.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "136",
+  "artist": "D. Alexander Gregory",
+  "rating": "3.365",
+  "votes": "37"
+}

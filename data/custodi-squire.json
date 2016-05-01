@@ -1,0 +1,13 @@
+{
+  "title": "Custodi Squire",
+  "image": "./img/custodi-squire.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit Cleric",
+  "text": "FlyingWill of the council — When Custodi Squire enters the battlefield, starting with you, each player votes for an artifact, creature, or enchantment card in your graveyard. Return each card with the most votes or tied for most votes to your hand.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "18",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "3.786",
+  "votes": "7"
+}

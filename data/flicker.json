@@ -1,0 +1,13 @@
+{
+  "title": "Flicker",
+  "image": "./img/flicker.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Exile target nontoken permanent, then return it to the battlefield under its owner's control.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Rare",
+  "cardNumber": "9",
+  "artist": "Douglas Shuler",
+  "rating": "3.943",
+  "votes": "44"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Worm Harvest",
+  "image": "./img/worm-harvest.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Put a 1/1 black and green Worm creature token onto the battlefield for each land card in your graveyard.Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",
+  "expansion": "Modern Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "195",
+  "artist": "Chuck Lukacs",
+  "rating": "3.870",
+  "votes": "27"
+}

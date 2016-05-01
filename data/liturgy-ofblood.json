@@ -1,0 +1,13 @@
+{
+  "title": "Liturgy of Blood",
+  "image": "./img/liturgy-ofblood.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Destroy target creature. Add  to your mana pool.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "104",
+  "artist": "Zack Stella",
+  "rating": "2.770",
+  "votes": "50"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sealock Monster",
+  "image": "./img/sealock-monster.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Octopus",
+  "text": "Sealock Monster can't attack unless defending player controls an Island.: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)When Sealock Monster becomes monstrous, target land becomes an Island in addition to its other types.",
+  "expansion": "Duel Decks: Elspeth vs. Kiora",
+  "rarity": "Uncommon",
+  "cardNumber": "42",
+  "artist": "Adam Paquette",
+  "rating": "5",
+  "votes": "0"
+}

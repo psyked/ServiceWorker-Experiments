@@ -1,0 +1,13 @@
+{
+  "title": "Smash",
+  "image": "./img/smash.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Destroy target artifact.Draw a card.",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "235",
+  "artist": "Parente",
+  "rating": "3.854",
+  "votes": "41"
+}

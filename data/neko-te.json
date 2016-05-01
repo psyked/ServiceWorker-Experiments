@@ -1,0 +1,13 @@
+{
+  "title": "Neko-Te",
+  "image": "./img/neko-te.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": "Whenever equipped creature deals damage to a creature, tap that creature. That creature doesn't untap during its controller's untap step for as long as Neko-Te remains on the battlefield.Whenever equipped creature deals damage to a player, that player loses 1 life.Equip",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "155",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "3.850",
+  "votes": "40"
+}

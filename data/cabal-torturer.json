@@ -1,0 +1,13 @@
+{
+  "title": "Cabal Torturer",
+  "image": "./img/cabal-torturer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Minion",
+  "text": ", : Target creature gets -1/-1 until end of turn.Threshold — , : Target creature gets -2/-2 until end of turn. Activate this ability only if seven or more cards are in your graveyard.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "53",
+  "artist": "Pete Venters",
+  "rating": "2.015",
+  "votes": "33"
+}

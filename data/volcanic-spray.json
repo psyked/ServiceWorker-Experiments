@@ -1,0 +1,13 @@
+{
+  "title": "Volcanic Spray",
+  "image": "./img/volcanic-spray.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Volcanic Spray deals 1 damage to each creature without flying and each player.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "226",
+  "artist": "Matt Cavotta",
+  "rating": "3.531",
+  "votes": "16"
+}

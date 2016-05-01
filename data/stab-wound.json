@@ -1,0 +1,13 @@
+{
+  "title": "Stab Wound",
+  "image": "./img/stab-wound.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets -2/-2.At the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "116",
+  "artist": "Scott Chou",
+  "rating": "3.600",
+  "votes": "5"
+}

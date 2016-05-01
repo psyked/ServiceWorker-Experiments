@@ -1,0 +1,13 @@
+{
+  "title": "Dragonlair Spider",
+  "image": "./img/dragonlair-spider.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Spider",
+  "text": "ReachWhenever an opponent casts a spell, put a 1/1 green Insect creature token onto the battlefield.",
+  "expansion": "Commander's Arsenal",
+  "rarity": "Rare",
+  "cardNumber": "6",
+  "artist": "Carl Critchlow",
+  "rating": "3.812",
+  "votes": "24"
+}

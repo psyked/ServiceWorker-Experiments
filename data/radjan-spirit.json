@@ -1,0 +1,13 @@
+{
+  "title": "Radjan Spirit",
+  "image": "./img/radjan-spirit.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Spirit",
+  "text": ": Target creature loses flying until end of turn.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "162",
+  "artist": "Christopher Rush",
+  "rating": "2.712",
+  "votes": "26"
+}

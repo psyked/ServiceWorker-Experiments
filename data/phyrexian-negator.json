@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Negator",
+  "image": "./img/phyrexian-negator.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Horror",
+  "text": "TrampleWhenever Phyrexian Negator is dealt damage, sacrifice that many permanents.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Mythic Rare",
+  "cardNumber": "1",
+  "artist": "Jim Murray",
+  "rating": "3.908",
+  "votes": "141"
+}

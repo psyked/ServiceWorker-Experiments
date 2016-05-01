@@ -1,0 +1,13 @@
+{
+  "title": "Greater Werewolf",
+  "image": "./img/greater-werewolf.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Werewolf",
+  "text": "At end of combat, put a -0/-2 counter on each creature blocking or blocked by Greater Werewolf.",
+  "expansion": "Fifth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Dennis Detwiller",
+  "rating": "3.000",
+  "votes": "32"
+}

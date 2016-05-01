@@ -1,0 +1,13 @@
+{
+  "title": "Elvish Aberration",
+  "image": "./img/elvish-aberration.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elf Mutant",
+  "text": ": Add  to your mana pool.Forestcycling  (, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "206",
+  "artist": "Matt Cavotta",
+  "rating": "5",
+  "votes": "0"
+}

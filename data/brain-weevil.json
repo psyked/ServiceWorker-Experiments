@@ -1,0 +1,13 @@
+{
+  "title": "Brain Weevil",
+  "image": "./img/brain-weevil.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Insect",
+  "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)Sacrifice Brain Weevil: Target player discards two cards. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Common",
+  "cardNumber": "58",
+  "artist": "Anthony Jones",
+  "rating": "2.147",
+  "votes": "17"
+}

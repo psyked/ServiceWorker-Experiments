@@ -1,0 +1,13 @@
+{
+  "title": "Deranged Outcast",
+  "image": "./img/deranged-outcast.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Rogue",
+  "text": ", Sacrifice a Human: Put two +1/+1 counters on target creature.",
+  "expansion": "Dark Ascension",
+  "rarity": "Rare",
+  "cardNumber": "112",
+  "artist": "Nils Hamm",
+  "rating": "3.318",
+  "votes": "55"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sunken Field",
+  "image": "./img/sunken-field.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landEnchanted land has \": Counter target spell unless its controller pays .\"",
+  "expansion": "Prophecy",
+  "rarity": "Uncommon",
+  "cardNumber": "51",
+  "artist": "Donato Giancola",
+  "rating": "3.739",
+  "votes": "44"
+}

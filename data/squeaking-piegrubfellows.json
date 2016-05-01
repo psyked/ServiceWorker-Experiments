@@ -1,0 +1,13 @@
+{
+  "title": "Squeaking Pie Grubfellows",
+  "image": "./img/squeaking-piegrubfellows.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Goblin Shaman",
+  "text": "Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Squeaking Pie Grubfellows, you may reveal it. If you do, each opponent discards a card.",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "78",
+  "artist": "Jim Pavelec",
+  "rating": "2.403",
+  "votes": "31"
+}

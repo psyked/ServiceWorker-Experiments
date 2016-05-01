@@ -1,0 +1,13 @@
+{
+  "title": "Barbarian Guides",
+  "image": "./img/barbarian-guides.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Barbarian",
+  "text": ", : Choose a land type. Target creature you control gains snow landwalk of the chosen type until end of turn. Return that creature to its owner's hand at the beginning of the next end step. (It can't be blocked as long as defending player controls a snow land of that type.)",
+  "expansion": "Ice Age",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Richard Thomas",
+  "rating": "2.023",
+  "votes": "43"
+}

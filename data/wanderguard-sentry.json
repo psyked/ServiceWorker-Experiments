@@ -1,0 +1,13 @@
+{
+  "title": "Wanderguard Sentry",
+  "image": "./img/wanderguard-sentry.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Drone",
+  "text": "When Wanderguard Sentry enters the battlefield, look at target opponent's hand.",
+  "expansion": "Ninth Edition",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "Luca Zontini",
+  "rating": "1.554",
+  "votes": "28"
+}

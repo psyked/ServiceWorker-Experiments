@@ -1,0 +1,13 @@
+{
+  "title": "Knucklebone Witch",
+  "image": "./img/knucklebone-witch.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Shaman",
+  "text": "Whenever a Goblin you control is put into a graveyard from the battlefield, you may put a +1/+1 counter on Knucklebone Witch.",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "120",
+  "artist": "Jim Pavelec",
+  "rating": "3.708",
+  "votes": "53"
+}

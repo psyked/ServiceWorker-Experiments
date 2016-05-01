@@ -1,0 +1,13 @@
+{
+  "title": "Dwarven Grunt",
+  "image": "./img/dwarven-grunt.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Dwarf",
+  "text": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "185",
+  "artist": "Mike Ploog",
+  "rating": "2.518",
+  "votes": "28"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sorin, Lord of Innistrad",
+  "image": "./img/sorin-lordofinnistrad.jpg",
+  "convertedManaCost": "4",
+  "types": "Planeswalker  — Sorin",
+  "text": "+1: Put a 1/1 black Vampire creature token with lifelink onto the battlefield.−2: You get an emblem with \"Creatures you control get +1/+0.\"−6: Destroy up to three target creatures and/or other planeswalkers. Return each card put into a graveyard this way to the battlefield under your control.",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Mythic Rare",
+  "cardNumber": "1",
+  "artist": "Chase Stone",
+  "rating": "3.788",
+  "votes": "104"
+}

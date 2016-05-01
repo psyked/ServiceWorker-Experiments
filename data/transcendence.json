@@ -1,0 +1,13 @@
+{
+  "title": "Transcendence",
+  "image": "./img/transcendence.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "You don't lose the game for having 0 or less life.When you have 20 or more life, you lose the game.Whenever you lose life, you gain 2 life for each 1 life you lost. (Damage dealt to you causes you to lose life.)",
+  "expansion": "Torment",
+  "rarity": "Rare",
+  "cardNumber": "20",
+  "artist": "Rebecca Guay",
+  "rating": "3.597",
+  "votes": "67"
+}

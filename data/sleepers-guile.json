@@ -1,0 +1,13 @@
+{
+  "title": "Sleeper's Guile",
+  "image": "./img/sleepers-guile.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)When Sleeper's Guile is put into a graveyard from the battlefield, return Sleeper's Guile to its owner's hand.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Common",
+  "cardNumber": "67",
+  "artist": "Daren Bader",
+  "rating": "3.600",
+  "votes": "30"
+}

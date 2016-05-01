@@ -1,0 +1,13 @@
+{
+  "title": "Myr Retriever",
+  "image": "./img/myr-retriever.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Myr",
+  "text": "When Myr Retriever dies, return another target artifact card from your graveyard to your hand.",
+  "expansion": "Commander 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "255",
+  "artist": "Trevor Hairsine",
+  "rating": "5",
+  "votes": "0"
+}

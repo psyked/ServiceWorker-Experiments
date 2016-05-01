@@ -1,0 +1,13 @@
+{
+  "title": "Exiled Doomsayer",
+  "image": "./img/exiled-doomsayer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": "All morph costs cost  more. (This doesn't affect the cost to cast creature spells face down.)",
+  "expansion": "Scourge",
+  "rarity": "Rare",
+  "cardNumber": "13",
+  "artist": "Brian Snoddy",
+  "rating": "1.839",
+  "votes": "31"
+}

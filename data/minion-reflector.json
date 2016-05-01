@@ -1,0 +1,13 @@
+{
+  "title": "Minion Reflector",
+  "image": "./img/minion-reflector.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": "Whenever a nontoken creature enters the battlefield under your control, you may pay . If you do, put a token that's a copy of that creature onto the battlefield. That token has haste and \"At the beginning of the end step, sacrifice this permanent.\"",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "211",
+  "artist": "Mark Tedin",
+  "rating": "2.966",
+  "votes": "74"
+}

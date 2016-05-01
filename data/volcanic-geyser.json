@@ -1,0 +1,13 @@
+{
+  "title": "Volcanic Geyser",
+  "image": "./img/volcanic-geyser.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Volcanic Geyser deals X damage to target creature or player.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "160",
+  "artist": "Clint Cearley",
+  "rating": "4.045",
+  "votes": "33"
+}

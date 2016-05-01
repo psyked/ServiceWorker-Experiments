@@ -1,0 +1,13 @@
+{
+  "title": "Temporal Aperture",
+  "image": "./img/temporal-aperture.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", : Shuffle your library, then reveal the top card. Until end of turn, for as long as that card remains on top of your library, play with the top card of your library revealed and you may play that card without paying its mana cost. (If it has X in its mana cost, X is 0.)",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "310",
+  "artist": "Michael Sutfin",
+  "rating": "4.264",
+  "votes": "53"
+}

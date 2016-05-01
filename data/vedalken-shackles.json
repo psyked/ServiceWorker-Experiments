@@ -1,0 +1,13 @@
+{
+  "title": "Vedalken Shackles",
+  "image": "./img/vedalken-shackles.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "You may choose not to untap Vedalken Shackles during your untap step., : Gain control of target creature with power less than or equal to the number of Islands you control for as long as Vedalken Shackles remains tapped.",
+  "expansion": "Modern Masters",
+  "rarity": "Mythic Rare",
+  "cardNumber": "218",
+  "artist": "Svetlin Velinov",
+  "rating": "4.458",
+  "votes": "36"
+}

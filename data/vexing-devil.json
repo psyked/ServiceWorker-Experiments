@@ -1,0 +1,13 @@
+{
+  "title": "Vexing Devil",
+  "image": "./img/vexing-devil.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Devil",
+  "text": "When Vexing Devil enters the battlefield, any opponent may have it deal 4 damage to him or her. If a player does, sacrifice Vexing Devil.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "164",
+  "artist": "Lucas Graciano",
+  "rating": "4.083",
+  "votes": "230"
+}

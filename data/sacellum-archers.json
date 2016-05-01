@@ -1,0 +1,13 @@
+{
+  "title": "Sacellum Archers",
+  "image": "./img/sacellum-archers.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Archer",
+  "text": ", : Sacellum Archers deals 2 damage to target attacking or blocking creature.",
+  "expansion": "Conflux",
+  "rarity": "Uncommon",
+  "cardNumber": "89",
+  "artist": "Kev Walker",
+  "rating": "2.602",
+  "votes": "54"
+}

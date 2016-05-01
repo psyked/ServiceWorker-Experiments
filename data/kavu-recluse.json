@@ -1,0 +1,13 @@
+{
+  "title": "Kavu Recluse",
+  "image": "./img/kavu-recluse.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kavu",
+  "text": ": Target land becomes a Forest until end of turn.",
+  "expansion": "Planeshift",
+  "rarity": "Common",
+  "cardNumber": "64",
+  "artist": "Aaron Boyd",
+  "rating": "3.286",
+  "votes": "28"
+}

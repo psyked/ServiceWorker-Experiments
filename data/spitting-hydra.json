@@ -1,0 +1,13 @@
+{
+  "title": "Spitting Hydra",
+  "image": "./img/spitting-hydra.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Hydra",
+  "text": "Spitting Hydra enters the battlefield with four +1/+1 counters on it., Remove a +1/+1 counter from Spitting Hydra: Spitting Hydra deals 1 damage to target creature.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Rare",
+  "cardNumber": "161",
+  "artist": "Daren Bader",
+  "rating": "5",
+  "votes": "0"
+}

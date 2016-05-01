@@ -1,0 +1,13 @@
+{
+  "title": "Mystic Remora",
+  "image": "./img/mystic-remora.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment",
+  "text": "Cumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)Whenever an opponent casts a noncreature spell, you may draw a card unless that player pays .",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "42",
+  "artist": "Ken Meyer, Jr.",
+  "rating": "4.569",
+  "votes": "58"
+}

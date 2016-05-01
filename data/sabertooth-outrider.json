@@ -1,0 +1,13 @@
+{
+  "title": "Sabertooth Outrider",
+  "image": "./img/sabertooth-outrider.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Warrior",
+  "text": "TrampleFormidable — Whenever Sabertooth Outrider attacks, if creatures you control have total power 8 or greater, Sabertooth Outrider gains first strike until end of turn.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "152",
+  "artist": "Winona Nelson",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Reaper from the Abyss",
+  "image": "./img/reaper-fromtheabyss.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Demon",
+  "text": "FlyingMorbid — At the beginning of each end step, if a creature died this turn, destroy target non-Demon creature.",
+  "expansion": "Commander 2014",
+  "rarity": "Mythic Rare",
+  "cardNumber": "159",
+  "artist": "Matt Stewart",
+  "rating": "5",
+  "votes": "0"
+}

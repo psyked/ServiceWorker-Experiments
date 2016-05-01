@@ -1,0 +1,13 @@
+{
+  "title": "Time of Heroes",
+  "image": "./img/time-ofheroes.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Each creature you control with a level counter on it gets +2/+2.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "49",
+  "artist": "Kekai Kotaki",
+  "rating": "4.104",
+  "votes": "77"
+}

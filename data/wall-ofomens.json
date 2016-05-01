@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Omens",
+  "image": "./img/wall-ofomens.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Wall",
+  "text": "DefenderWhen Wall of Omens enters the battlefield, draw a card.",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Uncommon",
+  "cardNumber": "4",
+  "artist": "James Paick",
+  "rating": "3.821",
+  "votes": "42"
+}

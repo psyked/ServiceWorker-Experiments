@@ -1,0 +1,13 @@
+{
+  "title": "Stormcaller of Keranos",
+  "image": "./img/stormcaller-ofkeranos.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Shaman",
+  "text": "Haste: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "112",
+  "artist": "Marco Nelor",
+  "rating": "3.766",
+  "votes": "32"
+}

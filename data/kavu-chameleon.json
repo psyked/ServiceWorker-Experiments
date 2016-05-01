@@ -1,0 +1,13 @@
+{
+  "title": "Kavu Chameleon",
+  "image": "./img/kavu-chameleon.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Kavu",
+  "text": "Kavu Chameleon can't be countered.: Kavu Chameleon becomes the color of your choice until end of turn.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "191",
+  "artist": "John Howe",
+  "rating": "4.048",
+  "votes": "42"
+}

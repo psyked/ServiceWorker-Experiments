@@ -1,0 +1,13 @@
+{
+  "title": "Aphetto Alchemist",
+  "image": "./img/aphetto-alchemist.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": ": Untap target artifact or creature.Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "64",
+  "artist": "Ron Spears",
+  "rating": "3.862",
+  "votes": "47"
+}

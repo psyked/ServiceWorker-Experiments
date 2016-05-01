@@ -1,0 +1,13 @@
+{
+  "title": "Hedron Blade",
+  "image": "./img/hedron-blade.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +1/+1.Whenever equipped creature becomes blocked by one or more colorless creatures, it gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "224",
+  "artist": "Zack Stella",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Rockslide Ambush",
+  "image": "./img/rockslide-ambush.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Rockslide Ambush deals damage to target creature equal to the number of Mountains you control.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "134",
+  "artist": "Inoue Junichi",
+  "rating": "3.676",
+  "votes": "17"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Touch of the Eternal",
+  "image": "./img/touch-oftheeternal.jpg",
+  "convertedManaCost": "7",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, count the number of permanents you control. Your life total becomes that number.",
+  "expansion": "Magic 2013",
+  "rarity": "Rare",
+  "cardNumber": "37",
+  "artist": "Christopher Moeller",
+  "rating": "1.983",
+  "votes": "58"
+}

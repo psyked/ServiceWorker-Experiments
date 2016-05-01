@@ -1,0 +1,13 @@
+{
+  "title": "Amrou Scout",
+  "image": "./img/amrou-scout.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kithkin Rebel Scout",
+  "text": ", : Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "2",
+  "artist": "Quinton Hoover",
+  "rating": "3.550",
+  "votes": "20"
+}

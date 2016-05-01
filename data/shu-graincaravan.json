@@ -1,0 +1,13 @@
+{
+  "title": "Shu Grain Caravan",
+  "image": "./img/shu-graincaravan.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "When Shu Grain Caravan enters the battlefield, you gain 2 life.",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Common",
+  "cardNumber": "26",
+  "artist": "Li Wang",
+  "rating": "2.688",
+  "votes": "24"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Junk Diver",
+  "image": "./img/junk-diver.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Bird",
+  "text": "FlyingWhen Junk Diver dies, return another target artifact card from your graveyard to your hand.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "244",
+  "artist": "Eric Peterson",
+  "rating": "5",
+  "votes": "0"
+}

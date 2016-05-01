@@ -1,0 +1,13 @@
+{
+  "title": "Twisted Abomination",
+  "image": "./img/twisted-abomination.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Zombie Mutant",
+  "text": ": Regenerate Twisted Abomination.Swampcycling  (, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "expansion": "Duel Decks Anthology, Garruk vs. Liliana",
+  "rarity": "Common",
+  "cardNumber": "45",
+  "artist": "Daren Bader",
+  "rating": "5",
+  "votes": "0"
+}

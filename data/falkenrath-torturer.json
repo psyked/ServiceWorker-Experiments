@@ -1,0 +1,13 @@
+{
+  "title": "Falkenrath Torturer",
+  "image": "./img/falkenrath-torturer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vampire",
+  "text": "Sacrifice a creature: Falkenrath Torturer gains flying until end of turn. If the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath Torturer.",
+  "expansion": "Dark Ascension",
+  "rarity": "Common",
+  "cardNumber": "60",
+  "artist": "Steve Argyle",
+  "rating": "2.021",
+  "votes": "47"
+}

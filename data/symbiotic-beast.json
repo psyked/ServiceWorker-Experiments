@@ -1,0 +1,13 @@
+{
+  "title": "Symbiotic Beast",
+  "image": "./img/symbiotic-beast.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Insect Beast",
+  "text": "When Symbiotic Beast dies, put four 1/1 green Insect creature tokens onto the battlefield.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "287",
+  "artist": "Franz Vohwinkel",
+  "rating": "3.786",
+  "votes": "35"
+}

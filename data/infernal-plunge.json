@@ -1,0 +1,13 @@
+{
+  "title": "Infernal Plunge",
+  "image": "./img/infernal-plunge.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Infernal Plunge, sacrifice a creature.Add  to your mana pool.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "148",
+  "artist": "Daarken",
+  "rating": "3.424",
+  "votes": "72"
+}

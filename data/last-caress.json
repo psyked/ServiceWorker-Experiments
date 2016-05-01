@@ -1,0 +1,13 @@
+{
+  "title": "Last Caress",
+  "image": "./img/last-caress.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target player loses 1 life and you gain 1 life.Draw a card.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "41",
+  "artist": "Eric Peterson",
+  "rating": "2.439",
+  "votes": "33"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Skyshroud Elite",
+  "image": "./img/skyshroud-elite.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf",
+  "text": "Skyshroud Elite gets +1/+2 as long as an opponent controls a nonbasic land.",
+  "expansion": "Battle Royale Box Set",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Paolo Parente",
+  "rating": "4.250",
+  "votes": "48"
+}

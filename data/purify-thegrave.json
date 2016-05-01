@@ -1,0 +1,13 @@
+{
+  "title": "Purify the Grave",
+  "image": "./img/purify-thegrave.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Exile target card from a graveyard.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "27",
+  "artist": "Drew Baker",
+  "rating": "3.375",
+  "votes": "52"
+}

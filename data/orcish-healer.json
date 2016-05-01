@@ -1,0 +1,13 @@
+{
+  "title": "Orcish Healer",
+  "image": "./img/orcish-healer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Orc Cleric",
+  "text": ", : Target creature can't be regenerated this turn., : Regenerate target black or green creature., : Regenerate target black or green creature.",
+  "expansion": "Ice Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Quinton Hoover",
+  "rating": "2.132",
+  "votes": "38"
+}

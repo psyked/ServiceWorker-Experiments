@@ -1,0 +1,13 @@
+{
+  "title": "Felidar Cub",
+  "image": "./img/felidar-cub.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Cat Beast",
+  "text": "Sacrifice Felidar Cub: Destroy target enchantment.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "25",
+  "artist": "Steve Prescott",
+  "rating": "5",
+  "votes": "0"
+}

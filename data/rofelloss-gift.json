@@ -1,0 +1,13 @@
+{
+  "title": "Rofellos's Gift",
+  "image": "./img/rofelloss-gift.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Reveal any number of green cards in your hand. Return an enchantment card from your graveyard to your hand for each card revealed this way.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "119",
+  "artist": "Pete Venters",
+  "rating": "3.047",
+  "votes": "32"
+}

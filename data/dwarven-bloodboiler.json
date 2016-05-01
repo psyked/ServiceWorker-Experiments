@@ -1,0 +1,13 @@
+{
+  "title": "Dwarven Bloodboiler",
+  "image": "./img/dwarven-bloodboiler.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Dwarf",
+  "text": "Tap an untapped Dwarf you control: Target creature gets +2/+0 until end of turn.",
+  "expansion": "Judgment",
+  "rarity": "Rare",
+  "cardNumber": "84",
+  "artist": "Arnie Swekel",
+  "rating": "3.325",
+  "votes": "40"
+}

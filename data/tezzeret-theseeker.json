@@ -1,0 +1,13 @@
+{
+  "title": "Tezzeret the Seeker",
+  "image": "./img/tezzeret-theseeker.jpg",
+  "convertedManaCost": "5",
+  "types": "Planeswalker  — Tezzeret",
+  "text": "+1: Untap up to two target artifacts.−X: Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.−5: Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Mythic Rare",
+  "cardNumber": "62",
+  "artist": "Anthony Francisco",
+  "rating": "5",
+  "votes": "0"
+}

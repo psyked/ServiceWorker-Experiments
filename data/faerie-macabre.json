@@ -1,0 +1,13 @@
+{
+  "title": "Faerie Macabre",
+  "image": "./img/faerie-macabre.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Faerie Rogue",
+  "text": "FlyingDiscard Faerie Macabre: Exile up to two target cards from graveyards.",
+  "expansion": "Duel Decks Anthology, Garruk vs. Liliana",
+  "rarity": "Common",
+  "cardNumber": "42",
+  "artist": "rk post",
+  "rating": "5",
+  "votes": "0"
+}

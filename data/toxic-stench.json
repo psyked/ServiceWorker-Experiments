@@ -1,0 +1,13 @@
+{
+  "title": "Toxic Stench",
+  "image": "./img/toxic-stench.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target nonblack creature gets -1/-1 until end of turn.Threshold — If seven or more cards are in your graveyard, instead destroy that creature. It can't be regenerated.",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "74",
+  "artist": "Bradley Williams",
+  "rating": "2.707",
+  "votes": "29"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Scourge Devil",
+  "image": "./img/scourge-devil.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Devil",
+  "text": "When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn.Unearth  (: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Uncommon",
+  "cardNumber": "18",
+  "artist": "Dave Kendall",
+  "rating": "5",
+  "votes": "0"
+}

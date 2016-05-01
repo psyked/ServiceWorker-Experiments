@@ -1,0 +1,13 @@
+{
+  "title": "Mine Bearer",
+  "image": "./img/mine-bearer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": ", Sacrifice Mine Bearer: Destroy target attacking creature.",
+  "expansion": "Prophecy",
+  "rarity": "Common",
+  "cardNumber": "16",
+  "artist": "D. Alexander Gregory",
+  "rating": "3.548",
+  "votes": "31"
+}

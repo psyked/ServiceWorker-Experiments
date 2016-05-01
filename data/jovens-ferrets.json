@@ -1,0 +1,13 @@
+{
+  "title": "Joven's Ferrets",
+  "image": "./img/jovens-ferrets.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Ferret",
+  "text": "Whenever Joven's Ferrets attacks, it gets +0/+2 until end of turn.At end of combat, tap all creatures that blocked Joven's Ferrets this turn. They don't untap during their controller's next untap step.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "169",
+  "artist": "Amy Weber",
+  "rating": "4.010",
+  "votes": "97"
+}

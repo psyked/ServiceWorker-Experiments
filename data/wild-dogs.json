@@ -1,0 +1,13 @@
+{
+  "title": "Wild Dogs",
+  "image": "./img/wild-dogs.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Hound",
+  "text": "At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Wild Dogs.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "284",
+  "artist": "Terese Nielsen",
+  "rating": "3.603",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Knight of Valor",
+  "image": "./img/knight-ofvalor.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.): Each creature without flanking blocking Knight of Valor gets -1/-1 until end of turn. Activate this ability only once each turn.",
+  "expansion": "Visions",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Jeff Miracola",
+  "rating": "3.662",
+  "votes": "34"
+}

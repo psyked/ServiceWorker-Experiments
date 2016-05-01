@@ -1,0 +1,13 @@
+{
+  "title": "Lurking Skirge",
+  "image": "./img/lurking-skirge.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "When a creature is put into an opponent's graveyard from the battlefield, if Lurking Skirge is an enchantment, Lurking Skirge becomes a 3/2 Imp creature with flying.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Rare",
+  "cardNumber": "55",
+  "artist": "Daren Bader",
+  "rating": "3.853",
+  "votes": "34"
+}

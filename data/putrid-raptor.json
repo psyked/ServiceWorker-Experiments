@@ -1,0 +1,13 @@
+{
+  "title": "Putrid Raptor",
+  "image": "./img/putrid-raptor.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Zombie Lizard Beast",
+  "text": "Morph—Discard a Zombie card. (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Scourge",
+  "rarity": "Uncommon",
+  "cardNumber": "71",
+  "artist": "Pete Venters",
+  "rating": "3.577",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Faerie Harbinger",
+  "image": "./img/faerie-harbinger.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Faerie Wizard",
+  "text": "FlashFlyingWhen Faerie Harbinger enters the battlefield, you may search your library for a Faerie card, reveal it, then shuffle your library and put that card on top of it.",
+  "expansion": "Lorwyn",
+  "rarity": "Uncommon",
+  "cardNumber": "61",
+  "artist": "Larry MacDougall",
+  "rating": "3.128",
+  "votes": "47"
+}

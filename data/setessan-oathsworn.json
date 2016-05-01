@@ -1,0 +1,13 @@
+{
+  "title": "Setessan Oathsworn",
+  "image": "./img/setessan-oathsworn.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Satyr Warrior",
+  "text": "Heroic — Whenever you cast a spell that targets Setessan Oathsworn, put two +1/+1 counters on Setessan Oathsworn.",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "138",
+  "artist": "Scott Murphy",
+  "rating": "3.554",
+  "votes": "28"
+}

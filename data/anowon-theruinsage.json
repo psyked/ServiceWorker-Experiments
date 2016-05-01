@@ -1,0 +1,13 @@
+{
+  "title": "Anowon, the Ruin Sage",
+  "image": "./img/anowon-theruinsage.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Vampire Shaman",
+  "text": "At the beginning of your upkeep, each player sacrifices a non-Vampire creature.",
+  "expansion": "Worldwake",
+  "rarity": "Rare",
+  "cardNumber": "49",
+  "artist": "Dan Scott",
+  "rating": "3.743",
+  "votes": "152"
+}

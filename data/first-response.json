@@ -1,0 +1,13 @@
+{
+  "title": "First Response",
+  "image": "./img/first-response.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of each upkeep, if you lost life last turn, put a 1/1 white Soldier creature token onto the battlefield.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "12",
+  "artist": "Slawomir Maniak",
+  "rating": "2.583",
+  "votes": "6"
+}

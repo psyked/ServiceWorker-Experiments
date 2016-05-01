@@ -1,0 +1,13 @@
+{
+  "title": "Chaosphere",
+  "image": "./img/chaosphere.jpg",
+  "convertedManaCost": "3",
+  "types": "World Enchantment",
+  "text": "Creatures with flying can block only creatures with flying.Creatures without flying have reach. (They can block creatures with flying.)",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Steve Luke",
+  "rating": "3.856",
+  "votes": "45"
+}

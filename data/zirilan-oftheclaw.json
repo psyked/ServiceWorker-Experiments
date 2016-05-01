@@ -1,0 +1,13 @@
+{
+  "title": "Zirilan of the Claw",
+  "image": "./img/zirilan-oftheclaw.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Viashino Shaman",
+  "text": ", : Search your library for a Dragon permanent card and put that card onto the battlefield. Then shuffle your library. That Dragon gains haste until end of turn. Exile it at the beginning of the next end step.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Andrew Robinson",
+  "rating": "4.188",
+  "votes": "77"
+}

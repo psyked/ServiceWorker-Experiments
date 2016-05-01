@@ -1,0 +1,13 @@
+{
+  "title": "Ratchet Bomb",
+  "image": "./img/ratchet-bomb.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ": Put a charge counter on Ratchet Bomb., Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "215",
+  "artist": "Austin Hsu",
+  "rating": "4.425",
+  "votes": "60"
+}

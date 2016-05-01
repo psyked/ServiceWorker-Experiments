@@ -1,0 +1,13 @@
+{
+  "title": "Dragonlord's Servant",
+  "image": "./img/dragonlords-servant.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Shaman",
+  "text": "Dragon spells you cast cost  less to cast.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "138",
+  "artist": "Steve Prescott",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Soultether Golem",
+  "image": "./img/soultether-golem.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Golem",
+  "text": "Vanishing 1 (This creature enters the battlefield with a time counter on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)Whenever another creature enters the battlefield under your control, put a time counter on Soultether Golem.",
+  "expansion": "Future Sight",
+  "rarity": "Uncommon",
+  "cardNumber": "164",
+  "artist": "Parente",
+  "rating": "2.272",
+  "votes": "46"
+}

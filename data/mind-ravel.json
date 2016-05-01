@@ -1,0 +1,13 @@
+{
+  "title": "Mind Ravel",
+  "image": "./img/mind-ravel.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target player discards a card.Draw a card at the beginning of the next turn's upkeep.",
+  "expansion": "Fifth Edition",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Mark Tedin",
+  "rating": "2.846",
+  "votes": "26"
+}

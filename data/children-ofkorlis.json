@@ -1,0 +1,13 @@
+{
+  "title": "Children of Korlis",
+  "image": "./img/children-ofkorlis.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Rebel Cleric",
+  "text": "Sacrifice Children of Korlis: You gain life equal to the life you've lost this turn. (Damage causes loss of life.)",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "8",
+  "artist": "Quinton Hoover",
+  "rating": "4.463",
+  "votes": "95"
+}

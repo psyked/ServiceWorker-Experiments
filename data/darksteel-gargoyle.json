@@ -1,0 +1,13 @@
+{
+  "title": "Darksteel Gargoyle",
+  "image": "./img/darksteel-gargoyle.jpg",
+  "convertedManaCost": "7",
+  "types": "Artifact Creature  — Gargoyle",
+  "text": "FlyingIndestructible (Damage and effects that say \"destroy\" don't destroy this creature.)",
+  "expansion": "Darksteel",
+  "rarity": "Uncommon",
+  "cardNumber": "111",
+  "artist": "Ron Spencer",
+  "rating": "3.025",
+  "votes": "60"
+}

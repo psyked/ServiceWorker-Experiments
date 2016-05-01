@@ -1,0 +1,13 @@
+{
+  "title": "Sliver Hive",
+  "image": "./img/sliver-hive.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool.: Add one mana of any color to your mana pool. Spend this mana only to cast a Sliver spell., : Put a 1/1 colorless Sliver creature token onto the battlefield. Activate this ability only if you control a Sliver.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "247",
+  "artist": "Igor Kieryluk",
+  "rating": "3.875",
+  "votes": "12"
+}

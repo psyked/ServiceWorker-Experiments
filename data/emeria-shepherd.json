@@ -1,0 +1,13 @@
+{
+  "title": "Emeria Shepherd",
+  "image": "./img/emeria-shepherd.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Angel",
+  "text": "FlyingLandfall — Whenever a land enters the battlefield under your control, you may return target nonland permanent card from your graveyard to your hand. If that land is a Plains, you may return that nonland permanent card to the battlefield instead.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "22",
+  "artist": "Cynthia Sheppard",
+  "rating": "5",
+  "votes": "0"
+}

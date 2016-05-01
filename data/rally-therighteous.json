@@ -1,0 +1,13 @@
+{
+  "title": "Rally the Righteous",
+  "image": "./img/rally-therighteous.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Radiance — Untap target creature and each other creature that shares a color with it. Those creatures get +2/+0 until end of turn.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "222",
+  "artist": "Dan Scott",
+  "rating": "3.420",
+  "votes": "44"
+}

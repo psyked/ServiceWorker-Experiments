@@ -1,0 +1,13 @@
+{
+  "title": "Venom Sliver",
+  "image": "./img/venom-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Sliver",
+  "text": "Sliver creatures you control have deathtouch. (Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "205",
+  "artist": "Dave Kendall",
+  "rating": "3.778",
+  "votes": "9"
+}

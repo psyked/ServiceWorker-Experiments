@@ -1,0 +1,13 @@
+{
+  "title": "Ensouled Scimitar",
+  "image": "./img/ensouled-scimitar.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": ": Ensouled Scimitar becomes a 1/5 Spirit artifact creature with flying until end of turn. (Equipment that's a creature can't equip a creature.)Equipped creature gets +1/+5.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "119",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "3.750",
+  "votes": "30"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Morbid Bloom",
+  "image": "./img/morbid-bloom.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Exile target creature card from a graveyard, then put X 1/1 green Saproling creature tokens onto the battlefield, where X is the exiled card's toughness.",
+  "expansion": "Alara Reborn",
+  "rarity": "Uncommon",
+  "cardNumber": "94",
+  "artist": "Trevor Claxton",
+  "rating": "2.894",
+  "votes": "52"
+}

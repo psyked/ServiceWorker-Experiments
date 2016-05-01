@@ -1,0 +1,13 @@
+{
+  "title": "Silvergill Adept",
+  "image": "./img/silvergill-adept.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk Wizard",
+  "text": "As an additional cost to cast Silvergill Adept, reveal a Merfolk card from your hand or pay .When Silvergill Adept enters the battlefield, draw a card.",
+  "expansion": "Lorwyn",
+  "rarity": "Uncommon",
+  "cardNumber": "86",
+  "artist": "Matt Cavotta",
+  "rating": "4.264",
+  "votes": "55"
+}

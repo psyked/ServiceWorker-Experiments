@@ -1,0 +1,13 @@
+{
+  "title": "Dauthi Slayer",
+  "image": "./img/dauthi-slayer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Dauthi Soldier",
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)Dauthi Slayer attacks each turn if able.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "97",
+  "artist": "Dermot Power",
+  "rating": "5",
+  "votes": "0"
+}

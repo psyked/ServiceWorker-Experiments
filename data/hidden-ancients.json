@@ -1,0 +1,13 @@
+{
+  "title": "Hidden Ancients",
+  "image": "./img/hidden-ancients.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "When an opponent casts an enchantment spell, if Hidden Ancients is an enchantment, Hidden Ancients becomes a 5/5 Treefolk creature.",
+  "expansion": "Urza's Saga",
+  "rarity": "Uncommon",
+  "cardNumber": "260",
+  "artist": "Daren Bader",
+  "rating": "3.470",
+  "votes": "33"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Might of the Nephilim",
+  "image": "./img/might-ofthenephilim.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +2/+2 until end of turn for each of its colors.",
+  "expansion": "Dissension",
+  "rarity": "Uncommon",
+  "cardNumber": "88",
+  "artist": "Parente",
+  "rating": "3.000",
+  "votes": "48"
+}

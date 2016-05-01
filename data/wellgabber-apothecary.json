@@ -1,0 +1,13 @@
+{
+  "title": "Wellgabber Apothecary",
+  "image": "./img/wellgabber-apothecary.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Merfolk Cleric",
+  "text": ": Prevent all damage that would be dealt to target tapped Merfolk or Kithkin creature this turn.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "47",
+  "artist": "Brandon Dorman",
+  "rating": "2.000",
+  "votes": "43"
+}

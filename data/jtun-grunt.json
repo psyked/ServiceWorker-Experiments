@@ -1,0 +1,13 @@
+{
+  "title": "Jötun Grunt",
+  "image": "./img/jtun-grunt.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Giant Soldier",
+  "text": "Cumulative upkeep—Put two cards from a single graveyard on the bottom of their owner's library. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Uncommon",
+  "cardNumber": "16",
+  "artist": "Franz Vohwinkel",
+  "rating": "3.956",
+  "votes": "45"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Thragtusk",
+  "image": "./img/thragtusk.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast",
+  "text": "When Thragtusk enters the battlefield, you gain 5 life.When Thragtusk leaves the battlefield, put a 3/3 green Beast creature token onto the battlefield.",
+  "expansion": "Magic 2013",
+  "rarity": "Rare",
+  "cardNumber": "193",
+  "artist": "Nils Hamm",
+  "rating": "3.964",
+  "votes": "251"
+}

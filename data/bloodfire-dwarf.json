@@ -1,0 +1,13 @@
+{
+  "title": "Bloodfire Dwarf",
+  "image": "./img/bloodfire-dwarf.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Dwarf",
+  "text": ", Sacrifice Bloodfire Dwarf: Bloodfire Dwarf deals 1 damage to each creature without flying.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Ron Spencer",
+  "rating": "3.782",
+  "votes": "55"
+}

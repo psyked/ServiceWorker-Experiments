@@ -1,0 +1,13 @@
+{
+  "title": "Master Apothecary",
+  "image": "./img/master-apothecary.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": "Tap an untapped Cleric you control: Prevent the next 2 damage that would be dealt to target creature or player this turn.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "32",
+  "artist": "Terese Nielsen",
+  "rating": "4.058",
+  "votes": "60"
+}

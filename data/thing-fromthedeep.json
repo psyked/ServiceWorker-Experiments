@@ -1,0 +1,13 @@
+{
+  "title": "Thing from the Deep",
+  "image": "./img/thing-fromthedeep.jpg",
+  "convertedManaCost": "9",
+  "types": "Creature  — Leviathan",
+  "text": "Whenever Thing from the Deep attacks, sacrifice it unless you sacrifice an Island.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "68",
+  "artist": "Parente",
+  "rating": "2.333",
+  "votes": "30"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Roil Spout",
+  "image": "./img/roil-spout.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Put target creature on top of its owner's library.Awaken 4— (If you cast this spell for , also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "219",
+  "artist": "Igor Kieryluk",
+  "rating": "5",
+  "votes": "0"
+}

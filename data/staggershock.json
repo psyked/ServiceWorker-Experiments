@@ -1,0 +1,13 @@
+{
+  "title": "Staggershock",
+  "image": "./img/staggershock.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Staggershock deals 2 damage to target creature or player.Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "166",
+  "artist": "Raymond Swanland",
+  "rating": "4.227",
+  "votes": "108"
+}

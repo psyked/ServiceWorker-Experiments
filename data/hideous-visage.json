@@ -1,0 +1,13 @@
+{
+  "title": "Hideous Visage",
+  "image": "./img/hideous-visage.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Creatures you control gain intimidate until end of turn. (Each of those creatures can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+  "expansion": "Magic 2012",
+  "rarity": "Common",
+  "cardNumber": "100",
+  "artist": "Nils Hamm",
+  "rating": "2.703",
+  "votes": "37"
+}

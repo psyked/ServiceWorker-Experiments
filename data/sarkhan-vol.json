@@ -1,0 +1,13 @@
+{
+  "title": "Sarkhan Vol",
+  "image": "./img/sarkhan-vol.jpg",
+  "convertedManaCost": "4",
+  "types": "Planeswalker  — Sarkhan",
+  "text": "+1: Creatures you control get +1/+1 and gain haste until end of turn.−2: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.−6: Put five 4/4 red Dragon creature tokens with flying onto the battlefield.",
+  "expansion": "Modern Masters",
+  "rarity": "Mythic Rare",
+  "cardNumber": "183",
+  "artist": "Daarken",
+  "rating": "4.000",
+  "votes": "52"
+}

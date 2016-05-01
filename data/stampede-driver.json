@@ -1,0 +1,13 @@
+{
+  "title": "Stampede Driver",
+  "image": "./img/stampede-driver.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Spellshaper",
+  "text": ", , Discard a card: Creatures you control get +1/+1 and gain trample until end of turn.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "122",
+  "artist": "Ron Spears",
+  "rating": "3.733",
+  "votes": "30"
+}

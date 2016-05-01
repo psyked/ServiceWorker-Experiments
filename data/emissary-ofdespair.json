@@ -1,0 +1,13 @@
+{
+  "title": "Emissary of Despair",
+  "image": "./img/emissary-ofdespair.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "FlyingWhenever Emissary of Despair deals combat damage to a player, that player loses 1 life for each artifact he or she controls.",
+  "expansion": "Darksteel",
+  "rarity": "Uncommon",
+  "cardNumber": "42",
+  "artist": "rk post",
+  "rating": "3.455",
+  "votes": "33"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Containment Membrane",
+  "image": "./img/containment-membrane.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Surge  (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)Enchant creatureEnchanted creature doesn't untap during its controller's untap step.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "52",
+  "artist": "Daarken",
+  "rating": "5",
+  "votes": "0"
+}

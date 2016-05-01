@@ -1,0 +1,13 @@
+{
+  "title": "Chromeshell Crab",
+  "image": "./img/chromeshell-crab.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Crab Beast",
+  "text": "Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)When Chromeshell Crab is turned face up, you may exchange control of target creature you control and target creature an opponent controls.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Rare",
+  "cardNumber": "41",
+  "artist": "Ron Spencer",
+  "rating": "3.765",
+  "votes": "34"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Deathmark",
+  "image": "./img/deathmark.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Destroy target green or white creature.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "77",
+  "artist": "Steven Belledin",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Seething Pathblazer",
+  "image": "./img/seething-pathblazer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental Warrior",
+  "text": "Sacrifice an Elemental: Seething Pathblazer gets +2/+0 and gains first strike until end of turn.",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "101",
+  "artist": "Steve Prescott",
+  "rating": "2.414",
+  "votes": "35"
+}

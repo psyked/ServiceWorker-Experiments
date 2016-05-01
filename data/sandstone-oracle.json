@@ -1,0 +1,13 @@
+{
+  "title": "Sandstone Oracle",
+  "image": "./img/sandstone-oracle.jpg",
+  "convertedManaCost": "7",
+  "types": "Artifact Creature  — Sphinx",
+  "text": "FlyingWhen Sandstone Oracle enters the battlefield, choose an opponent. If that player has more cards in hand than you, draw cards equal to the difference.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "52",
+  "artist": "Eric Deschamps",
+  "rating": "5",
+  "votes": "0"
+}

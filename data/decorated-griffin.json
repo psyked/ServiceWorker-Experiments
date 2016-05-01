@@ -1,0 +1,13 @@
+{
+  "title": "Decorated Griffin",
+  "image": "./img/decorated-griffin.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Griffin",
+  "text": "Flying: Prevent the next 1 combat damage that would be dealt to you this turn.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "7",
+  "artist": "Phill Simmer",
+  "rating": "2.557",
+  "votes": "35"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Survival Cache",
+  "image": "./img/survival-cache.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "You gain 2 life. Then if you have more life than an opponent, draw a card.Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "23",
+  "artist": "Scott Chou",
+  "rating": "3.500",
+  "votes": "9"
+}

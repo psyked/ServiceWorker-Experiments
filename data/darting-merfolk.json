@@ -1,0 +1,13 @@
+{
+  "title": "Darting Merfolk",
+  "image": "./img/darting-merfolk.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk",
+  "text": ": Return Darting Merfolk to its owner's hand.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "72",
+  "artist": "Sam Wood",
+  "rating": "3.155",
+  "votes": "42"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Xathrid Necromancer",
+  "image": "./img/xathrid-necromancer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "Whenever Xathrid Necromancer or another Human creature you control dies, put a 2/2 black Zombie creature token onto the battlefield tapped.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "123",
+  "artist": "Maciej Kuciara",
+  "rating": "3.662",
+  "votes": "68"
+}

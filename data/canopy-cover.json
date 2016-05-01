@@ -1,0 +1,13 @@
+{
+  "title": "Canopy Cover",
+  "image": "./img/canopy-cover.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature can't be blocked except by creatures with flying or reach.Enchanted creature can't be the target of spells or abilities your opponents control.",
+  "expansion": "Worldwake",
+  "rarity": "Uncommon",
+  "cardNumber": "98",
+  "artist": "Igor Kieryluk",
+  "rating": "3.747",
+  "votes": "146"
+}

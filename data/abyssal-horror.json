@@ -1,0 +1,13 @@
+{
+  "title": "Abyssal Horror",
+  "image": "./img/abyssal-horror.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Horror",
+  "text": "FlyingWhen Abyssal Horror enters the battlefield, target player discards two cards.",
+  "expansion": "Seventh Edition",
+  "rarity": "Rare",
+  "cardNumber": "115",
+  "artist": "Daren Bader",
+  "rating": "2.690",
+  "votes": "42"
+}

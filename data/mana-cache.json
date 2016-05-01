@@ -1,0 +1,13 @@
+{
+  "title": "Mana Cache",
+  "image": "./img/mana-cache.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of each player's end step, put a charge counter on Mana Cache for each untapped land that player controls.Remove a charge counter from Mana Cache: Add  to your mana pool. Any player may activate this ability but only during his or her turn before the end step.",
+  "expansion": "Nemesis",
+  "rarity": "Rare",
+  "cardNumber": "92",
+  "artist": "rk post",
+  "rating": "2.234",
+  "votes": "32"
+}

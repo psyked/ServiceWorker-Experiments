@@ -1,0 +1,13 @@
+{
+  "title": "Pale Wayfarer",
+  "image": "./img/pale-wayfarer.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Spirit Giant",
+  "text": ", : Target creature gains protection from the color of its controller's choice until end of turn. ( is the untap symbol.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "17",
+  "artist": "Heather Hudson",
+  "rating": "1.768",
+  "votes": "28"
+}

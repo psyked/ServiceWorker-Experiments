@@ -1,0 +1,13 @@
+{
+  "title": "Soratami Rainshaper",
+  "image": "./img/soratami-rainshaper.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Moonfolk Wizard",
+  "text": "Flying, Return a land you control to its owner's hand: Target creature you control gains shroud until end of turn. (It can't be the target of spells or abilities.)",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "89",
+  "artist": "Ittoku",
+  "rating": "2.043",
+  "votes": "35"
+}

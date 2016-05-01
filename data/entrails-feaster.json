@@ -1,0 +1,13 @@
+{
+  "title": "Entrails Feaster",
+  "image": "./img/entrails-feaster.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Zombie Cat",
+  "text": "At the beginning of your upkeep, you may exile a creature card from a graveyard. If you do, put a +1/+1 counter on Entrails Feaster. If you don't, tap Entrails Feaster.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "143",
+  "artist": "John Matson",
+  "rating": "3.789",
+  "votes": "38"
+}

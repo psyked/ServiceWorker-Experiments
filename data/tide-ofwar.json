@@ -1,0 +1,13 @@
+{
+  "title": "Tide of War",
+  "image": "./img/tide-ofwar.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "Whenever one or more creatures block, flip a coin. If you win the flip, each blocking creature is sacrificed by its controller. If you lose the flip, each blocked creature is sacrificed by its controller.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "194",
+  "artist": "Wayne Reynolds",
+  "rating": "2.500",
+  "votes": "39"
+}

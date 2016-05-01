@@ -1,0 +1,13 @@
+{
+  "title": "Darksteel Mutation",
+  "image": "./img/darksteel-mutation.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature is an Insect artifact creature with base power and toughness 0/1 and has indestructible, and it loses all other abilities, card types, and creature types.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "9",
+  "artist": "Daniel Ljunggren",
+  "rating": "3.864",
+  "votes": "33"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Hydromorph Gull",
+  "image": "./img/hydromorph-gull.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental Bird",
+  "text": "Flying, Sacrifice Hydromorph Gull: Counter target spell that targets one or more creatures you control.",
+  "expansion": "Torment",
+  "rarity": "Uncommon",
+  "cardNumber": "40",
+  "artist": "Arnie Swekel",
+  "rating": "2.500",
+  "votes": "18"
+}

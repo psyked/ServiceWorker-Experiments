@@ -1,0 +1,13 @@
+{
+  "title": "Dampening Pulse",
+  "image": "./img/dampening-pulse.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Creatures your opponents control get -1/-0.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "75",
+  "artist": "Johann Bodin",
+  "rating": "5",
+  "votes": "0"
+}

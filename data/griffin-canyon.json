@@ -1,0 +1,13 @@
+{
+  "title": "Griffin Canyon",
+  "image": "./img/griffin-canyon.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool.: Untap target Griffin. If it's a creature, it gets +1/+1 until end of turn.",
+  "expansion": "Visions",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Stuart Griffin",
+  "rating": "3.622",
+  "votes": "45"
+}

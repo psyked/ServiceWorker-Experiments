@@ -1,0 +1,13 @@
+{
+  "title": "Smothering Abomination",
+  "image": "./img/smothering-abomination.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Eldrazi",
+  "text": "Devoid (This card has no color.)FlyingAt the beginning of your upkeep, sacrifice a creature.Whenever you sacrifice a creature, draw a card.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "99",
+  "artist": "Aleksi Briclot",
+  "rating": "5",
+  "votes": "0"
+}

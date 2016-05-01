@@ -1,0 +1,13 @@
+{
+  "title": "Mystic Meditation",
+  "image": "./img/mystic-meditation.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Draw three cards. Then discard two cards unless you discard a creature card.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "64",
+  "artist": "Howard Lyon",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Treasured Find",
+  "image": "./img/treasured-find.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Return target card from your graveyard to your hand. Exile Treasured Find.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Uncommon",
+  "cardNumber": "70",
+  "artist": "Jason Chan",
+  "rating": "3.812",
+  "votes": "16"
+}

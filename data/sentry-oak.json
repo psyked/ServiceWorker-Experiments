@@ -1,0 +1,13 @@
+{
+  "title": "Sentry Oak",
+  "image": "./img/sentry-oak.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Treefolk Warrior",
+  "text": "DefenderAt the beginning of combat on your turn, you may clash with an opponent. If you win, Sentry Oak gets +2/+0 and loses defender until end of turn. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",
+  "expansion": "Lorwyn",
+  "rarity": "Uncommon",
+  "cardNumber": "38",
+  "artist": "Warren Mahy",
+  "rating": "1.967",
+  "votes": "45"
+}

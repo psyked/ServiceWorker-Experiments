@@ -1,0 +1,13 @@
+{
+  "title": "From the Ashes",
+  "image": "./img/from-theashes.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy all nonbasic lands. For each land destroyed this way, its controller may search his or her library for a basic land card and put it onto the battlefield. Then each player who searched his or her library this way shuffles it.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "108",
+  "artist": "Karl Kopinski",
+  "rating": "3.719",
+  "votes": "16"
+}

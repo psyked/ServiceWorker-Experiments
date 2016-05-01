@@ -1,0 +1,13 @@
+{
+  "title": "Magistrate's Scepter",
+  "image": "./img/magistrates-scepter.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", : Put a charge counter on Magistrate's Scepter., Remove three charge counters from Magistrate's Scepter: Take an extra turn after this one.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "304",
+  "artist": "Adam Rex",
+  "rating": "4.202",
+  "votes": "62"
+}

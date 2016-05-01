@@ -1,0 +1,13 @@
+{
+  "title": "Autochthon Wurm",
+  "image": "./img/autochthon-wurm.jpg",
+  "convertedManaCost": "15",
+  "types": "Creature  — Wurm",
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for  or one mana of that creature's color.)Trample",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "191",
+  "artist": "Michael Phillippi",
+  "rating": "3.818",
+  "votes": "148"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Argivian Restoration",
+  "image": "./img/argivian-restoration.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Return target artifact card from your graveyard to the battlefield.",
+  "expansion": "Duel Decks: Elspeth vs. Tezzeret",
+  "rarity": "Uncommon",
+  "cardNumber": "69",
+  "artist": "Roger Raupp",
+  "rating": "4.317",
+  "votes": "41"
+}

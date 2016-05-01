@@ -1,0 +1,13 @@
+{
+  "title": "Cone of Flame",
+  "image": "./img/cone-offlame.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.",
+  "expansion": "Welcome Deck 2016",
+  "rarity": "Uncommon",
+  "cardNumber": "12",
+  "artist": "Chippy",
+  "rating": "5",
+  "votes": "0"
+}

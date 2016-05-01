@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Vapor",
+  "image": "./img/wall-ofvapor.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)Prevent all damage that would be dealt to Wall of Vapor by creatures it's blocking.",
+  "expansion": "Chronicles",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Richard Thomas",
+  "rating": "2.302",
+  "votes": "43"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Scorched Earth",
+  "image": "./img/scorched-earth.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Scorched Earth, discard X land cards.Destroy X target lands.",
+  "expansion": "Tempest",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Nicola Leonard",
+  "rating": "3.222",
+  "votes": "36"
+}

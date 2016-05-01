@@ -1,0 +1,13 @@
+{
+  "title": "Ward of Bones",
+  "image": "./img/ward-ofbones.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact",
+  "text": "Each opponent who controls more creatures than you can't play creature cards. The same is true for artifacts, enchantments, and lands.",
+  "expansion": "Eventide",
+  "rarity": "Rare",
+  "cardNumber": "174",
+  "artist": "David Martin",
+  "rating": "3.575",
+  "votes": "60"
+}

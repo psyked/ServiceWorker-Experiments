@@ -1,0 +1,13 @@
+{
+  "title": "Chronatog Totem",
+  "image": "./img/chronatog-totem.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  to your mana pool.: Chronatog Totem becomes a 1/2 blue Atog artifact creature until end of turn.: Chronatog Totem gets +3/+3 until end of turn. You skip your next turn. Activate this ability only once each turn and only if Chronatog Totem is a creature.",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "252",
+  "artist": "Christopher Rush",
+  "rating": "2.419",
+  "votes": "37"
+}

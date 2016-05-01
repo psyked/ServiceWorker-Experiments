@@ -1,0 +1,13 @@
+{
+  "title": "Shipbreaker Kraken",
+  "image": "./img/shipbreaker-kraken.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Kraken",
+  "text": ": Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)When Shipbreaker Kraken becomes monstrous, tap up to four target creatures. Those creatures don't untap during their controllers' untap steps for as long as you control Shipbreaker Kraken.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "63",
+  "artist": "Jack Wang",
+  "rating": "3.583",
+  "votes": "66"
+}

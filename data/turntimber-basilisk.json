@@ -1,0 +1,13 @@
+{
+  "title": "Turntimber Basilisk",
+  "image": "./img/turntimber-basilisk.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Basilisk",
+  "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)Landfall — Whenever a land enters the battlefield under your control, you may have target creature block Turntimber Basilisk this turn if able.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "25",
+  "artist": "Goran Josic",
+  "rating": "5",
+  "votes": "0"
+}

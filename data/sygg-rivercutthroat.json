@@ -1,0 +1,13 @@
+{
+  "title": "Sygg, River Cutthroat",
+  "image": "./img/sygg-rivercutthroat.jpg",
+  "convertedManaCost": "2",
+  "types": "Legendary Creature  — Merfolk Rogue",
+  "text": "At the beginning of each end step, if an opponent lost 3 or more life this turn, you may draw a card. (Damage causes loss of life.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "176",
+  "artist": "Jeremy Enecio",
+  "rating": "4.020",
+  "votes": "76"
+}

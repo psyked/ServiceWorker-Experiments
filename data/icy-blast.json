@@ -1,0 +1,13 @@
+{
+  "title": "Icy Blast",
+  "image": "./img/icy-blast.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Tap X target creatures.Ferocious — If you control a creature with power 4 or greater, those creatures don't untap during their controllers' next untap steps.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "42",
+  "artist": "Eric Deschamps",
+  "rating": "3.667",
+  "votes": "3"
+}

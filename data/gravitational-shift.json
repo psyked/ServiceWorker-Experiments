@@ -1,0 +1,13 @@
+{
+  "title": "Gravitational Shift",
+  "image": "./img/gravitational-shift.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "Creatures with flying get +2/+0.Creatures without flying get -2/-0.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Rare",
+  "cardNumber": "69",
+  "artist": "Svetlin Velinov",
+  "rating": "3.885",
+  "votes": "65"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Stonefare Crocodile",
+  "image": "./img/stonefare-crocodile.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Crocodile",
+  "text": ": Stonefare Crocodile gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.)",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Tomasz Jedruszek",
+  "rating": "2.889",
+  "votes": "9"
+}

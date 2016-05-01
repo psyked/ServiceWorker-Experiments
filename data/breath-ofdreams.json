@@ -1,0 +1,13 @@
+{
+  "title": "Breath of Dreams",
+  "image": "./img/breath-ofdreams.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Cumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)Green creatures have \"Cumulative upkeep .\"",
+  "expansion": "Ice Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Phil Foglio",
+  "rating": "2.700",
+  "votes": "30"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Coral Net",
+  "image": "./img/coral-net.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant green or white creatureEnchanted creature has \"At the beginning of your upkeep, sacrifice this creature unless you discard a card.\"",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "35",
+  "artist": "Roger Raupp",
+  "rating": "2.348",
+  "votes": "23"
+}

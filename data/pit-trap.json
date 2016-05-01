@@ -1,0 +1,13 @@
+{
+  "title": "Pit Trap",
+  "image": "./img/pit-trap.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", , Sacrifice Pit Trap: Destroy target attacking creature without flying. It can't be regenerated.",
+  "expansion": "Seventh Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "313",
+  "artist": "Nelson DeCastro",
+  "rating": "3.672",
+  "votes": "32"
+}

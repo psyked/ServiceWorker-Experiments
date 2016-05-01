@@ -1,0 +1,13 @@
+{
+  "title": "Teferi's Imp",
+  "image": "./img/teferis-imp.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Imp",
+  "text": "FlyingPhasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)Whenever Teferi's Imp phases out, discard a card.Whenever Teferi's Imp phases in, draw a card.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Una Fricker",
+  "rating": "3.064",
+  "votes": "47"
+}

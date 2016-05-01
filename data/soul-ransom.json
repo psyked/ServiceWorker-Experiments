@@ -1,0 +1,13 @@
+{
+  "title": "Soul Ransom",
+  "image": "./img/soul-ransom.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureYou control enchanted creature.Discard two cards: Soul Ransom's controller sacrifices it, then draws two cards. Only any opponent may activate this ability.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "198",
+  "artist": "Steve Argyle",
+  "rating": "3.303",
+  "votes": "66"
+}

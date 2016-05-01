@@ -1,0 +1,13 @@
+{
+  "title": "Fall of the Gavel",
+  "image": "./img/fall-ofthegavel.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Counter target spell. You gain 5 life.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "161",
+  "artist": "Matt Stewart",
+  "rating": "1.618",
+  "votes": "72"
+}

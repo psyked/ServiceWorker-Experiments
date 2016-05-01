@@ -1,0 +1,13 @@
+{
+  "title": "Palace Familiar",
+  "image": "./img/palace-familiar.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Bird",
+  "text": "FlyingWhen Palace Familiar dies, draw a card.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "69",
+  "artist": "Kev Walker",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Volatile Rig",
+  "image": "./img/volatile-rig.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Construct",
+  "text": "TrampleVolatile Rig attacks each turn if able.Whenever Volatile Rig is dealt damage, flip a coin. If you lose the flip, sacrifice Volatile Rig.When Volatile Rig dies, flip a coin. If you lose the flip, it deals 4 damage to each creature and each player.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Rare",
+  "cardNumber": "236",
+  "artist": "Mathias Kollros",
+  "rating": "2.974",
+  "votes": "58"
+}

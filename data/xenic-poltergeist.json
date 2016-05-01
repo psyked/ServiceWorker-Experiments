@@ -1,0 +1,13 @@
+{
+  "title": "Xenic Poltergeist",
+  "image": "./img/xenic-poltergeist.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": ": Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "104",
+  "artist": "Dan Frazier",
+  "rating": "3.648",
+  "votes": "27"
+}

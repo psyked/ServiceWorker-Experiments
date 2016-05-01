@@ -1,0 +1,13 @@
+{
+  "title": "Warmth",
+  "image": "./img/warmth.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever an opponent casts a red spell, you gain 2 life.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "52",
+  "artist": "Drew Tucker",
+  "rating": "3.450",
+  "votes": "20"
+}

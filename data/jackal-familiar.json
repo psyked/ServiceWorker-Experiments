@@ -1,0 +1,13 @@
+{
+  "title": "Jackal Familiar",
+  "image": "./img/jackal-familiar.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Hound",
+  "text": "Jackal Familiar can't attack or block alone.",
+  "expansion": "Magic 2010",
+  "rarity": "Common",
+  "cardNumber": "143",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "3.512",
+  "votes": "80"
+}

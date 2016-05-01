@@ -1,0 +1,13 @@
+{
+  "title": "Denied!",
+  "image": "./img/denied.jpg",
+  "convertedManaCost": "1",
+  "types": "Interrupt",
+  "text": "Play Denied only as any opponent casts target spell. Name a card, then look at all cards in that player's hand. If the named card is in the player's hand, counter target spell.",
+  "expansion": "Unglued",
+  "rarity": "Common",
+  "cardNumber": "22",
+  "artist": "Quinton Hoover",
+  "rating": "3.828",
+  "votes": "29"
+}

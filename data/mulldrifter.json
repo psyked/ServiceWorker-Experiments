@@ -1,0 +1,13 @@
+{
+  "title": "Mulldrifter",
+  "image": "./img/mulldrifter.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental",
+  "text": "FlyingWhen Mulldrifter enters the battlefield, draw two cards.Evoke  (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "97",
+  "artist": "Eric Fortune",
+  "rating": "5",
+  "votes": "0"
+}

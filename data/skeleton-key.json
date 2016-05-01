@@ -1,0 +1,13 @@
+{
+  "title": "Skeleton Key",
+  "image": "./img/skeleton-key.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature has skulk. (It can't be blocked by creatures with greater power.)Whenever equipped creature deals combat damage to a player, you may draw a card. If you do, discard a card.Equip",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "263",
+  "artist": "Daniel Ljunggren",
+  "rating": "5",
+  "votes": "0"
+}

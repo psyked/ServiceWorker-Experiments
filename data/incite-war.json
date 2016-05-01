@@ -1,0 +1,13 @@
+{
+  "title": "Incite War",
+  "image": "./img/incite-war.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose one —• Creatures target player controls attack this turn if able.• Creatures you control gain first strike until end of turn.Entwine  (Choose both if you pay the entwine cost.)",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "96",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "3.740",
+  "votes": "25"
+}

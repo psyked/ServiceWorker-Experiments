@@ -1,0 +1,13 @@
+{
+  "title": "Purge the Profane",
+  "image": "./img/purge-theprofane.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Target opponent discards two cards and you gain 2 life.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "190",
+  "artist": "Michael C. Hayes",
+  "rating": "2.176",
+  "votes": "51"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Blasting Station",
+  "image": "./img/blasting-station.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", Sacrifice a creature: Blasting Station deals 1 damage to target creature or player.Whenever a creature enters the battlefield, you may untap Blasting Station.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "107",
+  "artist": "Stephen Tappin",
+  "rating": "3.756",
+  "votes": "41"
+}

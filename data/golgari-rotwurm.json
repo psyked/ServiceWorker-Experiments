@@ -1,0 +1,13 @@
+{
+  "title": "Golgari Rotwurm",
+  "image": "./img/golgari-rotwurm.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie Wurm",
+  "text": ", Sacrifice a creature: Target player loses 1 life.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Common",
+  "cardNumber": "63",
+  "artist": "Wayne England",
+  "rating": "3.417",
+  "votes": "12"
+}

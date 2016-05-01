@@ -1,0 +1,13 @@
+{
+  "title": "Selesnya Charm",
+  "image": "./img/selesnya-charm.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Choose one —• Target creature gets +2/+2 and gains trample until end of turn.• Exile target creature with power 5 or greater.• Put a 2/2 white Knight creature token with vigilance onto the battlefield.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "211",
+  "artist": "Zoltan Boros",
+  "rating": "3.826",
+  "votes": "23"
+}

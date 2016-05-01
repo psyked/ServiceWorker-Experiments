@@ -1,0 +1,13 @@
+{
+  "title": "Shrine of Boundless Growth",
+  "image": "./img/shrine-ofboundlessgrowth.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep or whenever you cast a green spell, put a charge counter on Shrine of Boundless Growth., Sacrifice Shrine of Boundless Growth: Add  to your mana pool for each charge counter on Shrine of Boundless Growth.",
+  "expansion": "New Phyrexia",
+  "rarity": "Uncommon",
+  "cardNumber": "152",
+  "artist": "Karl Kopinski",
+  "rating": "2.992",
+  "votes": "59"
+}

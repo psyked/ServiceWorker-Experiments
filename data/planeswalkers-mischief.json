@@ -1,0 +1,13 @@
+{
+  "title": "Planeswalker's Mischief",
+  "image": "./img/planeswalkers-mischief.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": ": Target opponent reveals a card at random from his or her hand. If it's an instant or sorcery card, exile it. You may cast it without paying its mana cost for as long as it remains exiled. (If it has X in its mana cost, X is 0.) At the beginning of the next end step, if you haven't cast it, return it to its owner's hand. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "29",
+  "artist": "Pete Venters",
+  "rating": "3.794",
+  "votes": "34"
+}

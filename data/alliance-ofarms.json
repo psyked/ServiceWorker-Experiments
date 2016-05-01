@@ -1,0 +1,13 @@
+{
+  "title": "Alliance of Arms",
+  "image": "./img/alliance-ofarms.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Join forces — Starting with you, each player may pay any amount of mana. Each player puts X 1/1 white Soldier creature tokens onto the battlefield, where X is the total amount of mana paid this way.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Rare",
+  "cardNumber": "4",
+  "artist": "Johann Bodin",
+  "rating": "3.048",
+  "votes": "42"
+}

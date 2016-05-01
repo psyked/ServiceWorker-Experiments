@@ -1,0 +1,13 @@
+{
+  "title": "Spiritual Asylum",
+  "image": "./img/spiritual-asylum.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Creatures and lands you control have shroud. (They can't be the targets of spells or abilities.)When a creature you control attacks, sacrifice Spiritual Asylum.",
+  "expansion": "Nemesis",
+  "rarity": "Rare",
+  "cardNumber": "23",
+  "artist": "Matt Cavotta",
+  "rating": "3.436",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Royal Herbalist",
+  "image": "./img/royal-herbalist.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": ", Exile the top card of your library: You gain 1 life.",
+  "expansion": "Alliances",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Douglas Shuler",
+  "rating": "1.913",
+  "votes": "52"
+}

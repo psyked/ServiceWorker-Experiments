@@ -1,0 +1,13 @@
+{
+  "title": "Asceticism",
+  "image": "./img/asceticism.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "Creatures you control have hexproof. (They can't be the targets of spells or abilities your opponents control.): Regenerate target creature.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "110",
+  "artist": "Daarken",
+  "rating": "4.171",
+  "votes": "211"
+}

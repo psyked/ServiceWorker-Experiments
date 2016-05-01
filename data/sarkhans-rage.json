@@ -1,0 +1,13 @@
+{
+  "title": "Sarkhan's Rage",
+  "image": "./img/sarkhans-rage.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Sarkhan's Rage deals 5 damage to target creature or player. If you control no Dragons, Sarkhan's Rage deals 2 damage to you.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "153",
+  "artist": "Chris Rahn",
+  "rating": "5",
+  "votes": "0"
+}

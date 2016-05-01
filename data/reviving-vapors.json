@@ -1,0 +1,13 @@
+{
+  "title": "Reviving Vapors",
+  "image": "./img/reviving-vapors.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Reveal the top three cards of your library and put one of them into your hand. You gain life equal to that card's converted mana cost. Put all other cards revealed this way into your graveyard.",
+  "expansion": "Vintage Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "259",
+  "artist": "Pete Venters",
+  "rating": "3.500",
+  "votes": "1"
+}

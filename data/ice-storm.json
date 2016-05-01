@@ -1,0 +1,13 @@
+{
+  "title": "Ice Storm",
+  "image": "./img/ice-storm.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Destroy target land.",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "122",
+  "artist": "Dan Frazier",
+  "rating": "4.189",
+  "votes": "45"
+}

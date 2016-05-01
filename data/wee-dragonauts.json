@@ -1,0 +1,13 @@
+{
+  "title": "Wee Dragonauts",
+  "image": "./img/wee-dragonauts.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Faerie Wizard",
+  "text": "FlyingWhenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 until end of turn.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Common",
+  "cardNumber": "6",
+  "artist": "Greg Staples",
+  "rating": "3.883",
+  "votes": "30"
+}

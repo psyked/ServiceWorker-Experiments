@@ -1,0 +1,13 @@
+{
+  "title": "Jeskai Barricade",
+  "image": "./img/jeskai-barricade.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Wall",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)DefenderWhen Jeskai Barricade enters the battlefield, you may return another target creature you control to its owner's hand.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "15",
+  "artist": "Noah Bradley",
+  "rating": "5",
+  "votes": "0"
+}

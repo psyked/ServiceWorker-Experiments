@@ -1,0 +1,13 @@
+{
+  "title": "Spiraling Duelist",
+  "image": "./img/spiraling-duelist.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Berserker",
+  "text": "Metalcraft — Spiraling Duelist has double strike as long as you control three or more artifacts.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Uncommon",
+  "cardNumber": "76",
+  "artist": "Karl Kopinski",
+  "rating": "2.316",
+  "votes": "49"
+}

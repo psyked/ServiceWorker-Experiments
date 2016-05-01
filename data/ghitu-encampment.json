@@ -1,0 +1,13 @@
+{
+  "title": "Ghitu Encampment",
+  "image": "./img/ghitu-encampment.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "Ghitu Encampment enters the battlefield tapped.: Add  to your mana pool.: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It's still a land. (It deals combat damage before creatures without first strike.)",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Uncommon",
+  "cardNumber": "33",
+  "artist": "John Avon",
+  "rating": "5",
+  "votes": "0"
+}

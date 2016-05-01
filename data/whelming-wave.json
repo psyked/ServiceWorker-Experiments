@@ -1,0 +1,13 @@
+{
+  "title": "Whelming Wave",
+  "image": "./img/whelming-wave.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Return all creatures to their owners' hands except for Krakens, Leviathans, Octopuses, and Serpents.",
+  "expansion": "Duel Decks: Elspeth vs. Kiora",
+  "rarity": "Rare",
+  "cardNumber": "44",
+  "artist": "Slawomir Maniak",
+  "rating": "5",
+  "votes": "0"
+}

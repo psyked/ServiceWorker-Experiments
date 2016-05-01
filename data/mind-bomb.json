@@ -1,0 +1,13 @@
+{
+  "title": "Mind Bomb",
+  "image": "./img/mind-bomb.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Each player may discard up to three cards. Mind Bomb deals damage to each player equal to 3 minus the number of cards he or she discarded this way.",
+  "expansion": "Fifth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Mark Tedin",
+  "rating": "4.017",
+  "votes": "58"
+}

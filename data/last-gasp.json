@@ -1,0 +1,13 @@
+{
+  "title": "Last Gasp",
+  "image": "./img/last-gasp.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets -3/-3 until end of turn.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "93",
+  "artist": "Thomas M. Baxa",
+  "rating": "4.034",
+  "votes": "87"
+}

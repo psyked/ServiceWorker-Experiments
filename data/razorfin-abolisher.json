@@ -1,0 +1,13 @@
+{
+  "title": "Razorfin Abolisher",
+  "image": "./img/razorfin-abolisher.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Merfolk Wizard",
+  "text": ", : Return target creature with a counter on it to its owner's hand.",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "28",
+  "artist": "William O'Connor",
+  "rating": "2.959",
+  "votes": "37"
+}

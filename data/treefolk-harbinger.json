@@ -1,0 +1,13 @@
+{
+  "title": "Treefolk Harbinger",
+  "image": "./img/treefolk-harbinger.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Treefolk Druid",
+  "text": "When Treefolk Harbinger enters the battlefield, you may search your library for a Treefolk or Forest card, reveal it, then shuffle your library and put that card on top of it.",
+  "expansion": "Lorwyn",
+  "rarity": "Uncommon",
+  "cardNumber": "239",
+  "artist": "Larry MacDougall",
+  "rating": "4.115",
+  "votes": "91"
+}

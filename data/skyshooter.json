@@ -1,0 +1,13 @@
+{
+  "title": "Skyshooter",
+  "image": "./img/skyshooter.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Centaur Archer",
+  "text": "Reach (This creature can block creatures with flying.), Sacrifice Skyshooter: Destroy target attacking or blocking creature with flying.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "270",
+  "artist": "Jerry Tiritilli",
+  "rating": "2.739",
+  "votes": "23"
+}

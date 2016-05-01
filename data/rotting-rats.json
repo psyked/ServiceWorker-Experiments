@@ -1,0 +1,13 @@
+{
+  "title": "Rotting Rats",
+  "image": "./img/rotting-rats.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie Rat",
+  "text": "When Rotting Rats enters the battlefield, each player discards a card.Unearth  (: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "expansion": "Planechase",
+  "rarity": "Common",
+  "cardNumber": "39",
+  "artist": "Dave Allsop",
+  "rating": "3.065",
+  "votes": "46"
+}

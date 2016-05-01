@@ -1,0 +1,13 @@
+{
+  "title": "Nomads en-Kor",
+  "image": "./img/nomads-en-kor.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Kor Nomad Soldier",
+  "text": ": The next 1 damage that would be dealt to Nomads en-Kor this turn is dealt to target creature you control instead.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "20",
+  "artist": "Val Mayerik",
+  "rating": "5",
+  "votes": "0"
+}

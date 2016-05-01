@@ -1,0 +1,13 @@
+{
+  "title": "Soul Tithe",
+  "image": "./img/soul-tithe.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant nonland permanentAt the beginning of the upkeep of enchanted permanent's controller, that player sacrifices it unless he or she pays , where X is its converted mana cost.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "23",
+  "artist": "Dave Kendall",
+  "rating": "3.855",
+  "votes": "62"
+}

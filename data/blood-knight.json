@@ -1,0 +1,13 @@
+{
+  "title": "Blood Knight",
+  "image": "./img/blood-knight.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Knight",
+  "text": "First strike, protection from white",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "115",
+  "artist": "Matt Cavotta",
+  "rating": "4.274",
+  "votes": "104"
+}

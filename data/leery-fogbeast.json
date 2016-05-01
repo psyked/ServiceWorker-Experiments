@@ -1,0 +1,13 @@
+{
+  "title": "Leery Fogbeast",
+  "image": "./img/leery-fogbeast.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Beast",
+  "text": "Whenever Leery Fogbeast becomes blocked, prevent all combat damage that would be dealt this turn.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "273",
+  "artist": "Matt Cavotta",
+  "rating": "2.738",
+  "votes": "42"
+}

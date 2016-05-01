@@ -1,0 +1,13 @@
+{
+  "title": "Jeskai Windscout",
+  "image": "./img/jeskai-windscout.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Bird Scout",
+  "text": "FlyingProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "44",
+  "artist": "Johann Bodin",
+  "rating": "3.167",
+  "votes": "3"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dega Disciple",
+  "image": "./img/dega-disciple.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Wizard",
+  "text": ", : Target creature gets -2/-0 until end of turn., : Target creature gets +2/+0 until end of turn.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "4",
+  "artist": "Alan Pollack",
+  "rating": "3.750",
+  "votes": "34"
+}

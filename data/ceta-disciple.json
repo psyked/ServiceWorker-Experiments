@@ -1,0 +1,13 @@
+{
+  "title": "Ceta Disciple",
+  "image": "./img/ceta-disciple.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Merfolk Wizard",
+  "text": ", : Target creature gets +2/+0 until end of turn., : Add one mana of any color to your mana pool.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "19",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "3.191",
+  "votes": "34"
+}

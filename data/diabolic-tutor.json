@@ -1,0 +1,13 @@
+{
+  "title": "Diabolic Tutor",
+  "image": "./img/diabolic-tutor.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Search your library for a card and put that card into your hand. Then shuffle your library.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "95",
+  "artist": "Greg Staples",
+  "rating": "3.719",
+  "votes": "48"
+}

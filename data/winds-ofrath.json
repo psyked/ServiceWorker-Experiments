@@ -1,0 +1,13 @@
+{
+  "title": "Winds of Rath",
+  "image": "./img/winds-ofrath.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Destroy all creatures that aren't enchanted. They can't be regenerated.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Rare",
+  "cardNumber": "40",
+  "artist": "Drew Tucker",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Stampede",
+  "image": "./img/stampede.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Attacking creatures get +1/+0 and gain trample until end of turn.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "178",
+  "artist": "Jeff A. Menges",
+  "rating": "3.239",
+  "votes": "23"
+}

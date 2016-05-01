@@ -1,0 +1,13 @@
+{
+  "title": "Wormfang Behemoth",
+  "image": "./img/wormfang-behemoth.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Nightmare Fish Beast",
+  "text": "When Wormfang Behemoth enters the battlefield, exile all cards from your hand.When Wormfang Behemoth leaves the battlefield, return the exiled cards to their owner's hand.",
+  "expansion": "Judgment",
+  "rarity": "Rare",
+  "cardNumber": "55",
+  "artist": "Heather Hudson",
+  "rating": "1.663",
+  "votes": "43"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Pongify",
+  "image": "./img/pongify.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Destroy target creature. It can't be regenerated. Its controller puts a 3/3 green Ape creature token onto the battlefield.",
+  "expansion": "Commander 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "120",
+  "artist": "Heather Hudson",
+  "rating": "5",
+  "votes": "0"
+}

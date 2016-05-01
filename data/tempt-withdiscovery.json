@@ -1,0 +1,13 @@
+{
+  "title": "Tempt with Discovery",
+  "image": "./img/tempt-withdiscovery.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Tempting offer — Search your library for a land card and put it onto the battlefield. Each opponent may search his or her library for a land card and put it onto the battlefield. For each opponent who searches a library this way, search your library for a land card and put it onto the battlefield. Then each player who searched a library this way shuffles it.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "174",
+  "artist": "William Wu",
+  "rating": "3.860",
+  "votes": "25"
+}

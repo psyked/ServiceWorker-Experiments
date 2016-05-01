@@ -1,0 +1,13 @@
+{
+  "title": "Juju Bubble",
+  "image": "./img/juju-bubble.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": "Cumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)When you play a card, sacrifice Juju Bubble.: You gain 1 life.",
+  "expansion": "Visions",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Donato Giancola",
+  "rating": "0.914",
+  "votes": "111"
+}

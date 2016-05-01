@@ -1,0 +1,13 @@
+{
+  "title": "Alchemist's Refuge",
+  "image": "./img/alchemists-refuge.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool., : You may cast nonland cards this turn as though they had flash.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "225",
+  "artist": "Dan Scott",
+  "rating": "4.038",
+  "votes": "119"
+}

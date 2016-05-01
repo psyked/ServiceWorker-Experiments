@@ -1,0 +1,13 @@
+{
+  "title": "Mirror Strike",
+  "image": "./img/mirror-strike.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "All combat damage that would be dealt to you this turn by target unblocked creature is dealt to its controller instead.",
+  "expansion": "Prophecy",
+  "rarity": "Uncommon",
+  "cardNumber": "17",
+  "artist": "Dave Dorman",
+  "rating": "3.438",
+  "votes": "32"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Leering Gargoyle",
+  "image": "./img/leering-gargoyle.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Gargoyle",
+  "text": "Flying: Leering Gargoyle gets -2/+2 and loses flying until end of turn.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Dermot Power",
+  "rating": "2.818",
+  "votes": "33"
+}

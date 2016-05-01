@@ -1,0 +1,13 @@
+{
+  "title": "Crown of Flames",
+  "image": "./img/crown-offlames.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature: Enchanted creature gets +1/+0 until end of turn.: Return Crown of Flames to its owner's hand.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "142",
+  "artist": "Christopher Moeller",
+  "rating": "4.167",
+  "votes": "36"
+}

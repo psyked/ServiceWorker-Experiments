@@ -1,0 +1,13 @@
+{
+  "title": "Morselhoarder",
+  "image": "./img/morselhoarder.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": "Morselhoarder enters the battlefield with two -1/-1 counters on it.Remove a -1/-1 counter from Morselhoarder: Add one mana of any color to your mana pool.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "212",
+  "artist": "Anthony S. Waters",
+  "rating": "3.838",
+  "votes": "68"
+}

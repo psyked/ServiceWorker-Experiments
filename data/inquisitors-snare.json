@@ -1,0 +1,13 @@
+{
+  "title": "Inquisitor's Snare",
+  "image": "./img/inquisitors-snare.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Prevent all damage target attacking or blocking creature would deal this turn. If that creature is black or red, destroy it.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "8",
+  "artist": "Michael Sutfin",
+  "rating": "2.786",
+  "votes": "28"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Howlpack Wolf",
+  "image": "./img/howlpack-wolf.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wolf",
+  "text": "Howlpack Wolf can't block unless you control another Wolf or Werewolf.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "164",
+  "artist": "Svetlin Velinov",
+  "rating": "5",
+  "votes": "0"
+}

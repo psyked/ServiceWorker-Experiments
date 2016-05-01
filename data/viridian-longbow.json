@@ -1,0 +1,13 @@
+{
+  "title": "Viridian Longbow",
+  "image": "./img/viridian-longbow.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature has \": This creature deals 1 damage to target creature or player.\"Equip  (: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "270",
+  "artist": "Jeremy Jarvis",
+  "rating": "3.978",
+  "votes": "69"
+}

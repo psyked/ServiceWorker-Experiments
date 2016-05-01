@@ -1,0 +1,13 @@
+{
+  "title": "Artificer's Epiphany",
+  "image": "./img/artificers-epiphany.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Draw two cards. If you control no artifacts, discard a card.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "45",
+  "artist": "Kieran Yanner",
+  "rating": "5",
+  "votes": "0"
+}

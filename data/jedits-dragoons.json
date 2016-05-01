@@ -1,0 +1,13 @@
+{
+  "title": "Jedit's Dragoons",
+  "image": "./img/jedits-dragoons.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Cat Soldier",
+  "text": "VigilanceWhen Jedit's Dragoons enters the battlefield, you gain 4 life.",
+  "expansion": "Duel Decks: Venser vs. Koth",
+  "rarity": "Common",
+  "cardNumber": "20",
+  "artist": "John Matson",
+  "rating": "1.543",
+  "votes": "23"
+}

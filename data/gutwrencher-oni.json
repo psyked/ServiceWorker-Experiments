@@ -1,0 +1,13 @@
+{
+  "title": "Gutwrencher Oni",
+  "image": "./img/gutwrencher-oni.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Demon Spirit",
+  "text": "TrampleAt the beginning of your upkeep, discard a card if you don't control an Ogre.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "113",
+  "artist": "Hideaki Takamura",
+  "rating": "3.048",
+  "votes": "31"
+}

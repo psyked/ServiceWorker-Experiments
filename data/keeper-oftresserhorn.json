@@ -1,0 +1,13 @@
+{
+  "title": "Keeper of Tresserhorn",
+  "image": "./img/keeper-oftresserhorn.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Avatar",
+  "text": "Whenever Keeper of Tresserhorn attacks and isn't blocked, it assigns no combat damage this turn and defending player loses 2 life.",
+  "expansion": "Alliances",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Z. Plucinski & D.A. Gregory",
+  "rating": "2.479",
+  "votes": "48"
+}

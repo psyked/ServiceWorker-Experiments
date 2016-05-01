@@ -1,0 +1,13 @@
+{
+  "title": "Dwarven Weaponsmith",
+  "image": "./img/dwarven-weaponsmith.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Dwarf Artificer",
+  "text": ", Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate this ability only during your upkeep.",
+  "expansion": "Revised Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Mark Poole",
+  "rating": "2.000",
+  "votes": "31"
+}

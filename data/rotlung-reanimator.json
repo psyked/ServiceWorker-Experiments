@@ -1,0 +1,13 @@
+{
+  "title": "Rotlung Reanimator",
+  "image": "./img/rotlung-reanimator.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie Cleric",
+  "text": "Whenever Rotlung Reanimator or another Cleric dies, put a 2/2 black Zombie creature token onto the battlefield.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "164",
+  "artist": "Thomas M. Baxa",
+  "rating": "4.254",
+  "votes": "57"
+}

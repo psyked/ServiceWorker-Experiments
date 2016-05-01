@@ -1,0 +1,13 @@
+{
+  "title": "Exoskeletal Armor",
+  "image": "./img/exoskeletal-armor.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +X/+X, where X is the number of creature cards in all graveyards.",
+  "expansion": "Judgment",
+  "rarity": "Uncommon",
+  "cardNumber": "114",
+  "artist": "Wayne England",
+  "rating": "3.806",
+  "votes": "31"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Flight of Fancy",
+  "image": "./img/flight-offancy.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Flight of Fancy enters the battlefield, draw two cards.Enchanted creature has flying.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "49",
+  "artist": "Glen Angus",
+  "rating": "3.745",
+  "votes": "53"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Shadowstorm",
+  "image": "./img/shadowstorm.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Shadowstorm deals 2 damage to each creature with shadow.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "157",
+  "artist": "Adam Rex",
+  "rating": "5",
+  "votes": "0"
+}

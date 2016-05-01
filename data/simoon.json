@@ -1,0 +1,13 @@
+{
+  "title": "Simoon",
+  "image": "./img/simoon.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Simoon deals 1 damage to each creature target opponent controls.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "272",
+  "artist": "Tony Szczudlo",
+  "rating": "3.750",
+  "votes": "50"
+}

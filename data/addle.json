@@ -1,0 +1,13 @@
+{
+  "title": "Addle",
+  "image": "./img/addle.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Choose a color. Target player reveals his or her hand and you choose a card of that color from it. That player discards that card.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "103",
+  "artist": "Ron Spears",
+  "rating": "0.500",
+  "votes": "1"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Lexivore",
+  "image": "./img/lexivore.jpg",
+  "convertedManaCost": "4",
+  "types": "Summon — Beast",
+  "text": "If Lexivore damages any player, destroy target card in play, other than Lexivore, with the most lines of text in its text box. (If more than one card has the most lines of text, you choose which of those cards to destroy.)",
+  "expansion": "Unglued",
+  "rarity": "Uncommon",
+  "cardNumber": "7",
+  "artist": "Daniel Gelon",
+  "rating": "3.237",
+  "votes": "19"
+}

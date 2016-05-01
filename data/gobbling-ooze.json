@@ -1,0 +1,13 @@
+{
+  "title": "Gobbling Ooze",
+  "image": "./img/gobbling-ooze.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Ooze",
+  "text": ", Sacrifice another creature: Put a +1/+1 counter on Gobbling Ooze.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "126",
+  "artist": "Johann Bodin",
+  "rating": "2.114",
+  "votes": "44"
+}

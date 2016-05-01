@@ -1,0 +1,13 @@
+{
+  "title": "Festering Goblin",
+  "image": "./img/festering-goblin.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Zombie Goblin",
+  "text": "When Festering Goblin dies, target creature gets -1/-1 until end of turn.",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "87",
+  "artist": "Thomas M. Baxa",
+  "rating": "3.812",
+  "votes": "16"
+}

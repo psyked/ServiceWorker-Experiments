@@ -1,0 +1,13 @@
+{
+  "title": "Godo, Bandit Warlord",
+  "image": "./img/godo-banditwarlord.jpg",
+  "convertedManaCost": "6",
+  "types": "Legendary Creature  — Human Barbarian",
+  "text": "When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card and put it onto the battlefield. If you do, shuffle your library.Whenever Godo attacks for the first time each turn, untap it and all Samurai you control. After this phase, there is an additional combat phase.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "169",
+  "artist": "Paolo Parente",
+  "rating": "3.991",
+  "votes": "56"
+}

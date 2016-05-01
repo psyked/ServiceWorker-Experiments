@@ -1,0 +1,13 @@
+{
+  "title": "Brain in a Jar",
+  "image": "./img/brain-inajar.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", : Put a charge counter on Brain in a Jar, then you may cast an instant or sorcery card with converted mana cost equal to the number of charge counters on Brain in a Jar from your hand without paying its mana cost., , Remove X charge counters from Brain in a Jar: Scry X.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "252",
+  "artist": "Daniel Ljunggren",
+  "rating": "5",
+  "votes": "0"
+}

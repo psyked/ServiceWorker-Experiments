@@ -1,0 +1,13 @@
+{
+  "title": "Raging Goblin",
+  "image": "./img/raging-goblin.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Berserker",
+  "text": "Haste (This creature can attack and  as soon as it comes under your control.)",
+  "expansion": "Duel Decks Anthology, Elves vs. Goblins",
+  "rarity": "Common",
+  "cardNumber": "47",
+  "artist": "Jeff Miracola",
+  "rating": "5",
+  "votes": "0"
+}

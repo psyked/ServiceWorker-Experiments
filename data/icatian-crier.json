@@ -1,0 +1,13 @@
+{
+  "title": "Icatian Crier",
+  "image": "./img/icatian-crier.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Spellshaper",
+  "text": ", , Discard a card: Put two 1/1 white Citizen creature tokens onto the battlefield.",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "23",
+  "artist": "Michael Phillippi",
+  "rating": "3.062",
+  "votes": "40"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Grave Titan",
+  "image": "./img/grave-titan.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant",
+  "text": "DeathtouchWhenever Grave Titan enters the battlefield or attacks, put two 2/2 black Zombie creature tokens onto the battlefield.",
+  "expansion": "Commander 2014",
+  "rarity": "Mythic Rare",
+  "cardNumber": "145",
+  "artist": "Nils Hamm",
+  "rating": "5",
+  "votes": "0"
+}

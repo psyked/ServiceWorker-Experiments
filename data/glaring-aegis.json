@@ -1,0 +1,13 @@
+{
+  "title": "Glaring Aegis",
+  "image": "./img/glaring-aegis.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Glaring Aegis enters the battlefield, tap target creature an opponent controls.Enchanted creature gets +1/+3.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "18",
+  "artist": "Anthony Palumbo",
+  "rating": "5",
+  "votes": "0"
+}

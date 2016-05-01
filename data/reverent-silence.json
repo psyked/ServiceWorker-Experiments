@@ -1,0 +1,13 @@
+{
+  "title": "Reverent Silence",
+  "image": "./img/reverent-silence.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "If you control a Forest, rather than pay Reverent Silence's mana cost, you may have each other player gain 6 life.Destroy all enchantments.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "Don Hazeltine",
+  "rating": "4.046",
+  "votes": "54"
+}

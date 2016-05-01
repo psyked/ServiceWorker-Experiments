@@ -1,0 +1,13 @@
+{
+  "title": "Woolly Spider",
+  "image": "./img/woolly-spider.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spider",
+  "text": "Reach (This creature can block creatures with flying.)Whenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "189",
+  "artist": "Daniel Gelon",
+  "rating": "3.667",
+  "votes": "39"
+}

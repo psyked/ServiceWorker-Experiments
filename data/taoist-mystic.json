@@ -1,0 +1,13 @@
+{
+  "title": "Taoist Mystic",
+  "image": "./img/taoist-mystic.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Mystic",
+  "text": "Taoist Mystic can't be blocked by creatures with horsemanship.",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Rare",
+  "cardNumber": "151",
+  "artist": "Qu Xin",
+  "rating": "1.829",
+  "votes": "35"
+}

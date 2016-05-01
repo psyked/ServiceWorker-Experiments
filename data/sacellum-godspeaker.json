@@ -1,0 +1,13 @@
+{
+  "title": "Sacellum Godspeaker",
+  "image": "./img/sacellum-godspeaker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Druid",
+  "text": ": Reveal any number of creature cards with power 5 or greater from your hand. Add  to your mana pool for each card revealed this way.",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "146",
+  "artist": "Wayne Reynolds",
+  "rating": "2.611",
+  "votes": "54"
+}

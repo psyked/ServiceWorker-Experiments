@@ -1,0 +1,13 @@
+{
+  "title": "Patrol Hound",
+  "image": "./img/patrol-hound.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Hound",
+  "text": "Discard a card: Patrol Hound gains first strike until end of turn.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "38",
+  "artist": "Daren Bader",
+  "rating": "2.817",
+  "votes": "41"
+}

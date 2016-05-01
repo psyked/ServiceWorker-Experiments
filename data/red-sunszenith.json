@@ -1,0 +1,13 @@
+{
+  "title": "Red Sun's Zenith",
+  "image": "./img/red-sunszenith.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Red Sun's Zenith deals X damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead. Shuffle Red Sun's Zenith into its owner's library.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Rare",
+  "cardNumber": "74",
+  "artist": "Svetlin Velinov",
+  "rating": "3.717",
+  "votes": "122"
+}

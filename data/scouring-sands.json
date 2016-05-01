@@ -1,0 +1,13 @@
+{
+  "title": "Scouring Sands",
+  "image": "./img/scouring-sands.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Scouring Sands deals 1 damage to each creature your opponents control. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "110",
+  "artist": "Jonas De Ro",
+  "rating": "3.212",
+  "votes": "26"
+}

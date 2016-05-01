@@ -1,0 +1,13 @@
+{
+  "title": "Geralf's Mindcrusher",
+  "image": "./img/geralfs-mindcrusher.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Zombie Horror",
+  "text": "When Geralf's Mindcrusher enters the battlefield, target player puts the top five cards of his or her library into his or her graveyard.Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+  "expansion": "Dark Ascension",
+  "rarity": "Rare",
+  "cardNumber": "37",
+  "artist": "Steven Belledin",
+  "rating": "3.695",
+  "votes": "87"
+}

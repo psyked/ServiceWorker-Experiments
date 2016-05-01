@@ -1,0 +1,13 @@
+{
+  "title": "Blight",
+  "image": "./img/blight.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landWhen enchanted land becomes tapped, destroy it.",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "61",
+  "artist": "Pete Venters",
+  "rating": "3.780",
+  "votes": "41"
+}

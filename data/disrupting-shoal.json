@@ -1,0 +1,13 @@
+{
+  "title": "Disrupting Shoal",
+  "image": "./img/disrupting-shoal.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant  — Arcane",
+  "text": "You may exile a blue card with converted mana cost X from your hand rather than pay Disrupting Shoal's mana cost.Counter target spell if its converted mana cost is X.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "33",
+  "artist": "Scott M. Fischer",
+  "rating": "3.742",
+  "votes": "62"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Devouring Greed",
+  "image": "./img/devouring-greed.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery  — Arcane",
+  "text": "As an additional cost to cast Devouring Greed, you may sacrifice any number of Spirits.Target player loses 2 life plus 2 life for each Spirit sacrificed this way. You gain that much life.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "78",
+  "artist": "Vance Kovacs",
+  "rating": "5",
+  "votes": "0"
+}

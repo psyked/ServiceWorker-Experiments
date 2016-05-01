@@ -1,0 +1,13 @@
+{
+  "title": "Chandra's Phoenix",
+  "image": "./img/chandras-phoenix.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Phoenix",
+  "text": "FlyingHaste (This creature can attack and  as soon as it comes under your control.)Whenever an opponent is dealt damage by a red instant or sorcery spell you control or by a red planeswalker you control, return Chandra's Phoenix from your graveyard to your hand.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "134",
+  "artist": "Aleksi Briclot",
+  "rating": "3.709",
+  "votes": "67"
+}

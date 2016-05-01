@@ -1,0 +1,13 @@
+{
+  "title": "Gruul Guildmage",
+  "image": "./img/gruul-guildmage.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Shaman",
+  "text": "( can be paid with either  or .), Sacrifice a land: Gruul Guildmage deals 2 damage to target player.: Target creature gets +2/+2 until end of turn.",
+  "expansion": "Guildpact",
+  "rarity": "Uncommon",
+  "cardNumber": "144",
+  "artist": "Paolo Parente",
+  "rating": "2.966",
+  "votes": "44"
+}

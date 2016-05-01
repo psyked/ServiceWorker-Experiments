@@ -1,0 +1,13 @@
+{
+  "title": "Excise",
+  "image": "./img/excise.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Exile target attacking creature unless its controller pays .",
+  "expansion": "Prophecy",
+  "rarity": "Common",
+  "cardNumber": "8",
+  "artist": "Joel Biske",
+  "rating": "3.394",
+  "votes": "33"
+}

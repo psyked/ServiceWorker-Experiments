@@ -1,0 +1,13 @@
+{
+  "title": "Magmaw",
+  "image": "./img/magmaw.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental",
+  "text": ", Sacrifice a nonland permanent: Magmaw deals 1 damage to target creature or player.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Rare",
+  "cardNumber": "62",
+  "artist": "Karl Kopinski",
+  "rating": "5",
+  "votes": "0"
+}

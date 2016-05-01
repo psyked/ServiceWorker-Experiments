@@ -1,0 +1,13 @@
+{
+  "title": "Stasis Cocoon",
+  "image": "./img/stasis-cocoon.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant artifactEnchanted artifact can't attack or block, and its activated abilities can't be activated.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "18",
+  "artist": "Kev Walker",
+  "rating": "3.044",
+  "votes": "34"
+}

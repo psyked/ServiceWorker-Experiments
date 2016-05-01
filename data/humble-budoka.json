@@ -1,0 +1,13 @@
+{
+  "title": "Humble Budoka",
+  "image": "./img/humble-budoka.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Monk",
+  "text": "Shroud (This creature can't be the target of spells or abilities.)",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "214",
+  "artist": "Christopher Moeller",
+  "rating": "3.480",
+  "votes": "49"
+}

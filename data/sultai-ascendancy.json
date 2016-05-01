@@ -1,0 +1,13 @@
+{
+  "title": "Sultai Ascendancy",
+  "image": "./img/sultai-ascendancy.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, look at the top two cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "203",
+  "artist": "Karl Kopinski",
+  "rating": "3.000",
+  "votes": "2"
+}

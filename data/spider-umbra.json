@@ -1,0 +1,13 @@
+{
+  "title": "Spider Umbra",
+  "image": "./img/spider-umbra.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+1 and has reach. (It can block creatures with flying.)Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",
+  "expansion": "Archenemy",
+  "rarity": "Common",
+  "cardNumber": "70",
+  "artist": "Christopher Moeller",
+  "rating": "3.791",
+  "votes": "55"
+}

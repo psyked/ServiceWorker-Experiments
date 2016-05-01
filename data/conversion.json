@@ -1,0 +1,13 @@
+{
+  "title": "Conversion",
+  "image": "./img/conversion.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, sacrifice Conversion unless you pay .All Mountains are Plains.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "9",
+  "artist": "Jesper Myrfors",
+  "rating": "3.815",
+  "votes": "27"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sparring Collar",
+  "image": "./img/sparring-collar.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature has first strike.: Attach Sparring Collar to target creature you control.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "154",
+  "artist": "Christopher Moeller",
+  "rating": "2.942",
+  "votes": "26"
+}

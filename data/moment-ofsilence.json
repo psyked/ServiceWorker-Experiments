@@ -1,0 +1,13 @@
+{
+  "title": "Moment of Silence",
+  "image": "./img/moment-ofsilence.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target player skips his or her next combat phase this turn.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "28",
+  "artist": "Christopher Moeller",
+  "rating": "3.694",
+  "votes": "31"
+}

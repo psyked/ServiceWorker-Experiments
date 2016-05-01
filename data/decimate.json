@@ -1,0 +1,13 @@
+{
+  "title": "Decimate",
+  "image": "./img/decimate.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy target artifact, target creature, target enchantment, and target land.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Rare",
+  "cardNumber": "185",
+  "artist": "Zoltan Boros",
+  "rating": "4.357",
+  "votes": "14"
+}

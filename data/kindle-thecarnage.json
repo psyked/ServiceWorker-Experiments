@@ -1,0 +1,13 @@
+{
+  "title": "Kindle the Carnage",
+  "image": "./img/kindle-thecarnage.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Discard a card at random. If you do, Kindle the Carnage deals damage equal to that card's converted mana cost to each creature. You may repeat this process any number of times.",
+  "expansion": "Dissension",
+  "rarity": "Uncommon",
+  "cardNumber": "66",
+  "artist": "Dany Orizio",
+  "rating": "3.878",
+  "votes": "49"
+}

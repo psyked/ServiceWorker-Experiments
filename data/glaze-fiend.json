@@ -1,0 +1,13 @@
+{
+  "title": "Glaze Fiend",
+  "image": "./img/glaze-fiend.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Illusion",
+  "text": "FlyingWhenever another artifact enters the battlefield under your control, Glaze Fiend gets +2/+2 until end of turn.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "77",
+  "artist": "Joshua Hagler",
+  "rating": "3.088",
+  "votes": "102"
+}

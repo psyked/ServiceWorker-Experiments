@@ -1,0 +1,13 @@
+{
+  "title": "Sensation Gorger",
+  "image": "./img/sensation-gorger.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Shaman",
+  "text": "Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Sensation Gorger, you may reveal it. If you do, each player discards his or her hand, then draws four cards.",
+  "expansion": "Morningtide",
+  "rarity": "Rare",
+  "cardNumber": "102",
+  "artist": "Matt Cavotta",
+  "rating": "3.570",
+  "votes": "57"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Shrieking Affliction",
+  "image": "./img/shrieking-affliction.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment",
+  "text": "At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, he or she loses 3 life.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "76",
+  "artist": "Johann Bodin",
+  "rating": "3.568",
+  "votes": "59"
+}

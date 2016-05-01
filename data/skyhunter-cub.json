@@ -1,0 +1,13 @@
+{
+  "title": "Skyhunter Cub",
+  "image": "./img/skyhunter-cub.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Cat Knight",
+  "text": "As long as Skyhunter Cub is equipped, it gets +1/+1 and has flying.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "21",
+  "artist": "Pete Venters",
+  "rating": "2.929",
+  "votes": "35"
+}

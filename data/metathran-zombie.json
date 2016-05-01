@@ -1,0 +1,13 @@
+{
+  "title": "Metathran Zombie",
+  "image": "./img/metathran-zombie.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Metathran Zombie",
+  "text": ": Regenerate Metathran Zombie.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "63",
+  "artist": "Arnie Swekel",
+  "rating": "3.079",
+  "votes": "38"
+}

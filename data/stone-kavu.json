@@ -1,0 +1,13 @@
+{
+  "title": "Stone Kavu",
+  "image": "./img/stone-kavu.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Kavu",
+  "text": ": Stone Kavu gets +1/+0 until end of turn.: Stone Kavu gets +0/+1 until end of turn.",
+  "expansion": "Planeshift",
+  "rarity": "Common",
+  "cardNumber": "93",
+  "artist": "Adam Rex",
+  "rating": "2.840",
+  "votes": "25"
+}

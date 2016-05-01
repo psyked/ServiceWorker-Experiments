@@ -1,0 +1,13 @@
+{
+  "title": "Nature's Kiss",
+  "image": "./img/natures-kiss.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature, Exile the top card of your graveyard: Enchanted creature gets +1/+1 until end of turn.",
+  "expansion": "Weatherlight",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Scott M. Fischer",
+  "rating": "2.467",
+  "votes": "30"
+}

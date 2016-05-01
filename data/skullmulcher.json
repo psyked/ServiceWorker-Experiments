@@ -1,0 +1,13 @@
+{
+  "title": "Skullmulcher",
+  "image": "./img/skullmulcher.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental",
+  "text": "Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)When Skullmulcher enters the battlefield, draw a card for each creature it devoured.",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "148",
+  "artist": "Michael Ryan",
+  "rating": "3.153",
+  "votes": "75"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Increasing Ambition",
+  "image": "./img/increasing-ambition.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Search your library for a card and put that card into your hand. If Increasing Ambition was cast from a graveyard, instead search your library for two cards and put those cards into your hand. Then shuffle your library.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Dark Ascension",
+  "rarity": "Rare",
+  "cardNumber": "69",
+  "artist": "Volkan Baga",
+  "rating": "3.634",
+  "votes": "82"
+}

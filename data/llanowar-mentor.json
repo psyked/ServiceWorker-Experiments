@@ -1,0 +1,13 @@
+{
+  "title": "Llanowar Mentor",
+  "image": "./img/llanowar-mentor.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Spellshaper",
+  "text": ", , Discard a card: Put a 1/1 green Elf Druid creature token named Llanowar Elves onto the battlefield. It has \": Add  to your mana pool.\"",
+  "expansion": "Future Sight",
+  "rarity": "Uncommon",
+  "cardNumber": "131",
+  "artist": "Trevor Hairsine",
+  "rating": "3.193",
+  "votes": "57"
+}

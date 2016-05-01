@@ -1,0 +1,13 @@
+{
+  "title": "Tidehollow Strix",
+  "image": "./img/tidehollow-strix.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Bird",
+  "text": "FlyingDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Common",
+  "cardNumber": "222",
+  "artist": "Cyril Van Der Haegen",
+  "rating": "3.676",
+  "votes": "17"
+}

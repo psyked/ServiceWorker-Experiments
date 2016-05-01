@@ -1,0 +1,13 @@
+{
+  "title": "Spectral Rider",
+  "image": "./img/spectral-rider.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit Knight",
+  "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "35",
+  "artist": "Igor Kieryluk",
+  "rating": "3.833",
+  "votes": "72"
+}

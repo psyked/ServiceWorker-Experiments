@@ -1,0 +1,13 @@
+{
+  "title": "Copper Tablet",
+  "image": "./img/copper-tablet.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "At the beginning of each player's upkeep, Copper Tablet deals 1 damage to that player.",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "154",
+  "artist": "Amy Weber",
+  "rating": "2.324",
+  "votes": "37"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Cleaver Riot",
+  "image": "./img/cleaver-riot.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Creatures you control gain double strike until end of turn. (They deal both first-strike and regular combat damage.)",
+  "expansion": "Magic 2013",
+  "rarity": "Uncommon",
+  "cardNumber": "125",
+  "artist": "Dave Kendall",
+  "rating": "2.679",
+  "votes": "39"
+}

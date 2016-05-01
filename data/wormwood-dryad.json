@@ -1,0 +1,13 @@
+{
+  "title": "Wormwood Dryad",
+  "image": "./img/wormwood-dryad.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Dryad",
+  "text": ": Wormwood Dryad gains forestwalk until end of turn and deals 1 damage to you. (It can't be blocked as long as defending player controls a Forest.): Wormwood Dryad gains swampwalk until end of turn and deals 1 damage to you. (It can't be blocked as long as defending player controls a Swamp.)",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "233",
+  "artist": "Warren Mahy",
+  "rating": "2.238",
+  "votes": "40"
+}

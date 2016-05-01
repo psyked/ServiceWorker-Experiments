@@ -1,0 +1,13 @@
+{
+  "title": "Burn Away",
+  "image": "./img/burn-away.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Burn Away deals 6 damage to target creature. When that creature dies this turn, exile all cards from its controller's graveyard.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "104",
+  "artist": "Vincent Proce",
+  "rating": "3.250",
+  "votes": "2"
+}

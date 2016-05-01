@@ -1,0 +1,13 @@
+{
+  "title": "Keldon Firebombers",
+  "image": "./img/keldon-firebombers.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Soldier",
+  "text": "When Keldon Firebombers enters the battlefield, each player sacrifices all lands he or she controls except for three.",
+  "expansion": "Prophecy",
+  "rarity": "Rare",
+  "cardNumber": "94",
+  "artist": "Randy Gallegos",
+  "rating": "3.883",
+  "votes": "30"
+}

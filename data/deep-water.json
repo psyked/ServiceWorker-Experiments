@@ -1,0 +1,13 @@
+{
+  "title": "Deep Water",
+  "image": "./img/deep-water.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": ": Until end of turn, if you tap a land you control for mana, it produces  instead of any other type.",
+  "expansion": "The Dark",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Jeff A. Menges",
+  "rating": "1.808",
+  "votes": "52"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Looming Hoverguard",
+  "image": "./img/looming-hoverguard.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Drone",
+  "text": "FlyingWhen Looming Hoverguard enters the battlefield, put target artifact on top of its owner's library.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "38",
+  "artist": "Scott M. Fischer",
+  "rating": "2.261",
+  "votes": "23"
+}

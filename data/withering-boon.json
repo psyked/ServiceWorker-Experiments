@@ -1,0 +1,13 @@
+{
+  "title": "Withering Boon",
+  "image": "./img/withering-boon.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "As an additional cost to cast Withering Boon, pay 3 life.Counter target creature spell.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Robert Bliss",
+  "rating": "3.514",
+  "votes": "72"
+}

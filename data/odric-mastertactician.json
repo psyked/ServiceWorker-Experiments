@@ -1,0 +1,13 @@
+{
+  "title": "Odric, Master Tactician",
+  "image": "./img/odric-mastertactician.jpg",
+  "convertedManaCost": "4",
+  "types": "Legendary Creature  — Human Soldier",
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)Whenever Odric, Master Tactician and at least three other creatures attack, you choose which creatures block this combat and how those creatures block.",
+  "expansion": "Magic 2013",
+  "rarity": "Rare",
+  "cardNumber": "23",
+  "artist": "Michael Komarck",
+  "rating": "4.012",
+  "votes": "163"
+}

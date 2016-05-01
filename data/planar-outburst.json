@@ -1,0 +1,13 @@
+{
+  "title": "Planar Outburst",
+  "image": "./img/planar-outburst.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Destroy all nonland creatures.Awaken 4— (If you cast this spell for , also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "42",
+  "artist": "Vincent Proce",
+  "rating": "5",
+  "votes": "0"
+}

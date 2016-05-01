@@ -1,0 +1,13 @@
+{
+  "title": "Shockmaw Dragon",
+  "image": "./img/shockmaw-dragon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhenever Shockmaw Dragon deals combat damage to a player, it deals 1 damage to each creature that player controls.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "114",
+  "artist": "Alejandro Mirabal",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Apothecary Initiate",
+  "image": "./img/apothecary-initiate.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Kithkin Cleric",
+  "text": "Whenever a player casts a white spell, you may pay . If you do, you gain 1 life.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "1",
+  "artist": "Kev Walker",
+  "rating": "1.933",
+  "votes": "45"
+}

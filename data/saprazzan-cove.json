@@ -1,0 +1,13 @@
+{
+  "title": "Saprazzan Cove",
+  "image": "./img/saprazzan-cove.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "Saprazzan Cove enters the battlefield tapped.: Put a storage counter on Saprazzan Cove., Remove any number of storage counters from Saprazzan Cove: Add  to your mana pool for each storage counter removed this way.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "327",
+  "artist": "Rebecca Guay",
+  "rating": "3.661",
+  "votes": "31"
+}

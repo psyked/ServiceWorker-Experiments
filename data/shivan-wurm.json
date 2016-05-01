@@ -1,0 +1,13 @@
+{
+  "title": "Shivan Wurm",
+  "image": "./img/shivan-wurm.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Wurm",
+  "text": "TrampleWhen Shivan Wurm enters the battlefield, return a red or green creature you control to its owner's hand.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "261",
+  "artist": "Scott M. Fischer",
+  "rating": "5",
+  "votes": "0"
+}

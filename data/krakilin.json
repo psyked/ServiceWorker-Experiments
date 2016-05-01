@@ -1,0 +1,13 @@
+{
+  "title": "Krakilin",
+  "image": "./img/krakilin.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Beast",
+  "text": "Krakilin enters the battlefield with X +1/+1 counters on it.: Regenerate Krakilin.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Rare",
+  "cardNumber": "177",
+  "artist": "Richard Kane Ferguson",
+  "rating": "5",
+  "votes": "0"
+}

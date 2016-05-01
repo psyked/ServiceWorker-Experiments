@@ -1,0 +1,13 @@
+{
+  "title": "Death Rattle",
+  "image": "./img/death-rattle.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for .)Destroy target nongreen creature. It can't be regenerated.",
+  "expansion": "Modern Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "78",
+  "artist": "Vance Kovacs",
+  "rating": "3.060",
+  "votes": "25"
+}

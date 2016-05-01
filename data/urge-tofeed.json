@@ -1,0 +1,13 @@
+{
+  "title": "Urge to Feed",
+  "image": "./img/urge-tofeed.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets -3/-3 until end of turn. You may tap any number of untapped Vampire creatures you control. If you do, put a +1/+1 counter on each of those Vampires.",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Uncommon",
+  "cardNumber": "22",
+  "artist": "Johann Bodin",
+  "rating": "3.316",
+  "votes": "19"
+}

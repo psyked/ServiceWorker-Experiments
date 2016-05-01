@@ -1,0 +1,13 @@
+{
+  "title": "Ghostfire Blade",
+  "image": "./img/ghostfire-blade.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +2/+2.Equip Ghostfire Blade's equip ability costs  less to activate if it targets a colorless creature.",
+  "expansion": "Ugin's Fate promos",
+  "rarity": "Rare",
+  "cardNumber": "220",
+  "artist": "Cyril Van Der Haegen",
+  "rating": "5",
+  "votes": "0"
+}

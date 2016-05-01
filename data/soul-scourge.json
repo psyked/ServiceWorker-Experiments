@@ -1,0 +1,13 @@
+{
+  "title": "Soul Scourge",
+  "image": "./img/soul-scourge.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Nightmare Horror",
+  "text": "FlyingWhen Soul Scourge enters the battlefield, target player loses 3 life.When Soul Scourge leaves the battlefield, that player gains 3 life.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "85",
+  "artist": "Carl Critchlow",
+  "rating": "2.257",
+  "votes": "35"
+}

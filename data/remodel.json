@@ -1,0 +1,13 @@
+{
+  "title": "Remodel",
+  "image": "./img/remodel.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "If you control two or more green permanents that share an artist, you may play Remodel without paying its mana cost.Remove target artifact from the game.",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "108",
+  "artist": "Lars Grant-\"Wild Wild\"-West",
+  "rating": "3.062",
+  "votes": "16"
+}

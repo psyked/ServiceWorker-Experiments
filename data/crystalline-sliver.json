@@ -1,0 +1,13 @@
+{
+  "title": "Crystalline Sliver",
+  "image": "./img/crystalline-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Sliver",
+  "text": "All Slivers have shroud. (They can't be the targets of spells or abilities.)",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "207",
+  "artist": "Allen Williams",
+  "rating": "5",
+  "votes": "0"
+}

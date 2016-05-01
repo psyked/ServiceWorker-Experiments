@@ -1,0 +1,13 @@
+{
+  "title": "Sol Ring",
+  "image": "./img/sol-ring.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ": Add  to your mana pool.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "268",
+  "artist": "Mike Bierek",
+  "rating": "5",
+  "votes": "0"
+}

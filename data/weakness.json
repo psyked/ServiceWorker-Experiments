@@ -1,0 +1,13 @@
+{
+  "title": "Weakness",
+  "image": "./img/weakness.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets -2/-1.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "101",
+  "artist": "Douglas Shuler",
+  "rating": "3.167",
+  "votes": "30"
+}

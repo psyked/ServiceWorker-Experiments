@@ -1,0 +1,13 @@
+{
+  "title": "Bear Umbra",
+  "image": "./img/bear-umbra.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+2 and has \"Whenever this creature attacks, untap all lands you control.\"Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Rare",
+  "cardNumber": "177",
+  "artist": "Howard Lyon",
+  "rating": "4.212",
+  "votes": "132"
+}

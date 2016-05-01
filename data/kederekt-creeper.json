@@ -1,0 +1,13 @@
+{
+  "title": "Kederekt Creeper",
+  "image": "./img/kederekt-creeper.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Horror",
+  "text": "Menace (This creature can't be blocked except by two or more creatures.)Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "176",
+  "artist": "Mark Hyzer",
+  "rating": "3.128",
+  "votes": "86"
+}

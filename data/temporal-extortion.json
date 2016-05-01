@@ -1,0 +1,13 @@
+{
+  "title": "Temporal Extortion",
+  "image": "./img/temporal-extortion.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "When you cast Temporal Extortion, any player may pay half his or her life, rounded up. If a player does, counter Temporal Extortion.Take an extra turn after this one.",
+  "expansion": "Planar Chaos",
+  "rarity": "Rare",
+  "cardNumber": "81",
+  "artist": "Steven Belledin",
+  "rating": "4.196",
+  "votes": "135"
+}

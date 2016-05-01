@@ -1,0 +1,13 @@
+{
+  "title": "Aura Shards",
+  "image": "./img/aura-shards.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a creature enters the battlefield under your control, you may destroy target artifact or enchantment.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Uncommon",
+  "cardNumber": "182",
+  "artist": "Ron Spencer",
+  "rating": "4.326",
+  "votes": "46"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Volcanic Dragon",
+  "image": "./img/volcanic-dragon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "FlyingHaste (This creature can attack and  as soon as it comes under your control.)",
+  "expansion": "Magic 2012",
+  "rarity": "Uncommon",
+  "cardNumber": "158",
+  "artist": "Chris Rahn",
+  "rating": "3.656",
+  "votes": "90"
+}

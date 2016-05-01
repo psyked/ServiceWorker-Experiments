@@ -1,0 +1,13 @@
+{
+  "title": "Juzám Djinn",
+  "image": "./img/juzm-djinn.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Djinn",
+  "text": "At the beginning of your upkeep, Juzám Djinn deals 1 damage to you.",
+  "expansion": "Masters Edition",
+  "rarity": "Rare",
+  "cardNumber": "74",
+  "artist": "Mark Tedin",
+  "rating": "4.324",
+  "votes": "105"
+}

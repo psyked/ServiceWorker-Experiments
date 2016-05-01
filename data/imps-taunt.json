@@ -1,0 +1,13 @@
+{
+  "title": "Imps' Taunt",
+  "image": "./img/imps-taunt.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Buyback  (You may pay an additional  as you cast this spell. If you do, put this card into your hand as it resolves.)Target creature attacks this turn if able.",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Colin MacNeil",
+  "rating": "2.432",
+  "votes": "37"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Vines",
+  "image": "./img/wall-ofvines.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Plant Wall",
+  "text": "Defender (This creature can't attack.)Reach (This creature can block creatures with flying.)",
+  "expansion": "Magic 2011",
+  "rarity": "Common",
+  "cardNumber": "199",
+  "artist": "John Stanko",
+  "rating": "2.803",
+  "votes": "66"
+}

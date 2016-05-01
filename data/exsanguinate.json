@@ -1,0 +1,13 @@
+{
+  "title": "Exsanguinate",
+  "image": "./img/exsanguinate.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Each opponent loses X life. You gain life equal to the life lost this way.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "61",
+  "artist": "Carl Critchlow",
+  "rating": "4.048",
+  "votes": "126"
+}

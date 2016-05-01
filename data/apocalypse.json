@@ -1,0 +1,13 @@
+{
+  "title": "Apocalypse",
+  "image": "./img/apocalypse.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Exile all permanents. You discard your hand.",
+  "expansion": "Tempest",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "L. A. Williams",
+  "rating": "4.511",
+  "votes": "133"
+}

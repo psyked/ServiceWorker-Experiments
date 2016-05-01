@@ -1,0 +1,13 @@
+{
+  "title": "Arbalest Elite",
+  "image": "./img/arbalest-elite.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Archer",
+  "text": ", : Arbalest Elite deals 3 damage to target attacking or blocking creature. Arbalest Elite doesn't untap during your next untap step.",
+  "expansion": "Magic 2012",
+  "rarity": "Uncommon",
+  "cardNumber": "5",
+  "artist": "Chris Rahn",
+  "rating": "1.788",
+  "votes": "59"
+}

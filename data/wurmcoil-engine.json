@@ -1,0 +1,13 @@
+{
+  "title": "Wurmcoil Engine",
+  "image": "./img/wurmcoil-engine.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Wurm",
+  "text": "Deathtouch, lifelinkWhen Wurmcoil Engine dies, put a 3/3 colorless Wurm artifact creature token with deathtouch and a 3/3 colorless Wurm artifact creature token with lifelink onto the battlefield.",
+  "expansion": "Commander 2014",
+  "rarity": "Mythic Rare",
+  "cardNumber": "283",
+  "artist": "Raymond Swanland",
+  "rating": "5",
+  "votes": "0"
+}

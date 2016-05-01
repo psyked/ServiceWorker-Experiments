@@ -1,0 +1,13 @@
+{
+  "title": "Ajani's Presence",
+  "image": "./img/ajanis-presence.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Strive — Ajani's Presence costs  more to cast for each target beyond the first.Any number of target creatures each get +1/+1 and gain indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy them.)",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "2",
+  "artist": "Raymond Swanland",
+  "rating": "3.603",
+  "votes": "29"
+}

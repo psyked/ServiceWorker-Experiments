@@ -1,0 +1,13 @@
+{
+  "title": "Rakdos Augermage",
+  "image": "./img/rakdos-augermage.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "First strike: Reveal your hand and discard a card of target opponent's choice. Then that player reveals his or her hand and discards a card of your choice. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Dissension",
+  "rarity": "Rare",
+  "cardNumber": "127",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "3.684",
+  "votes": "49"
+}

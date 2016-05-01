@@ -1,0 +1,13 @@
+{
+  "title": "Checks and Balances",
+  "image": "./img/checks-andbalances.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever any spell is played, counter that spell if each player, other than the caster and his or her teammates, agrees to choose and discard a card. Those players must discard those cards after agreeing.Checks and Balances may be played only in a game with three or more players.",
+  "expansion": "Unglued",
+  "rarity": "Uncommon",
+  "cardNumber": "16",
+  "artist": "David A. Cherry",
+  "rating": "3.023",
+  "votes": "22"
+}

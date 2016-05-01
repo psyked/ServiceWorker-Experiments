@@ -1,0 +1,13 @@
+{
+  "title": "Rite of Flame",
+  "image": "./img/rite-offlame.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Add  to your mana pool, then add  to your mana pool for each card named Rite of Flame in each graveyard.",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "96",
+  "artist": "Dany Orizio",
+  "rating": "4.471",
+  "votes": "102"
+}

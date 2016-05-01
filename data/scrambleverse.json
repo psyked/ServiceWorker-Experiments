@@ -1,0 +1,13 @@
+{
+  "title": "Scrambleverse",
+  "image": "./img/scrambleverse.jpg",
+  "convertedManaCost": "8",
+  "types": "Sorcery",
+  "text": "For each nonland permanent, choose a player at random. Then each player gains control of each permanent for which he or she was chosen. Untap those permanents.",
+  "expansion": "Magic 2012",
+  "rarity": "Rare",
+  "cardNumber": "153",
+  "artist": "Dan Scott",
+  "rating": "2.767",
+  "votes": "86"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Magistrate's Veto",
+  "image": "./img/magistrates-veto.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "White creatures and blue creatures can't block.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "204",
+  "artist": "Brian Snoddy",
+  "rating": "3.879",
+  "votes": "29"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Bringer of the Blue Dawn",
+  "image": "./img/bringer-ofthebluedawn.jpg",
+  "convertedManaCost": "9",
+  "types": "Creature  — Bringer",
+  "text": "You may pay  rather than pay Bringer of the Blue Dawn's mana cost.TrampleAt the beginning of your upkeep, you may draw two cards.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Rare",
+  "cardNumber": "26",
+  "artist": "Greg Staples",
+  "rating": "4.280",
+  "votes": "50"
+}

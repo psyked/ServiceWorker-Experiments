@@ -1,0 +1,13 @@
+{
+  "title": "Martyr of Ashes",
+  "image": "./img/martyr-ofashes.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Shaman",
+  "text": ", Reveal X red cards from your hand, Sacrifice Martyr of Ashes: Martyr of Ashes deals X damage to each creature without flying.",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "92",
+  "artist": "Ralph Horsley",
+  "rating": "4.038",
+  "votes": "40"
+}

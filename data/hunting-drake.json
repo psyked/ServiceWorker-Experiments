@@ -1,0 +1,13 @@
+{
+  "title": "Hunting Drake",
+  "image": "./img/hunting-drake.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Drake",
+  "text": "FlyingWhen Hunting Drake enters the battlefield, put target red or green creature on top of its owner's library.",
+  "expansion": "Planeshift",
+  "rarity": "Common",
+  "cardNumber": "27",
+  "artist": "Wayne England",
+  "rating": "2.948",
+  "votes": "29"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Kinsbaile Skirmisher",
+  "image": "./img/kinsbaile-skirmisher.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kithkin Soldier",
+  "text": "When Kinsbaile Skirmisher enters the battlefield, target creature gets +1/+1 until end of turn.",
+  "expansion": "Duel Decks: Elspeth vs. Kiora",
+  "rarity": "Common",
+  "cardNumber": "15",
+  "artist": "Thomas Denmark",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Illusionary Wall",
+  "image": "./img/illusionary-wall.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Illusion Wall",
+  "text": "Defender, flying, first strikeCumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+  "expansion": "Masters Edition",
+  "rarity": "Common",
+  "cardNumber": "39",
+  "artist": "Mark Poole",
+  "rating": "3.750",
+  "votes": "44"
+}

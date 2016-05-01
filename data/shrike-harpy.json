@@ -1,0 +1,13 @@
+{
+  "title": "Shrike Harpy",
+  "image": "./img/shrike-harpy.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Harpy",
+  "text": "FlyingTribute 2 (As this creature enters the battlefield, an opponent of your choice may place two +1/+1 counters on it.)When Shrike Harpy enters the battlefield, if tribute wasn't paid, target opponent sacrifices a creature.",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "83",
+  "artist": "Christopher Moeller",
+  "rating": "2.944",
+  "votes": "27"
+}

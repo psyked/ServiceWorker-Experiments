@@ -1,0 +1,13 @@
+{
+  "title": "Quickling",
+  "image": "./img/quickling.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Faerie Rogue",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)FlyingWhen Quickling enters the battlefield, sacrifice it unless you return another creature you control to its owner's hand.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "76",
+  "artist": "Clint Cearley",
+  "rating": "3.625",
+  "votes": "8"
+}

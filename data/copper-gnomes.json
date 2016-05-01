@@ -1,0 +1,13 @@
+{
+  "title": "Copper Gnomes",
+  "image": "./img/copper-gnomes.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Gnome",
+  "text": ", Sacrifice Copper Gnomes: You may put an artifact card from your hand onto the battlefield.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "291",
+  "artist": "Jeff Laubenstein",
+  "rating": "4.442",
+  "votes": "60"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Unburden",
+  "image": "./img/unburden.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target player discards two cards.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Scourge",
+  "rarity": "Common",
+  "cardNumber": "77",
+  "artist": "Wayne England",
+  "rating": "3.233",
+  "votes": "30"
+}

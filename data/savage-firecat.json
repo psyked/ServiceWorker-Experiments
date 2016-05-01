@@ -1,0 +1,13 @@
+{
+  "title": "Savage Firecat",
+  "image": "./img/savage-firecat.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental Cat",
+  "text": "TrampleSavage Firecat enters the battlefield with seven +1/+1 counters on it.Whenever you tap a land for mana, remove a +1/+1 counter from Savage Firecat.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "218",
+  "artist": "Dave Dorman",
+  "rating": "3.667",
+  "votes": "30"
+}

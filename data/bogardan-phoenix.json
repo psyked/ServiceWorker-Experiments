@@ -1,0 +1,13 @@
+{
+  "title": "Bogardan Phoenix",
+  "image": "./img/bogardan-phoenix.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Phoenix",
+  "text": "FlyingWhen Bogardan Phoenix dies, exile it if it had a death counter on it. Otherwise, return it to the battlefield under your control and put a death counter on it.",
+  "expansion": "Visions",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "David O'Connor",
+  "rating": "3.806",
+  "votes": "36"
+}

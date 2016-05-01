@@ -1,0 +1,13 @@
+{
+  "title": "Cunning Giant",
+  "image": "./img/cunning-giant.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant",
+  "text": "If Cunning Giant is unblocked, you may have it assign its combat damage to a creature defending player controls.",
+  "expansion": "Portal Second Age",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Jeffrey R. Busch",
+  "rating": "3.104",
+  "votes": "24"
+}

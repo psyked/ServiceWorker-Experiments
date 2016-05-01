@@ -1,0 +1,13 @@
+{
+  "title": "Sway of the Stars",
+  "image": "./img/sway-ofthestars.jpg",
+  "convertedManaCost": "10",
+  "types": "Sorcery",
+  "text": "Each player shuffles his or her hand, graveyard, and permanents he or she owns into his or her library, then draws seven cards. Each player's life total becomes 7.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "54",
+  "artist": "Randy Gallegos",
+  "rating": "3.325",
+  "votes": "40"
+}

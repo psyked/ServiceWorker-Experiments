@@ -1,0 +1,13 @@
+{
+  "title": "Forsaken City",
+  "image": "./img/forsaken-city.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "Forsaken City doesn't untap during your untap step.At the beginning of your upkeep, you may exile a card from your hand. If you do, untap Forsaken City.: Add one mana of any color to your mana pool.",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "139",
+  "artist": "Dana Knutson",
+  "rating": "2.917",
+  "votes": "48"
+}

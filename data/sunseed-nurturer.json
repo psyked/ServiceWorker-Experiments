@@ -1,0 +1,13 @@
+{
+  "title": "Sunseed Nurturer",
+  "image": "./img/sunseed-nurturer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Druid Wizard",
+  "text": "At the beginning of your end step, if you control a creature with power 5 or greater, you may gain 2 life.: Add  to your mana pool.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "29",
+  "artist": "Steve Argyle",
+  "rating": "2.133",
+  "votes": "49"
+}

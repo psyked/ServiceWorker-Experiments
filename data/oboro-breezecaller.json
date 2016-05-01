@@ -1,0 +1,13 @@
+{
+  "title": "Oboro Breezecaller",
+  "image": "./img/oboro-breezecaller.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Moonfolk Wizard",
+  "text": "Flying, Return a land you control to its owner's hand: Untap target land.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "48",
+  "artist": "Rebecca Guay",
+  "rating": "2.207",
+  "votes": "41"
+}

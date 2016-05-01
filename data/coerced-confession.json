@@ -1,0 +1,13 @@
+{
+  "title": "Coerced Confession",
+  "image": "./img/coerced-confession.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Target player puts the top four cards of his or her library into his or her graveyard. You draw a card for each creature card put into that graveyard this way.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "217",
+  "artist": "Mathias Kollros",
+  "rating": "2.200",
+  "votes": "55"
+}

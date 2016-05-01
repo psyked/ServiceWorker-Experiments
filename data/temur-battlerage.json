@@ -1,0 +1,13 @@
+{
+  "title": "Temur Battle Rage",
+  "image": "./img/temur-battlerage.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)Ferocious — That creature also gains trample until end of turn if you control a creature with power 4 or greater.",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "116",
+  "artist": "Jaime Jones",
+  "rating": "5",
+  "votes": "0"
+}

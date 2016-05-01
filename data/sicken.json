@@ -1,0 +1,13 @@
+{
+  "title": "Sicken",
+  "image": "./img/sicken.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets -1/-1.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "156",
+  "artist": "Heather Hudson",
+  "rating": "2.852",
+  "votes": "27"
+}

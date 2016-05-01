@@ -1,0 +1,13 @@
+{
+  "title": "Eyes in the Skies",
+  "image": "./img/eyes-intheskies.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Put a 1/1 white Bird creature token with flying onto the battlefield, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "10",
+  "artist": "James Ryman",
+  "rating": "2.735",
+  "votes": "51"
+}

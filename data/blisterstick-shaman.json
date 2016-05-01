@@ -1,0 +1,13 @@
+{
+  "title": "Blisterstick Shaman",
+  "image": "./img/blisterstick-shaman.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Shaman",
+  "text": "When Blisterstick Shaman enters the battlefield, it deals 1 damage to target creature or player.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "58",
+  "artist": "Svetlin Velinov",
+  "rating": "2.686",
+  "votes": "70"
+}

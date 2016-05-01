@@ -1,0 +1,13 @@
+{
+  "title": "Swerve",
+  "image": "./img/swerve.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Change the target of target spell with a single target.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "200",
+  "artist": "Karl Kopinski",
+  "rating": "4.067",
+  "votes": "193"
+}

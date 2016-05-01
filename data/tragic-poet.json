@@ -1,0 +1,13 @@
+{
+  "title": "Tragic Poet",
+  "image": "./img/tragic-poet.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human",
+  "text": ", Sacrifice Tragic Poet: Return target enchantment card from your graveyard to your hand.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Common",
+  "cardNumber": "24",
+  "artist": "Quinton Hoover",
+  "rating": "3.574",
+  "votes": "34"
+}

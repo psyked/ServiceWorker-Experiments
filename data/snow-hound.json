@@ -1,0 +1,13 @@
+{
+  "title": "Snow Hound",
+  "image": "./img/snow-hound.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Hound",
+  "text": ", : Return Snow Hound and target green or blue creature you control to their owner's hand.",
+  "expansion": "Ice Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Pat Morrissey",
+  "rating": "2.924",
+  "votes": "33"
+}

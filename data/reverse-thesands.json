@@ -1,0 +1,13 @@
+{
+  "title": "Reverse the Sands",
+  "image": "./img/reverse-thesands.jpg",
+  "convertedManaCost": "8",
+  "types": "Sorcery",
+  "text": "Redistribute any number of players' life totals. (Each of those players gets one life total back.)",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "41",
+  "artist": "Jeremy Jarvis",
+  "rating": "3.245",
+  "votes": "51"
+}

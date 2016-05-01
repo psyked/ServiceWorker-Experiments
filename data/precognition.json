@@ -1,0 +1,13 @@
+{
+  "title": "Precognition",
+  "image": "./img/precognition.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, you may look at the top card of target opponent's library. If you do, you may put that card on the bottom of that player's library.",
+  "expansion": "Tempest",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Jeff Miracola",
+  "rating": "3.269",
+  "votes": "26"
+}

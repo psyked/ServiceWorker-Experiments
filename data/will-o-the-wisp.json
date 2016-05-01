@@ -1,0 +1,13 @@
+{
+  "title": "Will-o'-the-Wisp",
+  "image": "./img/will-o-the-wisp.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Spirit",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.): Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "169",
+  "artist": "Rob Alexander",
+  "rating": "4.549",
+  "votes": "103"
+}

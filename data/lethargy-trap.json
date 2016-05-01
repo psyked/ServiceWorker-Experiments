@@ -1,0 +1,13 @@
+{
+  "title": "Lethargy Trap",
+  "image": "./img/lethargy-trap.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant  — Trap",
+  "text": "If three or more creatures are attacking, you may pay  rather than pay Lethargy Trap's mana cost.Attacking creatures get -3/-0 until end of turn.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "51",
+  "artist": "Anthony Francisco",
+  "rating": "2.643",
+  "votes": "49"
+}

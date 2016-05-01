@@ -1,0 +1,13 @@
+{
+  "title": "Letter Bomb",
+  "image": "./img/letter-bomb.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact",
+  "text": "When Letter Bomb comes into play, sign it and shuffle it into target player's library. That player reveals each card he or she draws until Letter Bomb is drawn. When that player draws Letter Bomb, it deals 19½ damage to him or her.",
+  "expansion": "Unhinged",
+  "rarity": "Rare",
+  "cardNumber": "122",
+  "artist": "Daniel Gelon",
+  "rating": "4.424",
+  "votes": "46"
+}

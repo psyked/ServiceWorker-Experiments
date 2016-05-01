@@ -1,0 +1,13 @@
+{
+  "title": "Ardent Plea",
+  "image": "./img/ardent-plea.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",
+  "expansion": "Alara Reborn",
+  "rarity": "Uncommon",
+  "cardNumber": "1",
+  "artist": "Chippy",
+  "rating": "3.403",
+  "votes": "134"
+}

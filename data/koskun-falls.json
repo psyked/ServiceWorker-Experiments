@@ -1,0 +1,13 @@
+{
+  "title": "Koskun Falls",
+  "image": "./img/koskun-falls.jpg",
+  "convertedManaCost": "4",
+  "types": "World Enchantment",
+  "text": "At the beginning of your upkeep, sacrifice Koskun Falls unless you tap an untapped creature you control.Creatures can't attack you unless their controller pays  for each creature he or she controls that's attacking you.",
+  "expansion": "Homelands",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Rob Alexander",
+  "rating": "3.548",
+  "votes": "63"
+}

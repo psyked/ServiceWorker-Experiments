@@ -1,0 +1,13 @@
+{
+  "title": "Wild Pair",
+  "image": "./img/wild-pair.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "Whenever a creature enters the battlefield, if you cast it from your hand, you may search your library for a creature card with the same total power and toughness and put it onto the battlefield. If you do, shuffle your library.",
+  "expansion": "Premium Deck Series: Slivers",
+  "rarity": "Rare",
+  "cardNumber": "30",
+  "artist": "Mark Brill",
+  "rating": "4.349",
+  "votes": "53"
+}

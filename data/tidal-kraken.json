@@ -1,0 +1,13 @@
+{
+  "title": "Tidal Kraken",
+  "image": "./img/tidal-kraken.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Kraken",
+  "text": "Tidal Kraken can't be blocked.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "105",
+  "artist": "Christopher Moeller",
+  "rating": "3.868",
+  "votes": "57"
+}

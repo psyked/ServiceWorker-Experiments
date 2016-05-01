@@ -1,0 +1,13 @@
+{
+  "title": "Guile",
+  "image": "./img/guile.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental Incarnation",
+  "text": "Guile can't be blocked except by three or more creatures.If a spell or ability you control would counter a spell, instead exile that spell and you may play that card without paying its mana cost.When Guile is put into a graveyard from anywhere, shuffle it into its owner's library.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Rare",
+  "cardNumber": "46",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "5",
+  "votes": "0"
+}

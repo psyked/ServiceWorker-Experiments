@@ -1,0 +1,13 @@
+{
+  "title": "Sootfeather Flock",
+  "image": "./img/sootfeather-flock.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bird",
+  "text": "FlyingMorph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Legions",
+  "rarity": "Common",
+  "cardNumber": "82",
+  "artist": "David Martin",
+  "rating": "1.660",
+  "votes": "25"
+}

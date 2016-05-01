@@ -1,0 +1,13 @@
+{
+  "title": "Niv-Mizzet, the Firemind",
+  "image": "./img/niv-mizzet-thefiremind.jpg",
+  "convertedManaCost": "6",
+  "types": "Legendary Creature  — Dragon Wizard",
+  "text": "FlyingWhenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.: Draw a card.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Rare",
+  "cardNumber": "182",
+  "artist": "Todd Lockwood",
+  "rating": "5",
+  "votes": "0"
+}

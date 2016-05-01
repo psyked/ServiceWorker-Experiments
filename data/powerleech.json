@@ -1,0 +1,13 @@
+{
+  "title": "Powerleech",
+  "image": "./img/powerleech.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever an artifact an opponent controls becomes tapped or an opponent activates an artifact's ability without  in its activation cost, you gain 1 life.",
+  "expansion": "Antiquities",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Christopher Rush",
+  "rating": "3.093",
+  "votes": "27"
+}

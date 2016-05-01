@@ -1,0 +1,13 @@
+{
+  "title": "Izzet Keyrune",
+  "image": "./img/izzet-keyrune.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  or  to your mana pool.: Until end of turn, Izzet Keyrune becomes a 2/1 blue and red Elemental artifact creature.Whenever Izzet Keyrune deals combat damage to a player, you may draw a card. If you do, discard a card.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "230",
+  "artist": "Daniel Ljunggren",
+  "rating": "2.905",
+  "votes": "42"
+}

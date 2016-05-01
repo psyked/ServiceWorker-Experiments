@@ -1,0 +1,13 @@
+{
+  "title": "Clutch of the Undercity",
+  "image": "./img/clutch-oftheundercity.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Return target permanent to its owner's hand. Its controller loses 3 life.Transmute  (, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "197",
+  "artist": "Pete Venters",
+  "rating": "3.680",
+  "votes": "50"
+}

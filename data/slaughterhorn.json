@@ -1,0 +1,13 @@
+{
+  "title": "Slaughterhorn",
+  "image": "./img/slaughterhorn.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Beast",
+  "text": "Bloodrush — , Discard Slaughterhorn: Target attacking creature gets +3/+2 until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "134",
+  "artist": "Steve Prescott",
+  "rating": "3.944",
+  "votes": "62"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Skaab Goliath",
+  "image": "./img/skaab-goliath.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Zombie Giant",
+  "text": "As an additional cost to cast Skaab Goliath, exile two creature cards from your graveyard.Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "74",
+  "artist": "Volkan Baga",
+  "rating": "5",
+  "votes": "0"
+}

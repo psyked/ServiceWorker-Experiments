@@ -1,0 +1,13 @@
+{
+  "title": "Everlasting Torment",
+  "image": "./img/everlasting-torment.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Players can't gain life.Damage can't be prevented.All damage is dealt as though its source had wither. (A source with wither deals damage to creatures in the form of -1/-1 counters.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "186",
+  "artist": "Richard Kane Ferguson",
+  "rating": "4.043",
+  "votes": "116"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Warped Devotion",
+  "image": "./img/warped-devotion.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a permanent is returned to a player's hand, that player discards a card.",
+  "expansion": "Eighth Edition",
+  "rarity": "Rare",
+  "cardNumber": "172",
+  "artist": "Eric Peterson",
+  "rating": "3.731",
+  "votes": "52"
+}

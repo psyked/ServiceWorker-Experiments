@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Replica",
+  "image": "./img/goblin-replica.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Goblin",
+  "text": ", Sacrifice Goblin Replica: Destroy target artifact.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "178",
+  "artist": "Carl Critchlow",
+  "rating": "2.488",
+  "votes": "40"
+}

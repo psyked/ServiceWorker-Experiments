@@ -1,0 +1,13 @@
+{
+  "title": "Faultgrinder",
+  "image": "./img/faultgrinder.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Elemental",
+  "text": "TrampleWhen Faultgrinder enters the battlefield, destroy target land.Evoke  (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Common",
+  "cardNumber": "122",
+  "artist": "Anthony S. Waters",
+  "rating": "1.938",
+  "votes": "32"
+}

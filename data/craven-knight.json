@@ -1,0 +1,13 @@
+{
+  "title": "Craven Knight",
+  "image": "./img/craven-knight.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Knight",
+  "text": "Craven Knight can't block.",
+  "expansion": "Portal",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Charles Gillespie",
+  "rating": "1.854",
+  "votes": "41"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Lifeblood Hydra",
+  "image": "./img/lifeblood-hydra.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Hydra",
+  "text": "TrampleLifeblood Hydra enters the battlefield with X +1/+1 counters on it.When Lifeblood Hydra dies, you gain life and draw cards equal to its power.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "45",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "5",
+  "votes": "0"
+}

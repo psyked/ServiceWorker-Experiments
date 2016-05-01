@@ -1,0 +1,13 @@
+{
+  "title": "Call the Gatewatch",
+  "image": "./img/call-thegatewatch.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Search your library for a planeswalker card, reveal it, and put it into your hand. Then shuffle your library.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Rare",
+  "cardNumber": "16",
+  "artist": "Yefim Kligerman",
+  "rating": "5",
+  "votes": "0"
+}

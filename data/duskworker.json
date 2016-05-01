@@ -1,0 +1,13 @@
+{
+  "title": "Duskworker",
+  "image": "./img/duskworker.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Construct",
+  "text": "Whenever Duskworker becomes blocked, regenerate it.: Duskworker gets +1/+0 until end of turn.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "166",
+  "artist": "Greg Staples",
+  "rating": "2.306",
+  "votes": "31"
+}

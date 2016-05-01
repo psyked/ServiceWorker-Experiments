@@ -1,0 +1,13 @@
+{
+  "title": "Elven Riders",
+  "image": "./img/elven-riders.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elf",
+  "text": "Elven Riders can't be blocked except by Walls and/or creatures with flying.",
+  "expansion": "Tenth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "259",
+  "artist": "Darrell Riche",
+  "rating": "2.941",
+  "votes": "34"
+}

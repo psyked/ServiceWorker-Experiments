@@ -1,0 +1,13 @@
+{
+  "title": "Strength of Arms",
+  "image": "./img/strength-ofarms.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets +2/+2 until end of turn. If you control an Equipment, put a 1/1 white Human Soldier creature token onto the battlefield.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "40",
+  "artist": "John Stanko",
+  "rating": "5",
+  "votes": "0"
+}

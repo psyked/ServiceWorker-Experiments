@@ -1,0 +1,13 @@
+{
+  "title": "Clockwork Dragon",
+  "image": "./img/clockwork-dragon.jpg",
+  "convertedManaCost": "7",
+  "types": "Artifact Creature  — Dragon",
+  "text": "FlyingClockwork Dragon enters the battlefield with six +1/+1 counters on it.Whenever Clockwork Dragon attacks or blocks, remove a +1/+1 counter from it at end of combat.: Put a +1/+1 counter on Clockwork Dragon.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "155",
+  "artist": "Arnie Swekel",
+  "rating": "3.892",
+  "votes": "65"
+}

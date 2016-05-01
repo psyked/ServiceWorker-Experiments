@@ -1,0 +1,13 @@
+{
+  "title": "Odunos River Trawler",
+  "image": "./img/odunos-rivertrawler.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": "When Odunos River Trawler enters the battlefield, return target enchantment creature card from your graveyard to your hand., Sacrifice Odunos River Trawler: Return target enchantment creature card from your graveyard to your hand.",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "79",
+  "artist": "Seb McKinnon",
+  "rating": "3.431",
+  "votes": "29"
+}

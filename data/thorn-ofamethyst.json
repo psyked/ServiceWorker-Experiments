@@ -1,0 +1,13 @@
+{
+  "title": "Thorn of Amethyst",
+  "image": "./img/thorn-ofamethyst.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Noncreature spells cost  more to cast.",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "262",
+  "artist": "Chuck Lukacs",
+  "rating": "4.372",
+  "votes": "78"
+}

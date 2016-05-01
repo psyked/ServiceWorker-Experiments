@@ -1,0 +1,13 @@
+{
+  "title": "Armament Corps",
+  "image": "./img/armament-corps.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Soldier",
+  "text": "When Armament Corps enters the battlefield, distribute two +1/+1 counters among one or two target creatures you control.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "165",
+  "artist": "Steven Belledin",
+  "rating": "3.375",
+  "votes": "4"
+}

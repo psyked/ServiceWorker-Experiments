@@ -1,0 +1,13 @@
+{
+  "title": "Runesword",
+  "image": "./img/runesword.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact",
+  "text": ", : Target attacking creature gets +2/+0 until end of turn. When that creature leaves the battlefield this turn, sacrifice Runesword. If the creature deals damage to a creature this turn, the creature dealt damage can't be regenerated this turn. If a creature dealt damage by the targeted creature would die this turn, exile that creature instead.",
+  "expansion": "Chronicles",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Christopher Rush",
+  "rating": "1.254",
+  "votes": "67"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "An-Havva Constable",
+  "image": "./img/an-havva-constable.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human",
+  "text": "An-Havva Constable's toughness is equal to 1 plus the number of green creatures on the battlefield.",
+  "expansion": "Fifth Edition",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Dan Frazier",
+  "rating": "3.276",
+  "votes": "29"
+}

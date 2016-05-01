@@ -1,0 +1,13 @@
+{
+  "title": "Scorchwalker",
+  "image": "./img/scorchwalker.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elemental",
+  "text": "Bloodrush — , Discard Scorchwalker: Target attacking creature gets +5/+1 until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "104",
+  "artist": "Anthony Palumbo",
+  "rating": "3.080",
+  "votes": "50"
+}

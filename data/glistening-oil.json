@@ -1,0 +1,13 @@
+{
+  "title": "Glistening Oil",
+  "image": "./img/glistening-oil.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has infect.At the beginning of your upkeep, put a -1/-1 counter on enchanted creature.When Glistening Oil is put into a graveyard from the battlefield, return Glistening Oil to its owner's hand.",
+  "expansion": "New Phyrexia",
+  "rarity": "Rare",
+  "cardNumber": "62",
+  "artist": "Steven Belledin",
+  "rating": "3.051",
+  "votes": "98"
+}

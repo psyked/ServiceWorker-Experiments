@@ -1,0 +1,13 @@
+{
+  "title": "Melira, Sylvok Outcast",
+  "image": "./img/melira-sylvokoutcast.jpg",
+  "convertedManaCost": "2",
+  "types": "Legendary Creature  — Human Scout",
+  "text": "You can't get poison counters.Creatures you control can't have -1/-1 counters placed on them.Creatures your opponents control lose infect.",
+  "expansion": "New Phyrexia",
+  "rarity": "Rare",
+  "cardNumber": "115",
+  "artist": "Min Yum",
+  "rating": "4.018",
+  "votes": "227"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Whirling Dervish",
+  "image": "./img/whirling-dervish.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Monk",
+  "text": "Protection from blackAt the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "90",
+  "artist": "Susan Van Camp",
+  "rating": "4.028",
+  "votes": "54"
+}

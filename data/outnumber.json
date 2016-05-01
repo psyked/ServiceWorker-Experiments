@@ -1,0 +1,13 @@
+{
+  "title": "Outnumber",
+  "image": "./img/outnumber.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Outnumber deals damage to target creature equal to the number of creatures you control.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "150",
+  "artist": "Tyler Jacobson",
+  "rating": "5",
+  "votes": "0"
+}

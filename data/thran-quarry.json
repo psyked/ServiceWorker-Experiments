@@ -1,0 +1,13 @@
+{
+  "title": "Thran Quarry",
+  "image": "./img/thran-quarry.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry.: Add one mana of any color to your mana pool.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "329",
+  "artist": "Michael Sutfin",
+  "rating": "4.326",
+  "votes": "46"
+}

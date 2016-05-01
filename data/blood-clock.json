@@ -1,0 +1,13 @@
+{
+  "title": "Blood Clock",
+  "image": "./img/blood-clock.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "At the beginning of each player's upkeep, that player returns a permanent he or she controls to its owner's hand unless he or she pays 2 life.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "153",
+  "artist": "Keith Garletts",
+  "rating": "3.041",
+  "votes": "37"
+}

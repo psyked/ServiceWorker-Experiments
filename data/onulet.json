@@ -1,0 +1,13 @@
+{
+  "title": "Onulet",
+  "image": "./img/onulet.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Construct",
+  "text": "When Onulet dies, you gain 2 life.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "219",
+  "artist": "Anson Maddocks",
+  "rating": "3.136",
+  "votes": "22"
+}

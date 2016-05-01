@@ -1,0 +1,13 @@
+{
+  "title": "Golgari Thug",
+  "image": "./img/golgari-thug.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Warrior",
+  "text": "When Golgari Thug dies, put target creature card from your graveyard on top of your library.Dredge 4 (If you would draw a card, instead you may put exactly four cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Uncommon",
+  "cardNumber": "48",
+  "artist": "Johann Bodin",
+  "rating": "4.533",
+  "votes": "45"
+}

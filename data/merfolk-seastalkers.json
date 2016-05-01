@@ -1,0 +1,13 @@
+{
+  "title": "Merfolk Seastalkers",
+  "image": "./img/merfolk-seastalkers.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Merfolk Scout",
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.): Tap target creature without flying.",
+  "expansion": "Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "55",
+  "artist": "Eric Deschamps",
+  "rating": "3.000",
+  "votes": "47"
+}

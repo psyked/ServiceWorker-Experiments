@@ -1,0 +1,13 @@
+{
+  "title": "Suspension Field",
+  "image": "./img/suspension-field.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "When Suspension Field enters the battlefield, you may exile target creature with toughness 3 or greater until Suspension Field leaves the battlefield. (That creature returns under its owner's control.)",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "25",
+  "artist": "Seb McKinnon",
+  "rating": "3.750",
+  "votes": "2"
+}

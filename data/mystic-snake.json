@@ -1,0 +1,13 @@
+{
+  "title": "Mystic Snake",
+  "image": "./img/mystic-snake.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Snake",
+  "text": "FlashWhen Mystic Snake enters the battlefield, counter target spell.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "228",
+  "artist": "Daren Bader",
+  "rating": "5",
+  "votes": "0"
+}

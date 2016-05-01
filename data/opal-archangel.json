@@ -1,0 +1,13 @@
+{
+  "title": "Opal Archangel",
+  "image": "./img/opal-archangel.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "When an opponent casts a creature spell, if Opal Archangel is an enchantment, Opal Archangel becomes a 5/5 Angel creature with flying and vigilance.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "23",
+  "artist": "Jeff Miracola",
+  "rating": "3.558",
+  "votes": "43"
+}

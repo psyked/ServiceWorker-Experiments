@@ -1,0 +1,13 @@
+{
+  "title": "Blood Lust",
+  "image": "./img/blood-lust.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "If target creature has toughness 5 or greater, it gets +4/-4 until end of turn. Otherwise, it gets +4/-X until end of turn, where X is its toughness minus 1.",
+  "expansion": "Masters Edition III",
+  "rarity": "Common",
+  "cardNumber": "88",
+  "artist": "Anson Maddocks",
+  "rating": "3.695",
+  "votes": "41"
+}

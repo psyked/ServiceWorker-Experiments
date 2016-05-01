@@ -1,0 +1,13 @@
+{
+  "title": "Ripscale Predator",
+  "image": "./img/ripscale-predator.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Lizard",
+  "text": "Menace (This creature can't be blocked except by two or more creatures.)",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "103",
+  "artist": "Volkan Baga",
+  "rating": "3.080",
+  "votes": "50"
+}

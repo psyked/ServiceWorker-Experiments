@@ -1,0 +1,13 @@
+{
+  "title": "Fallen Angel",
+  "image": "./img/fallen-angel.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Angel",
+  "text": "FlyingSacrifice a creature: Fallen Angel gets +2/+1 until end of turn.",
+  "expansion": "Duel Decks Anthology, Divine vs. Demonic",
+  "rarity": "Uncommon",
+  "cardNumber": "42",
+  "artist": "Matthew D. Wilson",
+  "rating": "5",
+  "votes": "0"
+}

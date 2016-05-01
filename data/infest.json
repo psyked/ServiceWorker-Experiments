@@ -1,0 +1,13 @@
+{
+  "title": "Infest",
+  "image": "./img/infest.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "All creatures get -2/-2 until end of turn.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "81",
+  "artist": "Karl Kopinski",
+  "rating": "3.881",
+  "votes": "21"
+}

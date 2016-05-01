@@ -1,0 +1,13 @@
+{
+  "title": "Divine Deflection",
+  "image": "./img/divine-deflection.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Prevent the next X damage that would be dealt to you and/or permanents you control this turn. If damage is prevented this way, Divine Deflection deals that much damage to target creature or player.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "18",
+  "artist": "Steve Prescott",
+  "rating": "3.880",
+  "votes": "71"
+}

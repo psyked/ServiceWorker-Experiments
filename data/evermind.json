@@ -1,0 +1,13 @@
+{
+  "title": "Evermind",
+  "image": "./img/evermind.jpg",
+  "convertedManaCost": "",
+  "types": "Instant  — Arcane",
+  "text": "(Nonexistent mana costs can't be paid.)Draw a card.Splice onto Arcane  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "37",
+  "artist": "Matt Thompson",
+  "rating": "2.984",
+  "votes": "61"
+}

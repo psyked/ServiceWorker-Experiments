@@ -1,0 +1,13 @@
+{
+  "title": "Back to Basics",
+  "image": "./img/back-tobasics.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Nonbasic lands don't untap during their controllers' untap steps.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "62",
+  "artist": "Andrew Robinson",
+  "rating": "4.585",
+  "votes": "88"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "No Mercy",
+  "image": "./img/no-mercy.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever a creature deals damage to you, destroy it.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Rare",
+  "cardNumber": "56",
+  "artist": "Mark Tedin",
+  "rating": "4.589",
+  "votes": "96"
+}

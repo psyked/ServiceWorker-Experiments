@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Lore",
+  "image": "./img/goblin-lore.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Draw four cards, then discard three cards at random.",
+  "expansion": "Tenth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "208",
+  "artist": "D. Alexander Gregory",
+  "rating": "3.461",
+  "votes": "38"
+}

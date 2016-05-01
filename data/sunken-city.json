@@ -1,0 +1,13 @@
+{
+  "title": "Sunken City",
+  "image": "./img/sunken-city.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, sacrifice Sunken City unless you pay .Blue creatures get +1/+1.",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "51",
+  "artist": "Jesper Myrfors",
+  "rating": "3.591",
+  "votes": "33"
+}

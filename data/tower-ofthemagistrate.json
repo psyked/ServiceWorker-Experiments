@@ -1,0 +1,13 @@
+{
+  "title": "Tower of the Magistrate",
+  "image": "./img/tower-ofthemagistrate.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool., : Target creature gains protection from artifacts until end of turn.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "330",
+  "artist": "Thomas Gianni",
+  "rating": "3.976",
+  "votes": "41"
+}

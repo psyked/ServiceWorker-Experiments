@@ -1,0 +1,13 @@
+{
+  "title": "Search for Tomorrow",
+  "image": "./img/search-fortomorrow.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Search your library for a basic land card and put it onto the battlefield. Then shuffle your library.Suspend 2— (Rather than cast this card from your hand, you may pay  and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "161",
+  "artist": "Randy Gallegos",
+  "rating": "4.088",
+  "votes": "17"
+}

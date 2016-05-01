@@ -1,0 +1,13 @@
+{
+  "title": "Hedron Alignment",
+  "image": "./img/hedron-alignment.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "HexproofAt the beginning of your upkeep, you may reveal your hand. If you do, you win the game if you own a card named Hedron Alignment in exile, in your hand, in your graveyard, and on the battlefield.: Scry 1.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Rare",
+  "cardNumber": "57",
+  "artist": "Craig J Spearing",
+  "rating": "5",
+  "votes": "0"
+}

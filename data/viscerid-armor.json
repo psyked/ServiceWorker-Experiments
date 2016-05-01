@@ -1,0 +1,13 @@
+{
+  "title": "Viscerid Armor",
+  "image": "./img/viscerid-armor.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+1.: Return Viscerid Armor to its owner's hand.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "72",
+  "artist": "Heather Hudson",
+  "rating": "2.804",
+  "votes": "23"
+}

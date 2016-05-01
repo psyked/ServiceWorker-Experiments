@@ -1,0 +1,13 @@
+{
+  "title": "Groundbreaker",
+  "image": "./img/groundbreaker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental",
+  "text": "Trample, hasteAt the beginning of the end step, sacrifice Groundbreaker.",
+  "expansion": "Planar Chaos",
+  "rarity": "Rare",
+  "cardNumber": "148",
+  "artist": "Matt Cavotta",
+  "rating": "4.211",
+  "votes": "109"
+}

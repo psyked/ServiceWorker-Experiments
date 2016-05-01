@@ -1,0 +1,13 @@
+{
+  "title": "Lymph Sliver",
+  "image": "./img/lymph-sliver.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Sliver",
+  "text": "All Sliver creatures have absorb 1. (If a source would deal damage to a Sliver, prevent 1 of that damage.)",
+  "expansion": "Future Sight",
+  "rarity": "Common",
+  "cardNumber": "26",
+  "artist": "Ittoku",
+  "rating": "3.481",
+  "votes": "53"
+}

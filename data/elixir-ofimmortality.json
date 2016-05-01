@@ -1,0 +1,13 @@
+{
+  "title": "Elixir of Immortality",
+  "image": "./img/elixir-ofimmortality.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ", : You gain 5 life. Shuffle Elixir of Immortality and your graveyard into their owner's library.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "209",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "3.516",
+  "votes": "63"
+}

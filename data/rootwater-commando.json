@@ -1,0 +1,13 @@
+{
+  "title": "Rootwater Commando",
+  "image": "./img/rootwater-commando.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Merfolk",
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "102",
+  "artist": "Mark Tedin",
+  "rating": "3.096",
+  "votes": "26"
+}

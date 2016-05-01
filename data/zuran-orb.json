@@ -1,0 +1,13 @@
+{
+  "title": "Zuran Orb",
+  "image": "./img/zuran-orb.jpg",
+  "convertedManaCost": "0",
+  "types": "Artifact",
+  "text": "Sacrifice a land: You gain 2 life.",
+  "expansion": "From the Vault: Relics",
+  "rarity": "Mythic Rare",
+  "cardNumber": "15",
+  "artist": "Ryan Pancoast",
+  "rating": "4.506",
+  "votes": "89"
+}

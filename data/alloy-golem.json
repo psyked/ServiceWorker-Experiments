@@ -1,0 +1,13 @@
+{
+  "title": "Alloy Golem",
+  "image": "./img/alloy-golem.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Golem",
+  "text": "As Alloy Golem enters the battlefield, choose a color.Alloy Golem is the chosen color. (It's still an artifact.)",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "297",
+  "artist": "Greg Staples",
+  "rating": "2.073",
+  "votes": "41"
+}

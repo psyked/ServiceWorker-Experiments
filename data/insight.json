@@ -1,0 +1,13 @@
+{
+  "title": "Insight",
+  "image": "./img/insight.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever an opponent casts a green spell, you draw a card.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "75",
+  "artist": "Ron Chironna",
+  "rating": "3.297",
+  "votes": "32"
+}

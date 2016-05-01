@@ -1,0 +1,13 @@
+{
+  "title": "Sire of Insanity",
+  "image": "./img/sire-ofinsanity.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Demon",
+  "text": "At the beginning of each end step, each player discards his or her hand.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Rare",
+  "cardNumber": "104",
+  "artist": "Peter Mohrbacher",
+  "rating": "3.815",
+  "votes": "89"
+}

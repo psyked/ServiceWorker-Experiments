@@ -1,0 +1,13 @@
+{
+  "title": "Thief of Blood",
+  "image": "./img/thief-ofblood.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Vampire",
+  "text": "FlyingAs Thief of Blood enters the battlefield, remove all counters from all permanents. Thief of Blood enters the battlefield with a +1/+1 counter on it for each counter removed this way.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "22",
+  "artist": "Cynthia Sheppard",
+  "rating": "5",
+  "votes": "0"
+}

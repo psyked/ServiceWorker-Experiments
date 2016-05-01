@@ -1,0 +1,13 @@
+{
+  "title": "Defiant Elf",
+  "image": "./img/defiant-elf.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf",
+  "text": "Trample",
+  "expansion": "Legions",
+  "rarity": "Common",
+  "cardNumber": "123",
+  "artist": "Pete Venters",
+  "rating": "3.276",
+  "votes": "76"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Justice",
+  "image": "./img/justice.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, sacrifice Justice unless you pay .Whenever a red creature or spell deals damage, Justice deals that much damage to that creature's or spell's controller.",
+  "expansion": "Fifth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Ruth Thompson",
+  "rating": "4.027",
+  "votes": "37"
+}

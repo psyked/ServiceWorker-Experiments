@@ -1,0 +1,13 @@
+{
+  "title": "Wandering Wolf",
+  "image": "./img/wandering-wolf.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Wolf",
+  "text": "Creatures with power less than Wandering Wolf's power can't block it.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "202",
+  "artist": "Tomasz Jedruszek",
+  "rating": "3.390",
+  "votes": "50"
+}

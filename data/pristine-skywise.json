@@ -1,0 +1,13 @@
+{
+  "title": "Pristine Skywise",
+  "image": "./img/pristine-skywise.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhenever you cast a noncreature spell, untap Pristine Skywise. It gains protection from the color of your choice until end of turn.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "228",
+  "artist": "Adam Paquette",
+  "rating": "5",
+  "votes": "0"
+}

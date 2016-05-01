@@ -1,0 +1,13 @@
+{
+  "title": "Soltari Lancer",
+  "image": "./img/soltari-lancer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Soltari Knight",
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)Soltari Lancer has first strike as long as it's attacking.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "30",
+  "artist": "Matthew D. Wilson",
+  "rating": "5",
+  "votes": "0"
+}

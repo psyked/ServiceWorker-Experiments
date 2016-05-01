@@ -1,0 +1,13 @@
+{
+  "title": "Teferi's Curse",
+  "image": "./img/teferis-curse.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant artifact or creatureEnchanted permanent has phasing. (It phases in or out before its controller untaps during each of his or her untap steps. While it's phased out, it's treated as though it doesn't exist.)",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Robert Bliss",
+  "rating": "3.050",
+  "votes": "30"
+}

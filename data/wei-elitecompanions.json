@@ -1,0 +1,13 @@
+{
+  "title": "Wei Elite Companions",
+  "image": "./img/wei-elitecompanions.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Soldier",
+  "text": "Horsemanship (This creature can't be blocked except by creatures with horsemanship.)",
+  "expansion": "Masters Edition III",
+  "rarity": "Common",
+  "cardNumber": "79",
+  "artist": "Li Youliang",
+  "rating": "2.750",
+  "votes": "18"
+}

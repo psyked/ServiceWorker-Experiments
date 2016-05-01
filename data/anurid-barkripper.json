@@ -1,0 +1,13 @@
+{
+  "title": "Anurid Barkripper",
+  "image": "./img/anurid-barkripper.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Frog Beast",
+  "text": "Threshold — Anurid Barkripper gets +2/+2 as long as seven or more cards are in your graveyard.",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "104",
+  "artist": "Randy Gallegos",
+  "rating": "2.870",
+  "votes": "27"
+}

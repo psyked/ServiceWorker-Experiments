@@ -1,0 +1,13 @@
+{
+  "title": "Skeleton Scavengers",
+  "image": "./img/skeleton-scavengers.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Skeleton",
+  "text": "Skeleton Scavengers enters the battlefield with a +1/+1 counter on it.Pay  for each +1/+1 counter on Skeleton Scavengers: Regenerate Skeleton Scavengers. When it regenerates this way, put a +1/+1 counter on it.",
+  "expansion": "Stronghold",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Brian Snoddy",
+  "rating": "3.514",
+  "votes": "35"
+}

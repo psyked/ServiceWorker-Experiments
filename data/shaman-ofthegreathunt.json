@@ -1,0 +1,13 @@
+{
+  "title": "Shaman of the Great Hunt",
+  "image": "./img/shaman-ofthegreathunt.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Orc Shaman",
+  "text": "HasteWhenever a creature you control deals combat damage to a player, put a +1/+1 counter on it.Ferocious — : Draw a card for each creature you control with power 4 or greater.",
+  "expansion": "Fate Reforged",
+  "rarity": "Mythic Rare",
+  "cardNumber": "113",
+  "artist": "Ryan Alexander Lee",
+  "rating": "5",
+  "votes": "0"
+}

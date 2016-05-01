@@ -1,0 +1,13 @@
+{
+  "title": "Defiant Ogre",
+  "image": "./img/defiant-ogre.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Ogre Warrior",
+  "text": "When Defiant Ogre enters the battlefield, choose one —• Put a +1/+1 counter on Defiant Ogre.• Destroy target artifact.",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "96",
+  "artist": "Craig J Spearing",
+  "rating": "5",
+  "votes": "0"
+}

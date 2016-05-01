@@ -1,0 +1,13 @@
+{
+  "title": "Hammerfist Giant",
+  "image": "./img/hammerfist-giant.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant Warrior",
+  "text": ": Hammerfist Giant deals 4 damage to each creature without flying and each player.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "157",
+  "artist": "Carl Critchlow",
+  "rating": "5",
+  "votes": "0"
+}

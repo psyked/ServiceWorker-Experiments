@@ -1,0 +1,13 @@
+{
+  "title": "Angel of Fury",
+  "image": "./img/angel-offury.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Angel",
+  "text": "FlyingWhen Angel of Fury dies, you may shuffle it into its owner's library.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "2",
+  "artist": "Keith Parkinson",
+  "rating": "2.629",
+  "votes": "35"
+}

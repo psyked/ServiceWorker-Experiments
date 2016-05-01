@@ -1,0 +1,13 @@
+{
+  "title": "Imperial Seal",
+  "image": "./img/imperial-seal.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "96",
+  "artist": "Li Tie",
+  "rating": "4.646",
+  "votes": "106"
+}

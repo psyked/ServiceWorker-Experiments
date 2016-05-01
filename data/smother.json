@@ -1,0 +1,13 @@
+{
+  "title": "Smother",
+  "image": "./img/smother.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Destroy target creature with converted mana cost 3 or less. It can't be regenerated.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "57",
+  "artist": "Karl Kopinski",
+  "rating": "5",
+  "votes": "0"
+}

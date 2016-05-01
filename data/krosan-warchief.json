@@ -1,0 +1,13 @@
+{
+  "title": "Krosan Warchief",
+  "image": "./img/krosan-warchief.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Beast",
+  "text": "Beast spells you cast cost  less to cast.: Regenerate target Beast.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "155",
+  "artist": "Greg Hildebrandt",
+  "rating": "3.923",
+  "votes": "13"
+}

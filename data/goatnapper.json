@@ -1,0 +1,13 @@
+{
+  "title": "Goatnapper",
+  "image": "./img/goatnapper.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Rogue",
+  "text": "When Goatnapper enters the battlefield, untap target Goat and gain control of it until end of turn. It gains haste until end of turn.",
+  "expansion": "Lorwyn",
+  "rarity": "Uncommon",
+  "cardNumber": "172",
+  "artist": "Ron Spencer",
+  "rating": "4.127",
+  "votes": "154"
+}

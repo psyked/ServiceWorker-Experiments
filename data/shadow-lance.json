@@ -1,0 +1,13 @@
+{
+  "title": "Shadow Lance",
+  "image": "./img/shadow-lance.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has first strike.: Enchanted creature gets +2/+2 until end of turn.",
+  "expansion": "Guildpact",
+  "rarity": "Uncommon",
+  "cardNumber": "14",
+  "artist": "Hideaki Takamura",
+  "rating": "3.575",
+  "votes": "60"
+}

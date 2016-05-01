@@ -1,0 +1,13 @@
+{
+  "title": "Furnace of Rath",
+  "image": "./img/furnace-ofrath.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "If a source would deal damage to a creature or player, it deals double that damage to that creature or player instead.",
+  "expansion": "Planechase",
+  "rarity": "Rare",
+  "cardNumber": "55",
+  "artist": "John Matson",
+  "rating": "4.366",
+  "votes": "67"
+}

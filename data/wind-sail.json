@@ -1,0 +1,13 @@
+{
+  "title": "Wind Sail",
+  "image": "./img/wind-sail.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "One or two target creatures gain flying until end of turn.",
+  "expansion": "Starter 1999",
+  "rarity": "Uncommon",
+  "cardNumber": "62",
+  "artist": "Matt Stawicki",
+  "rating": "2.214",
+  "votes": "21"
+}

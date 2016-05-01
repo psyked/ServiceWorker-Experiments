@@ -1,0 +1,13 @@
+{
+  "title": "Korozda Gorgon",
+  "image": "./img/korozda-gorgon.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Gorgon",
+  "text": "Deathtouch, Remove a +1/+1 counter from a creature you control: Target creature gets -1/-1 until end of turn.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Uncommon",
+  "cardNumber": "78",
+  "artist": "Volkan Baga",
+  "rating": "3.639",
+  "votes": "36"
+}

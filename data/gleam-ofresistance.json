@@ -1,0 +1,13 @@
+{
+  "title": "Gleam of Resistance",
+  "image": "./img/gleam-ofresistance.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Creatures you control get +1/+2 until end of turn. Untap those creatures.Basic landcycling  (, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "17",
+  "artist": "Matt Stewart",
+  "rating": "2.147",
+  "votes": "17"
+}

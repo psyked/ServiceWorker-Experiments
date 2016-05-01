@@ -1,0 +1,13 @@
+{
+  "title": "Eater of Days",
+  "image": "./img/eater-ofdays.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Leviathan",
+  "text": "Flying, trampleWhen Eater of Days enters the battlefield, you skip your next two turns.",
+  "expansion": "Darksteel",
+  "rarity": "Rare",
+  "cardNumber": "120",
+  "artist": "Mark Tedin",
+  "rating": "3.646",
+  "votes": "103"
+}

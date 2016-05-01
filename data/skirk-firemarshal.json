@@ -1,0 +1,13 @@
+{
+  "title": "Skirk Fire Marshal",
+  "image": "./img/skirk-firemarshal.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Goblin",
+  "text": "Protection from redTap five untapped Goblins you control: Skirk Fire Marshal deals 10 damage to each creature and each player.",
+  "expansion": "Duel Decks Anthology, Elves vs. Goblins",
+  "rarity": "Rare",
+  "cardNumber": "50",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "5",
+  "votes": "0"
+}

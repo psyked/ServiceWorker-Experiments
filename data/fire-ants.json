@@ -1,0 +1,13 @@
+{
+  "title": "Fire Ants",
+  "image": "./img/fire-ants.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Insect",
+  "text": ": Fire Ants deals 1 damage to each other creature without flying.",
+  "expansion": "Battle Royale Box Set",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Tom Fleming",
+  "rating": "4.290",
+  "votes": "50"
+}

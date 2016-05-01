@@ -1,0 +1,13 @@
+{
+  "title": "Voyager Drake",
+  "image": "./img/voyager-drake.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Drake",
+  "text": "Multikicker  (You may pay an additional  any number of times as you cast this spell.)FlyingWhen Voyager Drake enters the battlefield, up to X target creatures gain flying until end of turn, where X is the number of times Voyager Drake was kicked.",
+  "expansion": "Worldwake",
+  "rarity": "Uncommon",
+  "cardNumber": "45",
+  "artist": "Kieran Yanner",
+  "rating": "3.009",
+  "votes": "56"
+}

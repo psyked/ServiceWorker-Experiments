@@ -1,0 +1,13 @@
+{
+  "title": "Alaborn Zealot",
+  "image": "./img/alaborn-zealot.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Soldier",
+  "text": "When Alaborn Zealot blocks a creature, destroy that creature and Alaborn Zealot.",
+  "expansion": "Portal Second Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "David Horne",
+  "rating": "4.000",
+  "votes": "51"
+}

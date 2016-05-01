@@ -1,0 +1,13 @@
+{
+  "title": "Lotus Blossom",
+  "image": "./img/lotus-blossom.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, you may put a petal counter on Lotus Blossom., Sacrifice Lotus Blossom: Add X mana of any one color to your mana pool, where X is the number of petal counters on Lotus Blossom.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "300",
+  "artist": "Randy Gallegos",
+  "rating": "3.982",
+  "votes": "55"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Boros Mastiff",
+  "image": "./img/boros-mastiff.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Hound",
+  "text": "Battalion — Whenever Boros Mastiff and at least two other creatures attack, Boros Mastiff gains lifelink until end of turn. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)",
+  "expansion": "Dragon's Maze",
+  "rarity": "Common",
+  "cardNumber": "1",
+  "artist": "Kev Walker",
+  "rating": "2.724",
+  "votes": "38"
+}

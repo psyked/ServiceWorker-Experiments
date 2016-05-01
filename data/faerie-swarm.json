@@ -1,0 +1,13 @@
+{
+  "title": "Faerie Swarm",
+  "image": "./img/faerie-swarm.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Faerie",
+  "text": "FlyingFaerie Swarm's power and toughness are each equal to the number of blue permanents you control.",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "37",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "2.965",
+  "votes": "43"
+}

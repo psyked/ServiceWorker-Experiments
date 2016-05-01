@@ -1,0 +1,13 @@
+{
+  "title": "Golgari Germination",
+  "image": "./img/golgari-germination.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a nontoken creature you control dies, put a 1/1 green Saproling creature token onto the battlefield.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Uncommon",
+  "cardNumber": "70",
+  "artist": "Thomas M. Baxa",
+  "rating": "4.188",
+  "votes": "16"
+}

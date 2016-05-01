@@ -1,0 +1,13 @@
+{
+  "title": "Flickering Ward",
+  "image": "./img/flickering-ward.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAs Flickering Ward enters the battlefield, choose a color.Enchanted creature has protection from the chosen color. This effect doesn't remove Flickering Ward.: Return Flickering Ward to its owner's hand.",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Greg Simanson",
+  "rating": "4.314",
+  "votes": "102"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Scorching Missile",
+  "image": "./img/scorching-missile.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Scorching Missile deals 4 damage to target player.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "219",
+  "artist": "Don Hazeltine",
+  "rating": "2.000",
+  "votes": "26"
+}

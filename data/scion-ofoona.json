@@ -1,0 +1,13 @@
+{
+  "title": "Scion of Oona",
+  "image": "./img/scion-ofoona.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Faerie Soldier",
+  "text": "FlashFlyingOther Faerie creatures you control get +1/+1.Other Faeries you control have shroud. (They can't be the targets of spells or abilities.)",
+  "expansion": "Modern Masters",
+  "rarity": "Rare",
+  "cardNumber": "63",
+  "artist": "Eric Fortune",
+  "rating": "4.433",
+  "votes": "30"
+}

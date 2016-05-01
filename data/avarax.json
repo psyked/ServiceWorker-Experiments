@@ -1,0 +1,13 @@
+{
+  "title": "Avarax",
+  "image": "./img/avarax.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast",
+  "text": "HasteWhen Avarax enters the battlefield, you may search your library for a card named Avarax, reveal it, and put it into your hand. If you do, shuffle your library.: Avarax gets +1/+0 until end of turn.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "187",
+  "artist": "Greg Staples",
+  "rating": "3.111",
+  "votes": "36"
+}

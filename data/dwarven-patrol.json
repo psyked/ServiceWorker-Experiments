@@ -1,0 +1,13 @@
+{
+  "title": "Dwarven Patrol",
+  "image": "./img/dwarven-patrol.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Dwarf",
+  "text": "Dwarven Patrol doesn't untap during your untap step.Whenever you cast a nonred spell, untap Dwarven Patrol.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "61",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "2.735",
+  "votes": "34"
+}

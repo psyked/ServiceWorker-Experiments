@@ -1,0 +1,13 @@
+{
+  "title": "Firemane Avenger",
+  "image": "./img/firemane-avenger.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Angel",
+  "text": "FlyingBattalion — Whenever Firemane Avenger and at least two other creatures attack, Firemane Avenger deals 3 damage to target creature or player and you gain 3 life.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "163",
+  "artist": "Wayne Reynolds",
+  "rating": "4.019",
+  "votes": "131"
+}

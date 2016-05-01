@@ -1,0 +1,13 @@
+{
+  "title": "Khalni Gem",
+  "image": "./img/khalni-gem.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "When Khalni Gem enters the battlefield, return two lands you control to their owner's hand.: Add two mana of any one color to your mana pool.",
+  "expansion": "Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "205",
+  "artist": "Franz Vohwinkel",
+  "rating": "3.614",
+  "votes": "79"
+}

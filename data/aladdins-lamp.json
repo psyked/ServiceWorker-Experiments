@@ -1,0 +1,13 @@
+{
+  "title": "Aladdin's Lamp",
+  "image": "./img/aladdins-lamp.jpg",
+  "convertedManaCost": "10",
+  "types": "Artifact",
+  "text": ", : The next time you would draw a card this turn, instead look at the top X cards of your library, put all but one of them on the bottom of your library in a random order, then draw a card. X can't be 0.",
+  "expansion": "Fourth Edition",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Mark Tedin",
+  "rating": "2.138",
+  "votes": "69"
+}

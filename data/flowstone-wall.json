@@ -1,0 +1,13 @@
+{
+  "title": "Flowstone Wall",
+  "image": "./img/flowstone-wall.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.): Flowstone Wall gets +1/-1 until end of turn.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "86",
+  "artist": "Jeff Miracola",
+  "rating": "2.589",
+  "votes": "28"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Titanium Golem",
+  "image": "./img/titanium-golem.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Golem",
+  "text": ": Titanium Golem gains first strike until end of turn.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "263",
+  "artist": "Paolo Parente",
+  "rating": "1.343",
+  "votes": "35"
+}

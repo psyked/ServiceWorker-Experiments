@@ -1,0 +1,13 @@
+{
+  "title": "Mossbridge Troll",
+  "image": "./img/mossbridge-troll.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Troll",
+  "text": "If Mossbridge Troll would be destroyed, regenerate it.Tap any number of untapped creatures you control other than Mossbridge Troll with total power 10 or greater: Mossbridge Troll gets +20/+20 until end of turn.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "123",
+  "artist": "Jeremy Jarvis",
+  "rating": "4.075",
+  "votes": "146"
+}

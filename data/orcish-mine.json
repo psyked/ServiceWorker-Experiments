@@ -1,0 +1,13 @@
+{
+  "title": "Orcish Mine",
+  "image": "./img/orcish-mine.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landOrcish Mine enters the battlefield with three ore counters on it.At the beginning of your upkeep or whenever enchanted land becomes tapped, remove an ore counter from Orcish Mine.When the last ore counter is removed from Orcish Mine, destroy enchanted land and Orcish Mine deals 2 damage to that land's controller.",
+  "expansion": "Homelands",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Kaja Foglio",
+  "rating": "1.838",
+  "votes": "34"
+}

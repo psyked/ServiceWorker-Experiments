@@ -1,0 +1,13 @@
+{
+  "title": "Crovax the Cursed",
+  "image": "./img/crovax-thecursed.jpg",
+  "convertedManaCost": "4",
+  "types": "Legendary Creature  — Vampire",
+  "text": "Crovax the Cursed enters the battlefield with four +1/+1 counters on it.At the beginning of your upkeep, you may sacrifice a creature. If you do, put a +1/+1 counter on Crovax. If you don't, remove a +1/+1 counter from Crovax.: Crovax gains flying until end of turn.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Rare",
+  "cardNumber": "90",
+  "artist": "Pete Venters",
+  "rating": "5",
+  "votes": "0"
+}

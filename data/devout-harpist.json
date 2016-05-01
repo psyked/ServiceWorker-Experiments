@@ -1,0 +1,13 @@
+{
+  "title": "Devout Harpist",
+  "image": "./img/devout-harpist.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human",
+  "text": ": Destroy target Aura attached to a creature.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Common",
+  "cardNumber": "6",
+  "artist": "Rebecca Guay",
+  "rating": "3.305",
+  "votes": "41"
+}

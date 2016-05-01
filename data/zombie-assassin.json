@@ -1,0 +1,13 @@
+{
+  "title": "Zombie Assassin",
+  "image": "./img/zombie-assassin.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie Assassin",
+  "text": ", Exile two cards from your graveyard and Zombie Assassin: Destroy target nonblack creature. It can't be regenerated.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "168",
+  "artist": "Pete Venters",
+  "rating": "1.188",
+  "votes": "40"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Paperfin Rascal",
+  "image": "./img/paperfin-rascal.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Merfolk Rogue",
+  "text": "When Paperfin Rascal enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Paperfin Rascal. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "77",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "2.075",
+  "votes": "40"
+}

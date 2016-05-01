@@ -1,0 +1,13 @@
+{
+  "title": "The Rack",
+  "image": "./img/the-rack.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": "As The Rack enters the battlefield, choose an opponent.At the beginning of the chosen player's upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in his or her hand.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "113",
+  "artist": "Richard Thomas",
+  "rating": "4.368",
+  "votes": "95"
+}

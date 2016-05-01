@@ -1,0 +1,13 @@
+{
+  "title": "Nightmare Void",
+  "image": "./img/nightmare-void.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Target player reveals his or her hand. You choose a card from it. That player discards that card.Dredge 2 (If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Uncommon",
+  "cardNumber": "73",
+  "artist": "Chippy",
+  "rating": "3.056",
+  "votes": "9"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Underworld Coinsmith",
+  "image": "./img/underworld-coinsmith.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment Creature  — Human Cleric",
+  "text": "Constellation — Whenever Underworld Coinsmith or another enchantment enters the battlefield under your control, you gain 1 life., Pay 1 life: Each opponent loses 1 life.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "237",
+  "artist": "Mark Winters",
+  "rating": "5",
+  "votes": "0"
+}

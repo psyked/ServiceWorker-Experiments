@@ -1,0 +1,13 @@
+{
+  "title": "Complicate",
+  "image": "./img/complicate.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell unless its controller pays .Cycling  (, Discard this card: Draw a card.)When you cycle Complicate, you may counter target spell unless its controller pays .",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "76",
+  "artist": "Scott M. Fischer",
+  "rating": "4.104",
+  "votes": "48"
+}

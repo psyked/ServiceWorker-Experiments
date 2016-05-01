@@ -1,0 +1,13 @@
+{
+  "title": "Slith Strider",
+  "image": "./img/slith-strider.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Slith",
+  "text": "Whenever Slith Strider becomes blocked, draw a card.Whenever Slith Strider deals combat damage to a player, put a +1/+1 counter on it.",
+  "expansion": "Duel Decks: Venser vs. Koth",
+  "rarity": "Uncommon",
+  "cardNumber": "9",
+  "artist": "Justin Sweet",
+  "rating": "3.529",
+  "votes": "17"
+}

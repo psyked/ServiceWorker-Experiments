@@ -1,0 +1,13 @@
+{
+  "title": "Nightsky Mimic",
+  "image": "./img/nightsky-mimic.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Shapeshifter",
+  "text": "Whenever you cast a spell that's both white and black, Nightsky Mimic has base power and toughness 4/4 until end of turn and gains flying until end of turn.",
+  "expansion": "Eventide",
+  "rarity": "Common",
+  "cardNumber": "91",
+  "artist": "Franz Vohwinkel",
+  "rating": "3.722",
+  "votes": "81"
+}

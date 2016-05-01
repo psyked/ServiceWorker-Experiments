@@ -1,0 +1,13 @@
+{
+  "title": "Heart of Light",
+  "image": "./img/heart-oflight.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)Prevent all damage that would be dealt to and dealt by enchanted creature.",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "19",
+  "artist": "Luca Zontini",
+  "rating": "2.878",
+  "votes": "41"
+}

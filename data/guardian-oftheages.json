@@ -1,0 +1,13 @@
+{
+  "title": "Guardian of the Ages",
+  "image": "./img/guardian-oftheages.jpg",
+  "convertedManaCost": "7",
+  "types": "Artifact Creature  — Golem",
+  "text": "Defender (This creature can't attack.)When a creature attacks you or a planeswalker you control, if Guardian of the Ages has defender, it loses defender and gains trample.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "211",
+  "artist": "Ryan Pancoast",
+  "rating": "2.750",
+  "votes": "42"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Melee",
+  "image": "./img/melee.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Cast Melee only during your turn and only during combat before blockers are declared.You choose which creatures block this combat and how those creatures block.Whenever a creature attacks and isn't blocked this combat, untap it and remove it from combat.",
+  "expansion": "Ice Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Dameon Willich",
+  "rating": "3.375",
+  "votes": "28"
+}

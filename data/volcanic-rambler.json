@@ -1,0 +1,13 @@
+{
+  "title": "Volcanic Rambler",
+  "image": "./img/volcanic-rambler.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": ": Volcanic Rambler deals 1 damage to target player.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "167",
+  "artist": "Vincent Proce",
+  "rating": "5",
+  "votes": "0"
+}

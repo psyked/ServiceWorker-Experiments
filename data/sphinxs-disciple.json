@@ -1,0 +1,13 @@
+{
+  "title": "Sphinx's Disciple",
+  "image": "./img/sphinxs-disciple.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Wizard",
+  "text": "FlyingInspired — Whenever Sphinx's Disciple becomes untapped, draw a card.",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "51",
+  "artist": "Ryan Alexander Lee",
+  "rating": "3.161",
+  "votes": "31"
+}

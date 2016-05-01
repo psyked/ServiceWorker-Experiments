@@ -1,0 +1,13 @@
+{
+  "title": "Disharmony",
+  "image": "./img/disharmony.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Cast Disharmony only during combat before blockers are declared.Untap target attacking creature and remove it from combat. Gain control of that creature until end of turn.",
+  "expansion": "Masters Edition III",
+  "rarity": "Uncommon",
+  "cardNumber": "95",
+  "artist": "Bryon Wackwitz",
+  "rating": "3.317",
+  "votes": "30"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Disciple of Grace",
+  "image": "./img/disciple-ofgrace.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": "Protection from blackCycling  (, Discard this card: Draw a card.)",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "25",
+  "artist": "Thomas M. Baxa",
+  "rating": "3.018",
+  "votes": "28"
+}

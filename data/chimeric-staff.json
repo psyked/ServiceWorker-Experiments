@@ -1,0 +1,13 @@
+{
+  "title": "Chimeric Staff",
+  "image": "./img/chimeric-staff.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ": Chimeric Staff becomes an X/X Construct artifact creature until end of turn.",
+  "expansion": "Tenth Edition",
+  "rarity": "Rare",
+  "cardNumber": "313",
+  "artist": "Michael Sutfin",
+  "rating": "3.633",
+  "votes": "45"
+}

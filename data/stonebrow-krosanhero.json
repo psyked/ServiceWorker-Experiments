@@ -1,0 +1,13 @@
+{
+  "title": "Stonebrow, Krosan Hero",
+  "image": "./img/stonebrow-krosanhero.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Centaur Warrior",
+  "text": "TrampleWhenever a creature you control with trample attacks, it gets +2/+2 until end of turn.",
+  "expansion": "Time Spiral",
+  "rarity": "Rare",
+  "cardNumber": "247",
+  "artist": "Ron Spears",
+  "rating": "4.033",
+  "votes": "75"
+}

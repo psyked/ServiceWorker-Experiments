@@ -1,0 +1,13 @@
+{
+  "title": "Wild Growth",
+  "image": "./img/wild-growth.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landWhenever enchanted land is tapped for mana, its controller adds  to his or her mana pool (in addition to the mana the land produces).",
+  "expansion": "Seventh Edition",
+  "rarity": "Common",
+  "cardNumber": "282",
+  "artist": "Tony Szczudlo",
+  "rating": "3.917",
+  "votes": "54"
+}

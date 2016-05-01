@@ -1,0 +1,13 @@
+{
+  "title": "Mortician Beetle",
+  "image": "./img/mortician-beetle.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Insect",
+  "text": "Whenever a player sacrifices a creature, you may put a +1/+1 counter on Mortician Beetle.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Rare",
+  "cardNumber": "117",
+  "artist": "Lars Grant-West",
+  "rating": "4.175",
+  "votes": "120"
+}

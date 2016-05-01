@@ -1,0 +1,13 @@
+{
+  "title": "Retraced Image",
+  "image": "./img/retraced-image.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Reveal a card in your hand, then put that card onto the battlefield if it has the same name as a permanent.",
+  "expansion": "Torment",
+  "rarity": "Rare",
+  "cardNumber": "46",
+  "artist": "Greg Staples",
+  "rating": "3.912",
+  "votes": "34"
+}

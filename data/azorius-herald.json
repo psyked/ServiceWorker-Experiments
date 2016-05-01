@@ -1,0 +1,13 @@
+{
+  "title": "Azorius Herald",
+  "image": "./img/azorius-herald.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "Azorius Herald can't be blocked.When Azorius Herald enters the battlefield, you gain 4 life.When Azorius Herald enters the battlefield, sacrifice it unless  was spent to cast it.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "6",
+  "artist": "Justin Sweet",
+  "rating": "3.846",
+  "votes": "13"
+}

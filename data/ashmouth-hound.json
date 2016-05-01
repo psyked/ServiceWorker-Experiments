@@ -1,0 +1,13 @@
+{
+  "title": "Ashmouth Hound",
+  "image": "./img/ashmouth-hound.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elemental Hound",
+  "text": "Whenever Ashmouth Hound blocks or becomes blocked by a creature, Ashmouth Hound deals 1 damage to that creature.",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Common",
+  "cardNumber": "45",
+  "artist": "Daarken",
+  "rating": "3.375",
+  "votes": "16"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mistblade Shinobi",
+  "image": "./img/mistblade-shinobi.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Ninja",
+  "text": "Ninjutsu  (, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)Whenever Mistblade Shinobi deals combat damage to a player, you may return target creature that player controls to its owner's hand.",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Common",
+  "cardNumber": "20",
+  "artist": "Kev Walker",
+  "rating": "4.267",
+  "votes": "30"
+}

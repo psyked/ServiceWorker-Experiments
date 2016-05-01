@@ -1,0 +1,13 @@
+{
+  "title": "Sin Prodder",
+  "image": "./img/sin-prodder.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Devil",
+  "text": "MenaceAt the beginning of your upkeep, reveal the top card of your library. Any opponent may have you put that card into your graveyard. If a player does, Sin Prodder deals damage to that player equal to that card's converted mana cost. Otherwise, put that card into your hand.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "181",
+  "artist": "Jack Wang",
+  "rating": "5",
+  "votes": "0"
+}

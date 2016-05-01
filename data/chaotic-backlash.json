@@ -1,0 +1,13 @@
+{
+  "title": "Chaotic Backlash",
+  "image": "./img/chaotic-backlash.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Chaotic Backlash deals damage to target player equal to twice the number of white and/or blue permanents he or she controls.",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "49",
+  "artist": "Carl Frank",
+  "rating": "2.667",
+  "votes": "30"
+}

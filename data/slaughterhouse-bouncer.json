@@ -1,0 +1,13 @@
+{
+  "title": "Slaughterhouse Bouncer",
+  "image": "./img/slaughterhouse-bouncer.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Ogre Warrior",
+  "text": "Hellbent — When Slaughterhouse Bouncer dies, if you have no cards in hand, target creature gets -3/-3 until end of turn.",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "54",
+  "artist": "Greg Staples",
+  "rating": "1.538",
+  "votes": "40"
+}

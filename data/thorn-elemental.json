@@ -1,0 +1,13 @@
+{
+  "title": "Thorn Elemental",
+  "image": "./img/thorn-elemental.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Elemental",
+  "text": "You may have Thorn Elemental assign its combat damage as though it weren't blocked.",
+  "expansion": "Eighth Edition",
+  "rarity": "Rare",
+  "cardNumber": "283",
+  "artist": "rk post",
+  "rating": "4.361",
+  "votes": "122"
+}

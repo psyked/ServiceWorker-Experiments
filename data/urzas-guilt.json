@@ -1,0 +1,13 @@
+{
+  "title": "Urza's Guilt",
+  "image": "./img/urzas-guilt.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Each player draws two cards, then discards three cards, then loses 4 life.",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "130",
+  "artist": "Paolo Parente",
+  "rating": "3.630",
+  "votes": "46"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Gruesome Deformity",
+  "image": "./img/gruesome-deformity.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "103",
+  "artist": "Matt Stewart",
+  "rating": "2.355",
+  "votes": "62"
+}

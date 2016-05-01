@@ -1,0 +1,13 @@
+{
+  "title": "Welkin Guide",
+  "image": "./img/welkin-guide.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bird Cleric",
+  "text": "FlyingWhen Welkin Guide enters the battlefield, target creature gets +2/+2 and gains flying until end of turn.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "30",
+  "artist": "David Palumbo",
+  "rating": "1.773",
+  "votes": "64"
+}

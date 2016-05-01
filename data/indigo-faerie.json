@@ -1,0 +1,13 @@
+{
+  "title": "Indigo Faerie",
+  "image": "./img/indigo-faerie.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Faerie Wizard",
+  "text": "Flying: Target permanent becomes blue in addition to its other colors until end of turn.",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "24",
+  "artist": "Steve Prescott",
+  "rating": "2.256",
+  "votes": "39"
+}

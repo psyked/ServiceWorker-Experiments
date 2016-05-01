@@ -1,0 +1,13 @@
+{
+  "title": "Contempt",
+  "image": "./img/contempt.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen enchanted creature attacks, return it and Contempt to their owners' hands at end of combat.",
+  "expansion": "Stronghold",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Val Mayerik",
+  "rating": "3.370",
+  "votes": "27"
+}

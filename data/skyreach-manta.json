@@ -1,0 +1,13 @@
+{
+  "title": "Skyreach Manta",
+  "image": "./img/skyreach-manta.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Fish",
+  "text": "Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)Flying",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "229",
+  "artist": "Christopher Moeller",
+  "rating": "5",
+  "votes": "0"
+}

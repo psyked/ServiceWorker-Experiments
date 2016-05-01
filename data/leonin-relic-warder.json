@@ -1,0 +1,13 @@
+{
+  "title": "Leonin Relic-Warder",
+  "image": "./img/leonin-relic-warder.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Cat Cleric",
+  "text": "When Leonin Relic-Warder enters the battlefield, you may exile target artifact or enchantment.When Leonin Relic-Warder leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Uncommon",
+  "cardNumber": "10",
+  "artist": "Greg Staples",
+  "rating": "4.309",
+  "votes": "97"
+}

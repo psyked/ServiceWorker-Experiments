@@ -1,0 +1,13 @@
+{
+  "title": "Grixis Charm",
+  "image": "./img/grixis-charm.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose one —• Return target permanent to its owner's hand.• Target creature gets -4/-4 until end of turn.• Creatures you control get +2/+0 until end of turn.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "192",
+  "artist": "Lars Grant-West",
+  "rating": "3.909",
+  "votes": "11"
+}

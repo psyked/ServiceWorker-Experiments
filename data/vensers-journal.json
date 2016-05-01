@@ -1,0 +1,13 @@
+{
+  "title": "Venser's Journal",
+  "image": "./img/vensers-journal.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": "You have no maximum hand size.At the beginning of your upkeep, you gain 1 life for each card in your hand.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "220",
+  "artist": "Christopher Moeller",
+  "rating": "3.440",
+  "votes": "125"
+}

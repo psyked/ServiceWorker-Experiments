@@ -1,0 +1,13 @@
+{
+  "title": "Power of Fire",
+  "image": "./img/power-offire.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has \": This creature deals 1 damage to target creature or player.\"",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "150",
+  "artist": "Trevor Hairsine",
+  "rating": "2.500",
+  "votes": "4"
+}

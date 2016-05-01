@@ -1,0 +1,13 @@
+{
+  "title": "Spiritualize",
+  "image": "./img/spiritualize.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Until end of turn, whenever target creature deals damage, you gain that much life.Draw a card.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "53",
+  "artist": "Christopher Moeller",
+  "rating": "2.632",
+  "votes": "34"
+}

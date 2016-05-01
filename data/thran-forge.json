@@ -1,0 +1,13 @@
+{
+  "title": "Thran Forge",
+  "image": "./img/thran-forge.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Until end of turn, target nonartifact creature gets +1/+0 and becomes an artifact in addition to its other types.",
+  "expansion": "Weatherlight",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Mark Poole",
+  "rating": "3.333",
+  "votes": "30"
+}

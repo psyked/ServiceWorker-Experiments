@@ -1,0 +1,13 @@
+{
+  "title": "Parallel Thoughts",
+  "image": "./img/parallel-thoughts.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "When Parallel Thoughts enters the battlefield, search your library for seven cards, exile them in a face-down pile, and shuffle that pile. Then shuffle your library.If you would draw a card, you may instead put the top card of the pile you exiled into your hand.",
+  "expansion": "Scourge",
+  "rarity": "Rare",
+  "cardNumber": "44",
+  "artist": "Ben Thompson",
+  "rating": "4.225",
+  "votes": "40"
+}

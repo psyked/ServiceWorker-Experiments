@@ -1,0 +1,13 @@
+{
+  "title": "Saproling Cluster",
+  "image": "./img/saproling-cluster.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": ", Discard a card: Put a 1/1 green Saproling creature token onto the battlefield. Any player may activate this ability.",
+  "expansion": "Nemesis",
+  "rarity": "Rare",
+  "cardNumber": "114",
+  "artist": "Matt Cavotta",
+  "rating": "2.771",
+  "votes": "24"
+}

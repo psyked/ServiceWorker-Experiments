@@ -1,0 +1,13 @@
+{
+  "title": "Vedalken Ghoul",
+  "image": "./img/vedalken-ghoul.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Vedalken Zombie",
+  "text": "Whenever Vedalken Ghoul becomes blocked, defending player loses 4 life.",
+  "expansion": "Alara Reborn",
+  "rarity": "Common",
+  "cardNumber": "32",
+  "artist": "Dave Kendall",
+  "rating": "3.000",
+  "votes": "84"
+}

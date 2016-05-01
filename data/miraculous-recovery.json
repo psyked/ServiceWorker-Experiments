@@ -1,0 +1,13 @@
+{
+  "title": "Miraculous Recovery",
+  "image": "./img/miraculous-recovery.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Return target creature card from your graveyard to the battlefield. Put a +1/+1 counter on it.",
+  "expansion": "Duel Decks: Heroes vs. Monsters",
+  "rarity": "Uncommon",
+  "cardNumber": "30",
+  "artist": "Mark Winters",
+  "rating": "4.304",
+  "votes": "23"
+}

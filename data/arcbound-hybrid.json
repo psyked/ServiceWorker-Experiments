@@ -1,0 +1,13 @@
+{
+  "title": "Arcbound Hybrid",
+  "image": "./img/arcbound-hybrid.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Beast",
+  "text": "HasteModular 2 (This enters the battlefield with two +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "97",
+  "artist": "Alan Pollack",
+  "rating": "2.597",
+  "votes": "36"
+}

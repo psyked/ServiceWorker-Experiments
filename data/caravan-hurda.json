@@ -1,0 +1,13 @@
+{
+  "title": "Caravan Hurda",
+  "image": "./img/caravan-hurda.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Giant",
+  "text": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "5",
+  "artist": "Dave Kendall",
+  "rating": "1.191",
+  "votes": "89"
+}

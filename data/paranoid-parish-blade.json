@@ -1,0 +1,13 @@
+{
+  "title": "Paranoid Parish-Blade",
+  "image": "./img/paranoid-parish-blade.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "Delirium — Paranoid Parish-Blade gets +1/+0 and has first strike as long as there are four or more card types among cards in your graveyard.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "33",
+  "artist": "Matt Stewart",
+  "rating": "5",
+  "votes": "0"
+}

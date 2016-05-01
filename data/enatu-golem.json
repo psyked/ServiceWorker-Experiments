@@ -1,0 +1,13 @@
+{
+  "title": "Enatu Golem",
+  "image": "./img/enatu-golem.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Golem",
+  "text": "When Enatu Golem dies, you gain 4 life.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "217",
+  "artist": "Daniel Ljunggren",
+  "rating": "1.963",
+  "votes": "54"
+}

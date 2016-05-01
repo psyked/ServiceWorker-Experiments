@@ -1,0 +1,13 @@
+{
+  "title": "Nantuko Shrine",
+  "image": "./img/nantuko-shrine.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a player casts a spell, that player puts X 1/1 green Squirrel creature tokens onto the battlefield, where X is the number of cards in all graveyards with the same name as that spell.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "256",
+  "artist": "Rebecca Guay",
+  "rating": "3.000",
+  "votes": "21"
+}

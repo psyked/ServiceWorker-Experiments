@@ -1,0 +1,13 @@
+{
+  "title": "Elderscale Wurm",
+  "image": "./img/elderscale-wurm.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Wurm",
+  "text": "TrampleWhen Elderscale Wurm enters the battlefield, if your life total is less than 7, your life total becomes 7.As long as you have 7 or more life, damage that would reduce your life total to less than 7 reduces it to 7 instead.",
+  "expansion": "Magic 2013",
+  "rarity": "Mythic Rare",
+  "cardNumber": "167",
+  "artist": "Richard Wright",
+  "rating": "4.041",
+  "votes": "98"
+}

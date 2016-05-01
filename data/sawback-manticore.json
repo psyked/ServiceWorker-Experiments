@@ -1,0 +1,13 @@
+{
+  "title": "Sawback Manticore",
+  "image": "./img/sawback-manticore.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Manticore",
+  "text": ": Sawback Manticore gains flying until end of turn.: Sawback Manticore deals 2 damage to target attacking or blocking creature. Activate this ability only if Sawback Manticore is attacking or blocking and only once each turn.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Martin McKenna",
+  "rating": "2.140",
+  "votes": "43"
+}

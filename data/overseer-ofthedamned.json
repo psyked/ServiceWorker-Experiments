@@ -1,0 +1,13 @@
+{
+  "title": "Overseer of the Damned",
+  "image": "./img/overseer-ofthedamned.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Demon",
+  "text": "FlyingWhen Overseer of the Damned enters the battlefield, you may destroy target creature.Whenever a nontoken creature an opponent controls dies, put a 2/2 black Zombie creature token onto the battlefield tapped.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "28",
+  "artist": "rk post",
+  "rating": "5",
+  "votes": "0"
+}

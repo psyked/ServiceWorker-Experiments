@@ -1,0 +1,13 @@
+{
+  "title": "Spidersilk Armor",
+  "image": "./img/spidersilk-armor.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Creatures you control get +0/+1 and have reach. (They can block creatures with flying.)",
+  "expansion": "Duel Decks: Knights vs. Dragons",
+  "rarity": "Common",
+  "cardNumber": "32",
+  "artist": "Scott Hampton",
+  "rating": "4.156",
+  "votes": "45"
+}

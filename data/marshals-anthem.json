@@ -1,0 +1,13 @@
+{
+  "title": "Marshal's Anthem",
+  "image": "./img/marshals-anthem.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Multikicker  (You may pay an additional  any number of times as you cast this spell.)Creatures you control get +1/+1.When Marshal's Anthem enters the battlefield, return up to X target creature cards from your graveyard to the battlefield, where X is the number of times Marshal's Anthem was kicked.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "74",
+  "artist": "Matt Stewart",
+  "rating": "5",
+  "votes": "0"
+}

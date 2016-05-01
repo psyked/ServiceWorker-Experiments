@@ -1,0 +1,13 @@
+{
+  "title": "Typhoid Rats",
+  "image": "./img/typhoid-rats.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Rat",
+  "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "89",
+  "artist": "Dave Kendall",
+  "rating": "5",
+  "votes": "0"
+}

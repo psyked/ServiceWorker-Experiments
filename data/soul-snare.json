@@ -1,0 +1,13 @@
+{
+  "title": "Soul Snare",
+  "image": "./img/soul-snare.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment",
+  "text": ", Sacrifice Soul Snare: Exile target creature that's attacking you or a planeswalker you control.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Uncommon",
+  "cardNumber": "32",
+  "artist": "Carl Critchlow",
+  "rating": "4.011",
+  "votes": "46"
+}

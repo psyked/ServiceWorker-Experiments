@@ -1,0 +1,13 @@
+{
+  "title": "Splatter Thug",
+  "image": "./img/splatter-thug.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Warrior",
+  "text": "First strikeUnleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "105",
+  "artist": "Kev Walker",
+  "rating": "3.074",
+  "votes": "54"
+}

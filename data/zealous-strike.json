@@ -1,0 +1,13 @@
+{
+  "title": "Zealous Strike",
+  "image": "./img/zealous-strike.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +2/+2 and gains first strike until end of turn.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "41",
+  "artist": "Bud Cook",
+  "rating": "2.690",
+  "votes": "42"
+}

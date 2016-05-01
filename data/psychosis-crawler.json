@@ -1,0 +1,13 @@
+{
+  "title": "Psychosis Crawler",
+  "image": "./img/psychosis-crawler.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Horror",
+  "text": "Psychosis Crawler's power and toughness are each equal to the number of cards in your hand.Whenever you draw a card, each opponent loses 1 life.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "263",
+  "artist": "Stephan Martiniere",
+  "rating": "5",
+  "votes": "0"
+}

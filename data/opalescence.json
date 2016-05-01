@@ -1,0 +1,13 @@
+{
+  "title": "Opalescence",
+  "image": "./img/opalescence.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its converted mana cost.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Rare",
+  "cardNumber": "13",
+  "artist": "John Avon",
+  "rating": "4.283",
+  "votes": "69"
+}

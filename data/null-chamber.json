@@ -1,0 +1,13 @@
+{
+  "title": "Null Chamber",
+  "image": "./img/null-chamber.jpg",
+  "convertedManaCost": "4",
+  "types": "World Enchantment",
+  "text": "As Null Chamber enters the battlefield, you and an opponent each name a card other than a basic land card.The named cards can't be played.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Douglas Shuler",
+  "rating": "3.293",
+  "votes": "29"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Burning Wish",
+  "image": "./img/burning-wish.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "You may choose a sorcery card you own from outside the game, reveal that card, and put it into your hand. Exile Burning Wish.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "152",
+  "artist": "Scott M. Fischer",
+  "rating": "5",
+  "votes": "0"
+}

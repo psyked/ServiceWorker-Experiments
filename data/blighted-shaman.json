@@ -1,0 +1,13 @@
+{
+  "title": "Blighted Shaman",
+  "image": "./img/blighted-shaman.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric Shaman",
+  "text": ", Sacrifice a Swamp: Target creature gets +1/+1 until end of turn., Sacrifice a creature: Target creature gets +2/+2 until end of turn.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "114",
+  "artist": "Ian Miller",
+  "rating": "2.783",
+  "votes": "30"
+}

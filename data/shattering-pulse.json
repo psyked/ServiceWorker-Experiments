@@ -1,0 +1,13 @@
+{
+  "title": "Shattering Pulse",
+  "image": "./img/shattering-pulse.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Buyback  (You may pay an additional  as you cast this spell. If you do, put this card into your hand as it resolves.)Destroy target artifact.",
+  "expansion": "Exodus",
+  "rarity": "Common",
+  "cardNumber": "102",
+  "artist": "Donato Giancola",
+  "rating": "4.066",
+  "votes": "61"
+}

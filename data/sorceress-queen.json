@@ -1,0 +1,13 @@
+{
+  "title": "Sorceress Queen",
+  "image": "./img/sorceress-queen.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": ": Target creature other than Sorceress Queen has base power and toughness 0/2 until end of turn.",
+  "expansion": "Fifth Edition",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Kaja Foglio",
+  "rating": "4.195",
+  "votes": "59"
+}

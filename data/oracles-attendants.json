@@ -1,0 +1,13 @@
+{
+  "title": "Oracle's Attendants",
+  "image": "./img/oracles-attendants.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Soldier",
+  "text": ": All damage that would be dealt to target creature this turn by a source of your choice is dealt to Oracle's Attendants instead.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "30",
+  "artist": "Dany Orizio",
+  "rating": "3.033",
+  "votes": "30"
+}

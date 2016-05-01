@@ -1,0 +1,13 @@
+{
+  "title": "Bloodhusk Ritualist",
+  "image": "./img/bloodhusk-ritualist.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vampire Shaman",
+  "text": "Multikicker  (You may pay an additional  any number of times as you cast this spell.)When Bloodhusk Ritualist enters the battlefield, target opponent discards a card for each time it was kicked.",
+  "expansion": "Worldwake",
+  "rarity": "Uncommon",
+  "cardNumber": "50",
+  "artist": "Daarken",
+  "rating": "3.541",
+  "votes": "85"
+}

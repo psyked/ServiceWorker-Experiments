@@ -1,0 +1,13 @@
+{
+  "title": "Timid Drake",
+  "image": "./img/timid-drake.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Drake",
+  "text": "FlyingWhen another creature enters the battlefield, return Timid Drake to its owner's hand.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "111",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "2.112",
+  "votes": "40"
+}

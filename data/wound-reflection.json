@@ -1,0 +1,13 @@
+{
+  "title": "Wound Reflection",
+  "image": "./img/wound-reflection.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "At the beginning of each end step, each opponent loses life equal to the life he or she lost this turn. (Damage causes loss of life.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "81",
+  "artist": "Terese Nielsen & Ron Spencer",
+  "rating": "3.764",
+  "votes": "70"
+}

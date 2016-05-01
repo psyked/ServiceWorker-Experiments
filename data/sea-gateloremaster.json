@@ -1,0 +1,13 @@
+{
+  "title": "Sea Gate Loremaster",
+  "image": "./img/sea-gateloremaster.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Merfolk Wizard Ally",
+  "text": ": Draw a card for each Ally you control.",
+  "expansion": "Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "63",
+  "artist": "Dave Kendall",
+  "rating": "3.865",
+  "votes": "85"
+}

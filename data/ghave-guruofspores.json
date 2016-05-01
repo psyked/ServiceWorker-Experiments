@@ -1,0 +1,13 @@
+{
+  "title": "Ghave, Guru of Spores",
+  "image": "./img/ghave-guruofspores.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Fungus Shaman",
+  "text": "Ghave, Guru of Spores enters the battlefield with five +1/+1 counters on it., Remove a +1/+1 counter from a creature you control: Put a 1/1 green Saproling creature token onto the battlefield., Sacrifice a creature: Put a +1/+1 counter on target creature.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Mythic Rare",
+  "cardNumber": "200",
+  "artist": "James Paick",
+  "rating": "4.004",
+  "votes": "140"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sylvan Basilisk",
+  "image": "./img/sylvan-basilisk.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Basilisk",
+  "text": "Whenever Sylvan Basilisk becomes blocked by a creature, destroy that creature.",
+  "expansion": "Tenth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "301",
+  "artist": "Steven Belledin",
+  "rating": "4.173",
+  "votes": "52"
+}

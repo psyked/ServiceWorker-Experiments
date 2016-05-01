@@ -1,0 +1,13 @@
+{
+  "title": "Reclaiming Vines",
+  "image": "./img/reclaiming-vines.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy target artifact, enchantment, or land.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "185",
+  "artist": "Bastien L. Deharme",
+  "rating": "5",
+  "votes": "0"
+}

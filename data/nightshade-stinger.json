@@ -1,0 +1,13 @@
+{
+  "title": "Nightshade Stinger",
+  "image": "./img/nightshade-stinger.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Faerie Rogue",
+  "text": "FlyingNightshade Stinger can't block.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "132",
+  "artist": "Mark Poole",
+  "rating": "2.896",
+  "votes": "48"
+}

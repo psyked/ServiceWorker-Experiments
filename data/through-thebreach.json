@@ -1,0 +1,13 @@
+{
+  "title": "Through the Breach",
+  "image": "./img/through-thebreach.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant  — Arcane",
+  "text": "You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice that creature at the beginning of the next end step.Splice onto Arcane  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "193",
+  "artist": "Hugh Jamieson",
+  "rating": "3.581",
+  "votes": "37"
+}

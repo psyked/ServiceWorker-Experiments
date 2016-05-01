@@ -1,0 +1,13 @@
+{
+  "title": "Rush of Knowledge",
+  "image": "./img/rush-ofknowledge.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Draw cards equal to the highest converted mana cost among permanents you control.",
+  "expansion": "Commander 2014",
+  "rarity": "Common",
+  "cardNumber": "123",
+  "artist": "Eric Peterson",
+  "rating": "5",
+  "votes": "0"
+}

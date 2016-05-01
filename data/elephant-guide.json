@@ -1,0 +1,13 @@
+{
+  "title": "Elephant Guide",
+  "image": "./img/elephant-guide.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +3/+3.When enchanted creature dies, put a 3/3 green Elephant creature token onto the battlefield.",
+  "expansion": "Duel Decks Anthology, Garruk vs. Liliana",
+  "rarity": "Uncommon",
+  "cardNumber": "18",
+  "artist": "Jim Nelson",
+  "rating": "5",
+  "votes": "0"
+}

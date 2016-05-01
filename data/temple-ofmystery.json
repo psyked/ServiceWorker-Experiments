@@ -1,0 +1,13 @@
+{
+  "title": "Temple of Mystery",
+  "image": "./img/temple-ofmystery.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "Temple of Mystery enters the battlefield tapped.When Temple of Mystery enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.): Add  or  to your mana pool.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "226",
+  "artist": "Noah Bradley",
+  "rating": "3.567",
+  "votes": "60"
+}

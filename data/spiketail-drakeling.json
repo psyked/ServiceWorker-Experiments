@@ -1,0 +1,13 @@
+{
+  "title": "Spiketail Drakeling",
+  "image": "./img/spiketail-drakeling.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Drake",
+  "text": "FlyingSacrifice Spiketail Drakeling: Counter target spell unless its controller pays .",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "80",
+  "artist": "Dave Dorman",
+  "rating": "4.114",
+  "votes": "88"
+}

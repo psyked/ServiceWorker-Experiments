@@ -1,0 +1,13 @@
+{
+  "title": "Mistmeadow Witch",
+  "image": "./img/mistmeadow-witch.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kithkin Wizard",
+  "text": ": Exile target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "230",
+  "artist": "Greg Staples",
+  "rating": "3.750",
+  "votes": "16"
+}

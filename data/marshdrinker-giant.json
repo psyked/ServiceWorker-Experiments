@@ -1,0 +1,13 @@
+{
+  "title": "Marshdrinker Giant",
+  "image": "./img/marshdrinker-giant.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Giant Warrior",
+  "text": "When Marshdrinker Giant enters the battlefield, destroy target Island or Swamp an opponent controls.",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "69",
+  "artist": "Daarken",
+  "rating": "2.729",
+  "votes": "35"
+}

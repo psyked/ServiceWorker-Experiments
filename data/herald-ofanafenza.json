@@ -1,0 +1,13 @@
+{
+  "title": "Herald of Anafenza",
+  "image": "./img/herald-ofanafenza.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Soldier",
+  "text": "Outlast  (, : Put a +1/+1 counter on this creature. Outlast only as a sorcery.)Whenever you activate Herald of Anafenza's outlast ability, put a 1/1 white Warrior creature token onto the battlefield.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "12",
+  "artist": "Aaron Miller",
+  "rating": "4.167",
+  "votes": "3"
+}

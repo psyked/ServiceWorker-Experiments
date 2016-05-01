@@ -1,0 +1,13 @@
+{
+  "title": "Fang Skulkin",
+  "image": "./img/fang-skulkin.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Scarecrow",
+  "text": ": Target black creature gains wither until end of turn. (It deals damage to creatures in the form of -1/-1 counters.)",
+  "expansion": "Eventide",
+  "rarity": "Common",
+  "cardNumber": "168",
+  "artist": "Ron Brown",
+  "rating": "2.759",
+  "votes": "29"
+}

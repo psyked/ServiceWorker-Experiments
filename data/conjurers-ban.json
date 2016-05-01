@@ -1,0 +1,13 @@
+{
+  "title": "Conjurer's Ban",
+  "image": "./img/conjurers-ban.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Name a card. Until your next turn, the named card can't be played.Draw a card.",
+  "expansion": "Guildpact",
+  "rarity": "Uncommon",
+  "cardNumber": "108",
+  "artist": "Pete Venters",
+  "rating": "2.782",
+  "votes": "55"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Whip Sergeant",
+  "image": "./img/whip-sergeant.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": ": Target creature gains haste until end of turn. (It can attack this turn.)",
+  "expansion": "Ninth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "227",
+  "artist": "Paolo Parente",
+  "rating": "3.000",
+  "votes": "25"
+}

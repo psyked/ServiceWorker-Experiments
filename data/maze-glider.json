@@ -1,0 +1,13 @@
+{
+  "title": "Maze Glider",
+  "image": "./img/maze-glider.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": "FlyingMulticolored creatures you control have flying.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Common",
+  "cardNumber": "13",
+  "artist": "Yeong-Hao Han",
+  "rating": "2.776",
+  "votes": "29"
+}

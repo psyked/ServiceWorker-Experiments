@@ -1,0 +1,13 @@
+{
+  "title": "Seal of Cleansing",
+  "image": "./img/seal-ofcleansing.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.",
+  "expansion": "Commander 2015",
+  "rarity": "Common",
+  "cardNumber": "79",
+  "artist": "Christopher Moeller",
+  "rating": "5",
+  "votes": "0"
+}

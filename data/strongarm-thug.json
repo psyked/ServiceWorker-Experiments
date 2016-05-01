@@ -1,0 +1,13 @@
+{
+  "title": "Strongarm Thug",
+  "image": "./img/strongarm-thug.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Mercenary",
+  "text": "When Strongarm Thug enters the battlefield, you may return target Mercenary card from your graveyard to your hand.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "165",
+  "artist": "Rebecca Guay",
+  "rating": "3.000",
+  "votes": "25"
+}

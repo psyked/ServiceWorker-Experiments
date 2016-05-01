@@ -1,0 +1,13 @@
+{
+  "title": "Master's Call",
+  "image": "./img/masters-call.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Put two 1/1 colorless Myr artifact creature tokens onto the battlefield.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "13",
+  "artist": "David Rapoza",
+  "rating": "3.511",
+  "votes": "95"
+}

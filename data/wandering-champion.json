@@ -1,0 +1,13 @@
+{
+  "title": "Wandering Champion",
+  "image": "./img/wandering-champion.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Monk",
+  "text": "Whenever Wandering Champion deals combat damage to a player, if you control a blue or red permanent, you may discard a card. If you do, draw a card.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "29",
+  "artist": "Willian Murai",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Cartel Aristocrat",
+  "image": "./img/cartel-aristocrat.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Advisor",
+  "text": "Sacrifice another creature: Cartel Aristocrat gains protection from the color of your choice until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "150",
+  "artist": "James Ryman",
+  "rating": "3.435",
+  "votes": "85"
+}

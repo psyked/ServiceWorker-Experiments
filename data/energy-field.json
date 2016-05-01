@@ -1,0 +1,13 @@
+{
+  "title": "Energy Field",
+  "image": "./img/energy-field.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Prevent all damage that would be dealt to you by sources you don't control.When a card is put into your graveyard from anywhere, sacrifice Energy Field.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "73",
+  "artist": "John Matson",
+  "rating": "4.528",
+  "votes": "71"
+}

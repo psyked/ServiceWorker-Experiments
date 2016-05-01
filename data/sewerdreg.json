@@ -1,0 +1,13 @@
+{
+  "title": "Sewerdreg",
+  "image": "./img/sewerdreg.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit",
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)Sacrifice Sewerdreg: Exile target card from a graveyard.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "104",
+  "artist": "Joel Thomas",
+  "rating": "1.117",
+  "votes": "47"
+}

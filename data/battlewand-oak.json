@@ -1,0 +1,13 @@
+{
+  "title": "Battlewand Oak",
+  "image": "./img/battlewand-oak.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Treefolk Warrior",
+  "text": "Whenever a Forest enters the battlefield under your control, Battlewand Oak gets +2/+2 until end of turn.Whenever you cast a Treefolk spell, Battlewand Oak gets +2/+2 until end of turn.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "197",
+  "artist": "Steve Prescott",
+  "rating": "3.378",
+  "votes": "45"
+}

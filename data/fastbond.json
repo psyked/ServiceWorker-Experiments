@@ -1,0 +1,13 @@
+{
+  "title": "Fastbond",
+  "image": "./img/fastbond.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment",
+  "text": "You may play any number of lands on each of your turns.Whenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you.",
+  "expansion": "Vintage Masters",
+  "rarity": "Mythic Rare",
+  "cardNumber": "209",
+  "artist": "Nils Hamm",
+  "rating": "4.875",
+  "votes": "4"
+}

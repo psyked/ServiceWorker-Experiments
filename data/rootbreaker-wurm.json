@@ -1,0 +1,13 @@
+{
+  "title": "Rootbreaker Wurm",
+  "image": "./img/rootbreaker-wurm.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Wurm",
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "190",
+  "artist": "Richard Kane Ferguson",
+  "rating": "5",
+  "votes": "0"
+}

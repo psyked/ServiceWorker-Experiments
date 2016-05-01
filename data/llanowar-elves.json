@@ -1,0 +1,13 @@
+{
+  "title": "Llanowar Elves",
+  "image": "./img/llanowar-elves.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Druid",
+  "text": ": Add  to your mana pool.",
+  "expansion": "Duel Decks Anthology, Elves vs. Goblins",
+  "rarity": "Common",
+  "cardNumber": "9",
+  "artist": "Kev Walker",
+  "rating": "5",
+  "votes": "0"
+}

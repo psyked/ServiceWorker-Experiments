@@ -1,0 +1,13 @@
+{
+  "title": "Skullcage",
+  "image": "./img/skullcage.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "At the beginning of each opponent's upkeep, Skullcage deals 2 damage to that player unless he or she has exactly three or exactly four cards in hand.",
+  "expansion": "Archenemy",
+  "rarity": "Uncommon",
+  "cardNumber": "115",
+  "artist": "Ron Spencer",
+  "rating": "3.600",
+  "votes": "30"
+}

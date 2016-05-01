@@ -1,0 +1,13 @@
+{
+  "title": "Mudbrawler Cohort",
+  "image": "./img/mudbrawler-cohort.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Warrior",
+  "text": "HasteMudbrawler Cohort gets +1/+1 as long as you control another red creature.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "100",
+  "artist": "Lucio Parrillo",
+  "rating": "2.833",
+  "votes": "42"
+}

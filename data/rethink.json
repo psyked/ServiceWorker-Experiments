@@ -1,0 +1,13 @@
+{
+  "title": "Rethink",
+  "image": "./img/rethink.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell unless its controller pays , where X is its converted mana cost.",
+  "expansion": "Prophecy",
+  "rarity": "Common",
+  "cardNumber": "42",
+  "artist": "Matt Cavotta",
+  "rating": "3.734",
+  "votes": "32"
+}

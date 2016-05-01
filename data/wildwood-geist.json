@@ -1,0 +1,13 @@
+{
+  "title": "Wildwood Geist",
+  "image": "./img/wildwood-geist.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit",
+  "text": "Wildwood Geist gets +2/+2 as long as it's your turn.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "204",
+  "artist": "Lars Grant-West",
+  "rating": "1.586",
+  "votes": "35"
+}

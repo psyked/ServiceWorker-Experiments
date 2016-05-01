@@ -1,0 +1,13 @@
+{
+  "title": "Skyrider Trainee",
+  "image": "./img/skyrider-trainee.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Soldier",
+  "text": "Skyrider Trainee has flying as long as it's enchanted.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "17",
+  "artist": "Adam Rex",
+  "rating": "1.085",
+  "votes": "53"
+}

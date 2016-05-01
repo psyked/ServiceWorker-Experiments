@@ -1,0 +1,13 @@
+{
+  "title": "Sagu Archer",
+  "image": "./img/sagu-archer.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Naga Archer",
+  "text": "Reach (This creature can block creatures with flying.)Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "146",
+  "artist": "Steven Belledin",
+  "rating": "2.500",
+  "votes": "2"
+}

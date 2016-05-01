@@ -1,0 +1,13 @@
+{
+  "title": "Remembrance",
+  "image": "./img/remembrance.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever a nontoken creature you control dies, you may search your library for a card with the same name as that creature, reveal it, and put it into your hand. If you do, shuffle your library.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "34",
+  "artist": "Val Mayerik",
+  "rating": "3.990",
+  "votes": "51"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ulamog's Reclaimer",
+  "image": "./img/ulamogs-reclaimer.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Eldrazi Processor",
+  "text": "Devoid (This card has no color.)When Ulamog's Reclaimer enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, return target instant or sorcery card from your graveyard to your hand.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "68",
+  "artist": "Svetlin Velinov",
+  "rating": "5",
+  "votes": "0"
+}

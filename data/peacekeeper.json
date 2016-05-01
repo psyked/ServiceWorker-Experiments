@@ -1,0 +1,13 @@
+{
+  "title": "Peacekeeper",
+  "image": "./img/peacekeeper.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human",
+  "text": "At the beginning of your upkeep, sacrifice Peacekeeper unless you pay .Creatures can't attack.",
+  "expansion": "Weatherlight",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Donato Giancola",
+  "rating": "4.307",
+  "votes": "57"
+}

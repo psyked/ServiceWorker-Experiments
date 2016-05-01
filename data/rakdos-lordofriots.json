@@ -1,0 +1,13 @@
+{
+  "title": "Rakdos, Lord of Riots",
+  "image": "./img/rakdos-lordofriots.jpg",
+  "convertedManaCost": "4",
+  "types": "Legendary Creature  — Demon",
+  "text": "You can't cast Rakdos, Lord of Riots unless an opponent lost life this turn.Flying, trampleCreature spells you cast cost  less to cast for each 1 life your opponents have lost this turn.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Mythic Rare",
+  "cardNumber": "187",
+  "artist": "Vincent Proce",
+  "rating": "4.163",
+  "votes": "255"
+}

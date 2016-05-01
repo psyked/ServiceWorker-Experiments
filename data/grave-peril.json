@@ -1,0 +1,13 @@
+{
+  "title": "Grave Peril",
+  "image": "./img/grave-peril.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "When a nonblack creature enters the battlefield, sacrifice Grave Peril. If you do, destroy that creature.",
+  "expansion": "Commander 2015",
+  "rarity": "Common",
+  "cardNumber": "128",
+  "artist": "Daarken",
+  "rating": "5",
+  "votes": "0"
+}

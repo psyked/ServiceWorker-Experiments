@@ -1,0 +1,13 @@
+{
+  "title": "Nephalia Smuggler",
+  "image": "./img/nephalia-smuggler.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Rogue",
+  "text": ", : Exile another target creature you control, then return that card to the battlefield under your control.",
+  "expansion": "Duel Decks: Blessed vs. Cursed",
+  "rarity": "Uncommon",
+  "cardNumber": "27",
+  "artist": "Matt Stewart",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ruinous Minotaur",
+  "image": "./img/ruinous-minotaur.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Minotaur Warrior",
+  "text": "Whenever Ruinous Minotaur deals damage to an opponent, sacrifice a land.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "145",
+  "artist": "Raymond Swanland",
+  "rating": "3.753",
+  "votes": "79"
+}

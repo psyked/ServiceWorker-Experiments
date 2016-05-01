@@ -1,0 +1,13 @@
+{
+  "title": "Tyrant's Familiar",
+  "image": "./img/tyrants-familiar.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Dragon",
+  "text": "Flying, hasteLieutenant — As long as you control your commander, Tyrant's Familiar gets +2/+2 and has \"Whenever Tyrant's Familiar attacks, it deals 7 damage to target creature defending player controls.\"",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "39",
+  "artist": "Todd Lockwood",
+  "rating": "5",
+  "votes": "0"
+}

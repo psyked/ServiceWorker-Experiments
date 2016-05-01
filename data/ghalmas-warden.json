@@ -1,0 +1,13 @@
+{
+  "title": "Ghalma's Warden",
+  "image": "./img/ghalmas-warden.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elephant Soldier",
+  "text": "Metalcraft — Ghalma's Warden gets +2/+2 as long as you control three or more artifacts.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "8",
+  "artist": "Mike Bierek",
+  "rating": "2.664",
+  "votes": "61"
+}

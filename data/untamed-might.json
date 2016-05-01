@@ -1,0 +1,13 @@
+{
+  "title": "Untamed Might",
+  "image": "./img/untamed-might.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets +X/+X until end of turn.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "131",
+  "artist": "Erica Yang",
+  "rating": "3.071",
+  "votes": "98"
+}

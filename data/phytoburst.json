@@ -1,0 +1,13 @@
+{
+  "title": "Phytoburst",
+  "image": "./img/phytoburst.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target creature gets +5/+5 until end of turn.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Common",
+  "cardNumber": "46",
+  "artist": "Izzy",
+  "rating": "3.629",
+  "votes": "62"
+}

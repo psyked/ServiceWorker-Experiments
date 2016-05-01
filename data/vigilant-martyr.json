@@ -1,0 +1,13 @@
+{
+  "title": "Vigilant Martyr",
+  "image": "./img/vigilant-martyr.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": "Sacrifice Vigilant Martyr: Regenerate target creature., , Sacrifice Vigilant Martyr: Counter target spell that targets an enchantment.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Rebecca Guay",
+  "rating": "3.732",
+  "votes": "28"
+}

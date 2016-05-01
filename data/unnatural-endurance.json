@@ -1,0 +1,13 @@
+{
+  "title": "Unnatural Endurance",
+  "image": "./img/unnatural-endurance.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Devoid (This card has no color.)Target creature gets +2/+0 until end of turn. Regenerate it.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "80",
+  "artist": "Mathias Kollros",
+  "rating": "5",
+  "votes": "0"
+}

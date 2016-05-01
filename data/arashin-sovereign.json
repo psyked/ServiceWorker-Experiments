@@ -1,0 +1,13 @@
+{
+  "title": "Arashin Sovereign",
+  "image": "./img/arashin-sovereign.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhen Arashin Sovereign dies, you may put it on the top or bottom of its owner's library.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "212",
+  "artist": "Dan Scott",
+  "rating": "5",
+  "votes": "0"
+}

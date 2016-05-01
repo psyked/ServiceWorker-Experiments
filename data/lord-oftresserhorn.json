@@ -1,0 +1,13 @@
+{
+  "title": "Lord of Tresserhorn",
+  "image": "./img/lord-oftresserhorn.jpg",
+  "convertedManaCost": "4",
+  "types": "Legendary Creature  — Zombie",
+  "text": "When Lord of Tresserhorn enters the battlefield, you lose 2 life, you sacrifice two creatures, and target opponent draws two cards.: Regenerate Lord of Tresserhorn.",
+  "expansion": "Masters Edition",
+  "rarity": "Rare",
+  "cardNumber": "149",
+  "artist": "Anson Maddocks",
+  "rating": "4.029",
+  "votes": "122"
+}

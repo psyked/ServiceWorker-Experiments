@@ -1,0 +1,13 @@
+{
+  "title": "River Boa",
+  "image": "./img/river-boa.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Snake",
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.): Regenerate River Boa.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Uncommon",
+  "cardNumber": "49",
+  "artist": "Paul Bonner",
+  "rating": "4.278",
+  "votes": "18"
+}

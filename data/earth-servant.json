@@ -1,0 +1,13 @@
+{
+  "title": "Earth Servant",
+  "image": "./img/earth-servant.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": "Earth Servant gets +0/+1 for each Mountain you control.",
+  "expansion": "Duel Decks: Venser vs. Koth",
+  "rarity": "Uncommon",
+  "cardNumber": "60",
+  "artist": "Lucas Graciano",
+  "rating": "2.562",
+  "votes": "16"
+}

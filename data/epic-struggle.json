@@ -1,0 +1,13 @@
+{
+  "title": "Epic Struggle",
+  "image": "./img/epic-struggle.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, if you control twenty or more creatures, you win the game.",
+  "expansion": "Judgment",
+  "rarity": "Rare",
+  "cardNumber": "112",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "3.525",
+  "votes": "40"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Rabid Rats",
+  "image": "./img/rabid-rats.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Rat",
+  "text": ": Target blocking creature gets -1/-1 until end of turn.",
+  "expansion": "Stronghold",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Matthew Wilson",
+  "rating": "2.842",
+  "votes": "38"
+}

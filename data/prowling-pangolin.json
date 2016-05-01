@@ -1,0 +1,13 @@
+{
+  "title": "Prowling Pangolin",
+  "image": "./img/prowling-pangolin.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast",
+  "text": "When Prowling Pangolin enters the battlefield, any player may sacrifice two creatures. If a player does, sacrifice Prowling Pangolin.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "163",
+  "artist": "Heather Hudson",
+  "rating": "3.579",
+  "votes": "38"
+}

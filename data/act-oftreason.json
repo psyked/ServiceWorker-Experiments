@@ -1,0 +1,13 @@
+{
+  "title": "Act of Treason",
+  "image": "./img/act-oftreason.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and  this turn.)",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "129",
+  "artist": "Eric Deschamps",
+  "rating": "5",
+  "votes": "0"
+}

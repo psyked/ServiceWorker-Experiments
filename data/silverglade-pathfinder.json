@@ -1,0 +1,13 @@
+{
+  "title": "Silverglade Pathfinder",
+  "image": "./img/silverglade-pathfinder.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Dryad Spellshaper",
+  "text": ", , Discard a card: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "270",
+  "artist": "rk post",
+  "rating": "3.773",
+  "votes": "33"
+}

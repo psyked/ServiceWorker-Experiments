@@ -1,0 +1,13 @@
+{
+  "title": "Shinen of Fear's Chill",
+  "image": "./img/shinen-offearschill.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit",
+  "text": "Shinen of Fear's Chill can't block.Channel — , Discard Shinen of Fear's Chill: Target creature can't block this turn.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "88",
+  "artist": "Darrell Riche",
+  "rating": "0.982",
+  "votes": "55"
+}

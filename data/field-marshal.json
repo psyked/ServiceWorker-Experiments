@@ -1,0 +1,13 @@
+{
+  "title": "Field Marshal",
+  "image": "./img/field-marshal.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "Other Soldier creatures get +1/+1 and have first strike. (They deal combat damage before creatures without first strike.)",
+  "expansion": "Tenth Edition",
+  "rarity": "Rare",
+  "cardNumber": "15",
+  "artist": "Stephen Tappin",
+  "rating": "4.330",
+  "votes": "100"
+}

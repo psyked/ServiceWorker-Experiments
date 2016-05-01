@@ -1,0 +1,13 @@
+{
+  "title": "Stronghold Machinist",
+  "image": "./img/stronghold-machinist.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Spellshaper",
+  "text": ", , Discard a card: Counter target noncreature spell.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "46",
+  "artist": "Terese Nielsen",
+  "rating": "3.985",
+  "votes": "33"
+}

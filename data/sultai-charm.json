@@ -1,0 +1,13 @@
+{
+  "title": "Sultai Charm",
+  "image": "./img/sultai-charm.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose one —• Destroy target monocolored creature.• Destroy target artifact or enchantment.• Draw two cards, then discard a card.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "204",
+  "artist": "Mathias Kollros",
+  "rating": "4.167",
+  "votes": "3"
+}

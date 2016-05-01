@@ -1,0 +1,13 @@
+{
+  "title": "Eldrazi Mimic",
+  "image": "./img/eldrazi-mimic.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Eldrazi",
+  "text": "Whenever another colorless creature enters the battlefield under your control, you may change Eldrazi Mimic's base power and toughness to that creature's power and toughness until end of turn.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Rare",
+  "cardNumber": "2",
+  "artist": "Craig J Spearing",
+  "rating": "5",
+  "votes": "0"
+}

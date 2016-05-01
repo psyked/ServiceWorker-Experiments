@@ -1,0 +1,13 @@
+{
+  "title": "Festercreep",
+  "image": "./img/festercreep.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elemental",
+  "text": "Festercreep enters the battlefield with a +1/+1 counter on it., Remove a +1/+1 counter from Festercreep: All other creatures get -1/-1 until end of turn.",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "62",
+  "artist": "Jeff Easley",
+  "rating": "2.688",
+  "votes": "40"
+}

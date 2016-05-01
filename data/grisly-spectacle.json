@@ -1,0 +1,13 @@
+{
+  "title": "Grisly Spectacle",
+  "image": "./img/grisly-spectacle.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Destroy target nonartifact creature. Its controller puts a number of cards equal to that creature's power from the top of his or her library into his or her graveyard.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Common",
+  "cardNumber": "75",
+  "artist": "Zoltan Boros",
+  "rating": "3.812",
+  "votes": "8"
+}

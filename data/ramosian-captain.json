@@ -1,0 +1,13 @@
+{
+  "title": "Ramosian Captain",
+  "image": "./img/ramosian-captain.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Rebel",
+  "text": "First strike, : Search your library for a Rebel permanent card with converted mana cost 4 or less and put it onto the battlefield. Then shuffle your library.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "35",
+  "artist": "Matthew Wilson",
+  "rating": "3.950",
+  "votes": "30"
+}

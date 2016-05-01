@@ -1,0 +1,13 @@
+{
+  "title": "Lost Soul",
+  "image": "./img/lost-soul.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit Minion",
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Common",
+  "cardNumber": "142",
+  "artist": "Randy Asplund",
+  "rating": "2.016",
+  "votes": "32"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Diregraf Escort",
+  "image": "./img/diregraf-escort.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)As long as Diregraf Escort is paired with another creature, both creatures have protection from Zombies.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "174",
+  "artist": "Ryan Pancoast",
+  "rating": "1.527",
+  "votes": "37"
+}

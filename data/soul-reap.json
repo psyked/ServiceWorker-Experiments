@@ -1,0 +1,13 @@
+{
+  "title": "Soul Reap",
+  "image": "./img/soul-reap.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Destroy target nongreen creature. Its controller loses 3 life if you've cast another black spell this turn.",
+  "expansion": "Eventide",
+  "rarity": "Common",
+  "cardNumber": "44",
+  "artist": "Izzy",
+  "rating": "3.694",
+  "votes": "62"
+}

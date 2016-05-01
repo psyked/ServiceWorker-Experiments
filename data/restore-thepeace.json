@@ -1,0 +1,13 @@
+{
+  "title": "Restore the Peace",
+  "image": "./img/restore-thepeace.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Return each creature that dealt damage this turn to its owner's hand.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Uncommon",
+  "cardNumber": "97",
+  "artist": "Kev Walker",
+  "rating": "3.384",
+  "votes": "43"
+}

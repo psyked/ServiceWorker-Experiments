@@ -1,0 +1,13 @@
+{
+  "title": "Treva's Charm",
+  "image": "./img/trevas-charm.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose one —• Destroy target enchantment.• Exile target attacking creature.• Draw a card, then discard a card.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Uncommon",
+  "cardNumber": "61",
+  "artist": "David Martin",
+  "rating": "3.543",
+  "votes": "35"
+}

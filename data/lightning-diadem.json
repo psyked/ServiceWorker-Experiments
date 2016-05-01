@@ -1,0 +1,13 @@
+{
+  "title": "Lightning Diadem",
+  "image": "./img/lightning-diadem.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Lightning Diadem enters the battlefield, it deals 2 damage to target creature or player.Enchanted creature gets +2/+2.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "102",
+  "artist": "Ryan Alexander Lee",
+  "rating": "1.129",
+  "votes": "31"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Righteous Authority",
+  "image": "./img/righteous-authority.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+1 for each card in its controller's hand.At the beginning of the draw step of enchanted creature's controller, that player draws an additional card.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Rare",
+  "cardNumber": "189",
+  "artist": "Scott Chou",
+  "rating": "3.379",
+  "votes": "70"
+}

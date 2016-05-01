@@ -1,0 +1,13 @@
+{
+  "title": "Stream of Unconsciousness",
+  "image": "./img/stream-ofunconsciousness.jpg",
+  "convertedManaCost": "1",
+  "types": "Tribal Instant  — Wizard",
+  "text": "Target creature gets -4/-0 until end of turn. If you control a Wizard, draw a card.",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "52",
+  "artist": "Rebecca Guay",
+  "rating": "2.948",
+  "votes": "48"
+}

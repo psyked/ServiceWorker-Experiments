@@ -1,0 +1,13 @@
+{
+  "title": "Architects of Will",
+  "image": "./img/architects-ofwill.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Human Wizard",
+  "text": "When Architects of Will enters the battlefield, look at the top three cards of target player's library, then put them back in any order.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Archenemy",
+  "rarity": "Common",
+  "cardNumber": "77",
+  "artist": "Matt Stewart",
+  "rating": "2.885",
+  "votes": "39"
+}

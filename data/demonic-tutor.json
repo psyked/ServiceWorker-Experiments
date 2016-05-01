@@ -1,0 +1,13 @@
+{
+  "title": "Demonic Tutor",
+  "image": "./img/demonic-tutor.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Search your library for a card and put that card into your hand. Then shuffle your library.",
+  "expansion": "Duel Decks Anthology, Divine vs. Demonic",
+  "rarity": "Uncommon",
+  "cardNumber": "49",
+  "artist": "Scott Chou",
+  "rating": "5",
+  "votes": "0"
+}

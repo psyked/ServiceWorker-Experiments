@@ -1,0 +1,13 @@
+{
+  "title": "Words of War",
+  "image": "./img/words-ofwar.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": ": The next time you would draw a card this turn, Words of War deals 2 damage to target creature or player instead.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "244",
+  "artist": "Justin Sweet",
+  "rating": "3.700",
+  "votes": "35"
+}

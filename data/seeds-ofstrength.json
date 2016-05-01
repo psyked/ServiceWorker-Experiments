@@ -1,0 +1,13 @@
+{
+  "title": "Seeds of Strength",
+  "image": "./img/seeds-ofstrength.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +1/+1 until end of turn.Target creature gets +1/+1 until end of turn.Target creature gets +1/+1 until end of turn.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "227",
+  "artist": "Ralph Horsley",
+  "rating": "3.035",
+  "votes": "57"
+}

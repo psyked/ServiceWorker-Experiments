@@ -1,0 +1,13 @@
+{
+  "title": "Vedalken Entrancer",
+  "image": "./img/vedalken-entrancer.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Vedalken Wizard",
+  "text": ", : Target player puts the top two cards of his or her library into his or her graveyard.",
+  "expansion": "Magic 2013",
+  "rarity": "Common",
+  "cardNumber": "76",
+  "artist": "Dan Scott",
+  "rating": "1.895",
+  "votes": "38"
+}

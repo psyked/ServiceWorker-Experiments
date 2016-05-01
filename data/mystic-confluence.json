@@ -1,0 +1,13 @@
+{
+  "title": "Mystic Confluence",
+  "image": "./img/mystic-confluence.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Choose three. You may choose the same mode more than once.• Counter target spell unless its controller pays .• Return target creature to its owner's hand.• Draw a card.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "14",
+  "artist": "Kieran Yanner",
+  "rating": "5",
+  "votes": "0"
+}

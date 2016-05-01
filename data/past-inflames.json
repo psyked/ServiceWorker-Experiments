@@ -1,0 +1,13 @@
+{
+  "title": "Past in Flames",
+  "image": "./img/past-inflames.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Each instant and sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Innistrad",
+  "rarity": "Mythic Rare",
+  "cardNumber": "155",
+  "artist": "Anthony Jones",
+  "rating": "4.183",
+  "votes": "120"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Carven Caryatid",
+  "image": "./img/carven-caryatid.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "Defender (This creature can't attack.)When Carven Caryatid enters the battlefield, draw a card.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "155",
+  "artist": "Jim Nelson",
+  "rating": "4.006",
+  "votes": "78"
+}

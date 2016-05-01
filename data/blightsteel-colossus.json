@@ -1,0 +1,13 @@
+{
+  "title": "Blightsteel Colossus",
+  "image": "./img/blightsteel-colossus.jpg",
+  "convertedManaCost": "12",
+  "types": "Artifact Creature  — Golem",
+  "text": "Trample, infect, indestructibleIf Blightsteel Colossus would be put into a graveyard from anywhere, reveal Blightsteel Colossus and shuffle it into its owner's library instead.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Mythic Rare",
+  "cardNumber": "99",
+  "artist": "Chris Rahn",
+  "rating": "4.118",
+  "votes": "389"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Screeching Skaab",
+  "image": "./img/screeching-skaab.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie",
+  "text": "When Screeching Skaab enters the battlefield, put the top two cards of your library into your graveyard.",
+  "expansion": "Duel Decks: Blessed vs. Cursed",
+  "rarity": "Common",
+  "cardNumber": "48",
+  "artist": "Clint Cearley",
+  "rating": "5",
+  "votes": "0"
+}

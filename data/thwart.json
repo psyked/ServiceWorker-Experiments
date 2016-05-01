@@ -1,0 +1,13 @@
+{
+  "title": "Thwart",
+  "image": "./img/thwart.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "You may return three Islands you control to their owner's hand rather than pay Thwart's mana cost.Counter target spell.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "108",
+  "artist": "Christopher Moeller",
+  "rating": "3.857",
+  "votes": "49"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Quicksilver Gargantuan",
+  "image": "./img/quicksilver-gargantuan.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Shapeshifter",
+  "text": "You may have Quicksilver Gargantuan enter the battlefield as a copy of any creature on the battlefield, except it's still 7/7.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Mythic Rare",
+  "cardNumber": "39",
+  "artist": "Steven Belledin",
+  "rating": "3.500",
+  "votes": "113"
+}

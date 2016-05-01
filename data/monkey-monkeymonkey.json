@@ -1,0 +1,13 @@
+{
+  "title": "Monkey Monkey Monkey",
+  "image": "./img/monkey-monkeymonkey.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature — Ape",
+  "text": "As Monkey Monkey Monkey comes into play, choose a letter.Monkey Monkey Monkey gets +1/+1 for each nonland permanent whose name begins with the chosen letter.",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "104",
+  "artist": "Liz Danforth",
+  "rating": "4.026",
+  "votes": "19"
+}

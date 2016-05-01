@@ -1,0 +1,13 @@
+{
+  "title": "Matopi Golem",
+  "image": "./img/matopi-golem.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Golem",
+  "text": ": Regenerate Matopi Golem. When it regenerates this way, put a -1/-1 counter on it.",
+  "expansion": "Visions",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Tom Kyffin",
+  "rating": "1.667",
+  "votes": "36"
+}

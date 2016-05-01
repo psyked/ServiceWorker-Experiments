@@ -1,0 +1,13 @@
+{
+  "title": "Time Vault",
+  "image": "./img/time-vault.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Time Vault enters the battlefield tapped.Time Vault doesn't untap during your untap step.If you would begin your turn while Time Vault is tapped, you may skip that turn instead. If you do, untap Time Vault.: Take an extra turn after this one.",
+  "expansion": "Vintage Masters",
+  "rarity": "Mythic Rare",
+  "cardNumber": "287",
+  "artist": "Yeong-Hao Han",
+  "rating": "4.833",
+  "votes": "3"
+}

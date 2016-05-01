@@ -1,0 +1,13 @@
+{
+  "title": "Dangerous Wager",
+  "image": "./img/dangerous-wager.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Discard your hand, then draw two cards.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "131",
+  "artist": "Drew Baker",
+  "rating": "3.967",
+  "votes": "106"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Hobble",
+  "image": "./img/hobble.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Hobble enters the battlefield, draw a card.Enchanted creature can't attack.Enchanted creature can't block if it's black.",
+  "expansion": "Planeshift",
+  "rarity": "Common",
+  "cardNumber": "7",
+  "artist": "Alan Pollack",
+  "rating": "3.397",
+  "votes": "34"
+}

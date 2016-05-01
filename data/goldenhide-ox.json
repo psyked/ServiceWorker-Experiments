@@ -1,0 +1,13 @@
+{
+  "title": "Goldenhide Ox",
+  "image": "./img/goldenhide-ox.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment Creature  — Ox",
+  "text": "Constellation — Whenever Goldenhide Ox or another enchantment enters the battlefield under your control, target creature must be blocked this turn if able.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "125",
+  "artist": "Jack Wang",
+  "rating": "2.722",
+  "votes": "18"
+}

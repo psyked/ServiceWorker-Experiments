@@ -1,0 +1,13 @@
+{
+  "title": "Donate",
+  "image": "./img/donate.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target player gains control of target permanent you control.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Rare",
+  "cardNumber": "31",
+  "artist": "Jeff Miracola",
+  "rating": "4.567",
+  "votes": "134"
+}

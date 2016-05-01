@@ -1,0 +1,13 @@
+{
+  "title": "Welkin Hawk",
+  "image": "./img/welkin-hawk.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Bird",
+  "text": "FlyingWhen Welkin Hawk dies, you may search your library for a card named Welkin Hawk, reveal that card, put it into your hand, then shuffle your library.",
+  "expansion": "Exodus",
+  "rarity": "Common",
+  "cardNumber": "25",
+  "artist": "Rob Alexander",
+  "rating": "3.542",
+  "votes": "36"
+}

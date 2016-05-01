@@ -1,0 +1,13 @@
+{
+  "title": "Whirlpool Rider",
+  "image": "./img/whirlpool-rider.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk",
+  "text": "When Whirlpool Rider enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "35",
+  "artist": "Ray Lago",
+  "rating": "3.518",
+  "votes": "28"
+}

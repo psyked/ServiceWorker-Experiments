@@ -1,0 +1,13 @@
+{
+  "title": "Quilled Wolf",
+  "image": "./img/quilled-wolf.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Wolf",
+  "text": ": Quilled Wolf gets +4/+4 until end of turn.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "222",
+  "artist": "Bastien L. Deharme",
+  "rating": "5",
+  "votes": "0"
+}

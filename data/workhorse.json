@@ -1,0 +1,13 @@
+{
+  "title": "Workhorse",
+  "image": "./img/workhorse.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Horse",
+  "text": "Workhorse enters the battlefield with four +1/+1 counters on it.Remove a +1/+1 counter from Workhorse: Add  to your mana pool.",
+  "expansion": "Exodus",
+  "rarity": "Rare",
+  "cardNumber": "142",
+  "artist": "DiTerlizzi",
+  "rating": "2.476",
+  "votes": "42"
+}

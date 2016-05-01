@@ -1,0 +1,13 @@
+{
+  "title": "Buoyancy",
+  "image": "./img/buoyancy.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "FlashEnchant creatureEnchanted creature has flying.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "63",
+  "artist": "Jeff Miracola",
+  "rating": "2.778",
+  "votes": "27"
+}

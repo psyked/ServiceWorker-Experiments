@@ -1,0 +1,13 @@
+{
+  "title": "Dermoplasm",
+  "image": "./img/dermoplasm.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Shapeshifter",
+  "text": "FlyingMorph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)When Dermoplasm is turned face up, you may put a creature card with a morph ability from your hand onto the battlefield face up. If you do, return Dermoplasm to its owner's hand.",
+  "expansion": "Legions",
+  "rarity": "Rare",
+  "cardNumber": "35",
+  "artist": "John Avon",
+  "rating": "3.900",
+  "votes": "30"
+}

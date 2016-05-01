@@ -1,0 +1,13 @@
+{
+  "title": "Power Taint",
+  "image": "./img/power-taint.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant enchantmentAt the beginning of the upkeep of enchanted enchantment's controller, that player loses 2 life unless he or she pays .Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "90",
+  "artist": "Brian Snoddy",
+  "rating": "3.485",
+  "votes": "34"
+}

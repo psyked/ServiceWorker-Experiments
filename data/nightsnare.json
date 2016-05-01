@@ -1,0 +1,13 @@
+{
+  "title": "Nightsnare",
+  "image": "./img/nightsnare.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Target opponent reveals his or her hand. You may choose a nonland card from it. If you do, that player discards that card. If you don't, that player discards two cards.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "Min Yum",
+  "rating": "5",
+  "votes": "0"
+}

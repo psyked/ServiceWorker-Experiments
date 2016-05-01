@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Marshal",
+  "image": "./img/goblin-marshal.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Echo  (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)When Goblin Marshal enters the battlefield or dies, put two 1/1 red Goblin creature tokens onto the battlefield.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Rare",
+  "cardNumber": "85",
+  "artist": "DiTerlizzi",
+  "rating": "3.109",
+  "votes": "46"
+}

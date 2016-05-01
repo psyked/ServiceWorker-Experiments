@@ -1,0 +1,13 @@
+{
+  "title": "Siege Wurm",
+  "image": "./img/siege-wurm.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Wurm",
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for  or one mana of that creature's color.)Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "200",
+  "artist": "Carl Critchlow",
+  "rating": "3.333",
+  "votes": "6"
+}

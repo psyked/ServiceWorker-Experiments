@@ -1,0 +1,13 @@
+{
+  "title": "Viscera Seer",
+  "image": "./img/viscera-seer.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Vampire Wizard",
+  "text": "Sacrifice a creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Common",
+  "cardNumber": "99",
+  "artist": "John Stanko",
+  "rating": "3.962",
+  "votes": "13"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Thornscape Apprentice",
+  "image": "./img/thornscape-apprentice.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Wizard",
+  "text": ", : Target creature gains first strike until end of turn., : Tap target creature.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Common",
+  "cardNumber": "37",
+  "artist": "Randy Gallegos",
+  "rating": "3.964",
+  "votes": "28"
+}

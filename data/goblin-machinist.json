@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Machinist",
+  "image": "./img/goblin-machinist.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Goblin",
+  "text": ": Reveal cards from the top of your library until you reveal a nonland card. Goblin Machinist gets +X/+0 until end of turn, where X is that card's converted mana cost. Put the revealed cards on the bottom of your library in any order.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "204",
+  "artist": "Doug Chaffee",
+  "rating": "3.000",
+  "votes": "20"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Leonin Squire",
+  "image": "./img/leonin-squire.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Cat Soldier",
+  "text": "When Leonin Squire enters the battlefield, return target artifact card with converted mana cost 1 or less from your graveyard to your hand.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "9",
+  "artist": "Pete Venters",
+  "rating": "4.027",
+  "votes": "37"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Runed Servitor",
+  "image": "./img/runed-servitor.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Construct",
+  "text": "When Runed Servitor dies, each player draws a card.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "66",
+  "artist": "Mike Bierek",
+  "rating": "5",
+  "votes": "0"
+}

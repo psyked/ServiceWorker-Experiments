@@ -1,0 +1,13 @@
+{
+  "title": "Bant Sojourners",
+  "image": "./img/bant-sojourners.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Soldier",
+  "text": "When you cycle Bant Sojourners or it dies, you may put a 1/1 white Soldier creature token onto the battlefield.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Alara Reborn",
+  "rarity": "Common",
+  "cardNumber": "125",
+  "artist": "John Avon",
+  "rating": "2.922",
+  "votes": "64"
+}

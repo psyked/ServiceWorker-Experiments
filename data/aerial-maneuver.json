@@ -1,0 +1,13 @@
+{
+  "title": "Aerial Maneuver",
+  "image": "./img/aerial-maneuver.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +1/+1 and gains flying and first strike until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "1",
+  "artist": "Scott Chou",
+  "rating": "2.598",
+  "votes": "66"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Markov Warlord",
+  "image": "./img/markov-warlord.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Vampire Warrior",
+  "text": "HasteWhen Markov Warlord enters the battlefield, up to two target creatures can't block this turn.",
+  "expansion": "Dark Ascension",
+  "rarity": "Uncommon",
+  "cardNumber": "97",
+  "artist": "Cynthia Sheppard",
+  "rating": "2.769",
+  "votes": "54"
+}

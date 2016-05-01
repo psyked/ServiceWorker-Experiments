@@ -1,0 +1,13 @@
+{
+  "title": "Ruination Guide",
+  "image": "./img/ruination-guide.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.)Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)Other colorless creatures you control get +1/+0.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "64",
+  "artist": "Mathias Kollros",
+  "rating": "5",
+  "votes": "0"
+}

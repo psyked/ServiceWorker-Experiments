@@ -1,0 +1,13 @@
+{
+  "title": "Djinn of Wishes",
+  "image": "./img/djinn-ofwishes.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Djinn",
+  "text": "FlyingDjinn of Wishes enters the battlefield with three wish counters on it., Remove a wish counter from Djinn of Wishes: Reveal the top card of your library. You may play that card without paying its mana cost. If you don't, exile it.",
+  "expansion": "Magic 2012",
+  "rarity": "Rare",
+  "cardNumber": "51",
+  "artist": "Kev Walker",
+  "rating": "4.044",
+  "votes": "79"
+}

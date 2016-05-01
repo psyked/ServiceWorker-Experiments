@@ -1,0 +1,13 @@
+{
+  "title": "Sphinx of Uthuun",
+  "image": "./img/sphinx-ofuthuun.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Sphinx",
+  "text": "FlyingWhen Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "128",
+  "artist": "Kekai Kotaki",
+  "rating": "5",
+  "votes": "0"
+}

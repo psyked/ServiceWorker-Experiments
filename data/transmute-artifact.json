@@ -1,0 +1,13 @@
+{
+  "title": "Transmute Artifact",
+  "image": "./img/transmute-artifact.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Sacrifice an artifact. If you do, search your library for an artifact card. If that card's converted mana cost is less than or equal to the sacrificed artifact's converted mana cost, put it onto the battlefield. If it's greater, you may pay , where X is the difference. If you do, put it onto the battlefield. If you don't, put it into its owner's graveyard. Then shuffle your library.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "69",
+  "artist": "Anson Maddocks",
+  "rating": "4.316",
+  "votes": "38"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Razorgrass Screen",
+  "image": "./img/razorgrass-screen.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact Creature  — Wall",
+  "text": "Defender (This creature can't attack.)Razorgrass Screen blocks each turn if able.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "145",
+  "artist": "Tony Szczudlo",
+  "rating": "1.845",
+  "votes": "42"
+}

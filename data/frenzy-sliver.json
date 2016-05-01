@@ -1,0 +1,13 @@
+{
+  "title": "Frenzy Sliver",
+  "image": "./img/frenzy-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Sliver",
+  "text": "All Sliver creatures have frenzy 1. (Whenever a Sliver attacks and isn't blocked, it gets +1/+0 until end of turn.)",
+  "expansion": "Premium Deck Series: Slivers",
+  "rarity": "Common",
+  "cardNumber": "6",
+  "artist": "Glen Angus",
+  "rating": "2.821",
+  "votes": "42"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Caregiver",
+  "image": "./img/caregiver.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": ", Sacrifice a creature: Prevent the next 1 damage that would be dealt to target creature or player this turn.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "6",
+  "artist": "William Simpson",
+  "rating": "1.173",
+  "votes": "78"
+}

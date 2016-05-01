@@ -1,0 +1,13 @@
+{
+  "title": "Glare of Heresy",
+  "image": "./img/glare-ofheresy.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Exile target white permanent.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "15",
+  "artist": "Raymond Swanland",
+  "rating": "3.238",
+  "votes": "42"
+}

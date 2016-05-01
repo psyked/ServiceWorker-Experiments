@@ -1,0 +1,13 @@
+{
+  "title": "Dragon Hatchling",
+  "image": "./img/dragon-hatchling.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Dragon",
+  "text": "Flying: Dragon Hatchling gets +1/+0 until end of turn.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "138",
+  "artist": "David Palumbo",
+  "rating": "3.468",
+  "votes": "31"
+}

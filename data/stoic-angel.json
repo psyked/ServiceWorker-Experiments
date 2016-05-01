@@ -1,0 +1,13 @@
+{
+  "title": "Stoic Angel",
+  "image": "./img/stoic-angel.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Angel",
+  "text": "Flying, vigilancePlayers can't untap more than one creature during their untap steps.",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "199",
+  "artist": "Volkan Baga",
+  "rating": "3.954",
+  "votes": "141"
+}

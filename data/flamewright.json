@@ -1,0 +1,13 @@
+{
+  "title": "Flamewright",
+  "image": "./img/flamewright.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Artificer",
+  "text": ", : Put a 1/1 colorless Construct artifact creature token with defender onto the battlefield., Sacrifice a creature with defender: Flamewright deals 1 damage to target creature or player.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Uncommon",
+  "cardNumber": "46",
+  "artist": "Mathias Kollros",
+  "rating": "4.042",
+  "votes": "12"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Wave of Indifference",
+  "image": "./img/wave-ofindifference.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "X target creatures can't block this turn.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "243",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "4.267",
+  "votes": "60"
+}

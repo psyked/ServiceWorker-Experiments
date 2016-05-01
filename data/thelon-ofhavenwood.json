@@ -1,0 +1,13 @@
+{
+  "title": "Thelon of Havenwood",
+  "image": "./img/thelon-ofhavenwood.jpg",
+  "convertedManaCost": "2",
+  "types": "Legendary Creature  — Elf Druid",
+  "text": "Each Fungus creature gets +1/+1 for each spore counter on it., Exile a Fungus card from a graveyard: Put a spore counter on each Fungus on the battlefield.",
+  "expansion": "Time Spiral",
+  "rarity": "Rare",
+  "cardNumber": "227",
+  "artist": "Kev Walker",
+  "rating": "4.107",
+  "votes": "75"
+}

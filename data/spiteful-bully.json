@@ -1,0 +1,13 @@
+{
+  "title": "Spiteful Bully",
+  "image": "./img/spiteful-bully.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie Mercenary",
+  "text": "At the beginning of your upkeep, Spiteful Bully deals 3 damage to target creature you control.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "72",
+  "artist": "Chippy",
+  "rating": "2.561",
+  "votes": "33"
+}

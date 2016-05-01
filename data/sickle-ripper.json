@@ -1,0 +1,13 @@
+{
+  "title": "Sickle Ripper",
+  "image": "./img/sickle-ripper.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elemental Warrior",
+  "text": "Wither (This deals damage to creatures in the form of -1/-1 counters.)",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "96",
+  "artist": "Dan Scott",
+  "rating": "5",
+  "votes": "0"
+}

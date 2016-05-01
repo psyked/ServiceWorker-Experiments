@@ -1,0 +1,13 @@
+{
+  "title": "Fated Intervention",
+  "image": "./img/fated-intervention.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Put two 3/3 green Centaur enchantment creature tokens onto the battlefield. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "expansion": "Born of the Gods",
+  "rarity": "Rare",
+  "cardNumber": "121",
+  "artist": "Svetlin Velinov",
+  "rating": "3.721",
+  "votes": "34"
+}

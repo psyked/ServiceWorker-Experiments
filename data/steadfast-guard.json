@@ -1,0 +1,13 @@
+{
+  "title": "Steadfast Guard",
+  "image": "./img/steadfast-guard.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Rebel",
+  "text": "Vigilance (Attacking doesn't cause this creature to tap.)",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "48",
+  "artist": "Michael Komarck",
+  "rating": "3.858",
+  "votes": "60"
+}

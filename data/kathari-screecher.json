@@ -1,0 +1,13 @@
+{
+  "title": "Kathari Screecher",
+  "image": "./img/kathari-screecher.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Bird Soldier",
+  "text": "FlyingUnearth  (: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "47",
+  "artist": "Pete Venters",
+  "rating": "2.845",
+  "votes": "58"
+}

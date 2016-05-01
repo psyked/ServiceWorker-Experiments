@@ -1,0 +1,13 @@
+{
+  "title": "Lord of the Unreal",
+  "image": "./img/lord-oftheunreal.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": "Illusion creatures you control get +1/+1 and have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
+  "expansion": "Magic 2012",
+  "rarity": "Rare",
+  "cardNumber": "62",
+  "artist": "Jason Chan",
+  "rating": "4.171",
+  "votes": "149"
+}

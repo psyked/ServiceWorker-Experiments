@@ -1,0 +1,13 @@
+{
+  "title": "Commandeer",
+  "image": "./img/commandeer.jpg",
+  "convertedManaCost": "7",
+  "types": "Instant",
+  "text": "You may exile two blue cards from your hand rather than pay Commandeer's mana cost.Gain control of target noncreature spell. You may choose new targets for it. (If that spell is an artifact, enchantment, or planeswalker, the permanent enters the battlefield under your control.)",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "29",
+  "artist": "John Matson",
+  "rating": "4.415",
+  "votes": "82"
+}

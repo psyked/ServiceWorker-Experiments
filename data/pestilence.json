@@ -1,0 +1,13 @@
+{
+  "title": "Pestilence",
+  "image": "./img/pestilence.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.: Pestilence deals 1 damage to each creature and each player.",
+  "expansion": "Battle Royale Box Set",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Pete Venters",
+  "rating": "4.378",
+  "votes": "78"
+}

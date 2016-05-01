@@ -1,0 +1,13 @@
+{
+  "title": "Claim of Erebos",
+  "image": "./img/claim-oferebos.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has \", : Target player loses 2 life.\"",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "64",
+  "artist": "Zack Stella",
+  "rating": "2.942",
+  "votes": "26"
+}

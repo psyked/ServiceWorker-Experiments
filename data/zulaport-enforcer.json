@@ -1,0 +1,13 @@
+{
+  "title": "Zulaport Enforcer",
+  "image": "./img/zulaport-enforcer.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Warrior",
+  "text": "Level up  (: Put a level counter on this. Level up only as a sorcery.)LEVEL 1-23/3LEVEL 3+5/5Zulaport Enforcer can't be blocked except by black creatures.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "133",
+  "artist": "Matt Stewart",
+  "rating": "2.173",
+  "votes": "55"
+}

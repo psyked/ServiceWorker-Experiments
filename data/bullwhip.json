@@ -1,0 +1,13 @@
+{
+  "title": "Bullwhip",
+  "image": "./img/bullwhip.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ", : Bullwhip deals 1 damage to target creature. That creature attacks this turn if able.",
+  "expansion": "Stronghold",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Brom",
+  "rating": "3.323",
+  "votes": "31"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mnemonic Wall",
+  "image": "./img/mnemonic-wall.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Wall",
+  "text": "DefenderWhen Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Common",
+  "cardNumber": "50",
+  "artist": "Vance Kovacs",
+  "rating": "2.750",
+  "votes": "14"
+}

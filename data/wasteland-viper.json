@@ -1,0 +1,13 @@
+{
+  "title": "Wasteland Viper",
+  "image": "./img/wasteland-viper.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Snake",
+  "text": "DeathtouchBloodrush — , Discard Wasteland Viper: Target attacking creature gets +1/+2 and gains deathtouch until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "139",
+  "artist": "Lucas Graciano",
+  "rating": "4.015",
+  "votes": "135"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Declaration of Naught",
+  "image": "./img/declaration-ofnaught.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "As Declaration of Naught enters the battlefield, name a card.: Counter target spell with the chosen name.",
+  "expansion": "Morningtide",
+  "rarity": "Rare",
+  "cardNumber": "29",
+  "artist": "Rob Alexander",
+  "rating": "3.543",
+  "votes": "58"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Wild Ricochet",
+  "image": "./img/wild-ricochet.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "You may choose new targets for target instant or sorcery spell. Then copy that spell. You may choose new targets for the copy.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "132",
+  "artist": "Dan Scott",
+  "rating": "3.023",
+  "votes": "22"
+}

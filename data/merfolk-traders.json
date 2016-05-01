@@ -1,0 +1,13 @@
+{
+  "title": "Merfolk Traders",
+  "image": "./img/merfolk-traders.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk",
+  "text": "When Merfolk Traders enters the battlefield, draw a card, then discard a card.",
+  "expansion": "Weatherlight",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "DiTerlizzi",
+  "rating": "2.818",
+  "votes": "44"
+}

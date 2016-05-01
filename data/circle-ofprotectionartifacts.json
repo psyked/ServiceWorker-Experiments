@@ -1,0 +1,13 @@
+{
+  "title": "Circle of Protection: Artifacts",
+  "image": "./img/circle-ofprotectionartifacts.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": ": The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "8",
+  "artist": "Terese Nielsen",
+  "rating": "2.840",
+  "votes": "47"
+}

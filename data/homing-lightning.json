@@ -1,0 +1,13 @@
+{
+  "title": "Homing Lightning",
+  "image": "./img/homing-lightning.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Homing Lightning deals 4 damage to target creature and each other creature with the same name as that creature.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "96",
+  "artist": "Slawomir Maniak",
+  "rating": "3.180",
+  "votes": "50"
+}

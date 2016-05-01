@@ -1,0 +1,13 @@
+{
+  "title": "Force of Nature",
+  "image": "./img/force-ofnature.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay .",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "154",
+  "artist": "Douglas Shuler",
+  "rating": "3.548",
+  "votes": "42"
+}

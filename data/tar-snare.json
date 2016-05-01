@@ -1,0 +1,13 @@
+{
+  "title": "Tar Snare",
+  "image": "./img/tar-snare.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Target creature gets -3/-2 until end of turn.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "90",
+  "artist": "Karl Kopinski",
+  "rating": "5",
+  "votes": "0"
+}

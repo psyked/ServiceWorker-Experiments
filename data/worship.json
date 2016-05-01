@@ -1,0 +1,13 @@
+{
+  "title": "Worship",
+  "image": "./img/worship.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "55",
+  "artist": "Mark Zug",
+  "rating": "4.517",
+  "votes": "87"
+}

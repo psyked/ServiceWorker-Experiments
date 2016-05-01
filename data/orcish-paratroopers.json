@@ -1,0 +1,13 @@
+{
+  "title": "Orcish Paratroopers",
+  "image": "./img/orcish-paratroopers.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature — Orc Paratrooper",
+  "text": "When Orcish Paratroopers comes into play, flip it from a height of at least one foot. Sacrifice Orcish Paratroopers unless it lands face up after turning over completely.",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "83",
+  "artist": "Matt Thompson",
+  "rating": "2.905",
+  "votes": "21"
+}

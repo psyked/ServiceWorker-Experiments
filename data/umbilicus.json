@@ -1,0 +1,13 @@
+{
+  "title": "Umbilicus",
+  "image": "./img/umbilicus.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "At the beginning of each player's upkeep, that player returns a permanent he or she controls to its owner's hand unless he or she pays 2 life.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "312",
+  "artist": "Dermot Power",
+  "rating": "3.667",
+  "votes": "33"
+}

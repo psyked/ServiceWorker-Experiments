@@ -1,0 +1,13 @@
+{
+  "title": "Ogre Slumlord",
+  "image": "./img/ogre-slumlord.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Ogre Rogue",
+  "text": "Whenever another nontoken creature dies, you may put a 1/1 black Rat creature token onto the battlefield.Rats you control have deathtouch.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "74",
+  "artist": "Trevor Claxton",
+  "rating": "3.621",
+  "votes": "91"
+}

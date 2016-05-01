@@ -1,0 +1,13 @@
+{
+  "title": "Scroll Rack",
+  "image": "./img/scroll-rack.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", : Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order.",
+  "expansion": "Commander's Arsenal",
+  "rarity": "Rare",
+  "cardNumber": "16",
+  "artist": "Heather Hudson",
+  "rating": "4.585",
+  "votes": "41"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Scab-Clan Charger",
+  "image": "./img/scab-clan-charger.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Centaur Warrior",
+  "text": "Bloodrush — , Discard Scab-Clan Charger: Target attacking creature gets +2/+4 until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "131",
+  "artist": "Nils Hamm",
+  "rating": "2.737",
+  "votes": "38"
+}

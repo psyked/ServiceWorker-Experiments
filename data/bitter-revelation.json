@@ -1,0 +1,13 @@
+{
+  "title": "Bitter Revelation",
+  "image": "./img/bitter-revelation.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "65",
+  "artist": "Viktor Titov",
+  "rating": "2.700",
+  "votes": "5"
+}

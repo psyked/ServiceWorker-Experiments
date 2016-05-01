@@ -1,0 +1,13 @@
+{
+  "title": "Setessan Griffin",
+  "image": "./img/setessan-griffin.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Griffin",
+  "text": "Flying: Setessan Griffin gets +2/+2 until end of turn. Activate this ability only once each turn.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "30",
+  "artist": "Greg Staples",
+  "rating": "2.227",
+  "votes": "33"
+}

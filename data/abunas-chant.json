@@ -1,0 +1,13 @@
+{
+  "title": "Abuna's Chant",
+  "image": "./img/abunas-chant.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Choose one —• You gain 5 life.• Prevent the next 5 damage that would be dealt to target creature this turn.Entwine  (Choose both if you pay the entwine cost.)",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "1",
+  "artist": "John Matson",
+  "rating": "2.167",
+  "votes": "36"
+}

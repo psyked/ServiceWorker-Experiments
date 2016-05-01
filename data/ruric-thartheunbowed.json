@@ -1,0 +1,13 @@
+{
+  "title": "Ruric Thar, the Unbowed",
+  "image": "./img/ruric-thartheunbowed.jpg",
+  "convertedManaCost": "6",
+  "types": "Legendary Creature  — Ogre Warrior",
+  "text": "Vigilance, reachRuric Thar, the Unbowed attacks each turn if able.Whenever a player casts a noncreature spell, Ruric Thar deals 6 damage to that player.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Rare",
+  "cardNumber": "99",
+  "artist": "Tyler Jacobson",
+  "rating": "3.805",
+  "votes": "128"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Penance",
+  "image": "./img/penance.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Put a card from your hand on top of your library: The next time a black or red source of your choice would deal damage this turn, prevent that damage.",
+  "expansion": "Exodus",
+  "rarity": "Uncommon",
+  "cardNumber": "15",
+  "artist": "Terese Nielsen",
+  "rating": "2.286",
+  "votes": "35"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Hunter of Eyeblights",
+  "image": "./img/hunter-ofeyeblights.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elf Assassin",
+  "text": "When Hunter of Eyeblights enters the battlefield, put a +1/+1 counter on target creature you don't control., : Destroy target creature with a counter on it.",
+  "expansion": "Lorwyn",
+  "rarity": "Uncommon",
+  "cardNumber": "119",
+  "artist": "Jesper Ejsing",
+  "rating": "3.024",
+  "votes": "41"
+}

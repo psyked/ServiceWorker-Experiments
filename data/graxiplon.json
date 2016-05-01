@@ -1,0 +1,13 @@
+{
+  "title": "Graxiplon",
+  "image": "./img/graxiplon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Beast",
+  "text": "Graxiplon can't be blocked unless defending player controls three or more creatures that share a creature type.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "86",
+  "artist": "Iain McCaig",
+  "rating": "1.654",
+  "votes": "26"
+}

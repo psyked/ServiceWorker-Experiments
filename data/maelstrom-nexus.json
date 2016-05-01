@@ -1,0 +1,13 @@
+{
+  "title": "Maelstrom Nexus",
+  "image": "./img/maelstrom-nexus.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "The first spell you cast each turn has cascade. (When you cast your first spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",
+  "expansion": "Alara Reborn",
+  "rarity": "Mythic Rare",
+  "cardNumber": "130",
+  "artist": "Steven Belledin",
+  "rating": "3.654",
+  "votes": "117"
+}

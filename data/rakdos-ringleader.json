@@ -1,0 +1,13 @@
+{
+  "title": "Rakdos Ringleader",
+  "image": "./img/rakdos-ringleader.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Skeleton Warrior",
+  "text": "First strikeWhenever Rakdos Ringleader deals combat damage to a player, that player discards a card at random.: Regenerate Rakdos Ringleader.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "186",
+  "artist": "Jason Felix",
+  "rating": "1.351",
+  "votes": "84"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Flamecore Elemental",
+  "image": "./img/flamecore-elemental.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elemental",
+  "text": "Echo  (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "154",
+  "artist": "Dave Dorman",
+  "rating": "1.333",
+  "votes": "33"
+}

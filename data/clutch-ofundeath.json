@@ -1,0 +1,13 @@
+{
+  "title": "Clutch of Undeath",
+  "image": "./img/clutch-ofundeath.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +3/+3 as long as it's a Zombie. Otherwise, it gets -3/-3.",
+  "expansion": "Scourge",
+  "rarity": "Common",
+  "cardNumber": "61",
+  "artist": "Greg Hildebrandt",
+  "rating": "2.013",
+  "votes": "38"
+}

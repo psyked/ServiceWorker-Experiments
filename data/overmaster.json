@@ -1,0 +1,13 @@
+{
+  "title": "Overmaster",
+  "image": "./img/overmaster.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "The next instant or sorcery spell you cast this turn can't be countered by spells or abilities.Draw a card.",
+  "expansion": "Torment",
+  "rarity": "Rare",
+  "cardNumber": "104",
+  "artist": "Anthony S. Waters",
+  "rating": "4.230",
+  "votes": "61"
+}

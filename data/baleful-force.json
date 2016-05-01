@@ -1,0 +1,13 @@
+{
+  "title": "Baleful Force",
+  "image": "./img/baleful-force.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Elemental",
+  "text": "At the beginning of each upkeep, you draw a card and you lose 1 life.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "105",
+  "artist": "Eytan Zana",
+  "rating": "4.000",
+  "votes": "1"
+}

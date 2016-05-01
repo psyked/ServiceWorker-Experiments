@@ -1,0 +1,13 @@
+{
+  "title": "Standard Bearer",
+  "image": "./img/standard-bearer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Flagbearer",
+  "text": "While choosing targets as part of casting a spell or activating an ability, your opponents must choose at least one Flagbearer on the battlefield if able.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "18",
+  "artist": "Ron Spencer",
+  "rating": "4.010",
+  "votes": "48"
+}

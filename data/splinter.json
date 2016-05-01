@@ -1,0 +1,13 @@
+{
+  "title": "Splinter",
+  "image": "./img/splinter.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles his or her library.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "146",
+  "artist": "Tsutomu Kawade",
+  "rating": "4.176",
+  "votes": "51"
+}

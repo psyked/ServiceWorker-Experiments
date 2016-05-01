@@ -1,0 +1,13 @@
+{
+  "title": "In the Web of War",
+  "image": "./img/in-thewebofwar.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "Whenever a creature enters the battlefield under your control, it gets +2/+0 and gains haste until end of turn.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "108",
+  "artist": "Ron Spencer",
+  "rating": "3.806",
+  "votes": "49"
+}

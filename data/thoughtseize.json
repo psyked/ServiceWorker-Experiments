@@ -1,0 +1,13 @@
+{
+  "title": "Thoughtseize",
+  "image": "./img/thoughtseize.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Target player reveals his or her hand. You choose a nonland card from it. That player discards that card. You lose 2 life.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "107",
+  "artist": "Lucas Graciano",
+  "rating": "4.578",
+  "votes": "173"
+}

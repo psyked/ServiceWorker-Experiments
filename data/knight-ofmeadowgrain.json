@@ -1,0 +1,13 @@
+{
+  "title": "Knight of Meadowgrain",
+  "image": "./img/knight-ofmeadowgrain.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kithkin Knight",
+  "text": "First strikeLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+  "expansion": "Duel Decks: Knights vs. Dragons",
+  "rarity": "Uncommon",
+  "cardNumber": "5",
+  "artist": "Larry MacDougall",
+  "rating": "3.944",
+  "votes": "72"
+}

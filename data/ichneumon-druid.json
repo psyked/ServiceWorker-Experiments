@@ -1,0 +1,13 @@
+{
+  "title": "Ichneumon Druid",
+  "image": "./img/ichneumon-druid.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Druid",
+  "text": "Whenever an opponent casts an instant spell other than the first instant spell that player casts each turn, Ichneumon Druid deals 4 damage to him or her.",
+  "expansion": "Legends",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Melissa Benson",
+  "rating": "2.064",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Basandra, Battle Seraph",
+  "image": "./img/basandra-battleseraph.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Angel",
+  "text": "FlyingPlayers can't cast spells during combat.: Target creature attacks this turn if able.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "244",
+  "artist": "Terese Nielsen",
+  "rating": "4.000",
+  "votes": "1"
+}

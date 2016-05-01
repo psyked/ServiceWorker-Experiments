@@ -1,0 +1,13 @@
+{
+  "title": "Boreal Griffin",
+  "image": "./img/boreal-griffin.jpg",
+  "convertedManaCost": "5",
+  "types": "Snow Creature  — Griffin",
+  "text": "Flying: Boreal Griffin gains first strike until end of turn. ( can be paid with one mana from a snow permanent.)",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "2",
+  "artist": "Cyril Van Der Haegen",
+  "rating": "1.342",
+  "votes": "38"
+}

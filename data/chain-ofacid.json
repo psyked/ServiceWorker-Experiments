@@ -1,0 +1,13 @@
+{
+  "title": "Chain of Acid",
+  "image": "./img/chain-ofacid.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy target noncreature permanent. Then that permanent's controller may copy this spell and may choose a new target for that copy.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "252",
+  "artist": "Ron Spencer",
+  "rating": "3.397",
+  "votes": "29"
+}

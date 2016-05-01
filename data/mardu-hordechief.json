@@ -1,0 +1,13 @@
+{
+  "title": "Mardu Hordechief",
+  "image": "./img/mardu-hordechief.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Warrior",
+  "text": "Raid — When Mardu Hordechief enters the battlefield, if you attacked with a creature this turn, put a 1/1 white Warrior creature token onto the battlefield.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "17",
+  "artist": "Torstein Nordstrand",
+  "rating": "3.250",
+  "votes": "2"
+}

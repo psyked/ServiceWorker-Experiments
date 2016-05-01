@@ -1,0 +1,13 @@
+{
+  "title": "Fortitude",
+  "image": "./img/fortitude.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureSacrifice a Forest: Regenerate enchanted creature.When Fortitude is put into a graveyard from the battlefield, return Fortitude to its owner's hand.",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "253",
+  "artist": "Daren Bader",
+  "rating": "1.936",
+  "votes": "39"
+}

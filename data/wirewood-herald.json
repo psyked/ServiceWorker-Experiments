@@ -1,0 +1,13 @@
+{
+  "title": "Wirewood Herald",
+  "image": "./img/wirewood-herald.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf",
+  "text": "When Wirewood Herald dies, you may search your library for an Elf card, reveal that card, put it into your hand, then shuffle your library.",
+  "expansion": "Duel Decks Anthology, Elves vs. Goblins",
+  "rarity": "Common",
+  "cardNumber": "16",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sadistic Augermage",
+  "image": "./img/sadistic-augermage.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "When Sadistic Augermage dies, each player puts a card from his or her hand on top of his or her library.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Common",
+  "cardNumber": "52",
+  "artist": "Nick Percival",
+  "rating": "2.714",
+  "votes": "7"
+}

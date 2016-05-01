@@ -1,0 +1,13 @@
+{
+  "title": "Elvish Spirit Guide",
+  "image": "./img/elvish-spiritguide.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Spirit",
+  "text": "Exile Elvish Spirit Guide from your hand: Add  to your mana pool.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "159",
+  "artist": "Julie Baroh",
+  "rating": "4.576",
+  "votes": "99"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Darkwatch Elves",
+  "image": "./img/darkwatch-elves.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf",
+  "text": "Protection from blackCycling  (, Discard this card: Draw a card.)",
+  "expansion": "Urza's Legacy",
+  "rarity": "Uncommon",
+  "cardNumber": "99",
+  "artist": "Hazeltine",
+  "rating": "3.389",
+  "votes": "27"
+}

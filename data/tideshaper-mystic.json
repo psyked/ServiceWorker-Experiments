@@ -1,0 +1,13 @@
+{
+  "title": "Tideshaper Mystic",
+  "image": "./img/tideshaper-mystic.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Merfolk Wizard",
+  "text": ": Target land becomes the basic land type of your choice until end of turn. Activate this ability only during your turn.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "93",
+  "artist": "Mark Tedin",
+  "rating": "3.133",
+  "votes": "45"
+}

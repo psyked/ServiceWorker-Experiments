@@ -1,0 +1,13 @@
+{
+  "title": "Suleiman's Legacy",
+  "image": "./img/suleimans-legacy.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "When Suleiman's Legacy enters the battlefield, destroy all Djinns and Efreets. They can't be regenerated.Whenever a Djinn or Efreet enters the battlefield, destroy it. It can't be regenerated.",
+  "expansion": "Visions",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Kaja Foglio",
+  "rating": "3.819",
+  "votes": "36"
+}

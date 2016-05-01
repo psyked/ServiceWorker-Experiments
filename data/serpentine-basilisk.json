@@ -1,0 +1,13 @@
+{
+  "title": "Serpentine Basilisk",
+  "image": "./img/serpentine-basilisk.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Basilisk",
+  "text": "Whenever Serpentine Basilisk deals combat damage to a creature, destroy that creature at end of combat.Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "280",
+  "artist": "Franz Vohwinkel",
+  "rating": "3.381",
+  "votes": "21"
+}

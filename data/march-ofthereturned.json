@@ -1,0 +1,13 @@
+{
+  "title": "March of the Returned",
+  "image": "./img/march-ofthereturned.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Return up to two target creature cards from your graveyard to your hand.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "96",
+  "artist": "Mark Zug",
+  "rating": "2.655",
+  "votes": "29"
+}

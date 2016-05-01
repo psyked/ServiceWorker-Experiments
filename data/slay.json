@@ -1,0 +1,13 @@
+{
+  "title": "Slay",
+  "image": "./img/slay.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Destroy target green creature. It can't be regenerated.Draw a card.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Uncommon",
+  "cardNumber": "25",
+  "artist": "Ben Thompson",
+  "rating": "3.350",
+  "votes": "30"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Absorb",
+  "image": "./img/absorb.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell. You gain 3 life.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "226",
+  "artist": "Andrew Goldhawk",
+  "rating": "4.124",
+  "votes": "93"
+}

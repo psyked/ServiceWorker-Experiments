@@ -1,0 +1,13 @@
+{
+  "title": "Seismic Assault",
+  "image": "./img/seismic-assault.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Discard a land card: Seismic Assault deals 2 damage to target creature or player.",
+  "expansion": "Tenth Edition",
+  "rarity": "Rare",
+  "cardNumber": "228",
+  "artist": "Greg Staples",
+  "rating": "4.338",
+  "votes": "68"
+}

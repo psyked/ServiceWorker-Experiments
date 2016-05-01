@@ -1,0 +1,13 @@
+{
+  "title": "Woodland Bellower",
+  "image": "./img/woodland-bellower.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Beast",
+  "text": "When Woodland Bellower enters the battlefield, you may search your library for a nonlegendary green creature card with converted mana cost 3 or less, put it onto the battlefield, then shuffle your library.",
+  "expansion": "Magic Origins",
+  "rarity": "Mythic Rare",
+  "cardNumber": "207",
+  "artist": "Jasper Sandner",
+  "rating": "5",
+  "votes": "0"
+}

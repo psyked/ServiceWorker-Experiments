@@ -1,0 +1,13 @@
+{
+  "title": "Tinker",
+  "image": "./img/tinker.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Tinker, sacrifice an artifact.Search your library for an artifact card and put that card onto the battlefield. Then shuffle your library.",
+  "expansion": "From the Vault: Exiled",
+  "rarity": "Mythic Rare",
+  "cardNumber": "14",
+  "artist": "Chris Rahn",
+  "rating": "4.603",
+  "votes": "383"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Deathless Angel",
+  "image": "./img/deathless-angel.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Angel",
+  "text": "Flying: Target creature gains indestructible until end of turn.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Rare",
+  "cardNumber": "17",
+  "artist": "Johann Bodin",
+  "rating": "4.041",
+  "votes": "110"
+}

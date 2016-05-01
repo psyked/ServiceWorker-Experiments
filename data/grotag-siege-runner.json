@@ -1,0 +1,13 @@
+{
+  "title": "Grotag Siege-Runner",
+  "image": "./img/grotag-siege-runner.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Rogue",
+  "text": ", Sacrifice Grotag Siege-Runner: Destroy target creature with defender. Grotag Siege-Runner deals 2 damage to that creature's controller.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "149",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "2.906",
+  "votes": "32"
+}

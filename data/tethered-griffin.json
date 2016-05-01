@@ -1,0 +1,13 @@
+{
+  "title": "Tethered Griffin",
+  "image": "./img/tethered-griffin.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Griffin",
+  "text": "FlyingWhen you control no enchantments, sacrifice Tethered Griffin.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Rare",
+  "cardNumber": "21",
+  "artist": "Matthew Wilson",
+  "rating": "3.840",
+  "votes": "47"
+}

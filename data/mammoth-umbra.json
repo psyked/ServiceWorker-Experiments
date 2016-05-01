@@ -1,0 +1,13 @@
+{
+  "title": "Mammoth Umbra",
+  "image": "./img/mammoth-umbra.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +3/+3 and has vigilance.Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "10",
+  "artist": "Howard Lyon",
+  "rating": "2.841",
+  "votes": "22"
+}

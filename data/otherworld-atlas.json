@@ -1,0 +1,13 @@
+{
+  "title": "Otherworld Atlas",
+  "image": "./img/otherworld-atlas.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ": Put a charge counter on Otherworld Atlas.: Each player draws a card for each charge counter on Otherworld Atlas.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "219",
+  "artist": "Sam Wolfe Connelly",
+  "rating": "2.975",
+  "votes": "59"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mana Severance",
+  "image": "./img/mana-severance.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Search your library for any number of land cards and exile them. Then shuffle your library.",
+  "expansion": "Tempest",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Terese Nielsen",
+  "rating": "4.183",
+  "votes": "63"
+}

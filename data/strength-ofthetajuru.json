@@ -1,0 +1,13 @@
+{
+  "title": "Strength of the Tajuru",
+  "image": "./img/strength-ofthetajuru.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Multikicker  (You may pay an additional  any number of times as you cast this spell.)Choose target creature, then choose another target creature for each time Strength of the Tajuru was kicked. Put X +1/+1 counters on each of them.",
+  "expansion": "Worldwake",
+  "rarity": "Rare",
+  "cardNumber": "113",
+  "artist": "Christopher Moeller",
+  "rating": "3.539",
+  "votes": "77"
+}

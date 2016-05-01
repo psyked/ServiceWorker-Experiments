@@ -1,0 +1,13 @@
+{
+  "title": "Terraformer",
+  "image": "./img/terraformer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": ": Choose a basic land type. Each land you control becomes that type until end of turn.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "70",
+  "artist": "Luca Zontini",
+  "rating": "2.638",
+  "votes": "40"
+}

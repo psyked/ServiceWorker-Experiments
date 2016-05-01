@@ -1,0 +1,13 @@
+{
+  "title": "Blinding Angel",
+  "image": "./img/blinding-angel.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Angel",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)Whenever Blinding Angel deals combat damage to a player, that player skips his or her next combat phase.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "7",
+  "artist": "Todd Lockwood",
+  "rating": "4.397",
+  "votes": "68"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Hoard-Smelter Dragon",
+  "image": "./img/hoard-smelter-dragon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "Flying: Destroy target artifact. Hoard-Smelter Dragon gets +X/+0 until end of turn, where X is that artifact's converted mana cost.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "178",
+  "artist": "Eric Deschamps",
+  "rating": "5",
+  "votes": "0"
+}

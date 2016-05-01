@@ -1,0 +1,13 @@
+{
+  "title": "Beast Attack",
+  "image": "./img/beast-attack.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Put a 4/4 green Beast creature token onto the battlefield.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Duel Decks Anthology, Garruk vs. Liliana",
+  "rarity": "Uncommon",
+  "cardNumber": "23",
+  "artist": "Ciruelo",
+  "rating": "5",
+  "votes": "0"
+}

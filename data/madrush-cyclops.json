@@ -1,0 +1,13 @@
+{
+  "title": "Madrush Cyclops",
+  "image": "./img/madrush-cyclops.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Cyclops Warrior",
+  "text": "Creatures you control have haste.",
+  "expansion": "Alara Reborn",
+  "rarity": "Rare",
+  "cardNumber": "119",
+  "artist": "Wayne Reynolds",
+  "rating": "3.449",
+  "votes": "118"
+}

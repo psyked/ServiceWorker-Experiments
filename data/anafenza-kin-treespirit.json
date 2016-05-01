@@ -1,0 +1,13 @@
+{
+  "title": "Anafenza, Kin-Tree Spirit",
+  "image": "./img/anafenza-kin-treespirit.jpg",
+  "convertedManaCost": "2",
+  "types": "Legendary Creature  — Spirit Soldier",
+  "text": "Whenever another nontoken creature enters the battlefield under your control, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "2",
+  "artist": "Ryan Yee",
+  "rating": "5",
+  "votes": "0"
+}

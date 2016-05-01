@@ -1,0 +1,13 @@
+{
+  "title": "Viashino Slaughtermaster",
+  "image": "./img/viashino-slaughtermaster.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Viashino Warrior",
+  "text": "Double strike: Viashino Slaughtermaster gets +1/+1 until end of turn. Activate this ability only once each turn.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "133",
+  "artist": "Raymond Swanland",
+  "rating": "5",
+  "votes": "0"
+}

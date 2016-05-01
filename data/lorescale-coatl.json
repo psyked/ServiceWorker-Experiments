@@ -1,0 +1,13 @@
+{
+  "title": "Lorescale Coatl",
+  "image": "./img/lorescale-coatl.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Snake",
+  "text": "Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "225",
+  "artist": "Greg Staples",
+  "rating": "5",
+  "votes": "0"
+}

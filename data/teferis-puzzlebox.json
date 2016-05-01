@@ -1,0 +1,13 @@
+{
+  "title": "Teferi's Puzzle Box",
+  "image": "./img/teferis-puzzlebox.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "At the beginning of each player's draw step, that player puts the cards in his or her hand on the bottom of his or her library in any order, then draws that many cards.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "312",
+  "artist": "Donato Giancola",
+  "rating": "4.448",
+  "votes": "67"
+}

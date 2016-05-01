@@ -1,0 +1,13 @@
+{
+  "title": "Hunted Phantasm",
+  "image": "./img/hunted-phantasm.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "Hunted Phantasm can't be blocked.When Hunted Phantasm enters the battlefield, target opponent puts five 1/1 red Goblin creature tokens onto the battlefield.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "55",
+  "artist": "Justin Sweet",
+  "rating": "3.920",
+  "votes": "69"
+}

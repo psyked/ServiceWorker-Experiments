@@ -1,0 +1,13 @@
+{
+  "title": "Shambling Attendants",
+  "image": "./img/shambling-attendants.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Zombie",
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for .)Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "89",
+  "artist": "Daarken",
+  "rating": "2.500",
+  "votes": "2"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Wilderness Elemental",
+  "image": "./img/wilderness-elemental.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental",
+  "text": "TrampleWilderness Elemental's power is equal to the number of nonbasic lands your opponents control.",
+  "expansion": "Coldsnap",
+  "rarity": "Uncommon",
+  "cardNumber": "134",
+  "artist": "Anthony S. Waters",
+  "rating": "3.489",
+  "votes": "44"
+}

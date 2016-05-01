@@ -1,0 +1,13 @@
+{
+  "title": "Cinderhaze Wretch",
+  "image": "./img/cinderhaze-wretch.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental Shaman",
+  "text": ": Target player discards a card. Activate this ability only during your turn.Put a -1/-1 counter on Cinderhaze Wretch: Untap Cinderhaze Wretch.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "60",
+  "artist": "Steven Belledin",
+  "rating": "2.432",
+  "votes": "44"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Angelic Field Marshal",
+  "image": "./img/angelic-fieldmarshal.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Angel",
+  "text": "FlyingLieutenant — As long as you control your commander, Angelic Field Marshal gets +2/+2 and creatures you control have vigilance.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "2",
+  "artist": "Scott Murphy",
+  "rating": "5",
+  "votes": "0"
+}

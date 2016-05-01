@@ -1,0 +1,13 @@
+{
+  "title": "Scarscale Ritual",
+  "image": "./img/scarscale-ritual.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Scarscale Ritual, put a -1/-1 counter on a creature you control.Draw two cards.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "175",
+  "artist": "Richard Sardinha",
+  "rating": "3.242",
+  "votes": "60"
+}

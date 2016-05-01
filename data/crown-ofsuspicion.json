@@ -1,0 +1,13 @@
+{
+  "title": "Crown of Suspicion",
+  "image": "./img/crown-ofsuspicion.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/-1.Sacrifice Crown of Suspicion: Enchanted creature and other creatures that share a creature type with it get +2/-1 until end of turn.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "134",
+  "artist": "Wayne England",
+  "rating": "3.040",
+  "votes": "25"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Vulshok Sorcerer",
+  "image": "./img/vulshok-sorcerer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Shaman",
+  "text": "Haste: Vulshok Sorcerer deals 1 damage to target creature or player.",
+  "expansion": "Duel Decks: Venser vs. Koth",
+  "rarity": "Common",
+  "cardNumber": "50",
+  "artist": "rk post",
+  "rating": "3.077",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Blade-Tribe Berserkers",
+  "image": "./img/blade-tribe-berserkers.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Berserker",
+  "text": "Metalcraft — When Blade-Tribe Berserkers enters the battlefield, if you control three or more artifacts, Blade-Tribe Berserkers gets +3/+3 and gains haste until end of turn.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "84",
+  "artist": "Kev Walker",
+  "rating": "2.946",
+  "votes": "56"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Searing Rays",
+  "image": "./img/searing-rays.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Choose a color. Searing Rays deals damage to each player equal to the number of creatures of that color that player controls.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "165",
+  "artist": "Doug Chaffee",
+  "rating": "3.271",
+  "votes": "24"
+}

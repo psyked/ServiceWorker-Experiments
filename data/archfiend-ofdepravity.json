@@ -1,0 +1,13 @@
+{
+  "title": "Archfiend of Depravity",
+  "image": "./img/archfiend-ofdepravity.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Demon",
+  "text": "FlyingAt the beginning of each opponent's end step, that player chooses up to two creatures he or she controls, then sacrifices the rest.",
+  "expansion": "Fate Reforged",
+  "rarity": "Rare",
+  "cardNumber": "62",
+  "artist": "Daarken",
+  "rating": "5",
+  "votes": "0"
+}

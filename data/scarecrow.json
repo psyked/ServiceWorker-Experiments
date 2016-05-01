@@ -1,0 +1,13 @@
+{
+  "title": "Scarecrow",
+  "image": "./img/scarecrow.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Scarecrow",
+  "text": ", : Prevent all damage that would be dealt to you this turn by creatures with flying.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "225",
+  "artist": "Anson Maddocks",
+  "rating": "2.810",
+  "votes": "21"
+}

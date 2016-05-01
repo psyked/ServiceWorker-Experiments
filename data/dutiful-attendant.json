@@ -1,0 +1,13 @@
+{
+  "title": "Dutiful Attendant",
+  "image": "./img/dutiful-attendant.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Warrior",
+  "text": "When Dutiful Attendant dies, return another target creature card from your graveyard to your hand.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "99",
+  "artist": "Aaron Miller",
+  "rating": "5",
+  "votes": "0"
+}

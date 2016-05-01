@@ -1,0 +1,13 @@
+{
+  "title": "Thalakos Mistfolk",
+  "image": "./img/thalakos-mistfolk.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Thalakos Illusion",
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.): Put Thalakos Mistfolk on top of its owner's library.",
+  "expansion": "Tempest",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Richard Kane Ferguson",
+  "rating": "3.103",
+  "votes": "29"
+}

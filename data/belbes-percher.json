@@ -1,0 +1,13 @@
+{
+  "title": "Belbe's Percher",
+  "image": "./img/belbes-percher.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Bird",
+  "text": "FlyingBelbe's Percher can block only creatures with flying.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "53",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "2.611",
+  "votes": "36"
+}

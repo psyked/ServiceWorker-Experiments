@@ -1,0 +1,13 @@
+{
+  "title": "Falter",
+  "image": "./img/falter.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Creatures without flying can't block this turn.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "158",
+  "artist": "Mike Raabe",
+  "rating": "3.000",
+  "votes": "1"
+}

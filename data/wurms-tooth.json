@@ -1,0 +1,13 @@
+{
+  "title": "Wurm's Tooth",
+  "image": "./img/wurms-tooth.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Whenever a player casts a green spell, you may gain 1 life.",
+  "expansion": "Magic 2012",
+  "rarity": "Uncommon",
+  "cardNumber": "223",
+  "artist": "Alan Pollack",
+  "rating": "1.882",
+  "votes": "55"
+}

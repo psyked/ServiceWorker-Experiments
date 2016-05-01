@@ -1,0 +1,13 @@
+{
+  "title": "Outmaneuver",
+  "image": "./img/outmaneuver.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "X target blocked creatures assign their combat damage this turn as though they weren't blocked.",
+  "expansion": "Urza's Saga",
+  "rarity": "Uncommon",
+  "cardNumber": "205",
+  "artist": "Greg Staples",
+  "rating": "4.061",
+  "votes": "33"
+}

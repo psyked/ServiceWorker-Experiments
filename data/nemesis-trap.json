@@ -1,0 +1,13 @@
+{
+  "title": "Nemesis Trap",
+  "image": "./img/nemesis-trap.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant  — Trap",
+  "text": "If a white creature is attacking, you may pay  rather than pay Nemesis Trap's mana cost.Exile target attacking creature. Put a token that's a copy of that creature onto the battlefield. Exile it at the beginning of the next end step.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Uncommon",
+  "cardNumber": "91",
+  "artist": "Ryan Pancoast",
+  "rating": "2.640",
+  "votes": "25"
+}

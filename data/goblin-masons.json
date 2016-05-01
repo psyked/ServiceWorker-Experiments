@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Masons",
+  "image": "./img/goblin-masons.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin",
+  "text": "When Goblin Masons dies, destroy target Wall.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "86",
+  "artist": "DiTerlizzi",
+  "rating": "2.645",
+  "votes": "38"
+}

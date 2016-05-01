@@ -1,0 +1,13 @@
+{
+  "title": "Setessan Starbreaker",
+  "image": "./img/setessan-starbreaker.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Warrior",
+  "text": "When Setessan Starbreaker enters the battlefield, you may destroy target Aura.",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "139",
+  "artist": "Chase Stone",
+  "rating": "2.327",
+  "votes": "26"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Bone Mask",
+  "image": "./img/bone-mask.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ", : The next time a source of your choice would deal damage to you this turn, prevent that damage. Exile cards from the top of your library equal to the damage prevented this way.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "D. Alexander Gregory",
+  "rating": "2.594",
+  "votes": "32"
+}

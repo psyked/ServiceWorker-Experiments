@@ -1,0 +1,13 @@
+{
+  "title": "Memory's Journey",
+  "image": "./img/memorys-journey.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target player shuffles up to three target cards from his or her graveyard into his or her library.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "66",
+  "artist": "Slawomir Maniak",
+  "rating": "4.185",
+  "votes": "73"
+}

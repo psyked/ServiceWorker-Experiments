@@ -1,0 +1,13 @@
+{
+  "title": "Sanguine Guard",
+  "image": "./img/sanguine-guard.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie Knight",
+  "text": "First strike: Regenerate Sanguine Guard.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Uncommon",
+  "cardNumber": "9",
+  "artist": "Kev Walker",
+  "rating": "3.897",
+  "votes": "39"
+}

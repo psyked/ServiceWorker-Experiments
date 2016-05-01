@@ -1,0 +1,13 @@
+{
+  "title": "Meteor Storm",
+  "image": "./img/meteor-storm.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": ", Discard two cards at random: Meteor Storm deals 4 damage to target creature or player.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "256",
+  "artist": "John Avon",
+  "rating": "1.929",
+  "votes": "42"
+}

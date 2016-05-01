@@ -1,0 +1,13 @@
+{
+  "title": "Sporemound",
+  "image": "./img/sporemound.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Fungus",
+  "text": "Whenever a land enters the battlefield under your control, put a 1/1 green Saproling creature token onto the battlefield.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "196",
+  "artist": "Svetlin Velinov",
+  "rating": "3.541",
+  "votes": "37"
+}

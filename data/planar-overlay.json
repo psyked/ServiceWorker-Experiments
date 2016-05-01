@@ -1,0 +1,13 @@
+{
+  "title": "Planar Overlay",
+  "image": "./img/planar-overlay.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Each player chooses a land he or she controls of each basic land type. Return those lands to their owners' hands.",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "28",
+  "artist": "Ron Walotsky",
+  "rating": "3.023",
+  "votes": "22"
+}

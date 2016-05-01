@@ -1,0 +1,13 @@
+{
+  "title": "Rush of Adrenaline",
+  "image": "./img/rush-ofadrenaline.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets +2/+1 and gains trample until end of turn.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "177",
+  "artist": "Chris Rallis",
+  "rating": "5",
+  "votes": "0"
+}

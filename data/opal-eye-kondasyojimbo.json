@@ -1,0 +1,13 @@
+{
+  "title": "Opal-Eye, Konda's Yojimbo",
+  "image": "./img/opal-eye-kondasyojimbo.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Creature  — Fox Samurai",
+  "text": "Defender (This creature can't attack.)Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.): The next time a source of your choice would deal damage this turn, that damage is dealt to Opal-Eye, Konda's Yojimbo instead.: Prevent the next 1 damage that would be dealt to Opal-Eye this turn.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "17",
+  "artist": "Greg Staples",
+  "rating": "3.791",
+  "votes": "43"
+}

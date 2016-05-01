@@ -1,0 +1,13 @@
+{
+  "title": "Volcano Hellion",
+  "image": "./img/volcano-hellion.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Hellion",
+  "text": "Volcano Hellion has echo , where X is your life total. (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)When Volcano Hellion enters the battlefield, it deals an amount of damage of your choice to you and target creature. The damage can't be prevented.",
+  "expansion": "Planar Chaos",
+  "rarity": "Rare",
+  "cardNumber": "111",
+  "artist": "Wayne Reynolds",
+  "rating": "4.115",
+  "votes": "74"
+}

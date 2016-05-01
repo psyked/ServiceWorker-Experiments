@@ -1,0 +1,13 @@
+{
+  "title": "Thoughtbound Primoc",
+  "image": "./img/thoughtbound-primoc.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Bird Beast",
+  "text": "FlyingAt the beginning of your upkeep, if a player controls more Wizards than each other player, the player who controls the most Wizards gains control of Thoughtbound Primoc.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "240",
+  "artist": "Jeff Miracola",
+  "rating": "2.158",
+  "votes": "19"
+}

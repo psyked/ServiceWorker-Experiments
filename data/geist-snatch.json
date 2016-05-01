@@ -1,0 +1,13 @@
+{
+  "title": "Geist Snatch",
+  "image": "./img/geist-snatch.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Counter target creature spell. Put a 1/1 blue Spirit creature token with flying onto the battlefield.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "55",
+  "artist": "Dan Scott",
+  "rating": "2.321",
+  "votes": "39"
+}

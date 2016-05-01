@@ -1,0 +1,13 @@
+{
+  "title": "Seedcradle Witch",
+  "image": "./img/seedcradle-witch.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Shaman",
+  "text": ": Target creature gets +3/+3 until end of turn. Untap that creature.",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "241",
+  "artist": "Steven Belledin",
+  "rating": "3.102",
+  "votes": "49"
+}

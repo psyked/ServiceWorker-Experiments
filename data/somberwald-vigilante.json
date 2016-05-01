@@ -1,0 +1,13 @@
+{
+  "title": "Somberwald Vigilante",
+  "image": "./img/somberwald-vigilante.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Warrior",
+  "text": "Whenever Somberwald Vigilante becomes blocked by a creature, Somberwald Vigilante deals 1 damage to that creature.",
+  "expansion": "Duel Decks: Heroes vs. Monsters",
+  "rarity": "Common",
+  "cardNumber": "2",
+  "artist": "John Stanko",
+  "rating": "3.083",
+  "votes": "12"
+}

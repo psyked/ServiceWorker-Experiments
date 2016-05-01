@@ -1,0 +1,13 @@
+{
+  "title": "Deprive",
+  "image": "./img/deprive.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "As an additional cost to cast Deprive, return a land you control to its owner's hand.Counter target spell.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "59",
+  "artist": "Izzy",
+  "rating": "4.042",
+  "votes": "155"
+}

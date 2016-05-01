@@ -1,0 +1,13 @@
+{
+  "title": "Cavern of Souls",
+  "image": "./img/cavern-ofsouls.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "As Cavern of Souls enters the battlefield, choose a creature type.: Add  to your mana pool.: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "226",
+  "artist": "Cliff Childs",
+  "rating": "4.305",
+  "votes": "236"
+}

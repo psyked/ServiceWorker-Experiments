@@ -1,0 +1,13 @@
+{
+  "title": "Meteor Crater",
+  "image": "./img/meteor-crater.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Choose a color of a permanent you control. Add one mana of that color to your mana pool.",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "140",
+  "artist": "John Avon",
+  "rating": "4.105",
+  "votes": "57"
+}

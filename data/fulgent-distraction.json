@@ -1,0 +1,13 @@
+{
+  "title": "Fulgent Distraction",
+  "image": "./img/fulgent-distraction.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose two target creatures. Tap those creatures, then unattach all Equipment from them.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "7",
+  "artist": "Nic Klein",
+  "rating": "1.650",
+  "votes": "50"
+}

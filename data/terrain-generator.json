@@ -1,0 +1,13 @@
+{
+  "title": "Terrain Generator",
+  "image": "./img/terrain-generator.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool., : You may put a basic land card from your hand onto the battlefield tapped.",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Uncommon",
+  "cardNumber": "29",
+  "artist": "Alan Pollack",
+  "rating": "5",
+  "votes": "0"
+}

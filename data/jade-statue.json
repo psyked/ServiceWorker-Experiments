@@ -1,0 +1,13 @@
+{
+  "title": "Jade Statue",
+  "image": "./img/jade-statue.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ": Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate this ability only during combat.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "300",
+  "artist": "Jim Pavelec",
+  "rating": "3.255",
+  "votes": "47"
+}

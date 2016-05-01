@@ -1,0 +1,13 @@
+{
+  "title": "Fangren Pathcutter",
+  "image": "./img/fangren-pathcutter.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Beast",
+  "text": "Whenever Fangren Pathcutter attacks, attacking creatures gain trample until end of turn.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "87",
+  "artist": "Rob Alexander",
+  "rating": "3.583",
+  "votes": "42"
+}

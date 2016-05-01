@@ -1,0 +1,13 @@
+{
+  "title": "Pendelhaven Elder",
+  "image": "./img/pendelhaven-elder.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Shaman",
+  "text": ": Each 1/1 creature you control gets +1/+2 until end of turn.",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "209",
+  "artist": "Pete Venters",
+  "rating": "3.692",
+  "votes": "39"
+}

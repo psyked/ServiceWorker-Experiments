@@ -1,0 +1,13 @@
+{
+  "title": "Ezuri's Brigade",
+  "image": "./img/ezuris-brigade.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elf Warrior",
+  "text": "Metalcraft — As long as you control three or more artifacts, Ezuri's Brigade gets +4/+4 and has trample.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "121",
+  "artist": "Nic Klein",
+  "rating": "3.973",
+  "votes": "129"
+}

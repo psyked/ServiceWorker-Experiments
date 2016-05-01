@@ -1,0 +1,13 @@
+{
+  "title": "Psionic Gift",
+  "image": "./img/psionic-gift.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has \": This creature deals 1 damage to target creature or player.\"",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "95",
+  "artist": "Orizio Daniele",
+  "rating": "3.838",
+  "votes": "34"
+}

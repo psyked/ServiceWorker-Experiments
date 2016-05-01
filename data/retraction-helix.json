@@ -1,0 +1,13 @@
+{
+  "title": "Retraction Helix",
+  "image": "./img/retraction-helix.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Until end of turn, target creature gains \": Return target nonland permanent to its owner's hand.\"",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "49",
+  "artist": "Phill Simmer",
+  "rating": "3.603",
+  "votes": "34"
+}

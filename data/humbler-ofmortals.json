@@ -1,0 +1,13 @@
+{
+  "title": "Humbler of Mortals",
+  "image": "./img/humbler-ofmortals.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment Creature  — Elemental",
+  "text": "Constellation — Whenever Humbler of Mortals or another enchantment enters the battlefield under your control, creatures you control gain trample until end of turn.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "127",
+  "artist": "Jason Felix",
+  "rating": "3.143",
+  "votes": "21"
+}

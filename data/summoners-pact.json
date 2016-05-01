@@ -1,0 +1,13 @@
+{
+  "title": "Summoner's Pact",
+  "image": "./img/summoners-pact.jpg",
+  "convertedManaCost": "0",
+  "types": "Instant",
+  "text": "Search your library for a green creature card, reveal it, and put it into your hand. Then shuffle your library.At the beginning of your next upkeep, pay . If you don't, you lose the game.",
+  "expansion": "Modern Masters",
+  "rarity": "Rare",
+  "cardNumber": "164",
+  "artist": "Chippy",
+  "rating": "4.500",
+  "votes": "37"
+}

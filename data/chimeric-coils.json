@@ -1,0 +1,13 @@
+{
+  "title": "Chimeric Coils",
+  "image": "./img/chimeric-coils.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ": Chimeric Coils becomes an X/X Construct artifact creature. Sacrifice it at the beginning of the next end step.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "108",
+  "artist": "Michael Sutfin",
+  "rating": "2.536",
+  "votes": "28"
+}

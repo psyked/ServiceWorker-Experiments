@@ -1,0 +1,13 @@
+{
+  "title": "Windrider Eel",
+  "image": "./img/windrider-eel.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Fish",
+  "text": "FlyingLandfall — Whenever a land enters the battlefield under your control, Windrider Eel gets +2/+2 until end of turn.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "78",
+  "artist": "Austin Hsu",
+  "rating": "3.549",
+  "votes": "61"
+}

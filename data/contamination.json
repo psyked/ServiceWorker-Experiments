@@ -1,0 +1,13 @@
+{
+  "title": "Contamination",
+  "image": "./img/contamination.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, sacrifice Contamination unless you sacrifice a creature.If a land is tapped for mana, it produces  instead of any other type and amount.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "123",
+  "artist": "Stephen Daniele",
+  "rating": "4.595",
+  "votes": "110"
+}

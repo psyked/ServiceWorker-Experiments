@@ -1,0 +1,13 @@
+{
+  "title": "Screams from Within",
+  "image": "./img/screams-fromwithin.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets -1/-1.When enchanted creature dies, return Screams from Within from your graveyard to the battlefield.",
+  "expansion": "Darksteel",
+  "rarity": "Uncommon",
+  "cardNumber": "52",
+  "artist": "Hugh Jamieson",
+  "rating": "4.149",
+  "votes": "37"
+}

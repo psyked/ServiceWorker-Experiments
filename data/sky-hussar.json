@@ -1,0 +1,13 @@
+{
+  "title": "Sky Hussar",
+  "image": "./img/sky-hussar.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Knight",
+  "text": "FlyingWhen Sky Hussar enters the battlefield, untap all creatures you control.Forecast — Tap two untapped white and/or blue creatures you control, Reveal Sky Hussar from your hand: Draw a card. (Activate this ability only during your upkeep and only once each turn.)",
+  "expansion": "Dissension",
+  "rarity": "Uncommon",
+  "cardNumber": "131",
+  "artist": "Kev Walker",
+  "rating": "4.107",
+  "votes": "70"
+}

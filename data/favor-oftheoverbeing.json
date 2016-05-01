@@ -1,0 +1,13 @@
+{
+  "title": "Favor of the Overbeing",
+  "image": "./img/favor-oftheoverbeing.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAs long as enchanted creature is green, it gets +1/+1 and has vigilance.As long as enchanted creature is blue, it gets +1/+1 and has flying.",
+  "expansion": "Eventide",
+  "rarity": "Common",
+  "cardNumber": "151",
+  "artist": "Chippy",
+  "rating": "3.602",
+  "votes": "64"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Circle of Protection: Art",
+  "image": "./img/circle-ofprotectionart.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "As Circle of Protection: Art comes into play, choose an artist.: The next time a source of your choice by the chosen artist would deal damage to you this turn, prevent that damage.: Return Circle of Protection: Art to its owner's hand.",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "6",
+  "artist": "Jim \"Stop the Da Vinci Beatdown\" Pavelec",
+  "rating": "2.250",
+  "votes": "24"
+}

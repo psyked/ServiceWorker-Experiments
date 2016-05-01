@@ -1,0 +1,13 @@
+{
+  "title": "Spined Sliver",
+  "image": "./img/spined-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Sliver",
+  "text": "Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "213",
+  "artist": "Ron Spencer",
+  "rating": "5",
+  "votes": "0"
+}

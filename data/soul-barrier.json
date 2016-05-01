@@ -1,0 +1,13 @@
+{
+  "title": "Soul Barrier",
+  "image": "./img/soul-barrier.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever an opponent casts a creature spell, Soul Barrier deals 2 damage to that player unless he or she pays .",
+  "expansion": "Fifth Edition",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Harold McNeill",
+  "rating": "4.102",
+  "votes": "44"
+}

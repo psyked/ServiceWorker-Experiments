@@ -1,0 +1,13 @@
+{
+  "title": "Luminescent Rain",
+  "image": "./img/luminescent-rain.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose a creature type. You gain 2 life for each permanent you control of that type.",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "129",
+  "artist": "John Avon",
+  "rating": "3.071",
+  "votes": "42"
+}

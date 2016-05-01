@@ -1,0 +1,13 @@
+{
+  "title": "Mind Twist",
+  "image": "./img/mind-twist.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Target player discards X cards at random.",
+  "expansion": "Masters Edition III",
+  "rarity": "Rare",
+  "cardNumber": "72",
+  "artist": "Julie Baroh",
+  "rating": "4.615",
+  "votes": "183"
+}

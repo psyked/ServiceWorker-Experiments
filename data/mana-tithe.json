@@ -1,0 +1,13 @@
+{
+  "title": "Mana Tithe",
+  "image": "./img/mana-tithe.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Counter target spell unless its controller pays .",
+  "expansion": "Planar Chaos",
+  "rarity": "Common",
+  "cardNumber": "25",
+  "artist": "Martina Pilcerova",
+  "rating": "4.255",
+  "votes": "110"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Terminate",
+  "image": "./img/terminate.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Destroy target creature. It can't be regenerated.",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Common",
+  "cardNumber": "64",
+  "artist": "Wayne Reynolds",
+  "rating": "4.272",
+  "votes": "57"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Wurmweaver Coil",
+  "image": "./img/wurmweaver-coil.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant green creatureEnchanted creature gets +6/+6., Sacrifice Wurmweaver Coil: Put a 6/6 green Wurm creature token onto the battlefield.",
+  "expansion": "Guildpact",
+  "rarity": "Rare",
+  "cardNumber": "99",
+  "artist": "Mitch Cotie",
+  "rating": "3.326",
+  "votes": "43"
+}

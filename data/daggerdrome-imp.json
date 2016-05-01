@@ -1,0 +1,13 @@
+{
+  "title": "Daggerdrome Imp",
+  "image": "./img/daggerdrome-imp.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Imp",
+  "text": "FlyingLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "60",
+  "artist": "Jack Wang",
+  "rating": "3.105",
+  "votes": "76"
+}

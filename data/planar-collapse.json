@@ -1,0 +1,13 @@
+{
+  "title": "Planar Collapse",
+  "image": "./img/planar-collapse.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, if there are four or more creatures on the battlefield, sacrifice Planar Collapse and destroy all creatures. They can't be regenerated.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Rare",
+  "cardNumber": "18",
+  "artist": "Mark Zug",
+  "rating": "3.986",
+  "votes": "36"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Forcemage Advocate",
+  "image": "./img/forcemage-advocate.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Centaur Shaman",
+  "text": ": Return target card from an opponent's graveyard to his or her hand. Put a +1/+1 counter on target creature.",
+  "expansion": "Judgment",
+  "rarity": "Uncommon",
+  "cardNumber": "116",
+  "artist": "Darrell Riche",
+  "rating": "2.562",
+  "votes": "24"
+}

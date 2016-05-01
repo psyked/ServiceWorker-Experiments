@@ -1,0 +1,13 @@
+{
+  "title": "Hymn to Tourach",
+  "image": "./img/hymn-totourach.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target player discards two cards at random.",
+  "expansion": "Vintage Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "122",
+  "artist": "Greg Staples",
+  "rating": "4.500",
+  "votes": "1"
+}

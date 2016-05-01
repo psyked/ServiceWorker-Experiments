@@ -1,0 +1,13 @@
+{
+  "title": "Titanic Bulvox",
+  "image": "./img/titanic-bulvox.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Beast",
+  "text": "TrampleMorph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Scourge",
+  "rarity": "Common",
+  "cardNumber": "129",
+  "artist": "Wayne England",
+  "rating": "2.577",
+  "votes": "26"
+}

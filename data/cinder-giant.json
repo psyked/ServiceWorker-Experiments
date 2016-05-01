@@ -1,0 +1,13 @@
+{
+  "title": "Cinder Giant",
+  "image": "./img/cinder-giant.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Giant",
+  "text": "At the beginning of your upkeep, Cinder Giant deals 2 damage to each other creature you control.",
+  "expansion": "Weatherlight",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Rogério Vilela",
+  "rating": "3.214",
+  "votes": "28"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Onyx Mage",
+  "image": "./img/onyx-mage.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": ": Target creature you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
+  "expansion": "Magic 2012",
+  "rarity": "Uncommon",
+  "cardNumber": "103",
+  "artist": "Izzy",
+  "rating": "3.922",
+  "votes": "64"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Shah of Naar Isle",
+  "image": "./img/shah-ofnaarisle.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Efreet",
+  "text": "TrampleEcho  (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)When Shah of Naar Isle's echo cost is paid, each opponent may draw up to three cards.",
+  "expansion": "Future Sight",
+  "rarity": "Rare",
+  "cardNumber": "119",
+  "artist": "Jon Foster",
+  "rating": "3.368",
+  "votes": "53"
+}

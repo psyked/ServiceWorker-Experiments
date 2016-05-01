@@ -1,0 +1,13 @@
+{
+  "title": "Gather the Pack",
+  "image": "./img/gather-thepack.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Reveal the top five cards of your library. You may put a creature card from among them into your hand. Put the rest into your graveyard.Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, put up to two creature cards from among the revealed cards into your hand instead of one.",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "178",
+  "artist": "Igor Kieryluk",
+  "rating": "5",
+  "votes": "0"
+}

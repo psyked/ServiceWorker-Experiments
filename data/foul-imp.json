@@ -1,0 +1,13 @@
+{
+  "title": "Foul Imp",
+  "image": "./img/foul-imp.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Imp",
+  "text": "FlyingWhen Foul Imp enters the battlefield, you lose 2 life.",
+  "expansion": "Duel Decks Anthology, Divine vs. Demonic",
+  "rarity": "Common",
+  "cardNumber": "32",
+  "artist": "Kev Walker",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Perish the Thought",
+  "image": "./img/perish-thethought.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target opponent reveals his or her hand. You choose a card from it. That player shuffles that card into his or her library.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "123",
+  "artist": "Austin Hsu",
+  "rating": "2.512",
+  "votes": "43"
+}

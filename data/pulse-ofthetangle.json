@@ -1,0 +1,13 @@
+{
+  "title": "Pulse of the Tangle",
+  "image": "./img/pulse-ofthetangle.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Put a 3/3 green Beast creature token onto the battlefield. Then if an opponent controls more creatures than you, return Pulse of the Tangle to its owner's hand.",
+  "expansion": "Darksteel",
+  "rarity": "Rare",
+  "cardNumber": "80",
+  "artist": "Wayne England",
+  "rating": "4.340",
+  "votes": "47"
+}

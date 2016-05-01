@@ -1,0 +1,13 @@
+{
+  "title": "Sandals of Abdallah",
+  "image": "./img/sandals-ofabdallah.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ", : Target creature gains islandwalk until end of turn. When that creature dies this turn, destroy Sandals of Abdallah. (A creature with islandwalk can't be blocked as long as defending player controls an Island.)",
+  "expansion": "Arabian Nights",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Dan Frazier",
+  "rating": "1.327",
+  "votes": "52"
+}

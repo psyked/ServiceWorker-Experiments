@@ -1,0 +1,13 @@
+{
+  "title": "Soul Parry",
+  "image": "./img/soul-parry.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Prevent all damage one or two target creatures would deal this turn.",
+  "expansion": "Duel Decks: Elspeth vs. Kiora",
+  "rarity": "Common",
+  "cardNumber": "24",
+  "artist": "Igor Kieryluk",
+  "rating": "5",
+  "votes": "0"
+}

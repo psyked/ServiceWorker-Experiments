@@ -1,0 +1,13 @@
+{
+  "title": "Multani's Presence",
+  "image": "./img/multanis-presence.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment",
+  "text": "Whenever a spell you've cast is countered, draw a card.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Uncommon",
+  "cardNumber": "109",
+  "artist": "Scott M. Fischer",
+  "rating": "3.730",
+  "votes": "37"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Charmbreaker Devils",
+  "image": "./img/charmbreaker-devils.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Devil",
+  "text": "At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand.Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/+0 until end of turn.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "145",
+  "artist": "Dan Scott",
+  "rating": "5",
+  "votes": "0"
+}

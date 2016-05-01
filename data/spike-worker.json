@@ -1,0 +1,13 @@
+{
+  "title": "Spike Worker",
+  "image": "./img/spike-worker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spike",
+  "text": "Spike Worker enters the battlefield with two +1/+1 counters on it., Remove a +1/+1 counter from Spike Worker: Put a +1/+1 counter on target creature.",
+  "expansion": "Battle Royale Box Set",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Daniel Gelon",
+  "rating": "3.283",
+  "votes": "23"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Leonin Sun Standard",
+  "image": "./img/leonin-sunstandard.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ": Creatures you control get +1/+1 until end of turn.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "194",
+  "artist": "Jim Nelson",
+  "rating": "4.127",
+  "votes": "51"
+}

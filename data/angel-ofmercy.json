@@ -1,0 +1,13 @@
+{
+  "title": "Angel of Mercy",
+  "image": "./img/angel-ofmercy.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Angel",
+  "text": "FlyingWhen Angel of Mercy enters the battlefield, you gain 3 life.",
+  "expansion": "Duel Decks Anthology, Divine vs. Demonic",
+  "rarity": "Uncommon",
+  "cardNumber": "9",
+  "artist": "Volkan Baga",
+  "rating": "5",
+  "votes": "0"
+}

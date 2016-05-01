@@ -1,0 +1,13 @@
+{
+  "title": "Might of Old Krosa",
+  "image": "./img/might-ofoldkrosa.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets +2/+2 until end of turn. If you cast this spell during your main phase, that creature gets +4/+4 until end of turn instead.",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "204",
+  "artist": "Una Fricker",
+  "rating": "4.134",
+  "votes": "56"
+}

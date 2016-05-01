@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Light",
+  "image": "./img/wall-oflight.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)Protection from black",
+  "expansion": "Masters Edition III",
+  "rarity": "Common",
+  "cardNumber": "27",
+  "artist": "Richard Thomas",
+  "rating": "3.021",
+  "votes": "24"
+}

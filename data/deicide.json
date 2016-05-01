@@ -1,0 +1,13 @@
+{
+  "title": "Deicide",
+  "image": "./img/deicide.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Exile target enchantment. If the exiled card is a God card, search its controller's graveyard, hand, and library for any number of cards with the same name as that card and exile them, then that player shuffles his or her library.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Rare",
+  "cardNumber": "7",
+  "artist": "Jason Chan",
+  "rating": "3.278",
+  "votes": "54"
+}

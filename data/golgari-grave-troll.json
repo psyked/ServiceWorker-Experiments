@@ -1,0 +1,13 @@
+{
+  "title": "Golgari Grave-Troll",
+  "image": "./img/golgari-grave-troll.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Troll Skeleton",
+  "text": "Golgari Grave-Troll enters the battlefield with a +1/+1 counter on it for each creature card in your graveyard., Remove a +1/+1 counter from Golgari Grave-Troll: Regenerate Golgari Grave-Troll.Dredge 6 (If you would draw a card, instead you may put exactly six cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Rare",
+  "cardNumber": "60",
+  "artist": "Greg Hildebrandt",
+  "rating": "4.577",
+  "votes": "71"
+}

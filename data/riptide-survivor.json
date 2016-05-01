@@ -1,0 +1,13 @@
+{
+  "title": "Riptide Survivor",
+  "image": "./img/riptide-survivor.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)When Riptide Survivor is turned face up, discard two cards, then draw three cards.",
+  "expansion": "Commander 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "121",
+  "artist": "Thomas M. Baxa",
+  "rating": "5",
+  "votes": "0"
+}

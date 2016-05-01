@@ -1,0 +1,13 @@
+{
+  "title": "Hedge Troll",
+  "image": "./img/hedge-troll.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Troll Cleric",
+  "text": "Hedge Troll gets +1/+1 as long as you control a Plains.: Regenerate Hedge Troll.",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "151",
+  "artist": "Parente",
+  "rating": "4.108",
+  "votes": "65"
+}

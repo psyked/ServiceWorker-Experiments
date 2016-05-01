@@ -1,0 +1,13 @@
+{
+  "title": "Kalitas, Traitor of Ghet",
+  "image": "./img/kalitas-traitorofghet.jpg",
+  "convertedManaCost": "4",
+  "types": "Legendary Creature  — Vampire Warrior",
+  "text": "LifelinkIf a nontoken creature an opponent controls would die, instead exile that card and put a 2/2 black Zombie creature token onto the battlefield., Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas, Traitor of Ghet.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Mythic Rare",
+  "cardNumber": "86",
+  "artist": "Todd Lockwood",
+  "rating": "5",
+  "votes": "0"
+}

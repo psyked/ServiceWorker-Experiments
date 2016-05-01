@@ -1,0 +1,13 @@
+{
+  "title": "Thunderous Might",
+  "image": "./img/thunderous-might.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature attacks, it gets +X/+0 until end of turn, where X is your devotion to red. (Each  in the mana costs of permanents you control counts toward your devotion to red.)",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "114",
+  "artist": "Jaime Jones",
+  "rating": "3.660",
+  "votes": "25"
+}

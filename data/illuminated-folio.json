@@ -1,0 +1,13 @@
+{
+  "title": "Illuminated Folio",
+  "image": "./img/illuminated-folio.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": ", , Reveal two cards from your hand that share a color: Draw a card.",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "254",
+  "artist": "Jim Pavelec",
+  "rating": "2.284",
+  "votes": "37"
+}

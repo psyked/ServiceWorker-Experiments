@@ -1,0 +1,13 @@
+{
+  "title": "Elder Spawn",
+  "image": "./img/elder-spawn.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Spawn",
+  "text": "At the beginning of your upkeep, unless you sacrifice an Island, sacrifice Elder Spawn and it deals 6 damage to you.Elder Spawn can't be blocked by red creatures.",
+  "expansion": "Legends",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Jesper Myrfors",
+  "rating": "1.370",
+  "votes": "46"
+}

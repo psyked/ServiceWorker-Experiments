@@ -1,0 +1,13 @@
+{
+  "title": "Library of Alexandria",
+  "image": "./img/library-ofalexandria.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool.: Draw a card. Activate this ability only if you have exactly seven cards in hand.",
+  "expansion": "Vintage Masters",
+  "rarity": "Mythic Rare",
+  "cardNumber": "303",
+  "artist": "Drew Baker",
+  "rating": "4.500",
+  "votes": "1"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sheltering Word",
+  "image": "./img/sheltering-word.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature you control gains hexproof until end of turn. You gain life equal to that creature's toughness. (A creature with hexproof can't be the target of spells or abilities your opponents control.)",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "192",
+  "artist": "Igor Kieryluk",
+  "rating": "3.390",
+  "votes": "50"
+}

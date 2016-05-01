@@ -1,0 +1,13 @@
+{
+  "title": "Kuro, Pitlord",
+  "image": "./img/kuro-pitlord.jpg",
+  "convertedManaCost": "9",
+  "types": "Legendary Creature  — Demon Spirit",
+  "text": "At the beginning of your upkeep, sacrifice Kuro, Pitlord unless you pay .Pay 1 life: Target creature gets -1/-1 until end of turn.",
+  "expansion": "Duel Decks Anthology, Divine vs. Demonic",
+  "rarity": "Rare",
+  "cardNumber": "44",
+  "artist": "Jon Foster",
+  "rating": "5",
+  "votes": "0"
+}

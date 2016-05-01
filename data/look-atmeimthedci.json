@@ -1,0 +1,13 @@
+{
+  "title": "Look at Me, I'm the DCI",
+  "image": "./img/look-atmeimthedci.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "Ban one card, other than a basic land, for the remainder of the match. (For the remainder of the match, each player removes from the game all copies of that card in play or in any graveyard, hand, library, or sideboard.)",
+  "expansion": "Unglued",
+  "rarity": "Rare",
+  "cardNumber": "8",
+  "artist": "Mark Rosewater",
+  "rating": "4.321",
+  "votes": "56"
+}

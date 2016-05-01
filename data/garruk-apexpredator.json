@@ -1,0 +1,13 @@
+{
+  "title": "Garruk, Apex Predator",
+  "image": "./img/garruk-apexpredator.jpg",
+  "convertedManaCost": "7",
+  "types": "Planeswalker  — Garruk",
+  "text": "+1: Destroy another target planeswalker.+1: Put a 3/3 black Beast creature token with deathtouch onto the battlefield.−3: Destroy target creature. You gain life equal to its toughness.−8: Target opponent gets an emblem with \"Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.\"",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Mythic Rare",
+  "cardNumber": "210",
+  "artist": "Tyler Jacobson",
+  "rating": "4.125",
+  "votes": "16"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Yasova Dragonclaw",
+  "image": "./img/yasova-dragonclaw.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Creature  — Human Warrior",
+  "text": "TrampleAt the beginning of combat on your turn, you may pay . If you do, gain control of target creature an opponent controls with power less than Yasova Dragonclaw's power until end of turn, untap that creature, and it gains haste until end of turn.",
+  "expansion": "Fate Reforged",
+  "rarity": "Rare",
+  "cardNumber": "148",
+  "artist": "Winona Nelson",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Invisibility",
+  "image": "./img/invisibility.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature can't be blocked except by Walls.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "61",
+  "artist": "Pete Venters",
+  "rating": "2.100",
+  "votes": "5"
+}

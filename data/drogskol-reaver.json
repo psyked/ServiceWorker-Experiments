@@ -1,0 +1,13 @@
+{
+  "title": "Drogskol Reaver",
+  "image": "./img/drogskol-reaver.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Spirit",
+  "text": "Flying, double strike, lifelinkWhenever you gain life, draw a card.",
+  "expansion": "Dark Ascension",
+  "rarity": "Mythic Rare",
+  "cardNumber": "137",
+  "artist": "Vincent Proce",
+  "rating": "3.859",
+  "votes": "167"
+}

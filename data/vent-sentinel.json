@@ -1,0 +1,13 @@
+{
+  "title": "Vent Sentinel",
+  "image": "./img/vent-sentinel.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elemental",
+  "text": "Defender, : Vent Sentinel deals damage to target player equal to the number of creatures with defender you control.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "156",
+  "artist": "Chris Rahn",
+  "rating": "3.500",
+  "votes": "5"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Forget",
+  "image": "./img/forget.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target player discards two cards, then draws as many cards as he or she discarded this way.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Rare",
+  "cardNumber": "70",
+  "artist": "Mike Kimble",
+  "rating": "3.216",
+  "votes": "37"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Keeper of the Lens",
+  "image": "./img/keeper-ofthelens.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact Creature  — Golem",
+  "text": "You may look at face-down creatures you don't control. (You may do this at any time.)",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "240",
+  "artist": "Ryan Barger",
+  "rating": "5",
+  "votes": "0"
+}

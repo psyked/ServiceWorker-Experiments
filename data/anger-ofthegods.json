@@ -1,0 +1,13 @@
+{
+  "title": "Anger of the Gods",
+  "image": "./img/anger-ofthegods.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Anger of the Gods deals 3 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "112",
+  "artist": "Noah Bradley",
+  "rating": "3.670",
+  "votes": "106"
+}

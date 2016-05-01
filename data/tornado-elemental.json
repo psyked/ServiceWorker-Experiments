@@ -1,0 +1,13 @@
+{
+  "title": "Tornado Elemental",
+  "image": "./img/tornado-elemental.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Elemental",
+  "text": "When Tornado Elemental enters the battlefield, it deals 6 damage to each creature with flying.You may have Tornado Elemental assign its combat damage as though it weren't blocked.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "222",
+  "artist": "Richard Wright",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Hixus, Prison Warden",
+  "image": "./img/hixus-prisonwarden.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Human Soldier",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)Whenever a creature deals combat damage to you, if Hixus, Prison Warden entered the battlefield this turn, exile that creature until Hixus leaves the battlefield. (That creature returns under its owner's control.)",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "19",
+  "artist": "Chris Rallis",
+  "rating": "5",
+  "votes": "0"
+}

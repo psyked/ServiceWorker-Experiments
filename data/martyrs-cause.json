@@ -1,0 +1,13 @@
+{
+  "title": "Martyr's Cause",
+  "image": "./img/martyrs-cause.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Sacrifice a creature: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Uncommon",
+  "cardNumber": "13",
+  "artist": "Jeff Laubenstein",
+  "rating": "3.719",
+  "votes": "32"
+}

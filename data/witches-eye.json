@@ -1,0 +1,13 @@
+{
+  "title": "Witches' Eye",
+  "image": "./img/witches-eye.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature has \", : Scry 1.\" (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)Equip",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "222",
+  "artist": "Daniel Ljunggren",
+  "rating": "2.645",
+  "votes": "38"
+}

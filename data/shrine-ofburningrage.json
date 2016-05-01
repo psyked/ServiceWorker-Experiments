@@ -1,0 +1,13 @@
+{
+  "title": "Shrine of Burning Rage",
+  "image": "./img/shrine-ofburningrage.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep or whenever you cast a red spell, put a charge counter on Shrine of Burning Rage., , Sacrifice Shrine of Burning Rage: Shrine of Burning Rage deals damage equal to the number of charge counters on it to target creature or player.",
+  "expansion": "New Phyrexia",
+  "rarity": "Uncommon",
+  "cardNumber": "153",
+  "artist": "Dave Kendall",
+  "rating": "3.742",
+  "votes": "122"
+}

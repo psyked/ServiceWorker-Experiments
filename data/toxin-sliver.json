@@ -1,0 +1,13 @@
+{
+  "title": "Toxin Sliver",
+  "image": "./img/toxin-sliver.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Sliver",
+  "text": "Whenever a Sliver deals combat damage to a creature, destroy that creature. It can't be regenerated.",
+  "expansion": "Legions",
+  "rarity": "Rare",
+  "cardNumber": "84",
+  "artist": "Lars Grant-West",
+  "rating": "3.940",
+  "votes": "67"
+}

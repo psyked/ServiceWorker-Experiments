@@ -1,0 +1,13 @@
+{
+  "title": "Viridian Emissary",
+  "image": "./img/viridian-emissary.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Scout",
+  "text": "When Viridian Emissary dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
+  "expansion": "Commander 2015",
+  "rarity": "Common",
+  "cardNumber": "208",
+  "artist": "Matt Stewart",
+  "rating": "5",
+  "votes": "0"
+}

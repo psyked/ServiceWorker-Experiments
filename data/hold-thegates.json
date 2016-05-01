@@ -1,0 +1,13 @@
+{
+  "title": "Hold the Gates",
+  "image": "./img/hold-thegates.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Creatures you control get +0/+1 for each Gate you control and have vigilance.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "16",
+  "artist": "Zoltan Boros",
+  "rating": "2.948",
+  "votes": "67"
+}

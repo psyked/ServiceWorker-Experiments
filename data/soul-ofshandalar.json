@@ -1,0 +1,13 @@
+{
+  "title": "Soul of Shandalar",
+  "image": "./img/soul-ofshandalar.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Avatar",
+  "text": "First strike: Soul of Shandalar deals 3 damage to target player and 3 damage to up to one target creature that player controls., Exile Soul of Shandalar from your graveyard: Soul of Shandalar deals 3 damage to target player and 3 damage to up to one target creature that player controls.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Mythic Rare",
+  "cardNumber": "163",
+  "artist": "Raymond Swanland",
+  "rating": "3.708",
+  "votes": "12"
+}

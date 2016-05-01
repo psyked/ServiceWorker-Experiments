@@ -1,0 +1,13 @@
+{
+  "title": "Humble the Brute",
+  "image": "./img/humble-thebrute.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Destroy target creature with power 4 or greater.Investigate. (Put a colorless Clue artifact token onto the battlefield with \", Sacrifice this artifact: Draw a card.\")",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "23",
+  "artist": "Daarken",
+  "rating": "5",
+  "votes": "0"
+}

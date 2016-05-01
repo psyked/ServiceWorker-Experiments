@@ -1,0 +1,13 @@
+{
+  "title": "Tidehollow Sculler",
+  "image": "./img/tidehollow-sculler.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Zombie",
+  "text": "When Tidehollow Sculler enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.When Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand.",
+  "expansion": "Modern Event Deck 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "2",
+  "artist": "rk post",
+  "rating": "4.500",
+  "votes": "10"
+}

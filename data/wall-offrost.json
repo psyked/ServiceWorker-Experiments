@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Frost",
+  "image": "./img/wall-offrost.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)Whenever Wall of Frost blocks a creature, that creature doesn't untap during its controller's next untap step.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "83",
+  "artist": "Mike Bierek",
+  "rating": "3.214",
+  "votes": "7"
+}

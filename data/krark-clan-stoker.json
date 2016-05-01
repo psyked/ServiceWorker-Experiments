@@ -1,0 +1,13 @@
+{
+  "title": "Krark-Clan Stoker",
+  "image": "./img/krark-clan-stoker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Shaman",
+  "text": ", Sacrifice an artifact: Add  to your mana pool.",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "65",
+  "artist": "Pete Venters",
+  "rating": "3.071",
+  "votes": "28"
+}

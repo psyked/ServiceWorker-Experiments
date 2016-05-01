@@ -1,0 +1,13 @@
+{
+  "title": "Jodah's Avenger",
+  "image": "./img/jodahs-avenger.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Shapeshifter",
+  "text": ": Until end of turn, Jodah's Avenger gets -1/-1 and gains your choice of double strike, protection from red, vigilance, or shadow. (A creature with shadow can block or be blocked by only creatures with shadow.)",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "42",
+  "artist": "Pete Venters",
+  "rating": "3.720",
+  "votes": "75"
+}

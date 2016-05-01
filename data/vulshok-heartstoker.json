@@ -1,0 +1,13 @@
+{
+  "title": "Vulshok Heartstoker",
+  "image": "./img/vulshok-heartstoker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Shaman",
+  "text": "When Vulshok Heartstoker enters the battlefield, target creature gets +2/+0 until end of turn.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "107",
+  "artist": "Shelly Wan",
+  "rating": "2.339",
+  "votes": "56"
+}

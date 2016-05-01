@@ -1,0 +1,13 @@
+{
+  "title": "Training Drone",
+  "image": "./img/training-drone.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Drone",
+  "text": "Training Drone can't attack or block unless it's equipped.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "142",
+  "artist": "Matt Cavotta",
+  "rating": "2.653",
+  "votes": "49"
+}

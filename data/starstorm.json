@@ -1,0 +1,13 @@
+{
+  "title": "Starstorm",
+  "image": "./img/starstorm.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Starstorm deals X damage to each creature.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "182",
+  "artist": "Jonas De Ro",
+  "rating": "5",
+  "votes": "0"
+}

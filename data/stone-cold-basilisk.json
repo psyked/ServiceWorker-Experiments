@@ -1,0 +1,13 @@
+{
+  "title": "Stone-Cold Basilisk",
+  "image": "./img/stone-cold-basilisk.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature — Basilisk",
+  "text": "Whenever Stone-Cold Basilisk blocks or becomes blocked by a creature with fewer letters in its name, destroy that creature at end of combat. (Punctuation and spaces aren't letters.)Whenever an opponent reads Stone-Cold Basilisk, that player is turned to stone until end of turn. Stoned players can't attack, block, or play spells or abilities.",
+  "expansion": "Unhinged",
+  "rarity": "Uncommon",
+  "cardNumber": "112",
+  "artist": "Don Hazeltine",
+  "rating": "4.409",
+  "votes": "33"
+}

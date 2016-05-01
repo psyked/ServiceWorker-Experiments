@@ -1,0 +1,13 @@
+{
+  "title": "Avenger of Zendikar",
+  "image": "./img/avenger-ofzendikar.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Elemental",
+  "text": "When Avenger of Zendikar enters the battlefield, put a 0/1 green Plant creature token onto the battlefield for each land you control.Landfall — Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Mythic Rare",
+  "cardNumber": "1",
+  "artist": "Aleksi Briclot",
+  "rating": "5",
+  "votes": "0"
+}

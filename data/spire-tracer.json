@@ -1,0 +1,13 @@
+{
+  "title": "Spire Tracer",
+  "image": "./img/spire-tracer.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Scout",
+  "text": "Spire Tracer can't be blocked except by creatures with flying or reach.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "135",
+  "artist": "Christopher Moeller",
+  "rating": "3.186",
+  "votes": "59"
+}

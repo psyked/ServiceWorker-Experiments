@@ -1,0 +1,13 @@
+{
+  "title": "Skeletal Scrying",
+  "image": "./img/skeletal-scrying.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "As an additional cost to cast Skeletal Scrying, exile X cards from your graveyard.You draw X cards and you lose X life.",
+  "expansion": "Commander 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "162",
+  "artist": "Bob Petillo",
+  "rating": "5",
+  "votes": "0"
+}

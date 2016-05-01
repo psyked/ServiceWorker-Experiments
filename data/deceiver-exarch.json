@@ -1,0 +1,13 @@
+{
+  "title": "Deceiver Exarch",
+  "image": "./img/deceiver-exarch.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Cleric",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)When Deceiver Exarch enters the battlefield, choose one —• Untap target permanent you control.• Tap target permanent an opponent controls.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "37",
+  "artist": "Izzy",
+  "rating": "3.643",
+  "votes": "14"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Touch of Moonglove",
+  "image": "./img/touch-ofmoonglove.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature you control gets +1/+0 and gains deathtouch until end of turn. Whenever a creature dealt damage by that creature dies this turn, its controller loses 2 life. (Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "123",
+  "artist": "Scott Murphy",
+  "rating": "5",
+  "votes": "0"
+}

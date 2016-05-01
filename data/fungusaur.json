@@ -1,0 +1,13 @@
+{
+  "title": "Fungusaur",
+  "image": "./img/fungusaur.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Fungus Lizard",
+  "text": "Whenever Fungusaur is dealt damage, put a +1/+1 counter on it.",
+  "expansion": "Eighth Edition",
+  "rarity": "Rare",
+  "cardNumber": "250",
+  "artist": "Heather Hudson",
+  "rating": "3.755",
+  "votes": "51"
+}

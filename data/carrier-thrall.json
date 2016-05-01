@@ -1,0 +1,13 @@
+{
+  "title": "Carrier Thrall",
+  "image": "./img/carrier-thrall.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Vampire",
+  "text": "When Carrier Thrall dies, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has \"Sacrifice this creature: Add  to your mana pool.\"",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "106",
+  "artist": "Lius Lasahido",
+  "rating": "5",
+  "votes": "0"
+}

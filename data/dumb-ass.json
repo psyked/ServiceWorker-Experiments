@@ -1,0 +1,13 @@
+{
+  "title": "Dumb Ass",
+  "image": "./img/dumb-ass.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature — Donkey Barbarian",
+  "text": "At the beginning of your upkeep, flip a coin. If you lose the flip, target opponent chooses whether Dumb Ass attacks this turn.",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "75",
+  "artist": "Bradley Williams",
+  "rating": "3.167",
+  "votes": "24"
+}

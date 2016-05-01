@@ -1,0 +1,13 @@
+{
+  "title": "Branded Brawlers",
+  "image": "./img/branded-brawlers.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Soldier",
+  "text": "Branded Brawlers can't attack if defending player controls an untapped land.Branded Brawlers can't block if you control an untapped land.",
+  "expansion": "Prophecy",
+  "rarity": "Common",
+  "cardNumber": "84",
+  "artist": "Scott M. Fischer",
+  "rating": "1.605",
+  "votes": "43"
+}

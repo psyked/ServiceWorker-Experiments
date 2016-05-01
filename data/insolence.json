@@ -1,0 +1,13 @@
+{
+  "title": "Insolence",
+  "image": "./img/insolence.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature becomes tapped, Insolence deals 2 damage to that creature's controller.",
+  "expansion": "Planeshift",
+  "rarity": "Common",
+  "cardNumber": "63",
+  "artist": "Carl Critchlow",
+  "rating": "2.357",
+  "votes": "28"
+}

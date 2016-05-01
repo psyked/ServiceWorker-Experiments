@@ -1,0 +1,13 @@
+{
+  "title": "Root Out",
+  "image": "./img/root-out.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Destroy target artifact or enchantment.Investigate. (Put a colorless Clue artifact token onto the battlefield with \", Sacrifice this artifact: Draw a card.\")",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "224",
+  "artist": "Daniel Ljunggren",
+  "rating": "5",
+  "votes": "0"
+}

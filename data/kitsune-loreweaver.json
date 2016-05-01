@@ -1,0 +1,13 @@
+{
+  "title": "Kitsune Loreweaver",
+  "image": "./img/kitsune-loreweaver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Fox Cleric",
+  "text": ": Kitsune Loreweaver gets +0/+X until end of turn, where X is the number of cards in your hand.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "17",
+  "artist": "Eric Polak",
+  "rating": "2.571",
+  "votes": "28"
+}

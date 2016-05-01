@@ -1,0 +1,13 @@
+{
+  "title": "Tidal Warrior",
+  "image": "./img/tidal-warrior.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Merfolk Warrior",
+  "text": ": Target land becomes an Island until end of turn.",
+  "expansion": "Stronghold",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Daren Bader",
+  "rating": "3.433",
+  "votes": "45"
+}

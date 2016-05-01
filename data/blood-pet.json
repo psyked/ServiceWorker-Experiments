@@ -1,0 +1,13 @@
+{
+  "title": "Blood Pet",
+  "image": "./img/blood-pet.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Thrull",
+  "text": "Sacrifice Blood Pet: Add  to your mana pool.",
+  "expansion": "Seventh Edition",
+  "rarity": "Common",
+  "cardNumber": "121",
+  "artist": "Heather Hudson",
+  "rating": "3.774",
+  "votes": "53"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Flamestick Courier",
+  "image": "./img/flamestick-courier.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin",
+  "text": "You may choose not to untap Flamestick Courier during your untap step., : Target Goblin creature gets +2/+2 and has haste for as long as Flamestick Courier remains tapped.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "203",
+  "artist": "Luca Zontini",
+  "rating": "2.826",
+  "votes": "23"
+}

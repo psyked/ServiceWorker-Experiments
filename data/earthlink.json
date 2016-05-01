@@ -1,0 +1,13 @@
+{
+  "title": "Earthlink",
+  "image": "./img/earthlink.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, sacrifice Earthlink unless you pay .Whenever a creature dies, that creature's controller sacrifices a land.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "192",
+  "artist": "Richard Kane Ferguson",
+  "rating": "3.354",
+  "votes": "24"
+}

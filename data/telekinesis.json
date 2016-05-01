@@ -1,0 +1,13 @@
+{
+  "title": "Telekinesis",
+  "image": "./img/telekinesis.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Tap target creature. Prevent all combat damage that would be dealt by that creature this turn. It doesn't untap during its controller's next two untap steps.",
+  "expansion": "Masters Edition",
+  "rarity": "Common",
+  "cardNumber": "52",
+  "artist": "Daniel Gelon",
+  "rating": "3.816",
+  "votes": "38"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Frost Raptor",
+  "image": "./img/frost-raptor.jpg",
+  "convertedManaCost": "3",
+  "types": "Snow Creature  — Bird",
+  "text": "Flying: Frost Raptor gains shroud until end of turn. ( can be paid with one mana from a snow permanent. A creature with shroud can't be the target of spells or abilities.)",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "34",
+  "artist": "Lars Grant-West",
+  "rating": "3.012",
+  "votes": "42"
+}

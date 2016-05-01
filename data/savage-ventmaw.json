@@ -1,0 +1,13 @@
+{
+  "title": "Savage Ventmaw",
+  "image": "./img/savage-ventmaw.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhenever Savage Ventmaw attacks, add  to your mana pool. Until end of turn, this mana doesn't empty from your mana pool as steps and phases end.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "231",
+  "artist": "Slawomir Maniak",
+  "rating": "5",
+  "votes": "0"
+}

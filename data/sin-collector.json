@@ -1,0 +1,13 @@
+{
+  "title": "Sin Collector",
+  "image": "./img/sin-collector.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": "When Sin Collector enters the battlefield, target opponent reveals his or her hand. You choose an instant or sorcery card from it and exile that card.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Uncommon",
+  "cardNumber": "103",
+  "artist": "Mike Bierek",
+  "rating": "4.320",
+  "votes": "64"
+}

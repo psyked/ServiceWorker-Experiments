@@ -1,0 +1,13 @@
+{
+  "title": "Plague Wind",
+  "image": "./img/plague-wind.jpg",
+  "convertedManaCost": "9",
+  "types": "Sorcery",
+  "text": "Destroy all creatures you don't control. They can't be regenerated.",
+  "expansion": "Tenth Edition",
+  "rarity": "Rare",
+  "cardNumber": "169",
+  "artist": "Alan Pollack",
+  "rating": "4.282",
+  "votes": "110"
+}

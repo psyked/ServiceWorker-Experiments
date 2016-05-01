@@ -1,0 +1,13 @@
+{
+  "title": "Teferi's Response",
+  "image": "./img/teferis-response.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Counter target spell or ability an opponent controls that targets a land you control. If a permanent's ability is countered this way, destroy that permanent.Draw two cards.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "78",
+  "artist": "Scott Bailey",
+  "rating": "4.154",
+  "votes": "65"
+}

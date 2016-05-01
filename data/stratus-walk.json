@@ -1,0 +1,13 @@
+{
+  "title": "Stratus Walk",
+  "image": "./img/stratus-walk.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Stratus Walk enters the battlefield, draw a card.Enchanted creature has flying. (It can't be blocked except by creatures with flying or reach.)Enchanted creature can block only creatures with flying.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "77",
+  "artist": "Aaron Miller",
+  "rating": "5",
+  "votes": "0"
+}

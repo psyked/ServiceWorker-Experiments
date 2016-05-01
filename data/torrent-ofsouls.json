@@ -1,0 +1,13 @@
+{
+  "title": "Torrent of Souls",
+  "image": "./img/torrent-ofsouls.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Return up to one target creature card from your graveyard to the battlefield if  was spent to cast Torrent of Souls. Creatures target player controls get +2/+0 and gain haste until end of turn if  was spent to cast Torrent of Souls. (Do both if  was spent.)",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Uncommon",
+  "cardNumber": "71",
+  "artist": "Ian Edward Ameling",
+  "rating": "3.425",
+  "votes": "20"
+}

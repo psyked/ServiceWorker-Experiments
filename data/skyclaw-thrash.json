@@ -1,0 +1,13 @@
+{
+  "title": "Skyclaw Thrash",
+  "image": "./img/skyclaw-thrash.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Viashino Warrior",
+  "text": "Whenever Skyclaw Thrash attacks, flip a coin. If you win the flip, Skyclaw Thrash gets +1/+1 and gains flying until end of turn.",
+  "expansion": "Alara Reborn",
+  "rarity": "Uncommon",
+  "cardNumber": "89",
+  "artist": "Jaime Jones",
+  "rating": "2.754",
+  "votes": "63"
+}

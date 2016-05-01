@@ -1,0 +1,13 @@
+{
+  "title": "Clergy of the Holy Nimbus",
+  "image": "./img/clergy-oftheholynimbus.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": "If Clergy of the Holy Nimbus would be destroyed, regenerate it.: Clergy of the Holy Nimbus can't be regenerated this turn. Only any opponent may activate this ability.",
+  "expansion": "Legends",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Daniel Gelon",
+  "rating": "2.990",
+  "votes": "48"
+}

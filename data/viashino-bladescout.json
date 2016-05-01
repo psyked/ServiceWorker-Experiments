@@ -1,0 +1,13 @@
+{
+  "title": "Viashino Bladescout",
+  "image": "./img/viashino-bladescout.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Viashino Scout",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)When Viashino Bladescout enters the battlefield, target creature gains first strike until end of turn.",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "185",
+  "artist": "Dany Orizio",
+  "rating": "2.793",
+  "votes": "29"
+}

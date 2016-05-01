@@ -1,0 +1,13 @@
+{
+  "title": "Quirion Ranger",
+  "image": "./img/quirion-ranger.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf",
+  "text": "Return a Forest you control to its owner's hand: Untap target creature. Activate this ability only once each turn.",
+  "expansion": "Visions",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Tom Kyffin",
+  "rating": "4.507",
+  "votes": "68"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Portent",
+  "image": "./img/portent.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle his or her library.Draw a card at the beginning of the next turn's upkeep.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "60",
+  "artist": "Liz Danforth",
+  "rating": "4.344",
+  "votes": "61"
+}

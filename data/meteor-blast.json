@@ -1,0 +1,13 @@
+{
+  "title": "Meteor Blast",
+  "image": "./img/meteor-blast.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Meteor Blast deals 4 damage to each of X target creatures and/or players.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "28",
+  "artist": "Mike Sass",
+  "rating": "5",
+  "votes": "0"
+}

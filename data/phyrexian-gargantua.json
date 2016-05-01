@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Gargantua",
+  "image": "./img/phyrexian-gargantua.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Horror",
+  "text": "When Phyrexian Gargantua enters the battlefield, you draw two cards and you lose 2 life.",
+  "expansion": "Commander 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "154",
+  "artist": "Igor Kieryluk",
+  "rating": "5",
+  "votes": "0"
+}

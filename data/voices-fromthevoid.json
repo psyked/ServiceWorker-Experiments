@@ -1,0 +1,13 @@
+{
+  "title": "Voices from the Void",
+  "image": "./img/voices-fromthevoid.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Domain — Target player discards a card for each basic land type among lands you control.",
+  "expansion": "Conflux",
+  "rarity": "Uncommon",
+  "cardNumber": "55",
+  "artist": "rk post",
+  "rating": "1.582",
+  "votes": "55"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Flame Rift",
+  "image": "./img/flame-rift.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Flame Rift deals 4 damage to each player.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "80",
+  "artist": "Ben Thompson",
+  "rating": "4.150",
+  "votes": "50"
+}

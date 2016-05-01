@@ -1,0 +1,13 @@
+{
+  "title": "Warthog",
+  "image": "./img/warthog.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Boar",
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "267",
+  "artist": "Steve White",
+  "rating": "3.565",
+  "votes": "31"
+}

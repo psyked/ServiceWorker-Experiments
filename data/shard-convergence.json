@@ -1,0 +1,13 @@
+{
+  "title": "Shard Convergence",
+  "image": "./img/shard-convergence.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Search your library for a Plains card, an Island card, a Swamp card, and a Mountain card. Reveal those cards and put them into your hand. Then shuffle your library.",
+  "expansion": "Conflux",
+  "rarity": "Uncommon",
+  "cardNumber": "91",
+  "artist": "Vance Kovacs",
+  "rating": "3.074",
+  "votes": "81"
+}

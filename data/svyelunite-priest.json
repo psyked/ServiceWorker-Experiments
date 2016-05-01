@@ -1,0 +1,13 @@
+{
+  "title": "Svyelunite Priest",
+  "image": "./img/svyelunite-priest.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk Cleric",
+  "text": ", : Target creature gains shroud until end of turn. Activate this ability only during your upkeep. (It can't be the target of spells or abilities.)",
+  "expansion": "Fallen Empires",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Ron Spencer",
+  "rating": "1.729",
+  "votes": "35"
+}

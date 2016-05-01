@@ -1,0 +1,13 @@
+{
+  "title": "Æther Searcher",
+  "image": "./img/ther-searcher.jpg",
+  "convertedManaCost": "7",
+  "types": "Artifact Creature  — Construct",
+  "text": "Reveal Æther Searcher as you draft it. Reveal the next card you draft and note its name. When Æther Searcher enters the battlefield, you may search your hand and/or library for a card with a name noted as you drafted cards named Æther Searcher. You may cast it without paying its mana cost. If you searched your library this way, shuffle it.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Rare",
+  "cardNumber": "53",
+  "artist": "James Paick",
+  "rating": "3.571",
+  "votes": "7"
+}

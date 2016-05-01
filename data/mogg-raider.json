@@ -1,0 +1,13 @@
+{
+  "title": "Mogg Raider",
+  "image": "./img/mogg-raider.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin",
+  "text": "Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.",
+  "expansion": "Tempest",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Brian Snoddy",
+  "rating": "3.875",
+  "votes": "24"
+}

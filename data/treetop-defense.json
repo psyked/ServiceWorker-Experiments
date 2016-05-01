@@ -1,0 +1,13 @@
+{
+  "title": "Treetop Defense",
+  "image": "./img/treetop-defense.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Cast Treetop Defense only during the declare attackers step and only if you've been attacked this step.Creatures you control gain reach until end of turn. (They can block creatures with flying.)",
+  "expansion": "Portal",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Zina Saunders",
+  "rating": "2.000",
+  "votes": "21"
+}

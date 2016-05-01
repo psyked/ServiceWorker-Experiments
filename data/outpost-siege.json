@@ -1,0 +1,13 @@
+{
+  "title": "Outpost Siege",
+  "image": "./img/outpost-siege.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "As Outpost Siege enters the battlefield, choose Khans or Dragons.• Khans — At the beginning of your upkeep, exile the top card of your library. Until end of turn, you may play that card.• Dragons — Whenever a creature you control leaves the battlefield, Outpost Siege deals 1 damage to target creature or player.",
+  "expansion": "Fate Reforged",
+  "rarity": "Rare",
+  "cardNumber": "110",
+  "artist": "Daarken",
+  "rating": "5",
+  "votes": "0"
+}

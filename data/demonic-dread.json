@@ -1,0 +1,13 @@
+{
+  "title": "Demonic Dread",
+  "image": "./img/demonic-dread.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)Target creature can't block this turn.",
+  "expansion": "Alara Reborn",
+  "rarity": "Common",
+  "cardNumber": "38",
+  "artist": "Thomas M. Baxa",
+  "rating": "2.879",
+  "votes": "62"
+}

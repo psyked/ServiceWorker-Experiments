@@ -1,0 +1,13 @@
+{
+  "title": "Insidious Bookworms",
+  "image": "./img/insidious-bookworms.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Worm",
+  "text": "When Insidious Bookworms dies, you may pay . If you do, target player discards a card at random.",
+  "expansion": "Alliances",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Greg Simanson",
+  "rating": "3.250",
+  "votes": "44"
+}

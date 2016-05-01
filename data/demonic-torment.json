@@ -1,0 +1,13 @@
+{
+  "title": "Demonic Torment",
+  "image": "./img/demonic-torment.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature can't attack.Prevent all combat damage that would be dealt by enchanted creature.",
+  "expansion": "Masters Edition III",
+  "rarity": "Common",
+  "cardNumber": "62",
+  "artist": "Anson Maddocks",
+  "rating": "2.857",
+  "votes": "21"
+}

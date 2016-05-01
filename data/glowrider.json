@@ -1,0 +1,13 @@
+{
+  "title": "Glowrider",
+  "image": "./img/glowrider.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": "Noncreature spells cost  more to cast.",
+  "expansion": "Legions",
+  "rarity": "Rare",
+  "cardNumber": "15",
+  "artist": "Scott M. Fischer",
+  "rating": "4.147",
+  "votes": "51"
+}

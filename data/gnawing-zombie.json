@@ -1,0 +1,13 @@
+{
+  "title": "Gnawing Zombie",
+  "image": "./img/gnawing-zombie.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie",
+  "text": ", Sacrifice a creature: Target player loses 1 life and you gain 1 life.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "99",
+  "artist": "Greg Staples",
+  "rating": "3.293",
+  "votes": "29"
+}

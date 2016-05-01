@@ -1,0 +1,13 @@
+{
+  "title": "Cryptoplasm",
+  "image": "./img/cryptoplasm.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Shapeshifter",
+  "text": "At the beginning of your upkeep, you may have Cryptoplasm become a copy of another target creature. If you do, Cryptoplasm gains this ability.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Rare",
+  "cardNumber": "23",
+  "artist": "Eric Deschamps",
+  "rating": "3.735",
+  "votes": "136"
+}

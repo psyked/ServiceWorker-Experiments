@@ -1,0 +1,13 @@
+{
+  "title": "Whipgrass Entangler",
+  "image": "./img/whipgrass-entangler.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": ": Until end of turn, target creature gains \"This creature can't attack or block unless its controller pays  for each Cleric on the battlefield.\"",
+  "expansion": "Legions",
+  "rarity": "Common",
+  "cardNumber": "26",
+  "artist": "Ben Thompson",
+  "rating": "3.708",
+  "votes": "24"
+}

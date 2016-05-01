@@ -1,0 +1,13 @@
+{
+  "title": "Chronomaton",
+  "image": "./img/chronomaton.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact Creature  — Golem",
+  "text": ", : Put a +1/+1 counter on Chronomaton.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Uncommon",
+  "cardNumber": "2",
+  "artist": "Vincent Proce",
+  "rating": "3.562",
+  "votes": "16"
+}

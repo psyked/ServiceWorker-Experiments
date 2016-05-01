@@ -1,0 +1,13 @@
+{
+  "title": "Armed Response",
+  "image": "./img/armed-response.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Armed Response deals damage to target attacking creature equal to the number of Equipment you control.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "2",
+  "artist": "Doug Chaffee",
+  "rating": "1.588",
+  "votes": "40"
+}

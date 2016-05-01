@@ -1,0 +1,13 @@
+{
+  "title": "Sheltering Ancient",
+  "image": "./img/sheltering-ancient.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Treefolk",
+  "text": "TrampleCumulative upkeep—Put a +1/+1 counter on a creature an opponent controls. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+  "expansion": "Coldsnap",
+  "rarity": "Uncommon",
+  "cardNumber": "121",
+  "artist": "Pete Venters",
+  "rating": "3.781",
+  "votes": "57"
+}

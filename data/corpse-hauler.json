@@ -1,0 +1,13 @@
+{
+  "title": "Corpse Hauler",
+  "image": "./img/corpse-hauler.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Rogue",
+  "text": ", Sacrifice Corpse Hauler: Return another target creature card from your graveyard to your hand.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "90",
+  "artist": "Jesper Ejsing",
+  "rating": "2.946",
+  "votes": "28"
+}

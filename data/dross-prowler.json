@@ -1,0 +1,13 @@
+{
+  "title": "Dross Prowler",
+  "image": "./img/dross-prowler.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "64",
+  "artist": "Michael Sutfin",
+  "rating": "2.217",
+  "votes": "23"
+}

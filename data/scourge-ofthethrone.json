@@ -1,0 +1,13 @@
+{
+  "title": "Scourge of the Throne",
+  "image": "./img/scourge-ofthethrone.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "FlyingDethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)Whenever Scourge of the Throne attacks for the first time each turn, if it's attacking the player with the most life or tied for most life, untap all attacking creatures. After this phase, there is an additional combat phase.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Mythic Rare",
+  "cardNumber": "35",
+  "artist": "Michael Komarck",
+  "rating": "3.969",
+  "votes": "16"
+}

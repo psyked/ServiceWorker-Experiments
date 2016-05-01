@@ -1,0 +1,13 @@
+{
+  "title": "Fire Ambush",
+  "image": "./img/fire-ambush.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Fire Ambush deals 3 damage to target creature or player.",
+  "expansion": "Masters Edition III",
+  "rarity": "Common",
+  "cardNumber": "97",
+  "artist": "Tang Xiaogu",
+  "rating": "2.700",
+  "votes": "20"
+}

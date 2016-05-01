@@ -1,0 +1,13 @@
+{
+  "title": "Villainous Ogre",
+  "image": "./img/villainous-ogre.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Ogre Warrior",
+  "text": "Villainous Ogre can't block.As long as you control a Demon, Villainous Ogre has \": Regenerate Villainous Ogre.\"",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "148",
+  "artist": "Tony Szczudlo",
+  "rating": "2.425",
+  "votes": "40"
+}

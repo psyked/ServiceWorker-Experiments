@@ -1,0 +1,13 @@
+{
+  "title": "Who/What/When/Where/Why",
+  "image": "./img/whowhatwhenwherewhy.jpg",
+  "convertedManaCost": "",
+  "types": "Instant",
+  "text": "WhooXoWInstantTarget player gains X life.-----Whato2oRInstantDestroy target artifact.-----Wheno2oUInstantCounter target creature spell.-----Whereo3oBInstantDestroy target land.-----Whyo1oGInstantDestroy target enchantment.",
+  "expansion": "Unhinged",
+  "rarity": "Rare",
+  "cardNumber": "120",
+  "artist": "Dan Frazier",
+  "rating": "4.444",
+  "votes": "90"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Burning Palm Efreet",
+  "image": "./img/burning-palmefreet.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Efreet",
+  "text": ": Burning Palm Efreet deals 2 damage to target creature with flying and that creature loses flying until end of turn.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Dermot Power",
+  "rating": "3.677",
+  "votes": "31"
+}

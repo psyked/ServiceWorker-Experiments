@@ -1,0 +1,13 @@
+{
+  "title": "Scholar of Athreos",
+  "image": "./img/scholar-ofathreos.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": ": Each opponent loses 1 life. You gain life equal to the life lost this way.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "28",
+  "artist": "Cynthia Sheppard",
+  "rating": "3.406",
+  "votes": "32"
+}

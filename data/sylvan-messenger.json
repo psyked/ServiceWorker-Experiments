@@ -1,0 +1,13 @@
+{
+  "title": "Sylvan Messenger",
+  "image": "./img/sylvan-messenger.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elf",
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)When Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "199",
+  "artist": "Anthony Palumbo",
+  "rating": "5",
+  "votes": "0"
+}

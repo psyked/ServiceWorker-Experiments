@@ -1,0 +1,13 @@
+{
+  "title": "Eye Spy",
+  "image": "./img/eye-spy.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Look at the top card of target player's library. You may put that card into his or her graveyard.",
+  "expansion": "Starter 1999",
+  "rarity": "Uncommon",
+  "cardNumber": "38",
+  "artist": "DiTerlizzi",
+  "rating": "2.414",
+  "votes": "29"
+}

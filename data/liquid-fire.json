@@ -1,0 +1,13 @@
+{
+  "title": "Liquid Fire",
+  "image": "./img/liquid-fire.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Liquid Fire, choose a number between 0 and 5.Liquid Fire deals X damage to target creature and 5 minus X damage to that creature's controller, where X is the chosen number.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "201",
+  "artist": "Greg Staples",
+  "rating": "2.148",
+  "votes": "27"
+}

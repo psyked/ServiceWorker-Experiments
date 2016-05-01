@@ -1,0 +1,13 @@
+{
+  "title": "Specter's Shroud",
+  "image": "./img/specters-shroud.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +1/+0.Whenever equipped creature deals combat damage to a player, that player discards a card.Equip  (: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",
+  "expansion": "Darksteel",
+  "rarity": "Uncommon",
+  "cardNumber": "142",
+  "artist": "Greg Hildebrandt",
+  "rating": "3.632",
+  "votes": "38"
+}

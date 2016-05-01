@@ -1,0 +1,13 @@
+{
+  "title": "Skithiryx, the Blight Dragon",
+  "image": "./img/skithiryx-theblightdragon.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Dragon Skeleton",
+  "text": "FlyingInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.): Skithiryx, the Blight Dragon gains haste until end of turn.: Regenerate Skithiryx.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Mythic Rare",
+  "cardNumber": "79",
+  "artist": "Chippy",
+  "rating": "4.177",
+  "votes": "288"
+}

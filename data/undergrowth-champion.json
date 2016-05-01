@@ -1,0 +1,13 @@
+{
+  "title": "Undergrowth Champion",
+  "image": "./img/undergrowth-champion.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental",
+  "text": "If damage would be dealt to Undergrowth Champion while it has a +1/+1 counter on it, prevent that damage and remove a +1/+1 counter from Undergrowth Champion.Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Undergrowth Champion.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Mythic Rare",
+  "cardNumber": "197",
+  "artist": "Tyler Jacobson",
+  "rating": "5",
+  "votes": "0"
+}

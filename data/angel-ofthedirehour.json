@@ -1,0 +1,13 @@
+{
+  "title": "Angel of the Dire Hour",
+  "image": "./img/angel-ofthedirehour.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Angel",
+  "text": "FlashFlyingWhen Angel of the Dire Hour enters the battlefield, if you cast it from your hand, exile all attacking creatures.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "1",
+  "artist": "Jack Wang",
+  "rating": "5",
+  "votes": "0"
+}

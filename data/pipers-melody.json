@@ -1,0 +1,13 @@
+{
+  "title": "Piper's Melody",
+  "image": "./img/pipers-melody.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Shuffle any number of target creature cards from your graveyard into your library.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "261",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "3.553",
+  "votes": "19"
+}

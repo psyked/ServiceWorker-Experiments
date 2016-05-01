@@ -1,0 +1,13 @@
+{
+  "title": "Pernicious Deed",
+  "image": "./img/pernicious-deed.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": ", Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Mythic Rare",
+  "cardNumber": "191",
+  "artist": "Christopher Moeller",
+  "rating": "4.571",
+  "votes": "28"
+}

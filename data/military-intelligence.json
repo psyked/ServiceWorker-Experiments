@@ -1,0 +1,13 @@
+{
+  "title": "Military Intelligence",
+  "image": "./img/military-intelligence.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever you attack with two or more creatures, draw a card.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "69",
+  "artist": "Craig J Spearing",
+  "rating": "3.400",
+  "votes": "5"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Zealous Inquisitor",
+  "image": "./img/zealous-inquisitor.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": ": The next 1 damage that would be dealt to Zealous Inquisitor this turn is dealt to target creature instead.",
+  "expansion": "Ninth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "57",
+  "artist": "Wayne England",
+  "rating": "3.066",
+  "votes": "38"
+}

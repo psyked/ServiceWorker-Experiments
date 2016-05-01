@@ -1,0 +1,13 @@
+{
+  "title": "Cetavolver",
+  "image": "./img/cetavolver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Volver",
+  "text": "Kicker  and/or  (You may pay an additional  and/or  as you cast this spell.)If Cetavolver was kicked with its  kicker, it enters the battlefield with two +1/+1 counters on it and with first strike.If Cetavolver was kicked with its  kicker, it enters the battlefield with a +1/+1 counter on it and with trample.",
+  "expansion": "Apocalypse",
+  "rarity": "Rare",
+  "cardNumber": "21",
+  "artist": "Gary Ruddell",
+  "rating": "3.620",
+  "votes": "46"
+}

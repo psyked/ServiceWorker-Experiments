@@ -1,0 +1,13 @@
+{
+  "title": "Will of the Naga",
+  "image": "./img/will-ofthenaga.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for .)Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "58",
+  "artist": "Wayne Reynolds",
+  "rating": "5",
+  "votes": "0"
+}

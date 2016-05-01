@@ -1,0 +1,13 @@
+{
+  "title": "Terror",
+  "image": "./img/terror.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Destroy target nonartifact, nonblack creature. It can't be regenerated.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "99",
+  "artist": "Ron Spencer",
+  "rating": "4.139",
+  "votes": "61"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Rampaging Baloths",
+  "image": "./img/rampaging-baloths.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Beast",
+  "text": "TrampleLandfall — Whenever a land enters the battlefield under your control, you may put a 4/4 green Beast creature token onto the battlefield.",
+  "expansion": "Commander 2014",
+  "rarity": "Mythic Rare",
+  "cardNumber": "212",
+  "artist": "Steve Prescott",
+  "rating": "5",
+  "votes": "0"
+}

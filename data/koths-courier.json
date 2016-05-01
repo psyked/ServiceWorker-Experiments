@@ -1,0 +1,13 @@
+{
+  "title": "Koth's Courier",
+  "image": "./img/koths-courier.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Rogue",
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "68",
+  "artist": "Wayne Reynolds",
+  "rating": "2.971",
+  "votes": "70"
+}

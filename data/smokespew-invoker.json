@@ -1,0 +1,13 @@
+{
+  "title": "Smokespew Invoker",
+  "image": "./img/smokespew-invoker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie Mutant",
+  "text": ": Target creature gets -3/-3 until end of turn.",
+  "expansion": "Legions",
+  "rarity": "Common",
+  "cardNumber": "81",
+  "artist": "Thomas M. Baxa",
+  "rating": "2.145",
+  "votes": "31"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Greater Morphling",
+  "image": "./img/greater-morphling.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature — Shapeshifter",
+  "text": ": Greater Morphling gains your choice of banding, bushido 1, double strike, fear, flying, first strike, haste, landwalk of your choice, protection from a color of your choice, provoke, rampage 1, shadow, or trample until end of turn.: Greater Morphling becomes the colors of your choice until end of turn.: Greater Morphling's type becomes the creature type of your choice until end of turn.: Greater Morphling's expansion symbol becomes the symbol of your choice until end of turn.: Greater Morphling's artist becomes the artist of your choice until end of turn.: Greater Morphling gets +2/-2 or -2/+2 until end of turn.: Untap Greater Morphling.",
+  "expansion": "Unhinged",
+  "rarity": "Rare",
+  "cardNumber": "34",
+  "artist": "Greg \"Six-Pack\" Staples",
+  "rating": "4.345",
+  "votes": "71"
+}

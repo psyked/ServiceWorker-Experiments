@@ -1,0 +1,13 @@
+{
+  "title": "Thopter Squadron",
+  "image": "./img/thopter-squadron.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Thopter",
+  "text": "FlyingThopter Squadron enters the battlefield with three +1/+1 counters on it., Remove a +1/+1 counter from Thopter Squadron: Put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield. Activate this ability only any time you could cast a sorcery., Sacrifice another Thopter: Put a +1/+1 counter on Thopter Squadron. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Rare",
+  "cardNumber": "233",
+  "artist": "Doug Chaffee",
+  "rating": "5",
+  "votes": "0"
+}

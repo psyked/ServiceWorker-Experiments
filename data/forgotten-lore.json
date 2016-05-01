@@ -1,0 +1,13 @@
+{
+  "title": "Forgotten Lore",
+  "image": "./img/forgotten-lore.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Target opponent chooses a card in your graveyard. You may pay . If you do, repeat this process except that opponent can't choose a card already chosen for Forgotten Lore. Then put the last chosen card into your hand.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "164",
+  "artist": "Harold McNeill",
+  "rating": "3.433",
+  "votes": "30"
+}

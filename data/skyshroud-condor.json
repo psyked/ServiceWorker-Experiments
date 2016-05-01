@@ -1,0 +1,13 @@
+{
+  "title": "Skyshroud Condor",
+  "image": "./img/skyshroud-condor.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Bird",
+  "text": "FlyingCast Skyshroud Condor only if you've cast another spell this turn.",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Doug Chaffee",
+  "rating": "2.135",
+  "votes": "37"
+}

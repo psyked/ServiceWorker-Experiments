@@ -1,0 +1,13 @@
+{
+  "title": "Lumbering Satyr",
+  "image": "./img/lumbering-satyr.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Satyr Beast",
+  "text": "All creatures have forestwalk. (They can't be blocked as long as defending player controls a Forest.)",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "257",
+  "artist": "Alan Pollack",
+  "rating": "2.221",
+  "votes": "43"
+}

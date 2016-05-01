@@ -1,0 +1,13 @@
+{
+  "title": "Afflict",
+  "image": "./img/afflict.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Target creature gets -1/-1 until end of turn.Draw a card.",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "125",
+  "artist": "Roger Raupp",
+  "rating": "2.318",
+  "votes": "22"
+}

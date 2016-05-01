@@ -1,0 +1,13 @@
+{
+  "title": "Hunted Ghoul",
+  "image": "./img/hunted-ghoul.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Zombie",
+  "text": "Hunted Ghoul can't block Humans.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "110",
+  "artist": "Ryan Pancoast",
+  "rating": "2.535",
+  "votes": "43"
+}

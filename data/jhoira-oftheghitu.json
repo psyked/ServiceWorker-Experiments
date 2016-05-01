@@ -1,0 +1,13 @@
+{
+  "title": "Jhoira of the Ghitu",
+  "image": "./img/jhoira-oftheghitu.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Creature  — Human Wizard",
+  "text": ", Exile a nonland card from your hand: Put four time counters on the exiled card. If it doesn't have suspend, it gains suspend. (At the beginning of your upkeep, remove a time counter from that card. When the last is removed, cast it without paying its mana cost. If it's a creature, it has haste.)",
+  "expansion": "Modern Masters",
+  "rarity": "Rare",
+  "cardNumber": "177",
+  "artist": "Kev Walker",
+  "rating": "3.922",
+  "votes": "51"
+}

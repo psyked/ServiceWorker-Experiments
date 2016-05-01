@@ -1,0 +1,13 @@
+{
+  "title": "Creature Bond",
+  "image": "./img/creature-bond.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen enchanted creature dies, Creature Bond deals damage equal to that creature's toughness to the creature's controller.",
+  "expansion": "Fourth Edition",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Anson Maddocks",
+  "rating": "2.485",
+  "votes": "34"
+}

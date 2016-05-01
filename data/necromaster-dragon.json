@@ -1,0 +1,13 @@
+{
+  "title": "Necromaster Dragon",
+  "image": "./img/necromaster-dragon.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhenever Necromaster Dragon deals combat damage to a player, you may pay . If you do, put a 2/2 black Zombie creature token onto the battlefield and each opponent puts the top two cards of his or her library into his or her graveyard.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "226",
+  "artist": "Mark Zug",
+  "rating": "5",
+  "votes": "0"
+}

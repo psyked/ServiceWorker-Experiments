@@ -1,0 +1,13 @@
+{
+  "title": "Devout Monk",
+  "image": "./img/devout-monk.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Monk Cleric",
+  "text": "When Devout Monk enters the battlefield, you gain 1 life.",
+  "expansion": "Starter 1999",
+  "rarity": "Common",
+  "cardNumber": "14",
+  "artist": "Daniel Gelon",
+  "rating": "1.971",
+  "votes": "34"
+}

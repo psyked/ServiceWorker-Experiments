@@ -1,0 +1,13 @@
+{
+  "title": "Avenging Druid",
+  "image": "./img/avenging-druid.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Druid",
+  "text": "Whenever Avenging Druid deals damage to an opponent, you may reveal cards from the top of your library until you reveal a land card. If you do, put that card onto the battlefield and put all other cards revealed this way into your graveyard.",
+  "expansion": "Exodus",
+  "rarity": "Common",
+  "cardNumber": "105",
+  "artist": "Daren Bader",
+  "rating": "3.231",
+  "votes": "26"
+}

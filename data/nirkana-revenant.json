@@ -1,0 +1,13 @@
+{
+  "title": "Nirkana Revenant",
+  "image": "./img/nirkana-revenant.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Vampire Shade",
+  "text": "Whenever you tap a Swamp for mana, add  to your mana pool (in addition to the mana the land produces).: Nirkana Revenant gets +1/+1 until end of turn.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Mythic Rare",
+  "cardNumber": "120",
+  "artist": "Igor Kieryluk",
+  "rating": "4.251",
+  "votes": "211"
+}

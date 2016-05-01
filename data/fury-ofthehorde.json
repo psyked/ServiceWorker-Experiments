@@ -1,0 +1,13 @@
+{
+  "title": "Fury of the Horde",
+  "image": "./img/fury-ofthehorde.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "You may exile two red cards from your hand rather than pay Fury of the Horde's mana cost.Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Rare",
+  "cardNumber": "30",
+  "artist": "Stephen Tappin",
+  "rating": "5",
+  "votes": "0"
+}

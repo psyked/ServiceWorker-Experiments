@@ -1,0 +1,13 @@
+{
+  "title": "Kitsune Palliator",
+  "image": "./img/kitsune-palliator.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Fox Cleric",
+  "text": ": Prevent the next 1 damage that would be dealt to each creature and each player this turn.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "14",
+  "artist": "Dave Dorman",
+  "rating": "2.125",
+  "votes": "32"
+}

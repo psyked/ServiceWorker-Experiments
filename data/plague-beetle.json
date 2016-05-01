@@ -1,0 +1,13 @@
+{
+  "title": "Plague Beetle",
+  "image": "./img/plague-beetle.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Insect",
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "168",
+  "artist": "Tom Fleming",
+  "rating": "2.681",
+  "votes": "36"
+}

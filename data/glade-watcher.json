@@ -1,0 +1,13 @@
+{
+  "title": "Glade Watcher",
+  "image": "./img/glade-watcher.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elemental",
+  "text": "DefenderFormidable — : Glade Watcher can attack this turn as though it didn't have defender. Activate this ability only if creatures you control have total power 8 or greater.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "188",
+  "artist": "Jesper Ejsing",
+  "rating": "5",
+  "votes": "0"
+}

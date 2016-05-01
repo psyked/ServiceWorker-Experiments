@@ -1,0 +1,13 @@
+{
+  "title": "Captured Sunlight",
+  "image": "./img/captured-sunlight.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)You gain 4 life.",
+  "expansion": "Alara Reborn",
+  "rarity": "Common",
+  "cardNumber": "66",
+  "artist": "Nils Hamm",
+  "rating": "2.815",
+  "votes": "65"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Boneyard Wurm",
+  "image": "./img/boneyard-wurm.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Wurm",
+  "text": "Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Uncommon",
+  "cardNumber": "51",
+  "artist": "Jaime Jones",
+  "rating": "3.660",
+  "votes": "25"
+}

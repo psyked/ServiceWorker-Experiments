@@ -1,0 +1,13 @@
+{
+  "title": "Oran-Rief Survivalist",
+  "image": "./img/oran-rief-survivalist.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Warrior Ally",
+  "text": "Whenever Oran-Rief Survivalist or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Oran-Rief Survivalist.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "174",
+  "artist": "Kev Walker",
+  "rating": "3.820",
+  "votes": "75"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Weapons Trainer",
+  "image": "./img/weapons-trainer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier Ally",
+  "text": "Other creatures you control get +1/+0 as long as you control an Equipment.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "160",
+  "artist": "Greg Opalinski",
+  "rating": "5",
+  "votes": "0"
+}

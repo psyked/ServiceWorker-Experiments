@@ -1,0 +1,13 @@
+{
+  "title": "Boros Elite",
+  "image": "./img/boros-elite.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Soldier",
+  "text": "Battalion — Whenever Boros Elite and at least two other creatures attack, Boros Elite gets +2/+2 until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "7",
+  "artist": "Willian Murai",
+  "rating": "3.355",
+  "votes": "69"
+}

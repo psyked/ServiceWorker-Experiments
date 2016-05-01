@@ -1,0 +1,13 @@
+{
+  "title": "Hallowed Ground",
+  "image": "./img/hallowed-ground.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": ": Return target nonsnow land you control to its owner's hand.",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "14",
+  "artist": "Douglas Shuler",
+  "rating": "3.733",
+  "votes": "30"
+}

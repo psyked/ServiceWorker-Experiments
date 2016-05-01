@@ -1,0 +1,13 @@
+{
+  "title": "Mortal's Resolve",
+  "image": "./img/mortals-resolve.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +1/+1 and gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "127",
+  "artist": "Svetlin Velinov",
+  "rating": "3.759",
+  "votes": "29"
+}

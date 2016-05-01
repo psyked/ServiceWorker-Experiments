@@ -1,0 +1,13 @@
+{
+  "title": "Master Splicer",
+  "image": "./img/master-splicer.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Artificer",
+  "text": "When Master Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.Golem creatures you control get +1/+1.",
+  "expansion": "New Phyrexia",
+  "rarity": "Uncommon",
+  "cardNumber": "16",
+  "artist": "Chippy",
+  "rating": "3.356",
+  "votes": "73"
+}

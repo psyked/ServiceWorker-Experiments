@@ -1,0 +1,13 @@
+{
+  "title": "Dissolve",
+  "image": "./img/dissolve.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "47",
+  "artist": "Wesley Burt",
+  "rating": "3.705",
+  "votes": "100"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Chain of Vapor",
+  "image": "./img/chain-ofvapor.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Return target nonland permanent to its owner's hand. Then that permanent's controller may sacrifice a land. If the player does, he or she may copy this spell and may choose a new target for that copy.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "73",
+  "artist": "Carl Critchlow",
+  "rating": "4.456",
+  "votes": "68"
+}

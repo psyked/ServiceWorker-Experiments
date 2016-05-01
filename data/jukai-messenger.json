@@ -1,0 +1,13 @@
+{
+  "title": "Jukai Messenger",
+  "image": "./img/jukai-messenger.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Monk",
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "218",
+  "artist": "Terese Nielsen",
+  "rating": "1.875",
+  "votes": "32"
+}

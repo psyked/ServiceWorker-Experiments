@@ -1,0 +1,13 @@
+{
+  "title": "Shimmer",
+  "image": "./img/shimmer.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "As Shimmer enters the battlefield, choose a land type.Each land of the chosen type has phasing. (It phases in or out before its controller untaps during each of his or her untap steps. While it's phased out, it's treated as though it doesn't exist.)",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "David A. Cherry",
+  "rating": "4.363",
+  "votes": "51"
+}

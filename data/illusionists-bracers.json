@@ -1,0 +1,13 @@
+{
+  "title": "Illusionist's Bracers",
+  "image": "./img/illusionists-bracers.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Whenever an ability of equipped creature is activated, if it isn't a mana ability, copy that ability. You may choose new targets for the copy.Equip",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "231",
+  "artist": "Svetlin Velinov",
+  "rating": "3.722",
+  "votes": "81"
+}

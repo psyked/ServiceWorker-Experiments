@@ -1,0 +1,13 @@
+{
+  "title": "Wand of Denial",
+  "image": "./img/wand-ofdenial.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ": Look at the top card of target player's library. If it's a nonland card, you may pay 2 life. If you do, put it into that player's graveyard.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Rare",
+  "cardNumber": "317",
+  "artist": "Steve Luke",
+  "rating": "3.022",
+  "votes": "45"
+}

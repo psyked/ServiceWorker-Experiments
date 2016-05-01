@@ -1,0 +1,13 @@
+{
+  "title": "Kathari Remnant",
+  "image": "./img/kathari-remnant.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Bird Skeleton",
+  "text": "Flying: Regenerate Kathari Remnant.Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "98",
+  "artist": "Anthony S. Waters",
+  "rating": "2.814",
+  "votes": "35"
+}

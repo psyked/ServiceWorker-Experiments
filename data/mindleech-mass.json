@@ -1,0 +1,13 @@
+{
+  "title": "Mindleech Mass",
+  "image": "./img/mindleech-mass.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Horror",
+  "text": "TrampleWhenever Mindleech Mass deals combat damage to a player, you may look at that player's hand. If you do, you may cast a nonland card in it without paying that card's mana cost.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "215",
+  "artist": "Kev Walker",
+  "rating": "4.029",
+  "votes": "87"
+}

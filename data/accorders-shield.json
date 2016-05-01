@@ -1,0 +1,13 @@
+{
+  "title": "Accorder's Shield",
+  "image": "./img/accorders-shield.jpg",
+  "convertedManaCost": "0",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +0/+3 and has vigilance. (Attacking doesn't cause it to tap.)Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "204",
+  "artist": "Alan Pollack",
+  "rating": "3.375",
+  "votes": "44"
+}

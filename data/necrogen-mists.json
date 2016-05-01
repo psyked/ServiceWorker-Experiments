@@ -1,0 +1,13 @@
+{
+  "title": "Necrogen Mists",
+  "image": "./img/necrogen-mists.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of each player's upkeep, that player discards a card.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "69",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "3.641",
+  "votes": "32"
+}

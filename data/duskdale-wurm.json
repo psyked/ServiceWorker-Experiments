@@ -1,0 +1,13 @@
+{
+  "title": "Duskdale Wurm",
+  "image": "./img/duskdale-wurm.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Wurm",
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)",
+  "expansion": "Magic 2013",
+  "rarity": "Uncommon",
+  "cardNumber": "166",
+  "artist": "Dan Dos Santos",
+  "rating": "3.068",
+  "votes": "44"
+}

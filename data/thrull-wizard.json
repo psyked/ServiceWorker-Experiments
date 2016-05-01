@@ -1,0 +1,13 @@
+{
+  "title": "Thrull Wizard",
+  "image": "./img/thrull-wizard.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Thrull Wizard",
+  "text": ": Counter target black spell unless that spell's controller pays  or .",
+  "expansion": "Fallen Empires",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Anson Maddocks",
+  "rating": "2.784",
+  "votes": "37"
+}

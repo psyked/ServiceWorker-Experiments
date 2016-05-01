@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Dirigible",
+  "image": "./img/goblin-dirigible.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Construct",
+  "text": "FlyingGoblin Dirigible doesn't untap during your untap step.At the beginning of your upkeep, you may pay . If you do, untap Goblin Dirigible.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "177",
+  "artist": "Michael Sutfin",
+  "rating": "1.408",
+  "votes": "65"
+}

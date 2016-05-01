@@ -1,0 +1,13 @@
+{
+  "title": "Village Survivors",
+  "image": "./img/village-survivors.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human",
+  "text": "VigilanceFateful hour — As long as you have 5 or less life, other creatures you control have vigilance.",
+  "expansion": "Dark Ascension",
+  "rarity": "Uncommon",
+  "cardNumber": "130",
+  "artist": "David Rapoza",
+  "rating": "3.205",
+  "votes": "39"
+}

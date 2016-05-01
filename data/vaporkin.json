@@ -1,0 +1,13 @@
+{
+  "title": "Vaporkin",
+  "image": "./img/vaporkin.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elemental",
+  "text": "FlyingVaporkin can block only creatures with flying.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "72",
+  "artist": "Seb McKinnon",
+  "rating": "3.382",
+  "votes": "34"
+}

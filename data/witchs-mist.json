@@ -1,0 +1,13 @@
+{
+  "title": "Witch's Mist",
+  "image": "./img/witchs-mist.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": ", : Destroy target creature that was dealt damage this turn.",
+  "expansion": "Future Sight",
+  "rarity": "Uncommon",
+  "cardNumber": "92",
+  "artist": "Ittoku",
+  "rating": "3.076",
+  "votes": "46"
+}

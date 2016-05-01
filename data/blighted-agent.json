@@ -1,0 +1,13 @@
+{
+  "title": "Blighted Agent",
+  "image": "./img/blighted-agent.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Rogue",
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)Blighted Agent can't be blocked.",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "29",
+  "artist": "Anthony Francisco",
+  "rating": "3.785",
+  "votes": "205"
+}

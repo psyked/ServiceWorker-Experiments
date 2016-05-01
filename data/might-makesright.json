@@ -1,0 +1,13 @@
+{
+  "title": "Might Makes Right",
+  "image": "./img/might-makesright.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "At the beginning of combat on your turn, if you control each creature on the battlefield with the greatest power, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and  this turn.)",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "156",
+  "artist": "Mark Winters",
+  "rating": "2.083",
+  "votes": "6"
+}

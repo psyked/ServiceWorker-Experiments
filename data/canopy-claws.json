@@ -1,0 +1,13 @@
+{
+  "title": "Canopy Claws",
+  "image": "./img/canopy-claws.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature loses flying until end of turn.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "108",
+  "artist": "Matthew Mitchell",
+  "rating": "2.367",
+  "votes": "30"
+}

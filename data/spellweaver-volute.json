@@ -1,0 +1,13 @@
+{
+  "title": "Spellweaver Volute",
+  "image": "./img/spellweaver-volute.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant instant card in a graveyardWhenever you cast a sorcery spell, copy the enchanted instant card. You may cast the copy without paying its mana cost. If you do, exile the enchanted card and attach Spellweaver Volute to another instant card in a graveyard.",
+  "expansion": "Future Sight",
+  "rarity": "Rare",
+  "cardNumber": "59",
+  "artist": "Bud Cook",
+  "rating": "3.406",
+  "votes": "64"
+}

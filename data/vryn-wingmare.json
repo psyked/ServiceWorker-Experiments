@@ -1,0 +1,13 @@
+{
+  "title": "Vryn Wingmare",
+  "image": "./img/vryn-wingmare.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Pegasus",
+  "text": "FlyingNoncreature spells cost  more to cast.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "40",
+  "artist": "Seb McKinnon",
+  "rating": "5",
+  "votes": "0"
+}

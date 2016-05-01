@@ -1,0 +1,13 @@
+{
+  "title": "Polymorphous Rush",
+  "image": "./img/polymorphous-rush.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Strive — Polymorphous Rush costs  more to cast for each target beyond the first.Choose a creature on the battlefield. Any number of target creatures you control each become a copy of that creature until end of turn.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Rare",
+  "cardNumber": "46",
+  "artist": "Ryan Barger",
+  "rating": "3.640",
+  "votes": "25"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Argivian Blacksmith",
+  "image": "./img/argivian-blacksmith.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Artificer",
+  "text": ": Prevent the next 2 damage that would be dealt to target artifact creature this turn.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "4",
+  "artist": "Kersten Kaman",
+  "rating": "2.738",
+  "votes": "21"
+}

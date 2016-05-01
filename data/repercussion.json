@@ -1,0 +1,13 @@
+{
+  "title": "Repercussion",
+  "image": "./img/repercussion.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a creature is dealt damage, Repercussion deals that much damage to that creature's controller.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Rare",
+  "cardNumber": "95",
+  "artist": "Michael Sutfin",
+  "rating": "4.294",
+  "votes": "63"
+}

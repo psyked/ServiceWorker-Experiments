@@ -1,0 +1,13 @@
+{
+  "title": "Shrouded Serpent",
+  "image": "./img/shrouded-serpent.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Serpent",
+  "text": "Whenever Shrouded Serpent attacks, defending player may pay . If he or she doesn't, Shrouded Serpent can't be blocked this turn.",
+  "expansion": "Prophecy",
+  "rarity": "Rare",
+  "cardNumber": "47",
+  "artist": "Dana Knutson",
+  "rating": "1.951",
+  "votes": "51"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Skinthinner",
+  "image": "./img/skinthinner.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie",
+  "text": "Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)When Skinthinner is turned face up, destroy target nonblack creature. It can't be regenerated.",
+  "expansion": "Legions",
+  "rarity": "Common",
+  "cardNumber": "80",
+  "artist": "Dany Orizio",
+  "rating": "2.259",
+  "votes": "27"
+}

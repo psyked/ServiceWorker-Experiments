@@ -1,0 +1,13 @@
+{
+  "title": "Blazing Blade Askari",
+  "image": "./img/blazing-bladeaskari.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.): Blazing Blade Askari becomes colorless until end of turn.",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "146",
+  "artist": "Dan Frazier",
+  "rating": "2.686",
+  "votes": "35"
+}

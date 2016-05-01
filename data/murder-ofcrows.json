@@ -1,0 +1,13 @@
+{
+  "title": "Murder of Crows",
+  "image": "./img/murder-ofcrows.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bird",
+  "text": "FlyingWhenever another creature dies, you may draw a card. If you do, discard a card.",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "70",
+  "artist": "Drew Baker",
+  "rating": "3.799",
+  "votes": "72"
+}

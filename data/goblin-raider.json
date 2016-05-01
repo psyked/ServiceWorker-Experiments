@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Raider",
+  "image": "./img/goblin-raider.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Goblin Raider can't block.",
+  "expansion": "Ninth Edition",
+  "rarity": "Common",
+  "cardNumber": "8",
+  "artist": "Greg Staples",
+  "rating": "2.071",
+  "votes": "35"
+}

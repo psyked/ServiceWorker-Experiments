@@ -1,0 +1,13 @@
+{
+  "title": "Groundling Pouncer",
+  "image": "./img/groundling-pouncer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Faerie",
+  "text": ": Groundling Pouncer gets +1/+3 and gains flying until end of turn. Activate this ability only once each turn and only if an opponent controls a creature with flying.",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "154",
+  "artist": "Richard Whitters",
+  "rating": "2.479",
+  "votes": "48"
+}

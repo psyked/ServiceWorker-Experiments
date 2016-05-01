@@ -1,0 +1,13 @@
+{
+  "title": "Overbeing of Myth",
+  "image": "./img/overbeing-ofmyth.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit Avatar",
+  "text": "Overbeing of Myth's power and toughness are each equal to the number of cards in your hand.At the beginning of your draw step, draw an additional card.",
+  "expansion": "Eventide",
+  "rarity": "Rare",
+  "cardNumber": "157",
+  "artist": "Chippy",
+  "rating": "4.043",
+  "votes": "105"
+}

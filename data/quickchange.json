@@ -1,0 +1,13 @@
+{
+  "title": "Quickchange",
+  "image": "./img/quickchange.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature becomes the color or colors of your choice until end of turn.Draw a card.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "62",
+  "artist": "Christopher Moeller",
+  "rating": "2.069",
+  "votes": "36"
+}

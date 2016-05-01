@@ -1,0 +1,13 @@
+{
+  "title": "Keen Sense",
+  "image": "./img/keen-sense.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature deals damage to an opponent, you may draw a card.",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "152",
+  "artist": "Jim Nelson",
+  "rating": "3.927",
+  "votes": "55"
+}

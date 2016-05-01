@@ -1,0 +1,13 @@
+{
+  "title": "Screaming Fury",
+  "image": "./img/screaming-fury.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target creature gets +5/+0 and gains haste until end of turn.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "78",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "2.731",
+  "votes": "26"
+}

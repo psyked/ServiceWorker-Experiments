@@ -1,0 +1,13 @@
+{
+  "title": "Ticking Gnomes",
+  "image": "./img/ticking-gnomes.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Gnome",
+  "text": "Echo  (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)Sacrifice Ticking Gnomes: Ticking Gnomes deals 1 damage to target creature or player.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Uncommon",
+  "cardNumber": "136",
+  "artist": "Henry Van Der Linde",
+  "rating": "2.656",
+  "votes": "32"
+}

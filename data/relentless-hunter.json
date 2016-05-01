@@ -1,0 +1,13 @@
+{
+  "title": "Relentless Hunter",
+  "image": "./img/relentless-hunter.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Warrior",
+  "text": ": Relentless Hunter gets +1/+1 and gains trample until end of turn.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "158",
+  "artist": "Matt Stewart",
+  "rating": "5",
+  "votes": "0"
+}

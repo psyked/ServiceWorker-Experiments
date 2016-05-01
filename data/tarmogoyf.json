@@ -1,0 +1,13 @@
+{
+  "title": "Tarmogoyf",
+  "image": "./img/tarmogoyf.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Lhurgoyf",
+  "text": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Mythic Rare",
+  "cardNumber": "165",
+  "artist": "Ryan Barger",
+  "rating": "5",
+  "votes": "0"
+}

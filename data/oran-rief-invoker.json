@@ -1,0 +1,13 @@
+{
+  "title": "Oran-Rief Invoker",
+  "image": "./img/oran-rief-invoker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Shaman",
+  "text": ": Oran-Rief Invoker gets +5/+5 and gains trample until end of turn.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "182",
+  "artist": "Anastasia Ovchinnikova",
+  "rating": "5",
+  "votes": "0"
+}

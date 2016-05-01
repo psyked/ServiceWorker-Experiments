@@ -1,0 +1,13 @@
+{
+  "title": "Shapesharer",
+  "image": "./img/shapesharer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Shapeshifter",
+  "text": "Changeling (This card is every creature type.): Target Shapeshifter becomes a copy of target creature until your next turn.",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "85",
+  "artist": "Alan Pollack",
+  "rating": "3.640",
+  "votes": "50"
+}

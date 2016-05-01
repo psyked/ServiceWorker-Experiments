@@ -1,0 +1,13 @@
+{
+  "title": "Shield Sphere",
+  "image": "./img/shield-sphere.jpg",
+  "convertedManaCost": "0",
+  "types": "Artifact Creature  — Wall",
+  "text": "DefenderWhenever Shield Sphere blocks, put a -0/-1 counter on it.",
+  "expansion": "Masters Edition",
+  "rarity": "Common",
+  "cardNumber": "166",
+  "artist": "Alan Rabinowitz",
+  "rating": "4.380",
+  "votes": "96"
+}

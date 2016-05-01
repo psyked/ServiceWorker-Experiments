@@ -1,0 +1,13 @@
+{
+  "title": "Bow of Nylea",
+  "image": "./img/bow-ofnylea.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Enchantment Artifact",
+  "text": "Attacking creatures you control have deathtouch., : Choose one —• Put a +1/+1 counter on target creature.• Bow of Nylea deals 2 damage to target creature with flying.• You gain 3 life.• Put up to four target cards from your graveyard on the bottom of your library in any order.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "153",
+  "artist": "Yeong-Hao Han",
+  "rating": "3.759",
+  "votes": "110"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Bargaining Table",
+  "image": "./img/bargaining-table.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": ", : Draw a card. X is the number of cards in an opponent's hand.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "288",
+  "artist": "Scott M. Fischer",
+  "rating": "3.815",
+  "votes": "27"
+}

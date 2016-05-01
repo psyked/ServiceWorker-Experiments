@@ -1,0 +1,13 @@
+{
+  "title": "Overeager Apprentice",
+  "image": "./img/overeager-apprentice.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Minion",
+  "text": "Discard a card, Sacrifice Overeager Apprentice: Add  to your mana pool.",
+  "expansion": "Duel Decks Anthology, Divine vs. Demonic",
+  "rarity": "Common",
+  "cardNumber": "35",
+  "artist": "Ray Lago",
+  "rating": "5",
+  "votes": "0"
+}

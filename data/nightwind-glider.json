@@ -1,0 +1,13 @@
+{
+  "title": "Nightwind Glider",
+  "image": "./img/nightwind-glider.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Rebel",
+  "text": "Flying, protection from black",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "31",
+  "artist": "Randy Gallegos",
+  "rating": "3.040",
+  "votes": "25"
+}

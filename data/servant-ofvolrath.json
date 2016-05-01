@@ -1,0 +1,13 @@
+{
+  "title": "Servant of Volrath",
+  "image": "./img/servant-ofvolrath.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Minion",
+  "text": "When Servant of Volrath leaves the battlefield, sacrifice a creature.",
+  "expansion": "Tempest",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Brian Snoddy",
+  "rating": "1.737",
+  "votes": "38"
+}

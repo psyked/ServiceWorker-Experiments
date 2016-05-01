@@ -1,0 +1,13 @@
+{
+  "title": "Sword of the Chosen",
+  "image": "./img/sword-ofthechosen.jpg",
+  "convertedManaCost": "2",
+  "types": "Legendary Artifact",
+  "text": ": Target legendary creature gets +2/+2 until end of turn.",
+  "expansion": "Stronghold",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Adam Rex",
+  "rating": "3.176",
+  "votes": "37"
+}

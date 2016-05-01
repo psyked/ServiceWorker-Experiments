@@ -1,0 +1,13 @@
+{
+  "title": "Harsh Judgment",
+  "image": "./img/harsh-judgment.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "As Harsh Judgment enters the battlefield, choose a color.If an instant or sorcery spell of the chosen color would deal damage to you, it deals that damage to its controller instead.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "19",
+  "artist": "Carl Critchlow",
+  "rating": "3.440",
+  "votes": "42"
+}

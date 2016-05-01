@@ -1,0 +1,13 @@
+{
+  "title": "Boulderfall",
+  "image": "./img/boulderfall.jpg",
+  "convertedManaCost": "8",
+  "types": "Instant",
+  "text": "Boulderfall deals 5 damage divided as you choose among any number of target creatures and/or players.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "115",
+  "artist": "Ralph Horsley",
+  "rating": "1.759",
+  "votes": "79"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Detritivore",
+  "image": "./img/detritivore.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Lhurgoyf",
+  "text": "Detritivore's power and toughness are each equal to the number of nonbasic land cards in your opponents' graveyards.Suspend X—. X can't be 0. (Rather than cast this card from your hand, you may pay  and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)Whenever a time counter is removed from Detritivore while it's exiled, destroy target nonbasic land.",
+  "expansion": "Planar Chaos",
+  "rarity": "Rare",
+  "cardNumber": "96",
+  "artist": "Parente",
+  "rating": "3.060",
+  "votes": "42"
+}

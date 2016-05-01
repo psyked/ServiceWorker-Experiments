@@ -1,0 +1,13 @@
+{
+  "title": "Uktabi Wildcats",
+  "image": "./img/uktabi-wildcats.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Cat",
+  "text": "Uktabi Wildcats's power and toughness are each equal to the number of Forests you control., Sacrifice a Forest: Regenerate Uktabi Wildcats.",
+  "expansion": "Seventh Edition",
+  "rarity": "Rare",
+  "cardNumber": "278",
+  "artist": "Thomas Gianni",
+  "rating": "3.792",
+  "votes": "36"
+}

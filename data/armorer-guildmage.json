@@ -1,0 +1,13 @@
+{
+  "title": "Armorer Guildmage",
+  "image": "./img/armorer-guildmage.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Wizard",
+  "text": ", : Target creature gets +1/+0 until end of turn., : Target creature gets +0/+1 until end of turn.",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Martin McKenna",
+  "rating": "2.353",
+  "votes": "34"
+}

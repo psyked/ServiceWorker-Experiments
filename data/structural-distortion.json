@@ -1,0 +1,13 @@
+{
+  "title": "Structural Distortion",
+  "image": "./img/structural-distortion.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Exile target artifact or land. Structural Distortion deals 2 damage to that permanent's controller.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "185",
+  "artist": "Jung Park",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Skaab Ruinator",
+  "image": "./img/skaab-ruinator.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie Horror",
+  "text": "As an additional cost to cast Skaab Ruinator, exile three creature cards from your graveyard.FlyingYou may cast Skaab Ruinator from your graveyard.",
+  "expansion": "Innistrad",
+  "rarity": "Mythic Rare",
+  "cardNumber": "77",
+  "artist": "Chris Rahn",
+  "rating": "3.880",
+  "votes": "167"
+}

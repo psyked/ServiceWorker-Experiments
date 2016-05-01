@@ -1,0 +1,13 @@
+{
+  "title": "Baloth Pup",
+  "image": "./img/baloth-pup.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Beast",
+  "text": "Baloth Pup has trample as long as it has a +1/+1 counter on it.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "127",
+  "artist": "Steve Prescott",
+  "rating": "5",
+  "votes": "0"
+}

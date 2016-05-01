@@ -1,0 +1,13 @@
+{
+  "title": "Brutal Expulsion",
+  "image": "./img/brutal-expulsion.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Devoid (This card has no color.)Choose one or both —• Return target spell or creature to its owner's hand.• Brutal Expulsion deals 2 damage to target creature or planeswalker. If that permanent would be put into a graveyard this turn, exile it instead.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "200",
+  "artist": "Victor Adame Minguez",
+  "rating": "5",
+  "votes": "0"
+}

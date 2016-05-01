@@ -1,0 +1,13 @@
+{
+  "title": "Cavern Harpy",
+  "image": "./img/cavern-harpy.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Harpy Beast",
+  "text": "FlyingWhen Cavern Harpy enters the battlefield, return a blue or black creature you control to its owner's hand.Pay 1 life: Return Cavern Harpy to its owner's hand.",
+  "expansion": "Planeshift",
+  "rarity": "Common",
+  "cardNumber": "97",
+  "artist": "Daren Bader",
+  "rating": "4.106",
+  "votes": "52"
+}

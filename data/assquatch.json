@@ -1,0 +1,13 @@
+{
+  "title": "Assquatch",
+  "image": "./img/assquatch.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature — Donkey Lord",
+  "text": "Each other Donkey gets +1½/+1½.Whenever another Donkey comes into play, untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.",
+  "expansion": "Unhinged",
+  "rarity": "Rare",
+  "cardNumber": "71",
+  "artist": "Jeremy Jarvis",
+  "rating": "4.062",
+  "votes": "56"
+}

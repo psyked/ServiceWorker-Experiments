@@ -1,0 +1,13 @@
+{
+  "title": "Slith Bloodletter",
+  "image": "./img/slith-bloodletter.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Slith",
+  "text": "Whenever Slith Bloodletter deals combat damage to a player, put a +1/+1 counter on it.: Regenerate Slith Bloodletter.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "77",
+  "artist": "Justin Sweet",
+  "rating": "3.988",
+  "votes": "42"
+}

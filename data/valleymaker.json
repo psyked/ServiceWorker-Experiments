@@ -1,0 +1,13 @@
+{
+  "title": "Valleymaker",
+  "image": "./img/valleymaker.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant Shaman",
+  "text": ", Sacrifice a Mountain: Valleymaker deals 3 damage to target creature., Sacrifice a Forest: Choose a player. That player adds  to his or her mana pool.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "221",
+  "artist": "Randy Gallegos",
+  "rating": "3.015",
+  "votes": "34"
+}

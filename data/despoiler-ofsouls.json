@@ -1,0 +1,13 @@
+{
+  "title": "Despoiler of Souls",
+  "image": "./img/despoiler-ofsouls.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Horror",
+  "text": "Despoiler of Souls can't block., Exile two other creature cards from your graveyard: Return Despoiler of Souls from your graveyard to the battlefield.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "93",
+  "artist": "Greg Staples",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sword of War and Peace",
+  "image": "./img/sword-ofwarandpeace.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +2/+2 and has protection from red and from white.Whenever equipped creature deals combat damage to a player, Sword of War and Peace deals damage to that player equal to the number of cards in his or her hand and you gain 1 life for each card in your hand.Equip",
+  "expansion": "New Phyrexia",
+  "rarity": "Mythic Rare",
+  "cardNumber": "161",
+  "artist": "Chris Rahn",
+  "rating": "3.818",
+  "votes": "203"
+}

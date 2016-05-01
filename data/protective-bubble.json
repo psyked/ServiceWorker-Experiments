@@ -1,0 +1,13 @@
+{
+  "title": "Protective Bubble",
+  "image": "./img/protective-bubble.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature can't be blocked and has shroud. (It can't be the target of spells or abilities.)",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "80",
+  "artist": "Steve Ellis",
+  "rating": "3.360",
+  "votes": "57"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Uktabi Kong",
+  "image": "./img/uktabi-kong.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature — Ape",
+  "text": "TrampleWhen Uktabi Kong comes into play, destroy all artifacts.Tap two untapped Apes you control: Put a 1/1 green Ape creature token into play.",
+  "expansion": "Unhinged",
+  "rarity": "Rare",
+  "cardNumber": "115",
+  "artist": "Una Fricker",
+  "rating": "4.022",
+  "votes": "67"
+}

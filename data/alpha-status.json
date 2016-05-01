@@ -1,0 +1,13 @@
+{
+  "title": "Alpha Status",
+  "image": "./img/alpha-status.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+2 for each other creature on the battlefield that shares a creature type with it.",
+  "expansion": "Scourge",
+  "rarity": "Uncommon",
+  "cardNumber": "110",
+  "artist": "Darrell Riche",
+  "rating": "4.208",
+  "votes": "53"
+}

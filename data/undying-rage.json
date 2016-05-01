@@ -1,0 +1,13 @@
+{
+  "title": "Undying Rage",
+  "image": "./img/undying-rage.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+2 and can't block.When Undying Rage is put into a graveyard from the battlefield, return Undying Rage to its owner's hand.",
+  "expansion": "Duel Decks: Heroes vs. Monsters",
+  "rarity": "Uncommon",
+  "cardNumber": "26",
+  "artist": "Scott M. Fischer",
+  "rating": "2.917",
+  "votes": "12"
+}

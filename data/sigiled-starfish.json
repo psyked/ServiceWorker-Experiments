@@ -1,0 +1,13 @@
+{
+  "title": "Sigiled Starfish",
+  "image": "./img/sigiled-starfish.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Starfish",
+  "text": ": Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "73",
+  "artist": "Nils Hamm",
+  "rating": "5",
+  "votes": "0"
+}

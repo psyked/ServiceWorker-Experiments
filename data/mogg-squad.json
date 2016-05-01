@@ -1,0 +1,13 @@
+{
+  "title": "Mogg Squad",
+  "image": "./img/mogg-squad.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin",
+  "text": "Mogg Squad gets -1/-1 for each other creature on the battlefield.",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Joel Biske",
+  "rating": "1.223",
+  "votes": "56"
+}

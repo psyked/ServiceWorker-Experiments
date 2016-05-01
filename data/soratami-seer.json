@@ -1,0 +1,13 @@
+{
+  "title": "Soratami Seer",
+  "image": "./img/soratami-seer.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Moonfolk Wizard",
+  "text": "Flying, Return two lands you control to their owner's hand: Discard all the cards in your hand, then draw that many cards.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "91",
+  "artist": "Arnie Swekel",
+  "rating": "1.933",
+  "votes": "30"
+}

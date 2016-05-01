@@ -1,0 +1,13 @@
+{
+  "title": "Soulcage Fiend",
+  "image": "./img/soulcage-fiend.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Demon",
+  "text": "When Soulcage Fiend dies, each player loses 3 life.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "120",
+  "artist": "Jason A. Engle",
+  "rating": "3.064",
+  "votes": "39"
+}

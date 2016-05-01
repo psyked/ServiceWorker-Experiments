@@ -1,0 +1,13 @@
+{
+  "title": "Harbinger of the Hunt",
+  "image": "./img/harbinger-ofthehunt.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Dragon",
+  "text": "Flying: Harbinger of the Hunt deals 1 damage to each creature without flying.: Harbinger of the Hunt deals 1 damage to each other creature with flying.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "223",
+  "artist": "Aaron Miller",
+  "rating": "5",
+  "votes": "0"
+}

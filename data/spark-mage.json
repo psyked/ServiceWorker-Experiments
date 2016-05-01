@@ -1,0 +1,13 @@
+{
+  "title": "Spark Mage",
+  "image": "./img/spark-mage.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Dwarf Wizard",
+  "text": "Whenever Spark Mage deals combat damage to a player, you may have Spark Mage deal 1 damage to target creature that player controls.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "222",
+  "artist": "Paolo Parente",
+  "rating": "2.931",
+  "votes": "29"
+}

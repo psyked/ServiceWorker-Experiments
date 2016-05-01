@@ -1,0 +1,13 @@
+{
+  "title": "Blight Mamba",
+  "image": "./img/blight-mamba.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Snake",
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.): Regenerate Blight Mamba.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "112",
+  "artist": "Drew Baker",
+  "rating": "3.762",
+  "votes": "107"
+}

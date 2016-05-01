@@ -1,0 +1,13 @@
+{
+  "title": "Sarcomite Myr",
+  "image": "./img/sarcomite-myr.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Myr",
+  "text": ": Sarcomite Myr gains flying until end of turn., Sacrifice Sarcomite Myr: Draw a card.",
+  "expansion": "Planechase",
+  "rarity": "Common",
+  "cardNumber": "13",
+  "artist": "Michael Bruinsma",
+  "rating": "2.707",
+  "votes": "41"
+}

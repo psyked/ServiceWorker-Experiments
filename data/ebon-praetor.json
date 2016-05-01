@@ -1,0 +1,13 @@
+{
+  "title": "Ebon Praetor",
+  "image": "./img/ebon-praetor.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Avatar Praetor",
+  "text": "First strike, trampleAt the beginning of your upkeep, put a -2/-2 counter on Ebon Praetor.Sacrifice a creature: Remove a -2/-2 counter from Ebon Praetor. If the sacrificed creature was a Thrull, put a +1/+0 counter on Ebon Praetor. Activate this ability only during your upkeep and only once each turn.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "89",
+  "artist": "Randy Asplund",
+  "rating": "3.330",
+  "votes": "47"
+}

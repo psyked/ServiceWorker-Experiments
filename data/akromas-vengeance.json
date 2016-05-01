@@ -1,0 +1,13 @@
+{
+  "title": "Akroma's Vengeance",
+  "image": "./img/akromas-vengeance.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Destroy all artifacts, creatures, and enchantments.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "From the Vault: Twenty",
+  "rarity": "Mythic Rare",
+  "cardNumber": "11",
+  "artist": "Aleksi Briclot",
+  "rating": "4.000",
+  "votes": "27"
+}

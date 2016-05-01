@@ -1,0 +1,13 @@
+{
+  "title": "Altar of Dementia",
+  "image": "./img/altar-ofdementia.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Sacrifice a creature: Target player puts a number of cards equal to the sacrificed creature's power from the top of his or her library into his or her graveyard.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Rare",
+  "cardNumber": "196",
+  "artist": "Brom",
+  "rating": "4.393",
+  "votes": "14"
+}

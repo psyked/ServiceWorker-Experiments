@@ -1,0 +1,13 @@
+{
+  "title": "Putrid Warrior",
+  "image": "./img/putrid-warrior.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie Soldier Warrior",
+  "text": "Whenever Putrid Warrior deals damage, choose one —• Each player loses 1 life.• Each player gains 1 life.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "117",
+  "artist": "Ray Lago",
+  "rating": "3.308",
+  "votes": "52"
+}

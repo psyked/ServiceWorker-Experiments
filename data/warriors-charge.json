@@ -1,0 +1,13 @@
+{
+  "title": "Warrior's Charge",
+  "image": "./img/warriors-charge.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Creatures you control get +1/+1 until end of turn.",
+  "expansion": "Portal",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Ted Naifeh",
+  "rating": "1.625",
+  "votes": "24"
+}

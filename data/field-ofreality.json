@@ -1,0 +1,13 @@
+{
+  "title": "Field of Reality",
+  "image": "./img/field-ofreality.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature can't be blocked by Spirits.: Return Field of Reality to its owner's hand.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "60",
+  "artist": "Christopher Rush",
+  "rating": "1.543",
+  "votes": "35"
+}

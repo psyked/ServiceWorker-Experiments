@@ -1,0 +1,13 @@
+{
+  "title": "Temporary Insanity",
+  "image": "./img/temporary-insanity.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Untap target creature with power less than the number of cards in your graveyard and gain control of it until end of turn. That creature gains haste until end of turn.",
+  "expansion": "Duel Decks: Knights vs. Dragons",
+  "rarity": "Uncommon",
+  "cardNumber": "73",
+  "artist": "Mark Romanoski",
+  "rating": "2.288",
+  "votes": "26"
+}

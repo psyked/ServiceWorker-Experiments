@@ -1,0 +1,13 @@
+{
+  "title": "Cult of the Waxing Moon",
+  "image": "./img/cult-ofthewaxingmoon.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Shaman",
+  "text": "Whenever a permanent you control transforms into a non-Human creature, put a 2/2 green Wolf creature token onto the battlefield.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "201",
+  "artist": "Anastasia Ovchinnikova",
+  "rating": "5",
+  "votes": "0"
+}

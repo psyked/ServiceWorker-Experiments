@@ -1,0 +1,13 @@
+{
+  "title": "Academy Researchers",
+  "image": "./img/academy-researchers.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "When Academy Researchers enters the battlefield, you may put an Aura card from your hand onto the battlefield attached to Academy Researchers.",
+  "expansion": "Tenth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "63",
+  "artist": "Stephen Daniele",
+  "rating": "3.981",
+  "votes": "53"
+}

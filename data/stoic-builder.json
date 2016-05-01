@@ -1,0 +1,13 @@
+{
+  "title": "Stoic Builder",
+  "image": "./img/stoic-builder.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human",
+  "text": "When Stoic Builder enters the battlefield, you may return target land card from your graveyard to your hand.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "231",
+  "artist": "Howard Lyon",
+  "rating": "5",
+  "votes": "0"
+}

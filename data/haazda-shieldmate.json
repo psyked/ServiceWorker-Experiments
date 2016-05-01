@@ -1,0 +1,13 @@
+{
+  "title": "Haazda Shield Mate",
+  "image": "./img/haazda-shieldmate.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "At the beginning of your upkeep, sacrifice Haazda Shield Mate unless you pay .: The next time a source of your choice would deal damage to you this turn, prevent that damage.",
+  "expansion": "Dissension",
+  "rarity": "Rare",
+  "cardNumber": "12",
+  "artist": "Ron Spears",
+  "rating": "2.660",
+  "votes": "53"
+}

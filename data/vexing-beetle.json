@@ -1,0 +1,13 @@
+{
+  "title": "Vexing Beetle",
+  "image": "./img/vexing-beetle.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Insect",
+  "text": "Vexing Beetle can't be countered.Vexing Beetle gets +3/+3 as long as no opponent controls a creature.",
+  "expansion": "Legions",
+  "rarity": "Rare",
+  "cardNumber": "143",
+  "artist": "Matt Thompson",
+  "rating": "2.929",
+  "votes": "21"
+}

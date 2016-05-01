@@ -1,0 +1,13 @@
+{
+  "title": "Ugin's Nexus",
+  "image": "./img/ugins-nexus.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Artifact",
+  "text": "If a player would begin an extra turn, that player skips that turn instead.If Ugin's Nexus would be put into a graveyard from the battlefield, instead exile it and take an extra turn after this one.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Mythic Rare",
+  "cardNumber": "227",
+  "artist": "Sam Burley",
+  "rating": "3.500",
+  "votes": "2"
+}

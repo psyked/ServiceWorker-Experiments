@@ -1,0 +1,13 @@
+{
+  "title": "Colossus of Sardia",
+  "image": "./img/colossus-ofsardia.jpg",
+  "convertedManaCost": "9",
+  "types": "Artifact Creature  — Golem",
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)Colossus of Sardia doesn't untap during your untap step.: Untap Colossus of Sardia. Activate this ability only during your upkeep.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "193",
+  "artist": "Jesper Myrfors",
+  "rating": "3.120",
+  "votes": "46"
+}

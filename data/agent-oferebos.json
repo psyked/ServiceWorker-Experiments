@@ -1,0 +1,13 @@
+{
+  "title": "Agent of Erebos",
+  "image": "./img/agent-oferebos.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment Creature  — Zombie",
+  "text": "Constellation — Whenever Agent of Erebos or another enchantment enters the battlefield under your control, exile all cards from target player's graveyard.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "59",
+  "artist": "Cyril Van Der Haegen",
+  "rating": "3.204",
+  "votes": "27"
+}

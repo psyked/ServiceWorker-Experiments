@@ -1,0 +1,13 @@
+{
+  "title": "Hidden Gibbons",
+  "image": "./img/hidden-gibbons.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment",
+  "text": "When an opponent casts an instant spell, if Hidden Gibbons is an enchantment, Hidden Gibbons becomes a 4/4 Ape creature.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Rare",
+  "cardNumber": "104",
+  "artist": "Una Fricker",
+  "rating": "4.398",
+  "votes": "59"
+}

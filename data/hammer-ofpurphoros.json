@@ -1,0 +1,13 @@
+{
+  "title": "Hammer of Purphoros",
+  "image": "./img/hammer-ofpurphoros.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Enchantment Artifact",
+  "text": "Creatures you control have haste., , Sacrifice a land: Put a 3/3 colorless Golem enchantment artifact creature token onto the battlefield.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "124",
+  "artist": "Yeong-Hao Han",
+  "rating": "3.592",
+  "votes": "98"
+}

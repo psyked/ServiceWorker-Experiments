@@ -1,0 +1,13 @@
+{
+  "title": "Sunscour",
+  "image": "./img/sunscour.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "You may exile two white cards from your hand rather than pay Sunscour's mana cost.Destroy all creatures.",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "19",
+  "artist": "Jim Murray",
+  "rating": "4.114",
+  "votes": "57"
+}

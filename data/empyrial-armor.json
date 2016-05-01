@@ -1,0 +1,13 @@
+{
+  "title": "Empyrial Armor",
+  "image": "./img/empyrial-armor.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+1 for each card in your hand.",
+  "expansion": "Vintage Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "25",
+  "artist": "D. Alexander Gregory",
+  "rating": "3.500",
+  "votes": "1"
+}

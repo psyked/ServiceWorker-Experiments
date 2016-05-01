@@ -1,0 +1,13 @@
+{
+  "title": "Rites of Reaping",
+  "image": "./img/rites-ofreaping.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Target creature gets +3/+3 until end of turn. Another target creature gets -3/-3 until end of turn.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "191",
+  "artist": "David Rapoza",
+  "rating": "1.433",
+  "votes": "60"
+}

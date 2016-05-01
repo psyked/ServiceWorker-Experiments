@@ -1,0 +1,13 @@
+{
+  "title": "Soul Spike",
+  "image": "./img/soul-spike.jpg",
+  "convertedManaCost": "7",
+  "types": "Instant",
+  "text": "You may exile two black cards from your hand rather than pay Soul Spike's mana cost.Soul Spike deals 4 damage to target creature or player and you gain 4 life.",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "70",
+  "artist": "Wayne England",
+  "rating": "3.491",
+  "votes": "57"
+}

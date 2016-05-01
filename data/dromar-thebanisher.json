@@ -1,0 +1,13 @@
+{
+  "title": "Dromar, the Banisher",
+  "image": "./img/dromar-thebanisher.jpg",
+  "convertedManaCost": "6",
+  "types": "Legendary Creature  — Dragon",
+  "text": "FlyingWhenever Dromar, the Banisher deals combat damage to a player, you may pay . If you do, choose a color, then return all creatures of that color to their owners' hands.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "244",
+  "artist": "Dave Dorman",
+  "rating": "3.971",
+  "votes": "70"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Eldrazi Aggressor",
+  "image": "./img/eldrazi-aggressor.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.)Eldrazi Aggressor has haste as long as you control another colorless creature.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "95",
+  "artist": "Mathias Kollros",
+  "rating": "5",
+  "votes": "0"
+}

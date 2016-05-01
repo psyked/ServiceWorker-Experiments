@@ -1,0 +1,13 @@
+{
+  "title": "Manacles of Decay",
+  "image": "./img/manacles-ofdecay.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature can't attack.: Enchanted creature gets -1/-1 until end of turn.: Enchanted creature can't block this turn.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "14",
+  "artist": "Gary Ruddell",
+  "rating": "3.323",
+  "votes": "31"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Stranglehold",
+  "image": "./img/stranglehold.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Your opponents can't search libraries.If an opponent would begin an extra turn, that player skips that turn instead.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Rare",
+  "cardNumber": "136",
+  "artist": "John Stanko",
+  "rating": "4.204",
+  "votes": "71"
+}

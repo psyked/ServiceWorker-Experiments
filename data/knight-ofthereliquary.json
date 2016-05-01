@@ -1,0 +1,13 @@
+{
+  "title": "Knight of the Reliquary",
+  "image": "./img/knight-ofthereliquary.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "Knight of the Reliquary gets +1/+1 for each land card in your graveyard., Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.",
+  "expansion": "Modern Masters",
+  "rarity": "Rare",
+  "cardNumber": "178",
+  "artist": "Michael Komarck",
+  "rating": "4.549",
+  "votes": "51"
+}

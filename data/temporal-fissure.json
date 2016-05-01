@@ -1,0 +1,13 @@
+{
+  "title": "Temporal Fissure",
+  "image": "./img/temporal-fissure.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Return target permanent to its owner's hand.Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "96",
+  "artist": "Seb McKinnon",
+  "rating": "5",
+  "votes": "0"
+}

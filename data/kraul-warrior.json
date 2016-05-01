@@ -1,0 +1,13 @@
+{
+  "title": "Kraul Warrior",
+  "image": "./img/kraul-warrior.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Insect Warrior",
+  "text": ": Kraul Warrior gets +3/+3 until end of turn.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Common",
+  "cardNumber": "42",
+  "artist": "David Rapoza",
+  "rating": "2.810",
+  "votes": "29"
+}

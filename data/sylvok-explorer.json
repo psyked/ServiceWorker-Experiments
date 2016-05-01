@@ -1,0 +1,13 @@
+{
+  "title": "Sylvok Explorer",
+  "image": "./img/sylvok-explorer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Druid",
+  "text": ": Add to your mana pool one mana of any color that a land an opponent controls could produce.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "93",
+  "artist": "Wayne England",
+  "rating": "2.862",
+  "votes": "29"
+}

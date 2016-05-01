@@ -1,0 +1,13 @@
+{
+  "title": "Valakut Invoker",
+  "image": "./img/valakut-invoker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Shaman",
+  "text": ": Valakut Invoker deals 3 damage to target creature or player.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "159",
+  "artist": "Joseph Meehan",
+  "rating": "5",
+  "votes": "0"
+}

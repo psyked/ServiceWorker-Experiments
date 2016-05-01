@@ -1,0 +1,13 @@
+{
+  "title": "Spell Contortion",
+  "image": "./img/spell-contortion.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Multikicker  (You may pay an additional  any number of times as you cast this spell.)Counter target spell unless its controller pays . Draw a card for each time Spell Contortion was kicked.",
+  "expansion": "Worldwake",
+  "rarity": "Uncommon",
+  "cardNumber": "38",
+  "artist": "Wayne Reynolds",
+  "rating": "2.500",
+  "votes": "64"
+}

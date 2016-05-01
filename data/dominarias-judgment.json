@@ -1,0 +1,13 @@
+{
+  "title": "Dominaria's Judgment",
+  "image": "./img/dominarias-judgment.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Until end of turn, creatures you control gain protection from white if you control a Plains, from blue if you control an Island, from black if you control a Swamp, from red if you control a Mountain, and from green if you control a Forest.",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "4",
+  "artist": "John Avon",
+  "rating": "3.516",
+  "votes": "32"
+}

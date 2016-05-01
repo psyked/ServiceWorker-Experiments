@@ -1,0 +1,13 @@
+{
+  "title": "Avaricious Dragon",
+  "image": "./img/avaricious-dragon.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Dragon",
+  "text": "FlyingAt the beginning of your draw step, draw an additional card.At the beginning of your end step, discard your hand.",
+  "expansion": "Magic Origins",
+  "rarity": "Mythic Rare",
+  "cardNumber": "131",
+  "artist": "Chris Rahn",
+  "rating": "5",
+  "votes": "0"
+}

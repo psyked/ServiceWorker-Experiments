@@ -1,0 +1,13 @@
+{
+  "title": "Dictate of Kruphix",
+  "image": "./img/dictate-ofkruphix.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "FlashAt the beginning of each player's draw step, that player draws an additional card.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Rare",
+  "cardNumber": "37",
+  "artist": "Daarken",
+  "rating": "3.788",
+  "votes": "40"
+}

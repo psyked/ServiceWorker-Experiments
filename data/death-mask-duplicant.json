@@ -1,0 +1,13 @@
+{
+  "title": "Death-Mask Duplicant",
+  "image": "./img/death-mask-duplicant.jpg",
+  "convertedManaCost": "7",
+  "types": "Artifact Creature  — Shapeshifter",
+  "text": "Imprint — : Exile target creature card from your graveyard.As long as a card exiled with Death-Mask Duplicant has flying, Death-Mask Duplicant has flying. The same is true for fear, first strike, double strike, haste, landwalk, protection, and trample.",
+  "expansion": "Darksteel",
+  "rarity": "Uncommon",
+  "cardNumber": "115",
+  "artist": "Thomas M. Baxa",
+  "rating": "3.809",
+  "votes": "34"
+}

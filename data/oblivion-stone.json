@@ -1,0 +1,13 @@
+{
+  "title": "Oblivion Stone",
+  "image": "./img/oblivion-stone.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", : Put a fate counter on target permanent., , Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Rare",
+  "cardNumber": "254",
+  "artist": "Sam Wood",
+  "rating": "4.183",
+  "votes": "30"
+}

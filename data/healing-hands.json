@@ -1,0 +1,13 @@
+{
+  "title": "Healing Hands",
+  "image": "./img/healing-hands.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target player gains 4 life.Draw a card.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "17",
+  "artist": "Josu Hernaiz",
+  "rating": "5",
+  "votes": "0"
+}

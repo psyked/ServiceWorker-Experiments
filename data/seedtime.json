@@ -1,0 +1,13 @@
+{
+  "title": "Seedtime",
+  "image": "./img/seedtime.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Cast Seedtime only during your turn.Take an extra turn after this one if an opponent cast a blue spell this turn.",
+  "expansion": "Judgment",
+  "rarity": "Rare",
+  "cardNumber": "130",
+  "artist": "Rebecca Guay",
+  "rating": "4.014",
+  "votes": "71"
+}

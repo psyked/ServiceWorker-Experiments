@@ -1,0 +1,13 @@
+{
+  "title": "Kessig Cagebreakers",
+  "image": "./img/kessig-cagebreakers.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Rogue",
+  "text": "Whenever Kessig Cagebreakers attacks, put a 2/2 green Wolf creature token onto the battlefield tapped and attacking for each creature card in your graveyard.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "187",
+  "artist": "Wayne England",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Scout's Warning",
+  "image": "./img/scouts-warning.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "The next creature card you play this turn can be played as though it had flash.Draw a card.",
+  "expansion": "Future Sight",
+  "rarity": "Rare",
+  "cardNumber": "16",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "3.912",
+  "votes": "74"
+}

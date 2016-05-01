@@ -1,0 +1,13 @@
+{
+  "title": "Search for Survivors",
+  "image": "./img/search-forsurvivors.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Reorder your graveyard at random. An opponent chooses a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, exile it.",
+  "expansion": "Prophecy",
+  "rarity": "Rare",
+  "cardNumber": "102",
+  "artist": "Mark Romanoski",
+  "rating": "3.167",
+  "votes": "27"
+}

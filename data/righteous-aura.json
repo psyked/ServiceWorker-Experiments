@@ -1,0 +1,13 @@
+{
+  "title": "Righteous Aura",
+  "image": "./img/righteous-aura.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": ", Pay 2 life: The next time a source of your choice would deal damage to you this turn, prevent that damage.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "45",
+  "artist": "Pete Venters",
+  "rating": "3.483",
+  "votes": "29"
+}

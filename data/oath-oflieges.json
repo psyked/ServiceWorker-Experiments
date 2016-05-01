@@ -1,0 +1,13 @@
+{
+  "title": "Oath of Lieges",
+  "image": "./img/oath-oflieges.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "At the beginning of each player's upkeep, that player chooses target player who controls more lands than he or she does and is his or her opponent. The first player may search his or her library for a basic land card, put that card onto the battlefield, then shuffle his or her library.",
+  "expansion": "Exodus",
+  "rarity": "Rare",
+  "cardNumber": "11",
+  "artist": "Mark Zug",
+  "rating": "3.403",
+  "votes": "31"
+}

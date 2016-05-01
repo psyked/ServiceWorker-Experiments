@@ -1,0 +1,13 @@
+{
+  "title": "Kor Dirge",
+  "image": "./img/kor-dirge.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "87",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "3.750",
+  "votes": "32"
+}

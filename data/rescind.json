@@ -1,0 +1,13 @@
+{
+  "title": "Rescind",
+  "image": "./img/rescind.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Return target permanent to its owner's hand.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "90",
+  "artist": "Adam Rex",
+  "rating": "4.000",
+  "votes": "1"
+}

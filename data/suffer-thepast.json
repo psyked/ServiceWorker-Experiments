@@ -1,0 +1,13 @@
+{
+  "title": "Suffer the Past",
+  "image": "./img/suffer-thepast.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Exile X target cards from target player's graveyard. For each card exiled this way, that player loses 1 life and you gain 1 life.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "128",
+  "artist": "Trevor Claxton",
+  "rating": "4.047",
+  "votes": "86"
+}

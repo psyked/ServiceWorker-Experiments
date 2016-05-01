@@ -1,0 +1,13 @@
+{
+  "title": "Dismantle",
+  "image": "./img/dismantle.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Destroy target artifact. If that artifact had counters on it, put that many +1/+1 counters or charge counters on an artifact you control.",
+  "expansion": "Darksteel",
+  "rarity": "Uncommon",
+  "cardNumber": "57",
+  "artist": "Brian Snoddy",
+  "rating": "3.708",
+  "votes": "36"
+}

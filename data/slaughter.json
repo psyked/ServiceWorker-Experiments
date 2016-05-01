@@ -1,0 +1,13 @@
+{
+  "title": "Slaughter",
+  "image": "./img/slaughter.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Buyback—Pay 4 life. (You may pay 4 life in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)Destroy target nonblack creature. It can't be regenerated.",
+  "expansion": "Exodus",
+  "rarity": "Uncommon",
+  "cardNumber": "74",
+  "artist": "Pete Venters",
+  "rating": "3.593",
+  "votes": "43"
+}

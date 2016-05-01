@@ -1,0 +1,13 @@
+{
+  "title": "Spreading Seas",
+  "image": "./img/spreading-seas.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landWhen Spreading Seas enters the battlefield, draw a card.Enchanted land is an Island.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "70",
+  "artist": "Jung Park",
+  "rating": "4.057",
+  "votes": "166"
+}

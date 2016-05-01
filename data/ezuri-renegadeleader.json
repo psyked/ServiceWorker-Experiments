@@ -1,0 +1,13 @@
+{
+  "title": "Ezuri, Renegade Leader",
+  "image": "./img/ezuri-renegadeleader.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Creature  — Elf Warrior",
+  "text": ": Regenerate another target Elf.: Elf creatures you control get +3/+3 and gain trample until end of turn.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "195",
+  "artist": "Karl Kopinski",
+  "rating": "5",
+  "votes": "0"
+}

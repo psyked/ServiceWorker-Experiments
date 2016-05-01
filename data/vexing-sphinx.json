@@ -1,0 +1,13 @@
+{
+  "title": "Vexing Sphinx",
+  "image": "./img/vexing-sphinx.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Sphinx",
+  "text": "FlyingCumulative upkeep—Discard a card. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)When Vexing Sphinx dies, draw a card for each age counter on it.",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "50",
+  "artist": "Lars Grant-West",
+  "rating": "4.336",
+  "votes": "67"
+}

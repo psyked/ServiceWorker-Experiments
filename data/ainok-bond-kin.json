@@ -1,0 +1,13 @@
+{
+  "title": "Ainok Bond-Kin",
+  "image": "./img/ainok-bond-kin.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Hound Soldier",
+  "text": "Outlast  (, : Put a +1/+1 counter on this creature. Outlast only as a sorcery.)Each creature you control with a +1/+1 counter on it has first strike.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "3",
+  "artist": "Chris Rahn",
+  "rating": "3.643",
+  "votes": "7"
+}

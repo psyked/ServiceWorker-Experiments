@@ -1,0 +1,13 @@
+{
+  "title": "Lord of Atlantis",
+  "image": "./img/lord-ofatlantis.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk",
+  "text": "Other Merfolk creatures get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "24",
+  "artist": "Melissa A. Benson",
+  "rating": "4.462",
+  "votes": "106"
+}

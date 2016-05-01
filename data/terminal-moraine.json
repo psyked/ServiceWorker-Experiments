@@ -1,0 +1,13 @@
+{
+  "title": "Terminal Moraine",
+  "image": "./img/terminal-moraine.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool., , Sacrifice Terminal Moraine: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.",
+  "expansion": "Planeshift",
+  "rarity": "Uncommon",
+  "cardNumber": "142",
+  "artist": "Scott Bailey",
+  "rating": "3.347",
+  "votes": "36"
+}

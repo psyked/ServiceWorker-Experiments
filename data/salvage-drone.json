@@ -1,0 +1,13 @@
+{
+  "title": "Salvage Drone",
+  "image": "./img/salvage-drone.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.)Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)When Salvage Drone dies, you may draw a card. If you do, discard a card.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "65",
+  "artist": "Slawomir Maniak",
+  "rating": "5",
+  "votes": "0"
+}

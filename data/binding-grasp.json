@@ -1,0 +1,13 @@
+{
+  "title": "Binding Grasp",
+  "image": "./img/binding-grasp.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAt the beginning of your upkeep, sacrifice Binding Grasp unless you pay .You control enchanted creature.Enchanted creature gets +0/+1.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "41",
+  "artist": "Ruth Thompson",
+  "rating": "3.779",
+  "votes": "34"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mercy Killing",
+  "image": "./img/mercy-killing.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Target creature's controller sacrifices it, then puts X 1/1 green and white Elf Warrior creature tokens onto the battlefield, where X is that creature's power.",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "231",
+  "artist": "Dave Kendall",
+  "rating": "3.852",
+  "votes": "71"
+}

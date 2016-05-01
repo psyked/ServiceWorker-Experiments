@@ -1,0 +1,13 @@
+{
+  "title": "Kashi-Tribe Warriors",
+  "image": "./img/kashi-tribe-warriors.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Snake Warrior",
+  "text": "Whenever Kashi-Tribe Warriors deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "221",
+  "artist": "Stephen Tappin",
+  "rating": "2.224",
+  "votes": "29"
+}

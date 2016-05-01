@@ -1,0 +1,13 @@
+{
+  "title": "Black Cat",
+  "image": "./img/black-cat.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie Cat",
+  "text": "When Black Cat dies, target opponent discards a card at random.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "86",
+  "artist": "David Palumbo",
+  "rating": "3.667",
+  "votes": "6"
+}

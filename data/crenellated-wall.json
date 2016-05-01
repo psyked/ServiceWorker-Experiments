@@ -1,0 +1,13 @@
+{
+  "title": "Crenellated Wall",
+  "image": "./img/crenellated-wall.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Wall",
+  "text": "Defender (This creature can't attack.): Target creature gets +0/+4 until end of turn.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "290",
+  "artist": "Arnie Swekel",
+  "rating": "3.586",
+  "votes": "35"
+}

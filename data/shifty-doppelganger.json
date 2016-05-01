@@ -1,0 +1,13 @@
+{
+  "title": "Shifty Doppelganger",
+  "image": "./img/shifty-doppelganger.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Shapeshifter",
+  "text": ", Exile Shifty Doppelganger: You may put a creature card from your hand onto the battlefield. If you do, that creature gains haste until end of turn. At the beginning of the next end step, sacrifice that creature. If you do, return Shifty Doppelganger to the battlefield.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "101",
+  "artist": "Greg Staples",
+  "rating": "3.935",
+  "votes": "23"
+}

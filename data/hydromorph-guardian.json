@@ -1,0 +1,13 @@
+{
+  "title": "Hydromorph Guardian",
+  "image": "./img/hydromorph-guardian.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental",
+  "text": ", Sacrifice Hydromorph Guardian: Counter target spell that targets one or more creatures you control.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "39",
+  "artist": "Glen Angus",
+  "rating": "3.054",
+  "votes": "28"
+}

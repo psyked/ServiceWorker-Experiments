@@ -1,0 +1,13 @@
+{
+  "title": "Tower Defense",
+  "image": "./img/tower-defense.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Creatures you control get +0/+5 and gain reach until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "137",
+  "artist": "Seb McKinnon",
+  "rating": "2.824",
+  "votes": "54"
+}

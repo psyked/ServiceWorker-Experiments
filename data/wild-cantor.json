@@ -1,0 +1,13 @@
+{
+  "title": "Wild Cantor",
+  "image": "./img/wild-cantor.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Druid",
+  "text": "( can be paid with either  or .)Sacrifice Wild Cantor: Add one mana of any color to your mana pool.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "149",
+  "artist": "Glenn Fabry",
+  "rating": "4.180",
+  "votes": "64"
+}

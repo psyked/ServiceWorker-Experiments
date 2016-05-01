@@ -1,0 +1,13 @@
+{
+  "title": "Conjured Currency",
+  "image": "./img/conjured-currency.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, you may exchange control of Conjured Currency and target permanent you neither own nor control.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Rare",
+  "cardNumber": "33",
+  "artist": "Steve Argyle",
+  "rating": "2.768",
+  "votes": "69"
+}

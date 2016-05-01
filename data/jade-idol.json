@@ -1,0 +1,13 @@
+{
+  "title": "Jade Idol",
+  "image": "./img/jade-idol.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "Whenever you cast a Spirit or Arcane spell, Jade Idol becomes a 4/4 Spirit artifact creature until end of turn.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "256",
+  "artist": "Ben Thompson",
+  "rating": "2.300",
+  "votes": "30"
+}

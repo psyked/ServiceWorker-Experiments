@@ -1,0 +1,13 @@
+{
+  "title": "Basilica Guards",
+  "image": "./img/basilica-guards.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "DefenderExtort (Whenever you cast a spell, you may pay . If you do, each opponent loses 1 life and you gain that much life.)",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "5",
+  "artist": "Dan Scott",
+  "rating": "2.914",
+  "votes": "70"
+}

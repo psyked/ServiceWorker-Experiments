@@ -1,0 +1,13 @@
+{
+  "title": "Ocular Halo",
+  "image": "./img/ocular-halo.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has \": Draw a card.\": Enchanted creature gains vigilance until end of turn.",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "28",
+  "artist": "Ralph Horsley",
+  "rating": "3.474",
+  "votes": "58"
+}

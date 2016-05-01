@@ -1,0 +1,13 @@
+{
+  "title": "Lionheart Maverick",
+  "image": "./img/lionheart-maverick.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Knight",
+  "text": "Vigilance: Lionheart Maverick gets +1/+2 until end of turn.",
+  "expansion": "Duel Decks: Knights vs. Dragons",
+  "rarity": "Common",
+  "cardNumber": "3",
+  "artist": "Hideaki Takamura",
+  "rating": "3.204",
+  "votes": "49"
+}

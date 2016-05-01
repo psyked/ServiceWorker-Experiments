@@ -1,0 +1,13 @@
+{
+  "title": "Sewers of Estark",
+  "image": "./img/sewers-ofestark.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Choose target creature. If it's attacking, it can't be blocked this turn. If it's blocking, prevent all combat damage that would be dealt this combat by it and each creature it's blocking.",
+  "expansion": "Promo set for Gatherer",
+  "rarity": "Special",
+  "cardNumber": "",
+  "artist": "Melissa Benson",
+  "rating": "2.781",
+  "votes": "32"
+}

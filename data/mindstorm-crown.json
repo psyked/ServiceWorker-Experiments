@@ -1,0 +1,13 @@
+{
+  "title": "Mindstorm Crown",
+  "image": "./img/mindstorm-crown.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, draw a card if you had no cards in hand at the beginning of this turn. If you had a card in hand, Mindstorm Crown deals 1 damage to you.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "207",
+  "artist": "Ben Thompson",
+  "rating": "3.539",
+  "votes": "38"
+}

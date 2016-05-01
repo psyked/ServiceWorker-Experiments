@@ -1,0 +1,13 @@
+{
+  "title": "Mana Echoes",
+  "image": "./img/mana-echoes.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever a creature enters the battlefield, you may add an amount of  to your mana pool equal to the number of creatures you control that share a creature type with it.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "218",
+  "artist": "Christopher Moeller",
+  "rating": "3.852",
+  "votes": "88"
+}

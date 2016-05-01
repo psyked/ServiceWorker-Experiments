@@ -1,0 +1,13 @@
+{
+  "title": "Searing Flesh",
+  "image": "./img/searing-flesh.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "Searing Flesh deals 7 damage to target opponent.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "225",
+  "artist": "Pete Venters",
+  "rating": "1.472",
+  "votes": "36"
+}

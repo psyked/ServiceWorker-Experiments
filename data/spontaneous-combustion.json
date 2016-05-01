@@ -1,0 +1,13 @@
+{
+  "title": "Spontaneous Combustion",
+  "image": "./img/spontaneous-combustion.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "As an additional cost to cast Spontaneous Combustion, sacrifice a creature.Spontaneous Combustion deals 3 damage to each creature.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Uncommon",
+  "cardNumber": "194",
+  "artist": "Jason Rainville",
+  "rating": "3.857",
+  "votes": "7"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Urza's Armor",
+  "image": "./img/urzas-armor.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact",
+  "text": "If a source would deal damage to you, prevent 1 of that damage.",
+  "expansion": "Eighth Edition",
+  "rarity": "Rare",
+  "cardNumber": "318",
+  "artist": "rk post",
+  "rating": "3.141",
+  "votes": "71"
+}

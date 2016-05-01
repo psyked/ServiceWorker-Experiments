@@ -1,0 +1,13 @@
+{
+  "title": "Orbs of Warding",
+  "image": "./img/orbs-ofwarding.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": "You have hexproof. (You can't be the target of spells or abilities your opponents control.)If a creature would deal damage to you, prevent 1 of that damage.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "234",
+  "artist": "Johann Bodin",
+  "rating": "5",
+  "votes": "0"
+}

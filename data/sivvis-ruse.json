@@ -1,0 +1,13 @@
+{
+  "title": "Sivvi's Ruse",
+  "image": "./img/sivvis-ruse.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "If an opponent controls a Mountain and you control a Plains, you may cast Sivvi's Ruse without paying its mana cost.Prevent all damage that would be dealt this turn to creatures you control.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "21",
+  "artist": "Kev Walker",
+  "rating": "3.466",
+  "votes": "29"
+}

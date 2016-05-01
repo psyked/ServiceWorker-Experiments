@@ -1,0 +1,13 @@
+{
+  "title": "Jawbone Skulkin",
+  "image": "./img/jawbone-skulkin.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact Creature  — Scarecrow",
+  "text": ": Target red creature gains haste until end of turn.",
+  "expansion": "Eventide",
+  "rarity": "Common",
+  "cardNumber": "170",
+  "artist": "Jeff Easley",
+  "rating": "2.026",
+  "votes": "38"
+}

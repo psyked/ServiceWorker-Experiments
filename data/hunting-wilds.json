@@ -1,0 +1,13 @@
+{
+  "title": "Hunting Wilds",
+  "image": "./img/hunting-wilds.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)Search your library for up to two Forest cards and put them onto the battlefield tapped. Then shuffle your library.If Hunting Wilds was kicked, untap all Forests put onto the battlefield this way. They become 3/3 green creatures with haste that are still lands.",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "130",
+  "artist": "Steve Ellis",
+  "rating": "3.512",
+  "votes": "40"
+}

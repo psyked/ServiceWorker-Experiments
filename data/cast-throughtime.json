@@ -1,0 +1,13 @@
+{
+  "title": "Cast Through Time",
+  "image": "./img/cast-throughtime.jpg",
+  "convertedManaCost": "7",
+  "types": "Enchantment",
+  "text": "Instant and sorcery spells you control have rebound. (Exile the spell as it resolves if you cast it from your hand. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Mythic Rare",
+  "cardNumber": "55",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "3.673",
+  "votes": "113"
+}

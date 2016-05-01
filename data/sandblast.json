@@ -1,0 +1,13 @@
+{
+  "title": "Sandblast",
+  "image": "./img/sandblast.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Sandblast deals 5 damage to target attacking or blocking creature.",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "24",
+  "artist": "Min Yum",
+  "rating": "5",
+  "votes": "0"
+}

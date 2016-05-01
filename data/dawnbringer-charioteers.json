@@ -1,0 +1,13 @@
+{
+  "title": "Dawnbringer Charioteers",
+  "image": "./img/dawnbringer-charioteers.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Soldier",
+  "text": "Flying, lifelinkHeroic — Whenever you cast a spell that targets Dawnbringer Charioteers, put a +1/+1 counter on Dawnbringer Charioteers.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Rare",
+  "cardNumber": "6",
+  "artist": "Ryan Alexander Lee",
+  "rating": "3.763",
+  "votes": "38"
+}

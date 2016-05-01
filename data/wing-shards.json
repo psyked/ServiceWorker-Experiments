@@ -1,0 +1,13 @@
+{
+  "title": "Wing Shards",
+  "image": "./img/wing-shards.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Target player sacrifices an attacking creature.Storm (When you cast this spell, copy it for each spell cast before it this turn.)",
+  "expansion": "Commander 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "97",
+  "artist": "Daren Bader",
+  "rating": "5",
+  "votes": "0"
+}

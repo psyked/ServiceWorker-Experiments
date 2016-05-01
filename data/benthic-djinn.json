@@ -1,0 +1,13 @@
+{
+  "title": "Benthic Djinn",
+  "image": "./img/benthic-djinn.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Djinn",
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)At the beginning of your upkeep, you lose 2 life.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Adam Rex",
+  "rating": "2.851",
+  "votes": "37"
+}

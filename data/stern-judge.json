@@ -1,0 +1,13 @@
+{
+  "title": "Stern Judge",
+  "image": "./img/stern-judge.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": ": Each player loses 1 life for each Swamp he or she controls.",
+  "expansion": "Torment",
+  "rarity": "Uncommon",
+  "cardNumber": "16",
+  "artist": "Matt Cavotta",
+  "rating": "3.354",
+  "votes": "24"
+}

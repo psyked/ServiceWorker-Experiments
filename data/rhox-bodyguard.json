@@ -1,0 +1,13 @@
+{
+  "title": "Rhox Bodyguard",
+  "image": "./img/rhox-bodyguard.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Rhino Monk Soldier",
+  "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)When Rhox Bodyguard enters the battlefield, you gain 3 life.",
+  "expansion": "Conflux",
+  "rarity": "Common",
+  "cardNumber": "122",
+  "artist": "Sal Villagran",
+  "rating": "2.107",
+  "votes": "56"
+}

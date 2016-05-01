@@ -1,0 +1,13 @@
+{
+  "title": "Needlebite Trap",
+  "image": "./img/needlebite-trap.jpg",
+  "convertedManaCost": "7",
+  "types": "Instant  — Trap",
+  "text": "If an opponent gained life this turn, you may pay  rather than pay Needlebite Trap's mana cost.Target player loses 5 life and you gain 5 life.",
+  "expansion": "Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "105",
+  "artist": "Daarken",
+  "rating": "3.809",
+  "votes": "68"
+}

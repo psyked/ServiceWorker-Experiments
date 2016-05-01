@@ -1,0 +1,13 @@
+{
+  "title": "Voidslime",
+  "image": "./img/voidslime.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell, activated ability, or triggered ability. (Mana abilities can't be targeted.)",
+  "expansion": "Dissension",
+  "rarity": "Rare",
+  "cardNumber": "137",
+  "artist": "Jim Murray",
+  "rating": "4.262",
+  "votes": "185"
+}

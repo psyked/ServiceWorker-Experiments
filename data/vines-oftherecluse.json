@@ -1,0 +1,13 @@
+{
+  "title": "Vines of the Recluse",
+  "image": "./img/vines-oftherecluse.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets +1/+2 and gains reach until end of turn. Untap it. (A creature with reach can block creatures with flying.)",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "146",
+  "artist": "Dan Scott",
+  "rating": "5",
+  "votes": "0"
+}

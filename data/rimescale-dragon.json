@@ -1,0 +1,13 @@
+{
+  "title": "Rimescale Dragon",
+  "image": "./img/rimescale-dragon.jpg",
+  "convertedManaCost": "7",
+  "types": "Snow Creature  — Dragon",
+  "text": "Flying: Tap target creature and put an ice counter on it. ( can be paid with one mana from a snow permanent.)Creatures with ice counters on them don't untap during their controllers' untap steps.",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "95",
+  "artist": "Jeff Easley",
+  "rating": "4.184",
+  "votes": "79"
+}

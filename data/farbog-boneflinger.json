@@ -1,0 +1,13 @@
+{
+  "title": "Farbog Boneflinger",
+  "image": "./img/farbog-boneflinger.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie",
+  "text": "When Farbog Boneflinger enters the battlefield, target creature gets -2/-2 until end of turn.",
+  "expansion": "Dark Ascension",
+  "rarity": "Uncommon",
+  "cardNumber": "61",
+  "artist": "Tomasz Jedruszek",
+  "rating": "1.340",
+  "votes": "81"
+}

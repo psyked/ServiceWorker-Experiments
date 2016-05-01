@@ -1,0 +1,13 @@
+{
+  "title": "Mordant Dragon",
+  "image": "./img/mordant-dragon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "Flying: Mordant Dragon gets +1/+0 until end of turn.Whenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls.",
+  "expansion": "Duel Decks: Knights vs. Dragons",
+  "rarity": "Rare",
+  "cardNumber": "58",
+  "artist": "Scott Chou",
+  "rating": "3.443",
+  "votes": "44"
+}

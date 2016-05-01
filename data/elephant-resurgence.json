@@ -1,0 +1,13 @@
+{
+  "title": "Elephant Resurgence",
+  "image": "./img/elephant-resurgence.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Each player puts a green Elephant creature token onto the battlefield. Those creatures have \"This creature's power and toughness are each equal to the number of creature cards in its controller's graveyard.\"",
+  "expansion": "Prophecy",
+  "rarity": "Rare",
+  "cardNumber": "113",
+  "artist": "DiTerlizzi",
+  "rating": "3.438",
+  "votes": "40"
+}

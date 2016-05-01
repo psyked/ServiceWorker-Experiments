@@ -1,0 +1,13 @@
+{
+  "title": "Gift of the Gargantuan",
+  "image": "./img/gift-ofthegargantuan.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Look at the top four cards of your library. You may reveal a creature card and/or a land card from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "132",
+  "artist": "Jean-Sébastien Rossbach",
+  "rating": "3.014",
+  "votes": "73"
+}

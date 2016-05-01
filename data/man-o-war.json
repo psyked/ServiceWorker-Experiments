@@ -1,0 +1,13 @@
+{
+  "title": "Man-o'-War",
+  "image": "./img/man-o-war.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Jellyfish",
+  "text": "When Man-o'-War enters the battlefield, return target creature to its owner's hand.",
+  "expansion": "Duel Decks: Elspeth vs. Kiora",
+  "rarity": "Common",
+  "cardNumber": "38",
+  "artist": "Jon J Muth",
+  "rating": "5",
+  "votes": "0"
+}

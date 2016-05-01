@@ -1,0 +1,13 @@
+{
+  "title": "Kinsbaile Cavalier",
+  "image": "./img/kinsbaile-cavalier.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Kithkin Knight",
+  "text": "Knight creatures you control have double strike.",
+  "expansion": "Duel Decks: Knights vs. Dragons",
+  "rarity": "Rare",
+  "cardNumber": "17",
+  "artist": "Wayne Reynolds",
+  "rating": "3.787",
+  "votes": "75"
+}

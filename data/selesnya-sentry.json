@@ -1,0 +1,13 @@
+{
+  "title": "Selesnya Sentry",
+  "image": "./img/selesnya-sentry.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elephant Soldier",
+  "text": ": Regenerate Selesnya Sentry.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "21",
+  "artist": "Wesley Burt",
+  "rating": "2.015",
+  "votes": "68"
+}

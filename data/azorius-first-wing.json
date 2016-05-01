@@ -1,0 +1,13 @@
+{
+  "title": "Azorius First-Wing",
+  "image": "./img/azorius-first-wing.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Griffin",
+  "text": "Flying, protection from enchantments",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "105",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "3.922",
+  "votes": "64"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Reckless Reveler",
+  "image": "./img/reckless-reveler.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Satyr",
+  "text": ", Sacrifice Reckless Reveler: Destroy target artifact.",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "106",
+  "artist": "Mike Sass",
+  "rating": "3.884",
+  "votes": "56"
+}

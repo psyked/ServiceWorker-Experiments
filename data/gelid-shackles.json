@@ -1,0 +1,13 @@
+{
+  "title": "Gelid Shackles",
+  "image": "./img/gelid-shackles.jpg",
+  "convertedManaCost": "1",
+  "types": "Snow Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature can't block, and its activated abilities can't be activated.: Enchanted creature gains defender until end of turn. ( can be paid with one mana from a snow permanent.)",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "6",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "3.280",
+  "votes": "41"
+}

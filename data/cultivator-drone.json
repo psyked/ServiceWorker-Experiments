@@ -1,0 +1,13 @@
+{
+  "title": "Cultivator Drone",
+  "image": "./img/cultivator-drone.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.): Add  to your mana pool. Spend this mana only to cast a colorless spell, activate an ability of a colorless permanent, or pay a cost that contains . ( represents colorless mana.)",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "42",
+  "artist": "Slawomir Maniak",
+  "rating": "5",
+  "votes": "0"
+}

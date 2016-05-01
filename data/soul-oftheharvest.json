@@ -1,0 +1,13 @@
+{
+  "title": "Soul of the Harvest",
+  "image": "./img/soul-oftheharvest.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": "TrampleWhenever another nontoken creature enters the battlefield under your control, you may draw a card.",
+  "expansion": "Welcome Deck 2016",
+  "rarity": "Rare",
+  "cardNumber": "16",
+  "artist": "Eytan Zana",
+  "rating": "5",
+  "votes": "0"
+}

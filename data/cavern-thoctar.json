@@ -1,0 +1,13 @@
+{
+  "title": "Cavern Thoctar",
+  "image": "./img/cavern-thoctar.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Beast",
+  "text": ": Cavern Thoctar gets +1/+0 until end of turn.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "125",
+  "artist": "Jean-Sébastien Rossbach",
+  "rating": "2.033",
+  "votes": "46"
+}

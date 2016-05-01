@@ -1,0 +1,13 @@
+{
+  "title": "Surrak Dragonclaw",
+  "image": "./img/surrak-dragonclaw.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Human Warrior",
+  "text": "FlashSurrak Dragonclaw can't be countered.Creature spells you control can't be countered.Other creatures you control have trample.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Mythic Rare",
+  "cardNumber": "206",
+  "artist": "Jaime Jones",
+  "rating": "4.375",
+  "votes": "4"
+}

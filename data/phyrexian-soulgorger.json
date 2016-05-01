@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Soulgorger",
+  "image": "./img/phyrexian-soulgorger.jpg",
+  "convertedManaCost": "3",
+  "types": "Snow Artifact Creature  — Construct",
+  "text": "Cumulative upkeep—Sacrifice a creature. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "141",
+  "artist": "Brian Snoddy",
+  "rating": "4.030",
+  "votes": "67"
+}

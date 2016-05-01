@@ -1,0 +1,13 @@
+{
+  "title": "Hornet Nest",
+  "image": "./img/hornet-nest.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Insect",
+  "text": "Defender (This creature can't attack.)Whenever Hornet Nest is dealt damage, put that many 1/1 green Insect creature tokens with flying and deathtouch onto the battlefield. (Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "177",
+  "artist": "Adam Paquette",
+  "rating": "3.857",
+  "votes": "14"
+}

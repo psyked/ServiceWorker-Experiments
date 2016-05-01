@@ -1,0 +1,13 @@
+{
+  "title": "Timmerian Fiends",
+  "image": "./img/timmerian-fiends.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Horror",
+  "text": "Remove Timmerian Fiends from your deck before playing if you're not playing for ante., Sacrifice Timmerian Fiends: The owner of target artifact may ante the top card of his or her library. If that player doesn't, exchange ownership of that artifact and Timmerian Fiends. Put the artifact card into your graveyard and Timmerian Fiends from anywhere into that player's graveyard. This change in ownership is permanent.",
+  "expansion": "Homelands",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Mike Kimble",
+  "rating": "1.803",
+  "votes": "61"
+}

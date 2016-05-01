@@ -1,0 +1,13 @@
+{
+  "title": "Arcum's Sleigh",
+  "image": "./img/arcums-sleigh.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ", : Target creature gains vigilance until end of turn. Activate this ability only during combat and only if defending player controls a snow land.",
+  "expansion": "Ice Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Tom Wänerstrand",
+  "rating": "1.205",
+  "votes": "44"
+}

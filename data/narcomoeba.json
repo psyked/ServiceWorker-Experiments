@@ -1,0 +1,13 @@
+{
+  "title": "Narcomoeba",
+  "image": "./img/narcomoeba.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Illusion",
+  "text": "FlyingWhen Narcomoeba is put into your graveyard from your library, you may put it onto the battlefield.",
+  "expansion": "Modern Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "55",
+  "artist": "Matt Stewart",
+  "rating": "4.535",
+  "votes": "43"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Giant Fan",
+  "image": "./img/giant-fan.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "o2, ocT: Move target counter from one card to another. If the second card's rules text refers to any type of counters, the moved counter becomes one of those counters. Otherwise, it becomes a +1/+1 counter.",
+  "expansion": "Unglued",
+  "rarity": "Rare",
+  "cardNumber": "74",
+  "artist": "Randy Gallegos",
+  "rating": "4.339",
+  "votes": "31"
+}

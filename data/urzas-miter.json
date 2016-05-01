@@ -1,0 +1,13 @@
+{
+  "title": "Urza's Miter",
+  "image": "./img/urzas-miter.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Whenever an artifact you control is put into a graveyard from the battlefield, if it wasn't sacrificed, you may pay . If you do, draw a card.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "237",
+  "artist": "Randy Asplund",
+  "rating": "2.148",
+  "votes": "27"
+}

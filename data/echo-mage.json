@@ -1,0 +1,13 @@
+{
+  "title": "Echo Mage",
+  "image": "./img/echo-mage.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "Level up  (: Put a level counter on this. Level up only as a sorcery.)LEVEL 2-32/4, : Copy target instant or sorcery spell. You may choose new targets for the copy.LEVEL 4+2/5, : Copy target instant or sorcery spell twice. You may choose new targets for the copies.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "43",
+  "artist": "Matt Stewart",
+  "rating": "4.000",
+  "votes": "19"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Skulking Ghost",
+  "image": "./img/skulking-ghost.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": "FlyingWhen Skulking Ghost becomes the target of a spell or ability, sacrifice it.",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Robert Bliss",
+  "rating": "3.245",
+  "votes": "49"
+}

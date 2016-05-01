@@ -1,0 +1,13 @@
+{
+  "title": "Tidal Flats",
+  "image": "./img/tidal-flats.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment",
+  "text": ": For each attacking creature without flying, its controller may pay . If he or she doesn't, creatures you control blocking that creature gain first strike until end of turn.",
+  "expansion": "Fallen Empires",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Sandra Everingham",
+  "rating": "2.615",
+  "votes": "26"
+}

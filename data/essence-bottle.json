@@ -1,0 +1,13 @@
+{
+  "title": "Essence Bottle",
+  "image": "./img/essence-bottle.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", : Put an elixir counter on Essence Bottle., Remove all elixir counters from Essence Bottle: You gain 2 life for each elixir counter removed this way.",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Donato Giancola",
+  "rating": "1.320",
+  "votes": "50"
+}

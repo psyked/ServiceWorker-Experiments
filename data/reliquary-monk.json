@@ -1,0 +1,13 @@
+{
+  "title": "Reliquary Monk",
+  "image": "./img/reliquary-monk.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Monk Cleric",
+  "text": "When Reliquary Monk dies, destroy target artifact or enchantment.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "14",
+  "artist": "Thomas M. Baxa",
+  "rating": "3.886",
+  "votes": "44"
+}

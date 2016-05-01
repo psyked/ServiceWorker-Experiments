@@ -1,0 +1,13 @@
+{
+  "title": "Scrabbling Claws",
+  "image": "./img/scrabbling-claws.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ": Target player exiles a card from his or her graveyard., Sacrifice Scrabbling Claws: Exile target card from a graveyard. Draw a card.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "237",
+  "artist": "Thomas M. Baxa",
+  "rating": "3.417",
+  "votes": "36"
+}

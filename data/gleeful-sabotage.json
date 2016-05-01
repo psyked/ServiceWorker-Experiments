@@ -1,0 +1,13 @@
+{
+  "title": "Gleeful Sabotage",
+  "image": "./img/gleeful-sabotage.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Destroy target artifact or enchantment.Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",
+  "expansion": "Archenemy",
+  "rarity": "Common",
+  "cardNumber": "58",
+  "artist": "Todd Lockwood",
+  "rating": "4.032",
+  "votes": "31"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Esper Panorama",
+  "image": "./img/esper-panorama.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool., , Sacrifice Esper Panorama: Search your library for a basic Plains, Island, or Swamp card and put it onto the battlefield tapped. Then shuffle your library.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Common",
+  "cardNumber": "286",
+  "artist": "Franz Vohwinkel",
+  "rating": "2.850",
+  "votes": "10"
+}

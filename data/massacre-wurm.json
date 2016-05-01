@@ -1,0 +1,13 @@
+{
+  "title": "Massacre Wurm",
+  "image": "./img/massacre-wurm.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Wurm",
+  "text": "When Massacre Wurm enters the battlefield, creatures your opponents control get -2/-2 until end of turn.Whenever a creature an opponent controls dies, that player loses 2 life.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Mythic Rare",
+  "cardNumber": "46",
+  "artist": "Jason Chan",
+  "rating": "4.152",
+  "votes": "276"
+}

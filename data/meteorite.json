@@ -1,0 +1,13 @@
+{
+  "title": "Meteorite",
+  "image": "./img/meteorite.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": "When Meteorite enters the battlefield, it deals 2 damage to target creature or player.: Add one mana of any color to your mana pool.",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "233",
+  "artist": "Scott Murphy",
+  "rating": "5",
+  "votes": "0"
+}

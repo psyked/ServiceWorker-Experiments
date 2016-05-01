@@ -1,0 +1,13 @@
+{
+  "title": "Bad Moon",
+  "image": "./img/bad-moon.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Black creatures get +1/+1.",
+  "expansion": "Duel Decks Anthology, Garruk vs. Liliana",
+  "rarity": "Rare",
+  "cardNumber": "48",
+  "artist": "Gary Leach",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Throne of Geth",
+  "image": "./img/throne-ofgeth.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", Sacrifice an artifact: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "211",
+  "artist": "Jana Schirmer & Johannes Voss",
+  "rating": "3.733",
+  "votes": "86"
+}

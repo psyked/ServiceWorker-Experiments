@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Granite",
+  "image": "./img/wall-ofgranite.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)",
+  "expansion": "Portal",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Kev Walker",
+  "rating": "2.897",
+  "votes": "29"
+}

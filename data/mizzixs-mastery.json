@@ -1,0 +1,13 @@
+{
+  "title": "Mizzix's Mastery",
+  "image": "./img/mizzixs-mastery.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Exile target card that's an instant or sorcery from your graveyard. For each card exiled this way, copy it, and you may cast the copy without paying its mana cost. Exile Mizzix's Mastery.Overload  (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "29",
+  "artist": "Dan Scott",
+  "rating": "5",
+  "votes": "0"
+}

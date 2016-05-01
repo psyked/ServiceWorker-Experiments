@@ -1,0 +1,13 @@
+{
+  "title": "Crushing Vines",
+  "image": "./img/crushing-vines.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose one —• Destroy target creature with flying.• Destroy target artifact.",
+  "expansion": "Dark Ascension",
+  "rarity": "Common",
+  "cardNumber": "110",
+  "artist": "Scott Chou",
+  "rating": "3.516",
+  "votes": "63"
+}

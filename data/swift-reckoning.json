@@ -1,0 +1,13 @@
+{
+  "title": "Swift Reckoning",
+  "image": "./img/swift-reckoning.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, you may cast Swift Reckoning as though it had flash. (You may cast it any time you could cast an instant.)Destroy target tapped creature.",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "35",
+  "artist": "Chris Rahn",
+  "rating": "5",
+  "votes": "0"
+}

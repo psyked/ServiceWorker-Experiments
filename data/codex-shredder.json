@@ -1,0 +1,13 @@
+{
+  "title": "Codex Shredder",
+  "image": "./img/codex-shredder.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ": Target player puts the top card of his or her library into his or her graveyard., , Sacrifice Codex Shredder: Return target card from your graveyard to your hand.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "228",
+  "artist": "Jason Felix",
+  "rating": "3.205",
+  "votes": "61"
+}

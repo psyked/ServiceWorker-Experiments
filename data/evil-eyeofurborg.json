@@ -1,0 +1,13 @@
+{
+  "title": "Evil Eye of Urborg",
+  "image": "./img/evil-eyeofurborg.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Eye",
+  "text": "Non-Eye creatures you control can't attack.Whenever Evil Eye of Urborg becomes blocked by a creature, destroy that creature.",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "107",
+  "artist": "Clint Langley",
+  "rating": "3.903",
+  "votes": "67"
+}

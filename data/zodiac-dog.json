@@ -1,0 +1,13 @@
+{
+  "title": "Zodiac Dog",
+  "image": "./img/zodiac-dog.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Hound",
+  "text": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Common",
+  "cardNumber": "130",
+  "artist": "Qi Baocheng",
+  "rating": "3.306",
+  "votes": "31"
+}

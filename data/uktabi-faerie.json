@@ -1,0 +1,13 @@
+{
+  "title": "Uktabi Faerie",
+  "image": "./img/uktabi-faerie.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Faerie",
+  "text": "Flying, Sacrifice Uktabi Faerie: Destroy target artifact.",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Junior Tomlin",
+  "rating": "2.439",
+  "votes": "33"
+}

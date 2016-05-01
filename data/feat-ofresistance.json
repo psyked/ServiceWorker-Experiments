@@ -1,0 +1,13 @@
+{
+  "title": "Feat of Resistance",
+  "image": "./img/feat-ofresistance.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Put a +1/+1 counter on target creature you control. It gains protection from the color of your choice until end of turn.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "10",
+  "artist": "David Gaillet",
+  "rating": "4.000",
+  "votes": "3"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Commando Raid",
+  "image": "./img/commando-raid.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Until end of turn, target creature you control gains \"When this creature deals combat damage to a player, you may have it deal damage equal to its power to target creature that player controls.\"",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "195",
+  "artist": "Ron Spencer",
+  "rating": "2.875",
+  "votes": "28"
+}

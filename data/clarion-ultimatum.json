@@ -1,0 +1,13 @@
+{
+  "title": "Clarion Ultimatum",
+  "image": "./img/clarion-ultimatum.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "Choose five permanents you control. For each of those permanents, you may search your library for a card with the same name as that permanent. Put those cards onto the battlefield tapped, then shuffle your library.",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "163",
+  "artist": "Michael Komarck",
+  "rating": "3.005",
+  "votes": "98"
+}

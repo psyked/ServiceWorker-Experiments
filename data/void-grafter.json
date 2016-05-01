@@ -1,0 +1,13 @@
+{
+  "title": "Void Grafter",
+  "image": "./img/void-grafter.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.)Flash (You may cast this spell any time you could cast an instant.)When Void Grafter enters the battlefield, another target creature you control gains hexproof until end of turn.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "150",
+  "artist": "Alejandro Mirabal",
+  "rating": "5",
+  "votes": "0"
+}

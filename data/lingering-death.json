@@ -1,0 +1,13 @@
+{
+  "title": "Lingering Death",
+  "image": "./img/lingering-death.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAt the beginning of the end step of enchanted creature's controller, that player sacrifices that creature.",
+  "expansion": "Scourge",
+  "rarity": "Common",
+  "cardNumber": "69",
+  "artist": "Matt Thompson",
+  "rating": "3.134",
+  "votes": "41"
+}

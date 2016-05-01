@@ -1,0 +1,13 @@
+{
+  "title": "Akroan Conscriptor",
+  "image": "./img/akroan-conscriptor.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Shaman",
+  "text": "Heroic — Whenever you cast a spell that targets Akroan Conscriptor, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "87",
+  "artist": "James Ryman",
+  "rating": "3.461",
+  "votes": "38"
+}

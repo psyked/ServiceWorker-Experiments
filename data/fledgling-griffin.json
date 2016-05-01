@@ -1,0 +1,13 @@
+{
+  "title": "Fledgling Griffin",
+  "image": "./img/fledgling-griffin.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Griffin",
+  "text": "Landfall — Whenever a land enters the battlefield under your control, Fledgling Griffin gains flying until end of turn.",
+  "expansion": "Worldwake",
+  "rarity": "Common",
+  "cardNumber": "5",
+  "artist": "Christopher Moeller",
+  "rating": "2.825",
+  "votes": "63"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mikaeus, the Lunarch",
+  "image": "./img/mikaeus-thelunarch.jpg",
+  "convertedManaCost": "1",
+  "types": "Legendary Creature  — Human Cleric",
+  "text": "Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it.: Put a +1/+1 counter on Mikaeus., Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control.",
+  "expansion": "Innistrad",
+  "rarity": "Mythic Rare",
+  "cardNumber": "23",
+  "artist": "Steven Belledin",
+  "rating": "3.902",
+  "votes": "173"
+}

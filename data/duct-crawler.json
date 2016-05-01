@@ -1,0 +1,13 @@
+{
+  "title": "Duct Crawler",
+  "image": "./img/duct-crawler.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Insect",
+  "text": ": Target creature can't block Duct Crawler this turn.",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "198",
+  "artist": "Stephen Daniele",
+  "rating": "2.847",
+  "votes": "36"
+}

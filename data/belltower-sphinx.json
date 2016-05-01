@@ -1,0 +1,13 @@
+{
+  "title": "Belltower Sphinx",
+  "image": "./img/belltower-sphinx.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Sphinx",
+  "text": "FlyingWhenever a source deals damage to Belltower Sphinx, that source's controller puts that many cards from the top of his or her library into his or her graveyard.",
+  "expansion": "Magic 2012",
+  "rarity": "Uncommon",
+  "cardNumber": "46",
+  "artist": "Jim Nelson",
+  "rating": "3.662",
+  "votes": "74"
+}

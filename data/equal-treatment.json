@@ -1,0 +1,13 @@
+{
+  "title": "Equal Treatment",
+  "image": "./img/equal-treatment.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "If any source would deal 1 or more damage to a creature or player this turn, it deals 2 damage to that creature or player instead.Draw a card.",
+  "expansion": "Torment",
+  "rarity": "Uncommon",
+  "cardNumber": "4",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "3.667",
+  "votes": "18"
+}

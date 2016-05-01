@@ -1,0 +1,13 @@
+{
+  "title": "Unnatural Hunger",
+  "image": "./img/unnatural-hunger.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAt the beginning of the upkeep of enchanted creature's controller, Unnatural Hunger deals damage to that player equal to that creature's power unless he or she sacrifices another creature.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "169",
+  "artist": "Jeff Miracola",
+  "rating": "3.411",
+  "votes": "28"
+}

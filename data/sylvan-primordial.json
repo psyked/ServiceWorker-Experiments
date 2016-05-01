@@ -1,0 +1,13 @@
+{
+  "title": "Sylvan Primordial",
+  "image": "./img/sylvan-primordial.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Avatar",
+  "text": "ReachWhen Sylvan Primordial enters the battlefield, for each opponent, destroy target noncreature permanent that player controls. For each permanent destroyed this way, search your library for a Forest card and put that card onto the battlefield tapped. Then shuffle your library.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "136",
+  "artist": "Stephan Martiniere",
+  "rating": "3.763",
+  "votes": "95"
+}

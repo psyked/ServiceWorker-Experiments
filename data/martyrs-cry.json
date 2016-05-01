@@ -1,0 +1,13 @@
+{
+  "title": "Martyr's Cry",
+  "image": "./img/martyrs-cry.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Exile all white creatures. For each creature exiled this way, its controller draws a card.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "19",
+  "artist": "Jeff A. Menges",
+  "rating": "3.413",
+  "votes": "23"
+}

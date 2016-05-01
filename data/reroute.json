@@ -1,0 +1,13 @@
+{
+  "title": "Reroute",
+  "image": "./img/reroute.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Change the target of target activated ability with a single target. (Mana abilities can't be targeted.)Draw a card.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "139",
+  "artist": "Christopher Rush",
+  "rating": "3.911",
+  "votes": "56"
+}

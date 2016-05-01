@@ -1,0 +1,13 @@
+{
+  "title": "Suq'Ata Firewalker",
+  "image": "./img/suqata-firewalker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "Suq'Ata Firewalker can't be the target of red spells or abilities from red sources.: Suq'Ata Firewalker deals 1 damage to target creature or player.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "David O'Connor",
+  "rating": "3.968",
+  "votes": "47"
+}

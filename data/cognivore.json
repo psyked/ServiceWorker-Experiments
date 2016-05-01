@@ -1,0 +1,13 @@
+{
+  "title": "Cognivore",
+  "image": "./img/cognivore.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Lhurgoyf",
+  "text": "FlyingCognivore's power and toughness are each equal to the number of instant cards in all graveyards.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "77",
+  "artist": "Adam Rex",
+  "rating": "2.591",
+  "votes": "55"
+}

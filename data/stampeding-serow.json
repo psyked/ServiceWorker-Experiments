@@ -1,0 +1,13 @@
+{
+  "title": "Stampeding Serow",
+  "image": "./img/stampeding-serow.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Antelope Beast",
+  "text": "TrampleAt the beginning of your upkeep, return a green creature you control to its owner's hand.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "150",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "3.632",
+  "votes": "34"
+}

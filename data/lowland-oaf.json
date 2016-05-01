@@ -1,0 +1,13 @@
+{
+  "title": "Lowland Oaf",
+  "image": "./img/lowland-oaf.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Giant Warrior",
+  "text": ": Target Goblin creature you control gets +1/+0 and gains flying until end of turn. Sacrifice that creature at the beginning of the next end step.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "184",
+  "artist": "Jeff Easley",
+  "rating": "2.621",
+  "votes": "33"
+}

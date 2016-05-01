@@ -1,0 +1,13 @@
+{
+  "title": "Ribbons of Night",
+  "image": "./img/ribbons-ofnight.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Ribbons of Night deals 4 damage to target creature and you gain 4 life. If  was spent to cast Ribbons of Night, draw a card.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "101",
+  "artist": "Ron Spears",
+  "rating": "3.426",
+  "votes": "47"
+}

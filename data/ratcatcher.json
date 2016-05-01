@@ -1,0 +1,13 @@
+{
+  "title": "Ratcatcher",
+  "image": "./img/ratcatcher.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Ogre Rogue",
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)At the beginning of your upkeep, you may search your library for a Rat card, reveal it, and put it into your hand. If you do, shuffle your library.",
+  "expansion": "Dissension",
+  "rarity": "Rare",
+  "cardNumber": "52",
+  "artist": "Dan Scott",
+  "rating": "3.946",
+  "votes": "46"
+}

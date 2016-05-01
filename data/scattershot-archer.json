@@ -1,0 +1,13 @@
+{
+  "title": "Scattershot Archer",
+  "image": "./img/scattershot-archer.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Archer",
+  "text": ": Scattershot Archer deals 1 damage to each creature with flying.",
+  "expansion": "Conflux",
+  "rarity": "Common",
+  "cardNumber": "90",
+  "artist": "Steve Argyle",
+  "rating": "3.640",
+  "votes": "129"
+}

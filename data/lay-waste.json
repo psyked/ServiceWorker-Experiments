@@ -1,0 +1,13 @@
+{
+  "title": "Lay Waste",
+  "image": "./img/lay-waste.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy target land.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "216",
+  "artist": "Carl Critchlow",
+  "rating": "2.783",
+  "votes": "30"
+}

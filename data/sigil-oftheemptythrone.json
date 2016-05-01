@@ -1,0 +1,13 @@
+{
+  "title": "Sigil of the Empty Throne",
+  "image": "./img/sigil-oftheemptythrone.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "Whenever you cast an enchantment spell, put a 4/4 white Angel creature token with flying onto the battlefield.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "80",
+  "artist": "Cyril Van Der Haegen",
+  "rating": "5",
+  "votes": "0"
+}

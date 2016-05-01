@@ -1,0 +1,13 @@
+{
+  "title": "Phantasmal Mount",
+  "image": "./img/phantasmal-mount.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Illusion Horse",
+  "text": "Flying: Target creature you control with toughness 2 or less gets +1/+1 and gains flying until end of turn. When Phantasmal Mount leaves the battlefield this turn, sacrifice that creature. When the creature leaves the battlefield this turn, sacrifice Phantasmal Mount.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "59",
+  "artist": "Melissa A. Benson",
+  "rating": "2.875",
+  "votes": "24"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Zodiac Pig",
+  "image": "./img/zodiac-pig.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Boar",
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Uncommon",
+  "cardNumber": "97",
+  "artist": "Qi Baocheng",
+  "rating": "3.250",
+  "votes": "26"
+}

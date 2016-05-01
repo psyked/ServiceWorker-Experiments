@@ -1,0 +1,13 @@
+{
+  "title": "Dream Fighter",
+  "image": "./img/dream-fighter.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "Whenever Dream Fighter blocks or becomes blocked by a creature, Dream Fighter and that creature phase out. (While they're phased out, they're treated as though they don't exist. Each one phases in before its controller untaps during his or her next untap step.)",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Drew Tucker",
+  "rating": "3.842",
+  "votes": "38"
+}

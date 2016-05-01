@@ -1,0 +1,13 @@
+{
+  "title": "Sudden Impact",
+  "image": "./img/sudden-impact.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Sudden Impact deals damage to target player equal to the number of cards in that player's hand.",
+  "expansion": "Premium Deck Series: Fire and Lightning",
+  "rarity": "Uncommon",
+  "cardNumber": "25",
+  "artist": "Wayne Reynolds",
+  "rating": "3.470",
+  "votes": "33"
+}

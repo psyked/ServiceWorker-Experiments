@@ -1,0 +1,13 @@
+{
+  "title": "Gorilla Pack",
+  "image": "./img/gorilla-pack.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Ape",
+  "text": "Gorilla Pack can't attack unless defending player controls a Forest.When you control no Forests, sacrifice Gorilla Pack.",
+  "expansion": "Ice Age",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Anthony Waters",
+  "rating": "1.875",
+  "votes": "40"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Helm of Kaldra",
+  "image": "./img/helm-ofkaldra.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Artifact  — Equipment",
+  "text": "Equipped creature has first strike, trample, and haste.: If you control Equipment named Helm of Kaldra, Sword of Kaldra, and Shield of Kaldra, put a legendary 4/4 colorless Avatar creature token named Kaldra onto the battlefield and attach those Equipment to it.Equip",
+  "expansion": "Fifth Dawn",
+  "rarity": "Rare",
+  "cardNumber": "131",
+  "artist": "Donato Giancola",
+  "rating": "4.018",
+  "votes": "56"
+}

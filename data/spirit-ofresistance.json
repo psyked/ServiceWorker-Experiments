@@ -1,0 +1,13 @@
+{
+  "title": "Spirit of Resistance",
+  "image": "./img/spirit-ofresistance.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "As long as you control a permanent of each color, prevent all damage that would be dealt to you.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "38",
+  "artist": "John Avon",
+  "rating": "4.179",
+  "votes": "42"
+}

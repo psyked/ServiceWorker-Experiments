@@ -1,0 +1,13 @@
+{
+  "title": "Armada Wurm",
+  "image": "./img/armada-wurm.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Wurm",
+  "text": "TrampleWhen Armada Wurm enters the battlefield, put a 5/5 green Wurm creature token with trample onto the battlefield.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Mythic Rare",
+  "cardNumber": "143",
+  "artist": "Volkan Baga",
+  "rating": "4.010",
+  "votes": "208"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Tainted Specter",
+  "image": "./img/tainted-specter.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Specter",
+  "text": "Flying, : Target player discards a card unless he or she puts a card from his or her hand on top of his or her library. If that player discards a card this way, Tainted Specter deals 1 damage to each creature and each player. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Chippy",
+  "rating": "3.266",
+  "votes": "32"
+}

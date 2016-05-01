@@ -1,0 +1,13 @@
+{
+  "title": "Batwing Brume",
+  "image": "./img/batwing-brume.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Prevent all combat damage that would be dealt this turn if  was spent to cast Batwing Brume. Each player loses 1 life for each attacking creature he or she controls if  was spent to cast Batwing Brume. (Do both if  was spent.)",
+  "expansion": "Archenemy",
+  "rarity": "Uncommon",
+  "cardNumber": "80",
+  "artist": "Richard Kane Ferguson",
+  "rating": "3.736",
+  "votes": "36"
+}

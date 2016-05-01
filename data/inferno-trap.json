@@ -1,0 +1,13 @@
+{
+  "title": "Inferno Trap",
+  "image": "./img/inferno-trap.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant  — Trap",
+  "text": "If you've been dealt damage by two or more creatures this turn, you may pay  rather than pay Inferno Trap's mana cost.Inferno Trap deals 4 damage to target creature.",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Uncommon",
+  "cardNumber": "67",
+  "artist": "Philip Straub",
+  "rating": "2.000",
+  "votes": "1"
+}

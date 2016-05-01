@@ -1,0 +1,13 @@
+{
+  "title": "Soldier of Fortune",
+  "image": "./img/soldier-offortune.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Mercenary",
+  "text": ", : Target player shuffles his or her library.",
+  "expansion": "Alliances",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Douglas Shuler",
+  "rating": "3.758",
+  "votes": "62"
+}

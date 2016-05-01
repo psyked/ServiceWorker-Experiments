@@ -1,0 +1,13 @@
+{
+  "title": "Elite Cat Warrior",
+  "image": "./img/elite-catwarrior.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Cat Warrior",
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "151",
+  "artist": "Eric Peterson",
+  "rating": "3.315",
+  "votes": "27"
+}

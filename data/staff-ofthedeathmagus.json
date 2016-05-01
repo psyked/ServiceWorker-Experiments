@@ -1,0 +1,13 @@
+{
+  "title": "Staff of the Death Magus",
+  "image": "./img/staff-ofthedeathmagus.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Whenever you cast a black spell or a Swamp enters the battlefield under your control, you gain 1 life.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "232",
+  "artist": "Daniel Ljunggren",
+  "rating": "1.700",
+  "votes": "5"
+}

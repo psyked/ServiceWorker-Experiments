@@ -1,0 +1,13 @@
+{
+  "title": "Auratog",
+  "image": "./img/auratog.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Atog",
+  "text": "Sacrifice an enchantment: Auratog gets +2/+2 until end of turn.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "2",
+  "artist": "Jeff Miracola",
+  "rating": "3.553",
+  "votes": "57"
+}

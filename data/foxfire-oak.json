@@ -1,0 +1,13 @@
+{
+  "title": "Foxfire Oak",
+  "image": "./img/foxfire-oak.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Treefolk Shaman",
+  "text": ": Foxfire Oak gets +3/+0 until end of turn.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "115",
+  "artist": "Dave Kendall",
+  "rating": "2.100",
+  "votes": "35"
+}

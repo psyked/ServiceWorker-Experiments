@@ -1,0 +1,13 @@
+{
+  "title": "Dread Summons",
+  "image": "./img/dread-summons.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Each player puts the top X cards of his or her library into his or her graveyard. For each creature card put into a graveyard this way, you put a 2/2 black Zombie creature token onto the battlefield tapped.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "20",
+  "artist": "Izzy",
+  "rating": "5",
+  "votes": "0"
+}

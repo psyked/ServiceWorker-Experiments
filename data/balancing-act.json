@@ -1,0 +1,13 @@
+{
+  "title": "Balancing Act",
+  "image": "./img/balancing-act.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Each player chooses a number of permanents he or she controls equal to the number of permanents controlled by the player who controls the fewest, then sacrifices the rest. Each player discards cards the same way.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "10",
+  "artist": "Scott M. Fischer",
+  "rating": "4.045",
+  "votes": "33"
+}

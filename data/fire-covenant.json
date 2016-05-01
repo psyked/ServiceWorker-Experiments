@@ -1,0 +1,13 @@
+{
+  "title": "Fire Covenant",
+  "image": "./img/fire-covenant.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "As an additional cost to cast Fire Covenant, pay X life.Fire Covenant deals X damage divided as you choose among any number of target creatures.",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "145",
+  "artist": "Dan Frazier",
+  "rating": "3.708",
+  "votes": "48"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Opportunist",
+  "image": "./img/opportunist.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": ": Opportunist deals 1 damage to target creature that was dealt damage this turn.",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Dan Frazier",
+  "rating": "2.641",
+  "votes": "32"
+}

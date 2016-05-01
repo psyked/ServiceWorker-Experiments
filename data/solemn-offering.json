@@ -1,0 +1,13 @@
+{
+  "title": "Solemn Offering",
+  "image": "./img/solemn-offering.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Destroy target artifact or enchantment. You gain 4 life.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "33",
+  "artist": "Sam Wood",
+  "rating": "2.833",
+  "votes": "6"
+}

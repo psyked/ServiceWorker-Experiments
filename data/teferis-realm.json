@@ -1,0 +1,13 @@
+{
+  "title": "Teferi's Realm",
+  "image": "./img/teferis-realm.jpg",
+  "convertedManaCost": "3",
+  "types": "World Enchantment",
+  "text": "At the beginning of each player's upkeep, that player chooses artifact, creature, land, or non-Aura enchantment. All nontoken permanents of that type phase out. (While they're phased out, they're treated as though they don't exist. Each one phases in before its controller untaps during his or her next untap step.)",
+  "expansion": "Visions",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Alan Rabinowitz",
+  "rating": "3.912",
+  "votes": "40"
+}

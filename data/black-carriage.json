@@ -1,0 +1,13 @@
+{
+  "title": "Black Carriage",
+  "image": "./img/black-carriage.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Horse",
+  "text": "TrampleBlack Carriage doesn't untap during your untap step.Sacrifice a creature: Untap Black Carriage. Activate this ability only during your upkeep.",
+  "expansion": "Homelands",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "David A. Cherry",
+  "rating": "2.560",
+  "votes": "67"
+}

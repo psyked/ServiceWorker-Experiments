@@ -1,0 +1,13 @@
+{
+  "title": "Revered Unicorn",
+  "image": "./img/revered-unicorn.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Unicorn",
+  "text": "Cumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)When Revered Unicorn leaves the battlefield, you gain life equal to the number of age counters on it.",
+  "expansion": "Weatherlight",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "David A. Cherry",
+  "rating": "3.463",
+  "votes": "27"
+}

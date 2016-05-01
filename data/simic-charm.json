@@ -1,0 +1,13 @@
+{
+  "title": "Simic Charm",
+  "image": "./img/simic-charm.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Choose one —• Target creature gets +3/+3 until end of turn.• Permanents you control gain hexproof until end of turn.• Return target creature to its owner's hand.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "195",
+  "artist": "Zoltan Boros",
+  "rating": "3.742",
+  "votes": "91"
+}

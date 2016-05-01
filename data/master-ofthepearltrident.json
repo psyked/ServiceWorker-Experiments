@@ -1,0 +1,13 @@
+{
+  "title": "Master of the Pearl Trident",
+  "image": "./img/master-ofthepearltrident.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk",
+  "text": "Other Merfolk creatures you control get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)",
+  "expansion": "Magic 2013",
+  "rarity": "Rare",
+  "cardNumber": "59",
+  "artist": "Ryan Pancoast",
+  "rating": "4.300",
+  "votes": "100"
+}

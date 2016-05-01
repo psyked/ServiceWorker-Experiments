@@ -1,0 +1,13 @@
+{
+  "title": "Zhur-Taa Swine",
+  "image": "./img/zhur-taa-swine.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Boar",
+  "text": "Bloodrush — , Discard Zhur-Taa Swine: Target attacking creature gets +5/+4 until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "210",
+  "artist": "Yeong-Hao Han",
+  "rating": "3.167",
+  "votes": "60"
+}

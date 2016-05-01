@@ -1,0 +1,13 @@
+{
+  "title": "Traveling Plague",
+  "image": "./img/traveling-plague.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAt the beginning of each upkeep, put a plague counter on Traveling Plague.Enchanted creature gets -1/-1 for each plague counter on Traveling Plague.When enchanted creature leaves the battlefield, that creature's controller returns Traveling Plague from its owner's graveyard to the battlefield.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "166",
+  "artist": "Dave Dorman",
+  "rating": "2.375",
+  "votes": "20"
+}

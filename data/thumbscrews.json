@@ -1,0 +1,13 @@
+{
+  "title": "Thumbscrews",
+  "image": "./img/thumbscrews.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, if you have five or more cards in hand, Thumbscrews deals 1 damage to target opponent.",
+  "expansion": "Tempest",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Charles Gillespie",
+  "rating": "2.355",
+  "votes": "31"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mind's Eye",
+  "image": "./img/minds-eye.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": "Whenever an opponent draws a card, you may pay . If you do, draw a card.",
+  "expansion": "Commander's Arsenal",
+  "rarity": "Rare",
+  "cardNumber": "13",
+  "artist": "Karl Kopinski",
+  "rating": "4.109",
+  "votes": "32"
+}

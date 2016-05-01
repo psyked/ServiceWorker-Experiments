@@ -1,0 +1,13 @@
+{
+  "title": "Satyr Grovedancer",
+  "image": "./img/satyr-grovedancer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Satyr Shaman",
+  "text": "When Satyr Grovedancer enters the battlefield, put a +1/+1 counter on target creature.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "139",
+  "artist": "Jason A. Engle",
+  "rating": "3.060",
+  "votes": "25"
+}

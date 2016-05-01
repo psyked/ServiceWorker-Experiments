@@ -1,0 +1,13 @@
+{
+  "title": "Belligerent Whiptail",
+  "image": "./img/belligerent-whiptail.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Wurm",
+  "text": "Landfall — Whenever a land enters the battlefield under your control, Belligerent Whiptail gains first strike until end of turn.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "141",
+  "artist": "Jakub Kasper",
+  "rating": "5",
+  "votes": "0"
+}

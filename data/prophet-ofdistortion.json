@@ -1,0 +1,13 @@
+{
+  "title": "Prophet of Distortion",
+  "image": "./img/prophet-ofdistortion.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.): Draw a card. ( represents colorless mana.)",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "46",
+  "artist": "Lius Lasahido",
+  "rating": "5",
+  "votes": "0"
+}

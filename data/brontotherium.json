@@ -1,0 +1,13 @@
+{
+  "title": "Brontotherium",
+  "image": "./img/brontotherium.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Beast",
+  "text": "TrampleProvoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)",
+  "expansion": "Legions",
+  "rarity": "Uncommon",
+  "cardNumber": "119",
+  "artist": "Carl Critchlow",
+  "rating": "3.793",
+  "votes": "29"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Elvish Impersonators",
+  "image": "./img/elvish-impersonators.jpg",
+  "convertedManaCost": "4",
+  "types": "Summon — Elves",
+  "text": "When you play Elvish Impersonators, roll two six-sided dice one after the other. Elvish Impersonators comes into play with power equal to the first die roll and toughness equal to the second.",
+  "expansion": "Unglued",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Claymore J. Flapdoodle",
+  "rating": "3.675",
+  "votes": "20"
+}

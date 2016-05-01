@@ -1,0 +1,13 @@
+{
+  "title": "Mercadia's Downfall",
+  "image": "./img/mercadias-downfall.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Each attacking creature gets +1/+0 until end of turn for each nonbasic land defending player controls.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "205",
+  "artist": "Pete Venters",
+  "rating": "2.395",
+  "votes": "38"
+}

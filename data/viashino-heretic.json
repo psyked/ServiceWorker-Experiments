@@ -1,0 +1,13 @@
+{
+  "title": "Viashino Heretic",
+  "image": "./img/viashino-heretic.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Viashino",
+  "text": ", : Destroy target artifact. Viashino Heretic deals damage to that artifact's controller equal to the artifact's converted mana cost.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Uncommon",
+  "cardNumber": "95",
+  "artist": "Douglas Shuler",
+  "rating": "4.443",
+  "votes": "61"
+}

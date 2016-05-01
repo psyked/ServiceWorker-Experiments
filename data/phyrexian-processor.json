@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Processor",
+  "image": "./img/phyrexian-processor.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "As Phyrexian Processor enters the battlefield, pay any amount of life., : Put an X/X black Minion creature token onto the battlefield, where X is the life paid as Phyrexian Processor entered the battlefield.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Rare",
+  "cardNumber": "29",
+  "artist": "Dave Kendall",
+  "rating": "4.562",
+  "votes": "88"
+}

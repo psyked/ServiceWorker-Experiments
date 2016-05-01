@@ -1,0 +1,13 @@
+{
+  "title": "Ashling the Pilgrim",
+  "image": "./img/ashling-thepilgrim.jpg",
+  "convertedManaCost": "2",
+  "types": "Legendary Creature  — Elemental Shaman",
+  "text": ": Put a +1/+1 counter on Ashling the Pilgrim. If this is the third time this ability has resolved this turn, remove all +1/+1 counters from Ashling the Pilgrim, and it deals that much damage to each creature and each player.",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "149",
+  "artist": "Wayne Reynolds",
+  "rating": "4.019",
+  "votes": "80"
+}

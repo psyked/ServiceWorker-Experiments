@@ -1,0 +1,13 @@
+{
+  "title": "Acidic Dagger",
+  "image": "./img/acidic-dagger.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ", : Whenever target creature deals combat damage to a non-Wall creature this turn, destroy that non-Wall creature. When the targeted creature leaves the battlefield this turn, sacrifice Acidic Dagger. Activate this ability only before blockers are declared.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Patrick Beel",
+  "rating": "1.434",
+  "votes": "38"
+}

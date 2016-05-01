@@ -1,0 +1,13 @@
+{
+  "title": "Void Attendant",
+  "image": "./img/void-attendant.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Eldrazi Processor",
+  "text": "Devoid (This card has no color.), Put a card an opponent owns from exile into that player's graveyard: Put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has \"Sacrifice this creature: Add  to your mana pool.\"",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "169",
+  "artist": "Viktor Titov",
+  "rating": "5",
+  "votes": "0"
+}

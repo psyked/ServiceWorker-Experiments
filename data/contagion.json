@@ -1,0 +1,13 @@
+{
+  "title": "Contagion",
+  "image": "./img/contagion.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "You may pay 1 life and exile a black card from your hand rather than pay Contagion's mana cost.Distribute two -2/-1 counters among one or two target creatures.",
+  "expansion": "Masters Edition",
+  "rarity": "Rare",
+  "cardNumber": "64",
+  "artist": "Mike Raabe",
+  "rating": "4.571",
+  "votes": "78"
+}

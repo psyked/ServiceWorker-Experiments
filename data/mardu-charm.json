@@ -1,0 +1,13 @@
+{
+  "title": "Mardu Charm",
+  "image": "./img/mardu-charm.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose one —• Mardu Charm deals 4 damage to target creature.• Put two 1/1 white Warrior creature tokens onto the battlefield. They gain first strike until end of turn.• Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "186",
+  "artist": "Mathias Kollros",
+  "rating": "4.000",
+  "votes": "2"
+}

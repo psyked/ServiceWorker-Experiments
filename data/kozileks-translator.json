@@ -1,0 +1,13 @@
+{
+  "title": "Kozilek's Translator",
+  "image": "./img/kozileks-translator.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.)Pay 1 life: Add  to your mana pool. Activate this ability only once each turn. ( represents colorless mana.)",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "74",
+  "artist": "Izzy",
+  "rating": "5",
+  "votes": "0"
+}

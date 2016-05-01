@@ -1,0 +1,13 @@
+{
+  "title": "Firewake Sliver",
+  "image": "./img/firewake-sliver.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Sliver",
+  "text": "All Sliver creatures have haste.All Slivers have \", Sacrifice this permanent: Target Sliver creature gets +2/+2 until end of turn.\"",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "238",
+  "artist": "Anthony S. Waters",
+  "rating": "3.188",
+  "votes": "40"
+}

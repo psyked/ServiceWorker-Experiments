@@ -1,0 +1,13 @@
+{
+  "title": "Djinn Illuminatus",
+  "image": "./img/djinn-illuminatus.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Djinn",
+  "text": "( can be paid with either  or .)FlyingEach instant and sorcery spell you cast has replicate. The replicate cost is equal to its mana cost. (When you cast it, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Rare",
+  "cardNumber": "12",
+  "artist": "Carl Critchlow",
+  "rating": "4.230",
+  "votes": "37"
+}

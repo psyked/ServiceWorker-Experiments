@@ -1,0 +1,13 @@
+{
+  "title": "Dream Halls",
+  "image": "./img/dream-halls.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "Rather than pay the mana cost for a spell, its controller may discard a card that shares a color with that spell.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Mythic Rare",
+  "cardNumber": "46",
+  "artist": "Matthew D. Wilson",
+  "rating": "5",
+  "votes": "0"
+}

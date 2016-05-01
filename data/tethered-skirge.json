@@ -1,0 +1,13 @@
+{
+  "title": "Tethered Skirge",
+  "image": "./img/tethered-skirge.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Imp",
+  "text": "FlyingWhenever Tethered Skirge becomes the target of a spell or ability, you lose 1 life.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Uncommon",
+  "cardNumber": "70",
+  "artist": "Brian Snoddy",
+  "rating": "2.078",
+  "votes": "32"
+}

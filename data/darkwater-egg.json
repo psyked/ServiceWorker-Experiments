@@ -1,0 +1,13 @@
+{
+  "title": "Darkwater Egg",
+  "image": "./img/darkwater-egg.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ", , Sacrifice Darkwater Egg: Add  to your mana pool. Draw a card.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "299",
+  "artist": "David Martin",
+  "rating": "2.450",
+  "votes": "30"
+}

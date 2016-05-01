@@ -1,0 +1,13 @@
+{
+  "title": "The Chain Veil",
+  "image": "./img/the-chainveil.jpg",
+  "convertedManaCost": "4",
+  "types": "Legendary Artifact",
+  "text": "At the beginning of your end step, if you didn't activate a loyalty ability of a planeswalker this turn, you lose 2 life., : For each planeswalker you control, you may activate one of its loyalty abilities once this turn as though none of its loyalty abilities have been activated this turn.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Mythic Rare",
+  "cardNumber": "215",
+  "artist": "Volkan Baga",
+  "rating": "2.500",
+  "votes": "7"
+}

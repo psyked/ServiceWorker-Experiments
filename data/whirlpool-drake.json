@@ -1,0 +1,13 @@
+{
+  "title": "Whirlpool Drake",
+  "image": "./img/whirlpool-drake.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Drake",
+  "text": "FlyingWhen Whirlpool Drake enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards.When Whirlpool Drake dies, shuffle the cards from your hand into your library, then draw that many cards.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "34",
+  "artist": "Alan Pollack",
+  "rating": "3.574",
+  "votes": "27"
+}

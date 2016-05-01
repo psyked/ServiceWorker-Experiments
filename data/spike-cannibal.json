@@ -1,0 +1,13 @@
+{
+  "title": "Spike Cannibal",
+  "image": "./img/spike-cannibal.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spike",
+  "text": "Spike Cannibal enters the battlefield with a +1/+1 counter on it.When Spike Cannibal enters the battlefield, move all +1/+1 counters from all creatures onto it.",
+  "expansion": "Exodus",
+  "rarity": "Uncommon",
+  "cardNumber": "75",
+  "artist": "Joel Biske",
+  "rating": "4.184",
+  "votes": "49"
+}

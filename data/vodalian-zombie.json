@@ -1,0 +1,13 @@
+{
+  "title": "Vodalian Zombie",
+  "image": "./img/vodalian-zombie.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk Zombie",
+  "text": "Protection from green",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "286",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "3.588",
+  "votes": "40"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Triskaidekaphobia",
+  "image": "./img/triskaidekaphobia.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, choose one —• Each player with exactly 13 life loses the game, then each player gains 1 life.• Each player with exactly 13 life loses the game, then each player loses 1 life.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "141",
+  "artist": "Willian Murai",
+  "rating": "5",
+  "votes": "0"
+}

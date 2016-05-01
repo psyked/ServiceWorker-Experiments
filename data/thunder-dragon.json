@@ -1,0 +1,13 @@
+{
+  "title": "Thunder Dragon",
+  "image": "./img/thunder-dragon.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhen Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying.",
+  "expansion": "Duel Decks: Knights vs. Dragons",
+  "rarity": "Rare",
+  "cardNumber": "61",
+  "artist": "Chris Rahn",
+  "rating": "4.190",
+  "votes": "42"
+}

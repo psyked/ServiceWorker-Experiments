@@ -1,0 +1,13 @@
+{
+  "title": "Bloodstained Mire",
+  "image": "./img/bloodstained-mire.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ", Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.",
+  "expansion": "Zendikar Expeditions",
+  "rarity": "Mythic Rare",
+  "cardNumber": "18",
+  "artist": "Véronique Meignaud",
+  "rating": "5",
+  "votes": "0"
+}

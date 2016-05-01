@@ -1,0 +1,13 @@
+{
+  "title": "Flaring Pain",
+  "image": "./img/flaring-pain.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Damage can't be prevented this turn.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "89",
+  "artist": "Glen Angus",
+  "rating": "2.864",
+  "votes": "33"
+}

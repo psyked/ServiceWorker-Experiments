@@ -1,0 +1,13 @@
+{
+  "title": "Aerial Caravan",
+  "image": "./img/aerial-caravan.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Human Soldier",
+  "text": "Flying: Exile the top card of your library. Until end of turn, you may play that card. (Reveal the card as you exile it.)",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "58",
+  "artist": "DiTerlizzi",
+  "rating": "2.943",
+  "votes": "44"
+}

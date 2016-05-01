@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Lens",
+  "image": "./img/phyrexian-lens.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", Pay 1 life: Add one mana of any color to your mana pool.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "307",
+  "artist": "Matt Cavotta",
+  "rating": "1.593",
+  "votes": "59"
+}

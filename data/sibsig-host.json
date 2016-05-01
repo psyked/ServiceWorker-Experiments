@@ -1,0 +1,13 @@
+{
+  "title": "Sibsig Host",
+  "image": "./img/sibsig-host.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie",
+  "text": "When Sibsig Host enters the battlefield, each player puts the top three cards of his or her library into his or her graveyard.",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "82",
+  "artist": "Steve Prescott",
+  "rating": "5",
+  "votes": "0"
+}

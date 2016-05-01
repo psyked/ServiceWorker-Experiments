@@ -1,0 +1,13 @@
+{
+  "title": "Venomous Breath",
+  "image": "./img/venomous-breath.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Choose target creature. At this turn's next end of combat, destroy all creatures that blocked or were blocked by it this turn.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "281",
+  "artist": "DiTerlizzi",
+  "rating": "2.929",
+  "votes": "28"
+}

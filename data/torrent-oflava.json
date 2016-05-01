@@ -1,0 +1,13 @@
+{
+  "title": "Torrent of Lava",
+  "image": "./img/torrent-oflava.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Torrent of Lava deals X damage to each creature without flying.As long as Torrent of Lava is on the stack, each creature has \": Prevent the next 1 damage that would be dealt to this creature by Torrent of Lava this turn.\"",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Kathryn Rathke",
+  "rating": "3.306",
+  "votes": "31"
+}

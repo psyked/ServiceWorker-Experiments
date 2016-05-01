@@ -1,0 +1,13 @@
+{
+  "title": "Fiendslayer Paladin",
+  "image": "./img/fiendslayer-paladin.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)Lifelink (Damage dealt by this creature also causes you to gain that much life.)Fiendslayer Paladin can't be the target of black or red spells your opponents control.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "18",
+  "artist": "Wesley Burt",
+  "rating": "3.694",
+  "votes": "103"
+}

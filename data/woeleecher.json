@@ -1,0 +1,13 @@
+{
+  "title": "Woeleecher",
+  "image": "./img/woeleecher.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": ", : Remove a -1/-1 counter from target creature. If you do, you gain 2 life.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "27",
+  "artist": "Izzy",
+  "rating": "2.128",
+  "votes": "43"
+}

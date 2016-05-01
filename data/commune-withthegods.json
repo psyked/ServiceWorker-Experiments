@@ -1,0 +1,13 @@
+{
+  "title": "Commune with the Gods",
+  "image": "./img/commune-withthegods.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Reveal the top five cards of your library. You may put a creature or enchantment card from among them into your hand. Put the rest into your graveyard.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "155",
+  "artist": "Aleksi Briclot",
+  "rating": "3.183",
+  "votes": "30"
+}

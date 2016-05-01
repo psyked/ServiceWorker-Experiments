@@ -1,0 +1,13 @@
+{
+  "title": "Ghostblade Eidolon",
+  "image": "./img/ghostblade-eidolon.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment Creature  — Spirit",
+  "text": "Bestow  (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)Double strike (This creature deals both first-strike and regular combat damage.)Enchanted creature gets +1/+1 and has double strike.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "70",
+  "artist": "Ryan Yee",
+  "rating": "5",
+  "votes": "0"
+}

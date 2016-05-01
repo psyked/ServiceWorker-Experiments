@@ -1,0 +1,13 @@
+{
+  "title": "Fade from Memory",
+  "image": "./img/fade-frommemory.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Exile target card from a graveyard.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "144",
+  "artist": "David Martin",
+  "rating": "2.159",
+  "votes": "22"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Nyx-Fleece Ram",
+  "image": "./img/nyx-fleece-ram.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment Creature  — Sheep",
+  "text": "At the beginning of your upkeep, you gain 1 life.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "18",
+  "artist": "Terese Nielsen",
+  "rating": "3.785",
+  "votes": "72"
+}

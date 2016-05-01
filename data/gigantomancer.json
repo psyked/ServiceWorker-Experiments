@@ -1,0 +1,13 @@
+{
+  "title": "Gigantomancer",
+  "image": "./img/gigantomancer.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Human Shaman",
+  "text": ": Target creature you control has base power and toughness 7/7 until end of turn.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Rare",
+  "cardNumber": "184",
+  "artist": "Chippy",
+  "rating": "3.740",
+  "votes": "152"
+}

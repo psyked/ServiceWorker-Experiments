@@ -1,0 +1,13 @@
+{
+  "title": "Lost Leonin",
+  "image": "./img/lost-leonin.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Cat Soldier",
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "13",
+  "artist": "Min Yum",
+  "rating": "3.140",
+  "votes": "75"
+}

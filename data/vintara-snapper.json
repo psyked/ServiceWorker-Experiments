@@ -1,0 +1,13 @@
+{
+  "title": "Vintara Snapper",
+  "image": "./img/vintara-snapper.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Turtle",
+  "text": "Vintara Snapper has shroud as long as you control no untapped lands. (It can't be the target of spells or abilities.)",
+  "expansion": "Prophecy",
+  "rarity": "Uncommon",
+  "cardNumber": "132",
+  "artist": "Joel Biske",
+  "rating": "3.107",
+  "votes": "28"
+}

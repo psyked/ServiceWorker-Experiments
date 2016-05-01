@@ -1,0 +1,13 @@
+{
+  "title": "Votary of the Conclave",
+  "image": "./img/votary-oftheconclave.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Soldier",
+  "text": ": Regenerate Votary of the Conclave.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "35",
+  "artist": "Alan Pollack",
+  "rating": "1.906",
+  "votes": "48"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Voodoo Doll",
+  "image": "./img/voodoo-doll.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, put a pin counter on Voodoo Doll.At the beginning of your end step, if Voodoo Doll is untapped, destroy Voodoo Doll and it deals damage to you equal to the number of pin counters on it., : Voodoo Doll deals damage equal to the number of pin counters on it to target creature or player. X is the number of pin counters on Voodoo Doll.",
+  "expansion": "Masters Edition III",
+  "rarity": "Rare",
+  "cardNumber": "203",
+  "artist": "Sandra Everingham",
+  "rating": "2.100",
+  "votes": "25"
+}

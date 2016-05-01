@@ -1,0 +1,13 @@
+{
+  "title": "Greener Pastures",
+  "image": "./img/greener-pastures.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of each player's upkeep, if that player controls more lands than each other player, the player puts a 1/1 green Saproling creature token onto the battlefield.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "258",
+  "artist": "Heather Hudson",
+  "rating": "3.683",
+  "votes": "30"
+}

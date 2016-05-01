@@ -1,0 +1,13 @@
+{
+  "title": "Farewell to Arms",
+  "image": "./img/farewell-toarms.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "As Farewell to Arms comes into play, choose a hand attached to an opponent's arm.When the chosen hand isn't behind its owner's back, sacrifice Farewell to Arms. If you do, that player discards his or her hand . . . of cards. (The lawyers wouldn't let us do it the other way.)",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Ron Lemen",
+  "rating": "3.859",
+  "votes": "32"
+}

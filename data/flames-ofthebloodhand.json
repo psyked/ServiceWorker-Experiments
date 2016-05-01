@@ -1,0 +1,13 @@
+{
+  "title": "Flames of the Blood Hand",
+  "image": "./img/flames-ofthebloodhand.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Flames of the Blood Hand deals 4 damage to target player. The damage can't be prevented. If that player would gain life this turn, that player gains no life instead.",
+  "expansion": "Premium Deck Series: Fire and Lightning",
+  "rarity": "Uncommon",
+  "cardNumber": "22",
+  "artist": "Aleksi Briclot",
+  "rating": "3.230",
+  "votes": "61"
+}

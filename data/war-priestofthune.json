@@ -1,0 +1,13 @@
+{
+  "title": "War Priest of Thune",
+  "image": "./img/war-priestofthune.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": "When War Priest of Thune enters the battlefield, you may destroy target enchantment.",
+  "expansion": "Magic 2013",
+  "rarity": "Uncommon",
+  "cardNumber": "39",
+  "artist": "Izzy",
+  "rating": "4.234",
+  "votes": "62"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Plunge into Darkness",
+  "image": "./img/plunge-intodarkness.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Choose one —• Sacrifice any number of creatures, then you gain 3 life for each sacrificed creature.• Pay X life, then look at the top X cards of your library. Put one of those cards into your hand and exile the rest.Entwine  (Choose both if you pay the entwine cost.)",
+  "expansion": "Fifth Dawn",
+  "rarity": "Rare",
+  "cardNumber": "57",
+  "artist": "Justin Sweet",
+  "rating": "3.971",
+  "votes": "34"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Tyrannize",
+  "image": "./img/tyrannize.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Target player discards his or her hand unless he or she pays 7 life.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "201",
+  "artist": "Mark Tedin",
+  "rating": "3.074",
+  "votes": "47"
+}

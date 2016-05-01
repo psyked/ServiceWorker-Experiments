@@ -1,0 +1,13 @@
+{
+  "title": "Body Double",
+  "image": "./img/body-double.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Shapeshifter",
+  "text": "You may have Body Double enter the battlefield as a copy of any creature card in a graveyard.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Rare",
+  "cardNumber": "15",
+  "artist": "Winona Nelson",
+  "rating": "4.500",
+  "votes": "17"
+}

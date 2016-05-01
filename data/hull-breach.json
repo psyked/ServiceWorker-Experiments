@@ -1,0 +1,13 @@
+{
+  "title": "Hull Breach",
+  "image": "./img/hull-breach.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Choose one —• Destroy target artifact.• Destroy target enchantment.• Destroy target artifact and target enchantment.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Common",
+  "cardNumber": "193",
+  "artist": "Brian Snoddy",
+  "rating": "4.447",
+  "votes": "19"
+}

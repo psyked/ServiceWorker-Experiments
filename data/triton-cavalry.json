@@ -1,0 +1,13 @@
+{
+  "title": "Triton Cavalry",
+  "image": "./img/triton-cavalry.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Merfolk Soldier",
+  "text": "Heroic — Whenever you cast a spell that targets Triton Cavalry, you may return target enchantment to its owner's hand.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "55",
+  "artist": "Kev Walker",
+  "rating": "3.619",
+  "votes": "21"
+}

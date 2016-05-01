@@ -1,0 +1,13 @@
+{
+  "title": "Day of the Dragons",
+  "image": "./img/day-ofthedragons.jpg",
+  "convertedManaCost": "7",
+  "types": "Enchantment",
+  "text": "When Day of the Dragons enters the battlefield, exile all creatures you control. Then put that many 5/5 red Dragon creature tokens with flying onto the battlefield.When Day of the Dragons leaves the battlefield, sacrifice all Dragons you control. Then return the exiled cards to the battlefield under your control.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "91",
+  "artist": "Matthew D. Wilson",
+  "rating": "5",
+  "votes": "0"
+}

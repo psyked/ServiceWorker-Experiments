@@ -1,0 +1,13 @@
+{
+  "title": "Iizuka the Ruthless",
+  "image": "./img/iizuka-theruthless.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Human Samurai",
+  "text": "Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.), Sacrifice a Samurai: Samurai creatures you control gain double strike until end of turn.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "104",
+  "artist": "Darrell Riche",
+  "rating": "3.291",
+  "votes": "43"
+}

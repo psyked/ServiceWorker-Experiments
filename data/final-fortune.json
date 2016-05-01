@@ -1,0 +1,13 @@
+{
+  "title": "Final Fortune",
+  "image": "./img/final-fortune.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.",
+  "expansion": "Seventh Edition",
+  "rarity": "Rare",
+  "cardNumber": "182",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "4.447",
+  "votes": "95"
+}

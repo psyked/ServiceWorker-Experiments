@@ -1,0 +1,13 @@
+{
+  "title": "Vicious Kavu",
+  "image": "./img/vicious-kavu.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kavu",
+  "text": "Whenever Vicious Kavu attacks, it gets +2/+0 until end of turn.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "284",
+  "artist": "Kev Walker",
+  "rating": "3.345",
+  "votes": "42"
+}

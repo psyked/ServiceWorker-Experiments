@@ -1,0 +1,13 @@
+{
+  "title": "Errant Doomsayers",
+  "image": "./img/errant-doomsayers.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Rebel",
+  "text": ": Tap target creature with toughness 2 or less.",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "15",
+  "artist": "Liz Danforth",
+  "rating": "2.023",
+  "votes": "43"
+}

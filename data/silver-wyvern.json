@@ -1,0 +1,13 @@
+{
+  "title": "Silver Wyvern",
+  "image": "./img/silver-wyvern.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Drake",
+  "text": "Flying: Change the target of target spell or ability that targets only Silver Wyvern. The new target must be a creature.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Rare",
+  "cardNumber": "68",
+  "artist": "Colin MacNeil",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Breath of Malfegor",
+  "image": "./img/breath-ofmalfegor.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Breath of Malfegor deals 5 damage to each opponent.",
+  "expansion": "Alara Reborn",
+  "rarity": "Common",
+  "cardNumber": "35",
+  "artist": "Vance Kovacs",
+  "rating": "3.022",
+  "votes": "114"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Deceit",
+  "image": "./img/wall-ofdeceit.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.): Turn Wall of Deceit face down.Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Uncommon",
+  "cardNumber": "5",
+  "artist": "John Avon",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Feral Hydra",
+  "image": "./img/feral-hydra.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Hydra Beast",
+  "text": "Feral Hydra enters the battlefield with X +1/+1 counters on it.: Put a +1/+1 counter on Feral Hydra. Any player may activate this ability.",
+  "expansion": "Archenemy",
+  "rarity": "Rare",
+  "cardNumber": "53",
+  "artist": "Steve Prescott",
+  "rating": "3.000",
+  "votes": "58"
+}

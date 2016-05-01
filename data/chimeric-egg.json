@@ -1,0 +1,13 @@
+{
+  "title": "Chimeric Egg",
+  "image": "./img/chimeric-egg.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Whenever an opponent casts a nonartifact spell, put a charge counter on Chimeric Egg.Remove three charge counters from Chimeric Egg: Chimeric Egg becomes a 6/6 Construct artifact creature with trample until end of turn.",
+  "expansion": "Darksteel",
+  "rarity": "Uncommon",
+  "cardNumber": "106",
+  "artist": "Michael Sutfin",
+  "rating": "3.105",
+  "votes": "43"
+}

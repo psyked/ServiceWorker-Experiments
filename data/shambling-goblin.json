@@ -1,0 +1,13 @@
+{
+  "title": "Shambling Goblin",
+  "image": "./img/shambling-goblin.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Zombie Goblin",
+  "text": "When Shambling Goblin dies, target creature an opponent controls gets -1/-1 until end of turn.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "118",
+  "artist": "Yeong-Hao Han",
+  "rating": "5",
+  "votes": "0"
+}

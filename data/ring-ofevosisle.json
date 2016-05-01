@@ -1,0 +1,13 @@
+{
+  "title": "Ring of Evos Isle",
+  "image": "./img/ring-ofevosisle.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": ": Equipped creature gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)At the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's blue.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Magic 2013",
+  "rarity": "Uncommon",
+  "cardNumber": "211",
+  "artist": "Erica Yang",
+  "rating": "3.689",
+  "votes": "45"
+}

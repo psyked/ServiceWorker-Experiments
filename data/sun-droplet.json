@@ -1,0 +1,13 @@
+{
+  "title": "Sun Droplet",
+  "image": "./img/sun-droplet.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Whenever you're dealt damage, put that many charge counters on Sun Droplet.At the beginning of each upkeep, you may remove a charge counter from Sun Droplet. If you do, you gain 1 life.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "261",
+  "artist": "Greg Hildebrandt",
+  "rating": "3.633",
+  "votes": "15"
+}

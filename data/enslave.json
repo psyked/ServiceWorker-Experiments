@@ -1,0 +1,13 @@
+{
+  "title": "Enslave",
+  "image": "./img/enslave.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureYou control enchanted creature.At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.",
+  "expansion": "Duel Decks Anthology, Garruk vs. Liliana",
+  "rarity": "Uncommon",
+  "cardNumber": "58",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "5",
+  "votes": "0"
+}

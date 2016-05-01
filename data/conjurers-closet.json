@@ -1,0 +1,13 @@
+{
+  "title": "Conjurer's Closet",
+  "image": "./img/conjurers-closet.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": "At the beginning of your end step, you may exile target creature you control, then return that card to the battlefield under your control.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "239",
+  "artist": "Jason Felix",
+  "rating": "3.826",
+  "votes": "23"
+}

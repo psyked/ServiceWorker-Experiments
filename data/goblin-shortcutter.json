@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Shortcutter",
+  "image": "./img/goblin-shortcutter.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Scout",
+  "text": "When Goblin Shortcutter enters the battlefield, target creature can't block this turn.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "142",
+  "artist": "Jesper Ejsing",
+  "rating": "3.444",
+  "votes": "27"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Incite",
+  "image": "./img/incite.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature becomes red until end of turn and attacks this turn if able.",
+  "expansion": "Magic 2011",
+  "rarity": "Common",
+  "cardNumber": "145",
+  "artist": "Scott Chou",
+  "rating": "1.731",
+  "votes": "67"
+}

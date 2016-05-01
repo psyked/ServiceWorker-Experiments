@@ -1,0 +1,13 @@
+{
+  "title": "Shared Fate",
+  "image": "./img/shared-fate.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "If a player would draw a card, that player exiles the top card of one of his or her opponents' libraries face down instead.Each player may look at and play cards he or she exiled with Shared Fate.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "49",
+  "artist": "Matt Cavotta",
+  "rating": "3.787",
+  "votes": "47"
+}

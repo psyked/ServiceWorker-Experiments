@@ -1,0 +1,13 @@
+{
+  "title": "Wing Snare",
+  "image": "./img/wing-snare.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Destroy target creature with flying.",
+  "expansion": "Eighth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "288",
+  "artist": "Daren Bader",
+  "rating": "2.500",
+  "votes": "33"
+}

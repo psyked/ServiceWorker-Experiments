@@ -1,0 +1,13 @@
+{
+  "title": "Ainok Guide",
+  "image": "./img/ainok-guide.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Hound Scout",
+  "text": "When Ainok Guide enters the battlefield, choose one —• Put a +1/+1 counter on Ainok Guide.• Search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it.",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "121",
+  "artist": "Lucas Graciano",
+  "rating": "5",
+  "votes": "0"
+}

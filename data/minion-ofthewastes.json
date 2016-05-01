@@ -1,0 +1,13 @@
+{
+  "title": "Minion of the Wastes",
+  "image": "./img/minion-ofthewastes.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Minion",
+  "text": "TrampleAs Minion of the Wastes enters the battlefield, pay any amount of life.Minion of the Wastes's power and toughness are each equal to the life paid as it entered the battlefield.",
+  "expansion": "Tempest",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Scott Kirschner",
+  "rating": "3.943",
+  "votes": "35"
+}

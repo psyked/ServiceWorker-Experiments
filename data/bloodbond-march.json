@@ -1,0 +1,13 @@
+{
+  "title": "Bloodbond March",
+  "image": "./img/bloodbond-march.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever a player casts a creature spell, each player returns all cards with the same name as that spell from his or her graveyard to the battlefield.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "192",
+  "artist": "Jim Nelson",
+  "rating": "3.862",
+  "votes": "69"
+}

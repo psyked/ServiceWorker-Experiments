@@ -1,0 +1,13 @@
+{
+  "title": "Inquisitor's Ox",
+  "image": "./img/inquisitors-ox.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Ox",
+  "text": "Delirium — Inquisitor's Ox gets +1/+0 and has vigilance as long as there are four or more card types among cards in your graveyard.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "24",
+  "artist": "Vincent Proce",
+  "rating": "5",
+  "votes": "0"
+}

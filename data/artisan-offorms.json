@@ -1,0 +1,13 @@
+{
+  "title": "Artisan of Forms",
+  "image": "./img/artisan-offorms.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": "Heroic — Whenever you cast a spell that targets Artisan of Forms, you may have Artisan of Forms become a copy of target creature and gain this ability.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "40",
+  "artist": "Min Yum",
+  "rating": "3.542",
+  "votes": "72"
+}

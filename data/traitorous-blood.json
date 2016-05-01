@@ -1,0 +1,13 @@
+{
+  "title": "Traitorous Blood",
+  "image": "./img/traitorous-blood.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Gain control of target creature until end of turn. Untap it. It gains trample and haste until end of turn.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "166",
+  "artist": "Raymond Swanland",
+  "rating": "3.829",
+  "votes": "76"
+}

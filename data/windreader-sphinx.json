@@ -1,0 +1,13 @@
+{
+  "title": "Windreader Sphinx",
+  "image": "./img/windreader-sphinx.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Sphinx",
+  "text": "FlyingWhenever a creature with flying attacks, you may draw a card.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Mythic Rare",
+  "cardNumber": "81",
+  "artist": "Min Yum",
+  "rating": "3.590",
+  "votes": "61"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Greater Forgeling",
+  "image": "./img/greater-forgeling.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental",
+  "text": ": Greater Forgeling gets +3/-3 until end of turn.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "129",
+  "artist": "Marcelo Vignali",
+  "rating": "1.771",
+  "votes": "35"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Skarrg Guildmage",
+  "image": "./img/skarrg-guildmage.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Shaman",
+  "text": ": Creatures you control gain trample until end of turn.: Target land you control becomes a 4/4 Elemental creature until end of turn. It's still a land.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "196",
+  "artist": "Aleksi Briclot",
+  "rating": "3.900",
+  "votes": "70"
+}

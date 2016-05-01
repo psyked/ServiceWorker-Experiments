@@ -1,0 +1,13 @@
+{
+  "title": "Brace for Impact",
+  "image": "./img/brace-forimpact.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Prevent all damage that would be dealt to target multicolored creature this turn. For each 1 damage prevented this way, put a +1/+1 counter on that creature.",
+  "expansion": "Dissension",
+  "rarity": "Uncommon",
+  "cardNumber": "5",
+  "artist": "Dan Scott",
+  "rating": "2.351",
+  "votes": "37"
+}

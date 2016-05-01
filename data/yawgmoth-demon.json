@@ -1,0 +1,13 @@
+{
+  "title": "Yawgmoth Demon",
+  "image": "./img/yawgmoth-demon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Demon",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)First strike (This creature deals combat damage before creatures without first strike.)At the beginning of your upkeep, you may sacrifice an artifact. If you don't, tap Yawgmoth Demon and it deals 2 damage to you.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "170",
+  "artist": "Pete Venters",
+  "rating": "3.353",
+  "votes": "51"
+}

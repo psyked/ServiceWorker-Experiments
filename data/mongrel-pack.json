@@ -1,0 +1,13 @@
+{
+  "title": "Mongrel Pack",
+  "image": "./img/mongrel-pack.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Hound",
+  "text": "When Mongrel Pack dies during combat, put four 1/1 green Hound creature tokens onto the battlefield.",
+  "expansion": "Tempest",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Jeff Miracola",
+  "rating": "3.773",
+  "votes": "33"
+}

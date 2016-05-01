@@ -1,0 +1,13 @@
+{
+  "title": "Sapphire Leech",
+  "image": "./img/sapphire-leech.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Leech",
+  "text": "FlyingBlue spells you cast cost  more to cast.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "71",
+  "artist": "Ron Spencer",
+  "rating": "1.398",
+  "votes": "64"
+}

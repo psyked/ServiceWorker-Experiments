@@ -1,0 +1,13 @@
+{
+  "title": "Garruk Wildspeaker",
+  "image": "./img/garruk-wildspeaker.jpg",
+  "convertedManaCost": "4",
+  "types": "Planeswalker  — Garruk",
+  "text": "+1: Untap two target lands.−1: Put a 3/3 green Beast creature token onto the battlefield.−4: Creatures you control get +3/+3 and gain trample until end of turn.",
+  "expansion": "Duel Decks Anthology, Garruk vs. Liliana",
+  "rarity": "Mythic Rare",
+  "cardNumber": "1",
+  "artist": "Terese Nielsen",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Pitfall Trap",
+  "image": "./img/pitfall-trap.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant  — Trap",
+  "text": "If exactly one creature is attacking, you may pay  rather than pay Pitfall Trap's mana cost.Destroy target attacking creature without flying.",
+  "expansion": "Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "32",
+  "artist": "Franz Vohwinkel",
+  "rating": "3.058",
+  "votes": "52"
+}

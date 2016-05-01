@@ -1,0 +1,13 @@
+{
+  "title": "Light of Sanction",
+  "image": "./img/light-ofsanction.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Prevent all damage that would be dealt to creatures you control by sources you control.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "24",
+  "artist": "Michael Phillippi",
+  "rating": "3.010",
+  "votes": "51"
+}

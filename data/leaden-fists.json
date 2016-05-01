@@ -1,0 +1,13 @@
+{
+  "title": "Leaden Fists",
+  "image": "./img/leaden-fists.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)Enchant creatureEnchanted creature gets +3/+3 and doesn't untap during its controller's untap step.",
+  "expansion": "Future Sight",
+  "rarity": "Common",
+  "cardNumber": "38",
+  "artist": "Shishizaru",
+  "rating": "2.888",
+  "votes": "49"
+}

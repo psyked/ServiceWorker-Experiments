@@ -1,0 +1,13 @@
+{
+  "title": "Replenish",
+  "image": "./img/replenish.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Return all enchantment cards from your graveyard to the battlefield. (Auras with nothing to enchant remain in your graveyard.)",
+  "expansion": "Urza's Destiny",
+  "rarity": "Rare",
+  "cardNumber": "15",
+  "artist": "Jim Nelson",
+  "rating": "4.576",
+  "votes": "118"
+}

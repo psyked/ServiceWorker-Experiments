@@ -1,0 +1,13 @@
+{
+  "title": "Screams of the Damned",
+  "image": "./img/screams-ofthedamned.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": ", Exile a card from your graveyard: Screams of the Damned deals 1 damage to each creature and each player.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "160",
+  "artist": "Jerry Tiritilli",
+  "rating": "1.500",
+  "votes": "32"
+}

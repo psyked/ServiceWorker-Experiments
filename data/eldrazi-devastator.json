@@ -1,0 +1,13 @@
+{
+  "title": "Eldrazi Devastator",
+  "image": "./img/eldrazi-devastator.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Eldrazi",
+  "text": "Trample",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "7",
+  "artist": "Joseph Meehan",
+  "rating": "5",
+  "votes": "0"
+}

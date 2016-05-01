@@ -1,0 +1,13 @@
+{
+  "title": "Battle Brawler",
+  "image": "./img/battle-brawler.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Orc Warrior",
+  "text": "As long as you control a red or white permanent, Battle Brawler gets +1/+0 and has first strike.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "63",
+  "artist": "Karl Kopinski",
+  "rating": "5",
+  "votes": "0"
+}

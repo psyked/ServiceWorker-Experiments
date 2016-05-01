@@ -1,0 +1,13 @@
+{
+  "title": "Thrumming Stone",
+  "image": "./img/thrumming-stone.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Artifact",
+  "text": "Spells you cast have ripple 4. (Whenever you cast a spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as the spell without paying their mana costs. Put the rest on the bottom of your library.)",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "142",
+  "artist": "Rob Alexander",
+  "rating": "4.183",
+  "votes": "90"
+}

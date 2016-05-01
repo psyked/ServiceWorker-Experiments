@@ -1,0 +1,13 @@
+{
+  "title": "Lat-Nam's Legacy",
+  "image": "./img/lat-nams-legacy.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Shuffle a card from your hand into your library. If you do, draw two cards at the beginning of the next turn's upkeep.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "52",
+  "artist": "Tom Wänerstrand",
+  "rating": "4.035",
+  "votes": "43"
+}

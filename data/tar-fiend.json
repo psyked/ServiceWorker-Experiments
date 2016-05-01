@@ -1,0 +1,13 @@
+{
+  "title": "Tar Fiend",
+  "image": "./img/tar-fiend.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": "Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)When Tar Fiend enters the battlefield, target player discards a card for each creature it devoured.",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "89",
+  "artist": "Anthony S. Waters",
+  "rating": "3.053",
+  "votes": "75"
+}

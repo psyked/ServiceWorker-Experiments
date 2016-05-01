@@ -1,0 +1,13 @@
+{
+  "title": "Fatigue",
+  "image": "./img/fatigue.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target player skips his or her next draw step.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "32",
+  "artist": "Jeff Miracola",
+  "rating": "2.915",
+  "votes": "41"
+}

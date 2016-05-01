@@ -1,0 +1,13 @@
+{
+  "title": "Nurturer Initiate",
+  "image": "./img/nurturer-initiate.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Shaman",
+  "text": "Whenever a player casts a green spell, you may pay . If you do, target creature gets +1/+1 until end of turn.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "124",
+  "artist": "Jim Pavelec",
+  "rating": "2.635",
+  "votes": "48"
+}

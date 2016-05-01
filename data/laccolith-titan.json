@@ -1,0 +1,13 @@
+{
+  "title": "Laccolith Titan",
+  "image": "./img/laccolith-titan.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Beast",
+  "text": "Whenever Laccolith Titan becomes blocked, you may have it deal damage equal to its power to target creature. If you do, Laccolith Titan assigns no combat damage this turn.",
+  "expansion": "Nemesis",
+  "rarity": "Rare",
+  "cardNumber": "89",
+  "artist": "Tony Szczudlo",
+  "rating": "3.529",
+  "votes": "35"
+}

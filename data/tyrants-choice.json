@@ -1,0 +1,13 @@
+{
+  "title": "Tyrant's Choice",
+  "image": "./img/tyrants-choice.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Will of the council — Starting with you, each player votes for death or torture. If death gets more votes, each opponent sacrifices a creature. If torture gets more votes or the vote is tied, each opponent loses 4 life.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "30",
+  "artist": "Daarken",
+  "rating": "3.400",
+  "votes": "5"
+}

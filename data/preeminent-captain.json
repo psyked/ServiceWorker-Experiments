@@ -1,0 +1,13 @@
+{
+  "title": "Preeminent Captain",
+  "image": "./img/preeminent-captain.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kithkin Soldier",
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)Whenever Preeminent Captain attacks, you may put a Soldier creature card from your hand onto the battlefield tapped and attacking.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "25",
+  "artist": "Greg Staples",
+  "rating": "3.600",
+  "votes": "5"
+}

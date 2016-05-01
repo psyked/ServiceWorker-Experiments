@@ -1,0 +1,13 @@
+{
+  "title": "Symbiotic Wurm",
+  "image": "./img/symbiotic-wurm.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Wurm",
+  "text": "When Symbiotic Wurm dies, put seven 1/1 green Insect creature tokens onto the battlefield.",
+  "expansion": "Vintage Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "236",
+  "artist": "Matt Cavotta",
+  "rating": "3.625",
+  "votes": "4"
+}

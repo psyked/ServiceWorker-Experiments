@@ -1,0 +1,13 @@
+{
+  "title": "Assemble the Legion",
+  "image": "./img/assemble-thelegion.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, put a muster counter on Assemble the Legion. Then put a 1/1 red and white Soldier creature token with haste onto the battlefield for each muster counter on Assemble the Legion.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "142",
+  "artist": "Eric Deschamps",
+  "rating": "3.825",
+  "votes": "114"
+}

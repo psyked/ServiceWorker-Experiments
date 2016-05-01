@@ -1,0 +1,13 @@
+{
+  "title": "Tromokratis",
+  "image": "./img/tromokratis.jpg",
+  "convertedManaCost": "7",
+  "types": "Legendary Creature  — Kraken",
+  "text": "Tromokratis has hexproof unless it's attacking or blocking.Tromokratis can't be blocked unless all creatures defending player controls block it. (If any creature that player controls doesn't block this creature, it can't be blocked.)",
+  "expansion": "Born of the Gods",
+  "rarity": "Rare",
+  "cardNumber": "55",
+  "artist": "Matt Stewart",
+  "rating": "3.819",
+  "votes": "80"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Gruul Charm",
+  "image": "./img/gruul-charm.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Choose one —• Creatures without flying can't block this turn.• Gain control of all permanents you own.• Gruul Charm deals 3 damage to each creature with flying.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "169",
+  "artist": "Zoltan Boros",
+  "rating": "3.121",
+  "votes": "87"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "S.N.O.T.",
+  "image": "./img/snot.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature — Ooze",
+  "text": "As S.N.O.T. comes into play, you may stick it onto another creature named S.N.O.T. in play. If you do, all those creatures form a single creature.S.N.O.T.'s power and toughness are equal to the square of the number of S.N.O.T.s stuck together. (One is a 1/1, two are a 4/4, three are a 9/9, and four are a 16/16.)",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "Cyril Van Der Haegen",
+  "rating": "4.311",
+  "votes": "37"
+}

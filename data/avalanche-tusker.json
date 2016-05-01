@@ -1,0 +1,13 @@
+{
+  "title": "Avalanche Tusker",
+  "image": "./img/avalanche-tusker.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elephant Warrior",
+  "text": "Whenever Avalanche Tusker attacks, target creature defending player controls blocks it this combat if able.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "166",
+  "artist": "Matt Stewart",
+  "rating": "3.600",
+  "votes": "5"
+}

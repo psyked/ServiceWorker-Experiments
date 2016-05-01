@@ -1,0 +1,13 @@
+{
+  "title": "Akki Rockspeaker",
+  "image": "./img/akki-rockspeaker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Shaman",
+  "text": "When Akki Rockspeaker enters the battlefield, add  to your mana pool.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "154",
+  "artist": "David Martin",
+  "rating": "1.550",
+  "votes": "40"
+}

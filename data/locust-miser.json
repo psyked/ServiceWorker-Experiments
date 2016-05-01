@@ -1,0 +1,13 @@
+{
+  "title": "Locust Miser",
+  "image": "./img/locust-miser.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Rat Shaman",
+  "text": "Each opponent's maximum hand size is reduced by two.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "80",
+  "artist": "Alan Pollack",
+  "rating": "3.162",
+  "votes": "37"
+}

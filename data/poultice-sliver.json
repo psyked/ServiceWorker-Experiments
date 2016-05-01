@@ -1,0 +1,13 @@
+{
+  "title": "Poultice Sliver",
+  "image": "./img/poultice-sliver.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Sliver",
+  "text": "All Slivers have \", : Regenerate target Sliver.\"",
+  "expansion": "Planar Chaos",
+  "rarity": "Common",
+  "cardNumber": "11",
+  "artist": "Randy Gallegos",
+  "rating": "2.198",
+  "votes": "53"
+}

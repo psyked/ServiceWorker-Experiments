@@ -1,0 +1,13 @@
+{
+  "title": "Creeping Dread",
+  "image": "./img/creeping-dread.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, each player discards a card. Each opponent who discarded a card that shares a card type with the card you discarded loses 3 life. (Players reveal the discarded cards simultaneously.)",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "104",
+  "artist": "Anthony Palumbo",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Chrome Steed",
+  "image": "./img/chrome-steed.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Horse",
+  "text": "Metalcraft — Chrome Steed gets +2/+2 as long as you control three or more artifacts.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "142",
+  "artist": "Jana Schirmer & Johannes Voss",
+  "rating": "2.420",
+  "votes": "75"
+}

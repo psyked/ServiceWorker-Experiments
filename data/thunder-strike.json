@@ -1,0 +1,13 @@
+{
+  "title": "Thunder Strike",
+  "image": "./img/thunder-strike.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +2/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "159",
+  "artist": "Wayne Reynolds",
+  "rating": "3.060",
+  "votes": "25"
+}

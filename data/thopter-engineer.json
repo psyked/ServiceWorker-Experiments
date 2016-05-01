@@ -1,0 +1,13 @@
+{
+  "title": "Thopter Engineer",
+  "image": "./img/thopter-engineer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Artificer",
+  "text": "When Thopter Engineer enters the battlefield, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield.Artifact creatures you control have haste. (They can attack and  as soon as they come under your control.)",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "165",
+  "artist": "Steve Prescott",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Call to Arms",
+  "image": "./img/call-toarms.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "As Call to Arms enters the battlefield, choose a color and an opponent.White creatures get +1/+1 as long as the chosen color is the most common color among nontoken permanents the chosen player controls but isn't tied for most common.When the chosen color isn't the most common color among nontoken permanents the chosen player controls or is tied for most common, sacrifice Call to Arms.",
+  "expansion": "Masters Edition III",
+  "rarity": "Uncommon",
+  "cardNumber": "4",
+  "artist": "Randy Gallegos",
+  "rating": "2.288",
+  "votes": "26"
+}

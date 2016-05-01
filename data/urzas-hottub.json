@@ -1,0 +1,13 @@
+{
+  "title": "Urza's Hot Tub",
+  "image": "./img/urzas-hottub.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", Discard a card: Search your library for a card that shares a complete word in its name with the discarded card, reveal it, and put it into your hand. Then shuffle your library.",
+  "expansion": "Unhinged",
+  "rarity": "Uncommon",
+  "cardNumber": "131",
+  "artist": "Stephen Tappin",
+  "rating": "3.714",
+  "votes": "35"
+}

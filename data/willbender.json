@@ -1,0 +1,13 @@
+{
+  "title": "Willbender",
+  "image": "./img/willbender.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": "Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)When Willbender is turned face up, change the target of target spell or ability with a single target.",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Uncommon",
+  "cardNumber": "6",
+  "artist": "Eric Peterson",
+  "rating": "5",
+  "votes": "0"
+}

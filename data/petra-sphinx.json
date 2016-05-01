@@ -1,0 +1,13 @@
+{
+  "title": "Petra Sphinx",
+  "image": "./img/petra-sphinx.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Sphinx",
+  "text": ": Target player names a card, then reveals the top card of his or her library. If that card is the named card, that player puts it into his or her hand. If it isn't, the player puts it into his or her graveyard.",
+  "expansion": "Masters Edition",
+  "rarity": "Rare",
+  "cardNumber": "23",
+  "artist": "Sandra Everingham",
+  "rating": "3.333",
+  "votes": "33"
+}

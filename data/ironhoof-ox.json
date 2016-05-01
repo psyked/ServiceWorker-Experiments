@@ -1,0 +1,13 @@
+{
+  "title": "Ironhoof Ox",
+  "image": "./img/ironhoof-ox.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Ox",
+  "text": "Ironhoof Ox can't be blocked by more than one creature.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "158",
+  "artist": "Una Fricker",
+  "rating": "3.286",
+  "votes": "21"
+}

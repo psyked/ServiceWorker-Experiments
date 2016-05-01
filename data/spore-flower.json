@@ -1,0 +1,13 @@
+{
+  "title": "Spore Flower",
+  "image": "./img/spore-flower.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Fungus",
+  "text": "At the beginning of your upkeep, put a spore counter on Spore Flower.Remove three spore counters from Spore Flower: Prevent all combat damage that would be dealt this turn.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "177",
+  "artist": "Margaret Organ-Kean",
+  "rating": "3.772",
+  "votes": "46"
+}

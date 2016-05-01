@@ -1,0 +1,13 @@
+{
+  "title": "Treetop Rangers",
+  "image": "./img/treetop-rangers.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf",
+  "text": "Treetop Rangers can't be blocked except by creatures with flying.",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "279",
+  "artist": "Daren Bader",
+  "rating": "3.580",
+  "votes": "25"
+}

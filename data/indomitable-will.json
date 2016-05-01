@@ -1,0 +1,13 @@
+{
+  "title": "Indomitable Will",
+  "image": "./img/indomitable-will.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "FlashEnchant creatureEnchanted creature gets +1/+2.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "17",
+  "artist": "Christopher Rush",
+  "rating": "2.586",
+  "votes": "35"
+}

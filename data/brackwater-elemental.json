@@ -1,0 +1,13 @@
+{
+  "title": "Brackwater Elemental",
+  "image": "./img/brackwater-elemental.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental",
+  "text": "When Brackwater Elemental attacks or blocks, sacrifice it at the beginning of the next end step.Unearth  (: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+  "rarity": "Common",
+  "cardNumber": "46",
+  "artist": "Thomas M. Baxa",
+  "rating": "2.879",
+  "votes": "29"
+}

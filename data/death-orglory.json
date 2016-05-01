@@ -1,0 +1,13 @@
+{
+  "title": "Death or Glory",
+  "image": "./img/death-orglory.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Separate all creature cards in your graveyard into two piles. Exile the pile of an opponent's choice and return the other to the battlefield.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "13",
+  "artist": "Jeff Easley",
+  "rating": "4.028",
+  "votes": "36"
+}

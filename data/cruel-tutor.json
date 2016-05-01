@@ -1,0 +1,13 @@
+{
+  "title": "Cruel Tutor",
+  "image": "./img/cruel-tutor.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.",
+  "expansion": "Portal",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Kev Walker",
+  "rating": "3.043",
+  "votes": "47"
+}

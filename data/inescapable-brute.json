@@ -1,0 +1,13 @@
+{
+  "title": "Inescapable Brute",
+  "image": "./img/inescapable-brute.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant Warrior",
+  "text": "Wither (This deals damage to creatures in the form of -1/-1 counters.)Inescapable Brute must be blocked if able.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "95",
+  "artist": "Nils Hamm",
+  "rating": "2.483",
+  "votes": "30"
+}

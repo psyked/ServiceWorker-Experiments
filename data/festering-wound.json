@@ -1,0 +1,13 @@
+{
+  "title": "Festering Wound",
+  "image": "./img/festering-wound.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAt the beginning of your upkeep, you may put an infection counter on Festering Wound.At the beginning of the upkeep of enchanted creature's controller, Festering Wound deals X damage to that player, where X is the number of infection counters on Festering Wound.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Uncommon",
+  "cardNumber": "61",
+  "artist": "Chippy and Matthew Wilson",
+  "rating": "3.481",
+  "votes": "26"
+}

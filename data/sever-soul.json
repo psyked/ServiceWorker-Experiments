@@ -1,0 +1,13 @@
+{
+  "title": "Sever Soul",
+  "image": "./img/sever-soul.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Destroy target nonblack creature. It can't be regenerated. You gain life equal to its toughness.",
+  "expansion": "Eighth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "162",
+  "artist": "Glen Angus",
+  "rating": "2.864",
+  "votes": "33"
+}

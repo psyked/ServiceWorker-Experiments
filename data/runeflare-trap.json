@@ -1,0 +1,13 @@
+{
+  "title": "Runeflare Trap",
+  "image": "./img/runeflare-trap.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant  — Trap",
+  "text": "If an opponent drew three or more cards this turn, you may pay  rather than pay Runeflare Trap's mana cost.Runeflare Trap deals damage to target player equal to the number of cards in that player's hand.",
+  "expansion": "Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "146",
+  "artist": "Franz Vohwinkel",
+  "rating": "3.417",
+  "votes": "66"
+}

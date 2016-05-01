@@ -1,0 +1,13 @@
+{
+  "title": "Epitaph Golem",
+  "image": "./img/epitaph-golem.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Golem",
+  "text": ": Put target card from your graveyard on the bottom of your library.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "254",
+  "artist": "Adam Paquette",
+  "rating": "5",
+  "votes": "0"
+}

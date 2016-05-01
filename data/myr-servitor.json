@@ -1,0 +1,13 @@
+{
+  "title": "Myr Servitor",
+  "image": "./img/myr-servitor.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact Creature  — Myr",
+  "text": "At the beginning of your upkeep, if Myr Servitor is on the battlefield, each player returns all cards named Myr Servitor from his or her graveyard to the battlefield.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "139",
+  "artist": "John Matson",
+  "rating": "4.331",
+  "votes": "77"
+}

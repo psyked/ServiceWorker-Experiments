@@ -1,0 +1,13 @@
+{
+  "title": "Fumarole",
+  "image": "./img/fumarole.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Fumarole, pay 3 life.Destroy target creature and target land.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "194",
+  "artist": "Drew Tucker",
+  "rating": "3.511",
+  "votes": "46"
+}

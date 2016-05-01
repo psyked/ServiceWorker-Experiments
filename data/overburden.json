@@ -1,0 +1,13 @@
+{
+  "title": "Overburden",
+  "image": "./img/overburden.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever a player puts a nontoken creature onto the battlefield, that player returns a land he or she controls to its owner's hand.",
+  "expansion": "Prophecy",
+  "rarity": "Rare",
+  "cardNumber": "39",
+  "artist": "John Matson",
+  "rating": "3.977",
+  "votes": "43"
+}

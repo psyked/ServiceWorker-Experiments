@@ -1,0 +1,13 @@
+{
+  "title": "Surging Æther",
+  "image": "./img/surging-ther.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Ripple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)Return target permanent to its owner's hand.",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "47",
+  "artist": "Anthony S. Waters",
+  "rating": "1.578",
+  "votes": "32"
+}

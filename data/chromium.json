@@ -1,0 +1,13 @@
+{
+  "title": "Chromium",
+  "image": "./img/chromium.jpg",
+  "convertedManaCost": "8",
+  "types": "Legendary Creature  — Elder Dragon",
+  "text": "FlyingRampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)At the beginning of your upkeep, sacrifice Chromium unless you pay .",
+  "expansion": "Masters Edition III",
+  "rarity": "Rare",
+  "cardNumber": "147",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "3.188",
+  "votes": "80"
+}

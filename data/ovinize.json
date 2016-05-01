@@ -1,0 +1,13 @@
+{
+  "title": "Ovinize",
+  "image": "./img/ovinize.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Until end of turn, target creature loses all abilities and has base power and toughness 0/1.",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "57",
+  "artist": "Terese Nielsen",
+  "rating": "4.148",
+  "votes": "122"
+}

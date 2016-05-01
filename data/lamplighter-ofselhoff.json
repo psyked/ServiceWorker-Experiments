@@ -1,0 +1,13 @@
+{
+  "title": "Lamplighter of Selhoff",
+  "image": "./img/lamplighter-ofselhoff.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie Horror",
+  "text": "When Lamplighter of Selhoff enters the battlefield, if you control another Zombie, you may draw a card. If you do, discard a card.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "72",
+  "artist": "Clint Cearley",
+  "rating": "5",
+  "votes": "0"
+}

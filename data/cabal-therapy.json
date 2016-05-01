@@ -1,0 +1,13 @@
+{
+  "title": "Cabal Therapy",
+  "image": "./img/cabal-therapy.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Name a nonland card. Target player reveals his or her hand and discards all cards with that name.Flashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Premium Deck Series: Graveborn",
+  "rarity": "Uncommon",
+  "cardNumber": "12",
+  "artist": "Raymond Swanland",
+  "rating": "4.542",
+  "votes": "72"
+}

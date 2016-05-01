@@ -1,0 +1,13 @@
+{
+  "title": "Drifting Djinn",
+  "image": "./img/drifting-djinn.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Djinn",
+  "text": "FlyingAt the beginning of your upkeep, sacrifice Drifting Djinn unless you pay .Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "71",
+  "artist": "Carl Critchlow",
+  "rating": "2.880",
+  "votes": "46"
+}

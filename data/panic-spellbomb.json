@@ -1,0 +1,13 @@
+{
+  "title": "Panic Spellbomb",
+  "image": "./img/panic-spellbomb.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ", Sacrifice Panic Spellbomb: Target creature can't block this turn.When Panic Spellbomb is put into a graveyard from the battlefield, you may pay . If you do, draw a card.",
+  "expansion": "Commander 2014",
+  "rarity": "Common",
+  "cardNumber": "259",
+  "artist": "Franz Vohwinkel",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Shining Shoal",
+  "image": "./img/shining-shoal.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant  — Arcane",
+  "text": "You may exile a white card with converted mana cost X from your hand rather than pay Shining Shoal's mana cost.The next X damage that a source of your choice would deal to you and/or creatures you control this turn is dealt to target creature or player instead.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "21",
+  "artist": "Ben Thompson",
+  "rating": "4.156",
+  "votes": "48"
+}

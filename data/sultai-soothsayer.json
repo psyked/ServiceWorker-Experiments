@@ -1,0 +1,13 @@
+{
+  "title": "Sultai Soothsayer",
+  "image": "./img/sultai-soothsayer.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Naga Shaman",
+  "text": "When Sultai Soothsayer enters the battlefield, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "205",
+  "artist": "Cynthia Sheppard",
+  "rating": "3.833",
+  "votes": "3"
+}

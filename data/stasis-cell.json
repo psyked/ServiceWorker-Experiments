@@ -1,0 +1,13 @@
+{
+  "title": "Stasis Cell",
+  "image": "./img/stasis-cell.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature doesn't untap during its controller's untap step.: Attach Stasis Cell to target creature.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "107",
+  "artist": "Mark A. Nelson",
+  "rating": "1.900",
+  "votes": "5"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Niblis of the Breath",
+  "image": "./img/niblis-ofthebreath.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "Flying, : You may tap or untap target creature.",
+  "expansion": "Dark Ascension",
+  "rarity": "Uncommon",
+  "cardNumber": "44",
+  "artist": "Igor Kieryluk",
+  "rating": "3.233",
+  "votes": "45"
+}

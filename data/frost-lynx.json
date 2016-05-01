@@ -1,0 +1,13 @@
+{
+  "title": "Frost Lynx",
+  "image": "./img/frost-lynx.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental Cat",
+  "text": "When Frost Lynx enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "55",
+  "artist": "Izzy",
+  "rating": "3.286",
+  "votes": "7"
+}

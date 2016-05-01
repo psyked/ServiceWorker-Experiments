@@ -1,0 +1,13 @@
+{
+  "title": "Skywinder Drake",
+  "image": "./img/skywinder-drake.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Drake",
+  "text": "FlyingSkywinder Drake can block only creatures with flying.",
+  "expansion": "Magic 2012",
+  "rarity": "Common",
+  "cardNumber": "75",
+  "artist": "Dan Scott",
+  "rating": "3.070",
+  "votes": "43"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Guiltfeeder",
+  "image": "./img/guiltfeeder.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Horror",
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)Whenever Guiltfeeder attacks and isn't blocked, defending player loses 1 life for each card in his or her graveyard.",
+  "expansion": "Judgment",
+  "rarity": "Rare",
+  "cardNumber": "68",
+  "artist": "Mark Tedin",
+  "rating": "4.186",
+  "votes": "59"
+}

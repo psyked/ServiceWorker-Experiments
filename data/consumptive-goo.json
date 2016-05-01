@@ -1,0 +1,13 @@
+{
+  "title": "Consumptive Goo",
+  "image": "./img/consumptive-goo.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Ooze",
+  "text": ": Target creature gets -1/-1 until end of turn. Put a +1/+1 counter on Consumptive Goo.",
+  "expansion": "Scourge",
+  "rarity": "Rare",
+  "cardNumber": "62",
+  "artist": "Carl Critchlow",
+  "rating": "3.351",
+  "votes": "37"
+}

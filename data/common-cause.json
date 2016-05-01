@@ -1,0 +1,13 @@
+{
+  "title": "Common Cause",
+  "image": "./img/common-cause.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Nonartifact creatures get +2/+2 as long as they all share a color.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "13",
+  "artist": "John Matson",
+  "rating": "1.538",
+  "votes": "52"
+}

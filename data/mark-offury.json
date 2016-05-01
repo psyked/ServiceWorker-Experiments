@@ -1,0 +1,13 @@
+{
+  "title": "Mark of Fury",
+  "image": "./img/mark-offury.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has haste.At the beginning of the end step, return Mark of Fury to its owner's hand.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "93",
+  "artist": "Thomas M. Baxa",
+  "rating": "3.682",
+  "votes": "44"
+}

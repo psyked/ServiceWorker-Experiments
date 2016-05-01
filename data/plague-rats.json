@@ -1,0 +1,13 @@
+{
+  "title": "Plague Rats",
+  "image": "./img/plague-rats.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Rat",
+  "text": "Plague Rats's power and toughness are each equal to the number of creatures named Plague Rats on the battlefield.",
+  "expansion": "Fifth Edition",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Anson Maddocks",
+  "rating": "1.740",
+  "votes": "48"
+}

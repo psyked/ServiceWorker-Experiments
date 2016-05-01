@@ -1,0 +1,13 @@
+{
+  "title": "Avacynian Priest",
+  "image": "./img/avacynian-priest.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": ", : Tap target non-Human creature.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "4",
+  "artist": "Greg Staples",
+  "rating": "2.774",
+  "votes": "62"
+}

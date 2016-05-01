@@ -1,0 +1,13 @@
+{
+  "title": "Wave Elemental",
+  "image": "./img/wave-elemental.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elemental",
+  "text": ", , Sacrifice Wave Elemental: Tap up to three target creatures without flying.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Zak Plucinski",
+  "rating": "2.571",
+  "votes": "28"
+}

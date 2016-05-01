@@ -1,0 +1,13 @@
+{
+  "title": "Pulverize",
+  "image": "./img/pulverize.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "You may sacrifice two Mountains rather than pay Pulverize's mana cost.Destroy all artifacts.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "207",
+  "artist": "Scott M. Fischer",
+  "rating": "4.500",
+  "votes": "52"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Tormentor's Trident",
+  "image": "./img/tormentors-trident.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +3/+0 and attacks each turn if able.Equip",
+  "expansion": "Avacyn Restored",
+  "rarity": "Uncommon",
+  "cardNumber": "222",
+  "artist": "Anthony Palumbo",
+  "rating": "1.671",
+  "votes": "35"
+}

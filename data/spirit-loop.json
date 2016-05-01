@@ -1,0 +1,13 @@
+{
+  "title": "Spirit Loop",
+  "image": "./img/spirit-loop.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature you controlWhenever enchanted creature deals damage, you gain that much life.When Spirit Loop is put into a graveyard from the battlefield, return Spirit Loop to its owner's hand.",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "42",
+  "artist": "Wayne Reynolds",
+  "rating": "3.940",
+  "votes": "50"
+}

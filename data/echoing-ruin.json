@@ -1,0 +1,13 @@
+{
+  "title": "Echoing Ruin",
+  "image": "./img/echoing-ruin.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Destroy target artifact and all other artifacts with the same name as that artifact.",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "59",
+  "artist": "Greg Staples",
+  "rating": "3.776",
+  "votes": "29"
+}

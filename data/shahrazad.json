@@ -1,0 +1,13 @@
+{
+  "title": "Shahrazad",
+  "image": "./img/shahrazad.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Players play a MAGIC subgame, using their libraries as their decks. Each player who doesn't win the subgame loses half his or her life, rounded up.",
+  "expansion": "Arabian Nights",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Kaja Foglio",
+  "rating": "4.185",
+  "votes": "162"
+}

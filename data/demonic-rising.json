@@ -1,0 +1,13 @@
+{
+  "title": "Demonic Rising",
+  "image": "./img/demonic-rising.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "At the beginning of your end step, if you control exactly one creature, put a 5/5 black Demon creature token with flying onto the battlefield.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "94",
+  "artist": "Trevor Claxton",
+  "rating": "3.081",
+  "votes": "62"
+}

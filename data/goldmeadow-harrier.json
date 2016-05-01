@@ -1,0 +1,13 @@
+{
+  "title": "Goldmeadow Harrier",
+  "image": "./img/goldmeadow-harrier.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Kithkin Soldier",
+  "text": ", : Tap target creature.",
+  "expansion": "Duel Decks: Elspeth vs. Tezzeret",
+  "rarity": "Common",
+  "cardNumber": "3",
+  "artist": "Steve Prescott",
+  "rating": "4.047",
+  "votes": "43"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Witchbane Orb",
+  "image": "./img/witchbane-orb.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "When Witchbane Orb enters the battlefield, destroy all Curses attached to you.You have hexproof. (You can't be the target of spells or abilities your opponents control, including Aura spells.)",
+  "expansion": "Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "236",
+  "artist": "John Avon",
+  "rating": "4.218",
+  "votes": "108"
+}

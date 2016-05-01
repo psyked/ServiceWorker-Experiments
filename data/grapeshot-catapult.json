@@ -1,0 +1,13 @@
+{
+  "title": "Grapeshot Catapult",
+  "image": "./img/grapeshot-catapult.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Construct",
+  "text": ": Grapeshot Catapult deals 1 damage to target creature with flying.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "204",
+  "artist": "Dan Frazier",
+  "rating": "2.600",
+  "votes": "20"
+}

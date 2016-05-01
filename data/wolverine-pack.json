@@ -1,0 +1,13 @@
+{
+  "title": "Wolverine Pack",
+  "image": "./img/wolverine-pack.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Wolverine",
+  "text": "Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)",
+  "expansion": "Fifth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Steve White",
+  "rating": "3.172",
+  "votes": "29"
+}

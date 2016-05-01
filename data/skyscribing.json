@@ -1,0 +1,13 @@
+{
+  "title": "Skyscribing",
+  "image": "./img/skyscribing.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Each player draws X cards.Forecast — , Reveal Skyscribing from your hand: Each player draws a card. (Activate this ability only during your upkeep and only once each turn.)",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "57",
+  "artist": "Richard Wright",
+  "rating": "3.679",
+  "votes": "14"
+}

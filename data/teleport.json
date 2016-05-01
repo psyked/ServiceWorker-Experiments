@@ -1,0 +1,13 @@
+{
+  "title": "Teleport",
+  "image": "./img/teleport.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Cast Teleport only during the declare attackers step.Target creature can't be blocked this turn.",
+  "expansion": "Chronicles",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Douglas Shuler",
+  "rating": "1.755",
+  "votes": "49"
+}

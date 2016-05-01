@@ -1,0 +1,13 @@
+{
+  "title": "Limited Resources",
+  "image": "./img/limited-resources.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment",
+  "text": "When Limited Resources enters the battlefield, each player chooses five lands he or she controls and sacrifices the rest.Players can't play lands as long as ten or more lands are on the battlefield.",
+  "expansion": "Exodus",
+  "rarity": "Rare",
+  "cardNumber": "10",
+  "artist": "Keith Parkinson",
+  "rating": "4.275",
+  "votes": "69"
+}

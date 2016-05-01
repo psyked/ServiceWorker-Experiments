@@ -1,0 +1,13 @@
+{
+  "title": "Anurid Murkdiver",
+  "image": "./img/anurid-murkdiver.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Zombie Frog Beast",
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "124",
+  "artist": "Dany Orizio",
+  "rating": "1.719",
+  "votes": "32"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dormant Gomazoa",
+  "image": "./img/dormant-gomazoa.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Jellyfish",
+  "text": "FlyingDormant Gomazoa enters the battlefield tapped.Dormant Gomazoa doesn't untap during your untap step.Whenever you become the target of a spell, you may untap Dormant Gomazoa.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Rare",
+  "cardNumber": "62",
+  "artist": "Chris Rahn",
+  "rating": "2.786",
+  "votes": "84"
+}

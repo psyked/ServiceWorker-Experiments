@@ -1,0 +1,13 @@
+{
+  "title": "Zodiac Horse",
+  "image": "./img/zodiac-horse.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Horse",
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Uncommon",
+  "cardNumber": "159",
+  "artist": "Ai Desheng",
+  "rating": "3.125",
+  "votes": "24"
+}

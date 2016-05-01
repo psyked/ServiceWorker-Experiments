@@ -1,0 +1,13 @@
+{
+  "title": "Metrognome",
+  "image": "./img/metrognome.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "When a spell or ability an opponent controls causes you to discard Metrognome, put four 1/1 colorless Gnome artifact creature tokens onto the battlefield., : Put a 1/1 colorless Gnome artifact creature token onto the battlefield.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "301",
+  "artist": "Jeff Laubenstein",
+  "rating": "3.250",
+  "votes": "36"
+}

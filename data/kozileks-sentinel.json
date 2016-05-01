@@ -1,0 +1,13 @@
+{
+  "title": "Kozilek's Sentinel",
+  "image": "./img/kozileks-sentinel.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.)Whenever you cast a colorless spell, Kozilek's Sentinel gets +1/+0 until end of turn.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "129",
+  "artist": "Raymond Swanland",
+  "rating": "5",
+  "votes": "0"
+}

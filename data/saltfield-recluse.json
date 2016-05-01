@@ -1,0 +1,13 @@
+{
+  "title": "Saltfield Recluse",
+  "image": "./img/saltfield-recluse.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Rebel Cleric",
+  "text": ": Target creature gets -2/-0 until end of turn.",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "27",
+  "artist": "Brian Despain",
+  "rating": "2.286",
+  "votes": "21"
+}

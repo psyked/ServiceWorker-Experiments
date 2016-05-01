@@ -1,0 +1,13 @@
+{
+  "title": "Grizzled Wolverine",
+  "image": "./img/grizzled-wolverine.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wolverine",
+  "text": ": Grizzled Wolverine gets +2/+0 until end of turn. Activate this ability only during the declare blockers step, only if at least one creature is blocking Grizzled Wolverine, and only once each turn.",
+  "expansion": "Ice Age",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Cornelius Brudi",
+  "rating": "3.000",
+  "votes": "27"
+}

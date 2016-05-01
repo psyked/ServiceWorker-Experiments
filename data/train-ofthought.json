@@ -1,0 +1,13 @@
+{
+  "title": "Train of Thought",
+  "image": "./img/train-ofthought.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Replicate  (When you cast this spell, copy it for each time you paid its replicate cost.)Draw a card.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Common",
+  "cardNumber": "19",
+  "artist": "Matt Thompson",
+  "rating": "2.893",
+  "votes": "14"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ghostly Prison",
+  "image": "./img/ghostly-prison.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Creatures can't attack you unless their controller pays  for each creature he or she controls that's attacking you.",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "7",
+  "artist": "Wayne England",
+  "rating": "4.130",
+  "votes": "46"
+}

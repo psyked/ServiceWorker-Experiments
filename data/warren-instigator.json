@@ -1,0 +1,13 @@
+{
+  "title": "Warren Instigator",
+  "image": "./img/warren-instigator.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Berserker",
+  "text": "Double strikeWhenever Warren Instigator deals damage to an opponent, you may put a Goblin creature card from your hand onto the battlefield.",
+  "expansion": "Zendikar",
+  "rarity": "Mythic Rare",
+  "cardNumber": "154",
+  "artist": "Andrew Robinson",
+  "rating": "4.131",
+  "votes": "203"
+}

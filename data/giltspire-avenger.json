@@ -1,0 +1,13 @@
+{
+  "title": "Giltspire Avenger",
+  "image": "./img/giltspire-avenger.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.): Destroy target creature that dealt damage to you this turn.",
+  "expansion": "Conflux",
+  "rarity": "Rare",
+  "cardNumber": "108",
+  "artist": "Chris Rahn",
+  "rating": "3.342",
+  "votes": "95"
+}

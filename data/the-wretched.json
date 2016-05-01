@@ -1,0 +1,13 @@
+{
+  "title": "The Wretched",
+  "image": "./img/the-wretched.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Demon",
+  "text": "At end of combat, gain control of all creatures blocking The Wretched for as long as you control The Wretched.",
+  "expansion": "Masters Edition III",
+  "rarity": "Uncommon",
+  "cardNumber": "78",
+  "artist": "Christopher Rush",
+  "rating": "3.869",
+  "votes": "42"
+}

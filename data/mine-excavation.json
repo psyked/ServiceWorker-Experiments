@@ -1,0 +1,13 @@
+{
+  "title": "Mine Excavation",
+  "image": "./img/mine-excavation.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Return target artifact or enchantment card from a graveyard to its owner's hand.Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "13",
+  "artist": "Chippy",
+  "rating": "2.879",
+  "votes": "33"
+}

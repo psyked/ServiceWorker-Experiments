@@ -1,0 +1,13 @@
+{
+  "title": "Cerebral Eruption",
+  "image": "./img/cerebral-eruption.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Target opponent reveals the top card of his or her library. Cerebral Eruption deals damage equal to the revealed card's converted mana cost to that player and each creature he or she controls. If a land card is revealed this way, return Cerebral Eruption to its owner's hand.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "86",
+  "artist": "Kev Walker",
+  "rating": "3.487",
+  "votes": "79"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mazirek, Kraul Death Priest",
+  "image": "./img/mazirek-krauldeathpriest.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Insect Shaman",
+  "text": "FlyingWhenever a player sacrifices another permanent, put a +1/+1 counter on each creature you control.",
+  "expansion": "Commander 2015",
+  "rarity": "Mythic Rare",
+  "cardNumber": "48",
+  "artist": "Mathias Kollros",
+  "rating": "5",
+  "votes": "0"
+}

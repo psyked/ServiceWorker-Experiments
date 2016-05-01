@@ -1,0 +1,13 @@
+{
+  "title": "Martyr of Frost",
+  "image": "./img/martyr-offrost.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Wizard",
+  "text": ", Reveal X blue cards from your hand, Sacrifice Martyr of Frost: Counter target spell unless its controller pays .",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Common",
+  "cardNumber": "2",
+  "artist": "Wayne England",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Diabolic Revelation",
+  "image": "./img/diabolic-revelation.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Search your library for up to X cards and put those cards into your hand. Then shuffle your library.",
+  "expansion": "Magic 2013",
+  "rarity": "Rare",
+  "cardNumber": "87",
+  "artist": "Raymond Swanland",
+  "rating": "3.750",
+  "votes": "80"
+}

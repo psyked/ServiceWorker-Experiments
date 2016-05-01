@@ -1,0 +1,13 @@
+{
+  "title": "Sabertooth Alley Cat",
+  "image": "./img/sabertooth-alleycat.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Cat",
+  "text": "Sabertooth Alley Cat attacks each turn if able.: Creatures without defender can't block Sabertooth Alley Cat this turn.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "140",
+  "artist": "Carl Critchlow",
+  "rating": "1.931",
+  "votes": "36"
+}

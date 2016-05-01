@@ -1,0 +1,13 @@
+{
+  "title": "See Beyond",
+  "image": "./img/see-beyond.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Draw two cards, then shuffle a card from your hand into your library.",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Common",
+  "cardNumber": "25",
+  "artist": "Andrew Robinson",
+  "rating": "4.500",
+  "votes": "40"
+}

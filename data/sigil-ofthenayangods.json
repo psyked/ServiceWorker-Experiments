@@ -1,0 +1,13 @@
+{
+  "title": "Sigil of the Nayan Gods",
+  "image": "./img/sigil-ofthenayangods.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+1 for each creature you control.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Alara Reborn",
+  "rarity": "Common",
+  "cardNumber": "78",
+  "artist": "Warren Mahy",
+  "rating": "3.066",
+  "votes": "76"
+}

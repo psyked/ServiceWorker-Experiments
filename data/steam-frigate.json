@@ -1,0 +1,13 @@
+{
+  "title": "Steam Frigate",
+  "image": "./img/steam-frigate.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Pirate",
+  "text": "Steam Frigate can't attack unless defending player controls an Island.",
+  "expansion": "Portal Second Age",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Mark Tedin",
+  "rating": "2.143",
+  "votes": "28"
+}

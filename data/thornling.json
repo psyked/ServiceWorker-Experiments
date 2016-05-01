@@ -1,0 +1,13 @@
+{
+  "title": "Thornling",
+  "image": "./img/thornling.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental Shapeshifter",
+  "text": ": Thornling gains haste until end of turn.: Thornling gains trample until end of turn.: Thornling gains indestructible until end of turn.: Thornling gets +1/-1 until end of turn.: Thornling gets -1/+1 until end of turn.",
+  "expansion": "Conflux",
+  "rarity": "Mythic Rare",
+  "cardNumber": "95",
+  "artist": "Kev Walker",
+  "rating": "3.587",
+  "votes": "183"
+}

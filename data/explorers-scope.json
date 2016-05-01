@@ -1,0 +1,13 @@
+{
+  "title": "Explorer's Scope",
+  "image": "./img/explorers-scope.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "28",
+  "artist": "Vincent Proce",
+  "rating": "5",
+  "votes": "0"
+}

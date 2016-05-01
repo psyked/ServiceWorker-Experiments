@@ -1,0 +1,13 @@
+{
+  "title": "Ainok Artillerist",
+  "image": "./img/ainok-artillerist.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Hound Archer",
+  "text": "Ainok Artillerist has reach as long as it has a +1/+1 counter on it. (It can block creatures with flying.)",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "171",
+  "artist": "James Paick",
+  "rating": "5",
+  "votes": "0"
+}

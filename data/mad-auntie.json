@@ -1,0 +1,13 @@
+{
+  "title": "Mad Auntie",
+  "image": "./img/mad-auntie.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Shaman",
+  "text": "Other Goblin creatures you control get +1/+1.: Regenerate another target Goblin.",
+  "expansion": "Modern Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "90",
+  "artist": "Wayne Reynolds",
+  "rating": "3.955",
+  "votes": "22"
+}

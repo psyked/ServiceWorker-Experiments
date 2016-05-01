@@ -1,0 +1,13 @@
+{
+  "title": "Lightning Volley",
+  "image": "./img/lightning-volley.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Until end of turn, creatures you control gain \": This creature deals 1 damage to target creature or player.\"",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "101",
+  "artist": "John Avon",
+  "rating": "3.365",
+  "votes": "26"
+}

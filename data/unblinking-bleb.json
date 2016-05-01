@@ -1,0 +1,13 @@
+{
+  "title": "Unblinking Bleb",
+  "image": "./img/unblinking-bleb.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Illusion",
+  "text": "Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)Whenever Unblinking Bleb or another permanent is turned face up, you may scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "expansion": "Future Sight",
+  "rarity": "Common",
+  "cardNumber": "45",
+  "artist": "Shishizaru",
+  "rating": "3.038",
+  "votes": "40"
+}

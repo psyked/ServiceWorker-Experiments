@@ -1,0 +1,13 @@
+{
+  "title": "Nantuko Calmer",
+  "image": "./img/nantuko-calmer.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Insect Druid",
+  "text": ", , Sacrifice Nantuko Calmer: Destroy target enchantment.Threshold — Nantuko Calmer gets +1/+1 as long as seven or more cards are in your graveyard.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "132",
+  "artist": "Mark Romanoski",
+  "rating": "1.828",
+  "votes": "29"
+}

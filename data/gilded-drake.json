@@ -1,0 +1,13 @@
+{
+  "title": "Gilded Drake",
+  "image": "./img/gilded-drake.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Drake",
+  "text": "FlyingWhen Gilded Drake enters the battlefield, exchange control of Gilded Drake and up to one target creature an opponent controls. If you don't make an exchange, sacrifice Gilded Drake. This ability can't be countered except by spells and abilities. (This effect lasts indefinitely.)",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "76",
+  "artist": "Bob Eggleton",
+  "rating": "4.574",
+  "votes": "108"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Flayer of the Hatebound",
+  "image": "./img/flayer-ofthehatebound.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Devil",
+  "text": "Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)Whenever Flayer of the Hatebound or another creature enters the battlefield from your graveyard, that creature deals damage equal to its power to target creature or player.",
+  "expansion": "Dark Ascension",
+  "rarity": "Rare",
+  "cardNumber": "89",
+  "artist": "Jana Schirmer & Johannes Voss",
+  "rating": "3.889",
+  "votes": "90"
+}

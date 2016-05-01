@@ -1,0 +1,13 @@
+{
+  "title": "Shaman en-Kor",
+  "image": "./img/shaman-en-kor.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kor Cleric Shaman",
+  "text": ": The next 1 damage that would be dealt to Shaman en-Kor this turn is dealt to target creature you control instead.: The next time a source of your choice would deal damage to target creature this turn, that damage is dealt to Shaman en-Kor instead.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Rare",
+  "cardNumber": "27",
+  "artist": "Jeff Miracola",
+  "rating": "5",
+  "votes": "0"
+}

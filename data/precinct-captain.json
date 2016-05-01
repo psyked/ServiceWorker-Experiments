@@ -1,0 +1,13 @@
+{
+  "title": "Precinct Captain",
+  "image": "./img/precinct-captain.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier",
+  "text": "First strikeWhenever Precinct Captain deals combat damage to a player, put a 1/1 white Soldier creature token onto the battlefield.",
+  "expansion": "Duel Decks: Elspeth vs. Kiora",
+  "rarity": "Rare",
+  "cardNumber": "22",
+  "artist": "Steve Prescott",
+  "rating": "5",
+  "votes": "0"
+}

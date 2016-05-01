@@ -1,0 +1,13 @@
+{
+  "title": "Kessig Wolf",
+  "image": "./img/kessig-wolf.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wolf",
+  "text": ": Kessig Wolf gains first strike until end of turn.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "151",
+  "artist": "Wayne England",
+  "rating": "2.405",
+  "votes": "42"
+}

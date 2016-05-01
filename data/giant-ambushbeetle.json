@@ -1,0 +1,13 @@
+{
+  "title": "Giant Ambush Beetle",
+  "image": "./img/giant-ambushbeetle.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Insect",
+  "text": "HasteWhen Giant Ambush Beetle enters the battlefield, you may have target creature block it this turn if able.",
+  "expansion": "Alara Reborn",
+  "rarity": "Uncommon",
+  "cardNumber": "137",
+  "artist": "Carl Critchlow",
+  "rating": "3.022",
+  "votes": "67"
+}

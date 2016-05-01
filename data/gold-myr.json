@@ -1,0 +1,13 @@
+{
+  "title": "Gold Myr",
+  "image": "./img/gold-myr.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Myr",
+  "text": ": Add  to your mana pool.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "157",
+  "artist": "Alan Pollack",
+  "rating": "3.075",
+  "votes": "53"
+}

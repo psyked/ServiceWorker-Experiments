@@ -1,0 +1,13 @@
+{
+  "title": "Faerie Miscreant",
+  "image": "./img/faerie-miscreant.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Faerie Rogue",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)When Faerie Miscreant enters the battlefield, if you control another creature named Faerie Miscreant, draw a card.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "57",
+  "artist": "Steven Belledin",
+  "rating": "5",
+  "votes": "0"
+}

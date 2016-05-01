@@ -1,0 +1,13 @@
+{
+  "title": "Grave Defiler",
+  "image": "./img/grave-defiler.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie",
+  "text": "When Grave Defiler enters the battlefield, reveal the top four cards of your library. Put all Zombie cards revealed this way into your hand and the rest on the bottom of your library in any order.: Regenerate Grave Defiler.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "40",
+  "artist": "Tony Szczudlo",
+  "rating": "4.026",
+  "votes": "38"
+}

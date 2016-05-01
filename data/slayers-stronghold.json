@@ -1,0 +1,13 @@
+{
+  "title": "Slayers' Stronghold",
+  "image": "./img/slayers-stronghold.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool., : Target creature gets +2/+0 and gains vigilance and haste until end of turn.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "229",
+  "artist": "Karl Kopinski",
+  "rating": "3.875",
+  "votes": "64"
+}

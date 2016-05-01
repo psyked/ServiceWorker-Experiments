@@ -1,0 +1,13 @@
+{
+  "title": "Abzan Charm",
+  "image": "./img/abzan-charm.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose one —• Exile target creature with power 3 or greater.• You draw two cards and you lose 2 life.• Distribute two +1/+1 counters among one or two target creatures.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "161",
+  "artist": "Mathias Kollros",
+  "rating": "4.100",
+  "votes": "5"
+}

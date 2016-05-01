@@ -1,0 +1,13 @@
+{
+  "title": "Dryad's Caress",
+  "image": "./img/dryads-caress.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "You gain 1 life for each creature on the battlefield. If  was spent to cast Dryad's Caress, untap all creatures you control.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "160",
+  "artist": "Randy Gallegos",
+  "rating": "2.197",
+  "votes": "33"
+}

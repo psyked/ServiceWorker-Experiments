@@ -1,0 +1,13 @@
+{
+  "title": "Headstone",
+  "image": "./img/headstone.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Exile target card from a graveyard.Draw a card at the beginning of the next turn's upkeep.",
+  "expansion": "Homelands",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "David A. Cherry",
+  "rating": "2.573",
+  "votes": "41"
+}

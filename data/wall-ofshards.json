@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Shards",
+  "image": "./img/wall-ofshards.jpg",
+  "convertedManaCost": "2",
+  "types": "Snow Creature  — Wall",
+  "text": "Defender, flyingCumulative upkeep—An opponent gains 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+  "expansion": "Coldsnap",
+  "rarity": "Uncommon",
+  "cardNumber": "23",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "3.500",
+  "votes": "63"
+}

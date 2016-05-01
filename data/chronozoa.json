@@ -1,0 +1,13 @@
+{
+  "title": "Chronozoa",
+  "image": "./img/chronozoa.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Illusion",
+  "text": "FlyingVanishing 3 (This creature enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)When Chronozoa dies, if it had no time counters on it, put two tokens that are copies of it onto the battlefield.",
+  "expansion": "Planar Chaos",
+  "rarity": "Rare",
+  "cardNumber": "37",
+  "artist": "James Wong",
+  "rating": "4.233",
+  "votes": "118"
+}

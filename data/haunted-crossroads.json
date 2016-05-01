@@ -1,0 +1,13 @@
+{
+  "title": "Haunted Crossroads",
+  "image": "./img/haunted-crossroads.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": ": Put target creature card from your graveyard on top of your library.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "138",
+  "artist": "Carl Critchlow",
+  "rating": "4.164",
+  "votes": "58"
+}

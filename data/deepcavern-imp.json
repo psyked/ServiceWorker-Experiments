@@ -1,0 +1,13 @@
+{
+  "title": "Deepcavern Imp",
+  "image": "./img/deepcavern-imp.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Imp Rebel",
+  "text": "Flying, hasteEcho—Discard a card. (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "79",
+  "artist": "Scott Altmann",
+  "rating": "3.119",
+  "votes": "21"
+}

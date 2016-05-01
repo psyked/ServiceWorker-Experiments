@@ -1,0 +1,13 @@
+{
+  "title": "Manaforge Cinder",
+  "image": "./img/manaforge-cinder.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elemental Shaman",
+  "text": ": Add  or  to your mana pool. Activate this ability no more than three times each turn.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "191",
+  "artist": "Izzy",
+  "rating": "3.411",
+  "votes": "56"
+}

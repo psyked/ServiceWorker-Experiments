@@ -1,0 +1,13 @@
+{
+  "title": "Bolt of Keranos",
+  "image": "./img/bolt-ofkeranos.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Bolt of Keranos deals 3 damage to target creature or player. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "89",
+  "artist": "Karl Kopinski",
+  "rating": "2.516",
+  "votes": "32"
+}

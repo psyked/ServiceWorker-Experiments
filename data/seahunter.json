@@ -1,0 +1,13 @@
+{
+  "title": "Seahunter",
+  "image": "./img/seahunter.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Mercenary",
+  "text": ", : Search your library for a Merfolk permanent card and put it onto the battlefield. Then shuffle your library.",
+  "expansion": "Nemesis",
+  "rarity": "Rare",
+  "cardNumber": "41",
+  "artist": "Heather Hudson",
+  "rating": "4.053",
+  "votes": "47"
+}

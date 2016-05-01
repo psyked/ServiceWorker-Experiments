@@ -1,0 +1,13 @@
+{
+  "title": "Shadowfeed",
+  "image": "./img/shadowfeed.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Exile target card from a graveyard. You gain 3 life.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "86",
+  "artist": "Dave Kendall",
+  "rating": "2.864",
+  "votes": "59"
+}

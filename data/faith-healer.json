@@ -1,0 +1,13 @@
+{
+  "title": "Faith Healer",
+  "image": "./img/faith-healer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": "Sacrifice an enchantment: You gain life equal to the sacrificed enchantment's converted mana cost.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "14",
+  "artist": "Randy Gallegos",
+  "rating": "3.532",
+  "votes": "31"
+}

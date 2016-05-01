@@ -1,0 +1,13 @@
+{
+  "title": "Chill of Foreboding",
+  "image": "./img/chill-offoreboding.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Each player puts the top five cards of his or her library into his or her graveyard.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Dark Ascension",
+  "rarity": "Uncommon",
+  "cardNumber": "32",
+  "artist": "Terese Nielsen",
+  "rating": "2.833",
+  "votes": "42"
+}

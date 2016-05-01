@@ -1,0 +1,13 @@
+{
+  "title": "Trygon Predator",
+  "image": "./img/trygon-predator.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Beast",
+  "text": "FlyingWhenever Trygon Predator deals combat damage to a player, you may destroy target artifact or enchantment that player controls.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "236",
+  "artist": "Jack Wang",
+  "rating": "5",
+  "votes": "0"
+}

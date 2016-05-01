@@ -1,0 +1,13 @@
+{
+  "title": "Cloudseeder",
+  "image": "./img/cloudseeder.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Faerie Spellshaper",
+  "text": "Flying, , Discard a card: Put a 1/1 blue Faerie creature token named Cloud Sprite onto the battlefield. It has flying and \"Cloud Sprite can block only creatures with flying.\"",
+  "expansion": "Future Sight",
+  "rarity": "Uncommon",
+  "cardNumber": "33",
+  "artist": "Tsutomu Kawade",
+  "rating": "2.635",
+  "votes": "37"
+}

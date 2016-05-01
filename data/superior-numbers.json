@@ -1,0 +1,13 @@
+{
+  "title": "Superior Numbers",
+  "image": "./img/superior-numbers.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Superior Numbers deals damage to target creature equal to the number of creatures you control in excess of the number of creatures target opponent controls.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Geofrey Darrow",
+  "rating": "3.054",
+  "votes": "37"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Thopter Foundry",
+  "image": "./img/thopter-foundry.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", Sacrifice a nontoken artifact: Put a 1/1 blue Thopter artifact creature token with flying onto the battlefield. You gain 1 life.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "234",
+  "artist": "Ralph Horsley",
+  "rating": "3.933",
+  "votes": "15"
+}

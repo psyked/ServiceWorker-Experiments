@@ -1,0 +1,13 @@
+{
+  "title": "Subterranean Shambler",
+  "image": "./img/subterranean-shambler.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elemental",
+  "text": "Echo  (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)When Subterranean Shambler enters the battlefield or leaves the battlefield, it deals 1 damage to each creature without flying.",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "178",
+  "artist": "Kev Walker",
+  "rating": "2.106",
+  "votes": "33"
+}

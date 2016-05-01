@@ -1,0 +1,13 @@
+{
+  "title": "Chimeric Mass",
+  "image": "./img/chimeric-mass.jpg",
+  "convertedManaCost": "0",
+  "types": "Artifact",
+  "text": "Chimeric Mass enters the battlefield with X charge counters on it.: Until end of turn, Chimeric Mass becomes a Construct artifact creature with \"This creature's power and toughness are each equal to the number of charge counters on it.\"",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Rare",
+  "cardNumber": "204",
+  "artist": "David Palumbo",
+  "rating": "5",
+  "votes": "0"
+}

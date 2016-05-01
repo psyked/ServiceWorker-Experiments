@@ -1,0 +1,13 @@
+{
+  "title": "Castigate",
+  "image": "./img/castigate.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target opponent reveals his or her hand. You choose a nonland card from it and exile that card.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "106",
+  "artist": "Darrell Riche",
+  "rating": "4.218",
+  "votes": "119"
+}

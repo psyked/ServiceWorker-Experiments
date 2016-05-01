@@ -1,0 +1,13 @@
+{
+  "title": "Unstable Obelisk",
+  "image": "./img/unstable-obelisk.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  to your mana pool., , Sacrifice Unstable Obelisk: Destroy target permanent.",
+  "expansion": "Commander 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "58",
+  "artist": "William Wu",
+  "rating": "5",
+  "votes": "0"
+}

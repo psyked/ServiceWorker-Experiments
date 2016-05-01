@@ -1,0 +1,13 @@
+{
+  "title": "Canyon Wildcat",
+  "image": "./img/canyon-wildcat.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Cat",
+  "text": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "127",
+  "artist": "Gary Leach",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Pardic Miner",
+  "image": "./img/pardic-miner.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Dwarf",
+  "text": "Sacrifice Pardic Miner: Target player can't play lands this turn.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "212",
+  "artist": "Tony Szczudlo",
+  "rating": "2.783",
+  "votes": "46"
+}

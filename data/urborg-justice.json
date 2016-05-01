@@ -1,0 +1,13 @@
+{
+  "title": "Urborg Justice",
+  "image": "./img/urborg-justice.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target opponent sacrifices a creature for each creature put into your graveyard from the battlefield this turn.",
+  "expansion": "Weatherlight",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Gary Leach",
+  "rating": "4.064",
+  "votes": "39"
+}

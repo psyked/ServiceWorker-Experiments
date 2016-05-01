@@ -1,0 +1,13 @@
+{
+  "title": "Whitewater Naiads",
+  "image": "./img/whitewater-naiads.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment Creature  — Nymph",
+  "text": "Constellation — Whenever Whitewater Naiads or another enchantment enters the battlefield under your control, target creature can't be blocked this turn.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "58",
+  "artist": "William Wu",
+  "rating": "3.643",
+  "votes": "28"
+}

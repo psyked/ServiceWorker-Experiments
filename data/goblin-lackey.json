@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Lackey",
+  "image": "./img/goblin-lackey.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin",
+  "text": "Whenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "167",
+  "artist": "Christopher Moeller",
+  "rating": "4.500",
+  "votes": "1"
+}

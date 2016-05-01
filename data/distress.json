@@ -1,0 +1,13 @@
+{
+  "title": "Distress",
+  "image": "./img/distress.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target player reveals his or her hand. You choose a nonland card from it. That player discards that card.",
+  "expansion": "Magic 2012",
+  "rarity": "Common",
+  "cardNumber": "94",
+  "artist": "Michael C. Hayes",
+  "rating": "3.788",
+  "votes": "85"
+}

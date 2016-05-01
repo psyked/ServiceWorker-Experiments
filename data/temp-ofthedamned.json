@@ -1,0 +1,13 @@
+{
+  "title": "Temp of the Damned",
+  "image": "./img/temp-ofthedamned.jpg",
+  "convertedManaCost": "3",
+  "types": "Summon — Zombie",
+  "text": "When you play Temp of the Damned, roll a six-sided die. Temp of the Damned comes into play with a number of funk counters on it equal to the die roll.During your upkeep, remove a funk counter from Temp of the Damned or sacrifice Temp of the Damned.",
+  "expansion": "Unglued",
+  "rarity": "Common",
+  "cardNumber": "38",
+  "artist": "Adam Rex",
+  "rating": "2.019",
+  "votes": "27"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Seek the Wilds",
+  "image": "./img/seek-thewilds.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "189",
+  "artist": "Anna Steinbauer",
+  "rating": "5",
+  "votes": "0"
+}

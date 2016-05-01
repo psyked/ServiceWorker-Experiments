@@ -1,0 +1,13 @@
+{
+  "title": "Rejuvenate",
+  "image": "./img/rejuvenate.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "You gain 6 life.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "271",
+  "artist": "Greg Simanson",
+  "rating": "2.379",
+  "votes": "29"
+}

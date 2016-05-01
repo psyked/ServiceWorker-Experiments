@@ -1,0 +1,13 @@
+{
+  "title": "Starke of Rath",
+  "image": "./img/starke-ofrath.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Creature  — Human Rogue",
+  "text": ": Destroy target artifact or creature. That permanent's controller gains control of Starke of Rath. (This effect lasts indefinitely.)",
+  "expansion": "Tempest Remastered",
+  "rarity": "Mythic Rare",
+  "cardNumber": "162",
+  "artist": "Dan Frazier",
+  "rating": "5",
+  "votes": "0"
+}

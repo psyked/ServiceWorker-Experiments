@@ -1,0 +1,13 @@
+{
+  "title": "Wardscale Dragon",
+  "image": "./img/wardscale-dragon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "FlyingAs long as Wardscale Dragon is attacking, defending player can't cast spells.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "30",
+  "artist": "Jason Rainville",
+  "rating": "5",
+  "votes": "0"
+}

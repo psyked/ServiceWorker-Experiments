@@ -1,0 +1,13 @@
+{
+  "title": "Riptide Shapeshifter",
+  "image": "./img/riptide-shapeshifter.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Shapeshifter",
+  "text": ", Sacrifice Riptide Shapeshifter: Choose a creature type. Reveal cards from the top of your library until you reveal a creature card of that type. Put that card onto the battlefield and shuffle the rest into your library.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "109",
+  "artist": "Arnie Swekel",
+  "rating": "3.739",
+  "votes": "23"
+}

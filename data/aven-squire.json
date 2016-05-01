@@ -1,0 +1,13 @@
+{
+  "title": "Aven Squire",
+  "image": "./img/aven-squire.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Bird Soldier",
+  "text": "FlyingExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",
+  "expansion": "Magic 2013",
+  "rarity": "Common",
+  "cardNumber": "6",
+  "artist": "David Palumbo",
+  "rating": "3.120",
+  "votes": "75"
+}

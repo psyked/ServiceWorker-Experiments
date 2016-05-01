@@ -1,0 +1,13 @@
+{
+  "title": "Gigapede",
+  "image": "./img/gigapede.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Insect",
+  "text": "Shroud (This creature can't be the target of spells or abilities.)At the beginning of your upkeep, if Gigapede is in your graveyard, you may discard a card. If you do, return Gigapede to your hand.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "214",
+  "artist": "Glen Angus",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Gremlin Mine",
+  "image": "./img/gremlin-mine.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ", , Sacrifice Gremlin Mine: Gremlin Mine deals 4 damage to target artifact creature., , Sacrifice Gremlin Mine: Remove up to four charge counters from target noncreature artifact.",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "136",
+  "artist": "Matt Stewart",
+  "rating": "2.881",
+  "votes": "63"
+}

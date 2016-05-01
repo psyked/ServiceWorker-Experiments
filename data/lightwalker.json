@@ -1,0 +1,13 @@
+{
+  "title": "Lightwalker",
+  "image": "./img/lightwalker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Warrior",
+  "text": "Lightwalker has flying as long as it has a +1/+1 counter on it.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "24",
+  "artist": "Winona Nelson",
+  "rating": "5",
+  "votes": "0"
+}

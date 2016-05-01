@@ -1,0 +1,13 @@
+{
+  "title": "Wildwood Rebirth",
+  "image": "./img/wildwood-rebirth.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Return target creature card from your graveyard to your hand.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "140",
+  "artist": "Dan Scott",
+  "rating": "2.366",
+  "votes": "41"
+}

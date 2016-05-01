@@ -1,0 +1,13 @@
+{
+  "title": "Kor Line-Slinger",
+  "image": "./img/kor-line-slinger.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kor Scout",
+  "text": ": Tap target creature with power 3 or less.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "30",
+  "artist": "Steve Prescott",
+  "rating": "2.293",
+  "votes": "41"
+}

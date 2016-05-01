@@ -1,0 +1,13 @@
+{
+  "title": "Bloodcurdling Scream",
+  "image": "./img/bloodcurdling-scream.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Target creature gets +X/+0 until end of turn.",
+  "expansion": "Portal Second Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Dan Frazier",
+  "rating": "3.079",
+  "votes": "19"
+}

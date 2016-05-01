@@ -1,0 +1,13 @@
+{
+  "title": "Unforge",
+  "image": "./img/unforge.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Destroy target Equipment. If that Equipment was attached to a creature, Unforge deals 2 damage to that creature.",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "71",
+  "artist": "Kev Walker",
+  "rating": "2.274",
+  "votes": "31"
+}

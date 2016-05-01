@@ -1,0 +1,13 @@
+{
+  "title": "Cloud Djinn",
+  "image": "./img/cloud-djinn.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Djinn",
+  "text": "FlyingCloud Djinn can block only creatures with flying.",
+  "expansion": "Vintage Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "61",
+  "artist": "Mike Dringenberg",
+  "rating": "2.500",
+  "votes": "1"
+}

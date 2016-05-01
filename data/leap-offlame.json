@@ -1,0 +1,13 @@
+{
+  "title": "Leap of Flame",
+  "image": "./img/leap-offlame.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Replicate  (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)Target creature gets +1/+0 and gains flying and first strike until end of turn.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "121",
+  "artist": "Greg Hildebrandt",
+  "rating": "2.942",
+  "votes": "43"
+}

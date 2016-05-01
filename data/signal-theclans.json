@@ -1,0 +1,13 @@
+{
+  "title": "Signal the Clans",
+  "image": "./img/signal-theclans.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Search your library for three creature cards and reveal them. If you reveal three cards with different names, choose one of them at random and put that card into your hand. Shuffle the rest into your library.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "194",
+  "artist": "Dave Kendall",
+  "rating": "3.277",
+  "votes": "74"
+}

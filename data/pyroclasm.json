@@ -1,0 +1,13 @@
+{
+  "title": "Pyroclasm",
+  "image": "./img/pyroclasm.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Pyroclasm deals 2 damage to each creature.",
+  "expansion": "Duel Decks: Heroes vs. Monsters",
+  "rarity": "Uncommon",
+  "cardNumber": "63",
+  "artist": "John Avon",
+  "rating": "4.569",
+  "votes": "29"
+}

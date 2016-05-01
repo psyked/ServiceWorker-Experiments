@@ -1,0 +1,13 @@
+{
+  "title": "Charge Across the Araba",
+  "image": "./img/charge-acrossthearaba.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant  — Arcane",
+  "text": "Sweep — Return any number of Plains you control to their owner's hand. Creatures you control get +1/+1 until end of turn for each Plains returned this way.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "4",
+  "artist": "Dany Orizio",
+  "rating": "3.552",
+  "votes": "48"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Grand Architect",
+  "image": "./img/grand-architect.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vedalken Artificer",
+  "text": "Other blue creatures you control get +1/+1.: Target artifact creature becomes blue until end of turn.Tap an untapped blue creature you control: Add  to your mana pool. Spend this mana only to cast artifact spells or activate abilities of artifacts.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "33",
+  "artist": "Steven Belledin",
+  "rating": "4.241",
+  "votes": "195"
+}

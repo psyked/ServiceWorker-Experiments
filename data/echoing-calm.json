@@ -1,0 +1,13 @@
+{
+  "title": "Echoing Calm",
+  "image": "./img/echoing-calm.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Destroy target enchantment and all other enchantments with the same name as that enchantment.",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "2",
+  "artist": "Greg Staples",
+  "rating": "3.180",
+  "votes": "25"
+}

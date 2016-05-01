@@ -1,0 +1,13 @@
+{
+  "title": "Bold Defense",
+  "image": "./img/bold-defense.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)Creatures you control get +1/+1 until end of turn. If Bold Defense was kicked, instead creatures you control get +2/+2 and gain first strike until end of turn.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "3",
+  "artist": "Scott Chou",
+  "rating": "1.569",
+  "votes": "65"
+}

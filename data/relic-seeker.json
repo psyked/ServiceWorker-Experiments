@@ -1,0 +1,13 @@
+{
+  "title": "Relic Seeker",
+  "image": "./img/relic-seeker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier",
+  "text": "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)When Relic Seeker becomes renowned, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "29",
+  "artist": "Volkan Baga",
+  "rating": "5",
+  "votes": "0"
+}

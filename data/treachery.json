@@ -1,0 +1,13 @@
+{
+  "title": "Treachery",
+  "image": "./img/treachery.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Treachery enters the battlefield, untap up to five lands.You control enchanted creature.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Rare",
+  "cardNumber": "50",
+  "artist": "Matthew Wilson",
+  "rating": "4.540",
+  "votes": "225"
+}

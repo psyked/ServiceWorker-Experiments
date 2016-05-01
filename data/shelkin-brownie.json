@@ -1,0 +1,13 @@
+{
+  "title": "Shelkin Brownie",
+  "image": "./img/shelkin-brownie.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Ouphe",
+  "text": ": Target creature loses all \"bands with other\" abilities until end of turn.",
+  "expansion": "Legends",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Douglas Shuler",
+  "rating": "1.102",
+  "votes": "118"
+}

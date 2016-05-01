@@ -1,0 +1,13 @@
+{
+  "title": "Vengeful Dreams",
+  "image": "./img/vengeful-dreams.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "As an additional cost to cast Vengeful Dreams, discard X cards.Exile X target attacking creatures.",
+  "expansion": "Torment",
+  "rarity": "Rare",
+  "cardNumber": "21",
+  "artist": "Mark Tedin",
+  "rating": "3.909",
+  "votes": "33"
+}

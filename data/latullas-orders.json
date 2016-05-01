@@ -1,0 +1,13 @@
+{
+  "title": "Latulla's Orders",
+  "image": "./img/latullas-orders.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "FlashEnchant creatureWhenever enchanted creature deals combat damage to defending player, you may destroy target artifact that player controls.",
+  "expansion": "Prophecy",
+  "rarity": "Common",
+  "cardNumber": "96",
+  "artist": "Ben Thompson",
+  "rating": "3.029",
+  "votes": "17"
+}

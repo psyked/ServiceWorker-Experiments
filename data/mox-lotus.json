@@ -1,0 +1,13 @@
+{
+  "title": "Mox Lotus",
+  "image": "./img/mox-lotus.jpg",
+  "convertedManaCost": "15",
+  "types": "Artifact",
+  "text": ": Add  to your mana pool.: Add one mana of any color to your mana pool.You don't lose life due to mana burn.",
+  "expansion": "Unhinged",
+  "rarity": "Rare",
+  "cardNumber": "124",
+  "artist": "Kevin Dobler",
+  "rating": "4.448",
+  "votes": "154"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Plasma Elemental",
+  "image": "./img/plasma-elemental.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": "Plasma Elemental can't be blocked.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "34",
+  "artist": "Kev Walker",
+  "rating": "3.000",
+  "votes": "47"
+}

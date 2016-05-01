@@ -1,0 +1,13 @@
+{
+  "title": "Putrefy",
+  "image": "./img/putrefy.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Destroy target artifact or creature. It can't be regenerated.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "232",
+  "artist": "Igor Kieryluk",
+  "rating": "5",
+  "votes": "0"
+}

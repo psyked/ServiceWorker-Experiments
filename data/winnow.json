@@ -1,0 +1,13 @@
+{
+  "title": "Winnow",
+  "image": "./img/winnow.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Destroy target nonland permanent if another permanent with the same name is on the battlefield.Draw a card.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "45",
+  "artist": "Roger Raupp",
+  "rating": "3.611",
+  "votes": "36"
+}

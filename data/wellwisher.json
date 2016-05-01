@@ -1,0 +1,13 @@
+{
+  "title": "Wellwisher",
+  "image": "./img/wellwisher.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf",
+  "text": ": You gain 1 life for each Elf on the battlefield.",
+  "expansion": "Duel Decks Anthology, Elves vs. Goblins",
+  "rarity": "Common",
+  "cardNumber": "15",
+  "artist": "Christopher Rush",
+  "rating": "5",
+  "votes": "0"
+}

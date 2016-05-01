@@ -1,0 +1,13 @@
+{
+  "title": "Heirs of Stromkirk",
+  "image": "./img/heirs-ofstromkirk.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Vampire",
+  "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)Whenever Heirs of Stromkirk deals combat damage to a player, put a +1/+1 counter on it.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "140",
+  "artist": "Winona Nelson",
+  "rating": "2.947",
+  "votes": "47"
+}

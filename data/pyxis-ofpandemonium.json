@@ -1,0 +1,13 @@
+{
+  "title": "Pyxis of Pandemonium",
+  "image": "./img/pyxis-ofpandemonium.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ": Each player exiles the top card of his or her library face down., , Sacrifice Pyxis of Pandemonium: Each player turns face up all cards he or she owns exiled with Pyxis of Pandemonium, then puts all permanent cards among them onto the battlefield.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "220",
+  "artist": "David Palumbo",
+  "rating": "3.511",
+  "votes": "44"
+}

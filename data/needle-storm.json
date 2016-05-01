@@ -1,0 +1,13 @@
+{
+  "title": "Needle Storm",
+  "image": "./img/needle-storm.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Needle Storm deals 4 damage to each creature with flying.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "183",
+  "artist": "Val Mayerik",
+  "rating": "5",
+  "votes": "0"
+}

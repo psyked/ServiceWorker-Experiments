@@ -1,0 +1,13 @@
+{
+  "title": "Weight of Spires",
+  "image": "./img/weight-ofspires.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Weight of Spires deals damage to target creature equal to the number of nonbasic lands that creature's controller controls.",
+  "expansion": "Dissension",
+  "rarity": "Uncommon",
+  "cardNumber": "78",
+  "artist": "Michael Sutfin",
+  "rating": "2.431",
+  "votes": "36"
+}

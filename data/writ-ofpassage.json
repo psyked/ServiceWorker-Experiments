@@ -1,0 +1,13 @@
+{
+  "title": "Writ of Passage",
+  "image": "./img/writ-ofpassage.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature attacks, if its power is 2 or less, it can't be blocked this turn.Forecast — , Reveal Writ of Passage from your hand: Target creature with power 2 or less can't be blocked this turn. (Activate this ability only during your upkeep and only once each turn.)",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "37",
+  "artist": "Luca Zontini",
+  "rating": "2.929",
+  "votes": "49"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Moonlight Hunt",
+  "image": "./img/moonlight-hunt.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Choose target creature you don't control. Each creature you control that's a Wolf or a Werewolf deals damage equal to its power to that creature.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "219",
+  "artist": "Joseph Meehan",
+  "rating": "5",
+  "votes": "0"
+}

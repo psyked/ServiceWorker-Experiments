@@ -1,0 +1,13 @@
+{
+  "title": "Mystic Genesis",
+  "image": "./img/mystic-genesis.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Counter target spell. Put an X/X green Ooze creature token onto the battlefield, where X is that spell's converted mana cost.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "180",
+  "artist": "Mike Bierek",
+  "rating": "3.388",
+  "votes": "76"
+}

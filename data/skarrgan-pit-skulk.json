@@ -1,0 +1,13 @@
+{
+  "title": "Skarrgan Pit-Skulk",
+  "image": "./img/skarrgan-pit-skulk.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Warrior",
+  "text": "Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)Creatures with power less than Skarrgan Pit-Skulk's power can't block it.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "96",
+  "artist": "Liam Sharp",
+  "rating": "4.000",
+  "votes": "72"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Icequake",
+  "image": "./img/icequake.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Destroy target land. If that land was a snow land, Icequake deals 1 damage to that land's controller.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "94",
+  "artist": "Richard Kane Ferguson",
+  "rating": "4.080",
+  "votes": "25"
+}

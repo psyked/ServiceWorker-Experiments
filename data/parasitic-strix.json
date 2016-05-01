@@ -1,0 +1,13 @@
+{
+  "title": "Parasitic Strix",
+  "image": "./img/parasitic-strix.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Bird",
+  "text": "FlyingWhen Parasitic Strix enters the battlefield, if you control a black permanent, target player loses 2 life and you gain 2 life.",
+  "expansion": "Conflux",
+  "rarity": "Common",
+  "cardNumber": "32",
+  "artist": "Steven Belledin",
+  "rating": "3.056",
+  "votes": "71"
+}

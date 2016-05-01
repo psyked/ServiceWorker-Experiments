@@ -1,0 +1,13 @@
+{
+  "title": "Anvil of Bogardan",
+  "image": "./img/anvil-ofbogardan.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Players have no maximum hand size.At the beginning of each player's draw step, that player draws an additional card, then discards a card.",
+  "expansion": "Visions",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Roger Raupp",
+  "rating": "3.938",
+  "votes": "48"
+}

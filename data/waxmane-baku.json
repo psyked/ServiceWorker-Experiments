@@ -1,0 +1,13 @@
+{
+  "title": "Waxmane Baku",
+  "image": "./img/waxmane-baku.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Waxmane Baku., Remove X ki counters from Waxmane Baku: Tap X target creatures.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "38",
+  "artist": "Greg Hildebrandt",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Centaur Healer",
+  "image": "./img/centaur-healer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Centaur Cleric",
+  "text": "When Centaur Healer enters the battlefield, you gain 3 life.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "148",
+  "artist": "Mark Zug",
+  "rating": "3.827",
+  "votes": "104"
+}

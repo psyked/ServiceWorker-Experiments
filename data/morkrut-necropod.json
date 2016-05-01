@@ -1,0 +1,13 @@
+{
+  "title": "Morkrut Necropod",
+  "image": "./img/morkrut-necropod.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Slug Horror",
+  "text": "Menace (This creature can't be blocked except by two or more creatures.)Whenever Morkrut Necropod attacks or blocks, sacrifice another creature or land.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "125",
+  "artist": "Alejandro Mirabal",
+  "rating": "5",
+  "votes": "0"
+}

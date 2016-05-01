@@ -1,0 +1,13 @@
+{
+  "title": "Heartlash Cinder",
+  "image": "./img/heartlash-cinder.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elemental Warrior",
+  "text": "HasteChroma — When Heartlash Cinder enters the battlefield, it gets +X/+0 until end of turn, where X is the number of red mana symbols in the mana costs of permanents you control.",
+  "expansion": "Eventide",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Steve Prescott",
+  "rating": "2.939",
+  "votes": "41"
+}

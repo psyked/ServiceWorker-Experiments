@@ -1,0 +1,13 @@
+{
+  "title": "Stampeding Rhino",
+  "image": "./img/stampeding-rhino.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Rhino",
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)",
+  "expansion": "Magic 2012",
+  "rarity": "Common",
+  "cardNumber": "196",
+  "artist": "Steven Belledin",
+  "rating": "2.865",
+  "votes": "48"
+}

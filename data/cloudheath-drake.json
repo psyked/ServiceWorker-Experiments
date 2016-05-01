@@ -1,0 +1,13 @@
+{
+  "title": "Cloudheath Drake",
+  "image": "./img/cloudheath-drake.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Drake",
+  "text": "Flying: Cloudheath Drake gains vigilance until end of turn.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "35",
+  "artist": "Izzy",
+  "rating": "1.962",
+  "votes": "53"
+}

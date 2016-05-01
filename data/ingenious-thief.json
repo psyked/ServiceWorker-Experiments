@@ -1,0 +1,13 @@
+{
+  "title": "Ingenious Thief",
+  "image": "./img/ingenious-thief.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Rogue",
+  "text": "FlyingWhen Ingenious Thief enters the battlefield, look at target player's hand.",
+  "expansion": "Starter 1999",
+  "rarity": "Common",
+  "cardNumber": "40",
+  "artist": "Dan Frazier",
+  "rating": "2.685",
+  "votes": "27"
+}

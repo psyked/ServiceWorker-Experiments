@@ -1,0 +1,13 @@
+{
+  "title": "Starlit Sanctum",
+  "image": "./img/starlit-sanctum.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool., , Sacrifice a Cleric creature: You gain life equal to the sacrificed creature's toughness., , Sacrifice a Cleric creature: Target player loses life equal to the sacrificed creature's power.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "325",
+  "artist": "Ben Thompson",
+  "rating": "4.198",
+  "votes": "43"
+}

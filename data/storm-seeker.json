@@ -1,0 +1,13 @@
+{
+  "title": "Storm Seeker",
+  "image": "./img/storm-seeker.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Storm Seeker deals damage to target player equal to the number of cards in that player's hand.",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "132",
+  "artist": "Mark Poole",
+  "rating": "3.764",
+  "votes": "53"
+}

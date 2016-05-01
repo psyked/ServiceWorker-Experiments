@@ -1,0 +1,13 @@
+{
+  "title": "Warmonger Hellkite",
+  "image": "./img/warmonger-hellkite.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "FlyingAll creatures attack each combat if able.: Attacking creatures get +1/+0 until end of turn.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "41",
+  "artist": "Trevor Claxton",
+  "rating": "5",
+  "votes": "0"
+}

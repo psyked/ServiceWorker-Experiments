@@ -1,0 +1,13 @@
+{
+  "title": "Cruel Revival",
+  "image": "./img/cruel-revival.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Destroy target non-Zombie creature. It can't be regenerated. Return up to one target Zombie card from your graveyard to your hand.",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "88",
+  "artist": "Miles Johnston",
+  "rating": "5",
+  "votes": "0"
+}

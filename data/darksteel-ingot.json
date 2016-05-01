@@ -1,0 +1,13 @@
+{
+  "title": "Darksteel Ingot",
+  "image": "./img/darksteel-ingot.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Indestructible: Add one mana of any color to your mana pool.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "251",
+  "artist": "Martina Pilcerova",
+  "rating": "5",
+  "votes": "0"
+}

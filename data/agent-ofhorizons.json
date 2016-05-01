@@ -1,0 +1,13 @@
+{
+  "title": "Agent of Horizons",
+  "image": "./img/agent-ofhorizons.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Rogue",
+  "text": ": Agent of Horizons can't be blocked this turn.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "148",
+  "artist": "Clint Cearley",
+  "rating": "2.968",
+  "votes": "47"
+}

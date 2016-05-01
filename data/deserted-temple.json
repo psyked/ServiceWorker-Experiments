@@ -1,0 +1,13 @@
+{
+  "title": "Deserted Temple",
+  "image": "./img/deserted-temple.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool., : Untap target land.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "320",
+  "artist": "Rob Alexander",
+  "rating": "4.062",
+  "votes": "64"
+}

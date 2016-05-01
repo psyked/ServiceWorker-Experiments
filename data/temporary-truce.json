@@ -1,0 +1,13 @@
+{
+  "title": "Temporary Truce",
+  "image": "./img/temporary-truce.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Each player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life.",
+  "expansion": "Portal",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Mike Raabe",
+  "rating": "3.042",
+  "votes": "24"
+}

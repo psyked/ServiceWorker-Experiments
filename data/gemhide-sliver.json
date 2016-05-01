@@ -1,0 +1,13 @@
+{
+  "title": "Gemhide Sliver",
+  "image": "./img/gemhide-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Sliver",
+  "text": "All Slivers have \": Add one mana of any color to your mana pool.\"",
+  "expansion": "Premium Deck Series: Slivers",
+  "rarity": "Common",
+  "cardNumber": "8",
+  "artist": "John Matson",
+  "rating": "4.398",
+  "votes": "108"
+}

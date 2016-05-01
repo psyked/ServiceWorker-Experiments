@@ -1,0 +1,13 @@
+{
+  "title": "Faerie Mechanist",
+  "image": "./img/faerie-mechanist.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Faerie Artificer",
+  "text": "FlyingWhen Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "44",
+  "artist": "Matt Cavotta",
+  "rating": "5",
+  "votes": "0"
+}

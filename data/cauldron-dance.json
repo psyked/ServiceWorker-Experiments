@@ -1,0 +1,13 @@
+{
+  "title": "Cauldron Dance",
+  "image": "./img/cauldron-dance.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "Cast Cauldron Dance only during combat.Return target creature card from your graveyard to the battlefield. That creature gains haste. Return it to your hand at the beginning of the next end step.You may put a creature card from your hand onto the battlefield. That creature gains haste. Its controller sacrifices it at the beginning of the next end step.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "238",
+  "artist": "Donato Giancola",
+  "rating": "4.192",
+  "votes": "52"
+}

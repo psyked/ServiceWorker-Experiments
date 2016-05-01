@@ -1,0 +1,13 @@
+{
+  "title": "Seismic Strike",
+  "image": "./img/seismic-strike.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Seismic Strike deals damage to target creature equal to the number of Mountains you control.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "280",
+  "artist": "Christopher Moeller",
+  "rating": "2.400",
+  "votes": "5"
+}

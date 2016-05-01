@@ -1,0 +1,13 @@
+{
+  "title": "Gustcloak Harrier",
+  "image": "./img/gustcloak-harrier.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Bird Soldier",
+  "text": "FlyingWhenever Gustcloak Harrier becomes blocked, you may untap it and remove it from combat.",
+  "expansion": "Duel Decks: Elspeth vs. Kiora",
+  "rarity": "Common",
+  "cardNumber": "10",
+  "artist": "Dan Frazier",
+  "rating": "5",
+  "votes": "0"
+}

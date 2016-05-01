@@ -1,0 +1,13 @@
+{
+  "title": "Sawtooth Thresher",
+  "image": "./img/sawtooth-thresher.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Construct",
+  "text": "Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)Remove two +1/+1 counters from Sawtooth Thresher: Sawtooth Thresher gets +4/+4 until end of turn.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "149",
+  "artist": "Alan Pollack",
+  "rating": "2.640",
+  "votes": "25"
+}

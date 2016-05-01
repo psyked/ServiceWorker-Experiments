@@ -1,0 +1,13 @@
+{
+  "title": "Sudden Storm",
+  "image": "./img/sudden-storm.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Tap up to two target creatures. Those creatures don't untap during their controllers' next untap steps. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "53",
+  "artist": "Adam Paquette",
+  "rating": "3.021",
+  "votes": "24"
+}

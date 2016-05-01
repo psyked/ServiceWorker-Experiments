@@ -1,0 +1,13 @@
+{
+  "title": "Toxic Nim",
+  "image": "./img/toxic-nim.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Zombie",
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.): Regenerate Toxic Nim.",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "75",
+  "artist": "Karl Kopinski",
+  "rating": "2.915",
+  "votes": "65"
+}

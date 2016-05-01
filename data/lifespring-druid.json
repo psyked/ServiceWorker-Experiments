@@ -1,0 +1,13 @@
+{
+  "title": "Lifespring Druid",
+  "image": "./img/lifespring-druid.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Druid",
+  "text": ": Add one mana of any color to your mana pool.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "177",
+  "artist": "Willian Murai",
+  "rating": "5",
+  "votes": "0"
+}

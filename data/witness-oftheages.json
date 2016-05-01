@@ -1,0 +1,13 @@
+{
+  "title": "Witness of the Ages",
+  "image": "./img/witness-oftheages.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Golem",
+  "text": "Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "228",
+  "artist": "Izzy",
+  "rating": "2.750",
+  "votes": "2"
+}

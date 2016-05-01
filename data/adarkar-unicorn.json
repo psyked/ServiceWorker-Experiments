@@ -1,0 +1,13 @@
+{
+  "title": "Adarkar Unicorn",
+  "image": "./img/adarkar-unicorn.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Unicorn",
+  "text": ": Add  or  to your mana pool. Spend this mana only to pay cumulative upkeep costs.",
+  "expansion": "Ice Age",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Quinton Hoover",
+  "rating": "2.260",
+  "votes": "48"
+}

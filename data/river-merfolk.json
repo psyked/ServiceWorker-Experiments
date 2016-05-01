@@ -1,0 +1,13 @@
+{
+  "title": "River Merfolk",
+  "image": "./img/river-merfolk.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk",
+  "text": ": River Merfolk gains mountainwalk until end of turn. (It can't be blocked as long as defending player controls a Mountain.)",
+  "expansion": "Masters Edition",
+  "rarity": "Common",
+  "cardNumber": "47",
+  "artist": "Douglas Shuler",
+  "rating": "3.094",
+  "votes": "32"
+}

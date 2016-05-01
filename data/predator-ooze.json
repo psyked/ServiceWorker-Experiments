@@ -1,0 +1,13 @@
+{
+  "title": "Predator Ooze",
+  "image": "./img/predator-ooze.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Ooze",
+  "text": "IndestructibleWhenever Predator Ooze attacks, put a +1/+1 counter on it.Whenever a creature dealt damage by Predator Ooze this turn dies, put a +1/+1 counter on Predator Ooze.",
+  "expansion": "Dark Ascension",
+  "rarity": "Rare",
+  "cardNumber": "124",
+  "artist": "Ryan Yee",
+  "rating": "3.873",
+  "votes": "166"
+}

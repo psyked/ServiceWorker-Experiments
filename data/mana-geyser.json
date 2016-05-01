@@ -1,0 +1,13 @@
+{
+  "title": "Mana Geyser",
+  "image": "./img/mana-geyser.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Add  to your mana pool for each tapped land your opponents control.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "147",
+  "artist": "Martina Pilcerova",
+  "rating": "2.643",
+  "votes": "7"
+}

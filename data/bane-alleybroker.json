@@ -1,0 +1,13 @@
+{
+  "title": "Bane Alley Broker",
+  "image": "./img/bane-alleybroker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Rogue",
+  "text": ": Draw a card, then exile a card from your hand face down.You may look at cards exiled with Bane Alley Broker., : Return a card exiled with Bane Alley Broker to its owner's hand.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "145",
+  "artist": "Clint Cearley",
+  "rating": "3.500",
+  "votes": "87"
+}

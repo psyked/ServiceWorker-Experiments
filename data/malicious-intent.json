@@ -1,0 +1,13 @@
+{
+  "title": "Malicious Intent",
+  "image": "./img/malicious-intent.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has \": Target creature can't block this turn.\"",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "147",
+  "artist": "Kev Walker",
+  "rating": "1.211",
+  "votes": "38"
+}

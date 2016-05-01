@@ -1,0 +1,13 @@
+{
+  "title": "Resupply",
+  "image": "./img/resupply.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "You gain 6 life.Draw a card.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "32",
+  "artist": "Filip Burburan",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ironshell Beetle",
+  "image": "./img/ironshell-beetle.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Insect",
+  "text": "When Ironshell Beetle enters the battlefield, put a +1/+1 counter on target creature.",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "121",
+  "artist": "Heather Hudson",
+  "rating": "3.000",
+  "votes": "31"
+}

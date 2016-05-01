@@ -1,0 +1,13 @@
+{
+  "title": "Flame Slash",
+  "image": "./img/flame-slash.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Flame Slash deals 4 damage to target creature.",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Common",
+  "cardNumber": "60",
+  "artist": "Raymond Swanland",
+  "rating": "3.855",
+  "votes": "38"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Hearth Charm",
+  "image": "./img/hearth-charm.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Choose one —• Destroy target artifact creature.• Attacking creatures get +1/+0 until end of turn.• Target creature with power 2 or less can't be blocked this turn.",
+  "expansion": "Visions",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Greg Spalenka",
+  "rating": "4.214",
+  "votes": "49"
+}

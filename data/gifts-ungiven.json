@@ -1,0 +1,13 @@
+{
+  "title": "Gifts Ungiven",
+  "image": "./img/gifts-ungiven.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.",
+  "expansion": "Modern Masters",
+  "rarity": "Rare",
+  "cardNumber": "46",
+  "artist": "D. Alexander Gregory",
+  "rating": "4.599",
+  "votes": "76"
+}

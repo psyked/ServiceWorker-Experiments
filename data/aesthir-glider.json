@@ -1,0 +1,13 @@
+{
+  "title": "Aesthir Glider",
+  "image": "./img/aesthir-glider.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Bird",
+  "text": "FlyingAesthir Glider can't block.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "176",
+  "artist": "Ruth Thompson",
+  "rating": "2.650",
+  "votes": "30"
+}

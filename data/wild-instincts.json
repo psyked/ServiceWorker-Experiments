@@ -1,0 +1,13 @@
+{
+  "title": "Wild Instincts",
+  "image": "./img/wild-instincts.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Target creature you control gets +2/+2 until end of turn. It fights target creature an opponent controls. (Each deals damage equal to its power to the other.)",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "206",
+  "artist": "Igor Kieryluk",
+  "rating": "5",
+  "votes": "0"
+}

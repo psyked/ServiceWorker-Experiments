@@ -1,0 +1,13 @@
+{
+  "title": "Seer's Vision",
+  "image": "./img/seers-vision.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Your opponents play with their hands revealed.Sacrifice Seer's Vision: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "270",
+  "artist": "Rebecca Guay",
+  "rating": "3.161",
+  "votes": "28"
+}

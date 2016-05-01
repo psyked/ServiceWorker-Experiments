@@ -1,0 +1,13 @@
+{
+  "title": "God-Favored General",
+  "image": "./img/god-favored-general.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier",
+  "text": "Inspired — Whenever God-Favored General becomes untapped, you may pay . If you do, put two 1/1 white Soldier enchantment creature tokens onto the battlefield.",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "14",
+  "artist": "David Palumbo",
+  "rating": "3.520",
+  "votes": "25"
+}

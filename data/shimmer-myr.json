@@ -1,0 +1,13 @@
+{
+  "title": "Shimmer Myr",
+  "image": "./img/shimmer-myr.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Myr",
+  "text": "FlashYou may cast artifact cards as though they had flash.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Rare",
+  "cardNumber": "129",
+  "artist": "Jana Schirmer & Johannes Voss",
+  "rating": "3.718",
+  "votes": "103"
+}

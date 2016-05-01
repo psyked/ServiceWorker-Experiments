@@ -1,0 +1,13 @@
+{
+  "title": "Dakmor Sorceress",
+  "image": "./img/dakmor-sorceress.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Human Wizard",
+  "text": "Dakmor Sorceress's power is equal to the number of Swamps you control.",
+  "expansion": "Starter 1999",
+  "rarity": "Rare",
+  "cardNumber": "74",
+  "artist": "Matthew Wilson",
+  "rating": "3.128",
+  "votes": "39"
+}

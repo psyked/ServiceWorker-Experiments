@@ -1,0 +1,13 @@
+{
+  "title": "Jace, Architect of Thought",
+  "image": "./img/jace-architectofthought.jpg",
+  "convertedManaCost": "4",
+  "types": "Planeswalker  — Jace",
+  "text": "+1: Until your next turn, whenever a creature an opponent controls attacks, it gets -1/-0 until end of turn.−2: Reveal the top three cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other on the bottom of your library in any order.−8: For each player, search that player's library for a nonland card and exile it, then that player shuffles his or her library. You may cast those cards without paying their mana costs.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Mythic Rare",
+  "cardNumber": "1",
+  "artist": "Igor Kieryluk",
+  "rating": "3.500",
+  "votes": "57"
+}

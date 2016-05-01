@@ -1,0 +1,13 @@
+{
+  "title": "Farhaven Elf",
+  "image": "./img/farhaven-elf.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Druid",
+  "text": "When Farhaven Elf enters the battlefield, you may search your library for a basic land card and put it onto the battlefield tapped. If you do, shuffle your library.",
+  "expansion": "Commander 2014",
+  "rarity": "Common",
+  "cardNumber": "196",
+  "artist": "Brandon Kitkouski",
+  "rating": "5",
+  "votes": "0"
+}

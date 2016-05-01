@@ -1,0 +1,13 @@
+{
+  "title": "Convalescence",
+  "image": "./img/convalescence.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, if you have 10 or less life, you gain 1 life.",
+  "expansion": "Exodus",
+  "rarity": "Rare",
+  "cardNumber": "5",
+  "artist": "D. Alexander Gregory",
+  "rating": "1.780",
+  "votes": "50"
+}

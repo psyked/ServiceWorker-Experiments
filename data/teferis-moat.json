@@ -1,0 +1,13 @@
+{
+  "title": "Teferi's Moat",
+  "image": "./img/teferis-moat.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "As Teferi's Moat enters the battlefield, choose a color.Creatures of the chosen color without flying can't attack you.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "103",
+  "artist": "rk post",
+  "rating": "4.041",
+  "votes": "49"
+}

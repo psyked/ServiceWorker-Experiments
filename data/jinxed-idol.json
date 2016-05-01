@@ -1,0 +1,13 @@
+{
+  "title": "Jinxed Idol",
+  "image": "./img/jinxed-idol.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, Jinxed Idol deals 2 damage to you.Sacrifice a creature: Target opponent gains control of Jinxed Idol.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Rare",
+  "cardNumber": "224",
+  "artist": "John Matson",
+  "rating": "5",
+  "votes": "0"
+}

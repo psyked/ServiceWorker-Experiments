@@ -1,0 +1,13 @@
+{
+  "title": "Priest of Urabrask",
+  "image": "./img/priest-ofurabrask.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": "When Priest of Urabrask enters the battlefield, add  to your mana pool.",
+  "expansion": "New Phyrexia",
+  "rarity": "Uncommon",
+  "cardNumber": "90",
+  "artist": "Kev Walker",
+  "rating": "3.712",
+  "votes": "92"
+}

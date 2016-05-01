@@ -1,0 +1,13 @@
+{
+  "title": "Kamahl's Summons",
+  "image": "./img/kamahls-summons.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Each player may reveal any number of creature cards from his or her hand. Then each player puts a 2/2 green Bear creature token onto the battlefield for each card he or she revealed this way.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "269",
+  "artist": "Anthony S. Waters",
+  "rating": "2.875",
+  "votes": "24"
+}

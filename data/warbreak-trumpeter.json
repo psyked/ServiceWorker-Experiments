@@ -1,0 +1,13 @@
+{
+  "title": "Warbreak Trumpeter",
+  "image": "./img/warbreak-trumpeter.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin",
+  "text": "Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)When Warbreak Trumpeter is turned face up, put X 1/1 red Goblin creature tokens onto the battlefield.",
+  "expansion": "Legions",
+  "rarity": "Uncommon",
+  "cardNumber": "116",
+  "artist": "Dany Orizio",
+  "rating": "3.061",
+  "votes": "33"
+}

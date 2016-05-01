@@ -1,0 +1,13 @@
+{
+  "title": "Angelic Favor",
+  "image": "./img/angelic-favor.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "If you control a Plains, you may tap an untapped creature you control rather than pay Angelic Favor's mana cost.Cast Angelic Favor only during combat.Put a 4/4 white Angel creature token with flying onto the battlefield. Exile it at the beginning of the next end step.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "1",
+  "artist": "Paolo Parente",
+  "rating": "4.107",
+  "votes": "42"
+}

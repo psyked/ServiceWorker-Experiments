@@ -1,0 +1,13 @@
+{
+  "title": "Blinding Light",
+  "image": "./img/blinding-light.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Tap all nonwhite creatures.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "9",
+  "artist": "Marc Fishman",
+  "rating": "3.766",
+  "votes": "32"
+}

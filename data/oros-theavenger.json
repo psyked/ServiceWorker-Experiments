@@ -1,0 +1,13 @@
+{
+  "title": "Oros, the Avenger",
+  "image": "./img/oros-theavenger.jpg",
+  "convertedManaCost": "6",
+  "types": "Legendary Creature  — Dragon",
+  "text": "FlyingWhenever Oros, the Avenger deals combat damage to a player, you may pay . If you do, Oros deals 3 damage to each nonwhite creature.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Rare",
+  "cardNumber": "216",
+  "artist": "Daren Bader",
+  "rating": "4.026",
+  "votes": "39"
+}

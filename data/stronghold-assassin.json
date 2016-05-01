@@ -1,0 +1,13 @@
+{
+  "title": "Stronghold Assassin",
+  "image": "./img/stronghold-assassin.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie Assassin",
+  "text": ", Sacrifice a creature: Destroy target nonblack creature.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Rare",
+  "cardNumber": "120",
+  "artist": "Matthew D. Wilson",
+  "rating": "5",
+  "votes": "0"
+}

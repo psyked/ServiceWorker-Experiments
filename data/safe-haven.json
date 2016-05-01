@@ -1,0 +1,13 @@
+{
+  "title": "Safe Haven",
+  "image": "./img/safe-haven.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ", : Exile target creature you control.At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return each card exiled with Safe Haven to the battlefield under its owner's control.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "121",
+  "artist": "Christopher Rush",
+  "rating": "3.500",
+  "votes": "42"
+}

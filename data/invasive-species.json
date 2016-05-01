@@ -1,0 +1,13 @@
+{
+  "title": "Invasive Species",
+  "image": "./img/invasive-species.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Insect",
+  "text": "When Invasive Species enters the battlefield, return another permanent you control to its owner's hand.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "181",
+  "artist": "Christopher Moeller",
+  "rating": "2.750",
+  "votes": "6"
+}

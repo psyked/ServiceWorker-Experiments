@@ -1,0 +1,13 @@
+{
+  "title": "Illusory Ambusher",
+  "image": "./img/illusory-ambusher.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Cat Illusion",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)Whenever Illusory Ambusher is dealt damage, draw that many cards.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "12",
+  "artist": "Steve Argyle",
+  "rating": "5",
+  "votes": "0"
+}

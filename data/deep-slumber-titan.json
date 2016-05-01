@@ -1,0 +1,13 @@
+{
+  "title": "Deep-Slumber Titan",
+  "image": "./img/deep-slumber-titan.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Giant Warrior",
+  "text": "Deep-Slumber Titan enters the battlefield tapped.Deep-Slumber Titan doesn't untap during your untap step.Whenever Deep-Slumber Titan is dealt damage, untap it.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "89",
+  "artist": "Steve Prescott",
+  "rating": "3.089",
+  "votes": "62"
+}

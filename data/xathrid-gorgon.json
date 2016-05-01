@@ -1,0 +1,13 @@
+{
+  "title": "Xathrid Gorgon",
+  "image": "./img/xathrid-gorgon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Gorgon",
+  "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.), : Put a petrification counter on target creature. It gains defender and becomes a colorless artifact in addition to its other types. Its activated abilities can't be activated. (A creature with defender can't attack.)",
+  "expansion": "Magic 2013",
+  "rarity": "Rare",
+  "cardNumber": "118",
+  "artist": "Chase Stone",
+  "rating": "3.803",
+  "votes": "71"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Arena Athlete",
+  "image": "./img/arena-athlete.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human",
+  "text": "Heroic — Whenever you cast a spell that targets Arena Athlete, target creature an opponent controls can't block this turn.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "113",
+  "artist": "Jason Chan",
+  "rating": "2.908",
+  "votes": "38"
+}

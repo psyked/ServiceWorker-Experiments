@@ -1,0 +1,13 @@
+{
+  "title": "Soul Stair Expedition",
+  "image": "./img/soul-stairexpedition.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment",
+  "text": "Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Soul Stair Expedition.Remove three quest counters from Soul Stair Expedition and sacrifice it: Return up to two target creature cards from your graveyard to your hand.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "112",
+  "artist": "Anthony Francisco",
+  "rating": "3.402",
+  "votes": "46"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Infernal Tutor",
+  "image": "./img/infernal-tutor.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Reveal a card from your hand. Search your library for a card with the same name as that card, reveal it, put it into your hand, then shuffle your library.Hellbent — If you have no cards in hand, instead search your library for a card, put it into your hand, then shuffle your library.",
+  "expansion": "Dissension",
+  "rarity": "Rare",
+  "cardNumber": "46",
+  "artist": "Kev Walker",
+  "rating": "4.167",
+  "votes": "60"
+}

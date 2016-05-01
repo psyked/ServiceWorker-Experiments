@@ -1,0 +1,13 @@
+{
+  "title": "Coffin Puppets",
+  "image": "./img/coffin-puppets.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie",
+  "text": "Sacrifice two lands: Return Coffin Puppets from your graveyard to the battlefield. Activate this ability only during your upkeep and only if you control a Swamp.",
+  "expansion": "Prophecy",
+  "rarity": "Rare",
+  "cardNumber": "60",
+  "artist": "Arnie Swekel",
+  "rating": "2.250",
+  "votes": "36"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Tunnel Ignus",
+  "image": "./img/tunnel-ignus.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elemental",
+  "text": "Whenever a land enters the battlefield under an opponent's control, if that player had another land enter the battlefield under his or her control this turn, Tunnel Ignus deals 3 damage to that player.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "105",
+  "artist": "Scott Chou",
+  "rating": "3.383",
+  "votes": "77"
+}

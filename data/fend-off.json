@@ -1,0 +1,13 @@
+{
+  "title": "Fend Off",
+  "image": "./img/fend-off.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Prevent all combat damage that would be dealt by target creature this turn.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "7",
+  "artist": "Paolo Parente",
+  "rating": "3.096",
+  "votes": "26"
+}

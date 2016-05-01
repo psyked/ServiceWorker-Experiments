@@ -1,0 +1,13 @@
+{
+  "title": "Totem Speaker",
+  "image": "./img/totem-speaker.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elf Druid",
+  "text": "Whenever a Beast enters the battlefield, you may gain 3 life.",
+  "expansion": "Legions",
+  "rarity": "Uncommon",
+  "cardNumber": "141",
+  "artist": "Darrell Riche",
+  "rating": "2.068",
+  "votes": "22"
+}

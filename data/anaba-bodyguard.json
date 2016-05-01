@@ -1,0 +1,13 @@
+{
+  "title": "Anaba Bodyguard",
+  "image": "./img/anaba-bodyguard.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Minotaur",
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "187",
+  "artist": "Greg Staples",
+  "rating": "2.174",
+  "votes": "43"
+}

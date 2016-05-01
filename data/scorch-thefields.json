@@ -1,0 +1,13 @@
+{
+  "title": "Scorch the Fields",
+  "image": "./img/scorch-thefields.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Destroy target land. Scorch the Fields deals 1 damage to each Human creature.",
+  "expansion": "Dark Ascension",
+  "rarity": "Common",
+  "cardNumber": "103",
+  "artist": "Jaime Jones",
+  "rating": "1.090",
+  "votes": "67"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Circle of Solace",
+  "image": "./img/circle-ofsolace.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "As Circle of Solace enters the battlefield, choose a creature type.: The next time a creature of the chosen type would deal damage to you this turn, prevent that damage.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "13",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "2.938",
+  "votes": "24"
+}

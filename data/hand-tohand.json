@@ -1,0 +1,13 @@
+{
+  "title": "Hand to Hand",
+  "image": "./img/hand-tohand.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "During combat, players can't cast instant spells or activate abilities that aren't mana abilities.",
+  "expansion": "Tempest",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Carl Frank",
+  "rating": "3.796",
+  "votes": "27"
+}

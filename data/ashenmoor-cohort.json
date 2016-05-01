@@ -1,0 +1,13 @@
+{
+  "title": "Ashenmoor Cohort",
+  "image": "./img/ashenmoor-cohort.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental Warrior",
+  "text": "Ashenmoor Cohort gets +1/+1 as long as you control another black creature.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Lucio Parrillo",
+  "rating": "1.113",
+  "votes": "151"
+}

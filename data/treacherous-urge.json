@@ -1,0 +1,13 @@
+{
+  "title": "Treacherous Urge",
+  "image": "./img/treacherous-urge.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Target opponent reveals his or her hand. You may put a creature card from it onto the battlefield under your control. That creature gains haste. Sacrifice it at the beginning of the next end step.",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "82",
+  "artist": "Steven Belledin",
+  "rating": "3.841",
+  "votes": "41"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Embermaw Hellion",
+  "image": "./img/embermaw-hellion.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Hellion",
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "141",
+  "artist": "James Paick",
+  "rating": "5",
+  "votes": "0"
+}

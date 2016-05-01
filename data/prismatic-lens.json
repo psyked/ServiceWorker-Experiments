@@ -1,0 +1,13 @@
+{
+  "title": "Prismatic Lens",
+  "image": "./img/prismatic-lens.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ": Add  to your mana pool., : Add one mana of any color to your mana pool.",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "262",
+  "artist": "Alan Pollack",
+  "rating": "3.618",
+  "votes": "51"
+}

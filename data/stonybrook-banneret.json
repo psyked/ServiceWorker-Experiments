@@ -1,0 +1,13 @@
+{
+  "title": "Stonybrook Banneret",
+  "image": "./img/stonybrook-banneret.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk Wizard",
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)Merfolk spells and Wizard spells you cast cost  less to cast.",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "51",
+  "artist": "Ralph Horsley",
+  "rating": "4.282",
+  "votes": "71"
+}

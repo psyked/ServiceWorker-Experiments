@@ -1,0 +1,13 @@
+{
+  "title": "Necrosavant",
+  "image": "./img/necrosavant.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Zombie Giant",
+  "text": ", Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate this ability only during your upkeep.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Rare",
+  "cardNumber": "145",
+  "artist": "John Coulthart",
+  "rating": "3.581",
+  "votes": "31"
+}

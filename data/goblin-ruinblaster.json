@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Ruinblaster",
+  "image": "./img/goblin-ruinblaster.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Shaman",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)HasteWhen Goblin Ruinblaster enters the battlefield, if it was kicked, destroy target nonbasic land.",
+  "expansion": "Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "127",
+  "artist": "Matt Cavotta",
+  "rating": "3.891",
+  "votes": "69"
+}

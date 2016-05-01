@@ -1,0 +1,13 @@
+{
+  "title": "Miming Slime",
+  "image": "./img/miming-slime.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Put an X/X green Ooze creature token onto the battlefield, where X is the greatest power among creatures you control.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "126",
+  "artist": "Svetlin Velinov",
+  "rating": "3.093",
+  "votes": "54"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Chambered Nautilus",
+  "image": "./img/chambered-nautilus.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Nautilus Beast",
+  "text": "Whenever Chambered Nautilus becomes blocked, you may draw a card.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "64",
+  "artist": "John Matson",
+  "rating": "3.483",
+  "votes": "30"
+}

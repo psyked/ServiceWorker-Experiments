@@ -1,0 +1,13 @@
+{
+  "title": "Ulamog's Nullifier",
+  "image": "./img/ulamogs-nullifier.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Eldrazi Processor",
+  "text": "Devoid (This card has no color.)FlashFlyingWhen Ulamog's Nullifier enters the battlefield, you may put two cards your opponents own from exile into their owners' graveyards. If you do, counter target spell.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "207",
+  "artist": "Aleksi Briclot",
+  "rating": "5",
+  "votes": "0"
+}

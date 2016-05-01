@@ -1,0 +1,13 @@
+{
+  "title": "Ghoul's Feast",
+  "image": "./img/ghouls-feast.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Uncommon",
+  "cardNumber": "67",
+  "artist": "Alan Pollack",
+  "rating": "3.850",
+  "votes": "10"
+}

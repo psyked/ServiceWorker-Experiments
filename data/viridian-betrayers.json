@@ -1,0 +1,13 @@
+{
+  "title": "Viridian Betrayers",
+  "image": "./img/viridian-betrayers.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Warrior",
+  "text": "Viridian Betrayers has infect as long as an opponent is poisoned. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "124",
+  "artist": "Karl Kopinski",
+  "rating": "2.545",
+  "votes": "56"
+}

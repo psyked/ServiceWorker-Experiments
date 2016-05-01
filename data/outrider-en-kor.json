@@ -1,0 +1,13 @@
+{
+  "title": "Outrider en-Kor",
+  "image": "./img/outrider-en-kor.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kor Rebel Knight",
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.): The next 1 damage that would be dealt to Outrider en-Kor this turn is dealt to target creature you control instead.",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "31",
+  "artist": "D. Alexander Gregory",
+  "rating": "3.784",
+  "votes": "44"
+}

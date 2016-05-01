@@ -1,0 +1,13 @@
+{
+  "title": "Wojek Embermage",
+  "image": "./img/wojek-embermage.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Wizard",
+  "text": "Radiance — : Wojek Embermage deals 1 damage to target creature and each other creature that shares a color with it.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "152",
+  "artist": "Luca Zontini",
+  "rating": "2.986",
+  "votes": "35"
+}

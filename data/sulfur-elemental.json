@@ -1,0 +1,13 @@
+{
+  "title": "Sulfur Elemental",
+  "image": "./img/sulfur-elemental.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)White creatures get +1/-1.",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "108",
+  "artist": "Dave Kendall",
+  "rating": "4.060",
+  "votes": "50"
+}

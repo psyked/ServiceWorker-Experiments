@@ -1,0 +1,13 @@
+{
+  "title": "Midnight Banshee",
+  "image": "./img/midnight-banshee.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Spirit",
+  "text": "Wither (This deals damage to creatures in the form of -1/-1 counters.)At the beginning of your upkeep, put a -1/-1 counter on each nonblack creature.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Rare",
+  "cardNumber": "86",
+  "artist": "Daarken",
+  "rating": "5",
+  "votes": "0"
+}

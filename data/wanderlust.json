@@ -1,0 +1,13 @@
+{
+  "title": "Wanderlust",
+  "image": "./img/wanderlust.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAt the beginning of the upkeep of enchanted creature's controller, Wanderlust deals 1 damage to that player.",
+  "expansion": "Masters Edition",
+  "rarity": "Common",
+  "cardNumber": "137",
+  "artist": "Cornelius Brudi",
+  "rating": "2.398",
+  "votes": "44"
+}

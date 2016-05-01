@@ -1,0 +1,13 @@
+{
+  "title": "Stromgald Cabal",
+  "image": "./img/stromgald-cabal.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": ", Pay 1 life: Counter target white spell.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "113",
+  "artist": "Anson Maddocks",
+  "rating": "3.683",
+  "votes": "30"
+}

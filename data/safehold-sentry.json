@@ -1,0 +1,13 @@
+{
+  "title": "Safehold Sentry",
+  "image": "./img/safehold-sentry.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Warrior",
+  "text": ", : Safehold Sentry gets +0/+2 until end of turn. ( is the untap symbol.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "22",
+  "artist": "William O'Connor",
+  "rating": "2.550",
+  "votes": "40"
+}

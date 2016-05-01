@@ -1,0 +1,13 @@
+{
+  "title": "Fervent Cathar",
+  "image": "./img/fervent-cathar.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "HasteWhen Fervent Cathar enters the battlefield, target creature can't block this turn.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "135",
+  "artist": "Steven Belledin",
+  "rating": "2.564",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Riftmarked Knight",
+  "image": "./img/riftmarked-knight.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Rebel Knight",
+  "text": "Protection from black; flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)Suspend 3— (Rather than cast this card from your hand, you may pay  and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)When the last time counter is removed from Riftmarked Knight while it's exiled, put a 2/2 black Knight creature token with flanking, protection from white, and haste onto the battlefield.",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "14",
+  "artist": "William O'Connor",
+  "rating": "3.722",
+  "votes": "36"
+}

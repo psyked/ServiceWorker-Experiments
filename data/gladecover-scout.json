@@ -1,0 +1,13 @@
+{
+  "title": "Gladecover Scout",
+  "image": "./img/gladecover-scout.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Scout",
+  "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "176",
+  "artist": "Allen Williams",
+  "rating": "3.402",
+  "votes": "41"
+}

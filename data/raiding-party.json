@@ -1,0 +1,13 @@
+{
+  "title": "Raiding Party",
+  "image": "./img/raiding-party.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Raiding Party can't be the target of white spells or abilities from white sources.Sacrifice an Orc: Each player may tap any number of untapped white creatures he or she controls. For each creature tapped this way, that player chooses up to two Plains. Then destroy all Plains that weren't chosen this way by any player.",
+  "expansion": "Fallen Empires",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Quinton Hoover",
+  "rating": "2.974",
+  "votes": "38"
+}

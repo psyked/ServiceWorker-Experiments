@@ -1,0 +1,13 @@
+{
+  "title": "Archon of the Triumvirate",
+  "image": "./img/archon-ofthetriumvirate.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Archon",
+  "text": "FlyingWhenever Archon of the Triumvirate attacks, detain up to two target nonland permanents your opponents control. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)",
+  "expansion": "Return to Ravnica",
+  "rarity": "Rare",
+  "cardNumber": "142",
+  "artist": "David Rapoza",
+  "rating": "3.408",
+  "votes": "98"
+}

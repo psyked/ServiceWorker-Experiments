@@ -1,0 +1,13 @@
+{
+  "title": "Mnemonic Sliver",
+  "image": "./img/mnemonic-sliver.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Sliver",
+  "text": "All Slivers have \", Sacrifice this permanent: Draw a card.\"",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "62",
+  "artist": "Randy Gallegos",
+  "rating": "5",
+  "votes": "0"
+}

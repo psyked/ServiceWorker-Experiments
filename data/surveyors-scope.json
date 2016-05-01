@@ -1,0 +1,13 @@
+{
+  "title": "Surveyor's Scope",
+  "image": "./img/surveyors-scope.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", Exile Surveyor's Scope: Search your library for up to X basic land cards, where X is the number of players who control at least two more lands than you. Put those cards onto the battlefield, then shuffle your library.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "262",
+  "artist": "Daniel Ljunggren",
+  "rating": "3.235",
+  "votes": "17"
+}

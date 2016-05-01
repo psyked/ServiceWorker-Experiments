@@ -1,0 +1,13 @@
+{
+  "title": "Withering Gaze",
+  "image": "./img/withering-gaze.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target opponent reveals his or her hand. You draw a card for each Forest and green card in it.",
+  "expansion": "Ninth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "113",
+  "artist": "Randy Gallegos",
+  "rating": "3.061",
+  "votes": "33"
+}

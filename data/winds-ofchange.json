@@ -1,0 +1,13 @@
+{
+  "title": "Winds of Change",
+  "image": "./img/winds-ofchange.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "111",
+  "artist": "Justin Hampton",
+  "rating": "3.809",
+  "votes": "34"
+}

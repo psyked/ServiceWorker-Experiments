@@ -1,0 +1,13 @@
+{
+  "title": "Violent Outburst",
+  "image": "./img/violent-outburst.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)Creatures you control get +1/+0 until end of turn.",
+  "expansion": "Alara Reborn",
+  "rarity": "Common",
+  "cardNumber": "63",
+  "artist": "Richard Whitters",
+  "rating": "3.038",
+  "votes": "65"
+}

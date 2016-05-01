@@ -1,0 +1,13 @@
+{
+  "title": "Ghazbán Ogre",
+  "image": "./img/ghazbn-ogre.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Ogre",
+  "text": "At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazbán Ogre.",
+  "expansion": "Masters Edition",
+  "rarity": "Common",
+  "cardNumber": "120",
+  "artist": "Jesper Myrfors",
+  "rating": "3.100",
+  "votes": "45"
+}

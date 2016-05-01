@@ -1,0 +1,13 @@
+{
+  "title": "Sacred Knight",
+  "image": "./img/sacred-knight.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Knight",
+  "text": "Sacred Knight can't be blocked by black and/or red creatures.",
+  "expansion": "Portal",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Donato Giancola",
+  "rating": "2.914",
+  "votes": "29"
+}

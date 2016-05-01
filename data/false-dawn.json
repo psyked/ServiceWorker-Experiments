@@ -1,0 +1,13 @@
+{
+  "title": "False Dawn",
+  "image": "./img/false-dawn.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Until end of turn, spells and abilities you control that would add colored mana to your mana pool add that much white mana instead. Until end of turn, you may spend white mana as though it were mana of any color.Draw a card.",
+  "expansion": "Apocalypse",
+  "rarity": "Rare",
+  "cardNumber": "10",
+  "artist": "Dave Dorman",
+  "rating": "3.375",
+  "votes": "28"
+}

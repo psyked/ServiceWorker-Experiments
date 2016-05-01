@@ -1,0 +1,13 @@
+{
+  "title": "Hunting Pack",
+  "image": "./img/hunting-pack.jpg",
+  "convertedManaCost": "7",
+  "types": "Instant",
+  "text": "Put a 4/4 green Beast creature token onto the battlefield.Storm (When you cast this spell, copy it for each spell cast before it this turn.)",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Uncommon",
+  "cardNumber": "160",
+  "artist": "Jim Nelson",
+  "rating": "3.640",
+  "votes": "25"
+}

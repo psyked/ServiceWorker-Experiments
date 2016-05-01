@@ -1,0 +1,13 @@
+{
+  "title": "Nameless Race",
+  "image": "./img/nameless-race.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature",
+  "text": "TrampleAs Nameless Race enters the battlefield, pay any amount of life. The amount you pay can't be more than the total number of white nontoken permanents your opponents control plus the total number of white cards in their graveyards.Nameless Race's power and toughness are each equal to the life paid as it entered the battlefield.",
+  "expansion": "The Dark",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Quinton Hoover",
+  "rating": "2.827",
+  "votes": "52"
+}

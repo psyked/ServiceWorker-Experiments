@@ -1,0 +1,13 @@
+{
+  "title": "Avenging Arrow",
+  "image": "./img/avenging-arrow.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Destroy target creature that dealt damage this turn.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "4",
+  "artist": "James Ryman",
+  "rating": "2.411",
+  "votes": "62"
+}

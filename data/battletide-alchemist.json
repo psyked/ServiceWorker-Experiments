@@ -1,0 +1,13 @@
+{
+  "title": "Battletide Alchemist",
+  "image": "./img/battletide-alchemist.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Kithkin Cleric",
+  "text": "If a source would deal damage to a player, you may prevent X of that damage, where X is the number of Clerics you control.",
+  "expansion": "Morningtide",
+  "rarity": "Rare",
+  "cardNumber": "2",
+  "artist": "Steve Prescott",
+  "rating": "3.712",
+  "votes": "78"
+}

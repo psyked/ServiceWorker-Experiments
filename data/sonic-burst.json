@@ -1,0 +1,13 @@
+{
+  "title": "Sonic Burst",
+  "image": "./img/sonic-burst.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "As an additional cost to cast Sonic Burst, discard a card at random.Sonic Burst deals 4 damage to target creature or player.",
+  "expansion": "Beatdown Box Set",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Brian Snoddy",
+  "rating": "2.533",
+  "votes": "30"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Memory Jar",
+  "image": "./img/memory-jar.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": ", Sacrifice Memory Jar: Each player exiles all cards from his or her hand face down and draws seven cards. At the beginning of the next end step, each player discards his or her hand and returns to his or her hand each card he or she exiled this way.",
+  "expansion": "Vintage Masters",
+  "rarity": "Mythic Rare",
+  "cardNumber": "276",
+  "artist": "Donato Giancola",
+  "rating": "4.500",
+  "votes": "1"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Spear of Heliod",
+  "image": "./img/spear-ofheliod.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Enchantment Artifact",
+  "text": "Creatures you control get +1/+1., : Destroy target creature that dealt damage to you this turn.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "33",
+  "artist": "Yeong-Hao Han",
+  "rating": "3.538",
+  "votes": "79"
+}

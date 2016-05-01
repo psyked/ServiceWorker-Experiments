@@ -1,0 +1,13 @@
+{
+  "title": "Pistus Strike",
+  "image": "./img/pistus-strike.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Destroy target creature with flying. Its controller gets a poison counter.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "86",
+  "artist": "Jaime Jones",
+  "rating": "2.660",
+  "votes": "53"
+}

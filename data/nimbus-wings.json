@@ -1,0 +1,13 @@
+{
+  "title": "Nimbus Wings",
+  "image": "./img/nimbus-wings.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+2 and has flying.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "28",
+  "artist": "Chris Rahn",
+  "rating": "2.951",
+  "votes": "72"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Shredding Winds",
+  "image": "./img/shredding-winds.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Shredding Winds deals 7 damage to target creature with flying.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "178",
+  "artist": "Christopher Moeller",
+  "rating": "2.000",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Burning-Tree Bloodscale",
+  "image": "./img/burning-tree-bloodscale.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Viashino Berserker",
+  "text": "Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.): Target creature can't block Burning-Tree Bloodscale this turn.: Target creature blocks Burning-Tree Bloodscale this turn if able.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "104",
+  "artist": "Kev Walker",
+  "rating": "2.267",
+  "votes": "45"
+}

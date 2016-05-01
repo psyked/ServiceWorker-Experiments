@@ -1,0 +1,13 @@
+{
+  "title": "Galepowder Mage",
+  "image": "./img/galepowder-mage.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Kithkin Wizard",
+  "text": "FlyingWhenever Galepowder Mage attacks, exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.",
+  "expansion": "Duel Decks: Venser vs. Koth",
+  "rarity": "Rare",
+  "cardNumber": "12",
+  "artist": "Jeremy Jarvis",
+  "rating": "3.550",
+  "votes": "30"
+}

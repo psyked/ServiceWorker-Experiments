@@ -1,0 +1,13 @@
+{
+  "title": "Killer Whale",
+  "image": "./img/killer-whale.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Whale",
+  "text": ": Killer Whale gains flying until end of turn.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "55",
+  "artist": "Stephen Daniele",
+  "rating": "5",
+  "votes": "0"
+}

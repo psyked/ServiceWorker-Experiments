@@ -1,0 +1,13 @@
+{
+  "title": "Brassclaw Orcs",
+  "image": "./img/brassclaw-orcs.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Orc",
+  "text": "Brassclaw Orcs can't block creatures with power 2 or greater.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "119",
+  "artist": "Rob Alexander",
+  "rating": "2.414",
+  "votes": "35"
+}

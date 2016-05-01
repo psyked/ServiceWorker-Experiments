@@ -1,0 +1,13 @@
+{
+  "title": "Maalfeld Twins",
+  "image": "./img/maalfeld-twins.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Zombie",
+  "text": "When Maalfeld Twins dies, put two 2/2 black Zombie creature tokens onto the battlefield.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Uncommon",
+  "cardNumber": "112",
+  "artist": "Mike Sass",
+  "rating": "3.267",
+  "votes": "43"
+}

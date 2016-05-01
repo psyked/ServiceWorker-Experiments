@@ -1,0 +1,13 @@
+{
+  "title": "Bronze Horse",
+  "image": "./img/bronze-horse.jpg",
+  "convertedManaCost": "7",
+  "types": "Artifact Creature  — Horse",
+  "text": "TrampleAs long as you control another creature, prevent all damage that would be dealt to Bronze Horse by spells that target it.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "186",
+  "artist": "Mark Poole",
+  "rating": "2.900",
+  "votes": "25"
+}

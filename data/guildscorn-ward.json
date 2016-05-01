@@ -1,0 +1,13 @@
+{
+  "title": "Guildscorn Ward",
+  "image": "./img/guildscorn-ward.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has protection from multicolored.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "15",
+  "artist": "Ryan Barger",
+  "rating": "2.509",
+  "votes": "54"
+}

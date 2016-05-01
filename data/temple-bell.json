@@ -1,0 +1,13 @@
+{
+  "title": "Temple Bell",
+  "image": "./img/temple-bell.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Each player draws a card.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "265",
+  "artist": "Mark Tedin",
+  "rating": "3.700",
+  "votes": "10"
+}

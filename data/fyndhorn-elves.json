@@ -1,0 +1,13 @@
+{
+  "title": "Fyndhorn Elves",
+  "image": "./img/fyndhorn-elves.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Druid",
+  "text": ": Add  to your mana pool.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "210",
+  "artist": "Igor Kieryluk",
+  "rating": "4.000",
+  "votes": "1"
+}

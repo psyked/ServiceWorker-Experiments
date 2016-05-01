@@ -1,0 +1,13 @@
+{
+  "title": "Reflecting Mirror",
+  "image": "./img/reflecting-mirror.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ", : Change the target of target spell with a single target if that target is you. The new target must be a player. X is twice the converted mana cost of that spell.",
+  "expansion": "The Dark",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Mark Poole",
+  "rating": "2.742",
+  "votes": "33"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Humble Defector",
+  "image": "./img/humble-defector.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Rogue",
+  "text": ": Draw two cards. Target opponent gains control of Humble Defector. Activate this ability only during your turn.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "104",
+  "artist": "Slawomir Maniak",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Thought-Knot Seer",
+  "image": "./img/thought-knot-seer.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Eldrazi",
+  "text": "( represents colorless mana.)When Thought-Knot Seer enters the battlefield, target opponent reveals his or her hand. You choose a nonland card from it and exile that card.When Thought-Knot Seer leaves the battlefield, target opponent draws a card.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Rare",
+  "cardNumber": "9",
+  "artist": "Svetlin Velinov",
+  "rating": "5",
+  "votes": "0"
+}

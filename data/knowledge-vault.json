@@ -1,0 +1,13 @@
+{
+  "title": "Knowledge Vault",
+  "image": "./img/knowledge-vault.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ", : Exile the top card of your library face down.: Sacrifice Knowledge Vault. If you do, discard your hand, then put all cards exiled with Knowledge Vault into their owner's hand.When Knowledge Vault leaves the battlefield, put all cards exiled with Knowledge Vault into their owner's graveyard.",
+  "expansion": "Masters Edition III",
+  "rarity": "Uncommon",
+  "cardNumber": "198",
+  "artist": "Anthony S. Waters",
+  "rating": "2.780",
+  "votes": "25"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sorin, Grim Nemesis",
+  "image": "./img/sorin-grimnemesis.jpg",
+  "convertedManaCost": "6",
+  "types": "Planeswalker  — Sorin",
+  "text": "+1: Reveal the top card of your library and put that card into your hand. Each opponent loses life equal to its converted mana cost.−X: Sorin, Grim Nemesis deals X damage to target creature or planeswalker and you gain X life.−9: Put a number of 1/1 black Vampire Knight creature tokens with lifelink onto the battlefield equal to the highest life total among all players.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Mythic Rare",
+  "cardNumber": "251",
+  "artist": "Eric Deschamps",
+  "rating": "5",
+  "votes": "0"
+}

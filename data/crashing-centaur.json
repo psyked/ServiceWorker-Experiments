@@ -1,0 +1,13 @@
+{
+  "title": "Crashing Centaur",
+  "image": "./img/crashing-centaur.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Centaur",
+  "text": ", Discard a card: Crashing Centaur gains trample until end of turn.Threshold — As long as seven or more cards are in your graveyard, Crashing Centaur gets +2/+2 and has shroud. (It can't be the target of spells or abilities.)",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "235",
+  "artist": "Eric Peterson",
+  "rating": "2.913",
+  "votes": "23"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Predatory Rampage",
+  "image": "./img/predatory-rampage.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Creatures you control get +3/+3 until end of turn. Each creature your opponents control blocks this turn if able.",
+  "expansion": "Magic 2013",
+  "rarity": "Rare",
+  "cardNumber": "180",
+  "artist": "Wayne England",
+  "rating": "3.048",
+  "votes": "42"
+}

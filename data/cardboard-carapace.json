@@ -1,0 +1,13 @@
+{
+  "title": "Cardboard Carapace",
+  "image": "./img/cardboard-carapace.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchant Creature",
+  "text": "For each other Cardboard Carapace card you have with you, enchanted creature gets +1/+1.Errata: This does not count any Cardboard Carapace cards in play that you control or in your graveyard, hand, or library.",
+  "expansion": "Unglued",
+  "rarity": "Rare",
+  "cardNumber": "54",
+  "artist": "Douglas Shuler",
+  "rating": "3.980",
+  "votes": "25"
+}

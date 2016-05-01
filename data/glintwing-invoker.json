@@ -1,0 +1,13 @@
+{
+  "title": "Glintwing Invoker",
+  "image": "./img/glintwing-invoker.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Wizard Mutant",
+  "text": ": Glintwing Invoker gets +3/+3 and gains flying until end of turn.",
+  "expansion": "Legions",
+  "rarity": "Common",
+  "cardNumber": "40",
+  "artist": "Jim Nelson",
+  "rating": "1.196",
+  "votes": "28"
+}

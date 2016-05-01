@@ -1,0 +1,13 @@
+{
+  "title": "Compulsion",
+  "image": "./img/compulsion.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": ", Discard a card: Draw a card., Sacrifice Compulsion: Draw a card.",
+  "expansion": "Torment",
+  "rarity": "Uncommon",
+  "cardNumber": "34",
+  "artist": "Christopher Moeller",
+  "rating": "4.144",
+  "votes": "59"
+}

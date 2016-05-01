@@ -1,0 +1,13 @@
+{
+  "title": "Vastwood Animist",
+  "image": "./img/vastwood-animist.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Shaman Ally",
+  "text": ": Target land you control becomes an X/X Elemental creature until end of turn, where X is the number of Allies you control. It's still a land.",
+  "expansion": "Worldwake",
+  "rarity": "Uncommon",
+  "cardNumber": "116",
+  "artist": "Raymond Swanland",
+  "rating": "2.823",
+  "votes": "48"
+}

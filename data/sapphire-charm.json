@@ -1,0 +1,13 @@
+{
+  "title": "Sapphire Charm",
+  "image": "./img/sapphire-charm.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Choose one —• Target player draws a card at the beginning of the next turn's upkeep.• Target creature gains flying until end of turn.• Target creature an opponent controls phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step.)",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Steve Luke",
+  "rating": "3.812",
+  "votes": "40"
+}

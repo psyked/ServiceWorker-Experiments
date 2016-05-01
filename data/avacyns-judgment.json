@@ -1,0 +1,13 @@
+{
+  "title": "Avacyn's Judgment",
+  "image": "./img/avacyns-judgment.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Madness  (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)Avacyn's Judgment deals 2 damage divided as you choose among any number of target creatures and/or players. If Avacyn's Judgment's madness cost was paid, it deals X damage divided as you choose among those creatures and/or players instead.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "145",
+  "artist": "Victor Adame Minguez",
+  "rating": "5",
+  "votes": "0"
+}

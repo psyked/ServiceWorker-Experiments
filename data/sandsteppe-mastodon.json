@@ -1,0 +1,13 @@
+{
+  "title": "Sandsteppe Mastodon",
+  "image": "./img/sandsteppe-mastodon.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Elephant",
+  "text": "ReachWhen Sandsteppe Mastodon enters the battlefield, bolster 5. (Choose a creature with the least toughness among creatures you control and put five +1/+1 counters on it.)",
+  "expansion": "Fate Reforged",
+  "rarity": "Rare",
+  "cardNumber": "137",
+  "artist": "James Zapata",
+  "rating": "5",
+  "votes": "0"
+}

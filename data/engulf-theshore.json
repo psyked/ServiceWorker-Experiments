@@ -1,0 +1,13 @@
+{
+  "title": "Engulf the Shore",
+  "image": "./img/engulf-theshore.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Return to their owners' hands all creatures with toughness less than or equal to the number of Islands you control.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "58",
+  "artist": "Cliff Childs",
+  "rating": "5",
+  "votes": "0"
+}

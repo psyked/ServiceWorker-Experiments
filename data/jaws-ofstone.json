@@ -1,0 +1,13 @@
+{
+  "title": "Jaws of Stone",
+  "image": "./img/jaws-ofstone.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Jaws of Stone deals X damage divided as you choose among any number of target creatures and/or players, where X is the number of Mountains you control as you cast Jaws of Stone.",
+  "expansion": "Duel Decks: Venser vs. Koth",
+  "rarity": "Uncommon",
+  "cardNumber": "72",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "2.804",
+  "votes": "23"
+}

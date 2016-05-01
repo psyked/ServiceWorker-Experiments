@@ -1,0 +1,13 @@
+{
+  "title": "Myr Enforcer",
+  "image": "./img/myr-enforcer.jpg",
+  "convertedManaCost": "7",
+  "types": "Artifact Creature  — Myr",
+  "text": "Affinity for artifacts (This spell costs  less to cast for each artifact you control.)",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "224",
+  "artist": "Jim Murray",
+  "rating": "5",
+  "votes": "0"
+}

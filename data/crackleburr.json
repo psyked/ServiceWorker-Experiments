@@ -1,0 +1,13 @@
+{
+  "title": "Crackleburr",
+  "image": "./img/crackleburr.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental",
+  "text": ", , Tap two untapped red creatures you control: Crackleburr deals 3 damage to target creature or player., , Untap two tapped blue creatures you control: Return target creature to its owner's hand. ( is the untap symbol.)",
+  "expansion": "Eventide",
+  "rarity": "Rare",
+  "cardNumber": "100",
+  "artist": "Mike Dringenberg",
+  "rating": "3.901",
+  "votes": "91"
+}

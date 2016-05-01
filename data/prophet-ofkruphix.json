@@ -1,0 +1,13 @@
+{
+  "title": "Prophet of Kruphix",
+  "image": "./img/prophet-ofkruphix.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Wizard",
+  "text": "Untap all creatures and lands you control during each other player's untap step.You may cast creature cards as though they had flash.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "199",
+  "artist": "Winona Nelson",
+  "rating": "3.942",
+  "votes": "189"
+}

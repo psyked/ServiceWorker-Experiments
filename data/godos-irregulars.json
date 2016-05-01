@@ -1,0 +1,13 @@
+{
+  "title": "Godo's Irregulars",
+  "image": "./img/godos-irregulars.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Warrior",
+  "text": ": Godo's Irregulars deals 1 damage to target creature blocking it.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "101",
+  "artist": "Tim Hildebrandt",
+  "rating": "3.430",
+  "votes": "43"
+}

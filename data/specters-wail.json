@@ -1,0 +1,13 @@
+{
+  "title": "Specter's Wail",
+  "image": "./img/specters-wail.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target player discards a card at random.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "164",
+  "artist": "Randy Gallegos",
+  "rating": "2.375",
+  "votes": "36"
+}

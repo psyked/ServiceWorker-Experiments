@@ -1,0 +1,13 @@
+{
+  "title": "Agent of Masks",
+  "image": "./img/agent-ofmasks.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Advisor",
+  "text": "At the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.",
+  "expansion": "Guildpact",
+  "rarity": "Uncommon",
+  "cardNumber": "100",
+  "artist": "Matt Thompson",
+  "rating": "3.036",
+  "votes": "55"
+}

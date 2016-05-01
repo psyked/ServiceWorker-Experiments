@@ -1,0 +1,13 @@
+{
+  "title": "Tresserhorn Skyknight",
+  "image": "./img/tresserhorn-skyknight.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Zombie Knight",
+  "text": "FlyingPrevent all damage that would be dealt to Tresserhorn Skyknight by creatures with first strike.",
+  "expansion": "Coldsnap",
+  "rarity": "Uncommon",
+  "cardNumber": "73",
+  "artist": "Dan Dos Santos",
+  "rating": "2.062",
+  "votes": "48"
+}

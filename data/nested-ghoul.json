@@ -1,0 +1,13 @@
+{
+  "title": "Nested Ghoul",
+  "image": "./img/nested-ghoul.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie Warrior",
+  "text": "Whenever a source deals damage to Nested Ghoul, put a 2/2 black Zombie creature token onto the battlefield.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Uncommon",
+  "cardNumber": "48",
+  "artist": "Dave Kendall",
+  "rating": "3.179",
+  "votes": "78"
+}

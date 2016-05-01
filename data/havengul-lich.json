@@ -1,0 +1,13 @@
+{
+  "title": "Havengul Lich",
+  "image": "./img/havengul-lich.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie Wizard",
+  "text": ": You may cast target creature card in a graveyard this turn. When you cast that card this turn, Havengul Lich gains all activated abilities of that card until end of turn.",
+  "expansion": "Dark Ascension",
+  "rarity": "Mythic Rare",
+  "cardNumber": "139",
+  "artist": "James Ryman",
+  "rating": "4.092",
+  "votes": "201"
+}

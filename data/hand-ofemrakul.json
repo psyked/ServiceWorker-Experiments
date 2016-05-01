@@ -1,0 +1,13 @@
+{
+  "title": "Hand of Emrakul",
+  "image": "./img/hand-ofemrakul.jpg",
+  "convertedManaCost": "9",
+  "types": "Creature  — Eldrazi",
+  "text": "You may sacrifice four Eldrazi Spawn rather than pay Hand of Emrakul's mana cost.Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "5",
+  "artist": "Chippy",
+  "rating": "4.004",
+  "votes": "120"
+}

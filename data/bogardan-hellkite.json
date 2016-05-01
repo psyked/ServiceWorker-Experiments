@@ -1,0 +1,13 @@
+{
+  "title": "Bogardan Hellkite",
+  "image": "./img/bogardan-hellkite.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Dragon",
+  "text": "FlashFlyingWhen Bogardan Hellkite enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or players.",
+  "expansion": "Commander 2014",
+  "rarity": "Mythic Rare",
+  "cardNumber": "173",
+  "artist": "Scott M. Fischer",
+  "rating": "5",
+  "votes": "0"
+}

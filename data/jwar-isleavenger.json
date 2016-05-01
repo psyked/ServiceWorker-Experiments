@@ -1,0 +1,13 @@
+{
+  "title": "Jwar Isle Avenger",
+  "image": "./img/jwar-isleavenger.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Sphinx",
+  "text": "Surge  (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)Flying",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "58",
+  "artist": "Ryan Pancoast",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ogre's Cleaver",
+  "image": "./img/ogres-cleaver.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +5/+0.Equip",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "220",
+  "artist": "Adi Granov",
+  "rating": "2.892",
+  "votes": "83"
+}

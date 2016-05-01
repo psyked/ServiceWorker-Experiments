@@ -1,0 +1,13 @@
+{
+  "title": "Surging Sentinels",
+  "image": "./img/surging-sentinels.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "First strikeRipple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "20",
+  "artist": "Christopher Moeller",
+  "rating": "2.081",
+  "votes": "31"
+}

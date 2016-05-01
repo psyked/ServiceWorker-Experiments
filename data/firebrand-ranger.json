@@ -1,0 +1,13 @@
+{
+  "title": "Firebrand Ranger",
+  "image": "./img/firebrand-ranger.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier",
+  "text": ", : You may put a basic land card from your hand onto the battlefield.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "143",
+  "artist": "Quinton Hoover",
+  "rating": "3.393",
+  "votes": "42"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Zoologist",
+  "image": "./img/zoologist.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Druid",
+  "text": ", : Reveal the top card of your library. If it's a creature card, put it onto the battlefield. Otherwise, put it into your graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "285",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "3.729",
+  "votes": "35"
+}

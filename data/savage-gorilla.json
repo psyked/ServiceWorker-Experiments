@@ -1,0 +1,13 @@
+{
+  "title": "Savage Gorilla",
+  "image": "./img/savage-gorilla.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Ape",
+  "text": ", , Sacrifice Savage Gorilla: Target creature gets -3/-3 until end of turn. Draw a card.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "85",
+  "artist": "Dave Dorman",
+  "rating": "2.436",
+  "votes": "39"
+}

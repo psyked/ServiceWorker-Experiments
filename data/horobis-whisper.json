@@ -1,0 +1,13 @@
+{
+  "title": "Horobi's Whisper",
+  "image": "./img/horobis-whisper.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant  — Arcane",
+  "text": "If you control a Swamp, destroy target nonblack creature.Splice onto Arcane—Exile four cards from your graveyard. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+  "expansion": "Modern Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "88",
+  "artist": "Aleksi Briclot",
+  "rating": "3.083",
+  "votes": "18"
+}

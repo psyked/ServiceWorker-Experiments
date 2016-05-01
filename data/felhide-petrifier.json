@@ -1,0 +1,13 @@
+{
+  "title": "Felhide Petrifier",
+  "image": "./img/felhide-petrifier.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Minotaur Warrior",
+  "text": "DeathtouchOther Minotaur creatures you control have deathtouch.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "70",
+  "artist": "James Ryman",
+  "rating": "3.861",
+  "votes": "36"
+}

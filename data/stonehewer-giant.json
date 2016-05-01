@@ -1,0 +1,13 @@
+{
+  "title": "Stonehewer Giant",
+  "image": "./img/stonehewer-giant.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Giant Warrior",
+  "text": "Vigilance, : Search your library for an Equipment card and put it onto the battlefield. Attach it to a creature you control. Then shuffle your library.",
+  "expansion": "Modern Masters",
+  "rarity": "Rare",
+  "cardNumber": "31",
+  "artist": "Steve Prescott",
+  "rating": "3.819",
+  "votes": "47"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Wild Slash",
+  "image": "./img/wild-slash.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Ferocious — If you control a creature with power 4 or greater, damage can't be prevented this turn.Wild Slash deals 2 damage to target creature or player.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "118",
+  "artist": "Raymond Swanland",
+  "rating": "5",
+  "votes": "0"
+}

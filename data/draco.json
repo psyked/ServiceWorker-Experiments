@@ -1,0 +1,13 @@
+{
+  "title": "Draco",
+  "image": "./img/draco.jpg",
+  "convertedManaCost": "16",
+  "types": "Artifact Creature  — Dragon",
+  "text": "Domain — Draco costs  less to cast for each basic land type among lands you control.FlyingDomain — At the beginning of your upkeep, sacrifice Draco unless you pay 0. This cost is reduced by  for each basic land type among lands you control.",
+  "expansion": "From the Vault: Dragons",
+  "rarity": "Rare",
+  "cardNumber": "3",
+  "artist": "Sam Wood",
+  "rating": "4.235",
+  "votes": "115"
+}

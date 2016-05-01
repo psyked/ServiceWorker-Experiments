@@ -1,0 +1,13 @@
+{
+  "title": "Krark-Clan Ogre",
+  "image": "./img/krark-clan-ogre.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Ogre",
+  "text": ", Sacrifice an artifact: Target creature can't block this turn.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "71",
+  "artist": "Paolo Parente",
+  "rating": "1.948",
+  "votes": "29"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Free-for-All",
+  "image": "./img/free-for-all.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "When Free-for-All comes into play, set aside all creatures in play, face down.During each player's upkeep, that player chooses a creature card at random from those set aside in this way and puts that creature into play under his or her control.If Free-for-All leaves play, put each creature still set aside this way into its owner's graveyard.",
+  "expansion": "Unglued",
+  "rarity": "Rare",
+  "cardNumber": "25",
+  "artist": "Claymore J. Flapdoodle",
+  "rating": "4.194",
+  "votes": "18"
+}

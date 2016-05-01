@@ -1,0 +1,13 @@
+{
+  "title": "Raiders' Spoils",
+  "image": "./img/raiders-spoils.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Creatures you control get +1/+0.Whenever a Warrior you control deals combat damage to a player, you may pay 1 life. If you do, draw a card.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "83",
+  "artist": "Wayne Reynolds",
+  "rating": "3.000",
+  "votes": "2"
+}

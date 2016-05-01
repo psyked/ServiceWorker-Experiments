@@ -1,0 +1,13 @@
+{
+  "title": "Lash of the Whip",
+  "image": "./img/lash-ofthewhip.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Target creature gets -4/-4 until end of turn.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "94",
+  "artist": "Dan Scott",
+  "rating": "2.073",
+  "votes": "55"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Soltari Crusader",
+  "image": "./img/soltari-crusader.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Soltari Knight",
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.): Soltari Crusader gets +1/+0 until end of turn.",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Randy Gallegos",
+  "rating": "3.500",
+  "votes": "29"
+}

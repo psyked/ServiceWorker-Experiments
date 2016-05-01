@@ -1,0 +1,13 @@
+{
+  "title": "Scatter to the Winds",
+  "image": "./img/scatter-tothewinds.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell.Awaken 3— (If you cast this spell for , also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "85",
+  "artist": "Raymond Swanland",
+  "rating": "5",
+  "votes": "0"
+}

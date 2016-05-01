@@ -1,0 +1,13 @@
+{
+  "title": "Moldgraf Scavenger",
+  "image": "./img/moldgraf-scavenger.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Fungus",
+  "text": "Delirium — Moldgraf Scavenger gets +3/+0 as long as there are four or more card types among cards in your graveyard.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "218",
+  "artist": "Tomasz Jedruszek",
+  "rating": "5",
+  "votes": "0"
+}

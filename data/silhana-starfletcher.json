@@ -1,0 +1,13 @@
+{
+  "title": "Silhana Starfletcher",
+  "image": "./img/silhana-starfletcher.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Druid Archer",
+  "text": "Reach (This creature can block creatures with flying.)As Silhana Starfletcher enters the battlefield, choose a color.: Add one mana of the chosen color to your mana pool.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "95",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "3.119",
+  "votes": "42"
+}

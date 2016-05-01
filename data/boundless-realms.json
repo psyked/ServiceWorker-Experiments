@@ -1,0 +1,13 @@
+{
+  "title": "Boundless Realms",
+  "image": "./img/boundless-realms.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "Search your library for up to X basic land cards, where X is the number of lands you control, and put them onto the battlefield tapped. Then shuffle your library.",
+  "expansion": "Magic 2013",
+  "rarity": "Rare",
+  "cardNumber": "162",
+  "artist": "Cliff Childs",
+  "rating": "3.638",
+  "votes": "76"
+}

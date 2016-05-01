@@ -1,0 +1,13 @@
+{
+  "title": "Shared Discovery",
+  "image": "./img/shared-discovery.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Shared Discovery, tap four untapped creatures you control.Draw three cards.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "87",
+  "artist": "Ryan Pancoast",
+  "rating": "3.038",
+  "votes": "52"
+}

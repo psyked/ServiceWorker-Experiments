@@ -1,0 +1,13 @@
+{
+  "title": "Mana Vortex",
+  "image": "./img/mana-vortex.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "When you cast Mana Vortex, counter it unless you sacrifice a land.At the beginning of each player's upkeep, that player sacrifices a land.When there are no lands on the battlefield, sacrifice Mana Vortex.",
+  "expansion": "Masters Edition III",
+  "rarity": "Rare",
+  "cardNumber": "44",
+  "artist": "Douglas Shuler",
+  "rating": "3.542",
+  "votes": "36"
+}

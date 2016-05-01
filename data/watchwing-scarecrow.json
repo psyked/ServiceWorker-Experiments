@@ -1,0 +1,13 @@
+{
+  "title": "Watchwing Scarecrow",
+  "image": "./img/watchwing-scarecrow.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Scarecrow",
+  "text": "Watchwing Scarecrow has vigilance as long as you control a white creature.Watchwing Scarecrow has flying as long as you control a blue creature.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "268",
+  "artist": "Chuck Lukacs",
+  "rating": "2.536",
+  "votes": "28"
+}

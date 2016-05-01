@@ -1,0 +1,13 @@
+{
+  "title": "Watcher of the Roost",
+  "image": "./img/watcher-oftheroost.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Bird Soldier",
+  "text": "FlyingMorph—Reveal a white card in your hand. (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)When Watcher of the Roost is turned face up, you gain 2 life.",
+  "expansion": "Ugin's Fate promos",
+  "rarity": "Uncommon",
+  "cardNumber": "30",
+  "artist": "Jack Wang",
+  "rating": "5",
+  "votes": "0"
+}

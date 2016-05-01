@@ -1,0 +1,13 @@
+{
+  "title": "Omen",
+  "image": "./img/omen.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Look at the top three cards of your library, then put them back in any order. You may shuffle your library.Draw a card.",
+  "expansion": "Portal",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Eric Peterson",
+  "rating": "2.314",
+  "votes": "35"
+}

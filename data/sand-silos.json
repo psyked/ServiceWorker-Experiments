@@ -1,0 +1,13 @@
+{
+  "title": "Sand Silos",
+  "image": "./img/sand-silos.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "Sand Silos enters the battlefield tapped.You may choose not to untap Sand Silos during your untap step.At the beginning of your upkeep, if Sand Silos is tapped, put a storage counter on it., Remove any number of storage counters from Sand Silos: Add  to your mana pool for each storage counter removed this way.",
+  "expansion": "Fifth Edition",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "David Seeley",
+  "rating": "3.619",
+  "votes": "21"
+}

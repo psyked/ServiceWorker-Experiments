@@ -1,0 +1,13 @@
+{
+  "title": "Silumgar Butcher",
+  "image": "./img/silumgar-butcher.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie Djinn",
+  "text": "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)When Silumgar Butcher exploits a creature, target creature gets -3/-3 until end of turn.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "122",
+  "artist": "Dave Kendall",
+  "rating": "5",
+  "votes": "0"
+}

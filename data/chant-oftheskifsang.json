@@ -1,0 +1,13 @@
+{
+  "title": "Chant of the Skifsang",
+  "image": "./img/chant-oftheskifsang.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets -13/-0.",
+  "expansion": "Dark Ascension",
+  "rarity": "Common",
+  "cardNumber": "31",
+  "artist": "Nils Hamm",
+  "rating": "2.696",
+  "votes": "51"
+}

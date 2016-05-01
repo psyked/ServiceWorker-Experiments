@@ -1,0 +1,13 @@
+{
+  "title": "Fatal Attraction",
+  "image": "./img/fatal-attraction.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Fatal Attraction enters the battlefield, it deals 2 damage to enchanted creature.At the beginning of your upkeep, Fatal Attraction deals 4 damage to enchanted creature.",
+  "expansion": "Future Sight",
+  "rarity": "Common",
+  "cardNumber": "98",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "2.776",
+  "votes": "38"
+}

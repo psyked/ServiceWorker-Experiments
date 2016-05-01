@@ -1,0 +1,13 @@
+{
+  "title": "Lavinia of the Tenth",
+  "image": "./img/lavinia-ofthetenth.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Human Soldier",
+  "text": "Protection from redWhen Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with converted mana cost 4 or less. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)",
+  "expansion": "Dragon's Maze",
+  "rarity": "Rare",
+  "cardNumber": "80",
+  "artist": "Willian Murai",
+  "rating": "3.784",
+  "votes": "95"
+}

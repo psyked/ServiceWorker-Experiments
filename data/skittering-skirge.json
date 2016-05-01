@@ -1,0 +1,13 @@
+{
+  "title": "Skittering Skirge",
+  "image": "./img/skittering-skirge.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Imp",
+  "text": "FlyingWhen you cast a creature spell, sacrifice Skittering Skirge.",
+  "expansion": "Beatdown Box Set",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Ron Spencer",
+  "rating": "3.892",
+  "votes": "37"
+}

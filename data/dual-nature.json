@@ -1,0 +1,13 @@
+{
+  "title": "Dual Nature",
+  "image": "./img/dual-nature.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "Whenever a nontoken creature enters the battlefield, its controller puts a token that's a copy of that creature onto the battlefield.Whenever a nontoken creature leaves the battlefield, exile all tokens with the same name as that creature.When Dual Nature leaves the battlefield, exile all tokens put onto the battlefield with Dual Nature.",
+  "expansion": "Prophecy",
+  "rarity": "Rare",
+  "cardNumber": "112",
+  "artist": "Arnie Swekel",
+  "rating": "3.583",
+  "votes": "30"
+}

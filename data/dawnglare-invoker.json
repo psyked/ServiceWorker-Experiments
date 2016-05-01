@@ -1,0 +1,13 @@
+{
+  "title": "Dawnglare Invoker",
+  "image": "./img/dawnglare-invoker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kor Wizard",
+  "text": "Flying: Tap all creatures target player controls.",
+  "expansion": "Commander 2015",
+  "rarity": "Common",
+  "cardNumber": "67",
+  "artist": "Steve Argyle",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sphinx of Magosi",
+  "image": "./img/sphinx-ofmagosi.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Sphinx",
+  "text": "Flying: Draw a card, then put a +1/+1 counter on Sphinx of Magosi.",
+  "expansion": "Welcome Deck 2016",
+  "rarity": "Rare",
+  "cardNumber": "6",
+  "artist": "James Ryman",
+  "rating": "5",
+  "votes": "0"
+}

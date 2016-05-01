@@ -1,0 +1,13 @@
+{
+  "title": "Hematite Golem",
+  "image": "./img/hematite-golem.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Golem",
+  "text": ": Hematite Golem gets +2/+0 until end of turn.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "185",
+  "artist": "Paolo Parente",
+  "rating": "2.629",
+  "votes": "35"
+}

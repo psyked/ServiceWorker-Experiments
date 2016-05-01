@@ -1,0 +1,13 @@
+{
+  "title": "Savage Punch",
+  "image": "./img/savage-punch.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target creature you control fights target creature you don't control.Ferocious — The creature you control gets +2/+2 until end of turn before it fights if you control a creature with power 4 or greater.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "147",
+  "artist": "Wesley Burt",
+  "rating": "3.000",
+  "votes": "2"
+}

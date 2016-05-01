@@ -1,0 +1,13 @@
+{
+  "title": "Swirling Sandstorm",
+  "image": "./img/swirling-sandstorm.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Threshold — Swirling Sandstorm deals 5 damage to each creature without flying if seven or more cards are in your graveyard.",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "102",
+  "artist": "Tony Szczudlo",
+  "rating": "2.880",
+  "votes": "25"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Psychic Transfer",
+  "image": "./img/psychic-transfer.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "If the difference between your life total and target player's life total is 5 or less, exchange life totals with that player.",
+  "expansion": "Starter 1999",
+  "rarity": "Rare",
+  "cardNumber": "46",
+  "artist": "Dom",
+  "rating": "2.000",
+  "votes": "23"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Riku of Two Reflections",
+  "image": "./img/riku-oftworeflections.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Human Wizard",
+  "text": "Whenever you cast an instant or sorcery spell, you may pay . If you do, copy that spell. You may choose new targets for the copy.Whenever another nontoken creature enters the battlefield under your control, you may pay . If you do, put a token that's a copy of that creature onto the battlefield.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Mythic Rare",
+  "cardNumber": "220",
+  "artist": "Izzy",
+  "rating": "4.090",
+  "votes": "139"
+}

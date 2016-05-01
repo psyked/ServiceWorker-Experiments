@@ -1,0 +1,13 @@
+{
+  "title": "Skill Borrower",
+  "image": "./img/skill-borrower.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Human Wizard",
+  "text": "Play with the top card of your library revealed.As long as the top card of your library is an artifact or creature card, Skill Borrower has all activated abilities of that card. (If any of the abilities use that card's name, use this creature's name instead.)",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "56",
+  "artist": "Shelly Wan",
+  "rating": "3.861",
+  "votes": "79"
+}

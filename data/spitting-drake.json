@@ -1,0 +1,13 @@
+{
+  "title": "Spitting Drake",
+  "image": "./img/spitting-drake.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Drake",
+  "text": "Flying: Spitting Drake gets +1/+0 until end of turn. Activate this ability only once each turn.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "207",
+  "artist": "Geofrey Darrow",
+  "rating": "2.117",
+  "votes": "30"
+}

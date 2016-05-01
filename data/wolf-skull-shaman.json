@@ -1,0 +1,13 @@
+{
+  "title": "Wolf-Skull Shaman",
+  "image": "./img/wolf-skull-shaman.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Shaman",
+  "text": "Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Wolf-Skull Shaman, you may reveal it. If you do, put a 2/2 green Wolf creature token onto the battlefield.",
+  "expansion": "Morningtide",
+  "rarity": "Uncommon",
+  "cardNumber": "140",
+  "artist": "Jim Murray",
+  "rating": "3.667",
+  "votes": "66"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Wojek Halberdiers",
+  "image": "./img/wojek-halberdiers.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier",
+  "text": "Battalion — Whenever Wojek Halberdiers and at least two other creatures attack, Wojek Halberdiers gains first strike until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "208",
+  "artist": "Nic Klein",
+  "rating": "4.016",
+  "votes": "96"
+}

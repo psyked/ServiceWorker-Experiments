@@ -1,0 +1,13 @@
+{
+  "title": "Stern Constable",
+  "image": "./img/stern-constable.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Soldier",
+  "text": ", Discard a card: Tap target creature.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "39",
+  "artist": "Svetlin Velinov",
+  "rating": "5",
+  "votes": "0"
+}

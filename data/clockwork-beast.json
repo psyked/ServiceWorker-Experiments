@@ -1,0 +1,13 @@
+{
+  "title": "Clockwork Beast",
+  "image": "./img/clockwork-beast.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Beast",
+  "text": "Clockwork Beast enters the battlefield with seven +1/+0 counters on it.At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it., : Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep.",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "153",
+  "artist": "Drew Tucker",
+  "rating": "2.672",
+  "votes": "29"
+}

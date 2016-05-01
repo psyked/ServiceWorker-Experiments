@@ -1,0 +1,13 @@
+{
+  "title": "Bog Serpent",
+  "image": "./img/bog-serpent.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Serpent",
+  "text": "Bog Serpent can't attack unless defending player controls a Swamp.When you control no Swamps, sacrifice Bog Serpent.",
+  "expansion": "Planar Chaos",
+  "rarity": "Common",
+  "cardNumber": "84",
+  "artist": "Thomas M. Baxa",
+  "rating": "1.123",
+  "votes": "57"
+}

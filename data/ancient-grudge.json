@@ -1,0 +1,13 @@
+{
+  "title": "Ancient Grudge",
+  "image": "./img/ancient-grudge.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Destroy target artifact.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "127",
+  "artist": "Ryan Yee",
+  "rating": "4.207",
+  "votes": "121"
+}

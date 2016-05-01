@@ -1,0 +1,13 @@
+{
+  "title": "Ashen Firebeast",
+  "image": "./img/ashen-firebeast.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Elemental Beast",
+  "text": ": Ashen Firebeast deals 1 damage to each creature without flying.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "174",
+  "artist": "Mark Tedin",
+  "rating": "3.562",
+  "votes": "32"
+}

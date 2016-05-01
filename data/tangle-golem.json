@@ -1,0 +1,13 @@
+{
+  "title": "Tangle Golem",
+  "image": "./img/tangle-golem.jpg",
+  "convertedManaCost": "7",
+  "types": "Artifact Creature  — Golem",
+  "text": "Affinity for Forests (This spell costs  less to cast for each Forest you control.)",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "151",
+  "artist": "Arnie Swekel",
+  "rating": "3.955",
+  "votes": "44"
+}

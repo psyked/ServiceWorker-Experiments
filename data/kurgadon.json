@@ -1,0 +1,13 @@
+{
+  "title": "Kurgadon",
+  "image": "./img/kurgadon.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast",
+  "text": "Whenever you cast a creature spell with converted mana cost 6 or greater, put three +1/+1 counters on Kurgadon.",
+  "expansion": "Scourge",
+  "rarity": "Uncommon",
+  "cardNumber": "124",
+  "artist": "Carl Critchlow",
+  "rating": "3.788",
+  "votes": "26"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Visions of Brutality",
+  "image": "./img/visions-ofbrutality.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Devoid (This card has no color.)Enchant creatureEnchanted creature can't block.Whenever enchanted creature deals damage, its controller loses that much life.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "81",
+  "artist": "Jama Jurabaev",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Fleetfoot Panther",
+  "image": "./img/fleetfoot-panther.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Cat",
+  "text": "FlashWhen Fleetfoot Panther enters the battlefield, return a green or white creature you control to its owner's hand.",
+  "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+  "rarity": "Uncommon",
+  "cardNumber": "12",
+  "artist": "Mark Brill",
+  "rating": "4.250",
+  "votes": "28"
+}

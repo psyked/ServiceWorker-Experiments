@@ -1,0 +1,13 @@
+{
+  "title": "Timetwister",
+  "image": "./img/timetwister.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Each player shuffles his or her hand and graveyard into his or her library, then draws seven cards. (Then put Timetwister into its owner's graveyard.)",
+  "expansion": "Vintage Masters",
+  "rarity": "Bonus",
+  "cardNumber": "3",
+  "artist": "Matt Stewart",
+  "rating": "4.667",
+  "votes": "3"
+}

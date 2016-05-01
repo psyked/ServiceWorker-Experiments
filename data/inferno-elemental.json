@@ -1,0 +1,13 @@
+{
+  "title": "Inferno Elemental",
+  "image": "./img/inferno-elemental.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": "Whenever Inferno Elemental blocks or becomes blocked by a creature, Inferno Elemental deals 3 damage to that creature.",
+  "expansion": "Magic 2010",
+  "rarity": "Uncommon",
+  "cardNumber": "142",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "3.130",
+  "votes": "54"
+}

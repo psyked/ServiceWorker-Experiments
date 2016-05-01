@@ -1,0 +1,13 @@
+{
+  "title": "Tidal Force",
+  "image": "./img/tidal-force.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Elemental",
+  "text": "At the beginning of each upkeep, you may tap or untap target permanent.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "62",
+  "artist": "Phill Simmer",
+  "rating": "3.824",
+  "votes": "17"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Valley Rannet",
+  "image": "./img/valley-rannet.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Beast",
+  "text": "Mountaincycling , forestcycling  (, Discard this card: Search your library for a Mountain or Forest card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Common",
+  "cardNumber": "224",
+  "artist": "Dave Allsop",
+  "rating": "3.333",
+  "votes": "9"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Spearbreaker Behemoth",
+  "image": "./img/spearbreaker-behemoth.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Beast",
+  "text": "Indestructible: Target creature with power 5 or greater gains indestructible until end of turn.",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "150",
+  "artist": "Christopher Moeller",
+  "rating": "3.464",
+  "votes": "97"
+}

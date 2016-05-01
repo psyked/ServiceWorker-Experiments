@@ -1,0 +1,13 @@
+{
+  "title": "Seed Spark",
+  "image": "./img/seed-spark.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Destroy target artifact or enchantment. If  was spent to cast Seed Spark, put two 1/1 green Saproling creature tokens onto the battlefield.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "30",
+  "artist": "Jeff Miracola",
+  "rating": "3.206",
+  "votes": "34"
+}

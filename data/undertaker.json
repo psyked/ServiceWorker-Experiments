@@ -1,0 +1,13 @@
+{
+  "title": "Undertaker",
+  "image": "./img/undertaker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Spellshaper",
+  "text": ", , Discard a card: Return target creature card from your graveyard to your hand.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "53",
+  "artist": "Jeff Easley",
+  "rating": "4.023",
+  "votes": "44"
+}

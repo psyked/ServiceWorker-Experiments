@@ -1,0 +1,13 @@
+{
+  "title": "Sliver Legion",
+  "image": "./img/sliver-legion.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Sliver",
+  "text": "All Sliver creatures get +1/+1 for each other Sliver on the battlefield.",
+  "expansion": "Future Sight",
+  "rarity": "Rare",
+  "cardNumber": "158",
+  "artist": "Ron Spears",
+  "rating": "4.203",
+  "votes": "158"
+}

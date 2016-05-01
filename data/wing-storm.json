@@ -1,0 +1,13 @@
+{
+  "title": "Wing Storm",
+  "image": "./img/wing-storm.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Wing Storm deals damage to each player equal to twice the number of creatures with flying that player controls.",
+  "expansion": "Prophecy",
+  "rarity": "Uncommon",
+  "cardNumber": "135",
+  "artist": "Heather Hudson",
+  "rating": "2.800",
+  "votes": "30"
+}

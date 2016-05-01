@@ -1,0 +1,13 @@
+{
+  "title": "Thermal Blast",
+  "image": "./img/thermal-blast.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Thermal Blast deals 3 damage to target creature.Threshold — Thermal Blast deals 5 damage to that creature instead if seven or more cards are in your graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "224",
+  "artist": "Franz Vohwinkel",
+  "rating": "0.893",
+  "votes": "70"
+}

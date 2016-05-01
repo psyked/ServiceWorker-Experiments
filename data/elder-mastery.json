@@ -1,0 +1,13 @@
+{
+  "title": "Elder Mastery",
+  "image": "./img/elder-mastery.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +3/+3 and has flying.Whenever enchanted creature deals damage to a player, that player discards two cards.",
+  "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+  "rarity": "Uncommon",
+  "cardNumber": "68",
+  "artist": "Dave Allsop",
+  "rating": "2.853",
+  "votes": "34"
+}

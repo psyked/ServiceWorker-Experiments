@@ -1,0 +1,13 @@
+{
+  "title": "Magus of the Future",
+  "image": "./img/magus-ofthefuture.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Wizard",
+  "text": "Play with the top card of your library revealed.You may play the top card of your library.",
+  "expansion": "Future Sight",
+  "rarity": "Rare",
+  "cardNumber": "40",
+  "artist": "Anthony Francisco",
+  "rating": "4.222",
+  "votes": "97"
+}

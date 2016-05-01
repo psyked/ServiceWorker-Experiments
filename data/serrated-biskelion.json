@@ -1,0 +1,13 @@
+{
+  "title": "Serrated Biskelion",
+  "image": "./img/serrated-biskelion.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Construct",
+  "text": ": Put a -1/-1 counter on Serrated Biskelion and a -1/-1 counter on target creature.",
+  "expansion": "Duel Decks: Elspeth vs. Tezzeret",
+  "rarity": "Uncommon",
+  "cardNumber": "46",
+  "artist": "Ron Spencer",
+  "rating": "3.750",
+  "votes": "34"
+}

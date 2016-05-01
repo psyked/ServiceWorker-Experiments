@@ -1,0 +1,13 @@
+{
+  "title": "Sharding Sphinx",
+  "image": "./img/sharding-sphinx.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Sphinx",
+  "text": "FlyingWhenever an artifact creature you control deals combat damage to a player, you may put a 1/1 blue Thopter artifact creature token with flying onto the battlefield.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "56",
+  "artist": "Michael Bruinsma",
+  "rating": "3.643",
+  "votes": "21"
+}

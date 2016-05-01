@@ -1,0 +1,13 @@
+{
+  "title": "Whiptail Moloch",
+  "image": "./img/whiptail-moloch.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Lizard",
+  "text": "When Whiptail Moloch enters the battlefield, it deals 3 damage to target creature you control.",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "79",
+  "artist": "Darrell Riche",
+  "rating": "1.289",
+  "votes": "38"
+}

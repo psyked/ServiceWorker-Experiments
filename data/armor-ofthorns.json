@@ -1,0 +1,13 @@
+{
+  "title": "Armor of Thorns",
+  "image": "./img/armor-ofthorns.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "You may cast Armor of Thorns as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.Enchant nonblack creatureEnchanted creature gets +2/+2.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "194",
+  "artist": "Alan Rabinowitz",
+  "rating": "5",
+  "votes": "0"
+}

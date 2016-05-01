@@ -1,0 +1,13 @@
+{
+  "title": "Submerge",
+  "image": "./img/submerge.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "If an opponent controls a Forest and you control an Island, you may cast Submerge without paying its mana cost.Put target creature on top of its owner's library.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "48",
+  "artist": "Mark Romanoski",
+  "rating": "4.263",
+  "votes": "59"
+}

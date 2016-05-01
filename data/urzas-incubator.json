@@ -1,0 +1,13 @@
+{
+  "title": "Urza's Incubator",
+  "image": "./img/urzas-incubator.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "As Urza's Incubator enters the battlefield, choose a creature type.Creature spells of the chosen type cost  less to cast.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "273",
+  "artist": "Pete Venters",
+  "rating": "5",
+  "votes": "0"
+}

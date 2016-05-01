@@ -1,0 +1,13 @@
+{
+  "title": "Unnatural Aggression",
+  "image": "./img/unnatural-aggression.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Devoid (This card has no color.)Target creature you control fights target creature an opponent controls. If the creature an opponent controls would die this turn, exile it instead.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "168",
+  "artist": "James Ryman",
+  "rating": "5",
+  "votes": "0"
+}

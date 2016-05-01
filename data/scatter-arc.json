@@ -1,0 +1,13 @@
+{
+  "title": "Scatter Arc",
+  "image": "./img/scatter-arc.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Counter target noncreature spell.Draw a card.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "48",
+  "artist": "Peter Mohrbacher",
+  "rating": "2.420",
+  "votes": "44"
+}

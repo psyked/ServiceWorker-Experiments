@@ -1,0 +1,13 @@
+{
+  "title": "Recurring Nightmare",
+  "image": "./img/recurring-nightmare.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Sacrifice a creature, Return Recurring Nightmare to its owner's hand: Return target creature card from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Mythic Rare",
+  "cardNumber": "113",
+  "artist": "Jeff Laubenstein",
+  "rating": "5",
+  "votes": "0"
+}

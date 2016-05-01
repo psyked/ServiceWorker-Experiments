@@ -1,0 +1,13 @@
+{
+  "title": "Nissa's Revelation",
+  "image": "./img/nissas-revelation.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "Scry 5, then reveal the top card of your library. If it's a creature card, you draw cards equal to its power and you gain life equal to its toughness.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "191",
+  "artist": "Izzy",
+  "rating": "5",
+  "votes": "0"
+}

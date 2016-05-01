@@ -1,0 +1,13 @@
+{
+  "title": "Kor Bladewhirl",
+  "image": "./img/kor-bladewhirl.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kor Soldier Ally",
+  "text": "Rally — Whenever Kor Bladewhirl or another Ally enters the battlefield under your control, creatures you control gain first strike until end of turn.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "34",
+  "artist": "Steven Belledin",
+  "rating": "5",
+  "votes": "0"
+}

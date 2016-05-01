@@ -1,0 +1,13 @@
+{
+  "title": "Pincer Spider",
+  "image": "./img/pincer-spider.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spider",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)Reach (This creature can block creatures with flying.)If Pincer Spider was kicked, it enters the battlefield with a +1/+1 counter on it.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "201",
+  "artist": "Dan Frazier",
+  "rating": "2.631",
+  "votes": "42"
+}

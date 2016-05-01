@@ -1,0 +1,13 @@
+{
+  "title": "Archetype of Courage",
+  "image": "./img/archetype-ofcourage.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment Creature  — Human Soldier",
+  "text": "Creatures you control have first strike.Creatures your opponents control lose first strike and can't have or gain first strike.",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "4",
+  "artist": "Willian Murai",
+  "rating": "3.870",
+  "votes": "54"
+}

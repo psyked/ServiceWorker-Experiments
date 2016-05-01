@@ -1,0 +1,13 @@
+{
+  "title": "Hooded Kavu",
+  "image": "./img/hooded-kavu.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kavu",
+  "text": ": Hooded Kavu gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "147",
+  "artist": "John Howe",
+  "rating": "2.605",
+  "votes": "38"
+}

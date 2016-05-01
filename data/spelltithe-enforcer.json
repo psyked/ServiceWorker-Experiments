@@ -1,0 +1,13 @@
+{
+  "title": "Spelltithe Enforcer",
+  "image": "./img/spelltithe-enforcer.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elephant Wizard",
+  "text": "Whenever an opponent casts a spell, that player sacrifices a permanent unless he or she pays .",
+  "expansion": "Guildpact",
+  "rarity": "Rare",
+  "cardNumber": "18",
+  "artist": "Greg Staples",
+  "rating": "3.300",
+  "votes": "45"
+}

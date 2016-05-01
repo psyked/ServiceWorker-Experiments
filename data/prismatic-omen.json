@@ -1,0 +1,13 @@
+{
+  "title": "Prismatic Omen",
+  "image": "./img/prismatic-omen.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Lands you control are every basic land type in addition to their other types.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "126",
+  "artist": "John Avon",
+  "rating": "4.175",
+  "votes": "186"
+}

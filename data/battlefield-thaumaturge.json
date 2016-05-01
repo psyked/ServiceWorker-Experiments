@@ -1,0 +1,13 @@
+{
+  "title": "Battlefield Thaumaturge",
+  "image": "./img/battlefield-thaumaturge.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": "Each instant and sorcery spell you cast costs  less to cast for each creature it targets.Heroic — Whenever you cast a spell that targets Battlefield Thaumaturge, Battlefield Thaumaturge gains hexproof until end of turn.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Rare",
+  "cardNumber": "31",
+  "artist": "Mike Sass",
+  "rating": "3.776",
+  "votes": "58"
+}

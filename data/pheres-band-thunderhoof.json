@@ -1,0 +1,13 @@
+{
+  "title": "Pheres-Band Thunderhoof",
+  "image": "./img/pheres-band-thunderhoof.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Centaur Warrior",
+  "text": "Heroic — Whenever you cast a spell that targets Pheres-Band Thunderhoof, put two +1/+1 counters on Pheres-Band Thunderhoof.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "134",
+  "artist": "Christopher Moeller",
+  "rating": "3.175",
+  "votes": "20"
+}

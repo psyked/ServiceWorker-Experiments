@@ -1,0 +1,13 @@
+{
+  "title": "Preacher",
+  "image": "./img/preacher.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": "You may choose not to untap Preacher during your untap step.: For as long as Preacher remains tapped, gain control of target creature of an opponent's choice he or she controls.",
+  "expansion": "Masters Edition",
+  "rarity": "Rare",
+  "cardNumber": "24",
+  "artist": "Quinton Hoover",
+  "rating": "4.297",
+  "votes": "64"
+}

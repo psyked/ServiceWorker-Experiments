@@ -1,0 +1,13 @@
+{
+  "title": "Fathom Trawl",
+  "image": "./img/fathom-trawl.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Reveal cards from the top of your library until you reveal three nonland cards. Put the nonland cards revealed this way into your hand, then put the rest of the revealed cards on the bottom of your library in any order.",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "65",
+  "artist": "Paul Chadwick",
+  "rating": "3.188",
+  "votes": "48"
+}

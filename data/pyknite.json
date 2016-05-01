@@ -1,0 +1,13 @@
+{
+  "title": "Pyknite",
+  "image": "./img/pyknite.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Ouphe",
+  "text": "When Pyknite enters the battlefield, draw a card at the beginning of the next turn's upkeep.",
+  "expansion": "Ice Age",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "2.694",
+  "votes": "36"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Regal Force",
+  "image": "./img/regal-force.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Elemental",
+  "text": "When Regal Force enters the battlefield, draw a card for each green creature you control.",
+  "expansion": "Eventide",
+  "rarity": "Rare",
+  "cardNumber": "74",
+  "artist": "Brandon Kitkouski",
+  "rating": "4.291",
+  "votes": "67"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Desert Sandstorm",
+  "image": "./img/desert-sandstorm.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Desert Sandstorm deals 1 damage to each creature.",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Common",
+  "cardNumber": "107",
+  "artist": "Xu Tan",
+  "rating": "1.257",
+  "votes": "37"
+}

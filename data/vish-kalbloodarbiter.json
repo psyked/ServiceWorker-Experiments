@@ -1,0 +1,13 @@
+{
+  "title": "Vish Kal, Blood Arbiter",
+  "image": "./img/vish-kalbloodarbiter.jpg",
+  "convertedManaCost": "7",
+  "types": "Legendary Creature  — Vampire",
+  "text": "Flying, lifelinkSacrifice a creature: Put X +1/+1 counters on Vish Kal, Blood Arbiter, where X is the sacrificed creature's power.Remove all +1/+1 counters from Vish Kal: Target creature gets -1/-1 until end of turn for each +1/+1 counter removed this way.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Rare",
+  "cardNumber": "234",
+  "artist": "Michael C. Hayes",
+  "rating": "4.053",
+  "votes": "95"
+}

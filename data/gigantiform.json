@@ -1,0 +1,13 @@
+{
+  "title": "Gigantiform",
+  "image": "./img/gigantiform.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Kicker Enchant creatureEnchanted creature has base power and toughness 8/8 and has trample.When Gigantiform enters the battlefield, if it was kicked, you may search your library for a card named Gigantiform, put it onto the battlefield, then shuffle your library.",
+  "expansion": "Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "162",
+  "artist": "Justin Sweet",
+  "rating": "3.844",
+  "votes": "90"
+}

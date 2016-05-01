@@ -1,0 +1,13 @@
+{
+  "title": "Pygmy Allosaurus",
+  "image": "./img/pygmy-allosaurus.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Lizard",
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+  "expansion": "Ice Age",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Anson Maddocks",
+  "rating": "2.587",
+  "votes": "46"
+}

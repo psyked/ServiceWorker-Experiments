@@ -1,0 +1,13 @@
+{
+  "title": "Mindsparker",
+  "image": "./img/mindsparker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental",
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)Whenever an opponent casts a white or blue instant or sorcery spell, Mindsparker deals 2 damage to that player.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "146",
+  "artist": "Wayne Reynolds",
+  "rating": "3.640",
+  "votes": "50"
+}

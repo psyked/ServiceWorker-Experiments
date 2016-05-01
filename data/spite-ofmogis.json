@@ -1,0 +1,13 @@
+{
+  "title": "Spite of Mogis",
+  "image": "./img/spite-ofmogis.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Spite of Mogis deals damage to target creature equal to the number of instant and sorcery cards in your graveyard. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "113",
+  "artist": "Vincent Proce",
+  "rating": "3.577",
+  "votes": "26"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Endless Swarm",
+  "image": "./img/endless-swarm.jpg",
+  "convertedManaCost": "8",
+  "types": "Sorcery",
+  "text": "Put a 1/1 green Snake creature token onto the battlefield for each card in your hand.Epic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability.)",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "129",
+  "artist": "Jeremy Jarvis",
+  "rating": "3.417",
+  "votes": "42"
+}

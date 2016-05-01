@@ -1,0 +1,13 @@
+{
+  "title": "Oath of Nissa",
+  "image": "./img/oath-ofnissa.jpg",
+  "convertedManaCost": "1",
+  "types": "Legendary Enchantment",
+  "text": "When Oath of Nissa enters the battlefield, look at the top three cards of your library. You may reveal a creature, land, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.You may spend mana as though it were mana of any color to cast planeswalker spells.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Rare",
+  "cardNumber": "140",
+  "artist": "Wesley Burt",
+  "rating": "5",
+  "votes": "0"
+}

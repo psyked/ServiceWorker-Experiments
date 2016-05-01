@@ -1,0 +1,13 @@
+{
+  "title": "Sangrophage",
+  "image": "./img/sangrophage.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie",
+  "text": "At the beginning of your upkeep, tap Sangrophage unless you pay 2 life.",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "127",
+  "artist": "Pete Venters",
+  "rating": "2.840",
+  "votes": "47"
+}

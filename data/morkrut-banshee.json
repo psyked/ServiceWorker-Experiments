@@ -1,0 +1,13 @@
+{
+  "title": "Morkrut Banshee",
+  "image": "./img/morkrut-banshee.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit",
+  "text": "Morbid — When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn.",
+  "expansion": "Commander 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "149",
+  "artist": "Svetlin Velinov",
+  "rating": "5",
+  "votes": "0"
+}

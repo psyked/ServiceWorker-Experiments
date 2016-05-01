@@ -1,0 +1,13 @@
+{
+  "title": "Argothian Treefolk",
+  "image": "./img/argothian-treefolk.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Treefolk",
+  "text": "Prevent all damage that would be dealt to Argothian Treefolk by artifact sources.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "143",
+  "artist": "Amy Weber",
+  "rating": "2.825",
+  "votes": "20"
+}

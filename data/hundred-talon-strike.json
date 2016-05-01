@@ -1,0 +1,13 @@
+{
+  "title": "Hundred-Talon Strike",
+  "image": "./img/hundred-talon-strike.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant  — Arcane",
+  "text": "Target creature gets +1/+0 and gains first strike until end of turn.Splice onto Arcane—Tap an untapped white creature you control. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "8",
+  "artist": "Matt Cavotta",
+  "rating": "3.059",
+  "votes": "34"
+}

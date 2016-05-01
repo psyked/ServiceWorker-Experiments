@@ -1,0 +1,13 @@
+{
+  "title": "Mercenary Knight",
+  "image": "./img/mercenary-knight.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Mercenary Knight",
+  "text": "When Mercenary Knight enters the battlefield, sacrifice it unless you discard a creature card.",
+  "expansion": "Portal",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Adrian Smith",
+  "rating": "4.076",
+  "votes": "33"
+}

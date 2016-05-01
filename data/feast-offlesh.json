@@ -1,0 +1,13 @@
+{
+  "title": "Feast of Flesh",
+  "image": "./img/feast-offlesh.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Feast of Flesh deals X damage to target creature and you gain X life, where X is 1 plus the number of cards named Feast of Flesh in all graveyards.",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Volkan Baga",
+  "rating": "2.324",
+  "votes": "37"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Vine Kami",
+  "image": "./img/vine-kami.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Spirit",
+  "text": "Menace (This creature can't be blocked except by two or more creatures.)Soulshift 6 (When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "249",
+  "artist": "Tsutomu Kawade",
+  "rating": "2.160",
+  "votes": "25"
+}

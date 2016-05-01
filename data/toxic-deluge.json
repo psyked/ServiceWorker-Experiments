@@ -1,0 +1,13 @@
+{
+  "title": "Toxic Deluge",
+  "image": "./img/toxic-deluge.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Toxic Deluge, pay X life.All creatures get -X/-X until end of turn.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "96",
+  "artist": "Svetlin Velinov",
+  "rating": "4.576",
+  "votes": "66"
+}

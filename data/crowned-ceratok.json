@@ -1,0 +1,13 @@
+{
+  "title": "Crowned Ceratok",
+  "image": "./img/crowned-ceratok.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Rhino",
+  "text": "TrampleEach creature you control with a +1/+1 counter on it has trample.",
+  "expansion": "Duel Decks: Heroes vs. Monsters",
+  "rarity": "Uncommon",
+  "cardNumber": "51",
+  "artist": "Steve Prescott",
+  "rating": "3.577",
+  "votes": "13"
+}

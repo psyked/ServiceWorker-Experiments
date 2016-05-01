@@ -1,0 +1,13 @@
+{
+  "title": "Barrage of Boulders",
+  "image": "./img/barrage-ofboulders.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Barrage of Boulders deals 1 damage to each creature you don't control.Ferocious — If you control a creature with power 4 or greater, creatures can't block this turn.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "100",
+  "artist": "Zoltan Boros",
+  "rating": "2.125",
+  "votes": "4"
+}

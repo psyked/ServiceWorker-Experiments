@@ -1,0 +1,13 @@
+{
+  "title": "Gaea's Herald",
+  "image": "./img/gaeas-herald.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf",
+  "text": "Creature spells can't be countered.",
+  "expansion": "Tenth Edition",
+  "rarity": "Rare",
+  "cardNumber": "265",
+  "artist": "Jim Murray",
+  "rating": "4.234",
+  "votes": "47"
+}

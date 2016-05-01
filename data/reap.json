@@ -1,0 +1,13 @@
+{
+  "title": "Reap",
+  "image": "./img/reap.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Return up to X target cards from your graveyard to your hand, where X is the number of black permanents target opponent controls as you cast Reap.",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Ron Chironna",
+  "rating": "3.057",
+  "votes": "44"
+}

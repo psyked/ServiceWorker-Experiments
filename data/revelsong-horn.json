@@ -1,0 +1,13 @@
+{
+  "title": "Revelsong Horn",
+  "image": "./img/revelsong-horn.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", , Tap an untapped creature you control: Target creature gets +1/+1 until end of turn.",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "261",
+  "artist": "Franz Vohwinkel",
+  "rating": "1.567",
+  "votes": "45"
+}

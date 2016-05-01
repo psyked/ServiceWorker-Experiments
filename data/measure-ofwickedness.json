@@ -1,0 +1,13 @@
+{
+  "title": "Measure of Wickedness",
+  "image": "./img/measure-ofwickedness.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of your end step, sacrifice Measure of Wickedness and you lose 8 life.Whenever another card is put into your graveyard from anywhere, target opponent gains control of Measure of Wickedness.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "82",
+  "artist": "Daren Bader",
+  "rating": "3.852",
+  "votes": "44"
+}

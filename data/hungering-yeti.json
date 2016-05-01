@@ -1,0 +1,13 @@
+{
+  "title": "Hungering Yeti",
+  "image": "./img/hungering-yeti.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Yeti",
+  "text": "As long as you control a green or blue permanent, you may cast Hungering Yeti as though it had flash. (You may cast it any time you could cast an instant.)",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "105",
+  "artist": "Tyler Jacobson",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Flowstone Strike",
+  "image": "./img/flowstone-strike.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +1/-1 and gains haste until end of turn.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "84",
+  "artist": "Mike Ploog",
+  "rating": "2.021",
+  "votes": "24"
+}

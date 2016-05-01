@@ -1,0 +1,13 @@
+{
+  "title": "Highland Berserker",
+  "image": "./img/highland-berserker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Berserker Ally",
+  "text": "Whenever Highland Berserker or another Ally enters the battlefield under your control, you may have Ally creatures you control gain first strike until end of turn.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "132",
+  "artist": "Chris Rahn",
+  "rating": "3.115",
+  "votes": "48"
+}

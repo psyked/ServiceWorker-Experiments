@@ -1,0 +1,13 @@
+{
+  "title": "View from Above",
+  "image": "./img/view-fromabove.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gains flying until end of turn. If you control a white permanent, return View from Above to its owner's hand.",
+  "expansion": "Conflux",
+  "rarity": "Uncommon",
+  "cardNumber": "38",
+  "artist": "Howard Lyon",
+  "rating": "2.511",
+  "votes": "46"
+}

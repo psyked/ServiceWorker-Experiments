@@ -1,0 +1,13 @@
+{
+  "title": "Viashino Slasher",
+  "image": "./img/viashino-slasher.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Viashino Warrior",
+  "text": ": Viashino Slasher gets +1/-1 until end of turn.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "149",
+  "artist": "Glenn Fabry",
+  "rating": "1.462",
+  "votes": "40"
+}

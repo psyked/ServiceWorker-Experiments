@@ -1,0 +1,13 @@
+{
+  "title": "Grove Rumbler",
+  "image": "./img/grove-rumbler.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elemental",
+  "text": "TrampleLandfall — Whenever a land enters the battlefield under your control, Grove Rumbler gets +2/+2 until end of turn.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "211",
+  "artist": "Greg Opalinski",
+  "rating": "5",
+  "votes": "0"
+}

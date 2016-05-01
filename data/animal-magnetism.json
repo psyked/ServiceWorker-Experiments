@@ -1,0 +1,13 @@
+{
+  "title": "Animal Magnetism",
+  "image": "./img/animal-magnetism.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Reveal the top five cards of your library. An opponent chooses a creature card from among them. Put that card onto the battlefield and the rest into your graveyard.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "245",
+  "artist": "Ron Spears",
+  "rating": "2.160",
+  "votes": "25"
+}

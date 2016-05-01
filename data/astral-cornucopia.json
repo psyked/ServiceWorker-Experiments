@@ -1,0 +1,13 @@
+{
+  "title": "Astral Cornucopia",
+  "image": "./img/astral-cornucopia.jpg",
+  "convertedManaCost": "0",
+  "types": "Artifact",
+  "text": "Astral Cornucopia enters the battlefield with X charge counters on it.: Choose a color. Add one mana of that color to your mana pool for each charge counter on Astral Cornucopia.",
+  "expansion": "Born of the Gods",
+  "rarity": "Rare",
+  "cardNumber": "157",
+  "artist": "Aleksi Briclot",
+  "rating": "3.435",
+  "votes": "46"
+}

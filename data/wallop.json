@@ -1,0 +1,13 @@
+{
+  "title": "Wallop",
+  "image": "./img/wallop.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Destroy target blue or black creature with flying.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "223",
+  "artist": "Mike Ploog",
+  "rating": "1.855",
+  "votes": "31"
+}

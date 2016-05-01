@@ -1,0 +1,13 @@
+{
+  "title": "Eyeblight Assassin",
+  "image": "./img/eyeblight-assassin.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Assassin",
+  "text": "When Eyeblight Assassin enters the battlefield, target creature an opponent controls gets -1/-1 until end of turn.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "95",
+  "artist": "Dan Scott",
+  "rating": "5",
+  "votes": "0"
+}

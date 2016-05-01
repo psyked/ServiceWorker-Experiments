@@ -1,0 +1,13 @@
+{
+  "title": "Necropolis Regent",
+  "image": "./img/necropolis-regent.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Vampire",
+  "text": "FlyingWhenever a creature you control deals combat damage to a player, put that many +1/+1 counters on it.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Mythic Rare",
+  "cardNumber": "71",
+  "artist": "Winona Nelson",
+  "rating": "4.039",
+  "votes": "114"
+}

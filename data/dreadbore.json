@@ -1,0 +1,13 @@
+{
+  "title": "Dreadbore",
+  "image": "./img/dreadbore.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Destroy target creature or planeswalker.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Rare",
+  "cardNumber": "157",
+  "artist": "Wayne Reynolds",
+  "rating": "3.953",
+  "votes": "170"
+}

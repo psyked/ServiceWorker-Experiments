@@ -1,0 +1,13 @@
+{
+  "title": "Condemn",
+  "image": "./img/condemn.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness.",
+  "expansion": "Commander 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "69",
+  "artist": "Daren Bader",
+  "rating": "5",
+  "votes": "0"
+}

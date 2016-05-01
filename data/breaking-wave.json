@@ -1,0 +1,13 @@
+{
+  "title": "Breaking Wave",
+  "image": "./img/breaking-wave.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "You may cast Breaking Wave as though it had flash if you pay  more to cast it. (You may cast it any time you could cast an instant.)Simultaneously untap all tapped creatures and tap all untapped creatures.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "48",
+  "artist": "Carl Critchlow",
+  "rating": "3.900",
+  "votes": "35"
+}

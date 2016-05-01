@@ -1,0 +1,13 @@
+{
+  "title": "Tundra Kavu",
+  "image": "./img/tundra-kavu.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kavu",
+  "text": ": Target land becomes a Plains or an Island until end of turn.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "71",
+  "artist": "Matt Cavotta",
+  "rating": "3.129",
+  "votes": "31"
+}

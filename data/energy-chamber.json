@@ -1,0 +1,13 @@
+{
+  "title": "Energy Chamber",
+  "image": "./img/energy-chamber.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, choose one —• Put a +1/+1 counter on target artifact creature.• Put a charge counter on target noncreature artifact.",
+  "expansion": "Duel Decks: Elspeth vs. Tezzeret",
+  "rarity": "Uncommon",
+  "cardNumber": "64",
+  "artist": "Kev Walker",
+  "rating": "4.102",
+  "votes": "59"
+}

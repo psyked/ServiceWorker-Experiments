@@ -1,0 +1,13 @@
+{
+  "title": "Exile",
+  "image": "./img/exile.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Exile target nonwhite attacking creature. You gain life equal to its toughness.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "27",
+  "artist": "Sam Wolfe Connelly",
+  "rating": "3.500",
+  "votes": "1"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Talus Paladin",
+  "image": "./img/talus-paladin.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Knight Ally",
+  "text": "Whenever Talus Paladin or another Ally enters the battlefield under your control, you may have Allies you control gain lifelink until end of turn, and you may put a +1/+1 counter on Talus Paladin.",
+  "expansion": "Worldwake",
+  "rarity": "Rare",
+  "cardNumber": "21",
+  "artist": "Svetlin Velinov",
+  "rating": "3.577",
+  "votes": "91"
+}

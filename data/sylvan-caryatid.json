@@ -1,0 +1,13 @@
+{
+  "title": "Sylvan Caryatid",
+  "image": "./img/sylvan-caryatid.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Plant",
+  "text": "Defender, hexproof: Add one mana of any color to your mana pool.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "180",
+  "artist": "Chase Stone",
+  "rating": "3.619",
+  "votes": "97"
+}

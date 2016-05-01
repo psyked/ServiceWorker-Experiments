@@ -1,0 +1,13 @@
+{
+  "title": "Canopy Crawler",
+  "image": "./img/canopy-crawler.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Beast",
+  "text": "Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Beast card you reveal in your hand.): Target creature gets +1/+1 until end of turn for each +1/+1 counter on Canopy Crawler.",
+  "expansion": "Legions",
+  "rarity": "Uncommon",
+  "cardNumber": "122",
+  "artist": "Anthony S. Waters",
+  "rating": "3.574",
+  "votes": "27"
+}

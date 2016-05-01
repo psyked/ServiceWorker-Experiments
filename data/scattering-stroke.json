@@ -1,0 +1,13 @@
+{
+  "title": "Scattering Stroke",
+  "image": "./img/scattering-stroke.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Counter target spell. Clash with an opponent. If you win, at the beginning of your next main phase, you may add an amount of  to your mana pool equal to that spell's converted mana cost. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Uncommon",
+  "cardNumber": "60",
+  "artist": "Franz Vohwinkel",
+  "rating": "2.757",
+  "votes": "37"
+}

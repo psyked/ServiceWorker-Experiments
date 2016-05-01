@@ -1,0 +1,13 @@
+{
+  "title": "Thermokarst",
+  "image": "./img/thermokarst.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Destroy target land. If that land was a snow land, you gain 1 life.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "183",
+  "artist": "Ken Meyer, Jr.",
+  "rating": "3.929",
+  "votes": "35"
+}

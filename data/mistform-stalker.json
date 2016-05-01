@@ -1,0 +1,13 @@
+{
+  "title": "Mistform Stalker",
+  "image": "./img/mistform-stalker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Illusion",
+  "text": ": Mistform Stalker becomes the creature type of your choice until end of turn.: Mistform Stalker gets +2/+2 and gains flying until end of turn.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "98",
+  "artist": "Randy Gallegos",
+  "rating": "2.763",
+  "votes": "19"
+}

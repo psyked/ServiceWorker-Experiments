@@ -1,0 +1,13 @@
+{
+  "title": "Ivy Dancer",
+  "image": "./img/ivy-dancer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Dryad Shaman",
+  "text": ": Target creature gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "171",
+  "artist": "Terese Nielsen",
+  "rating": "2.107",
+  "votes": "28"
+}

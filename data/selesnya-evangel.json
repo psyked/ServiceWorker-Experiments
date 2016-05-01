@@ -1,0 +1,13 @@
+{
+  "title": "Selesnya Evangel",
+  "image": "./img/selesnya-evangel.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Shaman",
+  "text": ", , Tap an untapped creature you control: Put a 1/1 green Saproling creature token onto the battlefield.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Common",
+  "cardNumber": "223",
+  "artist": "Rob Alexander",
+  "rating": "3.080",
+  "votes": "25"
+}

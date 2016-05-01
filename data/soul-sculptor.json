@@ -1,0 +1,13 @@
+{
+  "title": "Soul Sculptor",
+  "image": "./img/soul-sculptor.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human",
+  "text": ", : Target creature becomes an enchantment and loses all abilities until a player casts a creature spell.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "53",
+  "artist": "Ciruelo",
+  "rating": "3.814",
+  "votes": "35"
+}

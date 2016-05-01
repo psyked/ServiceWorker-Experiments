@@ -1,0 +1,13 @@
+{
+  "title": "Ajani's Mantra",
+  "image": "./img/ajanis-mantra.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, you may gain 1 life.",
+  "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+  "rarity": "Common",
+  "cardNumber": "22",
+  "artist": "James Paick",
+  "rating": "2.871",
+  "votes": "35"
+}

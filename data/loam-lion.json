@@ -1,0 +1,13 @@
+{
+  "title": "Loam Lion",
+  "image": "./img/loam-lion.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Cat",
+  "text": "Loam Lion gets +1/+2 as long as you control a Forest.",
+  "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+  "rarity": "Uncommon",
+  "cardNumber": "5",
+  "artist": "Daniel Ljunggren",
+  "rating": "4.318",
+  "votes": "55"
+}

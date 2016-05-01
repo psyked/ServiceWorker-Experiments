@@ -1,0 +1,13 @@
+{
+  "title": "Carrion",
+  "image": "./img/carrion.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "As an additional cost to cast Carrion, sacrifice a creature.Put X 0/1 black Insect creature tokens onto the battlefield, where X is the sacrificed creature's power.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Geofrey Darrow",
+  "rating": "3.679",
+  "votes": "39"
+}

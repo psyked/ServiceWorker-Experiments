@@ -1,0 +1,13 @@
+{
+  "title": "Temporal Eddy",
+  "image": "./img/temporal-eddy.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Put target creature or land on top of its owner's library.",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "85",
+  "artist": "Wayne England",
+  "rating": "2.580",
+  "votes": "25"
+}

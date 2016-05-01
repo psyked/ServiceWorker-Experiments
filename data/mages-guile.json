@@ -1,0 +1,13 @@
+{
+  "title": "Mage's Guile",
+  "image": "./img/mages-guile.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gains shroud until end of turn. (It can't be the target of spells or abilities.)Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "91",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "3.562",
+  "votes": "24"
+}

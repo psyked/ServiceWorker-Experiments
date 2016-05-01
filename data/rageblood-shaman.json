@@ -1,0 +1,13 @@
+{
+  "title": "Rageblood Shaman",
+  "image": "./img/rageblood-shaman.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Minotaur Shaman",
+  "text": "TrampleOther Minotaur creatures you control get +1/+1 and have trample.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "138",
+  "artist": "Mike Bierek",
+  "rating": "3.565",
+  "votes": "69"
+}

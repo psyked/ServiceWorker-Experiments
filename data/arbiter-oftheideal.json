@@ -1,0 +1,13 @@
+{
+  "title": "Arbiter of the Ideal",
+  "image": "./img/arbiter-oftheideal.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Sphinx",
+  "text": "FlyingInspired — Whenever Arbiter of the Ideal becomes untapped, reveal the top card of your library. If it's an artifact, creature, or land card, you may put it onto the battlefield with a manifestation counter on it. That permanent is an enchantment in addition to its other types.",
+  "expansion": "Born of the Gods",
+  "rarity": "Rare",
+  "cardNumber": "31",
+  "artist": "Svetlin Velinov",
+  "rating": "3.783",
+  "votes": "46"
+}

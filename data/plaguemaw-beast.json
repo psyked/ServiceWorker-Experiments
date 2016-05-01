@@ -1,0 +1,13 @@
+{
+  "title": "Plaguemaw Beast",
+  "image": "./img/plaguemaw-beast.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast",
+  "text": ", Sacrifice a creature: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Uncommon",
+  "cardNumber": "87",
+  "artist": "Whit Brachna",
+  "rating": "3.007",
+  "votes": "67"
+}

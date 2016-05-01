@@ -1,0 +1,13 @@
+{
+  "title": "Dispel",
+  "image": "./img/dispel.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Counter target instant spell.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "76",
+  "artist": "Chase Stone",
+  "rating": "5",
+  "votes": "0"
+}

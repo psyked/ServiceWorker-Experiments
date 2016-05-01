@@ -1,0 +1,13 @@
+{
+  "title": "Goblin War Buggy",
+  "image": "./img/goblin-warbuggy.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin",
+  "text": "HasteEcho  (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "196",
+  "artist": "DiTerlizzi",
+  "rating": "3.782",
+  "votes": "39"
+}

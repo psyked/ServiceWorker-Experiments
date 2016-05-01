@@ -1,0 +1,13 @@
+{
+  "title": "Sigil of Sleep",
+  "image": "./img/sigil-ofsleep.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature deals damage to a player, return target creature that player controls to its owner's hand.",
+  "expansion": "Duel Decks: Venser vs. Koth",
+  "rarity": "Common",
+  "cardNumber": "25",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "4.274",
+  "votes": "31"
+}

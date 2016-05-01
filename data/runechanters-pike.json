@@ -1,0 +1,13 @@
+{
+  "title": "Runechanter's Pike",
+  "image": "./img/runechanters-pike.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature has first strike and gets +X/+0, where X is the number of instant and sorcery cards in your graveyard.Equip",
+  "expansion": "Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "231",
+  "artist": "John Avon",
+  "rating": "4.113",
+  "votes": "84"
+}

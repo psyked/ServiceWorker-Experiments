@@ -1,0 +1,13 @@
+{
+  "title": "Gustcloak Savior",
+  "image": "./img/gustcloak-savior.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bird Soldier",
+  "text": "FlyingWhenever a creature you control becomes blocked, you may untap that creature and remove it from combat.",
+  "expansion": "Duel Decks: Elspeth vs. Kiora",
+  "rarity": "Rare",
+  "cardNumber": "11",
+  "artist": "Jim Nelson",
+  "rating": "5",
+  "votes": "0"
+}

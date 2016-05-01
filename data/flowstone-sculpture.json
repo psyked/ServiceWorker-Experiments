@@ -1,0 +1,13 @@
+{
+  "title": "Flowstone Sculpture",
+  "image": "./img/flowstone-sculpture.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Shapeshifter",
+  "text": ", Discard a card: Put a +1/+1 counter on Flowstone Sculpture or Flowstone Sculpture gains flying, first strike, or trample. (This effect lasts indefinitely.)",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "268",
+  "artist": "Hannibal King",
+  "rating": "5",
+  "votes": "0"
+}

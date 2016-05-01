@@ -1,0 +1,13 @@
+{
+  "title": "Living Wall",
+  "image": "./img/living-wall.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Wall",
+  "text": "Defender (This creature can't attack.): Regenerate Living Wall.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "212",
+  "artist": "Anson Maddocks",
+  "rating": "3.848",
+  "votes": "33"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sewer Shambler",
+  "image": "./img/sewer-shambler.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)Scavenge  (, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "75",
+  "artist": "Nils Hamm",
+  "rating": "2.848",
+  "votes": "56"
+}

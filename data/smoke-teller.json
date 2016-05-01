@@ -1,0 +1,13 @@
+{
+  "title": "Smoke Teller",
+  "image": "./img/smoke-teller.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Shaman",
+  "text": ": Look at target face-down creature.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "151",
+  "artist": "Min Yum",
+  "rating": "3.000",
+  "votes": "2"
+}

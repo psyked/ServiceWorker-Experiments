@@ -1,0 +1,13 @@
+{
+  "title": "Sanguine Praetor",
+  "image": "./img/sanguine-praetor.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Avatar Praetor",
+  "text": ", Sacrifice a creature: Destroy each creature with the same converted mana cost as the sacrificed creature.",
+  "expansion": "Guildpact",
+  "rarity": "Rare",
+  "cardNumber": "60",
+  "artist": "rk post",
+  "rating": "3.229",
+  "votes": "48"
+}

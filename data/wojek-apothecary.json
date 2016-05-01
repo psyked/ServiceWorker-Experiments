@@ -1,0 +1,13 @@
+{
+  "title": "Wojek Apothecary",
+  "image": "./img/wojek-apothecary.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Cleric",
+  "text": "Radiance — : Prevent the next 1 damage that would be dealt to target creature and each other creature that shares a color with it this turn.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "36",
+  "artist": "Keith Garletts",
+  "rating": "1.438",
+  "votes": "32"
+}

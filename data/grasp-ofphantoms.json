@@ -1,0 +1,13 @@
+{
+  "title": "Grasp of Phantoms",
+  "image": "./img/grasp-ofphantoms.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Put target creature on top of its owner's library.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "58",
+  "artist": "Izzy",
+  "rating": "3.189",
+  "votes": "61"
+}

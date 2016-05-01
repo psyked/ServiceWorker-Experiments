@@ -1,0 +1,13 @@
+{
+  "title": "Hoarder's Greed",
+  "image": "./img/hoarders-greed.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "You lose 2 life and draw two cards, then clash with an opponent. If you win, repeat this process. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",
+  "expansion": "Lorwyn",
+  "rarity": "Uncommon",
+  "cardNumber": "117",
+  "artist": "Pete Venters",
+  "rating": "2.705",
+  "votes": "44"
+}

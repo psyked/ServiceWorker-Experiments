@@ -1,0 +1,13 @@
+{
+  "title": "Warbringer",
+  "image": "./img/warbringer.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Orc Berserker",
+  "text": "Dash costs you pay cost  less (as long as this creature is on the battlefield).Dash  (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "168",
+  "artist": "Raymond Swanland",
+  "rating": "5",
+  "votes": "0"
+}

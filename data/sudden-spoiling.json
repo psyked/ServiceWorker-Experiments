@@ -1,0 +1,13 @@
+{
+  "title": "Sudden Spoiling",
+  "image": "./img/sudden-spoiling.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)Until end of turn, creatures target player controls lose all abilities and have base power and toughness 0/2.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "164",
+  "artist": "Alan Pollack",
+  "rating": "5",
+  "votes": "0"
+}

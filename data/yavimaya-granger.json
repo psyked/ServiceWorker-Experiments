@@ -1,0 +1,13 @@
+{
+  "title": "Yavimaya Granger",
+  "image": "./img/yavimaya-granger.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf",
+  "text": "Echo  (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)When Yavimaya Granger enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Common",
+  "cardNumber": "118",
+  "artist": "Henry Van Der Linde",
+  "rating": "3.774",
+  "votes": "31"
+}

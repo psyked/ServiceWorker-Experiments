@@ -1,0 +1,13 @@
+{
+  "title": "Strip Mine",
+  "image": "./img/strip-mine.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool., Sacrifice Strip Mine: Destroy target land.",
+  "expansion": "Zendikar Expeditions",
+  "rarity": "Mythic Rare",
+  "cardNumber": "43",
+  "artist": "Howard Lyon",
+  "rating": "5",
+  "votes": "0"
+}

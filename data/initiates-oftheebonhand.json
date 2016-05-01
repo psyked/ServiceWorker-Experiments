@@ -1,0 +1,13 @@
+{
+  "title": "Initiates of the Ebon Hand",
+  "image": "./img/initiates-oftheebonhand.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Cleric",
+  "text": ": Add  to your mana pool. If this ability has been activated four or more times this turn, sacrifice Initiates of the Ebon Hand at the beginning of the next end step.",
+  "expansion": "Fifth Edition",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Heather Hudson",
+  "rating": "3.293",
+  "votes": "46"
+}

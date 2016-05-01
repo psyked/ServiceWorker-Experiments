@@ -1,0 +1,13 @@
+{
+  "title": "Sacred Prey",
+  "image": "./img/sacred-prey.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Horse",
+  "text": "Whenever Sacred Prey becomes blocked, you gain 1 life.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "268",
+  "artist": "Rebecca Guay",
+  "rating": "2.477",
+  "votes": "22"
+}

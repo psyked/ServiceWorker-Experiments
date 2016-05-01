@@ -1,0 +1,13 @@
+{
+  "title": "Mindless Automaton",
+  "image": "./img/mindless-automaton.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Construct",
+  "text": "Mindless Automaton enters the battlefield with two +1/+1 counters on it., Discard a card: Put a +1/+1 counter on Mindless Automaton.Remove two +1/+1 counters from Mindless Automaton: Draw a card.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Rare",
+  "cardNumber": "227",
+  "artist": "Brian Snoddy",
+  "rating": "5",
+  "votes": "0"
+}

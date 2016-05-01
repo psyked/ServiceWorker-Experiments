@@ -1,0 +1,13 @@
+{
+  "title": "Slaughter Pact",
+  "image": "./img/slaughter-pact.jpg",
+  "convertedManaCost": "0",
+  "types": "Instant",
+  "text": "Destroy target nonblack creature.At the beginning of your next upkeep, pay . If you don't, you lose the game.",
+  "expansion": "Modern Masters",
+  "rarity": "Rare",
+  "cardNumber": "97",
+  "artist": "Kev Walker",
+  "rating": "4.312",
+  "votes": "32"
+}

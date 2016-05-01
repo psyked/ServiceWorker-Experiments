@@ -1,0 +1,13 @@
+{
+  "title": "Windfall",
+  "image": "./img/windfall.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "111",
+  "artist": "Pete Venters",
+  "rating": "5",
+  "votes": "0"
+}

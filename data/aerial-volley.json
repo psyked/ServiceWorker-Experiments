@@ -1,0 +1,13 @@
+{
+  "title": "Aerial Volley",
+  "image": "./img/aerial-volley.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Aerial Volley deals 3 damage divided as you choose among one, two, or three target creatures with flying.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "168",
+  "artist": "Lake Hurwitz",
+  "rating": "5",
+  "votes": "0"
+}

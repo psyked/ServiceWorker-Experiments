@@ -1,0 +1,13 @@
+{
+  "title": "Head to Head",
+  "image": "./img/head-tohead.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "You and target opponent play Seven Questions about the top card of that player's library. (That player looks at the card, then you ask up to six yes-or-no questions about the card that he or she answers truthfully. You guess the card's name—that's question seven—and the player reveals the card.) If you win, prevent all damage that would be dealt this turn by a source of your choice.",
+  "expansion": "Unhinged",
+  "rarity": "Uncommon",
+  "cardNumber": "14",
+  "artist": "Thomas Gianni",
+  "rating": "3.269",
+  "votes": "26"
+}

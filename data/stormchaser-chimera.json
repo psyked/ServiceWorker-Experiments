@@ -1,0 +1,13 @@
+{
+  "title": "Stormchaser Chimera",
+  "image": "./img/stormchaser-chimera.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Chimera",
+  "text": "Flying: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's converted mana cost. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "156",
+  "artist": "Greg Staples",
+  "rating": "3.500",
+  "votes": "23"
+}

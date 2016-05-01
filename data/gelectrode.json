@@ -1,0 +1,13 @@
+{
+  "title": "Gelectrode",
+  "image": "./img/gelectrode.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Weird",
+  "text": ": Gelectrode deals 1 damage to target creature or player.Whenever you cast an instant or sorcery spell, you may untap Gelectrode.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Uncommon",
+  "cardNumber": "5",
+  "artist": "Dan Scott",
+  "rating": "4.032",
+  "votes": "77"
+}

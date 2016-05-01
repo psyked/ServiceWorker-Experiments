@@ -1,0 +1,13 @@
+{
+  "title": "Trash for Treasure",
+  "image": "./img/trash-fortreasure.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Trash for Treasure, sacrifice an artifact.Return target artifact card from your graveyard to the battlefield.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "109",
+  "artist": "Lars Grant-West",
+  "rating": "4.025",
+  "votes": "40"
+}

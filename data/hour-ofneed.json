@@ -1,0 +1,13 @@
+{
+  "title": "Hour of Need",
+  "image": "./img/hour-ofneed.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Strive — Hour of Need costs  more to cast for each target beyond the first.Exile any number of target creatures. For each creature exiled this way, its controller puts a 4/4 blue Sphinx creature token with flying onto the battlefield.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "40",
+  "artist": "Jesper Ejsing",
+  "rating": "3.764",
+  "votes": "36"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Spellstutter Sprite",
+  "image": "./img/spellstutter-sprite.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Faerie Wizard",
+  "text": "FlashFlyingWhen Spellstutter Sprite enters the battlefield, counter target spell with converted mana cost X or less, where X is the number of Faeries you control.",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "65",
+  "artist": "Rebecca Guay",
+  "rating": "4.527",
+  "votes": "37"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Adarkar Windform",
+  "image": "./img/adarkar-windform.jpg",
+  "convertedManaCost": "5",
+  "types": "Snow Creature  — Illusion",
+  "text": "Flying: Target creature loses flying until end of turn. ( can be paid with one mana from a snow permanent.)",
+  "expansion": "Coldsnap",
+  "rarity": "Uncommon",
+  "cardNumber": "26",
+  "artist": "Randy Gallegos",
+  "rating": "2.176",
+  "votes": "34"
+}

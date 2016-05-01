@@ -1,0 +1,13 @@
+{
+  "title": "Possessed Barbarian",
+  "image": "./img/possessed-barbarian.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Barbarian Horror",
+  "text": "First strikeThreshold — As long as seven or more cards are in your graveyard, Possessed Barbarian gets +1/+1, is black, and has \", : Destroy target red creature.\"",
+  "expansion": "Torment",
+  "rarity": "Rare",
+  "cardNumber": "111",
+  "artist": "Scott M. Fischer",
+  "rating": "3.661",
+  "votes": "28"
+}

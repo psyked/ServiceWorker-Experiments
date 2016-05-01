@@ -1,0 +1,13 @@
+{
+  "title": "Surrakar Spellblade",
+  "image": "./img/surrakar-spellblade.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Surrakar",
+  "text": "Whenever you cast an instant or sorcery spell, you may put a charge counter on Surrakar Spellblade.Whenever Surrakar Spellblade deals combat damage to a player, you may draw X cards, where X is the number of charge counters on it.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Rare",
+  "cardNumber": "60",
+  "artist": "Dave Kendall",
+  "rating": "5",
+  "votes": "0"
+}

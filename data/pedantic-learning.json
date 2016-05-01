@@ -1,0 +1,13 @@
+{
+  "title": "Pedantic Learning",
+  "image": "./img/pedantic-learning.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever a land card is put into your graveyard from your library, you may pay . If you do, draw a card.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "90",
+  "artist": "Heather Hudson",
+  "rating": "2.188",
+  "votes": "48"
+}

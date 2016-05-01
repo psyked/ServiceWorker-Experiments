@@ -1,0 +1,13 @@
+{
+  "title": "Aquamorph Entity",
+  "image": "./img/aquamorph-entity.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Shapeshifter",
+  "text": "As Aquamorph Entity enters the battlefield or is turned face up, it becomes your choice of 5/1 or 1/5.Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Common",
+  "cardNumber": "54",
+  "artist": "Brian Despain",
+  "rating": "5",
+  "votes": "0"
+}

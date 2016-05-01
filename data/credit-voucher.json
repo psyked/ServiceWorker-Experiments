@@ -1,0 +1,13 @@
+{
+  "title": "Credit Voucher",
+  "image": "./img/credit-voucher.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", , Sacrifice Credit Voucher: Shuffle any number of cards from your hand into your library, then draw that many cards.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "289",
+  "artist": "D. Alexander Gregory",
+  "rating": "3.120",
+  "votes": "25"
+}

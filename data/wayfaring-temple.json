@@ -1,0 +1,13 @@
+{
+  "title": "Wayfaring Temple",
+  "image": "./img/wayfaring-temple.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental",
+  "text": "Wayfaring Temple's power and toughness are each equal to the number of creatures you control.Whenever Wayfaring Temple deals combat damage to a player, populate. (Put a token onto the battlefield that's a copy of a creature token you control.)",
+  "expansion": "Return to Ravnica",
+  "rarity": "Rare",
+  "cardNumber": "209",
+  "artist": "Peter Mohrbacher",
+  "rating": "3.892",
+  "votes": "97"
+}

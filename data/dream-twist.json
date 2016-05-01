@@ -1,0 +1,13 @@
+{
+  "title": "Dream Twist",
+  "image": "./img/dream-twist.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target player puts the top three cards of his or her library into his or her graveyard.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "54",
+  "artist": "Dan Scott",
+  "rating": "3.562",
+  "votes": "64"
+}

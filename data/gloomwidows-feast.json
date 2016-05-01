@@ -1,0 +1,13 @@
+{
+  "title": "Gloomwidow's Feast",
+  "image": "./img/gloomwidows-feast.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Destroy target creature with flying. If that creature was blue or black, put a 1/2 green Spider creature token with reach onto the battlefield. (It can block creatures with flying.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "118",
+  "artist": "Thomas M. Baxa",
+  "rating": "2.846",
+  "votes": "39"
+}

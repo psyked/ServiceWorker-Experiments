@@ -1,0 +1,13 @@
+{
+  "title": "Icatian Infantry",
+  "image": "./img/icatian-infantry.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Soldier",
+  "text": ": Icatian Infantry gains first strike until end of turn.: Icatian Infantry gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",
+  "expansion": "Fallen Empires",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Douglas Shuler",
+  "rating": "2.988",
+  "votes": "43"
+}

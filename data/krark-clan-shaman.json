@@ -1,0 +1,13 @@
+{
+  "title": "Krark-Clan Shaman",
+  "image": "./img/krark-clan-shaman.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Shaman",
+  "text": "Sacrifice an artifact: Krark-Clan Shaman deals 1 damage to each creature without flying.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "98",
+  "artist": "Thomas M. Baxa",
+  "rating": "2.839",
+  "votes": "31"
+}

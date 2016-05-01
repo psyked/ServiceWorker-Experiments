@@ -1,0 +1,13 @@
+{
+  "title": "Sandsteppe Outcast",
+  "image": "./img/sandsteppe-outcast.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Warrior",
+  "text": "When Sandsteppe Outcast enters the battlefield, choose one —• Put a +1/+1 counter on Sandsteppe Outcast.• Put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "25",
+  "artist": "Wesley Burt",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Bearer of Silence",
+  "image": "./img/bearer-ofsilence.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Eldrazi",
+  "text": "Devoid (This card has no color.)When you cast Bearer of Silence, you may pay . If you do, target opponent sacrifices a creature. ( represents colorless mana.)FlyingBearer of Silence can't block.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Rare",
+  "cardNumber": "67",
+  "artist": "Tyler Jacobson",
+  "rating": "5",
+  "votes": "0"
+}

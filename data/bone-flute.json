@@ -1,0 +1,13 @@
+{
+  "title": "Bone Flute",
+  "image": "./img/bone-flute.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", : All creatures get -1/-0 until end of turn.",
+  "expansion": "Masters Edition III",
+  "rarity": "Common",
+  "cardNumber": "192",
+  "artist": "Christopher Rush",
+  "rating": "2.117",
+  "votes": "30"
+}

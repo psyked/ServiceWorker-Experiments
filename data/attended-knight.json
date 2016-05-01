@@ -1,0 +1,13 @@
+{
+  "title": "Attended Knight",
+  "image": "./img/attended-knight.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)When Attended Knight enters the battlefield, put a 1/1 white Soldier creature token onto the battlefield.",
+  "expansion": "Magic 2013",
+  "rarity": "Common",
+  "cardNumber": "5",
+  "artist": "Seb McKinnon",
+  "rating": "3.704",
+  "votes": "71"
+}

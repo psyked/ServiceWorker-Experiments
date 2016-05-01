@@ -1,0 +1,13 @@
+{
+  "title": "Guul Draz Vampire",
+  "image": "./img/guul-drazvampire.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Vampire Rogue",
+  "text": "As long as an opponent has 10 or less life, Guul Draz Vampire gets +2/+1 and has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "93",
+  "artist": "Steve Argyle",
+  "rating": "3.865",
+  "votes": "137"
+}

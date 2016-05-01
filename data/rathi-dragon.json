@@ -1,0 +1,13 @@
+{
+  "title": "Rathi Dragon",
+  "image": "./img/rathi-dragon.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Dragon",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)When Rathi Dragon enters the battlefield, sacrifice it unless you sacrifice two Mountains.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Rare",
+  "cardNumber": "150",
+  "artist": "Christopher Rush",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sound the Call",
+  "image": "./img/sound-thecall.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Put a 1/1 green Wolf creature token onto the battlefield. It has \"This creature gets +1/+1 for each card named Sound the Call in each graveyard.\"",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "123",
+  "artist": "Jim Nelson",
+  "rating": "2.667",
+  "votes": "36"
+}

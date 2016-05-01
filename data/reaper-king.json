@@ -1,0 +1,13 @@
+{
+  "title": "Reaper King",
+  "image": "./img/reaper-king.jpg",
+  "convertedManaCost": "10",
+  "types": "Legendary Artifact Creature  — Scarecrow",
+  "text": "( can be paid with any two mana or with . This card's converted mana cost is 10.)Other Scarecrow creatures you control get +1/+1.Whenever another Scarecrow enters the battlefield under your control, destroy target permanent.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "260",
+  "artist": "Jim Murray",
+  "rating": "4.124",
+  "votes": "210"
+}

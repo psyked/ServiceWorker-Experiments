@@ -1,0 +1,13 @@
+{
+  "title": "Orim's Thunder",
+  "image": "./img/orims-thunder.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)Destroy target artifact or enchantment. If Orim's Thunder was kicked, it deals damage equal to that permanent's converted mana cost to target creature.",
+  "expansion": "Commander 2015",
+  "rarity": "Common",
+  "cardNumber": "78",
+  "artist": "Carl Critchlow",
+  "rating": "5",
+  "votes": "0"
+}

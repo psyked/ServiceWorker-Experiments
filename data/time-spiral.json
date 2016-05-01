@@ -1,0 +1,13 @@
+{
+  "title": "Time Spiral",
+  "image": "./img/time-spiral.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Exile Time Spiral. Each player shuffles his or her graveyard and hand into his or her library, then draws seven cards. You untap up to six lands.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "103",
+  "artist": "Michael Sutfin",
+  "rating": "4.613",
+  "votes": "168"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Warped Landscape",
+  "image": "./img/warped-landscape.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool., , Sacrifice Warped Landscape: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "280",
+  "artist": "Cliff Childs",
+  "rating": "5",
+  "votes": "0"
+}

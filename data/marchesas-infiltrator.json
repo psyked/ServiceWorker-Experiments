@@ -1,0 +1,13 @@
+{
+  "title": "Marchesa's Infiltrator",
+  "image": "./img/marchesas-infiltrator.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Rogue",
+  "text": "Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)Whenever Marchesa's Infiltrator deals combat damage to a player, draw a card.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Uncommon",
+  "cardNumber": "22",
+  "artist": "Lucas Graciano",
+  "rating": "3.750",
+  "votes": "8"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Barreling Attack",
+  "image": "./img/barreling-attack.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Target creature gains trample until end of turn. When that creature becomes blocked this turn, it gets +1/+1 until end of turn for each creature blocking it.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Ian Miller",
+  "rating": "2.267",
+  "votes": "30"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Rebound",
+  "image": "./img/rebound.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Change the target of target spell that targets only a player. The new target must be a player.",
+  "expansion": "Stronghold",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Doug Chaffee",
+  "rating": "3.417",
+  "votes": "30"
+}

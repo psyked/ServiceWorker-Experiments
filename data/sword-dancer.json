@@ -1,0 +1,13 @@
+{
+  "title": "Sword Dancer",
+  "image": "./img/sword-dancer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Rebel",
+  "text": ": Target attacking creature gets -1/-0 until end of turn.",
+  "expansion": "Eighth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "53",
+  "artist": "Roger Raupp",
+  "rating": "2.268",
+  "votes": "28"
+}

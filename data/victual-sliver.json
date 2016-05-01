@@ -1,0 +1,13 @@
+{
+  "title": "Victual Sliver",
+  "image": "./img/victual-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Sliver",
+  "text": "All Slivers have \", Sacrifice this permanent: You gain 4 life.\"",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "215",
+  "artist": "Terese Nielsen",
+  "rating": "5",
+  "votes": "0"
+}

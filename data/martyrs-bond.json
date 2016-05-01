@@ -1,0 +1,13 @@
+{
+  "title": "Martyr's Bond",
+  "image": "./img/martyrs-bond.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "Whenever Martyr's Bond or another nonland permanent you control is put into a graveyard from the battlefield, each opponent sacrifices a permanent that shares a card type with it.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Rare",
+  "cardNumber": "19",
+  "artist": "Ryan Pancoast",
+  "rating": "4.127",
+  "votes": "51"
+}

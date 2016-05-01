@@ -1,0 +1,13 @@
+{
+  "title": "Dragon Broodmother",
+  "image": "./img/dragon-broodmother.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "FlyingAt the beginning of each upkeep, put a 1/1 red and green Dragon creature token with flying and devour 2 onto the battlefield. (As the token enters the battlefield, you may sacrifice any number of creatures. It enters the battlefield with twice that many +1/+1 counters on it.)",
+  "expansion": "Alara Reborn",
+  "rarity": "Mythic Rare",
+  "cardNumber": "53",
+  "artist": "Jaime Jones",
+  "rating": "4.093",
+  "votes": "209"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Primal Surge",
+  "image": "./img/primal-surge.jpg",
+  "convertedManaCost": "10",
+  "types": "Sorcery",
+  "text": "Exile the top card of your library. If it's a permanent card, you may put it onto the battlefield. If you do, repeat this process.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Mythic Rare",
+  "cardNumber": "189",
+  "artist": "David Rapoza",
+  "rating": "3.658",
+  "votes": "73"
+}

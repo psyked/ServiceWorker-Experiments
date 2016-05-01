@@ -1,0 +1,13 @@
+{
+  "title": "Haazda Exonerator",
+  "image": "./img/haazda-exonerator.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": ", Sacrifice Haazda Exonerator: Destroy target Aura.",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "11",
+  "artist": "Kev Walker",
+  "rating": "2.141",
+  "votes": "39"
+}

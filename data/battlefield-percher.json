@@ -1,0 +1,13 @@
+{
+  "title": "Battlefield Percher",
+  "image": "./img/battlefield-percher.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bird",
+  "text": "FlyingBattlefield Percher can block only creatures with flying.: Battlefield Percher gets +1/+1 until end of turn.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "52",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "1.533",
+  "votes": "45"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Pyrokinesis",
+  "image": "./img/pyrokinesis.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "You may exile a red card from your hand rather than pay Pyrokinesis's mana cost.Pyrokinesis deals 4 damage divided as you choose among any number of target creatures.",
+  "expansion": "Duel Decks: Heroes vs. Monsters",
+  "rarity": "Uncommon",
+  "cardNumber": "32",
+  "artist": "Igor Kieryluk",
+  "rating": "4.368",
+  "votes": "19"
+}

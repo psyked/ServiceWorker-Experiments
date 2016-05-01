@@ -1,0 +1,13 @@
+{
+  "title": "Shaman's Trance",
+  "image": "./img/shamans-trance.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Until end of turn, other players can't play cards from their graveyards, and you may play cards from other players' graveyards as though they were in your graveyard.",
+  "expansion": "Judgment",
+  "rarity": "Rare",
+  "cardNumber": "98",
+  "artist": "Greg Hildebrandt",
+  "rating": "2.500",
+  "votes": "33"
+}

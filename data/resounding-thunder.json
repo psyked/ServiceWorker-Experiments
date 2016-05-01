@@ -1,0 +1,13 @@
+{
+  "title": "Resounding Thunder",
+  "image": "./img/resounding-thunder.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Resounding Thunder deals 3 damage to target creature or player.Cycling  (, Discard this card: Draw a card.)When you cycle Resounding Thunder, it deals 6 damage to target creature or player.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "110",
+  "artist": "Jon Foster",
+  "rating": "2.373",
+  "votes": "51"
+}

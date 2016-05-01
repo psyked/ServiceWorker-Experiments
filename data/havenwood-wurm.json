@@ -1,0 +1,13 @@
+{
+  "title": "Havenwood Wurm",
+  "image": "./img/havenwood-wurm.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Wurm",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)Trample",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "199",
+  "artist": "Stuart Griffin",
+  "rating": "3.138",
+  "votes": "40"
+}

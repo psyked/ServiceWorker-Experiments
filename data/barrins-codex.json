@@ -1,0 +1,13 @@
+{
+  "title": "Barrin's Codex",
+  "image": "./img/barrins-codex.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, you may put a page counter on Barrin's Codex., , Sacrifice Barrin's Codex: Draw X cards, where X is the number of page counters on Barrin's Codex.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "286",
+  "artist": "DiTerlizzi",
+  "rating": "2.948",
+  "votes": "29"
+}

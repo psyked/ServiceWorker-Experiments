@@ -1,0 +1,13 @@
+{
+  "title": "Hotheaded Giant",
+  "image": "./img/hotheaded-giant.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Giant Warrior",
+  "text": "HasteHotheaded Giant enters the battlefield with two -1/-1 counters on it unless you've cast another red spell this turn.",
+  "expansion": "Eventide",
+  "rarity": "Common",
+  "cardNumber": "57",
+  "artist": "Fred Harper",
+  "rating": "2.688",
+  "votes": "40"
+}

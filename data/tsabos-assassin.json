@@ -1,0 +1,13 @@
+{
+  "title": "Tsabo's Assassin",
+  "image": "./img/tsabos-assassin.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie Assassin",
+  "text": ": Destroy target creature if it shares a color with the most common color among all permanents or a color tied for most common. A creature destroyed this way can't be regenerated.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "128",
+  "artist": "Glen Angus",
+  "rating": "3.471",
+  "votes": "34"
+}

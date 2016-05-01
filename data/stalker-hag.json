@@ -1,0 +1,13 @@
+{
+  "title": "Stalker Hag",
+  "image": "./img/stalker-hag.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Hag",
+  "text": "Swampwalk, forestwalk (This creature can't be blocked as long as defending player controls a Swamp or a Forest.)",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "129",
+  "artist": "Dave Kendall",
+  "rating": "3.568",
+  "votes": "74"
+}

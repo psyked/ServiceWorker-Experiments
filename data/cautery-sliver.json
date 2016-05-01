@@ -1,0 +1,13 @@
+{
+  "title": "Cautery Sliver",
+  "image": "./img/cautery-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Sliver",
+  "text": "All Slivers have \", Sacrifice this permanent: This permanent deals 1 damage to target creature or player.\"All Slivers have \", Sacrifice this permanent: Prevent the next 1 damage that would be dealt to target Sliver creature or player this turn.\"",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "154",
+  "artist": "Dany Orizio",
+  "rating": "2.900",
+  "votes": "45"
+}

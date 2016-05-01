@@ -1,0 +1,13 @@
+{
+  "title": "Eye of Ramos",
+  "image": "./img/eye-oframos.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  to your mana pool.Sacrifice Eye of Ramos: Add  to your mana pool.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "294",
+  "artist": "David Martin",
+  "rating": "3.481",
+  "votes": "27"
+}

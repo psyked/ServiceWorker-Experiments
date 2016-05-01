@@ -1,0 +1,13 @@
+{
+  "title": "Greater Mossdog",
+  "image": "./img/greater-mossdog.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Plant Hound",
+  "text": "Dredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "146",
+  "artist": "Chippy",
+  "rating": "3.632",
+  "votes": "19"
+}

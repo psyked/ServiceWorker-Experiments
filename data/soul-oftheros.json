@@ -1,0 +1,13 @@
+{
+  "title": "Soul of Theros",
+  "image": "./img/soul-oftheros.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Avatar",
+  "text": "Vigilance: Creatures you control get +2/+2 and gain first strike and lifelink until end of turn., Exile Soul of Theros from your graveyard: Creatures you control get +2/+2 and gain first strike and lifelink until end of turn.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Mythic Rare",
+  "cardNumber": "34",
+  "artist": "Zack Stella",
+  "rating": "4.000",
+  "votes": "8"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Jarad's Orders",
+  "image": "./img/jarads-orders.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Search your library for up to two creature cards and reveal them. Put one into your hand and the other into your graveyard. Then shuffle your library.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Rare",
+  "cardNumber": "175",
+  "artist": "Svetlin Velinov",
+  "rating": "3.785",
+  "votes": "72"
+}

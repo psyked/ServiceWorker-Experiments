@@ -1,0 +1,13 @@
+{
+  "title": "Oona's Prowler",
+  "image": "./img/oonas-prowler.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Faerie Rogue",
+  "text": "FlyingDiscard a card: Oona's Prowler gets -2/-0 until end of turn. Any player may activate this ability.",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "133",
+  "artist": "Wayne Reynolds",
+  "rating": "4.110",
+  "votes": "77"
+}

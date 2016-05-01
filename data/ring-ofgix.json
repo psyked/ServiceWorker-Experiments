@@ -1,0 +1,13 @@
+{
+  "title": "Ring of Gix",
+  "image": "./img/ring-ofgix.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Echo  (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.), : Tap target artifact, creature, or land.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "280",
+  "artist": "Mark Tedin",
+  "rating": "3.500",
+  "votes": "1"
+}

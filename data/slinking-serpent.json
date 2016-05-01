@@ -1,0 +1,13 @@
+{
+  "title": "Slinking Serpent",
+  "image": "./img/slinking-serpent.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Serpent",
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "274",
+  "artist": "Wayne England",
+  "rating": "1.791",
+  "votes": "43"
+}

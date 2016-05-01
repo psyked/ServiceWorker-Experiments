@@ -1,0 +1,13 @@
+{
+  "title": "Treasure Hunt",
+  "image": "./img/treasure-hunt.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand.",
+  "expansion": "Worldwake",
+  "rarity": "Common",
+  "cardNumber": "42",
+  "artist": "Daren Bader",
+  "rating": "3.715",
+  "votes": "114"
+}

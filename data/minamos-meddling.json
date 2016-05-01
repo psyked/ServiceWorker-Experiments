@@ -1,0 +1,13 @@
+{
+  "title": "Minamo's Meddling",
+  "image": "./img/minamos-meddling.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Counter target spell. That spell's controller reveals his or her hand, then discards each card with the same name as a card spliced onto that spell.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "42",
+  "artist": "Pete Venters",
+  "rating": "2.382",
+  "votes": "34"
+}

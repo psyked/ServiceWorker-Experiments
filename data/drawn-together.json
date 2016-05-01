@@ -1,0 +1,13 @@
+{
+  "title": "Drawn Together",
+  "image": "./img/drawn-together.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "As Drawn Together comes into play, choose an artist.Creatures by the chosen artist get +2/+2.",
+  "expansion": "Unhinged",
+  "rarity": "Rare",
+  "cardNumber": "8",
+  "artist": "Pete \"Fear Me\" Venters",
+  "rating": "2.860",
+  "votes": "25"
+}

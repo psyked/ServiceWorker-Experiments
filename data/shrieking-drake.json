@@ -1,0 +1,13 @@
+{
+  "title": "Shrieking Drake",
+  "image": "./img/shrieking-drake.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Drake",
+  "text": "FlyingWhen Shrieking Drake enters the battlefield, return a creature you control to its owner's hand.",
+  "expansion": "Visions",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Ian Miller",
+  "rating": "3.735",
+  "votes": "49"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Grip of the Roil",
+  "image": "./img/grip-oftheroil.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Surge  (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)Tap target creature. It doesn't untap during its controller's next untap step.Draw a card.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "56",
+  "artist": "Volkan Baga",
+  "rating": "5",
+  "votes": "0"
+}

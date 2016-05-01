@@ -1,0 +1,13 @@
+{
+  "title": "Village Cannibals",
+  "image": "./img/village-cannibals.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human",
+  "text": "Whenever another Human creature dies, put a +1/+1 counter on Village Cannibals.",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "125",
+  "artist": "Bud Cook",
+  "rating": "3.250",
+  "votes": "58"
+}

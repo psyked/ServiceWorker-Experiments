@@ -1,0 +1,13 @@
+{
+  "title": "Kithkin Harbinger",
+  "image": "./img/kithkin-harbinger.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kithkin Wizard",
+  "text": "When Kithkin Harbinger enters the battlefield, you may search your library for a Kithkin card, reveal it, then shuffle your library and put that card on top of it.",
+  "expansion": "Lorwyn",
+  "rarity": "Uncommon",
+  "cardNumber": "26",
+  "artist": "Steve Prescott",
+  "rating": "3.066",
+  "votes": "38"
+}

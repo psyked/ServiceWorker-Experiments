@@ -1,0 +1,13 @@
+{
+  "title": "Rocket Launcher",
+  "image": "./img/rocket-launcher.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ": Rocket Launcher deals 1 damage to target creature or player. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.",
+  "expansion": "Revised Edition",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Pete Venters",
+  "rating": "3.164",
+  "votes": "64"
+}

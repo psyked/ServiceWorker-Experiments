@@ -1,0 +1,13 @@
+{
+  "title": "Sage's Dousing",
+  "image": "./img/sages-dousing.jpg",
+  "convertedManaCost": "3",
+  "types": "Tribal Instant  — Wizard",
+  "text": "Counter target spell unless its controller pays . If you control a Wizard, draw a card.",
+  "expansion": "Morningtide",
+  "rarity": "Uncommon",
+  "cardNumber": "48",
+  "artist": "Richard Sardinha",
+  "rating": "3.533",
+  "votes": "45"
+}

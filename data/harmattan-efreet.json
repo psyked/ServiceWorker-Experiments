@@ -1,0 +1,13 @@
+{
+  "title": "Harmattan Efreet",
+  "image": "./img/harmattan-efreet.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Efreet",
+  "text": "Flying: Target creature gains flying until end of turn.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "73",
+  "artist": "Drew Tucker",
+  "rating": "2.210",
+  "votes": "31"
+}

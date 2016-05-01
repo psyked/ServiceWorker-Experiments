@@ -1,0 +1,13 @@
+{
+  "title": "Observant Alseid",
+  "image": "./img/observant-alseid.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment Creature  — Nymph",
+  "text": "Bestow  (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)VigilanceEnchanted creature gets +2/+2 and has vigilance.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "24",
+  "artist": "Todd Lockwood",
+  "rating": "3.500",
+  "votes": "32"
+}

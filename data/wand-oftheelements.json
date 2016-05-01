@@ -1,0 +1,13 @@
+{
+  "title": "Wand of the Elements",
+  "image": "./img/wand-oftheelements.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ", Sacrifice an Island: Put a 2/2 blue Elemental creature token with flying onto the battlefield., Sacrifice a Mountain: Put a 3/3 red Elemental creature token onto the battlefield.",
+  "expansion": "Darksteel",
+  "rarity": "Rare",
+  "cardNumber": "158",
+  "artist": "Thomas M. Baxa",
+  "rating": "3.605",
+  "votes": "38"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Vigorous Charge",
+  "image": "./img/vigorous-charge.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)Target creature gains trample until end of turn. Whenever that creature deals combat damage this turn, if Vigorous Charge was kicked, you gain life equal to that damage.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "222",
+  "artist": "Scott M. Fischer",
+  "rating": "3.431",
+  "votes": "36"
+}

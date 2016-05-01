@@ -1,0 +1,13 @@
+{
+  "title": "Smelt",
+  "image": "./img/smelt.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Destroy target artifact.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "156",
+  "artist": "Zoltan Boros",
+  "rating": "4.255",
+  "votes": "55"
+}

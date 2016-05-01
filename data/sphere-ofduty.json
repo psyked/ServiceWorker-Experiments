@@ -1,0 +1,13 @@
+{
+  "title": "Sphere of Duty",
+  "image": "./img/sphere-ofduty.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "If a green source would deal damage to you, prevent 2 of that damage.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "48",
+  "artist": "Christopher Moeller",
+  "rating": "2.204",
+  "votes": "27"
+}

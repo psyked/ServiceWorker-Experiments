@@ -1,0 +1,13 @@
+{
+  "title": "Ichor Slick",
+  "image": "./img/ichor-slick.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target creature gets -3/-3 until end of turn.Cycling  (, Discard this card: Draw a card.)Madness  (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "expansion": "Duel Decks Anthology, Garruk vs. Liliana",
+  "rarity": "Common",
+  "cardNumber": "51",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "5",
+  "votes": "0"
+}

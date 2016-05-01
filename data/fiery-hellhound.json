@@ -1,0 +1,13 @@
+{
+  "title": "Fiery Hellhound",
+  "image": "./img/fiery-hellhound.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental Hound",
+  "text": ": Fiery Hellhound gets +1/+0 until end of turn.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "284",
+  "artist": "Ted Galaday",
+  "rating": "5",
+  "votes": "0"
+}

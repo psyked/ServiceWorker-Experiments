@@ -1,0 +1,13 @@
+{
+  "title": "Moonbow Illusionist",
+  "image": "./img/moonbow-illusionist.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Moonfolk Wizard",
+  "text": "Flying, Return a land you control to its owner's hand: Target land becomes the basic land type of your choice until end of turn.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "46",
+  "artist": "Dan Frazier",
+  "rating": "1.472",
+  "votes": "36"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Killing Glare",
+  "image": "./img/killing-glare.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Destroy target creature with power X or less.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "70",
+  "artist": "Peter Mohrbacher",
+  "rating": "2.689",
+  "votes": "53"
+}

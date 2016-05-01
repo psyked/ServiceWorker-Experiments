@@ -1,0 +1,13 @@
+{
+  "title": "Stone Giant",
+  "image": "./img/stone-giant.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Giant",
+  "text": ": Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.",
+  "expansion": "Duel Decks: Venser vs. Koth",
+  "rarity": "Uncommon",
+  "cardNumber": "55",
+  "artist": "Warren Mahy",
+  "rating": "3.900",
+  "votes": "15"
+}

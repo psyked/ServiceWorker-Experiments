@@ -1,0 +1,13 @@
+{
+  "title": "Darigaaz's Charm",
+  "image": "./img/darigaazs-charm.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose one —• Return target creature card from your graveyard to your hand.• Darigaaz's Charm deals 3 damage to target creature or player.• Target creature gets +3/+3 until end of turn.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Uncommon",
+  "cardNumber": "59",
+  "artist": "David Martin",
+  "rating": "3.707",
+  "votes": "46"
+}

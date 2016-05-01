@@ -1,0 +1,13 @@
+{
+  "title": "Trace of Abundance",
+  "image": "./img/trace-ofabundance.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landEnchanted land has shroud. (It can't be the target of spells or abilities.)Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).",
+  "expansion": "Alara Reborn",
+  "rarity": "Common",
+  "cardNumber": "142",
+  "artist": "Dave Kendall",
+  "rating": "3.545",
+  "votes": "99"
+}

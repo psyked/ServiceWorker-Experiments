@@ -1,0 +1,13 @@
+{
+  "title": "Lava Spike",
+  "image": "./img/lava-spike.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery  — Arcane",
+  "text": "Lava Spike deals 3 damage to target player.",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "121",
+  "artist": "Mark Tedin",
+  "rating": "4.141",
+  "votes": "39"
+}

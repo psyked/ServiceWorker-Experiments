@@ -1,0 +1,13 @@
+{
+  "title": "Diligent Farmhand",
+  "image": "./img/diligent-farmhand.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Druid",
+  "text": ", Sacrifice Diligent Farmhand: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.If Diligent Farmhand is in a graveyard, effects from spells named Muscle Burst count it as a card named Muscle Burst.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "237",
+  "artist": "Gary Ruddell",
+  "rating": "3.684",
+  "votes": "38"
+}

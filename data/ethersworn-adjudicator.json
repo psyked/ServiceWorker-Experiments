@@ -1,0 +1,13 @@
+{
+  "title": "Ethersworn Adjudicator",
+  "image": "./img/ethersworn-adjudicator.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Vedalken Knight",
+  "text": "Flying, : Destroy target creature or enchantment.: Untap Ethersworn Adjudicator.",
+  "expansion": "Conflux",
+  "rarity": "Mythic Rare",
+  "cardNumber": "26",
+  "artist": "Dan Scott",
+  "rating": "3.792",
+  "votes": "144"
+}

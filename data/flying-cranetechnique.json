@@ -1,0 +1,13 @@
+{
+  "title": "Flying Crane Technique",
+  "image": "./img/flying-cranetechnique.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "Untap all creatures you control. They gain flying and double strike until end of turn.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "176",
+  "artist": "Jack Wang",
+  "rating": "4.000",
+  "votes": "3"
+}

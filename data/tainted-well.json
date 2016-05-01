@@ -1,0 +1,13 @@
+{
+  "title": "Tainted Well",
+  "image": "./img/tainted-well.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landWhen Tainted Well enters the battlefield, draw a card.Enchanted land is a Swamp.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "126",
+  "artist": "Val Mayerik",
+  "rating": "3.111",
+  "votes": "27"
+}

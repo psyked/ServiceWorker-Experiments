@@ -1,0 +1,13 @@
+{
+  "title": "Beacon of Creation",
+  "image": "./img/beacon-ofcreation.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Put a 1/1 green Insect creature token onto the battlefield for each Forest you control. Shuffle Beacon of Creation into its owner's library.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Rare",
+  "cardNumber": "82",
+  "artist": "Mark Tedin",
+  "rating": "4.446",
+  "votes": "56"
+}

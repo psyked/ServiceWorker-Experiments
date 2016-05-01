@@ -1,0 +1,13 @@
+{
+  "title": "Goblin War Strike",
+  "image": "./img/goblin-warstrike.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Goblin War Strike deals damage equal to the number of Goblins you control to target player.",
+  "expansion": "Scourge",
+  "rarity": "Common",
+  "cardNumber": "96",
+  "artist": "Pete Venters",
+  "rating": "4.140",
+  "votes": "68"
+}

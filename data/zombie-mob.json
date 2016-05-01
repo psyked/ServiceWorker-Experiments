@@ -1,0 +1,13 @@
+{
+  "title": "Zombie Mob",
+  "image": "./img/zombie-mob.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie",
+  "text": "Zombie Mob enters the battlefield with a +1/+1 counter on it for each creature card in your graveyard.When Zombie Mob enters the battlefield, exile all creature cards from your graveyard.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Terese Nielsen",
+  "rating": "2.608",
+  "votes": "37"
+}

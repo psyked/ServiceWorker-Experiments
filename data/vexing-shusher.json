@@ -1,0 +1,13 @@
+{
+  "title": "Vexing Shusher",
+  "image": "./img/vexing-shusher.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Shaman",
+  "text": "Vexing Shusher can't be countered.: Target spell can't be countered by spells or abilities.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "222",
+  "artist": "Cyril Van Der Haegen",
+  "rating": "4.397",
+  "votes": "156"
+}

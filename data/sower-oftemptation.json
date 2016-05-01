@@ -1,0 +1,13 @@
+{
+  "title": "Sower of Temptation",
+  "image": "./img/sower-oftemptation.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Faerie Wizard",
+  "text": "FlyingWhen Sower of Temptation enters the battlefield, gain control of target creature for as long as Sower of Temptation remains on the battlefield.",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "88",
+  "artist": "Christopher Moeller",
+  "rating": "4.449",
+  "votes": "98"
+}

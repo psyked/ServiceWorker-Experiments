@@ -1,0 +1,13 @@
+{
+  "title": "Quietus Spike",
+  "image": "./img/quietus-spike.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature has deathtouch.Whenever equipped creature deals combat damage to a player, that player loses half his or her life, rounded up.Equip",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Rare",
+  "cardNumber": "112",
+  "artist": "Mark Brill",
+  "rating": "3.059",
+  "votes": "51"
+}

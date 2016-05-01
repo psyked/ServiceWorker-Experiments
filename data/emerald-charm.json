@@ -1,0 +1,13 @@
+{
+  "title": "Emerald Charm",
+  "image": "./img/emerald-charm.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Choose one —• Untap target permanent.• Destroy target non-Aura enchantment.• Target creature loses flying until end of turn.",
+  "expansion": "Visions",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Greg Spalenka",
+  "rating": "4.390",
+  "votes": "68"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sunspring Expedition",
+  "image": "./img/sunspring-expedition.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment",
+  "text": "Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Sunspring Expedition.Remove three quest counters from Sunspring Expedition and sacrifice it: You gain 8 life.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "37",
+  "artist": "Chris J. Anderson",
+  "rating": "3.309",
+  "votes": "68"
+}

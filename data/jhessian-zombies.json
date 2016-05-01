@@ -1,0 +1,13 @@
+{
+  "title": "Jhessian Zombies",
+  "image": "./img/jhessian-zombies.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Zombie",
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)Islandcycling , swampcycling  (, Discard this card: Search your library for an Island or Swamp card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Ash Wood",
+  "rating": "2.381",
+  "votes": "42"
+}

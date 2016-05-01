@@ -1,0 +1,13 @@
+{
+  "title": "Bred for the Hunt",
+  "image": "./img/bred-forthehunt.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, you may draw a card.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Uncommon",
+  "cardNumber": "59",
+  "artist": "Karl Kopinski",
+  "rating": "3.755",
+  "votes": "49"
+}

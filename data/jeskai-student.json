@@ -1,0 +1,13 @@
+{
+  "title": "Jeskai Student",
+  "image": "./img/jeskai-student.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Monk",
+  "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "14",
+  "artist": "David Gaillet",
+  "rating": "2.667",
+  "votes": "3"
+}

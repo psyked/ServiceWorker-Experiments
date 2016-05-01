@@ -1,0 +1,13 @@
+{
+  "title": "Skirk Prospector",
+  "image": "./img/skirk-prospector.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin",
+  "text": "Sacrifice a Goblin: Add  to your mana pool.",
+  "expansion": "Duel Decks Anthology, Elves vs. Goblins",
+  "rarity": "Common",
+  "cardNumber": "51",
+  "artist": "Doug Chaffee",
+  "rating": "5",
+  "votes": "0"
+}

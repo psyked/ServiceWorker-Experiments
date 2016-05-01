@@ -1,0 +1,13 @@
+{
+  "title": "Iron Will",
+  "image": "./img/iron-will.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets +0/+4 until end of turn.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Urza's Legacy",
+  "rarity": "Common",
+  "cardNumber": "10",
+  "artist": "Val Mayerik",
+  "rating": "2.442",
+  "votes": "26"
+}

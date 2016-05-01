@@ -1,0 +1,13 @@
+{
+  "title": "Trench Wurm",
+  "image": "./img/trench-wurm.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Wurm",
+  "text": ", : Destroy target nonbasic land.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "127",
+  "artist": "Wayne England",
+  "rating": "3.586",
+  "votes": "64"
+}

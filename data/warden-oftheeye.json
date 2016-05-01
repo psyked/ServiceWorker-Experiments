@@ -1,0 +1,13 @@
+{
+  "title": "Warden of the Eye",
+  "image": "./img/warden-oftheeye.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Djinn Wizard",
+  "text": "When Warden of the Eye enters the battlefield, return target noncreature, nonland card from your graveyard to your hand.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "212",
+  "artist": "Howard Lyon",
+  "rating": "3.250",
+  "votes": "2"
+}

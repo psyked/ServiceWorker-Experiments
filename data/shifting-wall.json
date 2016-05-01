@@ -1,0 +1,13 @@
+{
+  "title": "Shifting Wall",
+  "image": "./img/shifting-wall.jpg",
+  "convertedManaCost": "0",
+  "types": "Artifact Creature  — Wall",
+  "text": "Defender (This creature can't attack.)Shifting Wall enters the battlefield with X +1/+1 counters on it.",
+  "expansion": "Stronghold",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Michael Sutfin",
+  "rating": "3.571",
+  "votes": "63"
+}

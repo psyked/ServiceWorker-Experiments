@@ -1,0 +1,13 @@
+{
+  "title": "Pandemonium",
+  "image": "./img/pandemonium.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever a creature enters the battlefield, that creature's controller may have it deal damage equal to its power to target creature or player of his or her choice.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Rare",
+  "cardNumber": "149",
+  "artist": "Pete Venters",
+  "rating": "5",
+  "votes": "0"
+}

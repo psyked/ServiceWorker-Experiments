@@ -1,0 +1,13 @@
+{
+  "title": "Grand Melee",
+  "image": "./img/grand-melee.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "All creatures attack each turn if able.All creatures block each turn if able.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "211",
+  "artist": "Trevor Hairsine",
+  "rating": "3.597",
+  "votes": "31"
+}

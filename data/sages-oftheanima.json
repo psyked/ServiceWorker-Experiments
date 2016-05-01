@@ -1,0 +1,13 @@
+{
+  "title": "Sages of the Anima",
+  "image": "./img/sages-oftheanima.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elf Wizard",
+  "text": "If you would draw a card, instead reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+  "expansion": "Alara Reborn",
+  "rarity": "Rare",
+  "cardNumber": "103",
+  "artist": "Kev Walker",
+  "rating": "2.968",
+  "votes": "95"
+}

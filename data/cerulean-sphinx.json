@@ -1,0 +1,13 @@
+{
+  "title": "Cerulean Sphinx",
+  "image": "./img/cerulean-sphinx.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Sphinx",
+  "text": "Flying: Cerulean Sphinx's owner shuffles it into his or her library.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "39",
+  "artist": "Jim Murray",
+  "rating": "3.094",
+  "votes": "48"
+}

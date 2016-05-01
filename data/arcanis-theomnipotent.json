@@ -1,0 +1,13 @@
+{
+  "title": "Arcanis the Omnipotent",
+  "image": "./img/arcanis-theomnipotent.jpg",
+  "convertedManaCost": "6",
+  "types": "Legendary Creature  — Wizard",
+  "text": ": Draw three cards.: Return Arcanis the Omnipotent to its owner's hand.",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Mythic Rare",
+  "cardNumber": "42",
+  "artist": "Ryan Alexander Lee",
+  "rating": "4.750",
+  "votes": "4"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Serpent Warrior",
+  "image": "./img/serpent-warrior.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Snake Warrior",
+  "text": "When Serpent Warrior enters the battlefield, you lose 3 life.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "117",
+  "artist": "Ron Spencer",
+  "rating": "5",
+  "votes": "0"
+}

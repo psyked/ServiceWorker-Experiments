@@ -1,0 +1,13 @@
+{
+  "title": "Aegis Angel",
+  "image": "./img/aegis-angel.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Angel",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)When Aegis Angel enters the battlefield, another target permanent gains indestructible for as long as you control Aegis Angel. (Effects that say \"destroy\" don't destroy it. A creature with indestructible can't be destroyed by damage.)",
+  "expansion": "Welcome Deck 2016",
+  "rarity": "Rare",
+  "cardNumber": "1",
+  "artist": "Aleksi Briclot",
+  "rating": "5",
+  "votes": "0"
+}

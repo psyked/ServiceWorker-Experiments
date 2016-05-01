@@ -1,0 +1,13 @@
+{
+  "title": "Undead Slayer",
+  "image": "./img/undead-slayer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": ", : Exile target Skeleton, Vampire, or Zombie.",
+  "expansion": "Magic 2010",
+  "rarity": "Uncommon",
+  "cardNumber": "37",
+  "artist": "Eric Fortune",
+  "rating": "3.586",
+  "votes": "76"
+}

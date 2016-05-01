@@ -1,0 +1,13 @@
+{
+  "title": "Citadel of Pain",
+  "image": "./img/citadel-ofpain.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of each player's end step, Citadel of Pain deals X damage to that player, where X is the number of untapped lands he or she controls.",
+  "expansion": "Prophecy",
+  "rarity": "Uncommon",
+  "cardNumber": "86",
+  "artist": "Darrell Riche",
+  "rating": "2.697",
+  "votes": "38"
+}

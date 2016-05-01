@@ -1,0 +1,13 @@
+{
+  "title": "Release the Ants",
+  "image": "./img/release-theants.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Release the Ants deals 1 damage to target creature or player. Clash with an opponent. If you win, return Release the Ants to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",
+  "expansion": "Morningtide",
+  "rarity": "Uncommon",
+  "cardNumber": "98",
+  "artist": "Ron Spencer",
+  "rating": "2.658",
+  "votes": "38"
+}

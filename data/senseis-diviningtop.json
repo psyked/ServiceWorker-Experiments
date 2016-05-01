@@ -1,0 +1,13 @@
+{
+  "title": "Sensei's Divining Top",
+  "image": "./img/senseis-diviningtop.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ": Look at the top three cards of your library, then put them back in any order.: Draw a card, then put Sensei's Divining Top on top of its owner's library.",
+  "expansion": "From the Vault: Exiled",
+  "rarity": "Mythic Rare",
+  "cardNumber": "10",
+  "artist": "Michael Sutfin",
+  "rating": "4.588",
+  "votes": "277"
+}

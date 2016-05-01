@@ -1,0 +1,13 @@
+{
+  "title": "Reborn Hero",
+  "image": "./img/reborn-hero.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "VigilanceThreshold — As long as seven or more cards are in your graveyard, Reborn Hero has \"When Reborn Hero dies, you may pay . If you do, return Reborn Hero to the battlefield under your control.\"",
+  "expansion": "Torment",
+  "rarity": "Rare",
+  "cardNumber": "14",
+  "artist": "Gary Ruddell",
+  "rating": "3.744",
+  "votes": "43"
+}

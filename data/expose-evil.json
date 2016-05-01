@@ -1,0 +1,13 @@
+{
+  "title": "Expose Evil",
+  "image": "./img/expose-evil.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Tap up to two target creatures.Investigate. (Put a colorless Clue artifact token onto the battlefield with \", Sacrifice this artifact: Draw a card.\")",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "19",
+  "artist": "Jama Jurabaev",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Aboshan's Desire",
+  "image": "./img/aboshans-desire.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has flying.Threshold — Enchanted creature has shroud as long as seven or more cards are in your graveyard. (It can't be the target of spells or abilities.)",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "59",
+  "artist": "Ciruelo",
+  "rating": "3.105",
+  "votes": "43"
+}

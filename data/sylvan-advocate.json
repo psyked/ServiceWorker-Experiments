@@ -1,0 +1,13 @@
+{
+  "title": "Sylvan Advocate",
+  "image": "./img/sylvan-advocate.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Druid Ally",
+  "text": "VigilanceAs long as you control six or more lands, Sylvan Advocate and land creatures you control get +2/+2.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Rare",
+  "cardNumber": "144",
+  "artist": "Volkan Baga",
+  "rating": "5",
+  "votes": "0"
+}

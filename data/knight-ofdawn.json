@@ -1,0 +1,13 @@
+{
+  "title": "Knight of Dawn",
+  "image": "./img/knight-ofdawn.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "First strike: Knight of Dawn gains protection from the color of your choice until end of turn.",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Ron Spencer",
+  "rating": "3.745",
+  "votes": "51"
+}

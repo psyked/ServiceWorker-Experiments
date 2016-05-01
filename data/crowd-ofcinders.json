@@ -1,0 +1,13 @@
+{
+  "title": "Crowd of Cinders",
+  "image": "./img/crowd-ofcinders.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elemental",
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)Crowd of Cinders's power and toughness are each equal to the number of black permanents you control.",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "63",
+  "artist": "Carl Frank",
+  "rating": "3.417",
+  "votes": "42"
+}

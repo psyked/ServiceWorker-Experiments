@@ -1,0 +1,13 @@
+{
+  "title": "Rakavolver",
+  "image": "./img/rakavolver.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Volver",
+  "text": "Kicker  and/or  (You may pay an additional  and/or  as you cast this spell.)If Rakavolver was kicked with its  kicker, it enters the battlefield with two +1/+1 counters on it and with \"Whenever Rakavolver deals damage, you gain that much life.\"If Rakavolver was kicked with its  kicker, it enters the battlefield with a +1/+1 counter on it and with flying.",
+  "expansion": "Apocalypse",
+  "rarity": "Rare",
+  "cardNumber": "68",
+  "artist": "Scott M. Fischer",
+  "rating": "4.192",
+  "votes": "52"
+}

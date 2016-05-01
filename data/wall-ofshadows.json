@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Shadows",
+  "image": "./img/wall-ofshadows.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)Prevent all damage that would be dealt to Wall of Shadows by creatures it's blocking.Wall of Shadows can't be the target of spells that can target only Walls or of abilities that can target only Walls.",
+  "expansion": "Chronicles",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Pete Venters",
+  "rating": "3.367",
+  "votes": "60"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Reito Lantern",
+  "image": "./img/reito-lantern.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ": Put target card from a graveyard on the bottom of its owner's library.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Uncommon",
+  "cardNumber": "202",
+  "artist": "Greg Hildebrandt",
+  "rating": "3.167",
+  "votes": "3"
+}

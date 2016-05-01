@@ -1,0 +1,13 @@
+{
+  "title": "Warren Pilferers",
+  "image": "./img/warren-pilferers.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Goblin Rogue",
+  "text": "When Warren Pilferers enters the battlefield, return target creature card from your graveyard to your hand. If that card is a Goblin card, Warren Pilferers gains haste until end of turn.",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "103",
+  "artist": "Wayne Reynolds",
+  "rating": "2.893",
+  "votes": "14"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sedge Troll",
+  "image": "./img/sedge-troll.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Troll",
+  "text": "Sedge Troll gets +1/+1 as long as you control a Swamp.: Regenerate Sedge Troll.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "135",
+  "artist": "Dan Frazier",
+  "rating": "4.190",
+  "votes": "50"
+}

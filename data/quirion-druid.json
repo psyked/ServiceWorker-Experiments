@@ -1,0 +1,13 @@
+{
+  "title": "Quirion Druid",
+  "image": "./img/quirion-druid.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Druid",
+  "text": ", : Target land becomes a 2/2 green creature that's still a land. (This effect lasts indefinitely.)",
+  "expansion": "Visions",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "John Matson",
+  "rating": "3.161",
+  "votes": "31"
+}

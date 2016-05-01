@@ -1,0 +1,13 @@
+{
+  "title": "Wake of Destruction",
+  "image": "./img/wake-ofdestruction.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Destroy target land and all other lands with the same name as that land.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Rare",
+  "cardNumber": "99",
+  "artist": "Todd Lockwood",
+  "rating": "4.325",
+  "votes": "83"
+}

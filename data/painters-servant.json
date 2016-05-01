@@ -1,0 +1,13 @@
+{
+  "title": "Painter's Servant",
+  "image": "./img/painters-servant.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Scarecrow",
+  "text": "As Painter's Servant enters the battlefield, choose a color.All cards that aren't on the battlefield, spells, and permanents are the chosen color in addition to their other colors.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "257",
+  "artist": "Mike Dringenberg",
+  "rating": "4.583",
+  "votes": "278"
+}

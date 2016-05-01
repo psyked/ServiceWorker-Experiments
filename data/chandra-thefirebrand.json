@@ -1,0 +1,13 @@
+{
+  "title": "Chandra, the Firebrand",
+  "image": "./img/chandra-thefirebrand.jpg",
+  "convertedManaCost": "4",
+  "types": "Planeswalker  — Chandra",
+  "text": "+1: Chandra, the Firebrand deals 1 damage to target creature or player.−2: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.−6: Chandra, the Firebrand deals 6 damage to each of up to six target creatures and/or players.",
+  "expansion": "Magic 2013",
+  "rarity": "Mythic Rare",
+  "cardNumber": "123",
+  "artist": "D. Alexander Gregory",
+  "rating": "4.211",
+  "votes": "159"
+}

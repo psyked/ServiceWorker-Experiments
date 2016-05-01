@@ -1,0 +1,13 @@
+{
+  "title": "Knight of the Pilgrim's Road",
+  "image": "./img/knight-ofthepilgrimsroad.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "20",
+  "artist": "David Gaillet",
+  "rating": "5",
+  "votes": "0"
+}

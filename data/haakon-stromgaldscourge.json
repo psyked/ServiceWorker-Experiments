@@ -1,0 +1,13 @@
+{
+  "title": "Haakon, Stromgald Scourge",
+  "image": "./img/haakon-stromgaldscourge.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Creature  — Zombie Knight",
+  "text": "You may cast Haakon, Stromgald Scourge from your graveyard, but not from anywhere else.As long as Haakon is on the battlefield, you may play Knight cards from your graveyard.When Haakon dies, you lose 2 life.",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "61",
+  "artist": "Mark Zug",
+  "rating": "4.004",
+  "votes": "112"
+}

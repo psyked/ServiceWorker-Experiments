@@ -1,0 +1,13 @@
+{
+  "title": "Phantasmal Terrain",
+  "image": "./img/phantasmal-terrain.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landAs Phantasmal Terrain enters the battlefield, choose a basic land type.Enchanted land is the chosen type.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Dameon Willich",
+  "rating": "3.000",
+  "votes": "27"
+}

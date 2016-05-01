@@ -1,0 +1,13 @@
+{
+  "title": "Shield of the Righteous",
+  "image": "./img/shield-oftherighteous.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +0/+2 and has vigilance.Whenever equipped creature blocks a creature, that creature doesn't untap during its controller's next untap step.Equip",
+  "expansion": "Alara Reborn",
+  "rarity": "Uncommon",
+  "cardNumber": "11",
+  "artist": "David Palumbo",
+  "rating": "3.013",
+  "votes": "78"
+}

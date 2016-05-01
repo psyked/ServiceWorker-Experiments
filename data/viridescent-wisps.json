@@ -1,0 +1,13 @@
+{
+  "title": "Viridescent Wisps",
+  "image": "./img/viridescent-wisps.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature becomes green and gets +1/+0 until end of turn.Draw a card.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "132",
+  "artist": "Jim Nelson",
+  "rating": "2.329",
+  "votes": "35"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Stubborn Denial",
+  "image": "./img/stubborn-denial.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Counter target noncreature spell unless its controller pays .Ferocious — If you control a creature with power 4 or greater, counter that spell instead.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "56",
+  "artist": "James Ryman",
+  "rating": "2.750",
+  "votes": "2"
+}

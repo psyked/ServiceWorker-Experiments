@@ -1,0 +1,13 @@
+{
+  "title": "Drana's Emissary",
+  "image": "./img/dranas-emissary.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vampire Cleric Ally",
+  "text": "FlyingAt the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "210",
+  "artist": "Karl Kopinski",
+  "rating": "5",
+  "votes": "0"
+}

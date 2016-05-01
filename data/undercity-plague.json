@@ -1,0 +1,13 @@
+{
+  "title": "Undercity Plague",
+  "image": "./img/undercity-plague.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Target player loses 1 life, discards a card, then sacrifices a permanent.Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "83",
+  "artist": "Vincent Proce",
+  "rating": "3.127",
+  "votes": "67"
+}

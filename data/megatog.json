@@ -1,0 +1,13 @@
+{
+  "title": "Megatog",
+  "image": "./img/megatog.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Atog",
+  "text": "Sacrifice an artifact: Megatog gets +3/+3 and gains trample until end of turn.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "100",
+  "artist": "Pete Venters",
+  "rating": "4.086",
+  "votes": "58"
+}

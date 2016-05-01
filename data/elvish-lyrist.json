@@ -1,0 +1,13 @@
+{
+  "title": "Elvish Lyrist",
+  "image": "./img/elvish-lyrist.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf",
+  "text": ", , Sacrifice Elvish Lyrist: Destroy target enchantment.",
+  "expansion": "Eighth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "242",
+  "artist": "Michael Koelsch",
+  "rating": "3.306",
+  "votes": "36"
+}

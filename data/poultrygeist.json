@@ -1,0 +1,13 @@
+{
+  "title": "Poultrygeist",
+  "image": "./img/poultrygeist.jpg",
+  "convertedManaCost": "3",
+  "types": "Summon — Chicken",
+  "text": "FlyingWhenever a creature is put into any graveyard from play, you may roll a six-sided die. On a 1, sacrifice Poultrygeist. Otherwise, put a +1/+1 counter on Poultrygeist.",
+  "expansion": "Unglued",
+  "rarity": "Common",
+  "cardNumber": "37",
+  "artist": "Daren Bader",
+  "rating": "3.000",
+  "votes": "15"
+}

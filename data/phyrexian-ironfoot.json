@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Ironfoot",
+  "image": "./img/phyrexian-ironfoot.jpg",
+  "convertedManaCost": "3",
+  "types": "Snow Artifact Creature  — Construct",
+  "text": "Phyrexian Ironfoot doesn't untap during your untap step.: Untap Phyrexian Ironfoot. ( can be paid with one mana from a snow permanent.)",
+  "expansion": "Coldsnap",
+  "rarity": "Uncommon",
+  "cardNumber": "139",
+  "artist": "Stephan Martiniere",
+  "rating": "3.756",
+  "votes": "43"
+}

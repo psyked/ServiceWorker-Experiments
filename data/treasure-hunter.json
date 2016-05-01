@@ -1,0 +1,13 @@
+{
+  "title": "Treasure Hunter",
+  "image": "./img/treasure-hunter.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human",
+  "text": "When Treasure Hunter enters the battlefield, you may return target artifact card from your graveyard to your hand.",
+  "expansion": "Tenth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "52",
+  "artist": "Adam Rex",
+  "rating": "3.603",
+  "votes": "29"
+}

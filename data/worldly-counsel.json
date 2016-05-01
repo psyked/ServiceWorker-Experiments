@@ -1,0 +1,13 @@
+{
+  "title": "Worldly Counsel",
+  "image": "./img/worldly-counsel.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Domain — Look at the top X cards of your library, where X is the number of basic land types among lands you control. Put one of those cards into your hand and the rest on the bottom of your library in any order.",
+  "expansion": "Conflux",
+  "rarity": "Common",
+  "cardNumber": "39",
+  "artist": "Matt Cavotta",
+  "rating": "2.934",
+  "votes": "53"
+}

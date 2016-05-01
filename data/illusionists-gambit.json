@@ -1,0 +1,13 @@
+{
+  "title": "Illusionist's Gambit",
+  "image": "./img/illusionists-gambit.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Cast Illusionist's Gambit only during the declare blockers step on an opponent's turn.Remove all attacking creatures from combat and untap them. After this phase, there is an additional combat phase. Each of those creatures attacks that combat if able. They can't attack you or a planeswalker you control that combat.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "47",
+  "artist": "Zoltan Boros",
+  "rating": "3.829",
+  "votes": "35"
+}

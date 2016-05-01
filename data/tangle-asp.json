@@ -1,0 +1,13 @@
+{
+  "title": "Tangle Asp",
+  "image": "./img/tangle-asp.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Snake",
+  "text": "Whenever Tangle Asp blocks or becomes blocked by a creature, destroy that creature at end of combat.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "94",
+  "artist": "Daren Bader",
+  "rating": "3.880",
+  "votes": "46"
+}

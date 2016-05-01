@@ -1,0 +1,13 @@
+{
+  "title": "Well of Lost Dreams",
+  "image": "./img/well-oflostdreams.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "Whenever you gain life, you may pay , where X is less than or equal to the amount of life you gained. If you do, draw X cards.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "271",
+  "artist": "Jeff Miracola",
+  "rating": "3.795",
+  "votes": "22"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Birthing Pod",
+  "image": "./img/birthing-pod.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "( can be paid with either  or 2 life.), , Sacrifice a creature: Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "New Phyrexia",
+  "rarity": "Rare",
+  "cardNumber": "104",
+  "artist": "Daarken",
+  "rating": "3.801",
+  "votes": "196"
+}

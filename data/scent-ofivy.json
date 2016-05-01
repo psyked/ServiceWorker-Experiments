@@ -1,0 +1,13 @@
+{
+  "title": "Scent of Ivy",
+  "image": "./img/scent-ofivy.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Reveal any number of green cards in your hand. Target creature gets +X/+X until end of turn, where X is the number of cards revealed this way.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "120",
+  "artist": "John Avon",
+  "rating": "2.952",
+  "votes": "31"
+}

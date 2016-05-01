@@ -1,0 +1,13 @@
+{
+  "title": "Misery Charm",
+  "image": "./img/misery-charm.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Choose one —• Destroy target Cleric.• Return target Cleric card from your graveyard to your hand.• Target player loses 2 life.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "158",
+  "artist": "David Martin",
+  "rating": "3.412",
+  "votes": "40"
+}

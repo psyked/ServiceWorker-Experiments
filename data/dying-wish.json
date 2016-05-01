@@ -1,0 +1,13 @@
+{
+  "title": "Dying Wish",
+  "image": "./img/dying-wish.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature you controlWhen enchanted creature dies, target player loses X life and you gain X life, where X is its power.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "64",
+  "artist": "Scott Chou",
+  "rating": "2.815",
+  "votes": "54"
+}

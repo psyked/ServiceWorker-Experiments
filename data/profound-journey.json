@@ -1,0 +1,13 @@
+{
+  "title": "Profound Journey",
+  "image": "./img/profound-journey.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "Return target permanent card from your graveyard to the battlefield.Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "30",
+  "artist": "Tomasz Jedruszek",
+  "rating": "5",
+  "votes": "0"
+}

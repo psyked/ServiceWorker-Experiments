@@ -1,0 +1,13 @@
+{
+  "title": "Dross Harvester",
+  "image": "./img/dross-harvester.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Horror",
+  "text": "Protection from whiteAt the beginning of your end step, you lose 4 life.Whenever a creature dies, you gain 2 life.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "63",
+  "artist": "Michael Sutfin",
+  "rating": "3.769",
+  "votes": "52"
+}

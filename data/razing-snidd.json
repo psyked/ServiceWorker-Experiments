@@ -1,0 +1,13 @@
+{
+  "title": "Razing Snidd",
+  "image": "./img/razing-snidd.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Beast",
+  "text": "When Razing Snidd enters the battlefield, return a black or red creature you control to its owner's hand.When Razing Snidd enters the battlefield, each player sacrifices a land.",
+  "expansion": "Planeshift",
+  "rarity": "Uncommon",
+  "cardNumber": "121",
+  "artist": "Alan Pollack",
+  "rating": "1.649",
+  "votes": "37"
+}

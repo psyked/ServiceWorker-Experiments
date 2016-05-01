@@ -1,0 +1,13 @@
+{
+  "title": "Silklash Spider",
+  "image": "./img/silklash-spider.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spider",
+  "text": "Reach: Silklash Spider deals X damage to each creature with flying.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "214",
+  "artist": "Iain McCaig",
+  "rating": "5",
+  "votes": "0"
+}

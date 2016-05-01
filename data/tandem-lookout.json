@@ -1,0 +1,13 @@
+{
+  "title": "Tandem Lookout",
+  "image": "./img/tandem-lookout.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Scout",
+  "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)As long as Tandem Lookout is paired with another creature, each of those creatures has \"Whenever this creature deals damage to an opponent, draw a card.\"",
+  "expansion": "Duel Decks: Blessed vs. Cursed",
+  "rarity": "Uncommon",
+  "cardNumber": "29",
+  "artist": "Kev Walker",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Syphon Life",
+  "image": "./img/syphon-life.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target player loses 2 life and you gain 2 life.Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "100",
+  "artist": "Dan Seagrave",
+  "rating": "3.300",
+  "votes": "15"
+}

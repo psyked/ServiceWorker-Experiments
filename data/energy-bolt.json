@@ -1,0 +1,13 @@
+{
+  "title": "Energy Bolt",
+  "image": "./img/energy-bolt.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Choose one —• Energy Bolt deals X damage to target player.• Target player gains X life.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Scott Kirschner",
+  "rating": "3.205",
+  "votes": "56"
+}

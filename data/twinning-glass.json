@@ -1,0 +1,13 @@
+{
+  "title": "Twinning Glass",
+  "image": "./img/twinning-glass.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ", : You may cast a nonland card from your hand without paying its mana cost if it has the same name as a spell that was cast this turn.",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "264",
+  "artist": "Franz Vohwinkel",
+  "rating": "2.539",
+  "votes": "38"
+}

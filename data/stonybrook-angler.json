@@ -1,0 +1,13 @@
+{
+  "title": "Stonybrook Angler",
+  "image": "./img/stonybrook-angler.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk Wizard",
+  "text": ", : You may tap or untap target creature.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "90",
+  "artist": "Larry MacDougall",
+  "rating": "2.885",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Tiger Claws",
+  "image": "./img/tiger-claws.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "FlashEnchant creatureEnchanted creature gets +1/+1 and has trample.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "279",
+  "artist": "Adam Rex",
+  "rating": "3.460",
+  "votes": "25"
+}

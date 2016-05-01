@@ -1,0 +1,13 @@
+{
+  "title": "Ravenous Rats",
+  "image": "./img/ravenous-rats.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Rat",
+  "text": "When Ravenous Rats enters the battlefield, target opponent discards a card.",
+  "expansion": "Duel Decks Anthology, Garruk vs. Liliana",
+  "rarity": "Common",
+  "cardNumber": "37",
+  "artist": "Carl Critchlow",
+  "rating": "5",
+  "votes": "0"
+}

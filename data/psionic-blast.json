@@ -1,0 +1,13 @@
+{
+  "title": "Psionic Blast",
+  "image": "./img/psionic-blast.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Psionic Blast deals 4 damage to target creature or player and 2 damage to you.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "30",
+  "artist": "Douglas Shuler",
+  "rating": "4.265",
+  "votes": "85"
+}

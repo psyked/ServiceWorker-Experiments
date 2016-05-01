@@ -1,0 +1,13 @@
+{
+  "title": "Reclamation",
+  "image": "./img/reclamation.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Black creatures can't attack unless their controller sacrifices a land for each black creature he or she controls that's attacking. (This cost is paid as attackers are declared.)",
+  "expansion": "Ice Age",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Dameon Willich",
+  "rating": "3.423",
+  "votes": "39"
+}

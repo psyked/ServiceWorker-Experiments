@@ -1,0 +1,13 @@
+{
+  "title": "Oxidda Golem",
+  "image": "./img/oxidda-golem.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Golem",
+  "text": "Affinity for Mountains (This spell costs  less to cast for each Mountain you control.)Haste",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Common",
+  "cardNumber": "46",
+  "artist": "Greg Staples",
+  "rating": "5",
+  "votes": "0"
+}

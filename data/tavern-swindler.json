@@ -1,0 +1,13 @@
+{
+  "title": "Tavern Swindler",
+  "image": "./img/tavern-swindler.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Rogue",
+  "text": ", Pay 3 life: Flip a coin. If you win the flip, you gain 6 life.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Uncommon",
+  "cardNumber": "45",
+  "artist": "Cynthia Sheppard",
+  "rating": "3.375",
+  "votes": "12"
+}

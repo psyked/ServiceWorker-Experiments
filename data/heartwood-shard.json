@@ -1,0 +1,13 @@
+{
+  "title": "Heartwood Shard",
+  "image": "./img/heartwood-shard.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ",  or , : Target creature gains trample until end of turn.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "184",
+  "artist": "Doug Chaffee",
+  "rating": "1.732",
+  "votes": "28"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Pilgrim's Eye",
+  "image": "./img/pilgrims-eye.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Thopter",
+  "text": "FlyingWhen Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "226",
+  "artist": "Dan Scott",
+  "rating": "5",
+  "votes": "0"
+}

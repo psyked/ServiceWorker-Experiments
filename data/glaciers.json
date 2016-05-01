@@ -1,0 +1,13 @@
+{
+  "title": "Glaciers",
+  "image": "./img/glaciers.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, sacrifice Glaciers unless you pay .All Mountains are Plains.",
+  "expansion": "Ice Age",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Mark Tedin",
+  "rating": "2.943",
+  "votes": "35"
+}

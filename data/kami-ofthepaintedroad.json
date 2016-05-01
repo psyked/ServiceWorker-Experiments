@@ -1,0 +1,13 @@
+{
+  "title": "Kami of the Painted Road",
+  "image": "./img/kami-ofthepaintedroad.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit",
+  "text": "Whenever you cast a Spirit or Arcane spell, Kami of the Painted Road gains protection from the color of your choice until end of turn.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "23",
+  "artist": "Ron Spencer",
+  "rating": "1.630",
+  "votes": "27"
+}

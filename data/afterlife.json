@@ -1,0 +1,13 @@
+{
+  "title": "Afterlife",
+  "image": "./img/afterlife.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Destroy target creature. It can't be regenerated. Its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "expansion": "Commander 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "64",
+  "artist": "Brian Snoddy",
+  "rating": "5",
+  "votes": "0"
+}

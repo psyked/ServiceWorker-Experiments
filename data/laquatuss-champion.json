@@ -1,0 +1,13 @@
+{
+  "title": "Laquatus's Champion",
+  "image": "./img/laquatuss-champion.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Nightmare Horror",
+  "text": "When Laquatus's Champion enters the battlefield, target player loses 6 life.When Laquatus's Champion leaves the battlefield, that player gains 6 life.: Regenerate Laquatus's Champion.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "125",
+  "artist": "Greg Staples",
+  "rating": "4.500",
+  "votes": "1"
+}

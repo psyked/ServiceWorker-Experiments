@@ -1,0 +1,13 @@
+{
+  "title": "Pharika's Mender",
+  "image": "./img/pharikas-mender.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Gorgon",
+  "text": "When Pharika's Mender enters the battlefield, you may return target creature or enchantment card from your graveyard to your hand.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "197",
+  "artist": "Peter Mohrbacher",
+  "rating": "3.526",
+  "votes": "38"
+}

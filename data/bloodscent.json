@@ -1,0 +1,13 @@
+{
+  "title": "Bloodscent",
+  "image": "./img/bloodscent.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "All creatures able to block target creature this turn do so.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "114",
+  "artist": "Matt Cavotta",
+  "rating": "1.649",
+  "votes": "37"
+}

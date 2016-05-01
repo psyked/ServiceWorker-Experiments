@@ -1,0 +1,13 @@
+{
+  "title": "Double Cleave",
+  "image": "./img/double-cleave.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)",
+  "expansion": "Planechase",
+  "rarity": "Common",
+  "cardNumber": "100",
+  "artist": "rk post",
+  "rating": "3.915",
+  "votes": "65"
+}

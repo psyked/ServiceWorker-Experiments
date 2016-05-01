@@ -1,0 +1,13 @@
+{
+  "title": "Harness by Force",
+  "image": "./img/harness-byforce.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Strive — Harness by Force costs  more to cast for each target beyond the first.Gain control of any number of target creatures until end of turn. Untap those creatures. They gain haste until end of turn.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Rare",
+  "cardNumber": "100",
+  "artist": "Yefim Kligerman",
+  "rating": "3.704",
+  "votes": "27"
+}

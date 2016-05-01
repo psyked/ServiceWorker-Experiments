@@ -1,0 +1,13 @@
+{
+  "title": "Uktabi Efreet",
+  "image": "./img/uktabi-efreet.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Efreet",
+  "text": "Cumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+  "expansion": "Weatherlight",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Alan Rabinowitz",
+  "rating": "2.351",
+  "votes": "37"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Zameck Guildmage",
+  "image": "./img/zameck-guildmage.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Wizard",
+  "text": ": This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it., Remove a +1/+1 counter from a creature you control: Draw a card.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "209",
+  "artist": "Chase Stone",
+  "rating": "3.772",
+  "votes": "90"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Cerebral Vortex",
+  "image": "./img/cerebral-vortex.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Target player draws two cards, then Cerebral Vortex deals damage to that player equal to the number of cards he or she has drawn this turn.",
+  "expansion": "Guildpact",
+  "rarity": "Rare",
+  "cardNumber": "107",
+  "artist": "Jeremy Jarvis",
+  "rating": "3.808",
+  "votes": "65"
+}

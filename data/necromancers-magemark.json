@@ -1,0 +1,13 @@
+{
+  "title": "Necromancer's Magemark",
+  "image": "./img/necromancers-magemark.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureCreatures you control that are enchanted get +1/+1.If a creature you control that's enchanted would die, return it to its owner's hand instead.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "53",
+  "artist": "Brandon Kitkouski",
+  "rating": "3.449",
+  "votes": "39"
+}

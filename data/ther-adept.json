@@ -1,0 +1,13 @@
+{
+  "title": "Æther Adept",
+  "image": "./img/ther-adept.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "When Æther Adept enters the battlefield, return target creature to its owner's hand.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Common",
+  "cardNumber": "12",
+  "artist": "Eric Deschamps",
+  "rating": "3.700",
+  "votes": "10"
+}

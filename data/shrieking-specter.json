@@ -1,0 +1,13 @@
+{
+  "title": "Shrieking Specter",
+  "image": "./img/shrieking-specter.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Specter",
+  "text": "FlyingWhenever Shrieking Specter attacks, defending player discards a card.",
+  "expansion": "Starter 1999",
+  "rarity": "Uncommon",
+  "cardNumber": "89",
+  "artist": "rk post",
+  "rating": "1.354",
+  "votes": "41"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Soltari Priest",
+  "image": "./img/soltari-priest.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Soltari Cleric",
+  "text": "Protection from redShadow (This creature can block or be blocked by only creatures with shadow.)",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "32",
+  "artist": "Janet Aulisio",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Jovial Evil",
+  "image": "./img/jovial-evil.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Jovial Evil deals X damage to target opponent, where X is twice the number of white creatures that player controls.",
+  "expansion": "Legends",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Christopher Rush",
+  "rating": "3.295",
+  "votes": "39"
+}

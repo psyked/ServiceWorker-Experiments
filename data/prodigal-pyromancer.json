@@ -1,0 +1,13 @@
+{
+  "title": "Prodigal Pyromancer",
+  "image": "./img/prodigal-pyromancer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": ": Prodigal Pyromancer deals 1 damage to target creature or player.",
+  "expansion": "Magic 2011",
+  "rarity": "Uncommon",
+  "cardNumber": "152",
+  "artist": "Jeremy Jarvis",
+  "rating": "3.428",
+  "votes": "69"
+}

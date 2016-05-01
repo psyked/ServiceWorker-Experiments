@@ -1,0 +1,13 @@
+{
+  "title": "Glissa's Scorn",
+  "image": "./img/glissas-scorn.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Destroy target artifact. Its controller loses 1 life.",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "110",
+  "artist": "Nils Hamm",
+  "rating": "3.301",
+  "votes": "68"
+}

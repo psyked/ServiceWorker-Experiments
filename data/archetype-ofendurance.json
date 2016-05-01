@@ -1,0 +1,13 @@
+{
+  "title": "Archetype of Endurance",
+  "image": "./img/archetype-ofendurance.jpg",
+  "convertedManaCost": "8",
+  "types": "Enchantment Creature  — Boar",
+  "text": "Creatures you control have hexproof.Creatures your opponents control lose hexproof and can't have or gain hexproof.",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "116",
+  "artist": "Slawomir Maniak",
+  "rating": "3.118",
+  "votes": "51"
+}

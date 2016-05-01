@@ -1,0 +1,13 @@
+{
+  "title": "Victory's Herald",
+  "image": "./img/victorys-herald.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Angel",
+  "text": "FlyingWhenever Victory's Herald attacks, attacking creatures gain flying and lifelink until end of turn.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "83",
+  "artist": "rk post",
+  "rating": "5",
+  "votes": "0"
+}

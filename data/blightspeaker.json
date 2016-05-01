@@ -1,0 +1,13 @@
+{
+  "title": "Blightspeaker",
+  "image": "./img/blightspeaker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Rebel Cleric",
+  "text": ": Target player loses 1 life., : Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "73",
+  "artist": "Ron Spears",
+  "rating": "3.824",
+  "votes": "17"
+}

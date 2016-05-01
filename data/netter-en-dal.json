@@ -1,0 +1,13 @@
+{
+  "title": "Netter en-Dal",
+  "image": "./img/netter-en-dal.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Spellshaper",
+  "text": ", , Discard a card: Target creature can't attack this turn.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "13",
+  "artist": "Matt Cavotta",
+  "rating": "2.395",
+  "votes": "19"
+}

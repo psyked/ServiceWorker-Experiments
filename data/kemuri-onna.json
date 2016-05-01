@@ -1,0 +1,13 @@
+{
+  "title": "Kemuri-Onna",
+  "image": "./img/kemuri-onna.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit",
+  "text": "When Kemuri-Onna enters the battlefield, target player discards a card.Whenever you cast a Spirit or Arcane spell, you may return Kemuri-Onna to its owner's hand.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "76",
+  "artist": "Ittoku",
+  "rating": "2.200",
+  "votes": "30"
+}

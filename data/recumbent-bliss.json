@@ -1,0 +1,13 @@
+{
+  "title": "Recumbent Bliss",
+  "image": "./img/recumbent-bliss.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature can't attack or block.At the beginning of your upkeep, you may gain 1 life.",
+  "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+  "rarity": "Common",
+  "cardNumber": "26",
+  "artist": "Todd Lockwood",
+  "rating": "3.232",
+  "votes": "28"
+}

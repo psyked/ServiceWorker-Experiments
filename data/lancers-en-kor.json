@@ -1,0 +1,13 @@
+{
+  "title": "Lancers en-Kor",
+  "image": "./img/lancers-en-kor.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Kor Soldier",
+  "text": "Trample: The next 1 damage that would be dealt to Lancers en-Kor this turn is dealt to target creature you control instead.",
+  "expansion": "Stronghold",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Pete Venters",
+  "rating": "3.426",
+  "votes": "27"
+}

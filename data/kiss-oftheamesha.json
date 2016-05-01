@@ -1,0 +1,13 @@
+{
+  "title": "Kiss of the Amesha",
+  "image": "./img/kiss-oftheamesha.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Target player gains 7 life and draws two cards.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "177",
+  "artist": "Todd Lockwood",
+  "rating": "3.021",
+  "votes": "73"
+}

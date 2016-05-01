@@ -1,0 +1,13 @@
+{
+  "title": "Ore Gorger",
+  "image": "./img/ore-gorger.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit",
+  "text": "Whenever you cast a Spirit or Arcane spell, you may destroy target nonbasic land.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "182",
+  "artist": "rk post",
+  "rating": "2.338",
+  "votes": "34"
+}

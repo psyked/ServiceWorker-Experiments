@@ -1,0 +1,13 @@
+{
+  "title": "Volrath the Fallen",
+  "image": "./img/volrath-thefallen.jpg",
+  "convertedManaCost": "6",
+  "types": "Legendary Creature  — Shapeshifter",
+  "text": ", Discard a creature card: Volrath the Fallen gets +X/+X until end of turn, where X is the discarded card's converted mana cost.",
+  "expansion": "Nemesis",
+  "rarity": "Rare",
+  "cardNumber": "75",
+  "artist": "Kev Walker",
+  "rating": "4.125",
+  "votes": "92"
+}

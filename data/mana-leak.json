@@ -1,0 +1,13 @@
+{
+  "title": "Mana Leak",
+  "image": "./img/mana-leak.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Counter target spell unless its controller pays .",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "50",
+  "artist": "Howard Lyon",
+  "rating": "5",
+  "votes": "0"
+}

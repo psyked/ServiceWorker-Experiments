@@ -1,0 +1,13 @@
+{
+  "title": "Fearsome Awakening",
+  "image": "./img/fearsome-awakening.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Return target creature card from your graveyard to the battlefield. If it's a Dragon, put two +1/+1 counters on it.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "69",
+  "artist": "Véronique Meignaud",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Zendikar Farguide",
+  "image": "./img/zendikar-farguide.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental",
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "194",
+  "artist": "Vincent Proce",
+  "rating": "1.321",
+  "votes": "67"
+}

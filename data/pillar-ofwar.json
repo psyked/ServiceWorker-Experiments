@@ -1,0 +1,13 @@
+{
+  "title": "Pillar of War",
+  "image": "./img/pillar-ofwar.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Golem",
+  "text": "DefenderAs long as Pillar of War is enchanted, it can attack as though it didn't have defender.",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "160",
+  "artist": "Aleksi Briclot",
+  "rating": "3.167",
+  "votes": "30"
+}

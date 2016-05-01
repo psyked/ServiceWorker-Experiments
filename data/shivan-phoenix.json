@@ -1,0 +1,13 @@
+{
+  "title": "Shivan Phoenix",
+  "image": "./img/shivan-phoenix.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Phoenix",
+  "text": "FlyingWhen Shivan Phoenix dies, return Shivan Phoenix to its owner's hand.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Rare",
+  "cardNumber": "91",
+  "artist": "Daren Bader",
+  "rating": "3.647",
+  "votes": "34"
+}

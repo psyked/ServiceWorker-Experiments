@@ -1,0 +1,13 @@
+{
+  "title": "Curiosity",
+  "image": "./img/curiosity.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature deals damage to an opponent, you may draw a card.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "44",
+  "artist": "Val Mayerik",
+  "rating": "5",
+  "votes": "0"
+}

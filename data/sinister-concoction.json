@@ -1,0 +1,13 @@
+{
+  "title": "Sinister Concoction",
+  "image": "./img/sinister-concoction.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment",
+  "text": ", Pay 1 life, Put the top card of your library into your graveyard, Discard a card, Sacrifice Sinister Concoction: Destroy target creature.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "135",
+  "artist": "Zack Stella",
+  "rating": "5",
+  "votes": "0"
+}

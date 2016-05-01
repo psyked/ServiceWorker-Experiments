@@ -1,0 +1,13 @@
+{
+  "title": "Wheel of Fortune",
+  "image": "./img/wheel-offortune.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Each player discards his or her hand, then draws seven cards.",
+  "expansion": "Vintage Masters",
+  "rarity": "Mythic Rare",
+  "cardNumber": "192",
+  "artist": "John Matson",
+  "rating": "4.500",
+  "votes": "4"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Warrior Angel",
+  "image": "./img/warrior-angel.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Angel Warrior",
+  "text": "FlyingWhenever Warrior Angel deals damage, you gain that much life.",
+  "expansion": "Stronghold",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Brom",
+  "rating": "3.144",
+  "votes": "45"
+}

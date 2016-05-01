@@ -1,0 +1,13 @@
+{
+  "title": "Restless Dreams",
+  "image": "./img/restless-dreams.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Restless Dreams, discard X cards.Return X target creature cards from your graveyard to your hand.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "79",
+  "artist": "John Matson",
+  "rating": "2.741",
+  "votes": "27"
+}

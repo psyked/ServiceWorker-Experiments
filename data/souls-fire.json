@@ -1,0 +1,13 @@
+{
+  "title": "Soul's Fire",
+  "image": "./img/souls-fire.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Target creature you control on the battlefield deals damage equal to its power to target creature or player.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "115",
+  "artist": "Wayne Reynolds",
+  "rating": "4.055",
+  "votes": "119"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Savor the Moment",
+  "image": "./img/savor-themoment.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Take an extra turn after this one. Skip the untap step of that turn.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "50",
+  "artist": "Warren Mahy",
+  "rating": "3.866",
+  "votes": "71"
+}

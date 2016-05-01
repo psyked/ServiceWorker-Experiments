@@ -1,0 +1,13 @@
+{
+  "title": "Finest Hour",
+  "image": "./img/finest-hour.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)Whenever a creature you control attacks alone, if it's the first combat phase of the turn, untap that creature. After this phase, there is an additional combat phase.",
+  "expansion": "Alara Reborn",
+  "rarity": "Rare",
+  "cardNumber": "126",
+  "artist": "Michael Komarck",
+  "rating": "4.023",
+  "votes": "153"
+}

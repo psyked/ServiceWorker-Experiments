@@ -1,0 +1,13 @@
+{
+  "title": "Viridian Acolyte",
+  "image": "./img/viridian-acolyte.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Shaman",
+  "text": ", : Add one mana of any color to your mana pool.",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "89",
+  "artist": "D. Alexander Gregory",
+  "rating": "2.367",
+  "votes": "30"
+}

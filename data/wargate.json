@@ -1,0 +1,13 @@
+{
+  "title": "Wargate",
+  "image": "./img/wargate.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Search your library for a permanent card with converted mana cost X or less, put it onto the battlefield, then shuffle your library.",
+  "expansion": "Alara Reborn",
+  "rarity": "Rare",
+  "cardNumber": "129",
+  "artist": "Franz Vohwinkel",
+  "rating": "3.087",
+  "votes": "109"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mesa Enchantress",
+  "image": "./img/mesa-enchantress.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Druid",
+  "text": "Whenever you cast an enchantment spell, you may draw a card.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "75",
+  "artist": "Randy Gallegos",
+  "rating": "5",
+  "votes": "0"
+}

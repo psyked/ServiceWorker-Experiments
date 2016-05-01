@@ -1,0 +1,13 @@
+{
+  "title": "Llanowar Druid",
+  "image": "./img/llanowar-druid.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Druid",
+  "text": ", Sacrifice Llanowar Druid: Untap all Forests.",
+  "expansion": "Weatherlight",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Pete Venters",
+  "rating": "4.110",
+  "votes": "41"
+}

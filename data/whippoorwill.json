@@ -1,0 +1,13 @@
+{
+  "title": "Whippoorwill",
+  "image": "./img/whippoorwill.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Bird",
+  "text": ", : Target creature can't be regenerated this turn. Damage that would be dealt to that creature this turn can't be prevented or dealt instead to another creature or player. When the creature dies this turn, exile the creature.",
+  "expansion": "The Dark",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Douglas Shuler",
+  "rating": "3.519",
+  "votes": "52"
+}

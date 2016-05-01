@@ -1,0 +1,13 @@
+{
+  "title": "Spikeshot Goblin",
+  "image": "./img/spikeshot-goblin.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Shaman",
+  "text": ", : Spikeshot Goblin deals damage equal to its power to target creature or player.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "108",
+  "artist": "Alan Pollack",
+  "rating": "4.188",
+  "votes": "69"
+}

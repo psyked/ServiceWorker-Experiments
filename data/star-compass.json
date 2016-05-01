@@ -1,0 +1,13 @@
+{
+  "title": "Star Compass",
+  "image": "./img/star-compass.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Star Compass enters the battlefield tapped.: Add to your mana pool one mana of any color that a basic land you control could produce.",
+  "expansion": "Eighth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "315",
+  "artist": "Donato Giancola",
+  "rating": "3.096",
+  "votes": "26"
+}

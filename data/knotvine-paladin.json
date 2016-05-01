@@ -1,0 +1,13 @@
+{
+  "title": "Knotvine Paladin",
+  "image": "./img/knotvine-paladin.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Knight",
+  "text": "Whenever Knotvine Paladin attacks, it gets +1/+1 until end of turn for each untapped creature you control.",
+  "expansion": "Duel Decks: Knights vs. Dragons",
+  "rarity": "Rare",
+  "cardNumber": "10",
+  "artist": "Matt Stewart",
+  "rating": "3.430",
+  "votes": "64"
+}

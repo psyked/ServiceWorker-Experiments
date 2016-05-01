@@ -1,0 +1,13 @@
+{
+  "title": "Walking Desecration",
+  "image": "./img/walking-desecration.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": ", : Creatures of the creature type of your choice attack this turn if able.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "180",
+  "artist": "Daren Bader",
+  "rating": "3.079",
+  "votes": "19"
+}

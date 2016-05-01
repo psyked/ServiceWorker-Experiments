@@ -1,0 +1,13 @@
+{
+  "title": "Soul of Innistrad",
+  "image": "./img/soul-ofinnistrad.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Avatar",
+  "text": "Deathtouch: Return up to three target creature cards from your graveyard to your hand., Exile Soul of Innistrad from your graveyard: Return up to three target creature cards from your graveyard to your hand.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Mythic Rare",
+  "cardNumber": "115",
+  "artist": "Adam Paquette",
+  "rating": "3.688",
+  "votes": "8"
+}

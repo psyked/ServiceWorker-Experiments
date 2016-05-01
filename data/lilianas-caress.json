@@ -1,0 +1,13 @@
+{
+  "title": "Liliana's Caress",
+  "image": "./img/lilianas-caress.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever an opponent discards a card, that player loses 2 life.",
+  "expansion": "Magic 2011",
+  "rarity": "Uncommon",
+  "cardNumber": "103",
+  "artist": "Steve Argyle",
+  "rating": "3.946",
+  "votes": "157"
+}

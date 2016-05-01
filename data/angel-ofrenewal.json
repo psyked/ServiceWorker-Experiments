@@ -1,0 +1,13 @@
+{
+  "title": "Angel of Renewal",
+  "image": "./img/angel-ofrenewal.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Angel Ally",
+  "text": "FlyingWhen Angel of Renewal enters the battlefield, you gain 1 life for each creature you control.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "18",
+  "artist": "Todd Lockwood",
+  "rating": "5",
+  "votes": "0"
+}

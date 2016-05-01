@@ -1,0 +1,13 @@
+{
+  "title": "Skullsnatcher",
+  "image": "./img/skullsnatcher.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Rat Ninja",
+  "text": "Ninjutsu  (, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player's graveyard.",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Common",
+  "cardNumber": "36",
+  "artist": "Matt Cavotta",
+  "rating": "3.368",
+  "votes": "19"
+}

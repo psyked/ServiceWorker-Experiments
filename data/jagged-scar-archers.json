@@ -1,0 +1,13 @@
+{
+  "title": "Jagged-Scar Archers",
+  "image": "./img/jagged-scar-archers.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Archer",
+  "text": "Jagged-Scar Archers's power and toughness are each equal to the number of Elves you control.: Jagged-Scar Archers deals damage equal to its power to target creature with flying.",
+  "expansion": "Lorwyn",
+  "rarity": "Uncommon",
+  "cardNumber": "222",
+  "artist": "Parente",
+  "rating": "4.050",
+  "votes": "70"
+}

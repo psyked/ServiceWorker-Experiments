@@ -1,0 +1,13 @@
+{
+  "title": "Minister of Impediments",
+  "image": "./img/minister-ofimpediments.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Advisor",
+  "text": "( can be paid with either  or .): Tap target creature.",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "144",
+  "artist": "Brian Hagan",
+  "rating": "3.212",
+  "votes": "59"
+}

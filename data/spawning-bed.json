@@ -1,0 +1,13 @@
+{
+  "title": "Spawning Bed",
+  "image": "./img/spawning-bed.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool., , Sacrifice Spawning Bed: Put three 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have \"Sacrifice this creature: Add  to your mana pool.\"",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "248",
+  "artist": "Jason Felix",
+  "rating": "5",
+  "votes": "0"
+}

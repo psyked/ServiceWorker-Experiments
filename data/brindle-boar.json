@@ -1,0 +1,13 @@
+{
+  "title": "Brindle Boar",
+  "image": "./img/brindle-boar.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Boar",
+  "text": "Sacrifice Brindle Boar: You gain 4 life.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "167",
+  "artist": "Dave Allsop",
+  "rating": "3.188",
+  "votes": "32"
+}

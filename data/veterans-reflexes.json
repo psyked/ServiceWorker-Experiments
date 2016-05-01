@@ -1,0 +1,13 @@
+{
+  "title": "Veteran's Reflexes",
+  "image": "./img/veterans-reflexes.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets +1/+1 until end of turn. Untap that creature.",
+  "expansion": "Worldwake",
+  "rarity": "Common",
+  "cardNumber": "23",
+  "artist": "Scott Chou",
+  "rating": "2.824",
+  "votes": "51"
+}

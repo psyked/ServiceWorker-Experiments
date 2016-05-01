@@ -1,0 +1,13 @@
+{
+  "title": "Eye of Yawgmoth",
+  "image": "./img/eye-ofyawgmoth.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", , Sacrifice a creature: Reveal a number of cards from the top of your library equal to the sacrificed creature's power. Put one into your hand and exile the rest.",
+  "expansion": "Nemesis",
+  "rarity": "Rare",
+  "cardNumber": "129",
+  "artist": "DiTerlizzi",
+  "rating": "3.014",
+  "votes": "35"
+}

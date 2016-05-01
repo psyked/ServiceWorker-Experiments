@@ -1,0 +1,13 @@
+{
+  "title": "Twins of Maurer Estate",
+  "image": "./img/twins-ofmaurerestate.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Vampire",
+  "text": "Madness  (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "142",
+  "artist": "Darek Zabrocki",
+  "rating": "5",
+  "votes": "0"
+}

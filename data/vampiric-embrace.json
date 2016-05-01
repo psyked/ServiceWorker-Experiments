@@ -1,0 +1,13 @@
+{
+  "title": "Vampiric Embrace",
+  "image": "./img/vampiric-embrace.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+2 and has flying.Whenever a creature dealt damage by enchanted creature this turn dies, put a +1/+1 counter on that creature.",
+  "expansion": "Urza's Saga",
+  "rarity": "Uncommon",
+  "cardNumber": "164",
+  "artist": "Thomas M. Baxa",
+  "rating": "3.788",
+  "votes": "33"
+}

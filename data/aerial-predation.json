@@ -1,0 +1,13 @@
+{
+  "title": "Aerial Predation",
+  "image": "./img/aerial-predation.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Destroy target creature with flying. You gain 2 life.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "113",
+  "artist": "BD",
+  "rating": "2.086",
+  "votes": "64"
+}

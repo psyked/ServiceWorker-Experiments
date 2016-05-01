@@ -1,0 +1,13 @@
+{
+  "title": "Dragon's Herald",
+  "image": "./img/dragons-herald.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Shaman",
+  "text": ", , Sacrifice a black creature, a red creature, and a green creature: Search your library for a card named Hellkite Overlord and put it onto the battlefield. Then shuffle your library.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "98",
+  "artist": "Daarken",
+  "rating": "2.610",
+  "votes": "59"
+}

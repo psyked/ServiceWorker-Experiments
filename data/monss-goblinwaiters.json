@@ -1,0 +1,13 @@
+{
+  "title": "Mons's Goblin Waiters",
+  "image": "./img/monss-goblinwaiters.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature — Goblin Waiter",
+  "text": "Sacrifice a creature or land: Add  to your mana pool.",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "82",
+  "artist": "Pete Venters",
+  "rating": "3.552",
+  "votes": "29"
+}

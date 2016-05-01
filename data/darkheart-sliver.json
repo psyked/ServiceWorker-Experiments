@@ -1,0 +1,13 @@
+{
+  "title": "Darkheart Sliver",
+  "image": "./img/darkheart-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Sliver",
+  "text": "All Slivers have \"Sacrifice this permanent: You gain 3 life.\"",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "155",
+  "artist": "rk post",
+  "rating": "3.843",
+  "votes": "51"
+}

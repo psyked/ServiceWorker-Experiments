@@ -1,0 +1,13 @@
+{
+  "title": "Aisling Leprechaun",
+  "image": "./img/aisling-leprechaun.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Faerie",
+  "text": "Whenever Aisling Leprechaun blocks or becomes blocked by a creature, that creature becomes green. (This effect lasts indefinitely.)",
+  "expansion": "Legends",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Quinton Hoover",
+  "rating": "2.622",
+  "votes": "49"
+}

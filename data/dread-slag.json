@@ -1,0 +1,13 @@
+{
+  "title": "Dread Slag",
+  "image": "./img/dread-slag.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Horror",
+  "text": "TrampleDread Slag gets -4/-4 for each card in your hand.",
+  "expansion": "Dissension",
+  "rarity": "Rare",
+  "cardNumber": "109",
+  "artist": "Anthony S. Waters",
+  "rating": "3.178",
+  "votes": "59"
+}

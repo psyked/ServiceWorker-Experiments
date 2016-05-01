@@ -1,0 +1,13 @@
+{
+  "title": "Ventifact Bottle",
+  "image": "./img/ventifact-bottle.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", : Put X charge counters on Ventifact Bottle. Activate this ability only any time you could cast a sorcery.At the beginning of your precombat main phase, if Ventifact Bottle has a charge counter on it, tap it and remove all charge counters from it. Add  to your mana pool for each charge counter removed this way.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Ron Spencer",
+  "rating": "2.862",
+  "votes": "29"
+}

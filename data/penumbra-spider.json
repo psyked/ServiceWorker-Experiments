@@ -1,0 +1,13 @@
+{
+  "title": "Penumbra Spider",
+  "image": "./img/penumbra-spider.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Spider",
+  "text": "ReachWhen Penumbra Spider dies, put a 2/4 black Spider creature token with reach onto the battlefield.",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "157",
+  "artist": "Jeff Easley",
+  "rating": "3.977",
+  "votes": "22"
+}

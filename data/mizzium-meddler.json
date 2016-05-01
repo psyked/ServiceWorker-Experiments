@@ -1,0 +1,13 @@
+{
+  "title": "Mizzium Meddler",
+  "image": "./img/mizzium-meddler.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vedalken Wizard",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)When Mizzium Meddler enters the battlefield, you may change a target of target spell or ability to Mizzium Meddler.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "64",
+  "artist": "Johann Bodin",
+  "rating": "5",
+  "votes": "0"
+}

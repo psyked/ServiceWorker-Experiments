@@ -1,0 +1,13 @@
+{
+  "title": "Loxodon Gatekeeper",
+  "image": "./img/loxodon-gatekeeper.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elephant Soldier",
+  "text": "Artifacts, creatures, and lands your opponents control enter the battlefield tapped.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "25",
+  "artist": "Carl Critchlow",
+  "rating": "3.921",
+  "votes": "70"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Nacre Talisman",
+  "image": "./img/nacre-talisman.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Whenever a player casts a white spell, you may pay . If you do, untap target permanent.",
+  "expansion": "Ice Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Mark Tedin",
+  "rating": "2.029",
+  "votes": "34"
+}

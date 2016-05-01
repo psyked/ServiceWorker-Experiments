@@ -1,0 +1,13 @@
+{
+  "title": "Controvert",
+  "image": "./img/controvert.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Counter target spell.Recover  (When a creature is put into your graveyard from the battlefield, you may pay . If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",
+  "expansion": "Coldsnap",
+  "rarity": "Uncommon",
+  "cardNumber": "30",
+  "artist": "Joel Thomas",
+  "rating": "2.702",
+  "votes": "42"
+}

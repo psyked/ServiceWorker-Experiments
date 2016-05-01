@@ -1,0 +1,13 @@
+{
+  "title": "Hateflayer",
+  "image": "./img/hateflayer.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Elemental",
+  "text": "Wither (This deals damage to creatures in the form of -1/-1 counters.), : Hateflayer deals damage equal to its power to target creature or player. ( is the untap symbol.)",
+  "expansion": "Eventide",
+  "rarity": "Rare",
+  "cardNumber": "55",
+  "artist": "Thomas M. Baxa",
+  "rating": "3.946",
+  "votes": "83"
+}

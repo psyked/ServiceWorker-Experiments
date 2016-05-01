@@ -1,0 +1,13 @@
+{
+  "title": "Flame Jab",
+  "image": "./img/flame-jab.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Flame Jab deals 1 damage to target creature or player.Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",
+  "expansion": "Eventide",
+  "rarity": "Common",
+  "cardNumber": "53",
+  "artist": "rk post",
+  "rating": "3.284",
+  "votes": "67"
+}

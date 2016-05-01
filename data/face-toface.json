@@ -1,0 +1,13 @@
+{
+  "title": "Face to Face",
+  "image": "./img/face-toface.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "You and target opponent play a best two-out-of-three Rock, Paper, Scissors match. If you win, Face to Face deals 5 damage to that opponent.",
+  "expansion": "Unhinged",
+  "rarity": "Uncommon",
+  "cardNumber": "76",
+  "artist": "Randy Gallegos",
+  "rating": "3.659",
+  "votes": "22"
+}

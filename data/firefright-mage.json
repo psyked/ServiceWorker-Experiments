@@ -1,0 +1,13 @@
+{
+  "title": "Firefright Mage",
+  "image": "./img/firefright-mage.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Spellshaper",
+  "text": ", , Discard a card: Target creature can't be blocked this turn except by artifact creatures and/or red creatures.",
+  "expansion": "Planar Chaos",
+  "rarity": "Common",
+  "cardNumber": "99",
+  "artist": "Greg Staples",
+  "rating": "2.689",
+  "votes": "37"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Lavaborn Muse",
+  "image": "./img/lavaborn-muse.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Spirit",
+  "text": "At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Lavaborn Muse deals 3 damage to him or her.",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Rare",
+  "cardNumber": "50",
+  "artist": "Brian Snoddy",
+  "rating": "3.400",
+  "votes": "15"
+}

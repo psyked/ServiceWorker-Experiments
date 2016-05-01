@@ -1,0 +1,13 @@
+{
+  "title": "Orcish Oriflamme",
+  "image": "./img/orcish-oriflamme.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Attacking creatures you control get +1/+0.",
+  "expansion": "Seventh Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "206",
+  "artist": "Ben Thompson",
+  "rating": "2.488",
+  "votes": "41"
+}

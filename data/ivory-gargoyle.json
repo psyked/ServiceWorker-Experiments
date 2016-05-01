@@ -1,0 +1,13 @@
+{
+  "title": "Ivory Gargoyle",
+  "image": "./img/ivory-gargoyle.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Gargoyle",
+  "text": "FlyingWhen Ivory Gargoyle dies, return it to the battlefield under its owner's control at the beginning of the next end step and you skip your next draw step.: Exile Ivory Gargoyle.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "19",
+  "artist": "Quinton Hoover",
+  "rating": "3.333",
+  "votes": "39"
+}

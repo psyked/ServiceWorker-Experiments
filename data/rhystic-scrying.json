@@ -1,0 +1,13 @@
+{
+  "title": "Rhystic Scrying",
+  "image": "./img/rhystic-scrying.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Draw three cards. Then, if any player pays , discard three cards.",
+  "expansion": "Prophecy",
+  "rarity": "Uncommon",
+  "cardNumber": "44",
+  "artist": "Roger Raupp",
+  "rating": "2.134",
+  "votes": "41"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sinstriker's Will",
+  "image": "./img/sinstrikers-will.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has \": This creature deals damage equal to its power to target attacking or blocking creature.\"",
+  "expansion": "Guildpact",
+  "rarity": "Uncommon",
+  "cardNumber": "16",
+  "artist": "Ben Thompson",
+  "rating": "2.902",
+  "votes": "41"
+}

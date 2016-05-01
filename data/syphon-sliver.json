@@ -1,0 +1,13 @@
+{
+  "title": "Syphon Sliver",
+  "image": "./img/syphon-sliver.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Sliver",
+  "text": "Sliver creatures you control have lifelink. (Damage dealt by a Sliver creature you control also causes you to gain that much life.)",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "117",
+  "artist": "Tyler Jacobson",
+  "rating": "2.968",
+  "votes": "47"
+}

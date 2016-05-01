@@ -1,0 +1,13 @@
+{
+  "title": "Akron Legionnaire",
+  "image": "./img/akron-legionnaire.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Giant Soldier",
+  "text": "Except for creatures named Akron Legionnaire and artifact creatures, creatures you control can't attack.",
+  "expansion": "Masters Edition III",
+  "rarity": "Rare",
+  "cardNumber": "1",
+  "artist": "Mark Poole",
+  "rating": "1.098",
+  "votes": "92"
+}

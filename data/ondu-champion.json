@@ -1,0 +1,13 @@
+{
+  "title": "Ondu Champion",
+  "image": "./img/ondu-champion.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Minotaur Warrior Ally",
+  "text": "Rally — Whenever Ondu Champion or another Ally enters the battlefield under your control, creatures you control gain trample until end of turn.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "149",
+  "artist": "Volkan Baga",
+  "rating": "5",
+  "votes": "0"
+}

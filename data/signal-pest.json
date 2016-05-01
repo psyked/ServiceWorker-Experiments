@@ -1,0 +1,13 @@
+{
+  "title": "Signal Pest",
+  "image": "./img/signal-pest.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact Creature  — Pest",
+  "text": "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)Signal Pest can't be blocked except by creatures with flying or reach.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Uncommon",
+  "cardNumber": "131",
+  "artist": "Mark Zug",
+  "rating": "3.966",
+  "votes": "146"
+}

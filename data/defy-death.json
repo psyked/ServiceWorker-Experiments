@@ -1,0 +1,13 @@
+{
+  "title": "Defy Death",
+  "image": "./img/defy-death.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Return target creature card from your graveyard to the battlefield. If it's an Angel, put two +1/+1 counters on it.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Uncommon",
+  "cardNumber": "16",
+  "artist": "Karl Kopinski",
+  "rating": "3.790",
+  "votes": "69"
+}

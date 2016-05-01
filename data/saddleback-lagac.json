@@ -1,0 +1,13 @@
+{
+  "title": "Saddleback Lagac",
+  "image": "./img/saddleback-lagac.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Lizard",
+  "text": "When Saddleback Lagac enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "142",
+  "artist": "Jason Kang",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Impact Tremors",
+  "image": "./img/impact-tremors.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever a creature enters the battlefield under your control, Impact Tremors deals 1 damage to each opponent.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "140",
+  "artist": "Lake Hurwitz",
+  "rating": "5",
+  "votes": "0"
+}

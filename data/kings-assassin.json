@@ -1,0 +1,13 @@
+{
+  "title": "King's Assassin",
+  "image": "./img/kings-assassin.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Assassin",
+  "text": ": Destroy target tapped creature. Activate this ability only during your turn, before attackers are declared.",
+  "expansion": "Portal",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Zina Saunders",
+  "rating": "2.861",
+  "votes": "36"
+}

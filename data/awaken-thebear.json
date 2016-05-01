@@ -1,0 +1,13 @@
+{
+  "title": "Awaken the Bear",
+  "image": "./img/awaken-thebear.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Target creature gets +3/+3 and gains trample until end of turn.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "129",
+  "artist": "Svetlin Velinov",
+  "rating": "3.250",
+  "votes": "4"
+}

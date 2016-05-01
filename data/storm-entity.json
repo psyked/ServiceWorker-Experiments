@@ -1,0 +1,13 @@
+{
+  "title": "Storm Entity",
+  "image": "./img/storm-entity.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elemental",
+  "text": "HasteStorm Entity enters the battlefield with a +1/+1 counter on it for each other spell cast this turn.",
+  "expansion": "Future Sight",
+  "rarity": "Uncommon",
+  "cardNumber": "122",
+  "artist": "Lucio Parrillo",
+  "rating": "4.102",
+  "votes": "54"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Drake Hatchling",
+  "image": "./img/drake-hatchling.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Drake",
+  "text": "Flying: Drake Hatchling gets +1/+0 until end of turn. Activate this ability only once each turn.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "76",
+  "artist": "Bradley Williams",
+  "rating": "2.731",
+  "votes": "26"
+}

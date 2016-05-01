@@ -1,0 +1,13 @@
+{
+  "title": "Creeping Mold",
+  "image": "./img/creeping-mold.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy target artifact, enchantment, or land.",
+  "expansion": "Tenth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "258",
+  "artist": "Gary Ruddell",
+  "rating": "3.805",
+  "votes": "59"
+}

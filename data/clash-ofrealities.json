@@ -1,0 +1,13 @@
+{
+  "title": "Clash of Realities",
+  "image": "./img/clash-ofrealities.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "All Spirits have \"When this permanent enters the battlefield, you may have it deal 3 damage to target non-Spirit creature.\"Non-Spirit creatures have \"When this creature enters the battlefield, you may have it deal 3 damage to target Spirit creature.\"",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "97",
+  "artist": "Jim Nelson",
+  "rating": "2.828",
+  "votes": "29"
+}

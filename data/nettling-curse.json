@@ -1,0 +1,13 @@
+{
+  "title": "Nettling Curse",
+  "image": "./img/nettling-curse.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature attacks or blocks, its controller loses 3 life.: Enchanted creature attacks this turn if able.",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "48",
+  "artist": "Jeremy Jarvis & Wayne Reynolds",
+  "rating": "3.141",
+  "votes": "32"
+}

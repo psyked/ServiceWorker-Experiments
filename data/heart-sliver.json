@@ -1,0 +1,13 @@
+{
+  "title": "Heart Sliver",
+  "image": "./img/heart-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Sliver",
+  "text": "All Sliver creatures have haste.",
+  "expansion": "Premium Deck Series: Slivers",
+  "rarity": "Common",
+  "cardNumber": "7",
+  "artist": "Ron Spencer",
+  "rating": "4.447",
+  "votes": "47"
+}

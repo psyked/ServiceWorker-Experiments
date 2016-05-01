@@ -1,0 +1,13 @@
+{
+  "title": "Etherium Abomination",
+  "image": "./img/etherium-abomination.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Horror",
+  "text": "Unearth  (: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "expansion": "Alara Reborn",
+  "rarity": "Common",
+  "cardNumber": "20",
+  "artist": "Mitch Cotie",
+  "rating": "2.137",
+  "votes": "62"
+}

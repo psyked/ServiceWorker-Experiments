@@ -1,0 +1,13 @@
+{
+  "title": "Blisterpod",
+  "image": "./img/blisterpod.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.)When Blisterpod dies, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has \"Sacrifice this creature: Add  to your mana pool.\"",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "163",
+  "artist": "Ryan Barger",
+  "rating": "5",
+  "votes": "0"
+}

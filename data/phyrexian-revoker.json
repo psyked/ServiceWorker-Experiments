@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Revoker",
+  "image": "./img/phyrexian-revoker.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Horror",
+  "text": "As Phyrexian Revoker enters the battlefield, name a nonland card.Activated abilities of sources with the chosen name can't be activated.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "225",
+  "artist": "Kev Walker",
+  "rating": "4.333",
+  "votes": "12"
+}

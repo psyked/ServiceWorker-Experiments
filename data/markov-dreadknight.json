@@ -1,0 +1,13 @@
+{
+  "title": "Markov Dreadknight",
+  "image": "./img/markov-dreadknight.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Vampire Knight",
+  "text": "Flying, Discard a card: Put two +1/+1 counters on Markov Dreadknight.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "122",
+  "artist": "Darek Zabrocki",
+  "rating": "5",
+  "votes": "0"
+}

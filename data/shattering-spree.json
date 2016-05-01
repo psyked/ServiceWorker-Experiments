@@ -1,0 +1,13 @@
+{
+  "title": "Shattering Spree",
+  "image": "./img/shattering-spree.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Replicate  (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)Destroy target artifact.",
+  "expansion": "Guildpact",
+  "rarity": "Uncommon",
+  "cardNumber": "75",
+  "artist": "Pat Lee",
+  "rating": "4.586",
+  "votes": "139"
+}

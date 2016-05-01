@@ -1,0 +1,13 @@
+{
+  "title": "Chariot of Victory",
+  "image": "./img/chariot-ofvictory.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature has first strike, trample, and haste.Equip",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "159",
+  "artist": "John Stanko",
+  "rating": "3.515",
+  "votes": "34"
+}

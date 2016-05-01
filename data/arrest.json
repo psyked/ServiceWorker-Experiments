@@ -1,0 +1,13 @@
+{
+  "title": "Arrest",
+  "image": "./img/arrest.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature can't attack or block, and its activated abilities can't be activated.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "9",
+  "artist": "Daarken",
+  "rating": "5",
+  "votes": "0"
+}

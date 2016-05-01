@@ -1,0 +1,13 @@
+{
+  "title": "Greenside Watcher",
+  "image": "./img/greenside-watcher.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Druid",
+  "text": ": Untap target Gate.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "122",
+  "artist": "Ryan Barger",
+  "rating": "2.500",
+  "votes": "55"
+}

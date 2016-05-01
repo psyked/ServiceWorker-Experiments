@@ -1,0 +1,13 @@
+{
+  "title": "Ana Disciple",
+  "image": "./img/ana-disciple.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Wizard",
+  "text": ", : Target creature gains flying until end of turn., : Target creature gets -2/-0 until end of turn.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "73",
+  "artist": "Darrell Riche",
+  "rating": "3.258",
+  "votes": "31"
+}

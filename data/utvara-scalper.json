@@ -1,0 +1,13 @@
+{
+  "title": "Utvara Scalper",
+  "image": "./img/utvara-scalper.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Scout",
+  "text": "FlyingUtvara Scalper attacks each turn if able.",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "76",
+  "artist": "Christopher Rush",
+  "rating": "2.171",
+  "votes": "41"
+}

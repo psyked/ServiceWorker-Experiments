@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Nets",
+  "image": "./img/wall-ofnets.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)At end of combat, exile all creatures blocked by Wall of Nets.When Wall of Nets leaves the battlefield, return all cards exiled with Wall of Nets to the battlefield under their owners' control.",
+  "expansion": "Exodus",
+  "rarity": "Rare",
+  "cardNumber": "24",
+  "artist": "Terese Nielsen",
+  "rating": "4.240",
+  "votes": "50"
+}

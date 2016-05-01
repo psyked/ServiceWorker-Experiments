@@ -1,0 +1,13 @@
+{
+  "title": "Kumano's Pupils",
+  "image": "./img/kumanos-pupils.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Shaman",
+  "text": "If a creature dealt damage by Kumano's Pupils this turn would die, exile it instead.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "177",
+  "artist": "Greg Hildebrandt",
+  "rating": "1.241",
+  "votes": "29"
+}

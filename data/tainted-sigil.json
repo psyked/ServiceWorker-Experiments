@@ -1,0 +1,13 @@
+{
+  "title": "Tainted Sigil",
+  "image": "./img/tainted-sigil.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", Sacrifice Tainted Sigil: You gain life equal to the total life lost by all players this turn. (Damage causes loss of life.)",
+  "expansion": "Alara Reborn",
+  "rarity": "Uncommon",
+  "cardNumber": "83",
+  "artist": "Chippy",
+  "rating": "3.236",
+  "votes": "110"
+}

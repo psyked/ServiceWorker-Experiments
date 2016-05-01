@@ -1,0 +1,13 @@
+{
+  "title": "Dragon Mage",
+  "image": "./img/dragon-mage.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Dragon Wizard",
+  "text": "FlyingWhenever Dragon Mage deals combat damage to a player, each player discards his or her hand, then draws seven cards.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "151",
+  "artist": "Matthew D. Wilson",
+  "rating": "5",
+  "votes": "0"
+}

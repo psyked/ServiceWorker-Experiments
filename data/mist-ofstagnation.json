@@ -1,0 +1,13 @@
+{
+  "title": "Mist of Stagnation",
+  "image": "./img/mist-ofstagnation.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "Permanents don't untap during their controllers' untap steps.At the beginning of each player's upkeep, that player chooses a permanent for each card in his or her graveyard, then untaps those permanents.",
+  "expansion": "Judgment",
+  "rarity": "Rare",
+  "cardNumber": "48",
+  "artist": "Mike Ploog",
+  "rating": "3.861",
+  "votes": "36"
+}

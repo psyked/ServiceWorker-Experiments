@@ -1,0 +1,13 @@
+{
+  "title": "Thoughtcutter Agent",
+  "image": "./img/thoughtcutter-agent.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Human Rogue",
+  "text": ", : Target player loses 1 life and reveals his or her hand.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "201",
+  "artist": "Cyril Van Der Haegen",
+  "rating": "2.010",
+  "votes": "49"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ooze Garden",
+  "image": "./img/ooze-garden.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": ", Sacrifice a non-Ooze creature: Put an X/X green Ooze creature token onto the battlefield, where X is the sacrificed creature's power. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "143",
+  "artist": "Anthony S. Waters",
+  "rating": "2.971",
+  "votes": "87"
+}

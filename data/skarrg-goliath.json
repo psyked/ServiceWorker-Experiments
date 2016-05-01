@@ -1,0 +1,13 @@
+{
+  "title": "Skarrg Goliath",
+  "image": "./img/skarrg-goliath.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Beast",
+  "text": "TrampleBloodrush — , Discard Skarrg Goliath: Target attacking creature gets +9/+9 and gains trample until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "133",
+  "artist": "Scott Chou",
+  "rating": "3.157",
+  "votes": "70"
+}

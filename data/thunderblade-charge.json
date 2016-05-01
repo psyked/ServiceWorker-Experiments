@@ -1,0 +1,13 @@
+{
+  "title": "Thunderblade Charge",
+  "image": "./img/thunderblade-charge.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Thunderblade Charge deals 3 damage to target creature or player.Whenever one or more creatures you control deal combat damage to a player, if Thunderblade Charge is in your graveyard, you may pay . If you do, you may cast it without paying its mana cost.",
+  "expansion": "Future Sight",
+  "rarity": "Rare",
+  "cardNumber": "124",
+  "artist": "Justin Murray",
+  "rating": "3.343",
+  "votes": "35"
+}

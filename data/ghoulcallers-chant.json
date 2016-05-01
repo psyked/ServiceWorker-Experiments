@@ -1,0 +1,13 @@
+{
+  "title": "Ghoulcaller's Chant",
+  "image": "./img/ghoulcallers-chant.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Choose one —• Return target creature card from your graveyard to your hand.• Return two target Zombie cards from your graveyard to your hand.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "101",
+  "artist": "Randy Gallegos",
+  "rating": "3.814",
+  "votes": "78"
+}

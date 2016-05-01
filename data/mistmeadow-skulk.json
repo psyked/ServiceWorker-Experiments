@@ -1,0 +1,13 @@
+{
+  "title": "Mistmeadow Skulk",
+  "image": "./img/mistmeadow-skulk.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kithkin Rogue",
+  "text": "Lifelink, protection from converted mana cost 3 or greater",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "14",
+  "artist": "Omar Rayyan",
+  "rating": "3.797",
+  "votes": "69"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ulamog's Crusher",
+  "image": "./img/ulamogs-crusher.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Eldrazi",
+  "text": "Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)Ulamog's Crusher attacks each turn if able.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "44",
+  "artist": "Todd Lockwood",
+  "rating": "5",
+  "votes": "0"
+}

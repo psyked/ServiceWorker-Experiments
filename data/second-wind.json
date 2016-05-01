@@ -1,0 +1,13 @@
+{
+  "title": "Second Wind",
+  "image": "./img/second-wind.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature: Tap enchanted creature.: Untap enchanted creature.",
+  "expansion": "Future Sight",
+  "rarity": "Uncommon",
+  "cardNumber": "57",
+  "artist": "Matt Stewart",
+  "rating": "3.404",
+  "votes": "47"
+}

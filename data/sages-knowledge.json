@@ -1,0 +1,13 @@
+{
+  "title": "Sage's Knowledge",
+  "image": "./img/sages-knowledge.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Return target sorcery card from your graveyard to your hand.",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Common",
+  "cardNumber": "52",
+  "artist": "Ding Songjian",
+  "rating": "2.842",
+  "votes": "19"
+}

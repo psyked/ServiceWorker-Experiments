@@ -1,0 +1,13 @@
+{
+  "title": "Rain of Rust",
+  "image": "./img/rain-ofrust.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Choose one —• Destroy target artifact.• Destroy target land.Entwine  (Choose both if you pay the entwine cost.)",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "76",
+  "artist": "Tim Hildebrandt",
+  "rating": "1.000",
+  "votes": "59"
+}

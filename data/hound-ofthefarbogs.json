@@ -1,0 +1,13 @@
+{
+  "title": "Hound of the Farbogs",
+  "image": "./img/hound-ofthefarbogs.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie Hound",
+  "text": "Delirium — Hound of the Farbogs has menace as long as there are four or more card types among cards in your graveyard. (A creature with menace can't be blocked except by two or more creatures.)",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "117",
+  "artist": "Christine Choi",
+  "rating": "5",
+  "votes": "0"
+}

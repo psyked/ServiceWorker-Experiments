@@ -1,0 +1,13 @@
+{
+  "title": "Scrounge",
+  "image": "./img/scrounge.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target opponent chooses an artifact card in his or her graveyard. Put that card onto the battlefield under your control.",
+  "expansion": "Darksteel",
+  "rarity": "Uncommon",
+  "cardNumber": "53",
+  "artist": "Pete Venters",
+  "rating": "2.636",
+  "votes": "22"
+}

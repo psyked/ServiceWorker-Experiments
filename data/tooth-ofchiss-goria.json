@@ -1,0 +1,13 @@
+{
+  "title": "Tooth of Chiss-Goria",
+  "image": "./img/tooth-ofchiss-goria.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "FlashAffinity for artifacts (This spell costs  less to cast for each artifact you control.): Target creature gets +1/+0 until end of turn.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "264",
+  "artist": "Alan Pollack",
+  "rating": "3.203",
+  "votes": "32"
+}

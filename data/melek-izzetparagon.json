@@ -1,0 +1,13 @@
+{
+  "title": "Melek, Izzet Paragon",
+  "image": "./img/melek-izzetparagon.jpg",
+  "convertedManaCost": "6",
+  "types": "Legendary Creature  — Weird Wizard",
+  "text": "Play with the top card of your library revealed.You may cast the top card of your library if it's an instant or sorcery card.Whenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "227",
+  "artist": "Jason Chan",
+  "rating": "5",
+  "votes": "0"
+}

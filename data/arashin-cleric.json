@@ -1,0 +1,13 @@
+{
+  "title": "Arashin Cleric",
+  "image": "./img/arashin-cleric.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": "When Arashin Cleric enters the battlefield, you gain 3 life.",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "5",
+  "artist": "Chris Rahn",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Talisman of Dominance",
+  "image": "./img/talisman-ofdominance.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ": Add  to your mana pool.: Add  or  to your mana pool. Talisman of Dominance deals 1 damage to you.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "253",
+  "artist": "Mike Dringenberg",
+  "rating": "3.743",
+  "votes": "35"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Onyx Goblet",
+  "image": "./img/onyx-goblet.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Target player loses 1 life.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "81",
+  "artist": "rk post",
+  "rating": "2.475",
+  "votes": "59"
+}

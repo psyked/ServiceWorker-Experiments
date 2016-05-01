@@ -1,0 +1,13 @@
+{
+  "title": "Convalescent Care",
+  "image": "./img/convalescent-care.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, if you have 5 or less life, you gain 3 life and draw a card.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "14",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "3.895",
+  "votes": "38"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Deglamer",
+  "image": "./img/deglamer.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Choose target artifact or enchantment. Its owner shuffles it into his or her library.",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "118",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "4.357",
+  "votes": "63"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Wingsteed Rider",
+  "image": "./img/wingsteed-rider.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "FlyingHeroic — Whenever you cast a spell that targets Wingsteed Rider, put a +1/+1 counter on Wingsteed Rider.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "36",
+  "artist": "Cynthia Sheppard",
+  "rating": "3.597",
+  "votes": "36"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Rootwalla",
+  "image": "./img/rootwalla.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Lizard",
+  "text": ": Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "191",
+  "artist": "Roger Raupp",
+  "rating": "5",
+  "votes": "0"
+}

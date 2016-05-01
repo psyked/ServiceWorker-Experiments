@@ -1,0 +1,13 @@
+{
+  "title": "Synod Artificer",
+  "image": "./img/synod-artificer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vedalken Artificer",
+  "text": ", : Tap X target noncreature artifacts., : Untap X target noncreature artifacts.",
+  "expansion": "Darksteel",
+  "rarity": "Rare",
+  "cardNumber": "34",
+  "artist": "Mark Zug",
+  "rating": "3.741",
+  "votes": "29"
+}

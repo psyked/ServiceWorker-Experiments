@@ -1,0 +1,13 @@
+{
+  "title": "Pledge of Loyalty",
+  "image": "./img/pledge-ofloyalty.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has protection from the colors of permanents you control. This effect doesn't remove Pledge of Loyalty.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "24",
+  "artist": "Franz Vohwinkel",
+  "rating": "2.971",
+  "votes": "35"
+}

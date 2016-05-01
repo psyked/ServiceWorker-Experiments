@@ -1,0 +1,13 @@
+{
+  "title": "Swarm Surge",
+  "image": "./img/swarm-surge.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Devoid (This card has no color.)Creatures you control get +2/+0 until end of turn. Colorless creatures you control also gain first strike until end of turn.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "100",
+  "artist": "Svetlin Velinov",
+  "rating": "5",
+  "votes": "0"
+}

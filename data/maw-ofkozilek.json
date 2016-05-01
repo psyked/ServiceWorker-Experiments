@@ -1,0 +1,13 @@
+{
+  "title": "Maw of Kozilek",
+  "image": "./img/maw-ofkozilek.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.): Maw of Kozilek gets +2/-2 until end of turn. ( represents colorless mana.)",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "99",
+  "artist": "Daarken",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Foul Familiar",
+  "image": "./img/foul-familiar.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "Foul Familiar can't block., Pay 1 life: Return Foul Familiar to its owner's hand.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "90",
+  "artist": "Anson Maddocks",
+  "rating": "3.069",
+  "votes": "29"
+}

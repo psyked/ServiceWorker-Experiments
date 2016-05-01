@@ -1,0 +1,13 @@
+{
+  "title": "Scalding Tongs",
+  "image": "./img/scalding-tongs.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, if you have three or fewer cards in hand, Scalding Tongs deals 1 damage to target opponent.",
+  "expansion": "Tempest",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Randy Gallegos",
+  "rating": "3.731",
+  "votes": "26"
+}

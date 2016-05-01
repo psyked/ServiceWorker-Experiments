@@ -1,0 +1,13 @@
+{
+  "title": "Skyknight Legionnaire",
+  "image": "./img/skyknight-legionnaire.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "Flying, haste",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "197",
+  "artist": "Anthony Palumbo",
+  "rating": "3.821",
+  "votes": "84"
+}

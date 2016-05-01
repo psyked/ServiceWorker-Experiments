@@ -1,0 +1,13 @@
+{
+  "title": "Char",
+  "image": "./img/char.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Char deals 4 damage to target creature or player and 2 damage to you.",
+  "expansion": "From the Vault: Twenty",
+  "rarity": "Mythic Rare",
+  "cardNumber": "14",
+  "artist": "Adam Rex",
+  "rating": "3.083",
+  "votes": "24"
+}

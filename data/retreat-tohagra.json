@@ -1,0 +1,13 @@
+{
+  "title": "Retreat to Hagra",
+  "image": "./img/retreat-tohagra.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Landfall — Whenever a land enters the battlefield under your control, choose one —• Target creature gets +1/+0 and gains deathtouch until end of turn.• Each opponent loses 1 life and you gain 1 life.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "121",
+  "artist": "Kieran Yanner",
+  "rating": "5",
+  "votes": "0"
+}

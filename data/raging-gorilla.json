@@ -1,0 +1,13 @@
+{
+  "title": "Raging Gorilla",
+  "image": "./img/raging-gorilla.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Ape",
+  "text": "Whenever Raging Gorilla blocks or becomes blocked, it gets +2/-2 until end of turn.",
+  "expansion": "Visions",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Tom Kyffin",
+  "rating": "2.333",
+  "votes": "30"
+}

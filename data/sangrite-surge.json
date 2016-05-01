@@ -1,0 +1,13 @@
+{
+  "title": "Sangrite Surge",
+  "image": "./img/sangrite-surge.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Target creature gets +3/+3 and gains double strike until end of turn.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "190",
+  "artist": "Jarreau Wimberly",
+  "rating": "2.222",
+  "votes": "63"
+}

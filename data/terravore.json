@@ -1,0 +1,13 @@
+{
+  "title": "Terravore",
+  "image": "./img/terravore.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Lhurgoyf",
+  "text": "TrampleTerravore's power and toughness are each equal to the number of land cards in all graveyards.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "278",
+  "artist": "Jim Nelson",
+  "rating": "4.139",
+  "votes": "83"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Spurred Wolverine",
+  "image": "./img/spurred-wolverine.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Wolverine Beast",
+  "text": "Tap two untapped Beasts you control: Target creature gains first strike until end of turn.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "237",
+  "artist": "Daren Bader",
+  "rating": "1.540",
+  "votes": "25"
+}

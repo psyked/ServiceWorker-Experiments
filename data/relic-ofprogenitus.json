@@ -1,0 +1,13 @@
+{
+  "title": "Relic of Progenitus",
+  "image": "./img/relic-ofprogenitus.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ": Target player exiles a card from his or her graveyard., Exile Relic of Progenitus: Exile all cards from all graveyards. Draw a card.",
+  "expansion": "Modern Event Deck 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "21",
+  "artist": "Jean-Sébastien Rossbach",
+  "rating": "4.462",
+  "votes": "13"
+}

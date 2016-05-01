@@ -1,0 +1,13 @@
+{
+  "title": "Mardu Woe-Reaper",
+  "image": "./img/mardu-woe-reaper.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Warrior",
+  "text": "Whenever Mardu Woe-Reaper or another Warrior enters the battlefield under your control, you may exile target creature card from a graveyard. If you do, you gain 1 life.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "18",
+  "artist": "Willian Murai",
+  "rating": "5",
+  "votes": "0"
+}

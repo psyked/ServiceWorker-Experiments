@@ -1,0 +1,13 @@
+{
+  "title": "Churning Eddy",
+  "image": "./img/churning-eddy.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Return target creature and target land to their owners' hands.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "32",
+  "artist": "Thomas M. Baxa",
+  "rating": "3.100",
+  "votes": "30"
+}

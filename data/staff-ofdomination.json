@@ -1,0 +1,13 @@
+{
+  "title": "Staff of Domination",
+  "image": "./img/staff-ofdomination.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Untap Staff of Domination., : You gain 1 life., : Untap target creature., : Tap target creature., : Draw a card.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Rare",
+  "cardNumber": "156",
+  "artist": "Ben Thompson",
+  "rating": "4.414",
+  "votes": "128"
+}

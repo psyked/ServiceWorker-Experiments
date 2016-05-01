@@ -1,0 +1,13 @@
+{
+  "title": "Energizer",
+  "image": "./img/energizer.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Juggernaut",
+  "text": ", : Put a +1/+1 counter on Energizer.",
+  "expansion": "Tempest",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Val Mayerik",
+  "rating": "2.625",
+  "votes": "32"
+}

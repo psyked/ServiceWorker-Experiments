@@ -1,0 +1,13 @@
+{
+  "title": "Mindswipe",
+  "image": "./img/mindswipe.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Counter target spell unless its controller pays . Mindswipe deals X damage to that spell's controller.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "189",
+  "artist": "Ryan Alexander Lee",
+  "rating": "3.500",
+  "votes": "2"
+}

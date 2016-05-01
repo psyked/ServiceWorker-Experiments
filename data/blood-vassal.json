@@ -1,0 +1,13 @@
+{
+  "title": "Blood Vassal",
+  "image": "./img/blood-vassal.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Thrull",
+  "text": "Sacrifice Blood Vassal: Add  to your mana pool.",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "118",
+  "artist": "Chippy",
+  "rating": "3.817",
+  "votes": "30"
+}

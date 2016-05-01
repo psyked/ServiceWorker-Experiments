@@ -1,0 +1,13 @@
+{
+  "title": "Rancid Earth",
+  "image": "./img/rancid-earth.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Destroy target land.Threshold — If seven or more cards are in your graveyard, instead destroy that land and Rancid Earth deals 1 damage to each creature and each player.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "78",
+  "artist": "Ciruelo",
+  "rating": "4.117",
+  "votes": "47"
+}

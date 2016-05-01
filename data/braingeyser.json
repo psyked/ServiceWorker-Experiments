@@ -1,0 +1,13 @@
+{
+  "title": "Braingeyser",
+  "image": "./img/braingeyser.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target player draws X cards.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "40",
+  "artist": "Mark Tedin",
+  "rating": "4.328",
+  "votes": "61"
+}

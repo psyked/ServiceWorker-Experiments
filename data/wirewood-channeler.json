@@ -1,0 +1,13 @@
+{
+  "title": "Wirewood Channeler",
+  "image": "./img/wirewood-channeler.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elf Druid",
+  "text": ": Add X mana of any one color to your mana pool, where X is the number of Elves on the battlefield.",
+  "expansion": "Legions",
+  "rarity": "Uncommon",
+  "cardNumber": "144",
+  "artist": "Alan Pollack",
+  "rating": "3.881",
+  "votes": "42"
+}

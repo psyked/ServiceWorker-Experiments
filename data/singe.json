@@ -1,0 +1,13 @@
+{
+  "title": "Singe",
+  "image": "./img/singe.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Singe deals 1 damage to target creature. That creature becomes black until end of turn.",
+  "expansion": "Planeshift",
+  "rarity": "Common",
+  "cardNumber": "71",
+  "artist": "John Avon",
+  "rating": "3.438",
+  "votes": "40"
+}

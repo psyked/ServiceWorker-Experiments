@@ -1,0 +1,13 @@
+{
+  "title": "Ray of Revelation",
+  "image": "./img/ray-ofrevelation.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Destroy target enchantment.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Dark Ascension",
+  "rarity": "Common",
+  "cardNumber": "17",
+  "artist": "Cliff Childs",
+  "rating": "4.114",
+  "votes": "66"
+}

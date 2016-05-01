@@ -1,0 +1,13 @@
+{
+  "title": "Sanity Gnawers",
+  "image": "./img/sanity-gnawers.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Rat",
+  "text": "When Sanity Gnawers enters the battlefield, target player discards a card at random.",
+  "expansion": "Alara Reborn",
+  "rarity": "Uncommon",
+  "cardNumber": "44",
+  "artist": "Pete Venters",
+  "rating": "2.638",
+  "votes": "65"
+}

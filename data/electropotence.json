@@ -1,0 +1,13 @@
+{
+  "title": "Electropotence",
+  "image": "./img/electropotence.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a creature enters the battlefield under your control, you may pay . If you do, that creature deals damage equal to its power to target creature or player.",
+  "expansion": "Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "122",
+  "artist": "Christopher Moeller",
+  "rating": "3.200",
+  "votes": "105"
+}

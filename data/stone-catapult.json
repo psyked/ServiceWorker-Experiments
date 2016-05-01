@@ -1,0 +1,13 @@
+{
+  "title": "Stone Catapult",
+  "image": "./img/stone-catapult.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Soldier",
+  "text": ": Destroy target tapped nonblack creature. Activate this ability only during your turn, before attackers are declared.",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Rare",
+  "cardNumber": "84",
+  "artist": "Shang Huitong",
+  "rating": "3.000",
+  "votes": "23"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Vedalken Plotter",
+  "image": "./img/vedalken-plotter.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vedalken Wizard",
+  "text": "When Vedalken Plotter enters the battlefield, exchange control of target land you control and target land an opponent controls.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Uncommon",
+  "cardNumber": "66",
+  "artist": "Greg Staples",
+  "rating": "2.889",
+  "votes": "27"
+}

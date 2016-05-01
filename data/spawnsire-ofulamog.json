@@ -1,0 +1,13 @@
+{
+  "title": "Spawnsire of Ulamog",
+  "image": "./img/spawnsire-ofulamog.jpg",
+  "convertedManaCost": "10",
+  "types": "Creature  — Eldrazi",
+  "text": "Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.): Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have \"Sacrifice this creature: Add  to your mana pool.\"0: Cast any number of Eldrazi cards you own from outside the game without paying their mana costs.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Rare",
+  "cardNumber": "11",
+  "artist": "Izzy",
+  "rating": "4.113",
+  "votes": "141"
+}

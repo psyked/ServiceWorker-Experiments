@@ -1,0 +1,13 @@
+{
+  "title": "Heightened Awareness",
+  "image": "./img/heightened-awareness.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "As Heightened Awareness enters the battlefield, discard your hand.At the beginning of your draw step, draw an additional card.",
+  "expansion": "Prophecy",
+  "rarity": "Rare",
+  "cardNumber": "37",
+  "artist": "Pete Venters",
+  "rating": "3.636",
+  "votes": "44"
+}

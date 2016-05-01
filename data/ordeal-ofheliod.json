@@ -1,0 +1,13 @@
+{
+  "title": "Ordeal of Heliod",
+  "image": "./img/ordeal-ofheliod.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Heliod.When you sacrifice Ordeal of Heliod, you gain 10 life.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "25",
+  "artist": "Lucas Graciano",
+  "rating": "3.535",
+  "votes": "43"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Reya Dawnbringer",
+  "image": "./img/reya-dawnbringer.jpg",
+  "convertedManaCost": "9",
+  "types": "Legendary Creature  — Angel",
+  "text": "FlyingAt the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.",
+  "expansion": "Duel Decks Anthology, Divine vs. Demonic",
+  "rarity": "Rare",
+  "cardNumber": "13",
+  "artist": "Matthew D. Wilson",
+  "rating": "5",
+  "votes": "0"
+}

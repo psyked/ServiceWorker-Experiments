@@ -1,0 +1,13 @@
+{
+  "title": "Geosurge",
+  "image": "./img/geosurge.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Add  to your mana pool. Spend this mana only to cast artifact or creature spells.",
+  "expansion": "New Phyrexia",
+  "rarity": "Uncommon",
+  "cardNumber": "85",
+  "artist": "Igor Kieryluk",
+  "rating": "3.708",
+  "votes": "132"
+}

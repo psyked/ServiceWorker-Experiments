@@ -1,0 +1,13 @@
+{
+  "title": "Swarm of Bloodflies",
+  "image": "./img/swarm-ofbloodflies.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Insect",
+  "text": "FlyingSwarm of Bloodflies enters the battlefield with two +1/+1 counters on it.Whenever another creature dies, put a +1/+1 counter on Swarm of Bloodflies.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "92",
+  "artist": "Marco Nelor",
+  "rating": "3.000",
+  "votes": "2"
+}

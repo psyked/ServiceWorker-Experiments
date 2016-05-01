@@ -1,0 +1,13 @@
+{
+  "title": "Ghastly Discovery",
+  "image": "./img/ghastly-discovery.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Draw two cards, then discard a card.Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "39",
+  "artist": "Howard Lyon",
+  "rating": "2.737",
+  "votes": "38"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Rhystic Syphon",
+  "image": "./img/rhystic-syphon.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Unless target player pays , he or she loses 5 life and you gain 5 life.",
+  "expansion": "Prophecy",
+  "rarity": "Uncommon",
+  "cardNumber": "76",
+  "artist": "Ron Spencer",
+  "rating": "3.094",
+  "votes": "32"
+}

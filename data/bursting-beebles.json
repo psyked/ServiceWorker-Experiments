@@ -1,0 +1,13 @@
+{
+  "title": "Bursting Beebles",
+  "image": "./img/bursting-beebles.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature — Beeble",
+  "text": "Bursting Beebles is unblockable as long as defending player controls two or more nonland permanents that share an artist.",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "28",
+  "artist": "David \"Beeblemania\" Martin",
+  "rating": "3.712",
+  "votes": "26"
+}

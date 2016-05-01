@@ -1,0 +1,13 @@
+{
+  "title": "Stoneshaker Shaman",
+  "image": "./img/stoneshaker-shaman.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Shaman",
+  "text": "At the beginning of each player's end step, that player sacrifices an untapped land.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "145",
+  "artist": "Jeff Miracola",
+  "rating": "2.548",
+  "votes": "31"
+}

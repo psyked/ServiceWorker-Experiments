@@ -1,0 +1,13 @@
+{
+  "title": "Mizzium Transreliquat",
+  "image": "./img/mizzium-transreliquat.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Mizzium Transreliquat becomes a copy of target artifact until end of turn.: Mizzium Transreliquat becomes a copy of target artifact and gains this ability.",
+  "expansion": "Guildpact",
+  "rarity": "Rare",
+  "cardNumber": "153",
+  "artist": "John Avon",
+  "rating": "4.200",
+  "votes": "50"
+}

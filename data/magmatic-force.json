@@ -1,0 +1,13 @@
+{
+  "title": "Magmatic Force",
+  "image": "./img/magmatic-force.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Elemental",
+  "text": "At the beginning of each upkeep, Magmatic Force deals 3 damage to target creature or player.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Rare",
+  "cardNumber": "128",
+  "artist": "Jung Park",
+  "rating": "4.029",
+  "votes": "70"
+}

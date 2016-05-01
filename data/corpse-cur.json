@@ -1,0 +1,13 @@
+{
+  "title": "Corpse Cur",
+  "image": "./img/corpse-cur.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Hound",
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)When Corpse Cur enters the battlefield, you may return target creature card with infect from your graveyard to your hand.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "147",
+  "artist": "Pete Venters",
+  "rating": "3.259",
+  "votes": "87"
+}

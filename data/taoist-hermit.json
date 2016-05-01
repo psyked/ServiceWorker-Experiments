@@ -1,0 +1,13 @@
+{
+  "title": "Taoist Hermit",
+  "image": "./img/taoist-hermit.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Mystic",
+  "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Uncommon",
+  "cardNumber": "150",
+  "artist": "Wang Yuqun",
+  "rating": "3.378",
+  "votes": "37"
+}

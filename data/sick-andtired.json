@@ -1,0 +1,13 @@
+{
+  "title": "Sick and Tired",
+  "image": "./img/sick-andtired.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Two target creatures each get -1/-1 until end of turn.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Common",
+  "cardNumber": "66",
+  "artist": "Val Mayerik",
+  "rating": "2.865",
+  "votes": "26"
+}

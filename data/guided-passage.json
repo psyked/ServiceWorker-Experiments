@@ -1,0 +1,13 @@
+{
+  "title": "Guided Passage",
+  "image": "./img/guided-passage.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Reveal the cards in your library. An opponent chooses from among them a creature card, a land card, and a noncreature, nonland card. You put the chosen cards into your hand. Then shuffle your library.",
+  "expansion": "Apocalypse",
+  "rarity": "Rare",
+  "cardNumber": "105",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "4.326",
+  "votes": "72"
+}

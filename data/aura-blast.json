@@ -1,0 +1,13 @@
+{
+  "title": "Aura Blast",
+  "image": "./img/aura-blast.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Destroy target enchantment.Draw a card.",
+  "expansion": "Planeshift",
+  "rarity": "Common",
+  "cardNumber": "1",
+  "artist": "Ron Walotsky",
+  "rating": "3.274",
+  "votes": "42"
+}

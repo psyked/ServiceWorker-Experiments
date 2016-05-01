@@ -1,0 +1,13 @@
+{
+  "title": "Rhox Maulers",
+  "image": "./img/rhox-maulers.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Rhino Soldier",
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)Renown 2 (When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.)",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "196",
+  "artist": "Zoltan Boros",
+  "rating": "5",
+  "votes": "0"
+}

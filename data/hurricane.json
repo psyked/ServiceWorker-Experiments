@@ -1,0 +1,13 @@
+{
+  "title": "Hurricane",
+  "image": "./img/hurricane.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Hurricane deals X damage to each creature with flying and each player.",
+  "expansion": "Tenth Edition",
+  "rarity": "Rare",
+  "cardNumber": "270",
+  "artist": "John Howe",
+  "rating": "3.947",
+  "votes": "75"
+}

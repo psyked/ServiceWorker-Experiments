@@ -1,0 +1,13 @@
+{
+  "title": "Ambush Krotiq",
+  "image": "./img/ambush-krotiq.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Insect",
+  "text": "TrampleWhen Ambush Krotiq enters the battlefield, return another creature you control to its owner's hand.",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "122",
+  "artist": "Filip Burburan",
+  "rating": "5",
+  "votes": "0"
+}

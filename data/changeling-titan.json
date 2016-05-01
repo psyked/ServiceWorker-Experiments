@@ -1,0 +1,13 @@
+{
+  "title": "Changeling Titan",
+  "image": "./img/changeling-titan.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Shapeshifter",
+  "text": "Changeling (This card is every creature type.)Champion a creature (When this enters the battlefield, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)",
+  "expansion": "Lorwyn",
+  "rarity": "Uncommon",
+  "cardNumber": "200",
+  "artist": "Jesper Ejsing",
+  "rating": "3.710",
+  "votes": "62"
+}

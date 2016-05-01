@@ -1,0 +1,13 @@
+{
+  "title": "Dark Privilege",
+  "image": "./img/dark-privilege.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+1.Sacrifice a creature: Regenerate enchanted creature.",
+  "expansion": "Visions",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Tom Kyffin",
+  "rating": "2.581",
+  "votes": "37"
+}

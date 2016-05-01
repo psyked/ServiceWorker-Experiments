@@ -1,0 +1,13 @@
+{
+  "title": "Library of Lat-Nam",
+  "image": "./img/library-oflat-nam.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "An opponent chooses one —• You draw three cards at the beginning of the next turn's upkeep.• You search your library for a card, put that card into your hand, then shuffle your library.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Rare",
+  "cardNumber": "78",
+  "artist": "Alan Rabinowitz",
+  "rating": "3.118",
+  "votes": "38"
+}

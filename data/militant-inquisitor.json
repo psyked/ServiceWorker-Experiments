@@ -1,0 +1,13 @@
+{
+  "title": "Militant Inquisitor",
+  "image": "./img/militant-inquisitor.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": "Militant Inquisitor gets +1/+0 for each Equipment you control.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "26",
+  "artist": "Karl Kopinski",
+  "rating": "5",
+  "votes": "0"
+}

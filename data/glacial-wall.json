@@ -1,0 +1,13 @@
+{
+  "title": "Glacial Wall",
+  "image": "./img/glacial-wall.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)",
+  "expansion": "Seventh Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "78",
+  "artist": "Heather Hudson",
+  "rating": "3.011",
+  "votes": "44"
+}

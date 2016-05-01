@@ -1,0 +1,13 @@
+{
+  "title": "Soltari Trooper",
+  "image": "./img/soltari-trooper.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Soltari Soldier",
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)Whenever Soltari Trooper attacks, it gets +1/+1 until end of turn.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "33",
+  "artist": "Kev Walker",
+  "rating": "5",
+  "votes": "0"
+}

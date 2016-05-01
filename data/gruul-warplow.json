@@ -1,0 +1,13 @@
+{
+  "title": "Gruul War Plow",
+  "image": "./img/gruul-warplow.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "Creatures you control have trample.: Gruul War Plow becomes a 4/4 Juggernaut artifact creature until end of turn.",
+  "expansion": "Guildpact",
+  "rarity": "Rare",
+  "cardNumber": "151",
+  "artist": "Martina Pilcerova",
+  "rating": "3.880",
+  "votes": "46"
+}

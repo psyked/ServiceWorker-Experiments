@@ -1,0 +1,13 @@
+{
+  "title": "Corrupted Grafstone",
+  "image": "./img/corrupted-grafstone.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Corrupted Grafstone enters the battlefield tapped.: Choose a color of a card in your graveyard. Add one mana of that color to your mana pool.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "253",
+  "artist": "Bastien L. Deharme",
+  "rating": "5",
+  "votes": "0"
+}

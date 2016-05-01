@@ -1,0 +1,13 @@
+{
+  "title": "Zodiac Monkey",
+  "image": "./img/zodiac-monkey.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Ape",
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+  "expansion": "Ninth Edition",
+  "rarity": "Common",
+  "cardNumber": "285",
+  "artist": "Richard Sardinha",
+  "rating": "2.516",
+  "votes": "32"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Balduvian War-Makers",
+  "image": "./img/balduvian-war-makers.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Barbarian",
+  "text": "HasteRampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)",
+  "expansion": "Alliances",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Mike Kimble",
+  "rating": "2.438",
+  "votes": "40"
+}

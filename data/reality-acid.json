@@ -1,0 +1,13 @@
+{
+  "title": "Reality Acid",
+  "image": "./img/reality-acid.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant permanentVanishing 3 (This Aura enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)When Reality Acid leaves the battlefield, enchanted permanent's controller sacrifices it.",
+  "expansion": "Planar Chaos",
+  "rarity": "Common",
+  "cardNumber": "45",
+  "artist": "James Wong",
+  "rating": "3.636",
+  "votes": "66"
+}

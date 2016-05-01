@@ -1,0 +1,13 @@
+{
+  "title": "Abandon Hope",
+  "image": "./img/abandon-hope.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Abandon Hope, discard X cards.Look at target opponent's hand and choose X cards from it. That player discards those cards.",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Alan Pollack",
+  "rating": "2.823",
+  "votes": "48"
+}

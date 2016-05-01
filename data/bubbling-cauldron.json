@@ -1,0 +1,13 @@
+{
+  "title": "Bubbling Cauldron",
+  "image": "./img/bubbling-cauldron.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", , Sacrifice a creature: You gain 4 life., , Sacrifice a creature named Festering Newt: Each opponent loses 4 life. You gain life equal to the life lost this way.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "205",
+  "artist": "Eric Deschamps",
+  "rating": "3.553",
+  "votes": "38"
+}

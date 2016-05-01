@@ -1,0 +1,13 @@
+{
+  "title": "Cloudgoat Ranger",
+  "image": "./img/cloudgoat-ranger.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Giant Warrior",
+  "text": "When Cloudgoat Ranger enters the battlefield, put three 1/1 white Kithkin Soldier creature tokens onto the battlefield.Tap three untapped Kithkin you control: Cloudgoat Ranger gets +2/+0 and gains flying until end of turn.",
+  "expansion": "Modern Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "10",
+  "artist": "Adam Rex",
+  "rating": "3.763",
+  "votes": "19"
+}

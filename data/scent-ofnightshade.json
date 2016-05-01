@@ -1,0 +1,13 @@
+{
+  "title": "Scent of Nightshade",
+  "image": "./img/scent-ofnightshade.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Reveal any number of black cards in your hand. Target creature gets -X/-X until end of turn, where X is the number of cards revealed this way.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "69",
+  "artist": "John Avon",
+  "rating": "2.956",
+  "votes": "34"
+}

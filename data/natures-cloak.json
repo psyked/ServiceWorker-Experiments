@@ -1,0 +1,13 @@
+{
+  "title": "Nature's Cloak",
+  "image": "./img/natures-cloak.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Green creatures you control gain forestwalk until end of turn. Forestwalk (They can't be blocked as long as defending player controls a Forest.)",
+  "expansion": "Starter 1999",
+  "rarity": "Rare",
+  "cardNumber": "135",
+  "artist": "Rebecca Guay",
+  "rating": "1.969",
+  "votes": "32"
+}

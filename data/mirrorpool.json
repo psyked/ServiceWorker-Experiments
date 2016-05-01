@@ -1,0 +1,13 @@
+{
+  "title": "Mirrorpool",
+  "image": "./img/mirrorpool.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "Mirrorpool enters the battlefield tapped.: Add  to your mana pool., , Sacrifice Mirrorpool: Copy target instant or sorcery spell you control. You may choose new targets for the copy., , Sacrifice Mirrorpool: Put a token onto the battlefield that's a copy of target creature you control.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Mythic Rare",
+  "cardNumber": "174",
+  "artist": "Cliff Childs",
+  "rating": "5",
+  "votes": "0"
+}

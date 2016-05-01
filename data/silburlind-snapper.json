@@ -1,0 +1,13 @@
+{
+  "title": "Silburlind Snapper",
+  "image": "./img/silburlind-snapper.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Turtle",
+  "text": "Silburlind Snapper can't attack unless you've cast a noncreature spell this turn.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "85",
+  "artist": "Tomasz Jedruszek",
+  "rating": "5",
+  "votes": "0"
+}

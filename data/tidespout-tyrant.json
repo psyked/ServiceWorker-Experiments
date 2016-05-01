@@ -1,0 +1,13 @@
+{
+  "title": "Tidespout Tyrant",
+  "image": "./img/tidespout-tyrant.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Djinn",
+  "text": "FlyingWhenever you cast a spell, return target permanent to its owner's hand.",
+  "expansion": "Dissension",
+  "rarity": "Rare",
+  "cardNumber": "34",
+  "artist": "Dany Orizio",
+  "rating": "4.361",
+  "votes": "83"
+}

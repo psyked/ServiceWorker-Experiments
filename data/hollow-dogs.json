@@ -1,0 +1,13 @@
+{
+  "title": "Hollow Dogs",
+  "image": "./img/hollow-dogs.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie Hound",
+  "text": "Whenever Hollow Dogs attacks, it gets +2/+0 until end of turn.",
+  "expansion": "Ninth Edition",
+  "rarity": "Common",
+  "cardNumber": "139",
+  "artist": "Jeff Miracola",
+  "rating": "1.845",
+  "votes": "42"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Soul Rend",
+  "image": "./img/soul-rend.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Destroy target creature if it's white. A creature destroyed this way can't be regenerated.Draw a card at the beginning of the next turn's upkeep.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Jeff Miracola",
+  "rating": "3.297",
+  "votes": "32"
+}

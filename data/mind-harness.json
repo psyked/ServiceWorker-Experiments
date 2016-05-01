@@ -1,0 +1,13 @@
+{
+  "title": "Mind Harness",
+  "image": "./img/mind-harness.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant red or green creatureCumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)You control enchanted creature.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "John Malloy",
+  "rating": "3.096",
+  "votes": "47"
+}

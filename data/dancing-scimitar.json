@@ -1,0 +1,13 @@
+{
+  "title": "Dancing Scimitar",
+  "image": "./img/dancing-scimitar.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Spirit",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+  "expansion": "Ninth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "292",
+  "artist": "Ron Spears",
+  "rating": "3.089",
+  "votes": "45"
+}

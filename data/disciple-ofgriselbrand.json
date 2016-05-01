@@ -1,0 +1,13 @@
+{
+  "title": "Disciple of Griselbrand",
+  "image": "./img/disciple-ofgriselbrand.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": ", Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "74",
+  "artist": "Clint Cearley",
+  "rating": "3.750",
+  "votes": "14"
+}

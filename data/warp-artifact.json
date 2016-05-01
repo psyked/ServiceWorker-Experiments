@@ -1,0 +1,13 @@
+{
+  "title": "Warp Artifact",
+  "image": "./img/warp-artifact.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant artifactAt the beginning of the upkeep of enchanted artifact's controller, Warp Artifact deals 1 damage to that player.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "100",
+  "artist": "Amy Weber",
+  "rating": "2.917",
+  "votes": "24"
+}

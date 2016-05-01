@@ -1,0 +1,13 @@
+{
+  "title": "Primal Clay",
+  "image": "./img/primal-clay.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Shapeshifter",
+  "text": "As Primal Clay enters the battlefield, it becomes your choice of a 3/3 artifact creature, a 2/2 artifact creature with flying, or a 1/6 Wall artifact creature with defender in addition to its other types. (A creature with defender can't attack.)",
+  "expansion": "Magic 2013",
+  "rarity": "Uncommon",
+  "cardNumber": "210",
+  "artist": "Lucas Graciano",
+  "rating": "3.545",
+  "votes": "44"
+}

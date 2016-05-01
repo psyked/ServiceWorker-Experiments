@@ -1,0 +1,13 @@
+{
+  "title": "Refreshing Rain",
+  "image": "./img/refreshing-rain.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "If an opponent controls a Swamp and you control a Forest, you may cast Refreshing Rain without paying its mana cost.Target player gains 6 life.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "110",
+  "artist": "Don Hazeltine",
+  "rating": "3.290",
+  "votes": "31"
+}

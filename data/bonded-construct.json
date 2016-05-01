@@ -1,0 +1,13 @@
+{
+  "title": "Bonded Construct",
+  "image": "./img/bonded-construct.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact Creature  — Construct",
+  "text": "Bonded Construct can't attack alone.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "223",
+  "artist": "Craig J Spearing",
+  "rating": "5",
+  "votes": "0"
+}

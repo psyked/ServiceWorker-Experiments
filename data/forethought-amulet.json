@@ -1,0 +1,13 @@
+{
+  "title": "Forethought Amulet",
+  "image": "./img/forethought-amulet.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, sacrifice Forethought Amulet unless you pay .If an instant or sorcery source would deal 3 or more damage to you, it deals 2 damage to you instead.",
+  "expansion": "Legends",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Melissa Benson",
+  "rating": "2.276",
+  "votes": "38"
+}

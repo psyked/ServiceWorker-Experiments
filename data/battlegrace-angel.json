@@ -1,0 +1,13 @@
+{
+  "title": "Battlegrace Angel",
+  "image": "./img/battlegrace-angel.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Angel",
+  "text": "FlyingExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)Whenever a creature you control attacks alone, it gains lifelink until end of turn.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Rare",
+  "cardNumber": "10",
+  "artist": "Matt Stewart",
+  "rating": "5",
+  "votes": "0"
+}

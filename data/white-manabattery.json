@@ -1,0 +1,13 @@
+{
+  "title": "White Mana Battery",
+  "image": "./img/white-manabattery.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ", : Put a charge counter on White Mana Battery., Remove any number of charge counters from White Mana Battery: Add  to your mana pool, then add an additional  to your mana pool for each charge counter removed this way.",
+  "expansion": "Fourth Edition",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Anthony S. Waters",
+  "rating": "2.304",
+  "votes": "23"
+}

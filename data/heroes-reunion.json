@@ -1,0 +1,13 @@
+{
+  "title": "Heroes' Reunion",
+  "image": "./img/heroes-reunion.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target player gains 7 life.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "168",
+  "artist": "Howard Lyon",
+  "rating": "3.715",
+  "votes": "72"
+}

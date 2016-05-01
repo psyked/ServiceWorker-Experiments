@@ -1,0 +1,13 @@
+{
+  "title": "Chasm Skulker",
+  "image": "./img/chasm-skulker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Squid Horror",
+  "text": "Whenever you draw a card, put a +1/+1 counter on Chasm Skulker.When Chasm Skulker dies, put X 1/1 blue Squid creature tokens with islandwalk onto the battlefield, where X is the number of +1/+1 counters on Chasm Skulker. (They can't be blocked as long as defending player controls an Island.)",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "46",
+  "artist": "Jack Wang",
+  "rating": "4.000",
+  "votes": "14"
+}

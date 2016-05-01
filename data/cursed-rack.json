@@ -1,0 +1,13 @@
+{
+  "title": "Cursed Rack",
+  "image": "./img/cursed-rack.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "As Cursed Rack enters the battlefield, choose an opponent.The chosen player's maximum hand size is four.",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "155",
+  "artist": "Richard Thomas",
+  "rating": "3.914",
+  "votes": "29"
+}

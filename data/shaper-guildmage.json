@@ -1,0 +1,13 @@
+{
+  "title": "Shaper Guildmage",
+  "image": "./img/shaper-guildmage.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Wizard",
+  "text": ", : Target creature gains first strike until end of turn., : Target creature gets +1/+0 until end of turn.",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "D. Alexander Gregory",
+  "rating": "3.014",
+  "votes": "35"
+}

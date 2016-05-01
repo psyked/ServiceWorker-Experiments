@@ -1,0 +1,13 @@
+{
+  "title": "Shattered Angel",
+  "image": "./img/shattered-angel.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Angel",
+  "text": "FlyingWhenever a land enters the battlefield under an opponent's control, you may gain 3 life.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Uncommon",
+  "cardNumber": "31",
+  "artist": "Kev Walker",
+  "rating": "2.911",
+  "votes": "45"
+}

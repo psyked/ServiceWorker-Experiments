@@ -1,0 +1,13 @@
+{
+  "title": "Ember Shot",
+  "image": "./img/ember-shot.jpg",
+  "convertedManaCost": "7",
+  "types": "Instant",
+  "text": "Ember Shot deals 3 damage to target creature or player.Draw a card.",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "87",
+  "artist": "Alan Pollack",
+  "rating": "0.889",
+  "votes": "274"
+}

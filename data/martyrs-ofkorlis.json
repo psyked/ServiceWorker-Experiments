@@ -1,0 +1,13 @@
+{
+  "title": "Martyrs of Korlis",
+  "image": "./img/martyrs-ofkorlis.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human",
+  "text": "As long as Martyrs of Korlis is untapped, all damage that would be dealt to you by artifacts is dealt to Martyrs of Korlis instead.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "20",
+  "artist": "Margaret Organ-Kean",
+  "rating": "2.963",
+  "votes": "27"
+}

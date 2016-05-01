@@ -1,0 +1,13 @@
+{
+  "title": "Heat Ray",
+  "image": "./img/heat-ray.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Heat Ray deals X damage to target creature.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "148",
+  "artist": "Austin Hsu",
+  "rating": "3.200",
+  "votes": "5"
+}

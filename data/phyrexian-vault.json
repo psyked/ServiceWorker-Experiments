@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Vault",
+  "image": "./img/phyrexian-vault.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", , Sacrifice a creature: Draw a card.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Uncommon",
+  "cardNumber": "21",
+  "artist": "Hannibal King",
+  "rating": "2.919",
+  "votes": "43"
+}

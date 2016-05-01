@@ -1,0 +1,13 @@
+{
+  "title": "Neurok Hoversail",
+  "image": "./img/neurok-hoversail.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature has flying.Equip  (: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "218",
+  "artist": "Alan Pollack",
+  "rating": "2.983",
+  "votes": "30"
+}

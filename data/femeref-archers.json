@@ -1,0 +1,13 @@
+{
+  "title": "Femeref Archers",
+  "image": "./img/femeref-archers.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Archer",
+  "text": ": Femeref Archers deals 4 damage to target attacking creature with flying.",
+  "expansion": "Tenth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "264",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "3.583",
+  "votes": "36"
+}

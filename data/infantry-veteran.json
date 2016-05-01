@@ -1,0 +1,13 @@
+{
+  "title": "Infantry Veteran",
+  "image": "./img/infantry-veteran.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Soldier",
+  "text": ": Target attacking creature gets +1/+1 until end of turn.",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Common",
+  "cardNumber": "3",
+  "artist": "Zoltan Boros",
+  "rating": "2.000",
+  "votes": "1"
+}

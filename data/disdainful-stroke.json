@@ -1,0 +1,13 @@
+{
+  "title": "Disdainful Stroke",
+  "image": "./img/disdainful-stroke.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Counter target spell with converted mana cost 4 or greater.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "37",
+  "artist": "Svetlin Velinov",
+  "rating": "3.200",
+  "votes": "5"
+}

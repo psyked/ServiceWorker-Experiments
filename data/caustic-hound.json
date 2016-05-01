@@ -1,0 +1,13 @@
+{
+  "title": "Caustic Hound",
+  "image": "./img/caustic-hound.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Hound",
+  "text": "When Caustic Hound dies, each player loses 4 life.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "40",
+  "artist": "Dave Allsop",
+  "rating": "1.951",
+  "votes": "72"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Greater Basilisk",
+  "image": "./img/greater-basilisk.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Basilisk",
+  "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "expansion": "Magic 2012",
+  "rarity": "Common",
+  "cardNumber": "179",
+  "artist": "James Ryman",
+  "rating": "3.216",
+  "votes": "44"
+}

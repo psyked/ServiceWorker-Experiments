@@ -1,0 +1,13 @@
+{
+  "title": "Spellbound Dragon",
+  "image": "./img/spellbound-dragon.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhenever Spellbound Dragon attacks, draw a card, then discard a card. Spellbound Dragon gets +X/+0 until end of turn, where X is the discarded card's converted mana cost.",
+  "expansion": "Alara Reborn",
+  "rarity": "Rare",
+  "cardNumber": "90",
+  "artist": "Jesper Ejsing",
+  "rating": "3.863",
+  "votes": "157"
+}

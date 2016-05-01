@@ -1,0 +1,13 @@
+{
+  "title": "Fledgling Djinn",
+  "image": "./img/fledgling-djinn.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Djinn",
+  "text": "FlyingAt the beginning of your upkeep, Fledgling Djinn deals 1 damage to you.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "121",
+  "artist": "Thomas Gianni",
+  "rating": "5",
+  "votes": "0"
+}

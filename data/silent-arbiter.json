@@ -1,0 +1,13 @@
+{
+  "title": "Silent Arbiter",
+  "image": "./img/silent-arbiter.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Construct",
+  "text": "No more than one creature can attack each combat.No more than one creature can block each combat.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Rare",
+  "cardNumber": "204",
+  "artist": "Mark Zug",
+  "rating": "4.083",
+  "votes": "6"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Riptide Biologist",
+  "image": "./img/riptide-biologist.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": "Protection from BeastsMorph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "106",
+  "artist": "Justin Sweet",
+  "rating": "1.911",
+  "votes": "28"
+}

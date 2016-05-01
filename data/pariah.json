@@ -1,0 +1,13 @@
+{
+  "title": "Pariah",
+  "image": "./img/pariah.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)All damage that would be dealt to you is dealt to enchanted creature instead.",
+  "expansion": "Tenth Edition",
+  "rarity": "Rare",
+  "cardNumber": "33",
+  "artist": "Jon J Muth",
+  "rating": "4.344",
+  "votes": "109"
+}

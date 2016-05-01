@@ -1,0 +1,13 @@
+{
+  "title": "Defiant Bloodlord",
+  "image": "./img/defiant-bloodlord.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Vampire",
+  "text": "FlyingWhenever you gain life, target opponent loses that much life.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "107",
+  "artist": "Craig J Spearing",
+  "rating": "5",
+  "votes": "0"
+}

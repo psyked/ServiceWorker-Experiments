@@ -1,0 +1,13 @@
+{
+  "title": "Hundroog",
+  "image": "./img/hundroog.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Beast",
+  "text": "Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Legions",
+  "rarity": "Common",
+  "cardNumber": "129",
+  "artist": "Wayne England",
+  "rating": "1.333",
+  "votes": "27"
+}

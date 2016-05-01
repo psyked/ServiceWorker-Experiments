@@ -1,0 +1,13 @@
+{
+  "title": "Shock",
+  "image": "./img/shock.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Shock deals 2 damage to target creature or player.",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Common",
+  "cardNumber": "21",
+  "artist": "Jon Foster",
+  "rating": "2.000",
+  "votes": "1"
+}

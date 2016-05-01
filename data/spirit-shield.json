@@ -1,0 +1,13 @@
+{
+  "title": "Spirit Shield",
+  "image": "./img/spirit-shield.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "You may choose not to untap Spirit Shield during your untap step., : Target creature gets +0/+2 for as long as Spirit Shield remains tapped.",
+  "expansion": "Fallen Empires",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Scott Kirschner",
+  "rating": "1.654",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Tamanoa",
+  "image": "./img/tamanoa.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "Whenever a noncreature source you control deals damage, you gain that much life.",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "132",
+  "artist": "rk post",
+  "rating": "4.306",
+  "votes": "93"
+}

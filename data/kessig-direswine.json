@@ -1,0 +1,13 @@
+{
+  "title": "Kessig Dire Swine",
+  "image": "./img/kessig-direswine.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Boar Horror",
+  "text": "Delirium — Kessig Dire Swine has trample as long as there are four or more card types among cards in your graveyard.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "214",
+  "artist": "Jason Kang",
+  "rating": "5",
+  "votes": "0"
+}

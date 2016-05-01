@@ -1,0 +1,13 @@
+{
+  "title": "Jeskai Elder",
+  "image": "./img/jeskai-elder.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Monk",
+  "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)Whenever Jeskai Elder deals combat damage to a player, you may draw a card. If you do, discard a card.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "43",
+  "artist": "Craig J Spearing",
+  "rating": "3.167",
+  "votes": "3"
+}

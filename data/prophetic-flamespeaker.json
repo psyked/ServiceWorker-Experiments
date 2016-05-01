@@ -1,0 +1,13 @@
+{
+  "title": "Prophetic Flamespeaker",
+  "image": "./img/prophetic-flamespeaker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Shaman",
+  "text": "Double strike, trampleWhenever Prophetic Flamespeaker deals combat damage to a player, exile the top card of your library. You may play it this turn.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Mythic Rare",
+  "cardNumber": "106",
+  "artist": "Cynthia Sheppard",
+  "rating": "4.262",
+  "votes": "63"
+}

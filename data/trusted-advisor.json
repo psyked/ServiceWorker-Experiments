@@ -1,0 +1,13 @@
+{
+  "title": "Trusted Advisor",
+  "image": "./img/trusted-advisor.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Advisor",
+  "text": "Your maximum hand size is increased by two.At the beginning of your upkeep, return a blue creature you control to its owner's hand.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "59",
+  "artist": "Jim Nelson",
+  "rating": "3.661",
+  "votes": "62"
+}

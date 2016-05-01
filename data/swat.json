@@ -1,0 +1,13 @@
+{
+  "title": "Swat",
+  "image": "./img/swat.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Destroy target creature with power 2 or less.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "174",
+  "artist": "rk post",
+  "rating": "3.027",
+  "votes": "37"
+}

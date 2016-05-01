@@ -1,0 +1,13 @@
+{
+  "title": "Taste for Mayhem",
+  "image": "./img/taste-formayhem.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+0.Hellbent — Enchanted creature gets an additional +2/+0 as long as you have no cards in hand.",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "75",
+  "artist": "Greg Hildebrandt",
+  "rating": "3.333",
+  "votes": "48"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Voidmage Apprentice",
+  "image": "./img/voidmage-apprentice.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": "Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)When Voidmage Apprentice is turned face up, counter target spell.",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Common",
+  "cardNumber": "4",
+  "artist": "Jim Nelson",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Cyclopean Snare",
+  "image": "./img/cyclopean-snare.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", : Tap target creature, then return Cyclopean Snare to its owner's hand.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "259",
+  "artist": "Keith Garletts",
+  "rating": "0.875",
+  "votes": "100"
+}

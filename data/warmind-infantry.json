@@ -1,0 +1,13 @@
+{
+  "title": "Warmind Infantry",
+  "image": "./img/warmind-infantry.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental Soldier",
+  "text": "Battalion — Whenever Warmind Infantry and at least two other creatures attack, Warmind Infantry gets +2/+0 until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "Greg Staples",
+  "rating": "2.730",
+  "votes": "37"
+}

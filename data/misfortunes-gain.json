@@ -1,0 +1,13 @@
+{
+  "title": "Misfortune's Gain",
+  "image": "./img/misfortunes-gain.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy target creature. Its owner gains 4 life.",
+  "expansion": "Masters Edition III",
+  "rarity": "Common",
+  "cardNumber": "21",
+  "artist": "Jiaming",
+  "rating": "2.600",
+  "votes": "25"
+}

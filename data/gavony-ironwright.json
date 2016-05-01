@@ -1,0 +1,13 @@
+{
+  "title": "Gavony Ironwright",
+  "image": "./img/gavony-ironwright.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "Fateful hour — As long as you have 5 or less life, other creatures you control get +1/+4.",
+  "expansion": "Dark Ascension",
+  "rarity": "Uncommon",
+  "cardNumber": "9",
+  "artist": "Karl Kopinski",
+  "rating": "3.031",
+  "votes": "48"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Carry Away",
+  "image": "./img/carry-away.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant EquipmentWhen Carry Away enters the battlefield, unattach enchanted Equipment.You control enchanted Equipment.",
+  "expansion": "Darksteel",
+  "rarity": "Uncommon",
+  "cardNumber": "19",
+  "artist": "Jim Nelson",
+  "rating": "2.961",
+  "votes": "38"
+}

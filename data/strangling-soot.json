@@ -1,0 +1,13 @@
+{
+  "title": "Strangling Soot",
+  "image": "./img/strangling-soot.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Destroy target creature with toughness 3 or less.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Common",
+  "cardNumber": "65",
+  "artist": "Jim Murray",
+  "rating": "3.050",
+  "votes": "10"
+}

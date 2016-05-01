@@ -1,0 +1,13 @@
+{
+  "title": "Agony Warp",
+  "image": "./img/agony-warp.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets -3/-0 until end of turn.Target creature gets -0/-3 until end of turn.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "170",
+  "artist": "Dave Allsop",
+  "rating": "5",
+  "votes": "0"
+}

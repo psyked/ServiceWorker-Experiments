@@ -1,0 +1,13 @@
+{
+  "title": "Snake of the Golden Grove",
+  "image": "./img/snake-ofthegoldengrove.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Snake",
+  "text": "Tribute 3 (As this creature enters the battlefield, an opponent of your choice may place three +1/+1 counters on it.)When Snake of the Golden Grove enters the battlefield, if tribute wasn't paid, you gain 4 life.",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "141",
+  "artist": "Mathias Kollros",
+  "rating": "3.221",
+  "votes": "34"
+}

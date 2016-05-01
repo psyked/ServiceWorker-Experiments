@@ -1,0 +1,13 @@
+{
+  "title": "Whirling Catapult",
+  "image": "./img/whirling-catapult.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ", Exile the top two cards of your library: Whirling Catapult deals 1 damage to each creature with flying and each player.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "224",
+  "artist": "Dan Frazier",
+  "rating": "2.875",
+  "votes": "28"
+}

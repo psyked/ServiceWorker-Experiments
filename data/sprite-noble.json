@@ -1,0 +1,13 @@
+{
+  "title": "Sprite Noble",
+  "image": "./img/sprite-noble.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Faerie",
+  "text": "FlyingOther creatures you control with flying get +0/+1.: Other creatures you control with flying get +1/+0 until end of turn.",
+  "expansion": "Time Spiral",
+  "rarity": "Rare",
+  "cardNumber": "81",
+  "artist": "Randy Gallegos",
+  "rating": "3.926",
+  "votes": "47"
+}

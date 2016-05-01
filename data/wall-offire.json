@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Fire",
+  "image": "./img/wall-offire.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.): Wall of Fire gets +1/+0 until end of turn.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "167",
+  "artist": "Dan Dos Santos",
+  "rating": "1.900",
+  "votes": "5"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Belligerent Sliver",
+  "image": "./img/belligerent-sliver.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Sliver",
+  "text": "Sliver creatures you control have menace. (They can't be blocked except by two or more creatures.)",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "129",
+  "artist": "Raymond Swanland",
+  "rating": "3.400",
+  "votes": "5"
+}

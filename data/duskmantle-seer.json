@@ -1,0 +1,13 @@
+{
+  "title": "Duskmantle Seer",
+  "image": "./img/duskmantle-seer.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Vampire Wizard",
+  "text": "FlyingAt the beginning of your upkeep, each player reveals the top card of his or her library, loses life equal to that card's converted mana cost, then puts it into his or her hand.",
+  "expansion": "Gatecrash",
+  "rarity": "Mythic Rare",
+  "cardNumber": "159",
+  "artist": "Kev Walker",
+  "rating": "3.735",
+  "votes": "115"
+}

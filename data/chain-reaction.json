@@ -1,0 +1,13 @@
+{
+  "title": "Chain Reaction",
+  "image": "./img/chain-reaction.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Chain Reaction deals X damage to each creature, where X is the number of creatures on the battlefield.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "144",
+  "artist": "Trevor Claxton",
+  "rating": "5",
+  "votes": "0"
+}

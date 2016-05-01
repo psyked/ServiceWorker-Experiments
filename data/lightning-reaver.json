@@ -1,0 +1,13 @@
+{
+  "title": "Lightning Reaver",
+  "image": "./img/lightning-reaver.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie Beast",
+  "text": "Haste; fear (This creature can't be blocked except by artifact creatures and/or black creatures.)Whenever Lightning Reaver deals combat damage to a player, put a charge counter on it.At the beginning of your end step, Lightning Reaver deals damage equal to the number of charge counters on it to each opponent.",
+  "expansion": "Alara Reborn",
+  "rarity": "Rare",
+  "cardNumber": "42",
+  "artist": "Cyril Van Der Haegen",
+  "rating": "3.796",
+  "votes": "147"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Brilliant Spectrum",
+  "image": "./img/brilliant-spectrum.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Converge — Draw X cards, where X is the number of colors of mana spent to cast Brilliant Spectrum. Then discard two cards.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "70",
+  "artist": "Winona Nelson",
+  "rating": "5",
+  "votes": "0"
+}

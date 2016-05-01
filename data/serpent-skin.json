@@ -1,0 +1,13 @@
+{
+  "title": "Serpent Skin",
+  "image": "./img/serpent-skin.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "FlashEnchant creatureEnchanted creature gets +1/+1.: Regenerate enchanted creature.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "240",
+  "artist": "Rob Alexander",
+  "rating": "3.014",
+  "votes": "36"
+}

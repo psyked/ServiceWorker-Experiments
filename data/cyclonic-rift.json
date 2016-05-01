@@ -1,0 +1,13 @@
+{
+  "title": "Cyclonic Rift",
+  "image": "./img/cyclonic-rift.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Return target nonland permanent you don't control to its owner's hand.Overload  (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "104",
+  "artist": "Chris Rahn",
+  "rating": "5",
+  "votes": "0"
+}

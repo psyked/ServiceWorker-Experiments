@@ -1,0 +1,13 @@
+{
+  "title": "Gauntlets of Chaos",
+  "image": "./img/gauntlets-ofchaos.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": ", Sacrifice Gauntlets of Chaos: Exchange control of target artifact, creature, or land you control and target permanent an opponent controls that shares one of those types with it. If those permanents are exchanged this way, destroy all Auras attached to them.",
+  "expansion": "Masters Edition III",
+  "rarity": "Rare",
+  "cardNumber": "196",
+  "artist": "Dan Frazier",
+  "rating": "2.909",
+  "votes": "22"
+}

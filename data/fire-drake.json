@@ -1,0 +1,13 @@
+{
+  "title": "Fire Drake",
+  "image": "./img/fire-drake.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Drake",
+  "text": "Flying: Fire Drake gets +1/+0 until end of turn. Activate this ability only once each turn.",
+  "expansion": "Masters Edition III",
+  "rarity": "Common",
+  "cardNumber": "98",
+  "artist": "Christopher Rush",
+  "rating": "2.190",
+  "votes": "42"
+}

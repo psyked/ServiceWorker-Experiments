@@ -1,0 +1,13 @@
+{
+  "title": "Ceta Sanctuary",
+  "image": "./img/ceta-sanctuary.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, if you control a red or green permanent, draw a card, then discard a card. If you control a red permanent and a green permanent, instead draw two cards, then discard a card.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "20",
+  "artist": "Franz Vohwinkel",
+  "rating": "3.500",
+  "votes": "34"
+}

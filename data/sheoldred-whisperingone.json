@@ -1,0 +1,13 @@
+{
+  "title": "Sheoldred, Whispering One",
+  "image": "./img/sheoldred-whisperingone.jpg",
+  "convertedManaCost": "7",
+  "types": "Legendary Creature  — Praetor",
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.At the beginning of each opponent's upkeep, that player sacrifices a creature.",
+  "expansion": "New Phyrexia",
+  "rarity": "Mythic Rare",
+  "cardNumber": "73",
+  "artist": "Jana Schirmer & Johannes Voss",
+  "rating": "3.917",
+  "votes": "278"
+}

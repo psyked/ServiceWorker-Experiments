@@ -1,0 +1,13 @@
+{
+  "title": "Research the Deep",
+  "image": "./img/research-thedeep.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Draw a card. Clash with an opponent. If you win, return Research the Deep to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",
+  "expansion": "Morningtide",
+  "rarity": "Uncommon",
+  "cardNumber": "46",
+  "artist": "Eric Fortune",
+  "rating": "2.438",
+  "votes": "32"
+}

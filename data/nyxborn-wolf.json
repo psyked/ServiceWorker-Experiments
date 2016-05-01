@@ -1,0 +1,13 @@
+{
+  "title": "Nyxborn Wolf",
+  "image": "./img/nyxborn-wolf.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment Creature  — Wolf",
+  "text": "Bestow  (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)Enchanted creature gets +3/+1.",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "131",
+  "artist": "Lucas Graciano",
+  "rating": "2.633",
+  "votes": "30"
+}

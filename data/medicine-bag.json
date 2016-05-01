@@ -1,0 +1,13 @@
+{
+  "title": "Medicine Bag",
+  "image": "./img/medicine-bag.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", , Discard a card: Regenerate target creature.",
+  "expansion": "Exodus",
+  "rarity": "Uncommon",
+  "cardNumber": "133",
+  "artist": "DiTerlizzi",
+  "rating": "2.043",
+  "votes": "46"
+}

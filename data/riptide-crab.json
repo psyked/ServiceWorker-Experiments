@@ -1,0 +1,13 @@
+{
+  "title": "Riptide Crab",
+  "image": "./img/riptide-crab.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Crab",
+  "text": "VigilanceWhen Riptide Crab dies, draw a card.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "266",
+  "artist": "David Martin",
+  "rating": "3.878",
+  "votes": "37"
+}

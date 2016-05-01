@@ -1,0 +1,13 @@
+{
+  "title": "Perplex",
+  "image": "./img/perplex.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell unless its controller discards his or her hand.Transmute  (, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "217",
+  "artist": "Tsutomu Kawade",
+  "rating": "4.012",
+  "votes": "81"
+}

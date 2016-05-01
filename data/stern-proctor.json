@@ -1,0 +1,13 @@
+{
+  "title": "Stern Proctor",
+  "image": "./img/stern-proctor.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": "When Stern Proctor enters the battlefield, return target artifact or enchantment to its owner's hand.",
+  "expansion": "Urza's Saga",
+  "rarity": "Uncommon",
+  "cardNumber": "99",
+  "artist": "Randy Gallegos",
+  "rating": "3.589",
+  "votes": "28"
+}

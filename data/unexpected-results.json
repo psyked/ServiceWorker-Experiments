@@ -1,0 +1,13 @@
+{
+  "title": "Unexpected Results",
+  "image": "./img/unexpected-results.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Shuffle your library, then reveal the top card. If it's a nonland card, you may cast it without paying its mana cost. If it's a land card, you may put it onto the battlefield and return Unexpected Results to its owner's hand.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "203",
+  "artist": "Mike Bierek",
+  "rating": "3.512",
+  "votes": "82"
+}

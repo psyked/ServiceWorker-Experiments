@@ -1,0 +1,13 @@
+{
+  "title": "Stonybrook Schoolmaster",
+  "image": "./img/stonybrook-schoolmaster.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Merfolk Wizard",
+  "text": "Whenever Stonybrook Schoolmaster becomes tapped, you may put a 1/1 blue Merfolk Wizard creature token onto the battlefield.",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "25",
+  "artist": "Quinton Hoover & Val Mayerik",
+  "rating": "3.518",
+  "votes": "56"
+}

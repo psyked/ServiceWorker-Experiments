@@ -1,0 +1,13 @@
+{
+  "title": "Barrow Ghoul",
+  "image": "./img/barrow-ghoul.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie",
+  "text": "At the beginning of your upkeep, sacrifice Barrow Ghoul unless you exile the top creature card of your graveyard.",
+  "expansion": "Weatherlight",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Bryan Talbot",
+  "rating": "3.451",
+  "votes": "51"
+}

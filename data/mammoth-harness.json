@@ -1,0 +1,13 @@
+{
+  "title": "Mammoth Harness",
+  "image": "./img/mammoth-harness.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature loses flying.Whenever enchanted creature blocks or becomes blocked by a creature, the other creature gains first strike until end of turn.",
+  "expansion": "Homelands",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Melissa Benson",
+  "rating": "1.299",
+  "votes": "77"
+}

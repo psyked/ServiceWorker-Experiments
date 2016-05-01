@@ -1,0 +1,13 @@
+{
+  "title": "Fists of the Demigod",
+  "image": "./img/fists-ofthedemigod.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAs long as enchanted creature is black, it gets +1/+1 and has wither. (It deals damage to creatures in the form of -1/-1 counters.)As long as enchanted creature is red, it gets +1/+1 and has first strike.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "187",
+  "artist": "Dan Scott",
+  "rating": "3.960",
+  "votes": "87"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Serene Sunset",
+  "image": "./img/serene-sunset.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Prevent all combat damage X target creatures would deal this turn.",
+  "expansion": "Judgment",
+  "rarity": "Uncommon",
+  "cardNumber": "131",
+  "artist": "David Martin",
+  "rating": "3.033",
+  "votes": "30"
+}

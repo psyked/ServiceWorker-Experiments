@@ -1,0 +1,13 @@
+{
+  "title": "Symbiotic Elf",
+  "image": "./img/symbiotic-elf.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elf",
+  "text": "When Symbiotic Elf dies, put two 1/1 green Insect creature tokens onto the battlefield.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "288",
+  "artist": "Wayne England",
+  "rating": "2.796",
+  "votes": "27"
+}

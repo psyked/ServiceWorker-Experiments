@@ -1,0 +1,13 @@
+{
+  "title": "Tsabo's Decree",
+  "image": "./img/tsabos-decree.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "Choose a creature type. Target player reveals his or her hand and discards all creature cards of that type. Then destroy all creatures of that type that player controls. They can't be regenerated.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "129",
+  "artist": "Thomas M. Baxa",
+  "rating": "4.254",
+  "votes": "67"
+}

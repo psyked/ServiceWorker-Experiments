@@ -1,0 +1,13 @@
+{
+  "title": "Serpent of the Endless Sea",
+  "image": "./img/serpent-oftheendlesssea.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Serpent",
+  "text": "Serpent of the Endless Sea's power and toughness are each equal to the number of Islands you control.Serpent of the Endless Sea can't attack unless defending player controls an Island.",
+  "expansion": "Magic 2010",
+  "rarity": "Common",
+  "cardNumber": "70",
+  "artist": "Kieran Yanner",
+  "rating": "2.781",
+  "votes": "73"
+}

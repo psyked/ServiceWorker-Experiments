@@ -1,0 +1,13 @@
+{
+  "title": "Hidden Spider",
+  "image": "./img/hidden-spider.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment",
+  "text": "When an opponent casts a creature spell with flying, if Hidden Spider is an enchantment, Hidden Spider becomes a 3/5 Spider creature with reach. (It can block creatures with flying.)",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "264",
+  "artist": "Thomas M. Baxa",
+  "rating": "4.030",
+  "votes": "33"
+}

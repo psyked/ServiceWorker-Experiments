@@ -1,0 +1,13 @@
+{
+  "title": "Squirrel Mob",
+  "image": "./img/squirrel-mob.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Squirrel",
+  "text": "Squirrel Mob gets +1/+1 for each other Squirrel on the battlefield.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "273",
+  "artist": "Carl Critchlow",
+  "rating": "4.042",
+  "votes": "83"
+}

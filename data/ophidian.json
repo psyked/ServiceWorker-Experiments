@@ -1,0 +1,13 @@
+{
+  "title": "Ophidian",
+  "image": "./img/ophidian.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Snake",
+  "text": "Whenever Ophidian attacks and isn't blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn.",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Common",
+  "cardNumber": "9",
+  "artist": "Cliff Nielsen",
+  "rating": "5",
+  "votes": "0"
+}

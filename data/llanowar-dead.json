@@ -1,0 +1,13 @@
+{
+  "title": "Llanowar Dead",
+  "image": "./img/llanowar-dead.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie Elf",
+  "text": ": Add  to your mana pool.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "109",
+  "artist": "Ben Thompson",
+  "rating": "3.789",
+  "votes": "57"
+}

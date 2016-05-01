@@ -1,0 +1,13 @@
+{
+  "title": "Viridian Lorebearers",
+  "image": "./img/viridian-lorebearers.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elf Shaman",
+  "text": ", : Target creature gets +X/+X until end of turn, where X is the number of artifacts your opponents control.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "99",
+  "artist": "Darrell Riche",
+  "rating": "2.338",
+  "votes": "34"
+}

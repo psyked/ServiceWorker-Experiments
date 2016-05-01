@@ -1,0 +1,13 @@
+{
+  "title": "Aura Gnarlid",
+  "image": "./img/aura-gnarlid.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Beast",
+  "text": "Creatures with power less than Aura Gnarlid's power can't block it.Aura Gnarlid gets +1/+1 for each Aura on the battlefield.",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Common",
+  "cardNumber": "55",
+  "artist": "Lars Grant-West",
+  "rating": "3.817",
+  "votes": "41"
+}

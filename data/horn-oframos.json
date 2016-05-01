@@ -1,0 +1,13 @@
+{
+  "title": "Horn of Ramos",
+  "image": "./img/horn-oframos.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  to your mana pool.Sacrifice Horn of Ramos: Add  to your mana pool.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "299",
+  "artist": "David Martin",
+  "rating": "3.393",
+  "votes": "28"
+}

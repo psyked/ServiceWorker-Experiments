@@ -1,0 +1,13 @@
+{
+  "title": "Shielded Passage",
+  "image": "./img/shielded-passage.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Prevent all damage that would be dealt to target creature this turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "24",
+  "artist": "Raymond Swanland",
+  "rating": "2.000",
+  "votes": "53"
+}

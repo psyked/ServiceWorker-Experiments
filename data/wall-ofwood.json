@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Wood",
+  "image": "./img/wall-ofwood.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "309",
+  "artist": "Rebecca Guay",
+  "rating": "1.820",
+  "votes": "75"
+}

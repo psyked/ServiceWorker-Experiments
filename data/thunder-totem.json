@@ -1,0 +1,13 @@
+{
+  "title": "Thunder Totem",
+  "image": "./img/thunder-totem.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  to your mana pool.: Thunder Totem becomes a 2/2 white Spirit artifact creature with flying and first strike until end of turn.",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "265",
+  "artist": "Randy Gallegos",
+  "rating": "3.021",
+  "votes": "48"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Magnify",
+  "image": "./img/magnify.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "All creatures get +1/+1 until end of turn.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "Michael Sutfin",
+  "rating": "2.758",
+  "votes": "31"
+}

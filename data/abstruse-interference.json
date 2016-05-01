@@ -1,0 +1,13 @@
+{
+  "title": "Abstruse Interference",
+  "image": "./img/abstruse-interference.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Devoid (This card has no color.)Counter target spell unless its controller pays . You put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has \"Sacrifice this creature: Add  to your mana pool.\" ( represents colorless mana.)",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "40",
+  "artist": "Igor Kieryluk",
+  "rating": "5",
+  "votes": "0"
+}

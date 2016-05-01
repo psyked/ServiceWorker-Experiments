@@ -1,0 +1,13 @@
+{
+  "title": "Blitz Hellion",
+  "image": "./img/blitz-hellion.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Hellion",
+  "text": "Trample, hasteAt the beginning of the end step, Blitz Hellion's owner shuffles it into his or her library.",
+  "expansion": "Alara Reborn",
+  "rarity": "Rare",
+  "cardNumber": "49",
+  "artist": "Anthony S. Waters",
+  "rating": "3.302",
+  "votes": "116"
+}

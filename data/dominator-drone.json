@@ -1,0 +1,13 @@
+{
+  "title": "Dominator Drone",
+  "image": "./img/dominator-drone.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.)Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)When Dominator Drone enters the battlefield, if you control another colorless creature, each opponent loses 2 life.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "92",
+  "artist": "James Zapata",
+  "rating": "5",
+  "votes": "0"
+}

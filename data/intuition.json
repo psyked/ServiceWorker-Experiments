@@ -1,0 +1,13 @@
+{
+  "title": "Intuition",
+  "image": "./img/intuition.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Search your library for three cards and reveal them. Target opponent chooses one. Put that card into your hand and the rest into your graveyard. Then shuffle your library.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Rare",
+  "cardNumber": "54",
+  "artist": "April Lee",
+  "rating": "5",
+  "votes": "0"
+}

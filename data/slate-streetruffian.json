@@ -1,0 +1,13 @@
+{
+  "title": "Slate Street Ruffian",
+  "image": "./img/slate-streetruffian.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Warrior",
+  "text": "Whenever Slate Street Ruffian becomes blocked, defending player discards a card.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Common",
+  "cardNumber": "53",
+  "artist": "Jim Murray",
+  "rating": "3.500",
+  "votes": "7"
+}

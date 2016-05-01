@@ -1,0 +1,13 @@
+{
+  "title": "Runed Halo",
+  "image": "./img/runed-halo.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "As Runed Halo enters the battlefield, name a card.You have protection from the chosen name. (You can't be targeted, dealt damage, or enchanted by anything with that name.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "21",
+  "artist": "Steve Prescott",
+  "rating": "3.820",
+  "votes": "75"
+}

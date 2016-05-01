@@ -1,0 +1,13 @@
+{
+  "title": "Warden of the Wall",
+  "image": "./img/warden-ofthewall.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Warden of the Wall enters the battlefield tapped.: Add  to your mana pool.As long as it's not your turn, Warden of the Wall is a 2/3 Gargoyle artifact creature with flying.",
+  "expansion": "Dark Ascension",
+  "rarity": "Uncommon",
+  "cardNumber": "153",
+  "artist": "Daniel Ljunggren",
+  "rating": "2.554",
+  "votes": "37"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Volcanic Vision",
+  "image": "./img/volcanic-vision.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "Return target instant or sorcery card from your graveyard to your hand. Volcanic Vision deals damage equal to that card's converted mana cost to each creature your opponents control. Exile Volcanic Vision.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "167",
+  "artist": "Noah Bradley",
+  "rating": "5",
+  "votes": "0"
+}

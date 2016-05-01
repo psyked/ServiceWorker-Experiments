@@ -1,0 +1,13 @@
+{
+  "title": "Fallen Askari",
+  "image": "./img/fallen-askari.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Knight",
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)Fallen Askari can't block.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "119",
+  "artist": "Adrian Smith",
+  "rating": "3.500",
+  "votes": "1"
+}

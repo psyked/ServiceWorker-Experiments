@@ -1,0 +1,13 @@
+{
+  "title": "Grave Bramble",
+  "image": "./img/grave-bramble.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Plant",
+  "text": "Defender, protection from Zombies",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "184",
+  "artist": "Anthony Jones",
+  "rating": "3.362",
+  "votes": "80"
+}

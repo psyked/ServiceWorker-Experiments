@@ -1,0 +1,13 @@
+{
+  "title": "Magmatic Chasm",
+  "image": "./img/magmatic-chasm.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Creatures without flying can't block this turn.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "172",
+  "artist": "James Paick",
+  "rating": "5",
+  "votes": "0"
+}

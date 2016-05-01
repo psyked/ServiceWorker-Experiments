@@ -1,0 +1,13 @@
+{
+  "title": "Giant Crab",
+  "image": "./img/giant-crab.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Crab",
+  "text": ": Giant Crab gains shroud until end of turn. (It can't be the target of spells or abilities.)",
+  "expansion": "Beatdown Box Set",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Tom Kyffin",
+  "rating": "3.118",
+  "votes": "34"
+}

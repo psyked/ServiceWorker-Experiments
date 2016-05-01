@@ -1,0 +1,13 @@
+{
+  "title": "Calming Verse",
+  "image": "./img/calming-verse.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy all enchantments you don't control. Then, if you control an untapped land, destroy all enchantments you control.",
+  "expansion": "Prophecy",
+  "rarity": "Common",
+  "cardNumber": "110",
+  "artist": "Rebecca Guay",
+  "rating": "3.761",
+  "votes": "46"
+}

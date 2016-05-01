@@ -1,0 +1,13 @@
+{
+  "title": "Grim Poppet",
+  "image": "./img/grim-poppet.jpg",
+  "convertedManaCost": "7",
+  "types": "Artifact Creature  — Scarecrow",
+  "text": "Grim Poppet enters the battlefield with three -1/-1 counters on it.Remove a -1/-1 counter from Grim Poppet: Put a -1/-1 counter on another target creature.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "252",
+  "artist": "Kev Walker",
+  "rating": "3.981",
+  "votes": "79"
+}

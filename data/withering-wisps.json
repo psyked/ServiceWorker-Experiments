@@ -1,0 +1,13 @@
+{
+  "title": "Withering Wisps",
+  "image": "./img/withering-wisps.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of the end step, if no creatures are on the battlefield, sacrifice Withering Wisps.: Withering Wisps deals 1 damage to each creature and each player. Activate this ability no more times each turn than the number of snow Swamps you control.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "114",
+  "artist": "NéNé Thomas",
+  "rating": "4.172",
+  "votes": "29"
+}

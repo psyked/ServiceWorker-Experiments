@@ -1,0 +1,13 @@
+{
+  "title": "Instill Furor",
+  "image": "./img/instill-furor.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has \"At the beginning of your end step, sacrifice this creature unless it attacked this turn.\"",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "134",
+  "artist": "Jim Nelson",
+  "rating": "1.956",
+  "votes": "34"
+}

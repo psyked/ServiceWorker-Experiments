@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Kaboomist",
+  "image": "./img/goblin-kaboomist.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Warrior",
+  "text": "At the beginning of your upkeep, put a colorless artifact token named Land Mine onto the battlefield with \", Sacrifice this artifact: This artifact deals 2 damage to target attacking creature without flying.\" Then flip a coin. If you lose the flip, Goblin Kaboomist deals 2 damage to itself.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "144",
+  "artist": "Kev Walker",
+  "rating": "2.875",
+  "votes": "8"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Kor Scythemaster",
+  "image": "./img/kor-scythemaster.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kor Soldier Ally",
+  "text": "Kor Scythemaster has first strike as long as it's attacking.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "23",
+  "artist": "Ryan Pancoast",
+  "rating": "5",
+  "votes": "0"
+}

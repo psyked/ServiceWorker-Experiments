@@ -1,0 +1,13 @@
+{
+  "title": "Thrummingbird",
+  "image": "./img/thrummingbird.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Bird Horror",
+  "text": "FlyingWhenever Thrummingbird deals combat damage to a player, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "65",
+  "artist": "Efrem Palacios",
+  "rating": "5",
+  "votes": "0"
+}

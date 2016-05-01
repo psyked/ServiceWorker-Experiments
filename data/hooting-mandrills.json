@@ -1,0 +1,13 @@
+{
+  "title": "Hooting Mandrills",
+  "image": "./img/hooting-mandrills.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Ape",
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for .)Trample",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "137",
+  "artist": "Mike Bierek",
+  "rating": "4.000",
+  "votes": "4"
+}

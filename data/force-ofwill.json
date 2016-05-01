@@ -1,0 +1,13 @@
+{
+  "title": "Force of Will",
+  "image": "./img/force-ofwill.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "You may pay 1 life and exile a blue card from your hand rather than pay Force of Will's mana cost.Counter target spell.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "69",
+  "artist": "Matt Stewart",
+  "rating": "4.100",
+  "votes": "5"
+}

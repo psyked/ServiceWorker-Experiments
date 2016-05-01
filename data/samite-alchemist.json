@@ -1,0 +1,13 @@
+{
+  "title": "Samite Alchemist",
+  "image": "./img/samite-alchemist.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Cleric",
+  "text": ", : Prevent the next 4 damage that would be dealt this turn to target creature you control. Tap that creature. It doesn't untap during your next untap step.",
+  "expansion": "Homelands",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Tom Wänerstrand",
+  "rating": "1.314",
+  "votes": "51"
+}

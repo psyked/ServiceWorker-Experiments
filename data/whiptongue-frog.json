@@ -1,0 +1,13 @@
+{
+  "title": "Whiptongue Frog",
+  "image": "./img/whiptongue-frog.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Frog",
+  "text": ": Whiptongue Frog gains flying until end of turn.",
+  "expansion": "Exodus",
+  "rarity": "Common",
+  "cardNumber": "52",
+  "artist": "Jeff Miracola",
+  "rating": "1.809",
+  "votes": "34"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Bound by Moonsilver",
+  "image": "./img/bound-bymoonsilver.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature can't attack, block, or transform.Sacrifice another permanent: Attach Bound by Moonsilver to target creature. Activate this ability only any time you could cast a sorcery and only once each turn.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "7",
+  "artist": "Joseph Meehan",
+  "rating": "5",
+  "votes": "0"
+}

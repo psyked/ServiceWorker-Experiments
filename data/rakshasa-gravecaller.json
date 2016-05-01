@@ -1,0 +1,13 @@
+{
+  "title": "Rakshasa Gravecaller",
+  "image": "./img/rakshasa-gravecaller.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Cat Demon",
+  "text": "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)When Rakshasa Gravecaller exploits a creature, put two 2/2 black Zombie creature tokens onto the battlefield.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "114",
+  "artist": "Jakub Kasper",
+  "rating": "5",
+  "votes": "0"
+}

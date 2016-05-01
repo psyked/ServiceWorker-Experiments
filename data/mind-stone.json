@@ -1,0 +1,13 @@
+{
+  "title": "Mind Stone",
+  "image": "./img/mind-stone.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ": Add  to your mana pool., , Sacrifice Mind Stone: Draw a card.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "259",
+  "artist": "Adam Rex",
+  "rating": "5",
+  "votes": "0"
+}

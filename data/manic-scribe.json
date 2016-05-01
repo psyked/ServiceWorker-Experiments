@@ -1,0 +1,13 @@
+{
+  "title": "Manic Scribe",
+  "image": "./img/manic-scribe.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": "When Manic Scribe enters the battlefield, each opponent puts the top three cards of his or her library into his or her graveyard.Delirium — At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, that player puts the top three cards of his or her library into his or her graveyard.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "73",
+  "artist": "Matt Stewart",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Nature's Panoply",
+  "image": "./img/natures-panoply.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Strive — Nature's Panoply costs  more to cast for each target beyond the first.Choose any number of target creatures. Put a +1/+1 counter on each of them.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "131",
+  "artist": "John Avon",
+  "rating": "2.040",
+  "votes": "25"
+}

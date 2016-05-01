@@ -1,0 +1,13 @@
+{
+  "title": "Catacomb Dragon",
+  "image": "./img/catacomb-dragon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhenever Catacomb Dragon becomes blocked by a nonartifact, non-Dragon creature, that creature gets -X/-0 until end of turn, where X is half the creature's power, rounded down.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "David O'Connor",
+  "rating": "3.915",
+  "votes": "59"
+}

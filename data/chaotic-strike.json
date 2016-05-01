@@ -1,0 +1,13 @@
+{
+  "title": "Chaotic Strike",
+  "image": "./img/chaotic-strike.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Cast Chaotic Strike only during combat after blockers are declared.Flip a coin. If you win the flip, target creature gets +1/+1 until end of turn.Draw a card.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "140",
+  "artist": "Massimilano Frezzato",
+  "rating": "1.324",
+  "votes": "51"
+}

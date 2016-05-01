@@ -1,0 +1,13 @@
+{
+  "title": "Merfolk Spy",
+  "image": "./img/merfolk-spy.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Merfolk Rogue",
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)Whenever Merfolk Spy deals combat damage to a player, that player reveals a card at random from his or her hand.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "62",
+  "artist": "Matt Cavotta & Richard Whitters",
+  "rating": "3.364",
+  "votes": "22"
+}

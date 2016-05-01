@@ -1,0 +1,13 @@
+{
+  "title": "Contemplation",
+  "image": "./img/contemplation.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever you cast a spell, you gain 1 life.",
+  "expansion": "Stronghold",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Brom",
+  "rating": "3.266",
+  "votes": "32"
+}

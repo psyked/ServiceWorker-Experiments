@@ -1,0 +1,13 @@
+{
+  "title": "Send to Sleep",
+  "image": "./img/send-tosleep.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Tap up to two target creatures.Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, those creatures don't untap during their controllers' next untap steps.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "71",
+  "artist": "Cynthia Sheppard",
+  "rating": "5",
+  "votes": "0"
+}

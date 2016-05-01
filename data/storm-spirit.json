@@ -1,0 +1,13 @@
+{
+  "title": "Storm Spirit",
+  "image": "./img/storm-spirit.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental Spirit",
+  "text": "Flying: Storm Spirit deals 2 damage to target creature.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "198",
+  "artist": "Pete Venters",
+  "rating": "2.917",
+  "votes": "24"
+}

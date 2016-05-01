@@ -1,0 +1,13 @@
+{
+  "title": "Laquatus's Creativity",
+  "image": "./img/laquatuss-creativity.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Target player draws cards equal to the number of cards in his or her hand, then discards that many cards.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "88",
+  "artist": "Don Hazeltine",
+  "rating": "2.533",
+  "votes": "15"
+}

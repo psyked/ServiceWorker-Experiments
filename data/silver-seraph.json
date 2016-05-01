@@ -1,0 +1,13 @@
+{
+  "title": "Silver Seraph",
+  "image": "./img/silver-seraph.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Angel",
+  "text": "FlyingThreshold — Other creatures you control get +2/+2 as long as seven or more cards are in your graveyard.",
+  "expansion": "Judgment",
+  "rarity": "Rare",
+  "cardNumber": "23",
+  "artist": "Matthew D. Wilson",
+  "rating": "3.806",
+  "votes": "54"
+}

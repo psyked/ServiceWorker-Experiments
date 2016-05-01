@@ -1,0 +1,13 @@
+{
+  "title": "Twisted Justice",
+  "image": "./img/twisted-justice.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Target player sacrifices a creature. You draw cards equal to that creature's power.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "237",
+  "artist": "Ralph Horsley",
+  "rating": "3.343",
+  "votes": "54"
+}

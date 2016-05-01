@@ -1,0 +1,13 @@
+{
+  "title": "When Fluffy Bunnies Attack",
+  "image": "./img/when-fluffybunniesattack.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Target creature gets -X/-X until end of turn, where X is the number of times the letter of your choice appears in that creature's name.",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "67",
+  "artist": "Ray Lago",
+  "rating": "3.840",
+  "votes": "25"
+}

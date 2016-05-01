@@ -1,0 +1,13 @@
+{
+  "title": "Halo Hunter",
+  "image": "./img/halo-hunter.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Demon",
+  "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)When Halo Hunter enters the battlefield, destroy target Angel.",
+  "expansion": "Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "96",
+  "artist": "Chris Rahn",
+  "rating": "3.447",
+  "votes": "114"
+}

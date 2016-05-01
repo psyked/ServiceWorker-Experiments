@@ -1,0 +1,13 @@
+{
+  "title": "Silumgar's Command",
+  "image": "./img/silumgars-command.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Choose two —• Counter target noncreature spell.• Return target permanent to its owner's hand.• Target creature gets -3/-3 until end of turn.• Destroy target planeswalker.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "232",
+  "artist": "Nils Hamm",
+  "rating": "5",
+  "votes": "0"
+}

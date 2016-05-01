@@ -1,0 +1,13 @@
+{
+  "title": "Elder Druid",
+  "image": "./img/elder-druid.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elf Cleric Druid",
+  "text": ", : You may tap or untap target artifact, creature, or land.",
+  "expansion": "Seventh Edition",
+  "rarity": "Rare",
+  "cardNumber": "238",
+  "artist": "Alan Pollack",
+  "rating": "2.405",
+  "votes": "37"
+}

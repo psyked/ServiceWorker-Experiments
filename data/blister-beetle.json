@@ -1,0 +1,13 @@
+{
+  "title": "Blister Beetle",
+  "image": "./img/blister-beetle.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Insect",
+  "text": "When Blister Beetle enters the battlefield, target creature gets -1/-1 until end of turn.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "66",
+  "artist": "Anthony S. Waters",
+  "rating": "2.282",
+  "votes": "62"
+}

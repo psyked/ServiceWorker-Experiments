@@ -1,0 +1,13 @@
+{
+  "title": "Loxodon Mender",
+  "image": "./img/loxodon-mender.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elephant Cleric",
+  "text": ", : Regenerate target artifact.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "12",
+  "artist": "Heather Hudson",
+  "rating": "1.191",
+  "votes": "34"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Revered Elder",
+  "image": "./img/revered-elder.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": ": Prevent the next 1 damage that would be dealt to Revered Elder this turn.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "43",
+  "artist": "Donato Giancola",
+  "rating": "2.117",
+  "votes": "30"
+}

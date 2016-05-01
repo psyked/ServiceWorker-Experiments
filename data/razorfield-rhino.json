@@ -1,0 +1,13 @@
+{
+  "title": "Razorfield Rhino",
+  "image": "./img/razorfield-rhino.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Rhino",
+  "text": "Metalcraft — Razorfield Rhino gets +2/+2 as long as you control three or more artifacts.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "127",
+  "artist": "Kekai Kotaki",
+  "rating": "2.037",
+  "votes": "68"
+}

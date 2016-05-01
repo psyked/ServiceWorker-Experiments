@@ -1,0 +1,13 @@
+{
+  "title": "Skittering Invasion",
+  "image": "./img/skittering-invasion.jpg",
+  "convertedManaCost": "7",
+  "types": "Tribal Sorcery  — Eldrazi",
+  "text": "Put five 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have \"Sacrifice this creature: Add  to your mana pool.\"",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "10",
+  "artist": "Eric Deschamps",
+  "rating": "3.325",
+  "votes": "60"
+}

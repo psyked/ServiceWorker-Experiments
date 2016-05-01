@@ -1,0 +1,13 @@
+{
+  "title": "Crashing Boars",
+  "image": "./img/crashing-boars.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Boar",
+  "text": "Whenever Crashing Boars attacks, defending player chooses an untapped creature he or she controls. That creature blocks Crashing Boars this turn if able.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "168",
+  "artist": "Ron Spencer",
+  "rating": "5",
+  "votes": "0"
+}

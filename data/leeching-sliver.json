@@ -1,0 +1,13 @@
+{
+  "title": "Leeching Sliver",
+  "image": "./img/leeching-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Sliver",
+  "text": "Whenever a Sliver you control attacks, defending player loses 1 life.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "102",
+  "artist": "Svetlin Velinov",
+  "rating": "2.500",
+  "votes": "5"
+}

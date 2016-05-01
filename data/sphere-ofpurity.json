@@ -1,0 +1,13 @@
+{
+  "title": "Sphere of Purity",
+  "image": "./img/sphere-ofpurity.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "If an artifact would deal damage to you, prevent 1 of that damage.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "26",
+  "artist": "Thomas Gianni",
+  "rating": "2.364",
+  "votes": "33"
+}

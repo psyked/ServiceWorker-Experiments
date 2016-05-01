@@ -1,0 +1,13 @@
+{
+  "title": "Scoria Cat",
+  "image": "./img/scoria-cat.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Cat",
+  "text": "Scoria Cat gets +3/+3 as long as you control no untapped lands.",
+  "expansion": "Prophecy",
+  "rarity": "Uncommon",
+  "cardNumber": "101",
+  "artist": "Andrew Goldhawk",
+  "rating": "3.726",
+  "votes": "42"
+}

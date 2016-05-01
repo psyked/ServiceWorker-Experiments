@@ -1,0 +1,13 @@
+{
+  "title": "Dragonlord Kolaghan",
+  "image": "./img/dragonlord-kolaghan.jpg",
+  "convertedManaCost": "6",
+  "types": "Legendary Creature  — Elder Dragon",
+  "text": "Flying, hasteOther creatures you control have haste.Whenever an opponent casts a creature or planeswalker spell with the same name as a card in his or her graveyard, that player loses 10 life.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Mythic Rare",
+  "cardNumber": "218",
+  "artist": "Jaime Jones",
+  "rating": "5",
+  "votes": "0"
+}

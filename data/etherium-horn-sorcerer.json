@@ -1,0 +1,13 @@
+{
+  "title": "Etherium-Horn Sorcerer",
+  "image": "./img/etherium-horn-sorcerer.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Minotaur Wizard",
+  "text": ": Return Etherium-Horn Sorcerer to its owner's hand.Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "217",
+  "artist": "Franz Vohwinkel",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Brink of Madness",
+  "image": "./img/brink-ofmadness.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, if you have no cards in hand, sacrifice Brink of Madness and target opponent discards his or her hand.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Rare",
+  "cardNumber": "50",
+  "artist": "Donato Giancola",
+  "rating": "3.812",
+  "votes": "32"
+}

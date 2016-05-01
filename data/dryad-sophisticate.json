@@ -1,0 +1,13 @@
+{
+  "title": "Dryad Sophisticate",
+  "image": "./img/dryad-sophisticate.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Dryad",
+  "text": "Nonbasic landwalk (This creature can't be blocked as long as defending player controls a nonbasic land.)",
+  "expansion": "Guildpact",
+  "rarity": "Uncommon",
+  "cardNumber": "83",
+  "artist": "Ron Spears",
+  "rating": "4.082",
+  "votes": "73"
+}

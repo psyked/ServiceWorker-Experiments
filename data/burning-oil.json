@@ -1,0 +1,13 @@
+{
+  "title": "Burning Oil",
+  "image": "./img/burning-oil.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Burning Oil deals 3 damage to target attacking or blocking creature.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Dark Ascension",
+  "rarity": "Uncommon",
+  "cardNumber": "84",
+  "artist": "Trevor Claxton",
+  "rating": "3.122",
+  "votes": "49"
+}

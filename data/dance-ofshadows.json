@@ -1,0 +1,13 @@
+{
+  "title": "Dance of Shadows",
+  "image": "./img/dance-ofshadows.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery  — Arcane",
+  "text": "Creatures you control get +1/+0 and gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "108",
+  "artist": "Chippy",
+  "rating": "1.786",
+  "votes": "35"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Meishin, the Mind Cage",
+  "image": "./img/meishin-themindcage.jpg",
+  "convertedManaCost": "7",
+  "types": "Legendary Enchantment",
+  "text": "All creatures get -X/-0, where X is the number of cards in your hand.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "44",
+  "artist": "Thomas Gianni",
+  "rating": "3.033",
+  "votes": "76"
+}

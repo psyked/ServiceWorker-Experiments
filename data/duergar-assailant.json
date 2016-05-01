@@ -1,0 +1,13 @@
+{
+  "title": "Duergar Assailant",
+  "image": "./img/duergar-assailant.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Dwarf Soldier",
+  "text": "Sacrifice Duergar Assailant: Duergar Assailant deals 1 damage to target attacking or blocking creature.",
+  "expansion": "Eventide",
+  "rarity": "Common",
+  "cardNumber": "136",
+  "artist": "Paul Bonner",
+  "rating": "2.514",
+  "votes": "35"
+}

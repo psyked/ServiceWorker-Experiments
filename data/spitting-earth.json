@@ -1,0 +1,13 @@
+{
+  "title": "Spitting Earth",
+  "image": "./img/spitting-earth.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Spitting Earth deals damage to target creature equal to the number of Mountains you control.",
+  "expansion": "Duel Decks Anthology, Elves vs. Goblins",
+  "rarity": "Common",
+  "cardNumber": "55",
+  "artist": "Michael Koelsch",
+  "rating": "5",
+  "votes": "0"
+}

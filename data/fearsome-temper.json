@@ -1,0 +1,13 @@
+{
+  "title": "Fearsome Temper",
+  "image": "./img/fearsome-temper.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+2 and has \": Target creature can't block this creature this turn.\"",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "95",
+  "artist": "Seb McKinnon",
+  "rating": "2.595",
+  "votes": "21"
+}

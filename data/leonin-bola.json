@@ -1,0 +1,13 @@
+{
+  "title": "Leonin Bola",
+  "image": "./img/leonin-bola.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature has \", Unattach Leonin Bola: Tap target creature.\"Equip  (: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "127",
+  "artist": "Christopher Moeller",
+  "rating": "3.306",
+  "votes": "31"
+}

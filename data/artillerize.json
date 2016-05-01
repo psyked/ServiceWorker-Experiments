@@ -1,0 +1,13 @@
+{
+  "title": "Artillerize",
+  "image": "./img/artillerize.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "As an additional cost to cast Artillerize, sacrifice an artifact or creature.Artillerize deals 5 damage to target creature or player.",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "79",
+  "artist": "Johann Bodin",
+  "rating": "2.800",
+  "votes": "90"
+}

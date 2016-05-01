@@ -1,0 +1,13 @@
+{
+  "title": "Dredge",
+  "image": "./img/dredge.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Sacrifice a creature or land.Draw a card.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "103",
+  "artist": "Donato Giancola",
+  "rating": "1.920",
+  "votes": "75"
+}

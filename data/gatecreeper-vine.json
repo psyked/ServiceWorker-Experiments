@@ -1,0 +1,13 @@
+{
+  "title": "Gatecreeper Vine",
+  "image": "./img/gatecreeper-vine.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Plant",
+  "text": "DefenderWhen Gatecreeper Vine enters the battlefield, you may search your library for a basic land card or a Gate card, reveal it, put it into your hand, then shuffle your library.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Common",
+  "cardNumber": "48",
+  "artist": "Trevor Claxton",
+  "rating": "3.591",
+  "votes": "11"
+}

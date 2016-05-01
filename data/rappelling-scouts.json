@@ -1,0 +1,13 @@
+{
+  "title": "Rappelling Scouts",
+  "image": "./img/rappelling-scouts.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Rebel Scout",
+  "text": "Flying: Rappelling Scouts gains protection from the color of your choice until end of turn.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "41",
+  "artist": "Nelson DeCastro",
+  "rating": "3.174",
+  "votes": "23"
+}

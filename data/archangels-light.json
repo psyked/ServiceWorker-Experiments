@@ -1,0 +1,13 @@
+{
+  "title": "Archangel's Light",
+  "image": "./img/archangels-light.jpg",
+  "convertedManaCost": "8",
+  "types": "Sorcery",
+  "text": "You gain 2 life for each card in your graveyard, then shuffle your graveyard into your library.",
+  "expansion": "Dark Ascension",
+  "rarity": "Mythic Rare",
+  "cardNumber": "1",
+  "artist": "Volkan Baga",
+  "rating": "1.224",
+  "votes": "288"
+}

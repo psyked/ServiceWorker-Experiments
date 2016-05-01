@@ -1,0 +1,13 @@
+{
+  "title": "Crawling Sensation",
+  "image": "./img/crawling-sensation.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, you may put the top two cards of your library into your graveyard.Whenever one or more land cards are put into your graveyard from anywhere for the first time each turn, put a 1/1 green Insect creature token onto the battlefield.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "199",
+  "artist": "Christopher Moeller",
+  "rating": "5",
+  "votes": "0"
+}

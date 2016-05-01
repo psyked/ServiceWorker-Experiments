@@ -1,0 +1,13 @@
+{
+  "title": "Grasp of Darkness",
+  "image": "./img/grasp-ofdarkness.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets -4/-4 until end of turn.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "85",
+  "artist": "Daarken",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Whiplash Trap",
+  "image": "./img/whiplash-trap.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant  — Trap",
+  "text": "If an opponent had two or more creatures enter the battlefield under his or her control this turn, you may pay  rather than pay Whiplash Trap's mana cost.Return two target creatures to their owners' hands.",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Common",
+  "cardNumber": "70",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "5",
+  "votes": "0"
+}

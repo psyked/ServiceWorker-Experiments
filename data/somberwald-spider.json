@@ -1,0 +1,13 @@
+{
+  "title": "Somberwald Spider",
+  "image": "./img/somberwald-spider.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spider",
+  "text": "Reach (This creature can block creatures with flying.)Morbid — Somberwald Spider enters the battlefield with two +1/+1 counters on it if a creature died this turn.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "202",
+  "artist": "Volkan Baga",
+  "rating": "2.605",
+  "votes": "38"
+}

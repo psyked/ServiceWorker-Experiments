@@ -1,0 +1,13 @@
+{
+  "title": "Graveborn Muse",
+  "image": "./img/graveborn-muse.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie Spirit",
+  "text": "At the beginning of your upkeep, you draw X cards and you lose X life, where X is the number of Zombies you control.",
+  "expansion": "Tenth Edition",
+  "rarity": "Rare",
+  "cardNumber": "145",
+  "artist": "Kev Walker",
+  "rating": "4.157",
+  "votes": "54"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sylvan Bounty",
+  "image": "./img/sylvan-bounty.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "Target player gains 8 life.Basic landcycling  (, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "164",
+  "artist": "Chris Rahn",
+  "rating": "5",
+  "votes": "0"
+}

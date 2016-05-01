@@ -1,0 +1,13 @@
+{
+  "title": "Thrill of the Hunt",
+  "image": "./img/thrill-ofthehunt.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets +1/+2 until end of turn.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "229",
+  "artist": "Stephen Tappin",
+  "rating": "2.671",
+  "votes": "35"
+}

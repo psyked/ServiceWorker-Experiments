@@ -1,0 +1,13 @@
+{
+  "title": "Thraben Doomsayer",
+  "image": "./img/thraben-doomsayer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": ": Put a 1/1 white Human creature token onto the battlefield.Fateful hour — As long as you have 5 or less life, other creatures you control get +2/+2.",
+  "expansion": "Dark Ascension",
+  "rarity": "Rare",
+  "cardNumber": "25",
+  "artist": "John Stanko",
+  "rating": "3.864",
+  "votes": "103"
+}

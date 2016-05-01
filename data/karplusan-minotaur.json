@@ -1,0 +1,13 @@
+{
+  "title": "Karplusan Minotaur",
+  "image": "./img/karplusan-minotaur.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Minotaur Warrior",
+  "text": "Cumulative upkeep—Flip a coin. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)Whenever you win a coin flip, Karplusan Minotaur deals 1 damage to target creature or player.Whenever you lose a coin flip, Karplusan Minotaur deals 1 damage to target creature or player of an opponent's choice.",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "86",
+  "artist": "Wayne England",
+  "rating": "3.490",
+  "votes": "48"
+}

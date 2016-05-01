@@ -1,0 +1,13 @@
+{
+  "title": "Ajani's Sunstriker",
+  "image": "./img/ajanis-sunstriker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Cat Cleric",
+  "text": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "66",
+  "artist": "Matt Stewart",
+  "rating": "3.375",
+  "votes": "8"
+}

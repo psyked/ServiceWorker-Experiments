@@ -1,0 +1,13 @@
+{
+  "title": "Gorgon's Head",
+  "image": "./img/gorgons-head.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature has deathtouch.Equip",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "158",
+  "artist": "Michael C. Hayes",
+  "rating": "3.298",
+  "votes": "42"
+}

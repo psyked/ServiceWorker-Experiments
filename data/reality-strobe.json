@@ -1,0 +1,13 @@
+{
+  "title": "Reality Strobe",
+  "image": "./img/reality-strobe.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Return target permanent to its owner's hand. Exile Reality Strobe with three time counters on it.Suspend 3— (Rather than cast this card from your hand, you may pay  and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",
+  "expansion": "Future Sight",
+  "rarity": "Uncommon",
+  "cardNumber": "43",
+  "artist": "Dan Scott",
+  "rating": "3.518",
+  "votes": "56"
+}

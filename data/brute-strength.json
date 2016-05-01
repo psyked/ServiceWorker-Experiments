@@ -1,0 +1,13 @@
+{
+  "title": "Brute Strength",
+  "image": "./img/brute-strength.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +3/+1 and gains trample until end of turn.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "103",
+  "artist": "Wayne Reynolds",
+  "rating": "5",
+  "votes": "0"
+}

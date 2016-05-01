@@ -1,0 +1,13 @@
+{
+  "title": "Control of the Court",
+  "image": "./img/control-ofthecourt.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Draw four cards, then discard three cards at random.",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Uncommon",
+  "cardNumber": "105",
+  "artist": "Li Yousong",
+  "rating": "3.000",
+  "votes": "29"
+}

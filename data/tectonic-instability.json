@@ -1,0 +1,13 @@
+{
+  "title": "Tectonic Instability",
+  "image": "./img/tectonic-instability.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a land enters the battlefield, tap all lands its controller controls.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "173",
+  "artist": "Rob Alexander",
+  "rating": "3.024",
+  "votes": "41"
+}

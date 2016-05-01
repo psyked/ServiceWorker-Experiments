@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Brigand",
+  "image": "./img/goblin-brigand.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Goblin Brigand attacks each turn if able.",
+  "expansion": "Ninth Edition",
+  "rarity": "Common",
+  "cardNumber": "190",
+  "artist": "Arnie Swekel",
+  "rating": "2.283",
+  "votes": "30"
+}

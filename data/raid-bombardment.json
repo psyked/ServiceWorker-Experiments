@@ -1,0 +1,13 @@
+{
+  "title": "Raid Bombardment",
+  "image": "./img/raid-bombardment.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a creature you control with power 2 or less attacks, Raid Bombardment deals 1 damage to defending player.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "161",
+  "artist": "Matt Cavotta",
+  "rating": "4.145",
+  "votes": "76"
+}

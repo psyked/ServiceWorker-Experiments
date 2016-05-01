@@ -1,0 +1,13 @@
+{
+  "title": "Grixis Grimblade",
+  "image": "./img/grixis-grimblade.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie Warrior",
+  "text": "As long as you control another multicolored permanent, Grixis Grimblade gets +1/+1 and has deathtouch. (Any amount of damage it deals to a creature is enough to destroy that creature.)",
+  "expansion": "Alara Reborn",
+  "rarity": "Common",
+  "cardNumber": "134",
+  "artist": "Trevor Claxton",
+  "rating": "3.333",
+  "votes": "87"
+}

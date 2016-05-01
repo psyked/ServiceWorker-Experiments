@@ -1,0 +1,13 @@
+{
+  "title": "Vineweft",
+  "image": "./img/vineweft.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+1.: Return Vineweft from your graveyard to your hand.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "207",
+  "artist": "Lucas Graciano",
+  "rating": "1.917",
+  "votes": "6"
+}

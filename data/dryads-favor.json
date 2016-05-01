@@ -1,0 +1,13 @@
+{
+  "title": "Dryad's Favor",
+  "image": "./img/dryads-favor.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has forestwalk. (It can't be blocked as long as defending player controls a Forest.)",
+  "expansion": "Magic 2011",
+  "rarity": "Common",
+  "cardNumber": "169",
+  "artist": "Jesper Ejsing",
+  "rating": "1.240",
+  "votes": "73"
+}

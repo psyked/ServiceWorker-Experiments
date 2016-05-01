@@ -1,0 +1,13 @@
+{
+  "title": "Moltensteel Dragon",
+  "image": "./img/moltensteel-dragon.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Dragon",
+  "text": "( can be paid with either  or 2 life.)Flying: Moltensteel Dragon gets +1/+0 until end of turn.",
+  "expansion": "New Phyrexia",
+  "rarity": "Rare",
+  "cardNumber": "88",
+  "artist": "James Ryman",
+  "rating": "4.268",
+  "votes": "164"
+}

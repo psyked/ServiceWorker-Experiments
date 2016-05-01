@@ -1,0 +1,13 @@
+{
+  "title": "Momentum",
+  "image": "./img/momentum.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAt the beginning of your upkeep, you may put a growth counter on Momentum.Enchanted creature gets +1/+1 for each growth counter on Momentum.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Uncommon",
+  "cardNumber": "113",
+  "artist": "Carl Critchlow",
+  "rating": "2.819",
+  "votes": "36"
+}

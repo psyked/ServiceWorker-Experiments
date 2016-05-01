@@ -1,0 +1,13 @@
+{
+  "title": "Price of Knowledge",
+  "image": "./img/price-ofknowledge.jpg",
+  "convertedManaCost": "7",
+  "types": "Enchantment",
+  "text": "Players have no maximum hand size.At the beginning of each opponent's upkeep, Price of Knowledge deals damage to that player equal to the number of cards in that player's hand.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "89",
+  "artist": "Dan Scott",
+  "rating": "3.776",
+  "votes": "29"
+}

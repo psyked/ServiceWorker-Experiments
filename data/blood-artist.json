@@ -1,0 +1,13 @@
+{
+  "title": "Blood Artist",
+  "image": "./img/blood-artist.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Vampire",
+  "text": "Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Uncommon",
+  "cardNumber": "86",
+  "artist": "Johannes Voss",
+  "rating": "3.955",
+  "votes": "168"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Avacyn, Guardian Angel",
+  "image": "./img/avacyn-guardianangel.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Angel",
+  "text": "Flying, vigilance: Prevent all damage that would be dealt to another target creature this turn by sources of the color of your choice.: Prevent all damage that would be dealt to target player this turn by sources of the color of your choice.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "3",
+  "artist": "Winona Nelson",
+  "rating": "3.833",
+  "votes": "9"
+}

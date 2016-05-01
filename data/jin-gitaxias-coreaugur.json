@@ -1,0 +1,13 @@
+{
+  "title": "Jin-Gitaxias, Core Augur",
+  "image": "./img/jin-gitaxias-coreaugur.jpg",
+  "convertedManaCost": "10",
+  "types": "Legendary Creature  — Praetor",
+  "text": "FlashAt the beginning of your end step, draw seven cards.Each opponent's maximum hand size is reduced by seven.",
+  "expansion": "New Phyrexia",
+  "rarity": "Mythic Rare",
+  "cardNumber": "37",
+  "artist": "Eric Deschamps",
+  "rating": "4.205",
+  "votes": "249"
+}

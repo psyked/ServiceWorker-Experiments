@@ -1,0 +1,13 @@
+{
+  "title": "Quenchable Fire",
+  "image": "./img/quenchable-fire.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Quenchable Fire deals 3 damage to target player. It deals an additional 3 damage to that player at the beginning of your next upkeep step unless he or she pays  before that step.",
+  "expansion": "Conflux",
+  "rarity": "Common",
+  "cardNumber": "70",
+  "artist": "Jean-Sébastien Rossbach",
+  "rating": "3.018",
+  "votes": "55"
+}

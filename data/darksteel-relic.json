@@ -1,0 +1,13 @@
+{
+  "title": "Darksteel Relic",
+  "image": "./img/darksteel-relic.jpg",
+  "convertedManaCost": "0",
+  "types": "Artifact",
+  "text": "Indestructible (Effects that say \"destroy\" don't destroy this artifact.)",
+  "expansion": "New Phyrexia",
+  "rarity": "Uncommon",
+  "cardNumber": "134",
+  "artist": "Daniel Ljunggren",
+  "rating": "3.302",
+  "votes": "184"
+}

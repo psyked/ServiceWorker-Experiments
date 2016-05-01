@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Hope",
+  "image": "./img/wall-ofhope.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)Whenever Wall of Hope is dealt damage, you gain that much life.",
+  "expansion": "Legions",
+  "rarity": "Common",
+  "cardNumber": "24",
+  "artist": "David Martin",
+  "rating": "3.663",
+  "votes": "46"
+}

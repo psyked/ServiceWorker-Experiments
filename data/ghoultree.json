@@ -1,0 +1,13 @@
+{
+  "title": "Ghoultree",
+  "image": "./img/ghoultree.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Zombie Treefolk",
+  "text": "Ghoultree costs  less to cast for each creature card in your graveyard.",
+  "expansion": "Dark Ascension",
+  "rarity": "Rare",
+  "cardNumber": "115",
+  "artist": "Volkan Baga",
+  "rating": "3.889",
+  "votes": "122"
+}

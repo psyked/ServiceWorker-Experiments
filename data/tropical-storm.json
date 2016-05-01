@@ -1,0 +1,13 @@
+{
+  "title": "Tropical Storm",
+  "image": "./img/tropical-storm.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Tropical Storm deals X damage to each creature with flying and 1 additional damage to each blue creature.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Richard Kane Ferguson",
+  "rating": "3.442",
+  "votes": "26"
+}

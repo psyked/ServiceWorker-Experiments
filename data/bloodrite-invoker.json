@@ -1,0 +1,13 @@
+{
+  "title": "Bloodrite Invoker",
+  "image": "./img/bloodrite-invoker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vampire Shaman",
+  "text": ": Target player loses 3 life and you gain 3 life.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "45",
+  "artist": "Svetlin Velinov",
+  "rating": "5",
+  "votes": "0"
+}

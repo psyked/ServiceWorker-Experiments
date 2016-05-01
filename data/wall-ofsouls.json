@@ -1,0 +1,13 @@
+{
+  "title": "Wall of Souls",
+  "image": "./img/wall-ofsouls.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)Whenever Wall of Souls is dealt combat damage, it deals that much damage to target opponent.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "123",
+  "artist": "John Matson",
+  "rating": "5",
+  "votes": "0"
+}

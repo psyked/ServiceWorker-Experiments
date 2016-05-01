@@ -1,0 +1,13 @@
+{
+  "title": "Tahngarth, Talruum Hero",
+  "image": "./img/tahngarth-talruumhero.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Minotaur Warrior",
+  "text": "Vigilance, : Tahngarth, Talruum Hero deals damage equal to its power to target creature. That creature deals damage equal to its power to Tahngarth.",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "74",
+  "artist": "Kev Walker",
+  "rating": "4.071",
+  "votes": "63"
+}

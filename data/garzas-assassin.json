@@ -1,0 +1,13 @@
+{
+  "title": "Garza's Assassin",
+  "image": "./img/garzas-assassin.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Assassin",
+  "text": "Sacrifice Garza's Assassin: Destroy target nonblack creature.Recover—Pay half your life, rounded up. (When another creature is put into your graveyard from the battlefield, you may pay half your life, rounded up. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "57",
+  "artist": "Parente",
+  "rating": "3.149",
+  "votes": "47"
+}

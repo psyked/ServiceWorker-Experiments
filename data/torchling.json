@@ -1,0 +1,13 @@
+{
+  "title": "Torchling",
+  "image": "./img/torchling.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Shapeshifter",
+  "text": ": Untap Torchling.: Target creature blocks Torchling this turn if able.: Change the target of target spell that targets only Torchling.: Torchling gets +1/-1 until end of turn.: Torchling gets -1/+1 until end of turn.",
+  "expansion": "Duel Decks: Venser vs. Koth",
+  "rarity": "Rare",
+  "cardNumber": "58",
+  "artist": "rk post",
+  "rating": "3.468",
+  "votes": "31"
+}

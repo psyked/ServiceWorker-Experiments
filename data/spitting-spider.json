@@ -1,0 +1,13 @@
+{
+  "title": "Spitting Spider",
+  "image": "./img/spitting-spider.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spider",
+  "text": "Reach (This creature can block creatures with flying.)Sacrifice a land: Spitting Spider deals 1 damage to each creature with flying.",
+  "expansion": "Eighth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "280",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "3.375",
+  "votes": "32"
+}

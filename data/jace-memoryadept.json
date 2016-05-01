@@ -1,0 +1,13 @@
+{
+  "title": "Jace, Memory Adept",
+  "image": "./img/jace-memoryadept.jpg",
+  "convertedManaCost": "5",
+  "types": "Planeswalker  — Jace",
+  "text": "+1: Draw a card. Target player puts the top card of his or her library into his or her graveyard.0: Target player puts the top ten cards of his or her library into his or her graveyard.−7: Any number of target players each draw twenty cards.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Mythic Rare",
+  "cardNumber": "60",
+  "artist": "D. Alexander Gregory",
+  "rating": "3.490",
+  "votes": "102"
+}

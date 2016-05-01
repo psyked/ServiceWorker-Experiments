@@ -1,0 +1,13 @@
+{
+  "title": "Fiery Temper",
+  "image": "./img/fiery-temper.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Fiery Temper deals 3 damage to target creature or player.Madness  (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "156",
+  "artist": "Johannes Voss",
+  "rating": "5",
+  "votes": "0"
+}

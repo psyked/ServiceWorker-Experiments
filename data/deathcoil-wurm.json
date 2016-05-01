@@ -1,0 +1,13 @@
+{
+  "title": "Deathcoil Wurm",
+  "image": "./img/deathcoil-wurm.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Wurm",
+  "text": "You may have Deathcoil Wurm assign its combat damage as though it weren't blocked.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "149",
+  "artist": "Rebecca Guay",
+  "rating": "3.208",
+  "votes": "24"
+}

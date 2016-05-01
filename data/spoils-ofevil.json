@@ -1,0 +1,13 @@
+{
+  "title": "Spoils of Evil",
+  "image": "./img/spoils-ofevil.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "For each artifact or creature card in target opponent's graveyard, add  to your mana pool and you gain 1 life.",
+  "expansion": "Ice Age",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Quinton Hoover",
+  "rating": "4.265",
+  "votes": "51"
+}

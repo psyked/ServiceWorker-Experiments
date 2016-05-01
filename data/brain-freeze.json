@@ -1,0 +1,13 @@
+{
+  "title": "Brain Freeze",
+  "image": "./img/brain-freeze.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target player puts the top three cards of his or her library into his or her graveyard.Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+  "expansion": "Vintage Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "57",
+  "artist": "Tim Hildebrandt",
+  "rating": "4.000",
+  "votes": "1"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Repentant Vampire",
+  "image": "./img/repentant-vampire.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Vampire",
+  "text": "FlyingWhenever a creature dealt damage by Repentant Vampire this turn dies, put a +1/+1 counter on Repentant Vampire.Threshold — As long as seven or more cards are in your graveyard, Repentant Vampire is white and has \": Destroy target black creature.\"",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "157",
+  "artist": "Mark Tedin",
+  "rating": "3.685",
+  "votes": "46"
+}

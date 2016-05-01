@@ -1,0 +1,13 @@
+{
+  "title": "Liliana's Specter",
+  "image": "./img/lilianas-specter.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Specter",
+  "text": "FlyingWhen Liliana's Specter enters the battlefield, each opponent discards a card.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "116",
+  "artist": "Vance Kovacs",
+  "rating": "4.125",
+  "votes": "4"
+}

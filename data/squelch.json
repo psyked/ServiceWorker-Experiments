@@ -1,0 +1,13 @@
+{
+  "title": "Squelch",
+  "image": "./img/squelch.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Counter target activated ability. (Mana abilities can't be targeted.)Draw a card.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "92",
+  "artist": "Matt Cavotta",
+  "rating": "3.982",
+  "votes": "55"
+}

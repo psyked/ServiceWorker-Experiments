@@ -1,0 +1,13 @@
+{
+  "title": "Scrying Sheets",
+  "image": "./img/scrying-sheets.jpg",
+  "convertedManaCost": "",
+  "types": "Snow Land",
+  "text": ": Add  to your mana pool., : Look at the top card of your library. If that card is snow, you may reveal it and put it into your hand. ( can be paid with one mana from a snow permanent.)",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "149",
+  "artist": "Thomas M. Baxa",
+  "rating": "4.009",
+  "votes": "53"
+}

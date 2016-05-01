@@ -1,0 +1,13 @@
+{
+  "title": "Veteran Cathar",
+  "image": "./img/veteran-cathar.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier",
+  "text": ": Target Human gains double strike until end of turn.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "238",
+  "artist": "Deruchenko Alexander",
+  "rating": "5",
+  "votes": "0"
+}

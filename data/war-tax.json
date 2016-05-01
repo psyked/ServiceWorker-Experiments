@@ -1,0 +1,13 @@
+{
+  "title": "War Tax",
+  "image": "./img/war-tax.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": ": This turn, creatures can't attack unless their controller pays  for each attacking creature he or she controls.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "113",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "4.097",
+  "votes": "36"
+}
