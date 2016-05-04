@@ -1,0 +1,13 @@
+{
+  "title": "Mizzix of the Izmagnus",
+  "image": "../img/m/mizzix-oftheizmagnus.jpg",
+  "convertedManaCost": "4",
+  "types": "Legendary Creature  — Goblin Wizard",
+  "text": "Whenever you cast an instant or sorcery spell with converted mana cost greater than the number of experience counters you have, you get an experience counter.Instant and sorcery spells you cast cost  less to cast for each experience counter you have.",
+  "expansion": "Commander 2015",
+  "rarity": "Mythic Rare",
+  "cardNumber": "50",
+  "artist": "Cliff Childs",
+  "rating": "5",
+  "votes": "0"
+}

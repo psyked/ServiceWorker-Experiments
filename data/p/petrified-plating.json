@@ -1,0 +1,13 @@
+{
+  "title": "Petrified Plating",
+  "image": "../img/p/petrified-plating.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+2.Suspend 2— (Rather than cast this card from your hand, you may pay  and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",
+  "expansion": "Future Sight",
+  "rarity": "Common",
+  "cardNumber": "133",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "1.969",
+  "votes": "32"
+}

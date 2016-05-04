@@ -1,0 +1,13 @@
+{
+  "title": "Cabal Shrine",
+  "image": "../img/c/cabal-shrine.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a player casts a spell, that player discards X cards, where X is the number of cards in all graveyards with the same name as that spell.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "121",
+  "artist": "Ben Thompson",
+  "rating": "1.732",
+  "votes": "28"
+}

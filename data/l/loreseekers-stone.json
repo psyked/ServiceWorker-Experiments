@@ -1,0 +1,13 @@
+{
+  "title": "Loreseeker's Stone",
+  "image": "../img/l/loreseekers-stone.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact",
+  "text": ", : Draw three cards. This ability costs  more to activate for each card in your hand.",
+  "expansion": "Commander 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "56",
+  "artist": "Franz Vohwinkel",
+  "rating": "5",
+  "votes": "0"
+}

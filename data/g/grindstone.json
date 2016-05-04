@@ -1,0 +1,13 @@
+{
+  "title": "Grindstone",
+  "image": "../img/g/grindstone.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ", : Target player puts the top two cards of his or her library into his or her graveyard. If both cards share a color, repeat this process.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Mythic Rare",
+  "cardNumber": "223",
+  "artist": "Greg Simanson",
+  "rating": "5",
+  "votes": "0"
+}

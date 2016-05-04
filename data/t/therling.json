@@ -1,0 +1,13 @@
+{
+  "title": "Ætherling",
+  "image": "../img/t/therling.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Shapeshifter",
+  "text": ": Exile Ætherling. Return it to the battlefield under its owner's control at the beginning of the next end step.: Ætherling can't be blocked this turn.: Ætherling gets +1/-1 until end of turn.: Ætherling gets -1/+1 until end of turn.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Rare",
+  "cardNumber": "11",
+  "artist": "Tyler Jacobson",
+  "rating": "4.140",
+  "votes": "164"
+}

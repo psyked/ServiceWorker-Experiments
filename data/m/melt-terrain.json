@@ -1,0 +1,13 @@
+{
+  "title": "Melt Terrain",
+  "image": "../img/m/melt-terrain.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy target land. Melt Terrain deals 2 damage to that land's controller.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "97",
+  "artist": "John Avon",
+  "rating": "3.000",
+  "votes": "51"
+}

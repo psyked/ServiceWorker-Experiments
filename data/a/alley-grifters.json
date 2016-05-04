@@ -1,0 +1,13 @@
+{
+  "title": "Alley Grifters",
+  "image": "../img/a/alley-grifters.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Mercenary",
+  "text": "Whenever Alley Grifters becomes blocked, defending player discards a card.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "115",
+  "artist": "Paolo Parente",
+  "rating": "3.175",
+  "votes": "40"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Airdrop Condor",
+  "image": "../img/a/airdrop-condor.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bird",
+  "text": "Flying, Sacrifice a Goblin creature: Airdrop Condor deals damage equal to the sacrificed creature's power to target creature or player.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "186",
+  "artist": "Glen Angus",
+  "rating": "2.519",
+  "votes": "26"
+}

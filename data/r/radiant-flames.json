@@ -1,0 +1,13 @@
+{
+  "title": "Radiant Flames",
+  "image": "../img/r/radiant-flames.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Converge — Radiant Flames deals X damage to each creature, where X is the number of colors of mana spent to cast Radiant Flames.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "151",
+  "artist": "Slawomir Maniak",
+  "rating": "5",
+  "votes": "0"
+}

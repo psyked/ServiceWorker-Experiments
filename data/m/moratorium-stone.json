@@ -1,0 +1,13 @@
+{
+  "title": "Moratorium Stone",
+  "image": "../img/m/moratorium-stone.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ", : Exile target card from a graveyard., , Sacrifice Moratorium Stone: Exile target nonland card from a graveyard, all other cards from graveyards with the same name as that card, and all permanents with that name.",
+  "expansion": "Guildpact",
+  "rarity": "Rare",
+  "cardNumber": "154",
+  "artist": "Martina Pilcerova",
+  "rating": "3.371",
+  "votes": "35"
+}

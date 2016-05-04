@@ -1,0 +1,13 @@
+{
+  "title": "Rimewind Taskmage",
+  "image": "../img/r/rimewind-taskmage.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": ", : You may tap or untap target permanent. Activate this ability only if you control four or more snow permanents.",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "44",
+  "artist": "Ron Spears",
+  "rating": "3.197",
+  "votes": "38"
+}

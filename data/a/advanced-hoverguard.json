@@ -1,0 +1,13 @@
+{
+  "title": "Advanced Hoverguard",
+  "image": "../img/a/advanced-hoverguard.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Drone",
+  "text": "Flying: Advanced Hoverguard gains shroud until end of turn. (It can't be the target of spells or abilities.)",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "22",
+  "artist": "Scott M. Fischer",
+  "rating": "2.326",
+  "votes": "23"
+}

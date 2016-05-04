@@ -1,0 +1,13 @@
+{
+  "title": "Immobilizer Eldrazi",
+  "image": "../img/i/immobilizer-eldrazi.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.): Each creature with toughness greater than its power can't block this turn. ( represents colorless mana.)",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "97",
+  "artist": "Svetlin Velinov",
+  "rating": "5",
+  "votes": "0"
+}

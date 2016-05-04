@@ -1,0 +1,13 @@
+{
+  "title": "Merrow Witsniper",
+  "image": "../img/m/merrow-witsniper.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Merfolk Rogue",
+  "text": "When Merrow Witsniper enters the battlefield, target player puts the top card of his or her library into his or her graveyard.",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "40",
+  "artist": "Steve Prescott",
+  "rating": "2.875",
+  "votes": "44"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Faerie Tauntings",
+  "image": "../img/f/faerie-tauntings.jpg",
+  "convertedManaCost": "3",
+  "types": "Tribal Enchantment  — Faerie",
+  "text": "Whenever you cast a spell during an opponent's turn, you may have each opponent lose 1 life.",
+  "expansion": "Lorwyn",
+  "rarity": "Uncommon",
+  "cardNumber": "112",
+  "artist": "Michael Sutfin",
+  "rating": "2.892",
+  "votes": "37"
+}

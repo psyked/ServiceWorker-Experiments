@@ -1,0 +1,13 @@
+{
+  "title": "Returned Reveler",
+  "image": "../img/r/returned-reveler.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie Satyr",
+  "text": "When Returned Reveler dies, each player puts the top three cards of his or her library into his or her graveyard.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "79",
+  "artist": "Allen Williams",
+  "rating": "2.816",
+  "votes": "19"
+}

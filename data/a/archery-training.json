@@ -1,0 +1,13 @@
+{
+  "title": "Archery Training",
+  "image": "../img/a/archery-training.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAt the beginning of your upkeep, you may put an arrow counter on Archery Training.Enchanted creature has \": This creature deals X damage to target attacking or blocking creature, where X is the number of arrow counters on Archery Training.\"",
+  "expansion": "Urza's Destiny",
+  "rarity": "Uncommon",
+  "cardNumber": "2",
+  "artist": "Mark Brill",
+  "rating": "3.922",
+  "votes": "45"
+}

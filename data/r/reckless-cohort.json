@@ -1,0 +1,13 @@
+{
+  "title": "Reckless Cohort",
+  "image": "../img/r/reckless-cohort.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Warrior Ally",
+  "text": "Reckless Cohort attacks each combat if able unless you control another Ally.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "152",
+  "artist": "Volkan Baga",
+  "rating": "5",
+  "votes": "0"
+}

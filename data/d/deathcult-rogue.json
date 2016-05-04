@@ -1,0 +1,13 @@
+{
+  "title": "Deathcult Rogue",
+  "image": "../img/d/deathcult-rogue.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Rogue",
+  "text": "Deathcult Rogue can't be blocked except by Rogues.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "218",
+  "artist": "David Palumbo",
+  "rating": "3.295",
+  "votes": "83"
+}

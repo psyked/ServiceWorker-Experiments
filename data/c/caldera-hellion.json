@@ -1,0 +1,13 @@
+{
+  "title": "Caldera Hellion",
+  "image": "../img/c/caldera-hellion.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Hellion",
+  "text": "Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)When Caldera Hellion enters the battlefield, it deals 3 damage to each creature.",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "95",
+  "artist": "Raymond Swanland",
+  "rating": "3.446",
+  "votes": "84"
+}

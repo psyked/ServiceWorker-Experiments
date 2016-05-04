@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Fireslinger",
+  "image": "../img/g/goblin-fireslinger.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Warrior",
+  "text": ": Goblin Fireslinger deals 1 damage to target player.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "114",
+  "artist": "Pete Venters",
+  "rating": "5",
+  "votes": "0"
+}

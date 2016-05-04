@@ -1,0 +1,13 @@
+{
+  "title": "Ichorid",
+  "image": "../img/i/ichorid.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Horror",
+  "text": "HasteAt the beginning of the end step, sacrifice Ichorid.At the beginning of your upkeep, if Ichorid is in your graveyard, you may exile a black creature card other than Ichorid from your graveyard. If you do, return Ichorid to the battlefield.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "123",
+  "artist": "rk post",
+  "rating": "4.500",
+  "votes": "1"
+}

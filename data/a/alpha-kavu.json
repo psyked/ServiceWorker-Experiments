@@ -1,0 +1,13 @@
+{
+  "title": "Alpha Kavu",
+  "image": "../img/a/alpha-kavu.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kavu",
+  "text": ": Target Kavu creature gets -1/+1 until end of turn.",
+  "expansion": "Planeshift",
+  "rarity": "Uncommon",
+  "cardNumber": "77",
+  "artist": "Matt Cavotta",
+  "rating": "2.329",
+  "votes": "38"
+}

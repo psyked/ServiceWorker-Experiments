@@ -1,0 +1,13 @@
+{
+  "title": "Acquire",
+  "image": "../img/a/acquire.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Search target opponent's library for an artifact card and put that card onto the battlefield under your control. Then that player shuffles his or her library.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Rare",
+  "cardNumber": "21",
+  "artist": "Daren Bader",
+  "rating": "4.117",
+  "votes": "64"
+}

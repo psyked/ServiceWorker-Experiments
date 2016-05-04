@@ -1,0 +1,13 @@
+{
+  "title": "Colossus of Akros",
+  "image": "../img/c/colossus-ofakros.jpg",
+  "convertedManaCost": "8",
+  "types": "Artifact Creature  — Golem",
+  "text": "Defender, indestructible0: Monstrosity 10. (If this creature isn't monstrous, put ten +1/+1 counters on it and it becomes monstrous.)As long as Colossus of Akros is monstrous, it has trample and can attack as though it didn't have defender.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "214",
+  "artist": "Zack Stella",
+  "rating": "3.639",
+  "votes": "115"
+}

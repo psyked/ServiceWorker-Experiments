@@ -1,0 +1,13 @@
+{
+  "title": "Magus of the Candelabra",
+  "image": "../img/m/magus-ofthecandelabra.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Wizard",
+  "text": ", : Untap X target lands.",
+  "expansion": "Time Spiral",
+  "rarity": "Rare",
+  "cardNumber": "203",
+  "artist": "Terese Nielsen",
+  "rating": "4.133",
+  "votes": "75"
+}

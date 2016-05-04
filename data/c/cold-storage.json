@@ -1,0 +1,13 @@
+{
+  "title": "Cold Storage",
+  "image": "../img/c/cold-storage.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ": Exile target creature you control.Sacrifice Cold Storage: Return each creature card exiled with Cold Storage to the battlefield under your control.",
+  "expansion": "Tempest",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Greg Simanson",
+  "rating": "3.618",
+  "votes": "34"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Jund Hackblade",
+  "image": "../img/j/jund-hackblade.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Berserker",
+  "text": "As long as you control another multicolored permanent, Jund Hackblade gets +1/+1 and has haste.",
+  "expansion": "Alara Reborn",
+  "rarity": "Common",
+  "cardNumber": "138",
+  "artist": "Dan Dos Santos",
+  "rating": "3.531",
+  "votes": "112"
+}

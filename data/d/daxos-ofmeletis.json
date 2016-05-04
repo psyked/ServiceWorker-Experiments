@@ -1,0 +1,13 @@
+{
+  "title": "Daxos of Meletis",
+  "image": "../img/d/daxos-ofmeletis.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Creature  — Human Soldier",
+  "text": "Daxos of Meletis can't be blocked by creatures with power 3 or greater.Whenever Daxos of Meletis deals combat damage to a player, exile the top card of that player's library. You gain life equal to that card's converted mana cost. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast it.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "191",
+  "artist": "Karla Ortiz",
+  "rating": "3.726",
+  "votes": "104"
+}

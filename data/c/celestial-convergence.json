@@ -1,0 +1,13 @@
+{
+  "title": "Celestial Convergence",
+  "image": "../img/c/celestial-convergence.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Celestial Convergence enters the battlefield with seven omen counters on it.At the beginning of your upkeep, remove an omen counter from Celestial Convergence. If there are no omen counters on Celestial Convergence, the player with the highest life total wins the game. If two or more players are tied for highest life total, the game is a draw.",
+  "expansion": "Prophecy",
+  "rarity": "Rare",
+  "cardNumber": "5",
+  "artist": "Ray Lago",
+  "rating": "3.568",
+  "votes": "37"
+}

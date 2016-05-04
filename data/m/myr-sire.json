@@ -1,0 +1,13 @@
+{
+  "title": "Myr Sire",
+  "image": "../img/m/myr-sire.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Myr",
+  "text": "When Myr Sire dies, put a 1/1 colorless Myr artifact creature token onto the battlefield.",
+  "expansion": "Commander 2014",
+  "rarity": "Common",
+  "cardNumber": "256",
+  "artist": "Jaime Jones",
+  "rating": "5",
+  "votes": "0"
+}

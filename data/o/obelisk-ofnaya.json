@@ -1,0 +1,13 @@
+{
+  "title": "Obelisk of Naya",
+  "image": "../img/o/obelisk-ofnaya.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add , , or  to your mana pool.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "216",
+  "artist": "Steve Prescott",
+  "rating": "2.385",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mephitic Ooze",
+  "image": "../img/m/mephitic-ooze.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Ooze",
+  "text": "Mephitic Ooze gets +1/+0 for each artifact you control.Whenever Mephitic Ooze deals combat damage to a creature, destroy that creature. The creature can't be regenerated.",
+  "expansion": "Darksteel",
+  "rarity": "Rare",
+  "cardNumber": "47",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "3.733",
+  "votes": "30"
+}

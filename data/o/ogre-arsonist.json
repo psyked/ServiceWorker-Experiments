@@ -1,0 +1,13 @@
+{
+  "title": "Ogre Arsonist",
+  "image": "../img/o/ogre-arsonist.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Ogre",
+  "text": "When Ogre Arsonist enters the battlefield, destroy target land.",
+  "expansion": "Portal Second Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Jeffrey R. Busch",
+  "rating": "3.988",
+  "votes": "40"
+}

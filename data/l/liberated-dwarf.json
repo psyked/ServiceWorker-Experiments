@@ -1,0 +1,13 @@
+{
+  "title": "Liberated Dwarf",
+  "image": "../img/l/liberated-dwarf.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Dwarf",
+  "text": ", Sacrifice Liberated Dwarf: Target green creature gets +1/+0 and gains first strike until end of turn.",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "95",
+  "artist": "Greg Hildebrandt",
+  "rating": "2.155",
+  "votes": "29"
+}

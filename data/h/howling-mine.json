@@ -1,0 +1,13 @@
+{
+  "title": "Howling Mine",
+  "image": "../img/h/howling-mine.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Rare",
+  "cardNumber": "251",
+  "artist": "Ralph Horsley",
+  "rating": "4.292",
+  "votes": "60"
+}

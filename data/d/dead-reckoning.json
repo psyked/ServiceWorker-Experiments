@@ -1,0 +1,13 @@
+{
+  "title": "Dead Reckoning",
+  "image": "../img/d/dead-reckoning.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "You may put target creature card from your graveyard on top of your library. If you do, Dead Reckoning deals damage equal to that card's power to target creature.",
+  "expansion": "Worldwake",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Svetlin Velinov",
+  "rating": "3.194",
+  "votes": "72"
+}

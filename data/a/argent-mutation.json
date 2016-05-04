@@ -1,0 +1,13 @@
+{
+  "title": "Argent Mutation",
+  "image": "../img/a/argent-mutation.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Target permanent becomes an artifact in addition to its other types until end of turn.Draw a card.",
+  "expansion": "New Phyrexia",
+  "rarity": "Uncommon",
+  "cardNumber": "27",
+  "artist": "Jana Schirmer & Johannes Voss",
+  "rating": "1.765",
+  "votes": "83"
+}

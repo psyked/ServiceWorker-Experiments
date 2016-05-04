@@ -1,0 +1,13 @@
+{
+  "title": "Carnival of Souls",
+  "image": "../img/c/carnival-ofsouls.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever a creature enters the battlefield, you lose 1 life and add  to your mana pool.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Rare",
+  "cardNumber": "55",
+  "artist": "Brian Snoddy",
+  "rating": "3.034",
+  "votes": "74"
+}

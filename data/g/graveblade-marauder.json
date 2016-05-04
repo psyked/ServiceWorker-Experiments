@@ -1,0 +1,13 @@
+{
+  "title": "Graveblade Marauder",
+  "image": "../img/g/graveblade-marauder.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Warrior",
+  "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)Whenever Graveblade Marauder deals combat damage to a player, that player loses life equal to the number of creature cards in your graveyard.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "101",
+  "artist": "Jason Rainville",
+  "rating": "5",
+  "votes": "0"
+}

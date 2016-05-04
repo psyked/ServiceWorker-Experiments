@@ -1,0 +1,13 @@
+{
+  "title": "Ferocity",
+  "image": "../img/f/ferocity.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature blocks or becomes blocked, you may put a +1/+1 counter on it.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "245",
+  "artist": "Pete Venters",
+  "rating": "3.848",
+  "votes": "33"
+}

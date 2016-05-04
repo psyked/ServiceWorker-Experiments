@@ -1,0 +1,13 @@
+{
+  "title": "Neurok Invisimancer",
+  "image": "../img/n/neurok-invisimancer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "Neurok Invisimancer can't be blocked.When Neurok Invisimancer enters the battlefield, target creature can't be blocked this turn.",
+  "expansion": "Duel Decks: Venser vs. Koth",
+  "rarity": "Common",
+  "cardNumber": "8",
+  "artist": "Izzy",
+  "rating": "3.041",
+  "votes": "37"
+}

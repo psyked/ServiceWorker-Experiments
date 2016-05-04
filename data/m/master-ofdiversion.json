@@ -1,0 +1,13 @@
+{
+  "title": "Master of Diversion",
+  "image": "../img/m/master-ofdiversion.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Scout",
+  "text": "Whenever Master of Diversion attacks, tap target creature defending player controls.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "24",
+  "artist": "Michael Komarck",
+  "rating": "3.682",
+  "votes": "44"
+}

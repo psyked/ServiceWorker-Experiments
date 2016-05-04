@@ -1,0 +1,13 @@
+{
+  "title": "Kaijin of the Vanishing Touch",
+  "image": "../img/k/kaijin-ofthevanishingtouch.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": "Defender (This creature can't attack.)Whenever Kaijin of the Vanishing Touch blocks a creature, return that creature to its owner's hand at end of combat. (Return it only if it's on the battlefield.)",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "39",
+  "artist": "Randy Gallegos",
+  "rating": "3.182",
+  "votes": "44"
+}

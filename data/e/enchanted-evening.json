@@ -1,0 +1,13 @@
+{
+  "title": "Enchanted Evening",
+  "image": "../img/e/enchanted-evening.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "All permanents are enchantments in addition to their other types.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "140",
+  "artist": "Rebecca Guay",
+  "rating": "3.861",
+  "votes": "115"
+}

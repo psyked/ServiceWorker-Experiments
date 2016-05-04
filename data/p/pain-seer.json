@@ -1,0 +1,13 @@
+{
+  "title": "Pain Seer",
+  "image": "../img/p/pain-seer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": "Inspired — Whenever Pain Seer becomes untapped, reveal the top card of your library and put that card into your hand. You lose life equal to that card's converted mana cost.",
+  "expansion": "Born of the Gods",
+  "rarity": "Rare",
+  "cardNumber": "80",
+  "artist": "Tyler Jacobson",
+  "rating": "3.837",
+  "votes": "98"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Hermit Druid",
+  "image": "../img/h/hermit-druid.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Druid",
+  "text": ", : Reveal cards from the top of your library until you reveal a basic land card. Put that card into your hand and all other cards revealed this way into your graveyard.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "175",
+  "artist": "Heather Hudson",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Asylum Visitor",
+  "image": "../img/a/asylum-visitor.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Vampire Wizard",
+  "text": "At the beginning of each player's upkeep, if that player has no cards in hand, you draw a card and you lose 1 life.Madness  (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "99",
+  "artist": "Bastien L. Deharme",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Gaea's Balance",
+  "image": "../img/g/gaeas-balance.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Gaea's Balance, sacrifice five lands.Search your library for a land card of each basic land type and put them onto the battlefield. Then shuffle your library.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "77",
+  "artist": "Rebecca Guay",
+  "rating": "3.244",
+  "votes": "39"
+}

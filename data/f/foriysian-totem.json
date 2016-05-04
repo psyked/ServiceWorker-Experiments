@@ -1,0 +1,13 @@
+{
+  "title": "Foriysian Totem",
+  "image": "../img/f/foriysian-totem.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  to your mana pool.: Foriysian Totem becomes a 4/4 red Giant artifact creature with trample until end of turn.As long as Foriysian Totem is a creature, it can block an additional creature each combat.",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "254",
+  "artist": "Anson Maddocks",
+  "rating": "3.397",
+  "votes": "39"
+}

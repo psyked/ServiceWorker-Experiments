@@ -1,0 +1,13 @@
+{
+  "title": "Lava Axe",
+  "image": "../img/l/lava-axe.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Lava Axe deals 5 damage to target player.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "154",
+  "artist": "Brian Snoddy",
+  "rating": "1.750",
+  "votes": "8"
+}

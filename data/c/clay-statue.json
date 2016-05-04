@@ -1,0 +1,13 @@
+{
+  "title": "Clay Statue",
+  "image": "../img/c/clay-statue.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Golem",
+  "text": ": Regenerate Clay Statue.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "189",
+  "artist": "Jesper Myrfors",
+  "rating": "3.341",
+  "votes": "22"
+}

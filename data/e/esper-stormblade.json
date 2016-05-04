@@ -1,0 +1,13 @@
+{
+  "title": "Esper Stormblade",
+  "image": "../img/e/esper-stormblade.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Vedalken Wizard",
+  "text": "As long as you control another multicolored permanent, Esper Stormblade gets +1/+1 and has flying.",
+  "expansion": "Alara Reborn",
+  "rarity": "Common",
+  "cardNumber": "132",
+  "artist": "Matt Stewart",
+  "rating": "3.515",
+  "votes": "103"
+}

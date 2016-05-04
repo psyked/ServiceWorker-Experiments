@@ -1,0 +1,13 @@
+{
+  "title": "Battlefield Medic",
+  "image": "../img/b/battlefield-medic.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": ": Prevent the next X damage that would be dealt to target creature this turn, where X is the number of Clerics on the battlefield.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "9",
+  "artist": "Matt Thompson",
+  "rating": "3.129",
+  "votes": "31"
+}

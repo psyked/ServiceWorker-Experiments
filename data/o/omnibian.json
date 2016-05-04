@@ -1,0 +1,13 @@
+{
+  "title": "Omnibian",
+  "image": "../img/o/omnibian.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Frog",
+  "text": ": Target creature becomes a Frog with base power and toughness 3/3 until end of turn.",
+  "expansion": "Dissension",
+  "rarity": "Rare",
+  "cardNumber": "119",
+  "artist": "Jim Nelson",
+  "rating": "4.114",
+  "votes": "88"
+}

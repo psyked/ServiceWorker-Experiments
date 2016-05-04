@@ -1,0 +1,13 @@
+{
+  "title": "Bringer of the Black Dawn",
+  "image": "../img/b/bringer-oftheblackdawn.jpg",
+  "convertedManaCost": "9",
+  "types": "Creature  — Bringer",
+  "text": "You may pay  rather than pay Bringer of the Black Dawn's mana cost.TrampleAt the beginning of your upkeep, you may pay 2 life. If you do, search your library for a card, then shuffle your library and put that card on top of it.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Rare",
+  "cardNumber": "43",
+  "artist": "Carl Critchlow",
+  "rating": "4.255",
+  "votes": "53"
+}

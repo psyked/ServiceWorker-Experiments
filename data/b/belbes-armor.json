@@ -1,0 +1,13 @@
+{
+  "title": "Belbe's Armor",
+  "image": "../img/b/belbes-armor.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", : Target creature gets -X/+X until end of turn.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "126",
+  "artist": "D. Alexander Gregory",
+  "rating": "3.750",
+  "votes": "24"
+}

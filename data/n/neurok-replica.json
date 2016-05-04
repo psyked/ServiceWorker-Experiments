@@ -1,0 +1,13 @@
+{
+  "title": "Neurok Replica",
+  "image": "../img/n/neurok-replica.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Wizard",
+  "text": ", Sacrifice Neurok Replica: Return target creature to its owner's hand.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "186",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "2.733",
+  "votes": "43"
+}

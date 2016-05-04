@@ -1,0 +1,13 @@
+{
+  "title": "Leashling",
+  "image": "../img/l/leashling.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Hound",
+  "text": "Put a card from your hand on top of your library: Return Leashling to its owner's hand.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "265",
+  "artist": "Carl Critchlow",
+  "rating": "1.155",
+  "votes": "42"
+}

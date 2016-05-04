@@ -1,0 +1,13 @@
+{
+  "title": "Magewright's Stone",
+  "image": "../img/m/magewrights-stone.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", : Untap target creature that has an activated ability with  in its cost.",
+  "expansion": "Dissension",
+  "rarity": "Uncommon",
+  "cardNumber": "162",
+  "artist": "Hiroshi Tanigawa",
+  "rating": "3.333",
+  "votes": "39"
+}

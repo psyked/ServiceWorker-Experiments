@@ -1,0 +1,13 @@
+{
+  "title": "Oathsworn Giant",
+  "image": "../img/o/oathsworn-giant.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant Soldier",
+  "text": "VigilanceOther creatures you control get +0/+2 and have vigilance.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "27",
+  "artist": "Daren Bader",
+  "rating": "3.786",
+  "votes": "49"
+}

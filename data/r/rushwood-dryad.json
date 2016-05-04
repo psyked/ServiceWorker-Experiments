@@ -1,0 +1,13 @@
+{
+  "title": "Rushwood Dryad",
+  "image": "../img/r/rushwood-dryad.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Dryad",
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "294",
+  "artist": "Todd Lockwood",
+  "rating": "3.000",
+  "votes": "34"
+}

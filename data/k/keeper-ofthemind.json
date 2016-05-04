@@ -1,0 +1,13 @@
+{
+  "title": "Keeper of the Mind",
+  "image": "../img/k/keeper-ofthemind.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": ", : Choose target opponent who had at least two more cards in hand than you did as you activated this ability. Draw a card.",
+  "expansion": "Exodus",
+  "rarity": "Uncommon",
+  "cardNumber": "36",
+  "artist": "Matthew Wilson",
+  "rating": "3.886",
+  "votes": "35"
+}

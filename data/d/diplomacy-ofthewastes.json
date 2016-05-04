@@ -1,0 +1,13 @@
+{
+  "title": "Diplomacy of the Wastes",
+  "image": "../img/d/diplomacy-ofthewastes.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target opponent reveals his or her hand. You choose a nonland card from it. That player discards that card. If you control a Warrior, that player loses 2 life.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "67",
+  "artist": "Jack Wang",
+  "rating": "5",
+  "votes": "0"
+}

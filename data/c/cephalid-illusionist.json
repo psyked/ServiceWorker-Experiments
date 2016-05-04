@@ -1,0 +1,13 @@
+{
+  "title": "Cephalid Illusionist",
+  "image": "../img/c/cephalid-illusionist.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Cephalid Wizard",
+  "text": "Whenever Cephalid Illusionist becomes the target of a spell or ability, put the top three cards of your library into your graveyard., : Prevent all combat damage that would be dealt to and dealt by target creature you control this turn.",
+  "expansion": "Torment",
+  "rarity": "Uncommon",
+  "cardNumber": "28",
+  "artist": "Pete Venters",
+  "rating": "4.014",
+  "votes": "37"
+}

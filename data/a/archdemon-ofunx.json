@@ -1,0 +1,13 @@
+{
+  "title": "Archdemon of Unx",
+  "image": "../img/a/archdemon-ofunx.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Demon",
+  "text": "Flying, trampleAt the beginning of your upkeep, sacrifice a non-Zombie creature, then put a 2/2 black Zombie creature token onto the battlefield.",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "64",
+  "artist": "Dave Allsop",
+  "rating": "2.966",
+  "votes": "89"
+}

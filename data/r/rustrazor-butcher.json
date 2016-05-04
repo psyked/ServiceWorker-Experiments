@@ -1,0 +1,13 @@
+{
+  "title": "Rustrazor Butcher",
+  "image": "../img/r/rustrazor-butcher.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Warrior",
+  "text": "First strikeWither (This deals damage to creatures in the form of -1/-1 counters.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "105",
+  "artist": "Ron Spencer",
+  "rating": "3.400",
+  "votes": "55"
+}

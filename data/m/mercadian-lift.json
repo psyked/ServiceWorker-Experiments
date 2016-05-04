@@ -1,0 +1,13 @@
+{
+  "title": "Mercadian Lift",
+  "image": "../img/m/mercadian-lift.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", : Put a winch counter on Mercadian Lift., Remove X winch counters from Mercadian Lift: You may put a creature card with converted mana cost X from your hand onto the battlefield.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "306",
+  "artist": "Gary Ruddell",
+  "rating": "2.538",
+  "votes": "26"
+}

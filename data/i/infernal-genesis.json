@@ -1,0 +1,13 @@
+{
+  "title": "Infernal Genesis",
+  "image": "../img/i/infernal-genesis.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "At the beginning of each player's upkeep, that player puts the top card of his or her library into his or her graveyard. Then he or she puts X 1/1 black Minion creature tokens onto the battlefield, where X is that card's converted mana cost.",
+  "expansion": "Prophecy",
+  "rarity": "Rare",
+  "cardNumber": "68",
+  "artist": "Ron Spencer",
+  "rating": "3.180",
+  "votes": "25"
+}

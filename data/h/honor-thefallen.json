@@ -1,0 +1,13 @@
+{
+  "title": "Honor the Fallen",
+  "image": "../img/h/honor-thefallen.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Exile all creature cards from all graveyards. You gain 1 life for each card exiled this way.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "21",
+  "artist": "Terese Nielsen",
+  "rating": "3.645",
+  "votes": "31"
+}

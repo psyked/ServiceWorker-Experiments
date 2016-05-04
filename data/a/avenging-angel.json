@@ -1,0 +1,13 @@
+{
+  "title": "Avenging Angel",
+  "image": "../img/a/avenging-angel.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Angel",
+  "text": "FlyingWhen Avenging Angel dies, you may put it on top of its owner's library.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "6",
+  "artist": "Matthew D. Wilson",
+  "rating": "5",
+  "votes": "0"
+}

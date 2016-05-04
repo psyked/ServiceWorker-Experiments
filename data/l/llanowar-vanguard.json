@@ -1,0 +1,13 @@
+{
+  "title": "Llanowar Vanguard",
+  "image": "../img/l/llanowar-vanguard.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Dryad",
+  "text": ": Llanowar Vanguard gets +0/+4 until end of turn.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "197",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "1.595",
+  "votes": "37"
+}

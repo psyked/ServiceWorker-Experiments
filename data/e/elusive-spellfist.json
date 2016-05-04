@@ -1,0 +1,13 @@
+{
+  "title": "Elusive Spellfist",
+  "image": "../img/e/elusive-spellfist.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Monk",
+  "text": "Whenever you cast a noncreature spell, Elusive Spellfist gets +1/+0 until end of turn and can't be blocked this turn.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "53",
+  "artist": "Viktor Titov",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Drought",
+  "image": "../img/d/drought.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, sacrifice Drought unless you pay .Spells cost an additional \"Sacrifice a Swamp\" to cast for each black mana symbol in their mana costs.Activated abilities cost an additional \"Sacrifice a Swamp\" to activate for each black mana symbol in their activation costs.",
+  "expansion": "Ice Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "NéNé Thomas",
+  "rating": "3.856",
+  "votes": "45"
+}

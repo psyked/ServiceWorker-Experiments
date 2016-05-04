@@ -1,0 +1,13 @@
+{
+  "title": "Prey Upon",
+  "image": "../img/p/prey-upon.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)",
+  "expansion": "Duel Decks: Heroes vs. Monsters",
+  "rarity": "Common",
+  "cardNumber": "62",
+  "artist": "Dave Kendall",
+  "rating": "3.906",
+  "votes": "16"
+}

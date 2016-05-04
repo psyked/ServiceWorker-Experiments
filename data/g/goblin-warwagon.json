@@ -1,0 +1,13 @@
+{
+  "title": "Goblin War Wagon",
+  "image": "../img/g/goblin-warwagon.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Juggernaut",
+  "text": "Goblin War Wagon doesn't untap during your untap step.At the beginning of your upkeep, you may pay . If you do, untap Goblin War Wagon.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "179",
+  "artist": "Doug Chaffee",
+  "rating": "0.897",
+  "votes": "97"
+}

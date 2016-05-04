@@ -1,0 +1,13 @@
+{
+  "title": "Corpsehatch",
+  "image": "../img/c/corpsehatch.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Destroy target nonblack creature. Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have \"Sacrifice this creature: Add  to your mana pool.\"",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "50",
+  "artist": "Kekai Kotaki",
+  "rating": "5",
+  "votes": "0"
+}

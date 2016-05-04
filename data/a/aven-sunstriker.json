@@ -1,0 +1,13 @@
+{
+  "title": "Aven Sunstriker",
+  "image": "../img/a/aven-sunstriker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Bird Warrior",
+  "text": "FlyingDouble strike (This creature deals both first-strike and regular combat damage.)Megamorph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "5",
+  "artist": "John Severin Brassell",
+  "rating": "5",
+  "votes": "0"
+}

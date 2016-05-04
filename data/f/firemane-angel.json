@@ -1,0 +1,13 @@
+{
+  "title": "Firemane Angel",
+  "image": "../img/f/firemane-angel.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Angel",
+  "text": "Flying, first strikeAt the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life.: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep.",
+  "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+  "rarity": "Rare",
+  "cardNumber": "21",
+  "artist": "Matt Cavotta",
+  "rating": "3.689",
+  "votes": "37"
+}

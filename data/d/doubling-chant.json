@@ -1,0 +1,13 @@
+{
+  "title": "Doubling Chant",
+  "image": "../img/d/doubling-chant.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "For each creature you control, you may search your library for a creature card with the same name as that creature. Put those cards onto the battlefield, then shuffle your library.",
+  "expansion": "Magic 2012",
+  "rarity": "Rare",
+  "cardNumber": "170",
+  "artist": "Wayne England",
+  "rating": "3.793",
+  "votes": "70"
+}

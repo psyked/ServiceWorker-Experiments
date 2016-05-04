@@ -1,0 +1,13 @@
+{
+  "title": "Akroma's Blessing",
+  "image": "../img/a/akromas-blessing.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose a color. Creatures you control gain protection from the chosen color until end of turn.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Vintage Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "11",
+  "artist": "Adam Rex",
+  "rating": "3.500",
+  "votes": "1"
+}

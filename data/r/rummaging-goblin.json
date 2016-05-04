@@ -1,0 +1,13 @@
+{
+  "title": "Rummaging Goblin",
+  "image": "../img/r/rummaging-goblin.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Rogue",
+  "text": ", Discard a card: Draw a card.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "159",
+  "artist": "Karl Kopinski",
+  "rating": "2.071",
+  "votes": "7"
+}

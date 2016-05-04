@@ -1,0 +1,13 @@
+{
+  "title": "Blood-Chin Fanatic",
+  "image": "../img/b/blood-chin-fanatic.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Orc Warrior",
+  "text": ", Sacrifice another Warrior creature: Target player loses X life and you gain X life, where X is the sacrificed creature's power.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "88",
+  "artist": "David Palumbo",
+  "rating": "5",
+  "votes": "0"
+}

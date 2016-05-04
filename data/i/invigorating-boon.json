@@ -1,0 +1,13 @@
+{
+  "title": "Invigorating Boon",
+  "image": "../img/i/invigorating-boon.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever a player cycles a card, you may put a +1/+1 counter on target creature.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "267",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "2.857",
+  "votes": "28"
+}

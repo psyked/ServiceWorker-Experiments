@@ -1,0 +1,13 @@
+{
+  "title": "Flamekin Harbinger",
+  "image": "../img/f/flamekin-harbinger.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elemental Shaman",
+  "text": "When Flamekin Harbinger enters the battlefield, you may search your library for an Elemental card, reveal it, then shuffle your library and put that card on top of it.",
+  "expansion": "Planechase",
+  "rarity": "Uncommon",
+  "cardNumber": "53",
+  "artist": "Steve Prescott",
+  "rating": "4.190",
+  "votes": "50"
+}

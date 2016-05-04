@@ -1,0 +1,13 @@
+{
+  "title": "Alchemist's Apprentice",
+  "image": "../img/a/alchemists-apprentice.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": "Sacrifice Alchemist's Apprentice: Draw a card.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "42",
+  "artist": "David Palumbo",
+  "rating": "2.697",
+  "votes": "66"
+}

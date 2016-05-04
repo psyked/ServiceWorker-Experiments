@@ -1,0 +1,13 @@
+{
+  "title": "Cobalt Golem",
+  "image": "../img/c/cobalt-golem.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Golem",
+  "text": ": Cobalt Golem gains flying until end of turn.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "157",
+  "artist": "Paolo Parente",
+  "rating": "1.895",
+  "votes": "43"
+}

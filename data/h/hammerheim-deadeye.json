@@ -1,0 +1,13 @@
+{
+  "title": "Hammerheim Deadeye",
+  "image": "../img/h/hammerheim-deadeye.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Giant Warrior",
+  "text": "Echo  (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)When Hammerheim Deadeye enters the battlefield, destroy target creature with flying.",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "119",
+  "artist": "Carl Critchlow",
+  "rating": "1.781",
+  "votes": "16"
+}

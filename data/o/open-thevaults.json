@@ -1,0 +1,13 @@
+{
+  "title": "Open the Vaults",
+  "image": "../img/o/open-thevaults.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Return all artifact and enchantment cards from all graveyards to the battlefield under their owners' control. (Auras with nothing to enchant remain in graveyards.)",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "77",
+  "artist": "Brian Despain",
+  "rating": "5",
+  "votes": "0"
+}

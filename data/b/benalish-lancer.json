@@ -1,0 +1,13 @@
+{
+  "title": "Benalish Lancer",
+  "image": "../img/b/benalish-lancer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)If Benalish Lancer was kicked, it enters the battlefield with two +1/+1 counters on it and with first strike.",
+  "expansion": "Duel Decks: Knights vs. Dragons",
+  "rarity": "Common",
+  "cardNumber": "12",
+  "artist": "Parente",
+  "rating": "3.132",
+  "votes": "34"
+}

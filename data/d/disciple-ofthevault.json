@@ -1,0 +1,13 @@
+{
+  "title": "Disciple of the Vault",
+  "image": "../img/d/disciple-ofthevault.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": "Whenever an artifact is put into a graveyard from the battlefield, you may have target opponent lose 1 life.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "62",
+  "artist": "Matt Thompson",
+  "rating": "4.570",
+  "votes": "243"
+}

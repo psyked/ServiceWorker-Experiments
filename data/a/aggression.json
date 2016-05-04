@@ -1,0 +1,13 @@
+{
+  "title": "Aggression",
+  "image": "../img/a/aggression.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant non-Wall creatureEnchanted creature has first strike and trample.At the beginning of the end step of enchanted creature's controller, destroy that creature if it didn't attack this turn.",
+  "expansion": "Ice Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Rick Emond",
+  "rating": "2.961",
+  "votes": "38"
+}

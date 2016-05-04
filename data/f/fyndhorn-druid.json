@@ -1,0 +1,13 @@
+{
+  "title": "Fyndhorn Druid",
+  "image": "../img/f/fyndhorn-druid.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Druid",
+  "text": "When Fyndhorn Druid dies, if it was blocked this turn, you gain 4 life.",
+  "expansion": "Alliances",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Rob Alexander",
+  "rating": "2.883",
+  "votes": "30"
+}

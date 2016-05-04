@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Test Pilot",
+  "image": "../img/g/goblin-testpilot.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Wizard",
+  "text": "Flying: Goblin Test Pilot deals 2 damage to target creature or player chosen at random.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Uncommon",
+  "cardNumber": "74",
+  "artist": "Svetlin Velinov",
+  "rating": "2.167",
+  "votes": "90"
+}

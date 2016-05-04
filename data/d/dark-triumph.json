@@ -1,0 +1,13 @@
+{
+  "title": "Dark Triumph",
+  "image": "../img/d/dark-triumph.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "If you control a Swamp, you may sacrifice a creature rather than pay Dark Triumph's mana cost.Creatures you control get +2/+0 until end of turn.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "55",
+  "artist": "Adam Rex",
+  "rating": "4.100",
+  "votes": "45"
+}

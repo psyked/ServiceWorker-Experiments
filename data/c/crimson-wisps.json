@@ -1,0 +1,13 @@
+{
+  "title": "Crimson Wisps",
+  "image": "../img/c/crimson-wisps.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature becomes red and gains haste until end of turn.Draw a card.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "88",
+  "artist": "Jim Nelson",
+  "rating": "3.240",
+  "votes": "48"
+}

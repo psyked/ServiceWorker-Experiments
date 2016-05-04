@@ -1,0 +1,13 @@
+{
+  "title": "Overload",
+  "image": "../img/o/overload.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)Destroy target artifact if its converted mana cost is 2 or less. If Overload was kicked, destroy that artifact if its converted mana cost is 5 or less instead.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "157",
+  "artist": "Gary Ruddell",
+  "rating": "2.630",
+  "votes": "23"
+}

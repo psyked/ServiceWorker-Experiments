@@ -1,0 +1,13 @@
+{
+  "title": "Cream of the Crop",
+  "image": "../img/c/cream-ofthecrop.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever a creature enters the battlefield under your control, you may look at the top X cards of your library, where X is that creature's power. If you do, put one of those cards on top of your library and the rest on the bottom of your library in any order.",
+  "expansion": "Morningtide",
+  "rarity": "Rare",
+  "cardNumber": "117",
+  "artist": "Howard Lyon",
+  "rating": "3.607",
+  "votes": "61"
+}

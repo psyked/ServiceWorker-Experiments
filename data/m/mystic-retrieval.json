@@ -1,0 +1,13 @@
+{
+  "title": "Mystic Retrieval",
+  "image": "../img/m/mystic-retrieval.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Return target instant or sorcery card from your graveyard to your hand.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "98",
+  "artist": "Scott Chou",
+  "rating": "5",
+  "votes": "0"
+}

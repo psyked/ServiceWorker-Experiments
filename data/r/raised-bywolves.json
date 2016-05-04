@@ -1,0 +1,13 @@
+{
+  "title": "Raised by Wolves",
+  "image": "../img/r/raised-bywolves.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Raised by Wolves enters the battlefield, put two 2/2 green Wolf creature tokens onto the battlefield.Enchanted creature gets +1/+1 for each Wolf you control.",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "135",
+  "artist": "Raymond Swanland",
+  "rating": "3.726",
+  "votes": "42"
+}

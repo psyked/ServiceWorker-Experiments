@@ -1,0 +1,13 @@
+{
+  "title": "Dust Elemental",
+  "image": "../img/d/dust-elemental.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elemental",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)Flying; fear (This creature can't be blocked except by artifact creatures and/or black creatures.)When Dust Elemental enters the battlefield, return three creatures you control to their owner's hand.",
+  "expansion": "Planar Chaos",
+  "rarity": "Rare",
+  "cardNumber": "5",
+  "artist": "rk post",
+  "rating": "4.128",
+  "votes": "82"
+}

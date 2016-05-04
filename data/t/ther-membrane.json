@@ -1,0 +1,13 @@
+{
+  "title": "Æther Membrane",
+  "image": "../img/t/ther-membrane.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wall",
+  "text": "Defender; reach (This creature can block creatures with flying.)Whenever Æther Membrane blocks a creature, return that creature to its owner's hand at end of combat.",
+  "expansion": "Duel Decks: Venser vs. Koth",
+  "rarity": "Uncommon",
+  "cardNumber": "48",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "3.712",
+  "votes": "33"
+}

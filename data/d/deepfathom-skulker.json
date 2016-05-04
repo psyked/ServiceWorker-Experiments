@@ -1,0 +1,13 @@
+{
+  "title": "Deepfathom Skulker",
+  "image": "../img/d/deepfathom-skulker.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Eldrazi",
+  "text": "Devoid (This card has no color.)Whenever a creature you control deals combat damage to a player, you may draw a card.: Target creature can't be blocked this turn. ( represents colorless mana.)",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Rare",
+  "cardNumber": "43",
+  "artist": "Joseph Meehan",
+  "rating": "5",
+  "votes": "0"
+}

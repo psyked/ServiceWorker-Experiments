@@ -1,0 +1,13 @@
+{
+  "title": "Elspeth, Sun's Champion",
+  "image": "../img/e/elspeth-sunschampion.jpg",
+  "convertedManaCost": "6",
+  "types": "Planeswalker  — Elspeth",
+  "text": "+1: Put three 1/1 white Soldier creature tokens onto the battlefield.−3: Destroy all creatures with power 4 or greater.−7: You get an emblem with \"Creatures you control get +2/+2 and have flying.\"",
+  "expansion": "Duel Decks: Elspeth vs. Kiora",
+  "rarity": "Mythic Rare",
+  "cardNumber": "1",
+  "artist": "Tyler Jacobson",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Death Watch",
+  "image": "../img/d/death-watch.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen enchanted creature dies, its controller loses life equal to its power and you gain life equal to its toughness.",
+  "expansion": "Visions",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Brian Horton",
+  "rating": "3.511",
+  "votes": "44"
+}

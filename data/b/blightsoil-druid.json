@@ -1,0 +1,13 @@
+{
+  "title": "Blightsoil Druid",
+  "image": "../img/b/blightsoil-druid.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Druid",
+  "text": ", Pay 1 life: Add  to your mana pool.",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "59",
+  "artist": "Nils Hamm",
+  "rating": "2.009",
+  "votes": "54"
+}

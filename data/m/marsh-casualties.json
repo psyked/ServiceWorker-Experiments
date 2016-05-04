@@ -1,0 +1,13 @@
+{
+  "title": "Marsh Casualties",
+  "image": "../img/m/marsh-casualties.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)Creatures target player controls get -1/-1 until end of turn. If Marsh Casualties was kicked, those creatures get -2/-2 until end of turn instead.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "54",
+  "artist": "Scott Chou",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Marble Chalice",
+  "image": "../img/m/marble-chalice.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": You gain 1 life.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "18",
+  "artist": "Howard Lyon",
+  "rating": "2.050",
+  "votes": "60"
+}

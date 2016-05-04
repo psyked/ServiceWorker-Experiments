@@ -1,0 +1,13 @@
+{
+  "title": "Land Cap",
+  "image": "../img/l/land-cap.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "Land Cap doesn't untap during your untap step if it has a depletion counter on it.At the beginning of your upkeep, remove a depletion counter from Land Cap.: Add  or  to your mana pool. Put a depletion counter on Land Cap.",
+  "expansion": "Ice Age",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "L. A. Williams",
+  "rating": "1.912",
+  "votes": "34"
+}

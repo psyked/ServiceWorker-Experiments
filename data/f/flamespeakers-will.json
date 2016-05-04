@@ -1,0 +1,13 @@
+{
+  "title": "Flamespeaker's Will",
+  "image": "../img/f/flamespeakers-will.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature you controlEnchanted creature gets +1/+1.Whenever enchanted creature deals combat damage to a player, you may sacrifice Flamespeaker's Will. If you do, destroy target artifact.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "95",
+  "artist": "Daniel Ljunggren",
+  "rating": "2.425",
+  "votes": "20"
+}

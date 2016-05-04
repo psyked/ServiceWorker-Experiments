@@ -1,0 +1,13 @@
+{
+  "title": "Krovikan Sorcerer",
+  "image": "../img/k/krovikan-sorcerer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": ", Discard a nonblack card: Draw a card., Discard a black card: Draw two cards, then discard one of them.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "77",
+  "artist": "Igor Kieryluk",
+  "rating": "5",
+  "votes": "0"
+}

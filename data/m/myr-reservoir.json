@@ -1,0 +1,13 @@
+{
+  "title": "Myr Reservoir",
+  "image": "../img/m/myr-reservoir.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  to your mana pool. Spend this mana only to cast Myr spells or activate abilities of Myr., : Return target Myr card from your graveyard to your hand.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "183",
+  "artist": "Jung Park",
+  "rating": "3.629",
+  "votes": "66"
+}

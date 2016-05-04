@@ -1,0 +1,13 @@
+{
+  "title": "Death Charmer",
+  "image": "../img/d/death-charmer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Worm Mercenary",
+  "text": "Whenever Death Charmer deals combat damage to a creature, that creature's controller loses 2 life unless he or she pays .",
+  "expansion": "Prophecy",
+  "rarity": "Common",
+  "cardNumber": "61",
+  "artist": "David Martin",
+  "rating": "3.400",
+  "votes": "30"
+}

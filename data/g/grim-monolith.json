@@ -1,0 +1,13 @@
+{
+  "title": "Grim Monolith",
+  "image": "../img/g/grim-monolith.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Grim Monolith doesn't untap during your untap step.: Add  to your mana pool.: Untap Grim Monolith.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Rare",
+  "cardNumber": "126",
+  "artist": "Chippy",
+  "rating": "4.576",
+  "votes": "118"
+}

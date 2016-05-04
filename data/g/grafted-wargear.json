@@ -1,0 +1,13 @@
+{
+  "title": "Grafted Wargear",
+  "image": "../img/g/grafted-wargear.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +3/+2.Whenever Grafted Wargear becomes unattached from a permanent, sacrifice that permanent.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "126",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "4.340",
+  "votes": "75"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Kirtar's Desire",
+  "image": "../img/k/kirtars-desire.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature can't attack.Threshold — Enchanted creature can't block as long as seven or more cards are in your graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "27",
+  "artist": "Pete Venters",
+  "rating": "3.659",
+  "votes": "41"
+}

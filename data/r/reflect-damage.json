@@ -1,0 +1,13 @@
+{
+  "title": "Reflect Damage",
+  "image": "../img/r/reflect-damage.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "The next time a source of your choice would deal damage this turn, that damage is dealt to that source's controller instead.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Ron Spencer",
+  "rating": "3.585",
+  "votes": "41"
+}

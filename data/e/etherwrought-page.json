@@ -1,0 +1,13 @@
+{
+  "title": "Etherwrought Page",
+  "image": "../img/e/etherwrought-page.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, choose one —• You gain 2 life.• Look at the top card of your library. You may put that card into your graveyard.• Each opponent loses 1 life.",
+  "expansion": "Alara Reborn",
+  "rarity": "Uncommon",
+  "cardNumber": "108",
+  "artist": "Howard Lyon",
+  "rating": "2.950",
+  "votes": "60"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Æthertow",
+  "image": "../img/t/thertow.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Put target attacking or blocking creature on top of its owner's library.Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "136",
+  "artist": "Warren Mahy",
+  "rating": "2.884",
+  "votes": "43"
+}

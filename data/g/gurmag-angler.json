@@ -1,0 +1,13 @@
+{
+  "title": "Gurmag Angler",
+  "image": "../img/g/gurmag-angler.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Zombie Fish",
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for .)",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "72",
+  "artist": "YW Tang",
+  "rating": "5",
+  "votes": "0"
+}

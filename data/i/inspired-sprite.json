@@ -1,0 +1,13 @@
+{
+  "title": "Inspired Sprite",
+  "image": "../img/i/inspired-sprite.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Faerie Wizard",
+  "text": "FlashFlyingWhenever you cast a Wizard spell, you may untap Inspired Sprite.: Draw a card, then discard a card.",
+  "expansion": "Morningtide",
+  "rarity": "Uncommon",
+  "cardNumber": "37",
+  "artist": "Michael Sutfin",
+  "rating": "3.154",
+  "votes": "39"
+}

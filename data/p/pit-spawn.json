@@ -1,0 +1,13 @@
+{
+  "title": "Pit Spawn",
+  "image": "../img/p/pit-spawn.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Demon",
+  "text": "First strikeAt the beginning of your upkeep, sacrifice Pit Spawn unless you pay .Whenever Pit Spawn deals damage to a creature, exile that creature.",
+  "expansion": "Exodus",
+  "rarity": "Rare",
+  "cardNumber": "70",
+  "artist": "Thomas M. Baxa",
+  "rating": "4.383",
+  "votes": "60"
+}

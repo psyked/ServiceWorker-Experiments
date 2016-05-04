@@ -1,0 +1,13 @@
+{
+  "title": "Haunter of Nightveil",
+  "image": "../img/h/haunter-ofnightveil.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit",
+  "text": "Creatures your opponents control get -1/-0.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Uncommon",
+  "cardNumber": "76",
+  "artist": "Igor Kieryluk",
+  "rating": "3.625",
+  "votes": "40"
+}

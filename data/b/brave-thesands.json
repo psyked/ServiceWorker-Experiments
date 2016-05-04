@@ -1,0 +1,13 @@
+{
+  "title": "Brave the Sands",
+  "image": "../img/b/brave-thesands.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Creatures you control have vigilance.Each creature you control can block an additional creature each combat.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "5",
+  "artist": "Dave Kendall",
+  "rating": "3.375",
+  "votes": "4"
+}

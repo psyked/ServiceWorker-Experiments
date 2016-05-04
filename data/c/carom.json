@@ -1,0 +1,13 @@
+{
+  "title": "Carom",
+  "image": "../img/c/carom.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "The next 1 damage that would be dealt to target creature this turn is dealt to another target creature instead.Draw a card.",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "6",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "2.236",
+  "votes": "53"
+}

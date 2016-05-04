@@ -1,0 +1,13 @@
+{
+  "title": "Ethersworn Canonist",
+  "image": "../img/e/ethersworn-canonist.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Human Cleric",
+  "text": "Each player who has cast a nonartifact spell this turn can't cast additional nonartifact spells.",
+  "expansion": "Modern Masters",
+  "rarity": "Rare",
+  "cardNumber": "14",
+  "artist": "Izzy",
+  "rating": "4.547",
+  "votes": "43"
+}

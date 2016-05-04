@@ -1,0 +1,13 @@
+{
+  "title": "Graceful Adept",
+  "image": "../img/g/graceful-adept.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "You have no maximum hand size.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "63",
+  "artist": "Scott M. Fischer",
+  "rating": "3.133",
+  "votes": "45"
+}

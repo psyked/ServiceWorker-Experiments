@@ -1,0 +1,13 @@
+{
+  "title": "Lurking Arynx",
+  "image": "../img/l/lurking-arynx.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Cat Beast",
+  "text": "Formidable — : Target creature blocks Lurking Arynx this turn if able. Activate this ability only if creatures you control have total power 8 or greater.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "192",
+  "artist": "Carl Frank",
+  "rating": "5",
+  "votes": "0"
+}

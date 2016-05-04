@@ -1,0 +1,13 @@
+{
+  "title": "Rouse the Mob",
+  "image": "../img/r/rouse-themob.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Strive — Rouse the Mob costs  more to cast for each target beyond the first.Any number of target creatures each get +2/+0 and gain trample until end of turn.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "109",
+  "artist": "John Stanko",
+  "rating": "3.021",
+  "votes": "24"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Heartstabber Mosquito",
+  "image": "../img/h/heartstabber-mosquito.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Insect",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)FlyingWhen Heartstabber Mosquito enters the battlefield, if it was kicked, destroy target creature.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "52",
+  "artist": "Jason Felix",
+  "rating": "5",
+  "votes": "0"
+}

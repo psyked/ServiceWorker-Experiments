@@ -1,0 +1,13 @@
+{
+  "title": "Manabarbs",
+  "image": "../img/m/manabarbs.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.",
+  "expansion": "Magic 2012",
+  "rarity": "Rare",
+  "cardNumber": "150",
+  "artist": "Jeff Miracola",
+  "rating": "4.077",
+  "votes": "78"
+}

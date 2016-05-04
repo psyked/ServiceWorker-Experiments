@@ -1,0 +1,13 @@
+{
+  "title": "Harpoon Sniper",
+  "image": "../img/h/harpoon-sniper.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Merfolk Archer",
+  "text": ", : Harpoon Sniper deals X damage to target attacking or blocking creature, where X is the number of Merfolk you control.",
+  "expansion": "Lorwyn",
+  "rarity": "Uncommon",
+  "cardNumber": "19",
+  "artist": "Dominick Domingo",
+  "rating": "3.064",
+  "votes": "47"
+}

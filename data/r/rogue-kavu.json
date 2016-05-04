@@ -1,0 +1,13 @@
+{
+  "title": "Rogue Kavu",
+  "image": "../img/r/rogue-kavu.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kavu",
+  "text": "Whenever Rogue Kavu attacks alone, it gets +2/+0 until end of turn.",
+  "expansion": "Ninth Edition",
+  "rarity": "Common",
+  "cardNumber": "213",
+  "artist": "Darrell Riche",
+  "rating": "2.536",
+  "votes": "28"
+}

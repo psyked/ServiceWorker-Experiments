@@ -1,0 +1,13 @@
+{
+  "title": "Kingpin's Pet",
+  "image": "../img/k/kingpins-pet.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Thrull",
+  "text": "FlyingExtort (Whenever you cast a spell, you may pay . If you do, each opponent loses 1 life and you gain that much life.)",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "173",
+  "artist": "Mark Zug",
+  "rating": "3.507",
+  "votes": "72"
+}

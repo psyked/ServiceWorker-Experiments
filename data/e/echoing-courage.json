@@ -1,0 +1,13 @@
+{
+  "title": "Echoing Courage",
+  "image": "../img/e/echoing-courage.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature and all other creatures with the same name as that creature get +2/+2 until end of turn.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "161",
+  "artist": "Greg Staples",
+  "rating": "3.667",
+  "votes": "3"
+}

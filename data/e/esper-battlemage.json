@@ -1,0 +1,13 @@
+{
+  "title": "Esper Battlemage",
+  "image": "../img/e/esper-battlemage.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Human Wizard",
+  "text": ", : Prevent the next 2 damage that would be dealt to you this turn., : Target creature gets -1/-1 until end of turn.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "40",
+  "artist": "Matt Cavotta",
+  "rating": "3.051",
+  "votes": "69"
+}

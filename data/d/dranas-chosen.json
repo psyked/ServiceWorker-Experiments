@@ -1,0 +1,13 @@
+{
+  "title": "Drana's Chosen",
+  "image": "../img/d/dranas-chosen.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Vampire Shaman Ally",
+  "text": "Cohort — , Tap an untapped Ally you control: Put a 2/2 black Zombie creature token onto the battlefield tapped.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Rare",
+  "cardNumber": "84",
+  "artist": "Deruchenko Alexander",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dragon Egg",
+  "image": "../img/d/dragon-egg.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Dragon",
+  "text": "Defender (This creature can't attack.)When Dragon Egg dies, put a 2/2 red Dragon creature token with flying onto the battlefield. It has \": This creature gets +1/+0 until end of turn.\"",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "137",
+  "artist": "Jack Wang",
+  "rating": "3.591",
+  "votes": "44"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dross Scorpion",
+  "image": "../img/d/dross-scorpion.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Scorpion",
+  "text": "Whenever Dross Scorpion or another artifact creature dies, you may untap target artifact.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "164",
+  "artist": "Jim Nelson",
+  "rating": "4.045",
+  "votes": "56"
+}

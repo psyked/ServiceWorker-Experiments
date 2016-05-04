@@ -1,0 +1,13 @@
+{
+  "title": "Jungle Barrier",
+  "image": "../img/j/jungle-barrier.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Plant Wall",
+  "text": "Defender (This creature can't attack.)When Jungle Barrier enters the battlefield, draw a card.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "106",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "3.694",
+  "votes": "49"
+}

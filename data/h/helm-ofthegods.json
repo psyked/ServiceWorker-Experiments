@@ -1,0 +1,13 @@
+{
+  "title": "Helm of the Gods",
+  "image": "../img/h/helm-ofthegods.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +1/+1 for each enchantment you control.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "230",
+  "artist": "Anthony Palumbo",
+  "rating": "5",
+  "votes": "0"
+}

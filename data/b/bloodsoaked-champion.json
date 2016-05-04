@@ -1,0 +1,13 @@
+{
+  "title": "Bloodsoaked Champion",
+  "image": "../img/b/bloodsoaked-champion.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Warrior",
+  "text": "Bloodsoaked Champion can't block.Raid — : Return Bloodsoaked Champion from your graveyard to the battlefield. Activate this ability only if you attacked with a creature this turn.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "66",
+  "artist": "Aaron Miller",
+  "rating": "4.417",
+  "votes": "6"
+}

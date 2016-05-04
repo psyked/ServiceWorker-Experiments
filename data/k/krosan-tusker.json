@@ -1,0 +1,13 @@
+{
+  "title": "Krosan Tusker",
+  "image": "../img/k/krosan-tusker.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Boar Beast",
+  "text": "Cycling  (, Discard this card: Draw a card.)When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.",
+  "expansion": "Duel Decks Anthology, Garruk vs. Liliana",
+  "rarity": "Common",
+  "cardNumber": "11",
+  "artist": "Kev Walker",
+  "rating": "5",
+  "votes": "0"
+}

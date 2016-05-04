@@ -1,0 +1,13 @@
+{
+  "title": "Rakdos Riteknife",
+  "image": "../img/r/rakdos-riteknife.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +1/+0 for each blood counter on Rakdos Riteknife and has \", Sacrifice a creature: Put a blood counter on Rakdos Riteknife.\", Sacrifice Rakdos Riteknife: Target player sacrifices a permanent for each blood counter on Rakdos Riteknife.Equip",
+  "expansion": "Dissension",
+  "rarity": "Rare",
+  "cardNumber": "164",
+  "artist": "Jim Nelson",
+  "rating": "3.467",
+  "votes": "46"
+}

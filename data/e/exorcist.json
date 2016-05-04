@@ -1,0 +1,13 @@
+{
+  "title": "Exorcist",
+  "image": "../img/e/exorcist.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": ", : Destroy target black creature.",
+  "expansion": "Masters Edition III",
+  "rarity": "Uncommon",
+  "cardNumber": "10",
+  "artist": "Drew Tucker",
+  "rating": "3.828",
+  "votes": "32"
+}

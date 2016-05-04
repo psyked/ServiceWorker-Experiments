@@ -1,0 +1,13 @@
+{
+  "title": "Guardian's Magemark",
+  "image": "../img/g/guardians-magemark.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "FlashEnchant creatureCreatures you control that are enchanted get +1/+1.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "8",
+  "artist": "Brandon Kitkouski",
+  "rating": "2.405",
+  "votes": "37"
+}

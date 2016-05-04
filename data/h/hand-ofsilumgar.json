@@ -1,0 +1,13 @@
+{
+  "title": "Hand of Silumgar",
+  "image": "../img/h/hand-ofsilumgar.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Warrior",
+  "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "105",
+  "artist": "Lius Lasahido",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Miracle Worker",
+  "image": "../img/m/miracle-worker.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": ": Destroy target Aura attached to a creature you control.",
+  "expansion": "The Dark",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Ron Spencer",
+  "rating": "2.847",
+  "votes": "36"
+}

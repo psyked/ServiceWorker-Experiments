@@ -1,0 +1,13 @@
+{
+  "title": "Falling Timber",
+  "image": "../img/f/falling-timber.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Kicker—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.)Prevent all combat damage target creature would deal this turn. If Falling Timber was kicked, prevent all combat damage another target creature would deal this turn.",
+  "expansion": "Planeshift",
+  "rarity": "Common",
+  "cardNumber": "79",
+  "artist": "Eric Peterson",
+  "rating": "1.750",
+  "votes": "32"
+}

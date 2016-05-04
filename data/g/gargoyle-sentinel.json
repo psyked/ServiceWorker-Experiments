@@ -1,0 +1,13 @@
+{
+  "title": "Gargoyle Sentinel",
+  "image": "../img/g/gargoyle-sentinel.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Gargoyle",
+  "text": "Defender (This creature can't attack.): Until end of turn, Gargoyle Sentinel loses defender and gains flying.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "216",
+  "artist": "Drew Baker",
+  "rating": "2.800",
+  "votes": "5"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mystic Veil",
+  "image": "../img/m/mystic-veil.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "You may cast Mystic Veil as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.Enchant creatureEnchanted creature has shroud. (It can't be the target of spells or abilities.)",
+  "expansion": "Visions",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "D. Alexander Gregory",
+  "rating": "3.485",
+  "votes": "33"
+}

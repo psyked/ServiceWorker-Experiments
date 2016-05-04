@@ -1,0 +1,13 @@
+{
+  "title": "Dueling Grounds",
+  "image": "../img/d/dueling-grounds.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "No more than one creature can attack each turn.No more than one creature can block each turn.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "245",
+  "artist": "Pete Venters",
+  "rating": "4.208",
+  "votes": "48"
+}

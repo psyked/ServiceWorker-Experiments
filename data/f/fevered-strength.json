@@ -1,0 +1,13 @@
+{
+  "title": "Fevered Strength",
+  "image": "../img/f/fevered-strength.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Target creature gets +2/+0 until end of turn.Draw a card at the beginning of the next turn's upkeep.",
+  "expansion": "Masters Edition III",
+  "rarity": "Common",
+  "cardNumber": "66",
+  "artist": "Brian Snoddy",
+  "rating": "2.733",
+  "votes": "30"
+}

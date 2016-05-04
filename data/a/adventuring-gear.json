@@ -1,0 +1,13 @@
+{
+  "title": "Adventuring Gear",
+  "image": "../img/a/adventuring-gear.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Landfall — Whenever a land enters the battlefield under your control, equipped creature gets +2/+2 until end of turn.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "195",
+  "artist": "Howard Lyon",
+  "rating": "3.471",
+  "votes": "103"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Cradle of Vitality",
+  "image": "../img/c/cradle-ofvitality.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever you gain life, you may pay . If you do, put a +1/+1 counter on target creature for each 1 life you gained.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "7",
+  "artist": "Trevor Hairsine",
+  "rating": "3.632",
+  "votes": "19"
+}

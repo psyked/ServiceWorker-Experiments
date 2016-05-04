@@ -1,0 +1,13 @@
+{
+  "title": "Master Biomancer",
+  "image": "../img/m/master-biomancer.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elf Wizard",
+  "text": "Each other creature you control enters the battlefield with a number of additional +1/+1 counters on it equal to Master Biomancer's power and as a Mutant in addition to its other types.",
+  "expansion": "Gatecrash",
+  "rarity": "Mythic Rare",
+  "cardNumber": "176",
+  "artist": "Willian Murai",
+  "rating": "4.028",
+  "votes": "158"
+}

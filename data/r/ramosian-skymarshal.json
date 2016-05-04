@@ -1,0 +1,13 @@
+{
+  "title": "Ramosian Sky Marshal",
+  "image": "../img/r/ramosian-skymarshal.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Rebel",
+  "text": "Flying, : Search your library for a Rebel permanent card with converted mana cost 6 or less and put it onto the battlefield. Then shuffle your library.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "40",
+  "artist": "Matt Cavotta",
+  "rating": "3.463",
+  "votes": "27"
+}

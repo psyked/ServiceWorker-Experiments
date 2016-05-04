@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Splicer",
+  "image": "../img/p/phyrexian-splicer.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", , Choose flying, first strike, trample, or shadow: Until end of turn, target creature with the chosen ability loses it and another target creature gains it.",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Brom",
+  "rating": "3.432",
+  "votes": "44"
+}

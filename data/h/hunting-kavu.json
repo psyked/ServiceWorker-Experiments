@@ -1,0 +1,13 @@
+{
+  "title": "Hunting Kavu",
+  "image": "../img/h/hunting-kavu.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kavu",
+  "text": ", : Exile Hunting Kavu and target creature without flying that's attacking you.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "252",
+  "artist": "Scott M. Fischer",
+  "rating": "3.294",
+  "votes": "34"
+}

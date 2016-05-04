@@ -1,0 +1,13 @@
+{
+  "title": "Hangarback Walker",
+  "image": "../img/h/hangarback-walker.jpg",
+  "convertedManaCost": "0",
+  "types": "Artifact Creature  — Construct",
+  "text": "Hangarback Walker enters the battlefield with X +1/+1 counters on it.When Hangarback Walker dies, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield for each +1/+1 counter on Hangarback Walker., : Put a +1/+1 counter on Hangarback Walker.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "229",
+  "artist": "Daarken",
+  "rating": "5",
+  "votes": "0"
+}

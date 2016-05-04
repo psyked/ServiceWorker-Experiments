@@ -1,0 +1,13 @@
+{
+  "title": "Rock Jockey",
+  "image": "../img/r/rock-jockey.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin",
+  "text": "You can't cast Rock Jockey if you've played a land this turn.You can't play lands if you've cast Rock Jockey this turn.",
+  "expansion": "Scourge",
+  "rarity": "Common",
+  "cardNumber": "101",
+  "artist": "Glen Angus",
+  "rating": "2.182",
+  "votes": "33"
+}

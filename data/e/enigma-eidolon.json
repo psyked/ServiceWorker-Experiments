@@ -1,0 +1,13 @@
+{
+  "title": "Enigma Eidolon",
+  "image": "../img/e/enigma-eidolon.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Spirit",
+  "text": ", Sacrifice Enigma Eidolon: Target player puts the top three cards of his or her library into his or her graveyard.Whenever you cast a multicolored spell, you may return Enigma Eidolon from your graveyard to your hand.",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "24",
+  "artist": "Shishizaru",
+  "rating": "2.000",
+  "votes": "47"
+}

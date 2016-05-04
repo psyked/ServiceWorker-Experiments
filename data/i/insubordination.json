@@ -1,0 +1,13 @@
+{
+  "title": "Insubordination",
+  "image": "../img/i/insubordination.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAt the beginning of the end step of enchanted creature's controller, Insubordination deals 2 damage to that player unless that creature attacked this turn.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "141",
+  "artist": "Andrew Goldhawk",
+  "rating": "2.760",
+  "votes": "25"
+}

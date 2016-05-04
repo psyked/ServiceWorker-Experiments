@@ -1,0 +1,13 @@
+{
+  "title": "Force Void",
+  "image": "../img/f/force-void.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell unless its controller pays .Draw a card at the beginning of the next turn's upkeep.",
+  "expansion": "Ice Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Mark Tedin",
+  "rating": "1.827",
+  "votes": "52"
+}

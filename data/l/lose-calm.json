@@ -1,0 +1,13 @@
+{
+  "title": "Lose Calm",
+  "image": "../img/l/lose-calm.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Gain control of target creature until end of turn. Untap that creature. It gains haste and menace until end of turn. (A creature with menace can't be blocked except by two or more creatures.)",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "147",
+  "artist": "Jason A. Engle",
+  "rating": "5",
+  "votes": "0"
+}

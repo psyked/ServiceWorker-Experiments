@@ -1,0 +1,13 @@
+{
+  "title": "Hand of Honor",
+  "image": "../img/h/hand-ofhonor.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Samurai",
+  "text": "Protection from blackBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "12",
+  "artist": "Kev Walker",
+  "rating": "3.918",
+  "votes": "49"
+}

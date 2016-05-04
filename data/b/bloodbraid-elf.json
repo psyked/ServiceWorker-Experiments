@@ -1,0 +1,13 @@
+{
+  "title": "Bloodbraid Elf",
+  "image": "../img/b/bloodbraid-elf.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elf Berserker",
+  "text": "HasteCascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "84",
+  "artist": "Steve Argyle",
+  "rating": "4.327",
+  "votes": "101"
+}

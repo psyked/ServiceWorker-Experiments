@@ -1,0 +1,13 @@
+{
+  "title": "Putrid Leech",
+  "image": "../img/p/putrid-leech.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie Leech",
+  "text": "Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate this ability only once each turn.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Common",
+  "cardNumber": "51",
+  "artist": "Craig J Spearing",
+  "rating": "4.235",
+  "votes": "17"
+}

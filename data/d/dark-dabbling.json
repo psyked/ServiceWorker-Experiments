@@ -1,0 +1,13 @@
+{
+  "title": "Dark Dabbling",
+  "image": "../img/d/dark-dabbling.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Regenerate target creature. Draw a card. (The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, also regenerate each other creature you control.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "89",
+  "artist": "Bastien L. Deharme",
+  "rating": "5",
+  "votes": "0"
+}

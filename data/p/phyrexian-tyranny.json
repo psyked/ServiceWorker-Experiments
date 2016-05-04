@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Tyranny",
+  "image": "../img/p/phyrexian-tyranny.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a player draws a card, that player loses 2 life unless he or she pays .",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "118",
+  "artist": "Kev Walker",
+  "rating": "3.755",
+  "votes": "49"
+}

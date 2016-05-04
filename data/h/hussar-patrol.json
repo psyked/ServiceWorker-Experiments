@@ -1,0 +1,13 @@
+{
+  "title": "Hussar Patrol",
+  "image": "../img/h/hussar-patrol.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Knight",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)Vigilance",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Common",
+  "cardNumber": "55",
+  "artist": "Seb McKinnon",
+  "rating": "5",
+  "votes": "0"
+}

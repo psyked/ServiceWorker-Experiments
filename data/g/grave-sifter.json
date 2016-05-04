@@ -1,0 +1,13 @@
+{
+  "title": "Grave Sifter",
+  "image": "../img/g/grave-sifter.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental Beast",
+  "text": "When Grave Sifter enters the battlefield, each player chooses a creature type and returns any number of cards of that type from his or her graveyard to his or her hand.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "44",
+  "artist": "Jesper Ejsing",
+  "rating": "5",
+  "votes": "0"
+}

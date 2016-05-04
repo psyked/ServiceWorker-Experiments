@@ -1,0 +1,13 @@
+{
+  "title": "Reprisal",
+  "image": "../img/r/reprisal.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Destroy target creature with power 4 or greater. It can't be regenerated.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "23",
+  "artist": "Raymond Swanland",
+  "rating": "3.905",
+  "votes": "37"
+}

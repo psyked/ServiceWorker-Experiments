@@ -1,0 +1,13 @@
+{
+  "title": "Liquify",
+  "image": "../img/l/liquify.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell with converted mana cost 3 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "41",
+  "artist": "Ron Spencer",
+  "rating": "2.864",
+  "votes": "33"
+}

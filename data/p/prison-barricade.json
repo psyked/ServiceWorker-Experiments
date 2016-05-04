@@ -1,0 +1,13 @@
+{
+  "title": "Prison Barricade",
+  "image": "../img/p/prison-barricade.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)Kicker  (You may pay an additional  as you cast this spell.)If Prison Barricade was kicked, it enters the battlefield with a +1/+1 counter on it and with \"Prison Barricade can attack as though it didn't have defender.\"",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "25",
+  "artist": "Thomas Gianni",
+  "rating": "2.661",
+  "votes": "28"
+}

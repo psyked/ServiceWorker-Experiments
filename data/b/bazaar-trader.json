@@ -1,0 +1,13 @@
+{
+  "title": "Bazaar Trader",
+  "image": "../img/b/bazaar-trader.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin",
+  "text": ": Target player gains control of target artifact, creature, or land you control.",
+  "expansion": "Worldwake",
+  "rarity": "Rare",
+  "cardNumber": "72",
+  "artist": "Matt Cavotta",
+  "rating": "3.864",
+  "votes": "177"
+}

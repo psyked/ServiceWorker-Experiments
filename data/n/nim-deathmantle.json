@@ -1,0 +1,13 @@
+{
+  "title": "Nim Deathmantle",
+  "image": "../img/n/nim-deathmantle.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +2/+2, has intimidate, and is a black Zombie. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)Whenever a nontoken creature is put into your graveyard from the battlefield, you may pay . If you do, return that card to the battlefield and attach Nim Deathmantle to it.Equip",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "188",
+  "artist": "Karl Kopinski",
+  "rating": "3.973",
+  "votes": "113"
+}

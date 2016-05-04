@@ -1,0 +1,13 @@
+{
+  "title": "Ghostly Touch",
+  "image": "../img/g/ghostly-touch.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has \"Whenever this creature attacks, you may tap or untap target permanent.\"",
+  "expansion": "Avacyn Restored",
+  "rarity": "Uncommon",
+  "cardNumber": "58",
+  "artist": "Jason Felix",
+  "rating": "3.071",
+  "votes": "42"
+}

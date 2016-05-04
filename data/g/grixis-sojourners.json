@@ -1,0 +1,13 @@
+{
+  "title": "Grixis Sojourners",
+  "image": "../img/g/grixis-sojourners.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie Ogre",
+  "text": "When you cycle Grixis Sojourners or it dies, you may exile target card from a graveyard.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Alara Reborn",
+  "rarity": "Common",
+  "cardNumber": "112",
+  "artist": "John Avon",
+  "rating": "2.510",
+  "votes": "49"
+}

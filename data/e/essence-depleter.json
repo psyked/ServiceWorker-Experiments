@@ -1,0 +1,13 @@
+{
+  "title": "Essence Depleter",
+  "image": "../img/e/essence-depleter.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.): Target opponent loses 1 life and you gain 1 life. ( represents colorless mana.)",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "69",
+  "artist": "Chase Stone",
+  "rating": "5",
+  "votes": "0"
+}

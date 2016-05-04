@@ -1,0 +1,13 @@
+{
+  "title": "Monk Realist",
+  "image": "../img/m/monk-realist.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Monk Cleric",
+  "text": "When Monk Realist enters the battlefield, destroy target enchantment.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Common",
+  "cardNumber": "20",
+  "artist": "Daren Bader",
+  "rating": "3.161",
+  "votes": "28"
+}

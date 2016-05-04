@@ -1,0 +1,13 @@
+{
+  "title": "Battle Frenzy",
+  "image": "../img/b/battle-frenzy.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Green creatures you control get +1/+1 until end of turn.Nongreen creatures you control get +1/+0 until end of turn.",
+  "expansion": "Ice Age",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Brian Snoddy",
+  "rating": "3.051",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Coalhauler Swine",
+  "image": "../img/c/coalhauler-swine.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Boar Beast",
+  "text": "Whenever Coalhauler Swine is dealt damage, it deals that much damage to each player.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "119",
+  "artist": "Daren Bader",
+  "rating": "2.956",
+  "votes": "45"
+}

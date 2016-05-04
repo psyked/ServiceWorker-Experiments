@@ -1,0 +1,13 @@
+{
+  "title": "Avacyn's Pilgrim",
+  "image": "../img/a/avacyns-pilgrim.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Monk",
+  "text": ": Add  to your mana pool.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "170",
+  "artist": "Jana Schirmer & Johannes Voss",
+  "rating": "3.857",
+  "votes": "143"
+}

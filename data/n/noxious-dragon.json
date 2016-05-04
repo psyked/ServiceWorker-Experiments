@@ -1,0 +1,13 @@
+{
+  "title": "Noxious Dragon",
+  "image": "../img/n/noxious-dragon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhen Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "77",
+  "artist": "Svetlin Velinov",
+  "rating": "5",
+  "votes": "0"
+}

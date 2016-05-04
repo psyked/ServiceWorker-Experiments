@@ -1,0 +1,13 @@
+{
+  "title": "Reality Ripple",
+  "image": "../img/r/reality-ripple.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target artifact, creature, or land phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step.)",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Alan Rabinowitz",
+  "rating": "3.303",
+  "votes": "33"
+}

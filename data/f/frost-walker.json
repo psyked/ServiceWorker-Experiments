@@ -1,0 +1,13 @@
+{
+  "title": "Frost Walker",
+  "image": "../img/f/frost-walker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elemental",
+  "text": "When Frost Walker becomes the target of a spell or ability, sacrifice it.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "35",
+  "artist": "Mike Bierek",
+  "rating": "5",
+  "votes": "0"
+}

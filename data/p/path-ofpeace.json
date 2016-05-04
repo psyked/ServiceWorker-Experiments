@@ -1,0 +1,13 @@
+{
+  "title": "Path of Peace",
+  "image": "../img/p/path-ofpeace.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy target creature. Its owner gains 4 life.",
+  "expansion": "Starter 1999",
+  "rarity": "Common",
+  "cardNumber": "21",
+  "artist": "Val Mayerik",
+  "rating": "2.545",
+  "votes": "33"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dimir Cutpurse",
+  "image": "../img/d/dimir-cutpurse.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "Whenever Dimir Cutpurse deals combat damage to a player, that player discards a card and you draw a card.",
+  "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+  "rarity": "Rare",
+  "cardNumber": "49",
+  "artist": "Kev Walker",
+  "rating": "4.562",
+  "votes": "73"
+}

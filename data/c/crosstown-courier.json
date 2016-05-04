@@ -1,0 +1,13 @@
+{
+  "title": "Crosstown Courier",
+  "image": "../img/c/crosstown-courier.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Vedalken",
+  "text": "Whenever Crosstown Courier deals combat damage to a player, that player puts that many cards from the top of his or her library into his or her graveyard.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Common",
+  "cardNumber": "6",
+  "artist": "Chase Stone",
+  "rating": "2.850",
+  "votes": "10"
+}

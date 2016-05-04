@@ -1,0 +1,13 @@
+{
+  "title": "Riding Red Hare",
+  "image": "../img/r/riding-redhare.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target creature gets +3/+3 and gains horsemanship until end of turn. (It can't be blocked except by creatures with horsemanship.)",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Common",
+  "cardNumber": "18",
+  "artist": "Qi Baocheng",
+  "rating": "3.645",
+  "votes": "31"
+}

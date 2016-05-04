@@ -1,0 +1,13 @@
+{
+  "title": "Flailing Ogre",
+  "image": "../img/f/flailing-ogre.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Ogre",
+  "text": ": Flailing Ogre gets +1/+1 until end of turn. Any player may activate this ability.: Flailing Ogre gets -1/-1 until end of turn. Any player may activate this ability.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "188",
+  "artist": "Daniel R. Horne",
+  "rating": "2.672",
+  "votes": "32"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Diffusion Sliver",
+  "image": "../img/d/diffusion-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Sliver",
+  "text": "Whenever a Sliver creature you control becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays .",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "50",
+  "artist": "Trevor Claxton",
+  "rating": "3.167",
+  "votes": "6"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dread Reaper",
+  "image": "../img/d/dread-reaper.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Horror",
+  "text": "FlyingWhen Dread Reaper enters the battlefield, you lose 5 life.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "78",
+  "artist": "Christopher Rush",
+  "rating": "2.375",
+  "votes": "28"
+}

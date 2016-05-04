@@ -1,0 +1,13 @@
+{
+  "title": "Mystic Zealot",
+  "image": "../img/m/mystic-zealot.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Nomad Mystic",
+  "text": "Threshold — As long as seven or more cards are in your graveyard, Mystic Zealot gets +1/+1 and has flying.",
+  "expansion": "Vintage Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "35",
+  "artist": "Parente",
+  "rating": "5",
+  "votes": "0"
+}

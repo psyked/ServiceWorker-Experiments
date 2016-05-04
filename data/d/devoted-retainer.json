@@ -1,0 +1,13 @@
+{
+  "title": "Devoted Retainer",
+  "image": "../img/d/devoted-retainer.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Samurai",
+  "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "7",
+  "artist": "Greg Hildebrandt",
+  "rating": "3.462",
+  "votes": "52"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ravenous Bloodseeker",
+  "image": "../img/r/ravenous-bloodseeker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Vampire Berserker",
+  "text": "Discard a card: Ravenous Bloodseeker gets +2/-2 until end of turn.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "175",
+  "artist": "James Ryman",
+  "rating": "5",
+  "votes": "0"
+}

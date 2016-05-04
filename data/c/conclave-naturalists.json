@@ -1,0 +1,13 @@
+{
+  "title": "Conclave Naturalists",
+  "image": "../img/c/conclave-naturalists.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Dryad",
+  "text": "When Conclave Naturalists enters the battlefield, you may destroy target artifact or enchantment.",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "171",
+  "artist": "Howard Lyon",
+  "rating": "5",
+  "votes": "0"
+}

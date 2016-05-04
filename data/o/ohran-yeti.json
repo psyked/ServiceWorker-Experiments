@@ -1,0 +1,13 @@
+{
+  "title": "Ohran Yeti",
+  "image": "../img/o/ohran-yeti.jpg",
+  "convertedManaCost": "4",
+  "types": "Snow Creature  — Yeti",
+  "text": ": Target snow creature gains first strike until end of turn. ( can be paid with one mana from a snow permanent.)",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "93",
+  "artist": "Wayne Reynolds",
+  "rating": "2.458",
+  "votes": "36"
+}

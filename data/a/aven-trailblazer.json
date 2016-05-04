@@ -1,0 +1,13 @@
+{
+  "title": "Aven Trailblazer",
+  "image": "../img/a/aven-trailblazer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Bird Soldier",
+  "text": "FlyingDomain — Aven Trailblazer's toughness is equal to the number of basic land types among lands you control.",
+  "expansion": "Conflux",
+  "rarity": "Common",
+  "cardNumber": "4",
+  "artist": "Chris Rahn",
+  "rating": "2.212",
+  "votes": "52"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Battering Ram",
+  "image": "../img/b/battering-ram.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Construct",
+  "text": "At the beginning of combat on your turn, Battering Ram gains banding until end of combat. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's blocking.)Whenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat.",
+  "expansion": "Fifth Edition",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Jeff A. Menges",
+  "rating": "2.833",
+  "votes": "30"
+}

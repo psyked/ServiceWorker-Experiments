@@ -1,0 +1,13 @@
+{
+  "title": "Necropolis Fiend",
+  "image": "../img/n/necropolis-fiend.jpg",
+  "convertedManaCost": "9",
+  "types": "Creature  — Demon",
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for .)Flying, , Exile X cards from your graveyard: Target creature gets -X/-X until end of turn.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "82",
+  "artist": "Seb McKinnon",
+  "rating": "3.000",
+  "votes": "4"
+}

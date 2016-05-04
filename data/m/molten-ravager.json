@@ -1,0 +1,13 @@
+{
+  "title": "Molten Ravager",
+  "image": "../img/m/molten-ravager.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental",
+  "text": ": Molten Ravager gets +1/+0 until end of turn.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "138",
+  "artist": "Dave Kendall",
+  "rating": "3.057",
+  "votes": "44"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Fiery Justice",
+  "image": "../img/f/fiery-justice.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Fiery Justice deals 5 damage divided as you choose among any number of target creatures and/or players. Target opponent gains 5 life.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "188",
+  "artist": "Mathias Kollros",
+  "rating": "4.233",
+  "votes": "15"
+}

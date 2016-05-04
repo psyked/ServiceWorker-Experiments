@@ -1,0 +1,13 @@
+{
+  "title": "Nemesis of Reason",
+  "image": "../img/n/nemesis-ofreason.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Leviathan Horror",
+  "text": "Whenever Nemesis of Reason attacks, defending player puts the top ten cards of his or her library into his or her graveyard.",
+  "expansion": "Alara Reborn",
+  "rarity": "Rare",
+  "cardNumber": "28",
+  "artist": "Mark Tedin",
+  "rating": "4.252",
+  "votes": "266"
+}

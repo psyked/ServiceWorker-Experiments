@@ -1,0 +1,13 @@
+{
+  "title": "Jorubai Murk Lurker",
+  "image": "../img/j/jorubai-murklurker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Leech",
+  "text": "Jorubai Murk Lurker gets +1/+1 as long as you control a Swamp.: Target creature gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "65",
+  "artist": "Clint Cearley",
+  "rating": "3.333",
+  "votes": "6"
+}

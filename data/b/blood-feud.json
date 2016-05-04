@@ -1,0 +1,13 @@
+{
+  "title": "Blood Feud",
+  "image": "../img/b/blood-feud.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Target creature fights another target creature. (Each deals damage equal to its power to the other.)",
+  "expansion": "Dark Ascension",
+  "rarity": "Uncommon",
+  "cardNumber": "83",
+  "artist": "Winona Nelson",
+  "rating": "2.698",
+  "votes": "48"
+}

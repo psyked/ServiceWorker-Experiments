@@ -1,0 +1,13 @@
+{
+  "title": "Appetite for Brains",
+  "image": "../img/a/appetite-forbrains.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Target opponent reveals his or her hand. You choose a card from it with converted mana cost 4 or greater and exile that card.",
+  "expansion": "Duel Decks: Blessed vs. Cursed",
+  "rarity": "Uncommon",
+  "cardNumber": "51",
+  "artist": "Michael C. Hayes",
+  "rating": "5",
+  "votes": "0"
+}

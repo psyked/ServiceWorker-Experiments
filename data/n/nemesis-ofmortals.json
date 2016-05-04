@@ -1,0 +1,13 @@
+{
+  "title": "Nemesis of Mortals",
+  "image": "../img/n/nemesis-ofmortals.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Snake",
+  "text": "Nemesis of Mortals costs  less to cast for each creature card in your graveyard.: Monstrosity 5. This ability costs  less to activate for each creature card in your graveyard. (If this creature isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "163",
+  "artist": "Mathias Kollros",
+  "rating": "3.561",
+  "votes": "74"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Luminous Angel",
+  "image": "../img/l/luminous-angel.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Angel",
+  "text": "FlyingAt the beginning of your upkeep, you may put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "expansion": "Duel Decks Anthology, Divine vs. Demonic",
+  "rarity": "Rare",
+  "cardNumber": "12",
+  "artist": "Jason Chan",
+  "rating": "5",
+  "votes": "0"
+}

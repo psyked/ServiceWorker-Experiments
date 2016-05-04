@@ -1,0 +1,13 @@
+{
+  "title": "Etched Monstrosity",
+  "image": "../img/e/etched-monstrosity.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Golem",
+  "text": "Etched Monstrosity enters the battlefield with five -1/-1 counters on it., Remove five -1/-1 counters from Etched Monstrosity: Target player draws three cards.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Rare",
+  "cardNumber": "210",
+  "artist": "Steven Belledin",
+  "rating": "5",
+  "votes": "0"
+}

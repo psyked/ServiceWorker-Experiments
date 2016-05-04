@@ -1,0 +1,13 @@
+{
+  "title": "Demonic Appetite",
+  "image": "../img/d/demonic-appetite.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature you controlEnchanted creature gets +3/+3.At the beginning of your upkeep, sacrifice a creature.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "106",
+  "artist": "Igor Kieryluk",
+  "rating": "2.688",
+  "votes": "69"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Balance of Power",
+  "image": "../img/b/balance-ofpower.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "If target opponent has more cards in hand than you, draw cards equal to the difference.",
+  "expansion": "Eighth Edition",
+  "rarity": "Rare",
+  "cardNumber": "62",
+  "artist": "Adam Rex",
+  "rating": "2.086",
+  "votes": "35"
+}

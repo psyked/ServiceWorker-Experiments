@@ -1,0 +1,13 @@
+{
+  "title": "Mizzium Skin",
+  "image": "../img/m/mizzium-skin.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature you control gets +0/+1 and gains hexproof until end of turn.Overload  (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "45",
+  "artist": "Scott Chou",
+  "rating": "3.283",
+  "votes": "69"
+}

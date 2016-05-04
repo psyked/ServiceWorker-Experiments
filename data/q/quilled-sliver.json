@@ -1,0 +1,13 @@
+{
+  "title": "Quilled Sliver",
+  "image": "../img/q/quilled-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Sliver",
+  "text": "All Slivers have \": This permanent deals 1 damage to target attacking or blocking creature.\"",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "37",
+  "artist": "John Matson",
+  "rating": "2.860",
+  "votes": "50"
+}

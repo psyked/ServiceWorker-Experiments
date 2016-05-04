@@ -1,0 +1,13 @@
+{
+  "title": "An-Havva Inn",
+  "image": "../img/a/an-havva-inn.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "You gain X plus 1 life, where X is the number of green creatures on the battlefield.",
+  "expansion": "Homelands",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Brian Snoddy",
+  "rating": "2.736",
+  "votes": "55"
+}

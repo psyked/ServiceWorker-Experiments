@@ -1,0 +1,13 @@
+{
+  "title": "Ashenmoor Liege",
+  "image": "../img/a/ashenmoor-liege.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elemental Knight",
+  "text": "Other black creatures you control get +1/+1.Other red creatures you control get +1/+1.Whenever Ashenmoor Liege becomes the target of a spell or ability an opponent controls, that player loses 4 life.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "181",
+  "artist": "Mark Zug",
+  "rating": "3.822",
+  "votes": "87"
+}

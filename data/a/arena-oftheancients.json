@@ -1,0 +1,13 @@
+{
+  "title": "Arena of the Ancients",
+  "image": "../img/a/arena-oftheancients.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Legendary creatures don't untap during their controllers' untap steps.When Arena of the Ancients enters the battlefield, tap all legendary creatures.",
+  "expansion": "Masters Edition III",
+  "rarity": "Rare",
+  "cardNumber": "188",
+  "artist": "Tom Wänerstrand",
+  "rating": "3.019",
+  "votes": "27"
+}

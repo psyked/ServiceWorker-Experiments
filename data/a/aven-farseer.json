@@ -1,0 +1,13 @@
+{
+  "title": "Aven Farseer",
+  "image": "../img/a/aven-farseer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Bird Soldier",
+  "text": "FlyingWhenever a permanent is turned face up, put a +1/+1 counter on Aven Farseer.",
+  "expansion": "Scourge",
+  "rarity": "Common",
+  "cardNumber": "3",
+  "artist": "Luca Zontini",
+  "rating": "2.318",
+  "votes": "33"
+}

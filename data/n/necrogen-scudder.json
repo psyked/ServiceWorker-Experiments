@@ -1,0 +1,13 @@
+{
+  "title": "Necrogen Scudder",
+  "image": "../img/n/necrogen-scudder.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Horror",
+  "text": "FlyingWhen Necrogen Scudder enters the battlefield, you lose 3 life.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "106",
+  "artist": "Raymond Swanland",
+  "rating": "3.500",
+  "votes": "7"
+}

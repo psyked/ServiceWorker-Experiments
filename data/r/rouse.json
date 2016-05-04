@@ -1,0 +1,13 @@
+{
+  "title": "Rouse",
+  "image": "../img/r/rouse.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "If you control a Swamp, you may pay 2 life rather than pay Rouse's mana cost.Target creature gets +2/+0 until end of turn.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "157",
+  "artist": "Dave Dorman",
+  "rating": "2.872",
+  "votes": "39"
+}

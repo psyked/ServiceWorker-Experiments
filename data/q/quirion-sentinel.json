@@ -1,0 +1,13 @@
+{
+  "title": "Quirion Sentinel",
+  "image": "../img/q/quirion-sentinel.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Druid",
+  "text": "When Quirion Sentinel enters the battlefield, add one mana of any color to your mana pool.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "204",
+  "artist": "Heather Hudson",
+  "rating": "3.212",
+  "votes": "33"
+}

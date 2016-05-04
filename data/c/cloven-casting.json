@@ -1,0 +1,13 @@
+{
+  "title": "Cloven Casting",
+  "image": "../img/c/cloven-casting.jpg",
+  "convertedManaCost": "7",
+  "types": "Enchantment",
+  "text": "Whenever you cast a multicolored instant or sorcery spell, you may pay . If you do, copy that spell. You may choose new targets for the copy.",
+  "expansion": "Alara Reborn",
+  "rarity": "Rare",
+  "cardNumber": "86",
+  "artist": "Vance Kovacs",
+  "rating": "2.847",
+  "votes": "85"
+}

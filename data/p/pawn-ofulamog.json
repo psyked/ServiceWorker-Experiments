@@ -1,0 +1,13 @@
+{
+  "title": "Pawn of Ulamog",
+  "image": "../img/p/pawn-ofulamog.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vampire Shaman",
+  "text": "Whenever Pawn of Ulamog or another nontoken creature you control dies, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has \"Sacrifice this creature: Add  to your mana pool.\"",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "55",
+  "artist": "Daarken",
+  "rating": "5",
+  "votes": "0"
+}

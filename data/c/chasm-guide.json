@@ -1,0 +1,13 @@
+{
+  "title": "Chasm Guide",
+  "image": "../img/c/chasm-guide.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Goblin Scout Ally",
+  "text": "Rally — Whenever Chasm Guide or another Ally enters the battlefield under your control, creatures you control gain haste until end of turn.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "143",
+  "artist": "Johannes Voss",
+  "rating": "5",
+  "votes": "0"
+}

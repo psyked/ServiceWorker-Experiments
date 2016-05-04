@@ -1,0 +1,13 @@
+{
+  "title": "Grollub",
+  "image": "../img/g/grollub.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Beast",
+  "text": "Whenever Grollub is dealt damage, each opponent gains that much life.",
+  "expansion": "Exodus",
+  "rarity": "Common",
+  "cardNumber": "63",
+  "artist": "Chippy",
+  "rating": "1.640",
+  "votes": "57"
+}

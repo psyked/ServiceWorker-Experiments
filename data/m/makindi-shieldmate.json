@@ -1,0 +1,13 @@
+{
+  "title": "Makindi Shieldmate",
+  "image": "../img/m/makindi-shieldmate.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kor Soldier Ally",
+  "text": "DefenderWhenever Makindi Shieldmate or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Makindi Shieldmate.",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "26",
+  "artist": "Howard Lyon",
+  "rating": "2.843",
+  "votes": "51"
+}

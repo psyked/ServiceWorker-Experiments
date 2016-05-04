@@ -1,0 +1,13 @@
+{
+  "title": "Garruk's Packleader",
+  "image": "../img/g/garruks-packleader.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast",
+  "text": "Whenever another creature with power 3 or greater enters the battlefield under your control, you may draw a card.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "283",
+  "artist": "Nils Hamm",
+  "rating": "3.400",
+  "votes": "5"
+}

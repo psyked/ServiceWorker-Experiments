@@ -1,0 +1,13 @@
+{
+  "title": "Fangren Firstborn",
+  "image": "../img/f/fangren-firstborn.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Beast",
+  "text": "Whenever Fangren Firstborn attacks, put a +1/+1 counter on each attacking creature.",
+  "expansion": "Darksteel",
+  "rarity": "Rare",
+  "cardNumber": "75",
+  "artist": "Tim Hildebrandt",
+  "rating": "4.398",
+  "votes": "59"
+}

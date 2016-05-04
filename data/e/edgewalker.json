@@ -1,0 +1,13 @@
+{
+  "title": "Edgewalker",
+  "image": "../img/e/edgewalker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": "Cleric spells you cast cost  less to cast. This effect reduces only the amount of colored mana you pay. (For example, if you cast a Cleric spell with mana cost , it costs  to cast.)",
+  "expansion": "Scourge",
+  "rarity": "Uncommon",
+  "cardNumber": "137",
+  "artist": "Ben Thompson",
+  "rating": "4.213",
+  "votes": "47"
+}

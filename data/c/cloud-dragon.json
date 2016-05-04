@@ -1,0 +1,13 @@
+{
+  "title": "Cloud Dragon",
+  "image": "../img/c/cloud-dragon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Illusion Dragon",
+  "text": "FlyingCloud Dragon can block only creatures with flying.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "41",
+  "artist": "John Avon",
+  "rating": "2.820",
+  "votes": "25"
+}

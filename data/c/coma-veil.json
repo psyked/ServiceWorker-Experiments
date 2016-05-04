@@ -1,0 +1,13 @@
+{
+  "title": "Coma Veil",
+  "image": "../img/c/coma-veil.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant artifact or creatureEnchanted permanent doesn't untap during its controller's untap step.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "36",
+  "artist": "Dan Scott",
+  "rating": "0.925",
+  "votes": "107"
+}

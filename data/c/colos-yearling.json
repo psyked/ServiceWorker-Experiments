@@ -1,0 +1,13 @@
+{
+  "title": "Colos Yearling",
+  "image": "../img/c/colos-yearling.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goat Beast",
+  "text": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.): Colos Yearling gets +1/+0 until end of turn.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "79",
+  "artist": "Patrick Ho",
+  "rating": "2.882",
+  "votes": "34"
+}

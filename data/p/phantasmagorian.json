@@ -1,0 +1,13 @@
+{
+  "title": "Phantasmagorian",
+  "image": "../img/p/phantasmagorian.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Horror",
+  "text": "When you cast Phantasmagorian, any player may discard three cards. If a player does, counter Phantasmagorian.Discard three cards: Return Phantasmagorian from your graveyard to your hand.",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "77",
+  "artist": "Steve Ellis",
+  "rating": "2.781",
+  "votes": "48"
+}

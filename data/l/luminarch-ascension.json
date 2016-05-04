@@ -1,0 +1,13 @@
+{
+  "title": "Luminarch Ascension",
+  "image": "../img/l/luminarch-ascension.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "At the beginning of each opponent's end step, if you didn't lose life this turn, you may put a quest counter on Luminarch Ascension. (Damage causes loss of life.): Put a 4/4 white Angel creature token with flying onto the battlefield. Activate this ability only if Luminarch Ascension has four or more quest counters on it.",
+  "expansion": "Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "25",
+  "artist": "Michael Komarck",
+  "rating": "4.118",
+  "votes": "224"
+}

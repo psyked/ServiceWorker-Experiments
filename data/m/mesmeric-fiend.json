@@ -1,0 +1,13 @@
+{
+  "title": "Mesmeric Fiend",
+  "image": "../img/m/mesmeric-fiend.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Nightmare Horror",
+  "text": "When Mesmeric Fiend enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.When Mesmeric Fiend leaves the battlefield, return the exiled card to its owner's hand.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "128",
+  "artist": "Dana Knutson",
+  "rating": "4.000",
+  "votes": "1"
+}

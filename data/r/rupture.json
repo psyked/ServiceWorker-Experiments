@@ -1,0 +1,13 @@
+{
+  "title": "Rupture",
+  "image": "../img/r/rupture.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Sacrifice a creature. Rupture deals damage equal to that creature's power to each creature without flying and each player.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "97",
+  "artist": "Gao Yan",
+  "rating": "3.920",
+  "votes": "25"
+}

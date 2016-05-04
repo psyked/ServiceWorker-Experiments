@@ -1,0 +1,13 @@
+{
+  "title": "Living Artifact",
+  "image": "../img/l/living-artifact.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant artifactWhenever you're dealt damage, put that many vitality counters on Living Artifact.At the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life.",
+  "expansion": "Fifth Edition",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Anson Maddocks",
+  "rating": "2.568",
+  "votes": "37"
+}

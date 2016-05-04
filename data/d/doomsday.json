@@ -1,0 +1,13 @@
+{
+  "title": "Doomsday",
+  "image": "../img/d/doomsday.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Search your library and graveyard for five cards and exile the rest. Put the chosen cards on top of your library in any order. You lose half your life, rounded up.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Rare",
+  "cardNumber": "121",
+  "artist": "Adrian Smith",
+  "rating": "4.549",
+  "votes": "92"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Battle Hymn",
+  "image": "../img/b/battle-hymn.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Add  to your mana pool for each creature you control.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "128",
+  "artist": "Nils Hamm",
+  "rating": "3.456",
+  "votes": "57"
+}

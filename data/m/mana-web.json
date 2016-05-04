@@ -1,0 +1,13 @@
+{
+  "title": "Mana Web",
+  "image": "../img/m/mana-web.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Whenever a land an opponent controls is tapped for mana, tap all lands that player controls that could produce any type of mana that land could produce.",
+  "expansion": "Weatherlight",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Hannibal King",
+  "rating": "4.325",
+  "votes": "97"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Cultivate",
+  "image": "../img/c/cultivate.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Common",
+  "cardNumber": "139",
+  "artist": "Anthony Palumbo",
+  "rating": "3.583",
+  "votes": "12"
+}

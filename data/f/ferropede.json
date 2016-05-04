@@ -1,0 +1,13 @@
+{
+  "title": "Ferropede",
+  "image": "../img/f/ferropede.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Insect",
+  "text": "Ferropede can't be blocked.Whenever Ferropede deals combat damage to a player, you may remove a counter from target permanent.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "122",
+  "artist": "Jeff Easley",
+  "rating": "3.524",
+  "votes": "42"
+}

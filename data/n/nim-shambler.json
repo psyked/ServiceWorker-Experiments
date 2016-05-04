@@ -1,0 +1,13 @@
+{
+  "title": "Nim Shambler",
+  "image": "../img/n/nim-shambler.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie",
+  "text": "Nim Shambler gets +1/+0 for each artifact you control.Sacrifice a creature: Regenerate Nim Shambler.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "72",
+  "artist": "Adam Rex",
+  "rating": "2.578",
+  "votes": "32"
+}

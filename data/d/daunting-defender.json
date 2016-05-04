@@ -1,0 +1,13 @@
+{
+  "title": "Daunting Defender",
+  "image": "../img/d/daunting-defender.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Cleric",
+  "text": "If a source would deal damage to a Cleric creature you control, prevent 1 of that damage.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "21",
+  "artist": "Carl Critchlow",
+  "rating": "3.089",
+  "votes": "28"
+}

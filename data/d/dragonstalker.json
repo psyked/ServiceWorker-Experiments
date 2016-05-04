@@ -1,0 +1,13 @@
+{
+  "title": "Dragonstalker",
+  "image": "../img/d/dragonstalker.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bird Soldier",
+  "text": "Flying, protection from Dragons",
+  "expansion": "Scourge",
+  "rarity": "Uncommon",
+  "cardNumber": "11",
+  "artist": "Ron Spencer",
+  "rating": "2.154",
+  "votes": "39"
+}

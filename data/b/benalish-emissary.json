@@ -1,0 +1,13 @@
+{
+  "title": "Benalish Emissary",
+  "image": "../img/b/benalish-emissary.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)When Benalish Emissary enters the battlefield, if it was kicked, destroy target land.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "5",
+  "artist": "Randy Gallegos",
+  "rating": "3.600",
+  "votes": "25"
+}

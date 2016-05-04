@@ -1,0 +1,13 @@
+{
+  "title": "Delraich",
+  "image": "../img/d/delraich.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Horror",
+  "text": "TrampleYou may sacrifice three black creatures rather than pay Delraich's mana cost.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "133",
+  "artist": "Todd Lockwood",
+  "rating": "4.259",
+  "votes": "58"
+}

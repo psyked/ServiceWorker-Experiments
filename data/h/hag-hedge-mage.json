@@ -1,0 +1,13 @@
+{
+  "title": "Hag Hedge-Mage",
+  "image": "../img/h/hag-hedge-mage.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Hag Shaman",
+  "text": "When Hag Hedge-Mage enters the battlefield, if you control two or more Swamps, you may have target player discard a card.When Hag Hedge-Mage enters the battlefield, if you control two or more Forests, you may put target card from your graveyard on top of your library.",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "123",
+  "artist": "Scott Altmann",
+  "rating": "3.479",
+  "votes": "47"
+}

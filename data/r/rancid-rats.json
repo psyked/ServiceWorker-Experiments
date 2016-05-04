@@ -1,0 +1,13 @@
+{
+  "title": "Rancid Rats",
+  "image": "../img/r/rancid-rats.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie Rat",
+  "text": "Skulk (This creature can't be blocked by creatures with greater power.)Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "130",
+  "artist": "Daniel Ljunggren",
+  "rating": "5",
+  "votes": "0"
+}

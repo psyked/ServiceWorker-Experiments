@@ -1,0 +1,13 @@
+{
+  "title": "Loafing Giant",
+  "image": "../img/l/loafing-giant.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Giant",
+  "text": "Whenever Loafing Giant attacks or blocks, put the top card of your library into your graveyard. If that card is a land card, prevent all combat damage Loafing Giant would deal this turn.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "153",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "1.873",
+  "votes": "51"
+}

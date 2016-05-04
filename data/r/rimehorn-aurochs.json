@@ -1,0 +1,13 @@
+{
+  "title": "Rimehorn Aurochs",
+  "image": "../img/r/rimehorn-aurochs.jpg",
+  "convertedManaCost": "5",
+  "types": "Snow Creature  — Aurochs",
+  "text": "TrampleWhenever Rimehorn Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.: Target creature blocks target creature this turn if able. ( can be paid with one mana from a snow permanent.)",
+  "expansion": "Coldsnap",
+  "rarity": "Uncommon",
+  "cardNumber": "118",
+  "artist": "Brian Despain",
+  "rating": "2.652",
+  "votes": "46"
+}

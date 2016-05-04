@@ -1,0 +1,13 @@
+{
+  "title": "Circle of Flame",
+  "image": "../img/c/circle-offlame.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever a creature without flying attacks you or a planeswalker you control, Circle of Flame deals 1 damage to that creature.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "135",
+  "artist": "Jaime Jones",
+  "rating": "2.300",
+  "votes": "5"
+}

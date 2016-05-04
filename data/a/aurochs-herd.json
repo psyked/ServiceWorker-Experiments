@@ -1,0 +1,13 @@
+{
+  "title": "Aurochs Herd",
+  "image": "../img/a/aurochs-herd.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Aurochs",
+  "text": "TrampleWhen Aurochs Herd enters the battlefield, you may search your library for an Aurochs card, reveal it, and put it into your hand. If you do, shuffle your library.Whenever Aurochs Herd attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "103",
+  "artist": "Darrell Riche",
+  "rating": "3.625",
+  "votes": "52"
+}

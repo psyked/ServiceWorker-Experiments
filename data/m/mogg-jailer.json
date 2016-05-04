@@ -1,0 +1,13 @@
+{
+  "title": "Mogg Jailer",
+  "image": "../img/m/mogg-jailer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin",
+  "text": "Mogg Jailer can't attack if defending player controls an untapped creature with power 2 or less.",
+  "expansion": "Planeshift",
+  "rarity": "Uncommon",
+  "cardNumber": "68",
+  "artist": "Mark Romanoski",
+  "rating": "2.640",
+  "votes": "68"
+}

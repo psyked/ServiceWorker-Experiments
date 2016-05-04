@@ -1,0 +1,13 @@
+{
+  "title": "Exava, Rakdos Blood Witch",
+  "image": "../img/e/exava-rakdosbloodwitch.jpg",
+  "convertedManaCost": "4",
+  "types": "Legendary Creature  — Human Cleric",
+  "text": "First strike, hasteUnleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)Each other creature you control with a +1/+1 counter on it has haste.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Rare",
+  "cardNumber": "69",
+  "artist": "Aleksi Briclot",
+  "rating": "3.843",
+  "votes": "99"
+}

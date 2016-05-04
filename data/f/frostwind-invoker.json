@@ -1,0 +1,13 @@
+{
+  "title": "Frostwind Invoker",
+  "image": "../img/f/frostwind-invoker.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Merfolk Wizard",
+  "text": "Flying: Creatures you control gain flying until end of turn.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "68",
+  "artist": "Svetlin Velinov",
+  "rating": "2.289",
+  "votes": "38"
+}

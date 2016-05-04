@@ -1,0 +1,13 @@
+{
+  "title": "Call for Blood",
+  "image": "../img/c/call-forblood.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant  — Arcane",
+  "text": "As an additional cost to cast Call for Blood, sacrifice a creature.Target creature gets -X/-X until end of turn, where X is the sacrificed creature's power.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "63",
+  "artist": "Carl Critchlow",
+  "rating": "1.391",
+  "votes": "32"
+}

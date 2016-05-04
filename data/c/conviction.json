@@ -1,0 +1,13 @@
+{
+  "title": "Conviction",
+  "image": "../img/c/conviction.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+3.: Return Conviction to its owner's hand.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "10",
+  "artist": "Parente",
+  "rating": "5",
+  "votes": "0"
+}

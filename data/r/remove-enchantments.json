@@ -1,0 +1,13 @@
+{
+  "title": "Remove Enchantments",
+  "image": "../img/r/remove-enchantments.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Return to your hand all enchantments you both own and control, all Auras you own attached to permanents you control, and all Auras you own attached to attacking creatures your opponents control. Then destroy all other enchantments you control, all other Auras attached to permanents you control, and all other Auras attached to attacking creatures your opponents control.",
+  "expansion": "Legends",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Brian Snoddy",
+  "rating": "2.338",
+  "votes": "40"
+}

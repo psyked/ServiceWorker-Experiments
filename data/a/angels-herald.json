@@ -1,0 +1,13 @@
+{
+  "title": "Angel's Herald",
+  "image": "../img/a/angels-herald.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": ", , Sacrifice a green creature, a white creature, and a blue creature: Search your library for a card named Empyrial Archangel and put it onto the battlefield. Then shuffle your library.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "2",
+  "artist": "Greg Staples",
+  "rating": "1.771",
+  "votes": "83"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Renegade Warlord",
+  "image": "../img/r/renegade-warlord.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Soldier",
+  "text": "First strikeWhenever Renegade Warlord attacks, each other attacking creature gets +1/+0 until end of turn.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "151",
+  "artist": "Ron Spencer",
+  "rating": "5",
+  "votes": "0"
+}

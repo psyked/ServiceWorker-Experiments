@@ -1,0 +1,13 @@
+{
+  "title": "Monk Idealist",
+  "image": "../img/m/monk-idealist.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Monk Cleric",
+  "text": "When Monk Idealist enters the battlefield, return target enchantment card from your graveyard to your hand.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "76",
+  "artist": "Daren Bader",
+  "rating": "5",
+  "votes": "0"
+}

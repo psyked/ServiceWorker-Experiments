@@ -1,0 +1,13 @@
+{
+  "title": "Primeval Titan",
+  "image": "../img/p/primeval-titan.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant",
+  "text": "TrampleWhenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Mythic Rare",
+  "cardNumber": "156",
+  "artist": "Aleksi Briclot",
+  "rating": "5",
+  "votes": "0"
+}

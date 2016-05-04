@@ -1,0 +1,13 @@
+{
+  "title": "Hall of Gemstone",
+  "image": "../img/h/hall-ofgemstone.jpg",
+  "convertedManaCost": "3",
+  "types": "World Enchantment",
+  "text": "At the beginning of each player's upkeep, that player chooses a color. Until end of turn, lands tapped for mana produce mana of the chosen color instead of any other color.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "David A. Cherry",
+  "rating": "4.010",
+  "votes": "52"
+}

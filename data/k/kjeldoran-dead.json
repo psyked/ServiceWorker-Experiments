@@ -1,0 +1,13 @@
+{
+  "title": "Kjeldoran Dead",
+  "image": "../img/k/kjeldoran-dead.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Skeleton",
+  "text": "When Kjeldoran Dead enters the battlefield, sacrifice a creature.: Regenerate Kjeldoran Dead.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "98",
+  "artist": "Melissa A. Benson",
+  "rating": "3.688",
+  "votes": "48"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Refraction Trap",
+  "image": "../img/r/refraction-trap.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant  — Trap",
+  "text": "If an opponent cast a red instant or sorcery spell this turn, you may pay  rather than pay Refraction Trap's mana cost.Prevent the next 3 damage that a source of your choice would deal to you and/or permanents you control this turn. If damage is prevented this way, Refraction Trap deals that much damage to target creature or player.",
+  "expansion": "Worldwake",
+  "rarity": "Uncommon",
+  "cardNumber": "17",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "2.330",
+  "votes": "50"
+}

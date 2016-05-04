@@ -1,0 +1,13 @@
+{
+  "title": "Disenchant",
+  "image": "../img/d/disenchant.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Destroy target artifact or enchantment.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "11",
+  "artist": "Allen Williams",
+  "rating": "5",
+  "votes": "0"
+}

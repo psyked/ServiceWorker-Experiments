@@ -1,0 +1,13 @@
+{
+  "title": "Malakir Cullblade",
+  "image": "../img/m/malakir-cullblade.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Vampire Warrior",
+  "text": "Whenever a creature an opponent controls dies, put a +1/+1 counter on Malakir Cullblade.",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "108",
+  "artist": "Igor Kieryluk",
+  "rating": "5",
+  "votes": "0"
+}

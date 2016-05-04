@@ -1,0 +1,13 @@
+{
+  "title": "Centaur Veteran",
+  "image": "../img/c/centaur-veteran.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Centaur",
+  "text": "Trample, Discard a card: Regenerate Centaur Veteran.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "123",
+  "artist": "Mark Zug",
+  "rating": "1.514",
+  "votes": "37"
+}

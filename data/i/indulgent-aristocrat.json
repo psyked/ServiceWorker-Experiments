@@ -1,0 +1,13 @@
+{
+  "title": "Indulgent Aristocrat",
+  "image": "../img/i/indulgent-aristocrat.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Vampire",
+  "text": "Lifelink, Sacrifice a creature: Put a +1/+1 counter on each Vampire you control.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "118",
+  "artist": "Anna Steinbauer",
+  "rating": "5",
+  "votes": "0"
+}

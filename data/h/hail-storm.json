@@ -1,0 +1,13 @@
+{
+  "title": "Hail Storm",
+  "image": "../img/h/hail-storm.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Hail Storm deals 2 damage to each attacking creature and 1 damage to you and each creature you control.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "79",
+  "artist": "Jeff A. Menges",
+  "rating": "3.221",
+  "votes": "34"
+}

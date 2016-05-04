@@ -1,0 +1,13 @@
+{
+  "title": "Multani's Decree",
+  "image": "../img/m/multanis-decree.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy all enchantments. You gain 2 life for each enchantment destroyed this way.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "114",
+  "artist": "Eric Peterson",
+  "rating": "3.983",
+  "votes": "30"
+}

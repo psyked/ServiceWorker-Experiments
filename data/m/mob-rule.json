@@ -1,0 +1,13 @@
+{
+  "title": "Mob Rule",
+  "image": "../img/m/mob-rule.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Choose one —• Gain control of all creatures with power 4 or greater until end of turn. Untap those creatures. They gain haste until end of turn.• Gain control of all creatures with power 3 or less until end of turn. Untap those creatures. They gain haste until end of turn.",
+  "expansion": "Fate Reforged",
+  "rarity": "Rare",
+  "cardNumber": "109",
+  "artist": "Jakub Kasper",
+  "rating": "5",
+  "votes": "0"
+}

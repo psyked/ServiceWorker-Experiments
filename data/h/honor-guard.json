@@ -1,0 +1,13 @@
+{
+  "title": "Honor Guard",
+  "image": "../img/h/honor-guard.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Soldier",
+  "text": ": Honor Guard gets +0/+1 until end of turn.",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "23",
+  "artist": "Dan Dos Santos",
+  "rating": "2.768",
+  "votes": "56"
+}

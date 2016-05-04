@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Ski Patrol",
+  "image": "../img/g/goblin-skipatrol.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin",
+  "text": ": Goblin Ski Patrol gets +2/+0 and gains flying. Its controller sacrifices it at the beginning of the next end step. Activate this ability only once and only if you control a snow Mountain.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "128",
+  "artist": "Mark Poole",
+  "rating": "2.981",
+  "votes": "26"
+}

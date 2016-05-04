@@ -1,0 +1,13 @@
+{
+  "title": "Heartwood Dryad",
+  "image": "../img/h/heartwood-dryad.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Dryad",
+  "text": "Heartwood Dryad can block creatures with shadow as though Heartwood Dryad had shadow.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "173",
+  "artist": "Rebecca Guay",
+  "rating": "5",
+  "votes": "0"
+}

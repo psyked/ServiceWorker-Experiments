@@ -1,0 +1,13 @@
+{
+  "title": "Fylamarid",
+  "image": "../img/f/fylamarid.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Squid Beast",
+  "text": "FlyingFylamarid can't be blocked by blue creatures.: Target creature becomes blue until end of turn.",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Una Fricker",
+  "rating": "3.064",
+  "votes": "47"
+}

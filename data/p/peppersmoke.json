@@ -1,0 +1,13 @@
+{
+  "title": "Peppersmoke",
+  "image": "../img/p/peppersmoke.jpg",
+  "convertedManaCost": "1",
+  "types": "Tribal Instant  — Faerie",
+  "text": "Target creature gets -1/-1 until end of turn. If you control a Faerie, draw a card.",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "92",
+  "artist": "Rebecca Guay",
+  "rating": "3.200",
+  "votes": "15"
+}

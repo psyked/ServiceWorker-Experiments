@@ -1,0 +1,13 @@
+{
+  "title": "Gaze of Granite",
+  "image": "../img/g/gaze-ofgranite.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Destroy each nonland permanent with converted mana cost X or less.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Rare",
+  "cardNumber": "72",
+  "artist": "Nils Hamm",
+  "rating": "3.812",
+  "votes": "85"
+}

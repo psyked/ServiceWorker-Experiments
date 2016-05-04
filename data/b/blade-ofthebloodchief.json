@@ -1,0 +1,13 @@
+{
+  "title": "Blade of the Bloodchief",
+  "image": "../img/b/blade-ofthebloodchief.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Whenever a creature dies, put a +1/+1 counter on equipped creature. If equipped creature is a Vampire, put two +1/+1 counters on it instead.Equip",
+  "expansion": "Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "196",
+  "artist": "Jung Park",
+  "rating": "4.035",
+  "votes": "158"
+}

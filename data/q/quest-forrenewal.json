@@ -1,0 +1,13 @@
+{
+  "title": "Quest for Renewal",
+  "image": "../img/q/quest-forrenewal.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever a creature you control becomes tapped, you may put a quest counter on Quest for Renewal.As long as there are four or more quest counters on Quest for Renewal, untap all creatures you control during each other player's untap step.",
+  "expansion": "Worldwake",
+  "rarity": "Uncommon",
+  "cardNumber": "110",
+  "artist": "Tomasz Jedruszek",
+  "rating": "3.792",
+  "votes": "106"
+}

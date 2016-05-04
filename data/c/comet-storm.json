@@ -1,0 +1,13 @@
+{
+  "title": "Comet Storm",
+  "image": "../img/c/comet-storm.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Multikicker  (You may pay an additional  any number of times as you cast this spell.)Choose target creature or player, then choose another target creature or player for each time Comet Storm was kicked. Comet Storm deals X damage to each of them.",
+  "expansion": "Commander 2015",
+  "rarity": "Mythic Rare",
+  "cardNumber": "146",
+  "artist": "Jung Park",
+  "rating": "5",
+  "votes": "0"
+}

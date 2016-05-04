@@ -1,0 +1,13 @@
+{
+  "title": "Ground Seal",
+  "image": "../img/g/ground-seal.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "When Ground Seal enters the battlefield, draw a card.Cards in graveyards can't be the targets of spells or abilities.",
+  "expansion": "Magic 2013",
+  "rarity": "Rare",
+  "cardNumber": "176",
+  "artist": "Charles Urbach",
+  "rating": "4.277",
+  "votes": "74"
+}

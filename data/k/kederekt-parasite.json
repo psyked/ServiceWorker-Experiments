@@ -1,0 +1,13 @@
+{
+  "title": "Kederekt Parasite",
+  "image": "../img/k/kederekt-parasite.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Horror",
+  "text": "Whenever an opponent draws a card, if you control a red permanent, you may have Kederekt Parasite deal 1 damage to that player.",
+  "expansion": "Conflux",
+  "rarity": "Rare",
+  "cardNumber": "48",
+  "artist": "Dan Scott",
+  "rating": "3.794",
+  "votes": "143"
+}

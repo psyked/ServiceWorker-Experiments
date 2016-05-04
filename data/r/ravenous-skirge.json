@@ -1,0 +1,13 @@
+{
+  "title": "Ravenous Skirge",
+  "image": "../img/r/ravenous-skirge.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Imp",
+  "text": "FlyingWhenever Ravenous Skirge attacks, it gets +2/+0 until end of turn.",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "152",
+  "artist": "Ron Spencer",
+  "rating": "2.750",
+  "votes": "24"
+}

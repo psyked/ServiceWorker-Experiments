@@ -1,0 +1,13 @@
+{
+  "title": "Morgue Toad",
+  "image": "../img/m/morgue-toad.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Frog",
+  "text": "Sacrifice Morgue Toad: Add  to your mana pool.",
+  "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+  "rarity": "Common",
+  "cardNumber": "47",
+  "artist": "Franz Vohwinkel",
+  "rating": "4.019",
+  "votes": "26"
+}

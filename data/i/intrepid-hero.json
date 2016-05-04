@@ -1,0 +1,13 @@
+{
+  "title": "Intrepid Hero",
+  "image": "../img/i/intrepid-hero.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": ": Destroy target creature with power 4 or greater.",
+  "expansion": "Magic 2013",
+  "rarity": "Rare",
+  "cardNumber": "20",
+  "artist": "Greg Hildebrandt",
+  "rating": "4.210",
+  "votes": "100"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Leaf-Crowned Elder",
+  "image": "../img/l/leaf-crowned-elder.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Treefolk Shaman",
+  "text": "Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Leaf-Crowned Elder, you may reveal it. If you do, you may play that card without paying its mana cost.",
+  "expansion": "Morningtide",
+  "rarity": "Rare",
+  "cardNumber": "128",
+  "artist": "Wayne Reynolds",
+  "rating": "3.770",
+  "votes": "98"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Knight of the Skyward Eye",
+  "image": "../img/k/knight-oftheskywardeye.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Knight",
+  "text": ": Knight of the Skyward Eye gets +3/+3 until end of turn. Activate this ability only once each turn.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "15",
+  "artist": "Matt Stewart",
+  "rating": "3.016",
+  "votes": "64"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Kaboom!",
+  "image": "../img/k/kaboom.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Choose any number of target players. For each of those players, reveal cards from the top of your library until you reveal a nonland card. Kaboom deals damage equal to that card's converted mana cost to that player, then you put the revealed cards on the bottom of your library in any order.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "214",
+  "artist": "Glen Angus",
+  "rating": "3.679",
+  "votes": "39"
+}

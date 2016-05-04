@@ -1,0 +1,13 @@
+{
+  "title": "Revenge of the Hunted",
+  "image": "../img/r/revenge-ofthehunted.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Until end of turn, target creature gets +6/+6 and gains trample, and all creatures able to block it this turn do so.Miracle  (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "191",
+  "artist": "Christopher Moeller",
+  "rating": "3.825",
+  "votes": "83"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Astral Steel",
+  "image": "../img/a/astral-steel.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Target creature gets +1/+2 until end of turn.Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+  "expansion": "Scourge",
+  "rarity": "Common",
+  "cardNumber": "2",
+  "artist": "Matt Cavotta",
+  "rating": "2.210",
+  "votes": "31"
+}

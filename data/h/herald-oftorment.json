@@ -1,0 +1,13 @@
+{
+  "title": "Herald of Torment",
+  "image": "../img/h/herald-oftorment.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment Creature  — Demon",
+  "text": "Bestow  (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)FlyingAt the beginning of your upkeep, you lose 1 life.Enchanted creature gets +3/+3 and has flying.",
+  "expansion": "Born of the Gods",
+  "rarity": "Rare",
+  "cardNumber": "75",
+  "artist": "Vance Kovacs",
+  "rating": "3.807",
+  "votes": "44"
+}

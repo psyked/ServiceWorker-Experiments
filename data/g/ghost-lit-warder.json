@@ -1,0 +1,13 @@
+{
+  "title": "Ghost-Lit Warder",
+  "image": "../img/g/ghost-lit-warder.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": ", : Counter target spell unless its controller pays .Channel — , Discard Ghost-Lit Warder: Counter target spell unless its controller pays .",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "39",
+  "artist": "Kensuke Okabayashi",
+  "rating": "2.760",
+  "votes": "25"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Riftsweeper",
+  "image": "../img/r/riftsweeper.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Shaman",
+  "text": "When Riftsweeper enters the battlefield, choose target face-up exiled card. Its owner shuffles it into his or her library.",
+  "expansion": "Modern Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "159",
+  "artist": "Brian Despain",
+  "rating": "3.944",
+  "votes": "18"
+}

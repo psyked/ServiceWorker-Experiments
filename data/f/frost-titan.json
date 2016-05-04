@@ -1,0 +1,13 @@
+{
+  "title": "Frost Titan",
+  "image": "../img/f/frost-titan.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant",
+  "text": "Whenever Frost Titan becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays .Whenever Frost Titan enters the battlefield or attacks, tap target permanent. It doesn't untap during its controller's next untap step.",
+  "expansion": "Commander 2014",
+  "rarity": "Mythic Rare",
+  "cardNumber": "112",
+  "artist": "Mike Bierek",
+  "rating": "5",
+  "votes": "0"
+}

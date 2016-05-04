@@ -1,0 +1,13 @@
+{
+  "title": "Myr Landshaper",
+  "image": "../img/m/myr-landshaper.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Myr",
+  "text": ": Target land becomes an artifact in addition to its other types until end of turn.",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "131",
+  "artist": "Greg Staples",
+  "rating": "3.203",
+  "votes": "37"
+}

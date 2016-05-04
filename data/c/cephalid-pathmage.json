@@ -1,0 +1,13 @@
+{
+  "title": "Cephalid Pathmage",
+  "image": "../img/c/cephalid-pathmage.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Cephalid Wizard",
+  "text": "Cephalid Pathmage can't be blocked., Sacrifice Cephalid Pathmage: Target creature can't be blocked this turn.",
+  "expansion": "Legions",
+  "rarity": "Common",
+  "cardNumber": "31",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "2.750",
+  "votes": "34"
+}

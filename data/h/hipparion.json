@@ -1,0 +1,13 @@
+{
+  "title": "Hipparion",
+  "image": "../img/h/hipparion.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Horse",
+  "text": "Hipparion can't block creatures with power 3 or greater unless you pay .",
+  "expansion": "Fifth Edition",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Margaret Organ-Kean",
+  "rating": "1.972",
+  "votes": "36"
+}

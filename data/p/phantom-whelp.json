@@ -1,0 +1,13 @@
+{
+  "title": "Phantom Whelp",
+  "image": "../img/p/phantom-whelp.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Illusion Hound",
+  "text": "When Phantom Whelp attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "93",
+  "artist": "Wayne England",
+  "rating": "1.417",
+  "votes": "48"
+}

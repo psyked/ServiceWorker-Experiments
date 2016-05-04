@@ -1,0 +1,13 @@
+{
+  "title": "Primal Bellow",
+  "image": "../img/p/primal-bellow.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets +1/+1 until end of turn for each Forest you control.",
+  "expansion": "Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "176",
+  "artist": "Daren Bader",
+  "rating": "3.929",
+  "votes": "120"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Electryte",
+  "image": "../img/e/electryte.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast",
+  "text": "Whenever Electryte deals combat damage to defending player, it deals damage equal to its power to each blocking creature.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "183",
+  "artist": "Thomas M. Baxa",
+  "rating": "2.929",
+  "votes": "21"
+}

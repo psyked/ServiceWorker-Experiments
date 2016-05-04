@@ -1,0 +1,13 @@
+{
+  "title": "Journeyer's Kite",
+  "image": "../img/j/journeyers-kite.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", : Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.",
+  "expansion": "Duel Decks: Venser vs. Koth",
+  "rarity": "Rare",
+  "cardNumber": "65",
+  "artist": "Hiro Izawa",
+  "rating": "3.059",
+  "votes": "17"
+}

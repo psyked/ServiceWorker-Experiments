@@ -1,0 +1,13 @@
+{
+  "title": "Abduction",
+  "image": "../img/a/abduction.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Abduction enters the battlefield, untap enchanted creature.You control enchanted creature.When enchanted creature dies, return that card to the battlefield under its owner's control.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "55",
+  "artist": "Colin MacNeil",
+  "rating": "3.511",
+  "votes": "44"
+}

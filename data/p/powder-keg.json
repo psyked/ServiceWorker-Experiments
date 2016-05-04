@@ -1,0 +1,13 @@
+{
+  "title": "Powder Keg",
+  "image": "../img/p/powder-keg.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, you may put a fuse counter on Powder Keg., Sacrifice Powder Keg: Destroy each artifact and creature with converted mana cost equal to the number of fuse counters on Powder Keg.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Rare",
+  "cardNumber": "136",
+  "artist": "Dan Frazier",
+  "rating": "4.411",
+  "votes": "62"
+}

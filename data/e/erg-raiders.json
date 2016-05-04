@@ -1,0 +1,13 @@
+{
+  "title": "Erg Raiders",
+  "image": "../img/e/erg-raiders.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Warrior",
+  "text": "At the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.",
+  "expansion": "Masters Edition",
+  "rarity": "Common",
+  "cardNumber": "68",
+  "artist": "Dameon Willich",
+  "rating": "3.480",
+  "votes": "49"
+}

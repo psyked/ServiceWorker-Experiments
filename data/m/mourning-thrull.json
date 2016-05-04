@@ -1,0 +1,13 @@
+{
+  "title": "Mourning Thrull",
+  "image": "../img/m/mourning-thrull.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Thrull",
+  "text": "( can be paid with either  or .)FlyingWhenever Mourning Thrull deals damage, you gain that much life.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "146",
+  "artist": "Dany Orizio",
+  "rating": "3.541",
+  "votes": "49"
+}

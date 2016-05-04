@@ -1,0 +1,13 @@
+{
+  "title": "Kor Entanglers",
+  "image": "../img/k/kor-entanglers.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Kor Soldier Ally",
+  "text": "Rally — Whenever Kor Entanglers or another Ally enters the battlefield under your control, tap target creature an opponent controls.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "36",
+  "artist": "Jason Rainville",
+  "rating": "5",
+  "votes": "0"
+}

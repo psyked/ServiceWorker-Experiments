@@ -1,0 +1,13 @@
+{
+  "title": "Cruel Feeding",
+  "image": "../img/c/cruel-feeding.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Strive — Cruel Feeding costs  more to cast for each target beyond the first.Any number of target creatures each get +1/+0 and gain lifelink until end of turn. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "64",
+  "artist": "Jason A. Engle",
+  "rating": "2.475",
+  "votes": "20"
+}

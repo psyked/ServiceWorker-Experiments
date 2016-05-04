@@ -1,0 +1,13 @@
+{
+  "title": "Raking Canopy",
+  "image": "../img/r/raking-canopy.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a creature with flying attacks you, Raking Canopy deals 4 damage to it.",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "127",
+  "artist": "Heather Hudson",
+  "rating": "3.640",
+  "votes": "57"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Collateral Damage",
+  "image": "../img/c/collateral-damage.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "As an additional cost to cast Collateral Damage, sacrifice a creature.Collateral Damage deals 3 damage to target creature or player.",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "95",
+  "artist": "Ryan Barger",
+  "rating": "5",
+  "votes": "0"
+}

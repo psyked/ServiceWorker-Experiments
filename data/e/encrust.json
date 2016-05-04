@@ -1,0 +1,13 @@
+{
+  "title": "Encrust",
+  "image": "../img/e/encrust.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant artifact or creatureEnchanted permanent doesn't untap during its controller's untap step and its activated abilities can't be activated.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "53",
+  "artist": "Jason Felix",
+  "rating": "2.700",
+  "votes": "5"
+}

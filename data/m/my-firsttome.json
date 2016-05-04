@@ -1,0 +1,13 @@
+{
+  "title": "My First Tome",
+  "image": "../img/m/my-firsttome.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", : Say the flavor text on a card in your hand. Target opponent guesses that card's name. You may reveal that card. If you do and your opponent guessed wrong, draw a card.",
+  "expansion": "Unhinged",
+  "rarity": "Uncommon",
+  "cardNumber": "125",
+  "artist": "Heather Hudson",
+  "rating": "3.536",
+  "votes": "28"
+}

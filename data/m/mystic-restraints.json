@@ -1,0 +1,13 @@
+{
+  "title": "Mystic Restraints",
+  "image": "../img/m/mystic-restraints.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "FlashEnchant creatureWhen Mystic Restraints enters the battlefield, tap enchanted creature.Enchanted creature doesn't untap during its controller's untap step.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "76",
+  "artist": "Christopher Rush",
+  "rating": "2.649",
+  "votes": "37"
+}

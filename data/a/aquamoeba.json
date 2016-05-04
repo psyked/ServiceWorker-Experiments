@@ -1,0 +1,13 @@
+{
+  "title": "Aquamoeba",
+  "image": "../img/a/aquamoeba.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elemental Beast",
+  "text": "Discard a card: Switch Aquamoeba's power and toughness until end of turn.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Arnie Swekel",
+  "rating": "3.500",
+  "votes": "1"
+}

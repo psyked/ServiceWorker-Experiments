@@ -1,0 +1,13 @@
+{
+  "title": "Greater Stone Spirit",
+  "image": "../img/g/greater-stonespirit.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental Spirit",
+  "text": "Greater Stone Spirit can't be blocked by creatures with flying.: Until end of turn, target creature gets +0/+2 and gains \": This creature gets +1/+0 until end of turn.\"",
+  "expansion": "Duel Decks: Venser vs. Koth",
+  "rarity": "Uncommon",
+  "cardNumber": "61",
+  "artist": "Yokota Katsumi",
+  "rating": "2.433",
+  "votes": "15"
+}

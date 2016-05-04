@@ -1,0 +1,13 @@
+{
+  "title": "Lifesmith",
+  "image": "../img/l/lifesmith.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Artificer",
+  "text": "Whenever you cast an artifact spell, you may pay . If you do, you gain 3 life.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "124",
+  "artist": "Eric Deschamps",
+  "rating": "2.936",
+  "votes": "47"
+}

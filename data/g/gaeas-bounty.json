@@ -1,0 +1,13 @@
+{
+  "title": "Gaea's Bounty",
+  "image": "../img/g/gaeas-bounty.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Search your library for up to two Forest cards, reveal those cards, and put them into your hand. Then shuffle your library.",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "254",
+  "artist": "Stephen Daniele",
+  "rating": "3.030",
+  "votes": "33"
+}

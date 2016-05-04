@@ -1,0 +1,13 @@
+{
+  "title": "Logic Knot",
+  "image": "../img/l/logic-knot.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for .)Counter target spell unless its controller pays .",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "51",
+  "artist": "Glen Angus",
+  "rating": "3.794",
+  "votes": "17"
+}

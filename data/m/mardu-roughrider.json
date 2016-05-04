@@ -1,0 +1,13 @@
+{
+  "title": "Mardu Roughrider",
+  "image": "../img/m/mardu-roughrider.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Orc Warrior",
+  "text": "Whenever Mardu Roughrider attacks, target creature can't block this turn.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "187",
+  "artist": "Kev Walker",
+  "rating": "3.250",
+  "votes": "2"
+}

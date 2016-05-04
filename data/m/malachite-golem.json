@@ -1,0 +1,13 @@
+{
+  "title": "Malachite Golem",
+  "image": "../img/m/malachite-golem.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Golem",
+  "text": ": Malachite Golem gains trample until end of turn.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "202",
+  "artist": "Paolo Parente",
+  "rating": "1.517",
+  "votes": "29"
+}

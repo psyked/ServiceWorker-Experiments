@@ -1,0 +1,13 @@
+{
+  "title": "Quarantine Field",
+  "image": "../img/q/quarantine-field.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Quarantine Field enters the battlefield with X isolation counters on it.When Quarantine Field enters the battlefield, for each isolation counter on it, exile up to one target nonland permanent an opponent controls until Quarantine Field leaves the battlefield.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Mythic Rare",
+  "cardNumber": "43",
+  "artist": "Daarken",
+  "rating": "5",
+  "votes": "0"
+}

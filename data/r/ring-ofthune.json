@@ -1,0 +1,13 @@
+{
+  "title": "Ring of Thune",
+  "image": "../img/r/ring-ofthune.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature has vigilance. (Attacking doesn't cause it to tap.)At the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's white.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Magic 2013",
+  "rarity": "Uncommon",
+  "cardNumber": "213",
+  "artist": "Erica Yang",
+  "rating": "3.780",
+  "votes": "41"
+}

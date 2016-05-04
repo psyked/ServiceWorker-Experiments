@@ -1,0 +1,13 @@
+{
+  "title": "Orcish Farmer",
+  "image": "../img/o/orcish-farmer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Orc",
+  "text": ": Target land becomes a Swamp until its controller's next untap step.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "141",
+  "artist": "Dan Frazier",
+  "rating": "2.770",
+  "votes": "37"
+}

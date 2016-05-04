@@ -1,0 +1,13 @@
+{
+  "title": "Robber Fly",
+  "image": "../img/r/robber-fly.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Insect",
+  "text": "FlyingWhenever Robber Fly becomes blocked, defending player discards all the cards in his or her hand, then draws that many cards.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "209",
+  "artist": "John Matson",
+  "rating": "2.871",
+  "votes": "35"
+}

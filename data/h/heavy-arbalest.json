@@ -1,0 +1,13 @@
+{
+  "title": "Heavy Arbalest",
+  "image": "../img/h/heavy-arbalest.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature doesn't untap during its controller's untap step.Equipped creature has \": This creature deals 2 damage to target creature or player.\"Equip",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "164",
+  "artist": "David Rapoza",
+  "rating": "2.369",
+  "votes": "88"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Misers' Cage",
+  "image": "../img/m/misers-cage.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "At the beginning of each opponent's upkeep, if that player has five or more cards in hand, Misers' Cage deals 2 damage to him or her.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Jeff Miracola",
+  "rating": "2.667",
+  "votes": "30"
+}

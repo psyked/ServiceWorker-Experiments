@@ -1,0 +1,13 @@
+{
+  "title": "Patriarch's Bidding",
+  "image": "../img/p/patriarchs-bidding.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Each player chooses a creature type. Each player returns all creature cards of a type chosen this way from his or her graveyard to the battlefield.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "161",
+  "artist": "Ben Thompson",
+  "rating": "4.298",
+  "votes": "62"
+}

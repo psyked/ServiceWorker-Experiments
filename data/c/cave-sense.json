@@ -1,0 +1,13 @@
+{
+  "title": "Cave Sense",
+  "image": "../img/c/cave-sense.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+1 and has mountainwalk. (It can't be blocked as long as defending player controls a Mountain.)",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "179",
+  "artist": "Mark Romanoski",
+  "rating": "1.897",
+  "votes": "29"
+}

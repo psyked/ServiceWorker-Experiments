@@ -1,0 +1,13 @@
+{
+  "title": "Krovikan Vampire",
+  "image": "../img/k/krovikan-vampire.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Vampire",
+  "text": "At the beginning of each end step, if a creature dealt damage by Krovikan Vampire this turn died, put that card onto the battlefield under your control. Sacrifice it when you lose control of Krovikan Vampire.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "102",
+  "artist": "Quinton Hoover",
+  "rating": "3.579",
+  "votes": "38"
+}

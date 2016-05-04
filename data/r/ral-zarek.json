@@ -1,0 +1,13 @@
+{
+  "title": "Ral Zarek",
+  "image": "../img/r/ral-zarek.jpg",
+  "convertedManaCost": "4",
+  "types": "Planeswalker  — Ral",
+  "text": "+1: Tap target permanent, then untap another target permanent.−2: Ral Zarek deals 3 damage to target creature or player.−7: Flip five coins. Take an extra turn after this one for each coin that comes up heads.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Mythic Rare",
+  "cardNumber": "94",
+  "artist": "Eric Deschamps",
+  "rating": "3.939",
+  "votes": "206"
+}

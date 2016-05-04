@@ -1,0 +1,13 @@
+{
+  "title": "Boggart Brute",
+  "image": "../img/b/boggart-brute.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Menace (This creature can't be blocked except by two or more creatures.)",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "133",
+  "artist": "Igor Kieryluk",
+  "rating": "5",
+  "votes": "0"
+}

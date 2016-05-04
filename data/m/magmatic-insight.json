@@ -1,0 +1,13 @@
+{
+  "title": "Magmatic Insight",
+  "image": "../img/m/magmatic-insight.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Magmatic Insight, discard a land card.Draw two cards.",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "155",
+  "artist": "Ryan Barger",
+  "rating": "5",
+  "votes": "0"
+}

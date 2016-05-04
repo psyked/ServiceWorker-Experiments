@@ -1,0 +1,13 @@
+{
+  "title": "Cabal Interrogator",
+  "image": "../img/c/cabal-interrogator.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie Wizard",
+  "text": ", : Target player reveals X cards from his or her hand and you choose one of them. That player discards that card. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Scourge",
+  "rarity": "Uncommon",
+  "cardNumber": "57",
+  "artist": "Tony Szczudlo",
+  "rating": "3.946",
+  "votes": "46"
+}

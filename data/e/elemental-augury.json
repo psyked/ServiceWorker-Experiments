@@ -1,0 +1,13 @@
+{
+  "title": "Elemental Augury",
+  "image": "../img/e/elemental-augury.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": ": Look at the top three cards of target player's library, then put them back in any order.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "193",
+  "artist": "Anthony S. Waters",
+  "rating": "3.302",
+  "votes": "43"
+}

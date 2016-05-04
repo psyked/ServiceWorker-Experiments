@@ -1,0 +1,13 @@
+{
+  "title": "Meadowboon",
+  "image": "../img/m/meadowboon.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elemental",
+  "text": "When Meadowboon leaves the battlefield, put a +1/+1 counter on each creature target player controls.Evoke  (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",
+  "expansion": "Modern Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "22",
+  "artist": "Steven Belledin",
+  "rating": "3.750",
+  "votes": "14"
+}

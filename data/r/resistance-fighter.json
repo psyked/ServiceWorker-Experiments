@@ -1,0 +1,13 @@
+{
+  "title": "Resistance Fighter",
+  "image": "../img/r/resistance-fighter.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Soldier",
+  "text": "Sacrifice Resistance Fighter: Prevent all combat damage target creature would deal this turn.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Common",
+  "cardNumber": "38",
+  "artist": "Cecil Fernando",
+  "rating": "3.154",
+  "votes": "26"
+}

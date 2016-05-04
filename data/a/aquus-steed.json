@@ -1,0 +1,13 @@
+{
+  "title": "Aquus Steed",
+  "image": "../img/a/aquus-steed.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Beast",
+  "text": ", : Target creature gets -2/-0 until end of turn.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "29",
+  "artist": "Warren Mahy",
+  "rating": "1.392",
+  "votes": "83"
+}

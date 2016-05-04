@@ -1,0 +1,13 @@
+{
+  "title": "Deadbridge Shaman",
+  "image": "../img/d/deadbridge-shaman.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Shaman",
+  "text": "When Deadbridge Shaman dies, target opponent discards a card.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "91",
+  "artist": "Nils Hamm",
+  "rating": "5",
+  "votes": "0"
+}

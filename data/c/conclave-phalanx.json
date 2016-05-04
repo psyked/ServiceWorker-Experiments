@@ -1,0 +1,13 @@
+{
+  "title": "Conclave Phalanx",
+  "image": "../img/c/conclave-phalanx.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Soldier",
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for  or one mana of that creature's color.)When Conclave Phalanx enters the battlefield, you gain 1 life for each creature you control.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "12",
+  "artist": "Wayne Reynolds",
+  "rating": "5",
+  "votes": "0"
+}

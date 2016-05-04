@@ -1,0 +1,13 @@
+{
+  "title": "Counterspell",
+  "image": "../img/c/counterspell.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Counter target spell.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "43",
+  "artist": "Stephen Daniele",
+  "rating": "5",
+  "votes": "0"
+}

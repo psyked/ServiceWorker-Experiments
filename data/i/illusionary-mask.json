@@ -1,0 +1,13 @@
+{
+  "title": "Illusionary Mask",
+  "image": "../img/i/illusionary-mask.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ": You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on . If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Masters Edition III",
+  "rarity": "Rare",
+  "cardNumber": "197",
+  "artist": "Amy Weber",
+  "rating": "4.592",
+  "votes": "76"
+}

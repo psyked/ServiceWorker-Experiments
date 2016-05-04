@@ -1,0 +1,13 @@
+{
+  "title": "Moonwing Moth",
+  "image": "../img/m/moonwing-moth.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Insect",
+  "text": "Flying: Moonwing Moth gets +0/+1 until end of turn.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "20",
+  "artist": "Franz Vohwinkel",
+  "rating": "2.154",
+  "votes": "39"
+}

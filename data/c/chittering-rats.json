@@ -1,0 +1,13 @@
+{
+  "title": "Chittering Rats",
+  "image": "../img/c/chittering-rats.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Rat",
+  "text": "When Chittering Rats enters the battlefield, target opponent puts a card from his or her hand on top of his or her library.",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "39",
+  "artist": "Tom Wänerstrand",
+  "rating": "4.061",
+  "votes": "66"
+}

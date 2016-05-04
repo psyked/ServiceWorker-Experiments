@@ -1,0 +1,13 @@
+{
+  "title": "Pit Raptor",
+  "image": "../img/p/pit-raptor.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Bird Mercenary",
+  "text": "Flying, first strikeAt the beginning of your upkeep, sacrifice Pit Raptor unless you pay .",
+  "expansion": "Prophecy",
+  "rarity": "Uncommon",
+  "cardNumber": "72",
+  "artist": "Thomas Gianni",
+  "rating": "2.367",
+  "votes": "30"
+}

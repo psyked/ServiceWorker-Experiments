@@ -1,0 +1,13 @@
+{
+  "title": "Lightning Dragon",
+  "image": "../img/l/lightning-dragon.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Dragon",
+  "text": "FlyingEcho  (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.): Lightning Dragon gets +1/+0 until end of turn.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "177",
+  "artist": "Ron Spencer",
+  "rating": "5",
+  "votes": "0"
+}

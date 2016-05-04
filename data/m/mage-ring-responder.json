@@ -1,0 +1,13 @@
+{
+  "title": "Mage-Ring Responder",
+  "image": "../img/m/mage-ring-responder.jpg",
+  "convertedManaCost": "7",
+  "types": "Artifact Creature  — Golem",
+  "text": "Mage-Ring Responder doesn't untap during your untap step.: Untap Mage-Ring Responder.Whenever Mage-Ring Responder attacks, it deals 7 damage to target creature defending player controls.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "232",
+  "artist": "Adam Paquette",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Kingfisher",
+  "image": "../img/k/kingfisher.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Bird",
+  "text": "FlyingWhen Kingfisher dies, draw a card.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "36",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "3.030",
+  "votes": "33"
+}

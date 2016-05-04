@@ -1,0 +1,13 @@
+{
+  "title": "Escape Artist",
+  "image": "../img/e/escape-artist.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": "Escape Artist can't be blocked., Discard a card: Return Escape Artist to its owner's hand.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "84",
+  "artist": "Scott M. Fischer",
+  "rating": "3.057",
+  "votes": "35"
+}

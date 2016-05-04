@@ -1,0 +1,13 @@
+{
+  "title": "Cathedral Sanctifier",
+  "image": "../img/c/cathedral-sanctifier.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": "When Cathedral Sanctifier enters the battlefield, you gain 3 life.",
+  "expansion": "Duel Decks: Blessed vs. Cursed",
+  "rarity": "Common",
+  "cardNumber": "3",
+  "artist": "Michael C. Hayes",
+  "rating": "5",
+  "votes": "0"
+}

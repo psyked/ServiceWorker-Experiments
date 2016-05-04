@@ -1,0 +1,13 @@
+{
+  "title": "Mark of Eviction",
+  "image": "../img/m/mark-ofeviction.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAt the beginning of your upkeep, return enchanted creature and all Auras attached to that creature to their owners' hands.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "58",
+  "artist": "Tsutomu Kawade",
+  "rating": "3.986",
+  "votes": "73"
+}

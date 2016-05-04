@@ -1,0 +1,13 @@
+{
+  "title": "Magma Jet",
+  "image": "../img/m/magma-jet.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Magma Jet deals 2 damage to target creature or player. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Uncommon",
+  "cardNumber": "52",
+  "artist": "Justin Sweet",
+  "rating": "5",
+  "votes": "0"
+}

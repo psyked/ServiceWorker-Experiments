@@ -1,0 +1,13 @@
+{
+  "title": "Fissure",
+  "image": "../img/f/fissure.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Destroy target creature or land. It can't be regenerated.",
+  "expansion": "Masters Edition",
+  "rarity": "Common",
+  "cardNumber": "93",
+  "artist": "Douglas Shuler",
+  "rating": "3.777",
+  "votes": "47"
+}

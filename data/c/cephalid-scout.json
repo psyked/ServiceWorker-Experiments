@@ -1,0 +1,13 @@
+{
+  "title": "Cephalid Scout",
+  "image": "../img/c/cephalid-scout.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Cephalid Wizard Scout",
+  "text": "Flying, Sacrifice a land: Draw a card.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "74",
+  "artist": "Alan Pollack",
+  "rating": "1.554",
+  "votes": "37"
+}

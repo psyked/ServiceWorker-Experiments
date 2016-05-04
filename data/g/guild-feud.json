@@ -1,0 +1,13 @@
+{
+  "title": "Guild Feud",
+  "image": "../img/g/guild-feud.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, target opponent reveals the top three cards of his or her library, may put a creature card from among them onto the battlefield, then puts the rest into his or her graveyard. You do the same with the top three cards of your library. If two creatures are put onto the battlefield this way, those creatures fight each other.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Rare",
+  "cardNumber": "97",
+  "artist": "Karl Kopinski",
+  "rating": "2.846",
+  "votes": "52"
+}

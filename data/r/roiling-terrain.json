@@ -1,0 +1,13 @@
+{
+  "title": "Roiling Terrain",
+  "image": "../img/r/roiling-terrain.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy target land, then Roiling Terrain deals damage to that land's controller equal to the number of land cards in that player's graveyard.",
+  "expansion": "Worldwake",
+  "rarity": "Common",
+  "cardNumber": "88",
+  "artist": "Steve Prescott",
+  "rating": "3.515",
+  "votes": "67"
+}

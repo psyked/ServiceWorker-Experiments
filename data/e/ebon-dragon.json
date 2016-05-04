@@ -1,0 +1,13 @@
+{
+  "title": "Ebon Dragon",
+  "image": "../img/e/ebon-dragon.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhen Ebon Dragon enters the battlefield, you may have target opponent discard a card.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "80",
+  "artist": "Donato Giancola",
+  "rating": "3.029",
+  "votes": "34"
+}

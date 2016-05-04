@@ -1,0 +1,13 @@
+{
+  "title": "Double Play",
+  "image": "../img/d/double-play.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Choose another player. Search your library for a basic land and put that land into play. At the beginning of the next game with that player, search your library for an additional basic land and put that land into play. In both cases, shuffle your library afterwards.",
+  "expansion": "Unglued",
+  "rarity": "Common",
+  "cardNumber": "55",
+  "artist": "Claymore J. Flapdoodle",
+  "rating": "3.438",
+  "votes": "16"
+}

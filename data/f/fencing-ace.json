@@ -1,0 +1,13 @@
+{
+  "title": "Fencing Ace",
+  "image": "../img/f/fencing-ace.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier",
+  "text": "Double strike (This creature deals both first-strike and regular combat damage.)",
+  "expansion": "Duel Decks: Heroes vs. Monsters",
+  "rarity": "Uncommon",
+  "cardNumber": "5",
+  "artist": "David Rapoza",
+  "rating": "3.967",
+  "votes": "15"
+}

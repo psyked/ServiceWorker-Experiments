@@ -1,0 +1,13 @@
+{
+  "title": "Master Healer",
+  "image": "../img/m/master-healer.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Cleric",
+  "text": ": Prevent the next 4 damage that would be dealt to target creature or player this turn.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "28",
+  "artist": "Adam Rex",
+  "rating": "3.284",
+  "votes": "37"
+}

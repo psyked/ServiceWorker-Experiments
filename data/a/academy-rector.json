@@ -1,0 +1,13 @@
+{
+  "title": "Academy Rector",
+  "image": "../img/a/academy-rector.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Cleric",
+  "text": "When Academy Rector dies, you may exile it. If you do, search your library for an enchantment card, put that card onto the battlefield, then shuffle your library.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Rare",
+  "cardNumber": "1",
+  "artist": "Heather Hudson",
+  "rating": "4.567",
+  "votes": "105"
+}

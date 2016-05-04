@@ -1,0 +1,13 @@
+{
+  "title": "Psychic Drain",
+  "image": "../img/p/psychic-drain.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target player puts the top X cards of his or her library into his or her graveyard and you gain X life.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "220",
+  "artist": "Nick Percival",
+  "rating": "3.470",
+  "votes": "67"
+}

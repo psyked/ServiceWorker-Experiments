@@ -1,0 +1,13 @@
+{
+  "title": "Rot Wolf",
+  "image": "../img/r/rot-wolf.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wolf",
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)Whenever a creature dealt damage by Rot Wolf this turn dies, you may draw a card.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "90",
+  "artist": "Nils Hamm",
+  "rating": "3.605",
+  "votes": "100"
+}

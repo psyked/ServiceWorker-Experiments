@@ -1,0 +1,13 @@
+{
+  "title": "Mindeye Drake",
+  "image": "../img/m/mindeye-drake.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Drake",
+  "text": "FlyingWhen Mindeye Drake dies, target player puts the top five cards of his or her library into his or her graveyard.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "43",
+  "artist": "Lars Grant-West",
+  "rating": "2.067",
+  "votes": "45"
+}

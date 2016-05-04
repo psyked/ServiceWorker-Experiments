@@ -1,0 +1,13 @@
+{
+  "title": "Lure",
+  "image": "../img/l/lure.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAll creatures able to block enchanted creature do so.",
+  "expansion": "Magic 2012",
+  "rarity": "Uncommon",
+  "cardNumber": "183",
+  "artist": "D. Alexander Gregory",
+  "rating": "4.042",
+  "votes": "60"
+}

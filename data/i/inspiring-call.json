@@ -1,0 +1,13 @@
+{
+  "title": "Inspiring Call",
+  "image": "../img/i/inspiring-call.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy them.)",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "191",
+  "artist": "Dan Scott",
+  "rating": "5",
+  "votes": "0"
+}

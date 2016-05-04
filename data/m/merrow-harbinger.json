@@ -1,0 +1,13 @@
+{
+  "title": "Merrow Harbinger",
+  "image": "../img/m/merrow-harbinger.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Merfolk Wizard",
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)When Merrow Harbinger enters the battlefield, you may search your library for a Merfolk card, reveal it, then shuffle your library and put that card on top of it.",
+  "expansion": "Lorwyn",
+  "rarity": "Uncommon",
+  "cardNumber": "73",
+  "artist": "Steve Prescott",
+  "rating": "3.194",
+  "votes": "49"
+}

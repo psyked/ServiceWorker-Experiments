@@ -1,0 +1,13 @@
+{
+  "title": "Hunt the Hunter",
+  "image": "../img/h/hunt-thehunter.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Target green creature you control gets +2/+2 until end of turn. It fights target green creature an opponent controls.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "159",
+  "artist": "Ryan Barger",
+  "rating": "2.368",
+  "votes": "34"
+}

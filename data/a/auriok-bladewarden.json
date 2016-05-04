@@ -1,0 +1,13 @@
+{
+  "title": "Auriok Bladewarden",
+  "image": "../img/a/auriok-bladewarden.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier",
+  "text": ": Target creature gets +X/+X until end of turn, where X is Auriok Bladewarden's power.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "3",
+  "artist": "Dave Dorman",
+  "rating": "3.266",
+  "votes": "47"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Flowstone Wyvern",
+  "image": "../img/f/flowstone-wyvern.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Drake",
+  "text": "Flying: Flowstone Wyvern gets +2/-2 until end of turn.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "134",
+  "artist": "Stephen Daniele",
+  "rating": "5",
+  "votes": "0"
+}

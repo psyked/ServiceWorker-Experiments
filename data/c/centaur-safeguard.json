@@ -1,0 +1,13 @@
+{
+  "title": "Centaur Safeguard",
+  "image": "../img/c/centaur-safeguard.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Centaur Warrior",
+  "text": "( can be paid with either  or .)When Centaur Safeguard dies, you may gain 3 life.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "244",
+  "artist": "Glenn Fabry",
+  "rating": "2.700",
+  "votes": "45"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dirge of Dread",
+  "image": "../img/d/dirge-ofdread.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "All creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)Cycling  (, Discard this card: Draw a card.)When you cycle Dirge of Dread, you may have target creature gain fear until end of turn.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Common",
+  "cardNumber": "73",
+  "artist": "Heather Hudson",
+  "rating": "3.136",
+  "votes": "11"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Armored Guardian",
+  "image": "../img/a/armored-guardian.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Cat Soldier",
+  "text": ": Target creature you control gains protection from the color of your choice until end of turn.: Armored Guardian gains shroud until end of turn. (It can't be the target of spells or abilities.)",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "230",
+  "artist": "Arnie Swekel",
+  "rating": "3.098",
+  "votes": "41"
+}

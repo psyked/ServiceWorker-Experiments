@@ -1,0 +1,13 @@
+{
+  "title": "Mold Demon",
+  "image": "../img/m/mold-demon.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Fungus Demon",
+  "text": "When Mold Demon enters the battlefield, sacrifice it unless you sacrifice two Swamps.",
+  "expansion": "Legends",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Jesper Myrfors",
+  "rating": "1.088",
+  "votes": "97"
+}

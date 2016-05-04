@@ -1,0 +1,13 @@
+{
+  "title": "Lightning Storm",
+  "image": "../img/l/lightning-storm.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Lightning Storm deals X damage to target creature or player, where X is 3 plus the number of charge counters on it.Discard a land card: Put two charge counters on Lightning Storm. You may choose a new target for it. Any player may activate this ability but only if Lightning Storm is on the stack.",
+  "expansion": "Coldsnap",
+  "rarity": "Uncommon",
+  "cardNumber": "89",
+  "artist": "Luca Zontini",
+  "rating": "3.604",
+  "votes": "48"
+}

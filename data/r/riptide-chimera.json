@@ -1,0 +1,13 @@
+{
+  "title": "Riptide Chimera",
+  "image": "../img/r/riptide-chimera.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment Creature  — Chimera",
+  "text": "FlyingAt the beginning of your upkeep, return an enchantment you control to its owner's hand.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "48",
+  "artist": "Ryan Barger",
+  "rating": "3.750",
+  "votes": "30"
+}

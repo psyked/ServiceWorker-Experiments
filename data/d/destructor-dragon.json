@@ -1,0 +1,13 @@
+{
+  "title": "Destructor Dragon",
+  "image": "../img/d/destructor-dragon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhen Destructor Dragon dies, destroy target noncreature permanent.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "127",
+  "artist": "Peter Mohrbacher",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Diviner Spirit",
+  "image": "../img/d/diviner-spirit.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit",
+  "text": "Whenever Diviner Spirit deals combat damage to a player, you and that player each draw that many cards.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "40",
+  "artist": "Yeong-Hao Han",
+  "rating": "2.929",
+  "votes": "14"
+}

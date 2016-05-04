@@ -1,0 +1,13 @@
+{
+  "title": "Chromanticore",
+  "image": "../img/c/chromanticore.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment Creature  — Manticore",
+  "text": "Bestow  (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)Flying, first strike, vigilance, trample, lifelinkEnchanted creature gets +4/+4 and has flying, first strike, vigilance, trample, and lifelink.",
+  "expansion": "Born of the Gods",
+  "rarity": "Mythic Rare",
+  "cardNumber": "144",
+  "artist": "Min Yum",
+  "rating": "3.599",
+  "votes": "71"
+}

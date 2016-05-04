@@ -1,0 +1,13 @@
+{
+  "title": "Eternity Snare",
+  "image": "../img/e/eternity-snare.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Eternity Snare enters the battlefield, draw a card.Enchanted creature doesn't untap during its controller's untap step.",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "37",
+  "artist": "Min Yum",
+  "rating": "1.250",
+  "votes": "46"
+}

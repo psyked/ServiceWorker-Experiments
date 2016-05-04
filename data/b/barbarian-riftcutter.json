@@ -1,0 +1,13 @@
+{
+  "title": "Barbarian Riftcutter",
+  "image": "../img/b/barbarian-riftcutter.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Barbarian",
+  "text": ", Sacrifice Barbarian Riftcutter: Destroy target land.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "114",
+  "artist": "Carl Critchlow",
+  "rating": "1.791",
+  "votes": "43"
+}

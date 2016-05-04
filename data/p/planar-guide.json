@@ -1,0 +1,13 @@
+{
+  "title": "Planar Guide",
+  "image": "../img/p/planar-guide.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": ", Exile Planar Guide: Exile all creatures. At the beginning of the next end step, return those cards to the battlefield under their owners' control.",
+  "expansion": "Legions",
+  "rarity": "Rare",
+  "cardNumber": "18",
+  "artist": "Eric Peterson",
+  "rating": "4.064",
+  "votes": "39"
+}

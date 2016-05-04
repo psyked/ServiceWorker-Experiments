@@ -1,0 +1,13 @@
+{
+  "title": "Earthblighter",
+  "image": "../img/e/earthblighter.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": ", , Sacrifice a Goblin: Destroy target land.",
+  "expansion": "Legions",
+  "rarity": "Uncommon",
+  "cardNumber": "68",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "3.071",
+  "votes": "28"
+}

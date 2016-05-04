@@ -1,0 +1,13 @@
+{
+  "title": "Form of the Dragon",
+  "image": "../img/f/form-ofthedragon.jpg",
+  "convertedManaCost": "7",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player.At the beginning of each end step, your life total becomes 5.Creatures without flying can't attack you.",
+  "expansion": "From the Vault: Dragons",
+  "rarity": "Rare",
+  "cardNumber": "7",
+  "artist": "Daarken",
+  "rating": "4.547",
+  "votes": "148"
+}

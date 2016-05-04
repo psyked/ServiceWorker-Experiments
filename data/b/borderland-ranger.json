@@ -1,0 +1,13 @@
+{
+  "title": "Borderland Ranger",
+  "image": "../img/b/borderland-ranger.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Scout",
+  "text": "When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "169",
+  "artist": "Zoltan Boros",
+  "rating": "3.557",
+  "votes": "61"
+}

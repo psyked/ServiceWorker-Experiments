@@ -1,0 +1,13 @@
+{
+  "title": "Awakener Druid",
+  "image": "../img/a/awakener-druid.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Druid",
+  "text": "When Awakener Druid enters the battlefield, target Forest becomes a 4/5 green Treefolk creature for as long as Awakener Druid remains on the battlefield. It's still a land.",
+  "expansion": "Magic 2011",
+  "rarity": "Uncommon",
+  "cardNumber": "163",
+  "artist": "Jason Chan",
+  "rating": "3.102",
+  "votes": "64"
+}

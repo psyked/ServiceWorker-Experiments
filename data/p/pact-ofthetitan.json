@@ -1,0 +1,13 @@
+{
+  "title": "Pact of the Titan",
+  "image": "../img/p/pact-ofthetitan.jpg",
+  "convertedManaCost": "0",
+  "types": "Instant",
+  "text": "Put a 4/4 red Giant creature token onto the battlefield.At the beginning of your next upkeep, pay . If you don't, you lose the game.",
+  "expansion": "Future Sight",
+  "rarity": "Rare",
+  "cardNumber": "103",
+  "artist": "Raymond Swanland",
+  "rating": "3.667",
+  "votes": "60"
+}

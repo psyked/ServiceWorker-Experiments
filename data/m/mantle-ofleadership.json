@@ -1,0 +1,13 @@
+{
+  "title": "Mantle of Leadership",
+  "image": "../img/m/mantle-ofleadership.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)Enchant creatureWhenever a creature enters the battlefield, enchanted creature gets +2/+2 until end of turn.",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "9",
+  "artist": "Thomas M. Baxa",
+  "rating": "3.295",
+  "votes": "39"
+}

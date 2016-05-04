@@ -1,0 +1,13 @@
+{
+  "title": "Izzet Staticaster",
+  "image": "../img/i/izzet-staticaster.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)Haste: Izzet Staticaster deals 1 damage to target creature and each other creature with the same name as that creature.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "173",
+  "artist": "Scott M. Fischer",
+  "rating": "3.888",
+  "votes": "76"
+}

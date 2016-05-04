@@ -1,0 +1,13 @@
+{
+  "title": "Divining Witch",
+  "image": "../img/d/divining-witch.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Spellshaper",
+  "text": ", , Discard a card: Name a card. Exile the top six cards of your library. Reveal cards from the top of your library until you reveal the named card, then put that card into your hand. Exile all other cards revealed this way.",
+  "expansion": "Nemesis",
+  "rarity": "Rare",
+  "cardNumber": "57",
+  "artist": "Donato Giancola",
+  "rating": "2.824",
+  "votes": "37"
+}

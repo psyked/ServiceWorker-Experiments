@@ -1,0 +1,13 @@
+{
+  "title": "Ondu Greathorn",
+  "image": "../img/o/ondu-greathorn.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Beast",
+  "text": "First strikeLandfall — Whenever a land enters the battlefield under your control, Ondu Greathorn gets +2/+2 until end of turn.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "40",
+  "artist": "Aaron Miller",
+  "rating": "5",
+  "votes": "0"
+}

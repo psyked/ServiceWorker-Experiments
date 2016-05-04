@@ -1,0 +1,13 @@
+{
+  "title": "Moment of Heroism",
+  "image": "../img/m/moment-ofheroism.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +2/+2 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "74",
+  "artist": "Christopher Moeller",
+  "rating": "3.875",
+  "votes": "4"
+}

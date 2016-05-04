@@ -1,0 +1,13 @@
+{
+  "title": "Quicksilver Geyser",
+  "image": "../img/q/quicksilver-geyser.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Return up to two target nonland permanents to their owners' hands.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "30",
+  "artist": "Erica Yang",
+  "rating": "2.625",
+  "votes": "64"
+}

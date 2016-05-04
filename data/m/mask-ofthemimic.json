@@ -1,0 +1,13 @@
+{
+  "title": "Mask of the Mimic",
+  "image": "../img/m/mask-ofthemimic.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "As an additional cost to cast Mask of the Mimic, sacrifice a creature.Search your library for a card with the same name as target nontoken creature and put that card onto the battlefield. Then shuffle your library.",
+  "expansion": "Stronghold",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Heather Hudson",
+  "rating": "4.267",
+  "votes": "43"
+}

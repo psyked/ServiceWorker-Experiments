@@ -1,0 +1,13 @@
+{
+  "title": "Callow Jushi",
+  "image": "../img/c/callow-jushi.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Callow Jushi.At the beginning of the end step, if there are two or more ki counters on Callow Jushi, you may flip it.----Jaraku the InterloperLegendary Creature — Spirit3/4Remove a ki counter from Jaraku the Interloper: Counter target spell unless its controller pays .",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "31",
+  "artist": "Tsutomu Kawade",
+  "rating": "3.577",
+  "votes": "39"
+}

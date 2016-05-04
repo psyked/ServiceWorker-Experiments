@@ -1,0 +1,13 @@
+{
+  "title": "Curse of the Fire Penguin",
+  "image": "../img/c/curse-ofthefirepenguin.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchant Creature",
+  "text": "Curse of the Fire Penquin consumes and confuses enchanted creature.-----Creature PenguinTrampleWhen this creature is put into a graveyard from play, return Curse of the Fire Penguin from your graveyard to play.6/5",
+  "expansion": "Unhinged",
+  "rarity": "Rare",
+  "cardNumber": "73",
+  "artist": "Matt Thompson",
+  "rating": "3.971",
+  "votes": "35"
+}

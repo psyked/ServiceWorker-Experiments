@@ -1,0 +1,13 @@
+{
+  "title": "Ghostly Possession",
+  "image": "../img/g/ghostly-possession.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has flying.Prevent all combat damage that would be dealt to and dealt by enchanted creature.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "18",
+  "artist": "Howard Lyon",
+  "rating": "3.405",
+  "votes": "63"
+}

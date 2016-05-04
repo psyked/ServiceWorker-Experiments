@@ -1,0 +1,13 @@
+{
+  "title": "Imperial Recruiter",
+  "image": "../img/i/imperial-recruiter.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Advisor",
+  "text": "When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, and put it into your hand. Then shuffle your library.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "130",
+  "artist": "Mitsuaki Sagiri",
+  "rating": "4.082",
+  "votes": "55"
+}

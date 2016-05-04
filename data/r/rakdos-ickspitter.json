@@ -1,0 +1,13 @@
+{
+  "title": "Rakdos Ickspitter",
+  "image": "../img/r/rakdos-ickspitter.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Thrull",
+  "text": ": Rakdos Ickspitter deals 1 damage to target creature and that creature's controller loses 1 life.",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "128",
+  "artist": "Christopher Rush",
+  "rating": "3.552",
+  "votes": "58"
+}

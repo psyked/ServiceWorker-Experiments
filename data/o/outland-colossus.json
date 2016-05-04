@@ -1,0 +1,13 @@
+{
+  "title": "Outland Colossus",
+  "image": "../img/o/outland-colossus.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Giant",
+  "text": "Renown 6 (When this creature deals combat damage to a player, if it isn't renowned, put six +1/+1 counters on it and it becomes renowned.)Outland Colossus can't be blocked by more than one creature.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "193",
+  "artist": "Ryan Pancoast",
+  "rating": "5",
+  "votes": "0"
+}

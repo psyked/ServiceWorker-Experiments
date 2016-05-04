@@ -1,0 +1,13 @@
+{
+  "title": "Gigadrowse",
+  "image": "../img/g/gigadrowse.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Replicate  (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)Tap target permanent.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "26",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "4.149",
+  "votes": "101"
+}

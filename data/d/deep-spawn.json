@@ -1,0 +1,13 @@
+{
+  "title": "Deep Spawn",
+  "image": "../img/d/deep-spawn.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Homarid",
+  "text": "TrampleAt the beginning of your upkeep, sacrifice Deep Spawn unless you put the top two cards of your library into your graveyard.: Deep Spawn gains shroud until end of turn and doesn't untap during your next untap step. Tap Deep Spawn. (A creature with shroud can't be the target of spells or abilities.)",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "45",
+  "artist": "Mark Tedin",
+  "rating": "3.088",
+  "votes": "51"
+}

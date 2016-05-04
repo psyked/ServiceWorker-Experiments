@@ -1,0 +1,13 @@
+{
+  "title": "Nivmagus Elemental",
+  "image": "../img/n/nivmagus-elemental.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elemental",
+  "text": "Exile an instant or sorcery spell you control: Put two +1/+1 counters on Nivmagus Elemental. (That spell won't resolve.)",
+  "expansion": "Return to Ravnica",
+  "rarity": "Rare",
+  "cardNumber": "219",
+  "artist": "Mike Bierek",
+  "rating": "3.907",
+  "votes": "108"
+}

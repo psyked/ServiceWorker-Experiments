@@ -1,0 +1,13 @@
+{
+  "title": "Nantuko Tracer",
+  "image": "../img/n/nantuko-tracer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Insect Druid",
+  "text": "When Nantuko Tracer enters the battlefield, you may put target card from a graveyard on the bottom of its owner's library.",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "125",
+  "artist": "Greg Staples",
+  "rating": "2.812",
+  "votes": "24"
+}

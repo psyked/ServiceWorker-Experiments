@@ -1,0 +1,13 @@
+{
+  "title": "Hunger of the Nim",
+  "image": "../img/h/hunger-ofthenim.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target creature gets +1/+0 until end of turn for each artifact you control.",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "46",
+  "artist": "Puddnhead",
+  "rating": "2.056",
+  "votes": "27"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Altar of the Lost",
+  "image": "../img/a/altar-ofthelost.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Altar of the Lost enters the battlefield tapped.: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast spells with flashback from a graveyard.",
+  "expansion": "Dark Ascension",
+  "rarity": "Uncommon",
+  "cardNumber": "144",
+  "artist": "Daarken",
+  "rating": "2.347",
+  "votes": "59"
+}

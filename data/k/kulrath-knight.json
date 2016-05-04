@@ -1,0 +1,13 @@
+{
+  "title": "Kulrath Knight",
+  "image": "../img/k/kulrath-knight.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental Knight",
+  "text": "FlyingWither (This deals damage to creatures in the form of -1/-1 counters.)Creatures your opponents control with counters on them can't attack or block.",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "190",
+  "artist": "Daarken",
+  "rating": "4.081",
+  "votes": "123"
+}

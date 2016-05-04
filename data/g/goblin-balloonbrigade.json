@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Balloon Brigade",
+  "image": "../img/g/goblin-balloonbrigade.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Warrior",
+  "text": ": Goblin Balloon Brigade gains flying until end of turn.",
+  "expansion": "Magic 2011",
+  "rarity": "Common",
+  "cardNumber": "140",
+  "artist": "Lars Grant-West",
+  "rating": "3.419",
+  "votes": "62"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Furtive Homunculus",
+  "image": "../img/f/furtive-homunculus.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Homunculus",
+  "text": "Skulk (This creature can't be blocked by creatures with greater power.)",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "64",
+  "artist": "Wayne Reynolds",
+  "rating": "5",
+  "votes": "0"
+}

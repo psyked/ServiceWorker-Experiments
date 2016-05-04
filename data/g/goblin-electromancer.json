@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Electromancer",
+  "image": "../img/g/goblin-electromancer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Wizard",
+  "text": "Instant and sorcery spells you cast cost  less to cast.",
+  "expansion": "Commander 2015",
+  "rarity": "Common",
+  "cardNumber": "220",
+  "artist": "Svetlin Velinov",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Meletis Astronomer",
+  "image": "../img/m/meletis-astronomer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": "Heroic — Whenever you cast a spell that targets Meletis Astronomer, look at the top three cards of your library. You may reveal an enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "43",
+  "artist": "Dan Scott",
+  "rating": "3.692",
+  "votes": "26"
+}

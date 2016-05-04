@@ -1,0 +1,13 @@
+{
+  "title": "Angel of Deliverance",
+  "image": "../img/a/angel-ofdeliverance.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Angel",
+  "text": "FlyingDelirium — Whenever Angel of Deliverance deals damage, if there are four or more card types among cards in your graveyard, exile target creature an opponent controls.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "2",
+  "artist": "Joseph Meehan",
+  "rating": "5",
+  "votes": "0"
+}

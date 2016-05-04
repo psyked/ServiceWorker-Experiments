@@ -1,0 +1,13 @@
+{
+  "title": "Grim Contest",
+  "image": "../img/g/grim-contest.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose target creature you control and target creature an opponent controls. Each of those creatures deals damage equal to its toughness to the other.",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "153",
+  "artist": "Phill Simmer",
+  "rating": "5",
+  "votes": "0"
+}

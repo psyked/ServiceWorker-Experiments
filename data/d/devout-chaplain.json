@@ -1,0 +1,13 @@
+{
+  "title": "Devout Chaplain",
+  "image": "../img/d/devout-chaplain.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": ", Tap two untapped Humans you control: Exile target artifact or enchantment.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Uncommon",
+  "cardNumber": "17",
+  "artist": "Lucas Graciano",
+  "rating": "3.351",
+  "votes": "37"
+}

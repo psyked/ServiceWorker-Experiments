@@ -1,0 +1,13 @@
+{
+  "title": "Dirty Wererat",
+  "image": "../img/d/dirty-wererat.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Rat Minion",
+  "text": ", Discard a card: Regenerate Dirty Wererat.Threshold — As long as seven or more cards are in your graveyard, Dirty Wererat gets +2/+2 and can't block.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "130",
+  "artist": "Daren Bader",
+  "rating": "2.823",
+  "votes": "31"
+}

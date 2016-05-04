@@ -1,0 +1,13 @@
+{
+  "title": "Grimgrin, Corpse-Born",
+  "image": "../img/g/grimgrin-corpse-born.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Zombie Warrior",
+  "text": "Grimgrin, Corpse-Born enters the battlefield tapped and doesn't untap during your untap step.Sacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it.Whenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin.",
+  "expansion": "Innistrad",
+  "rarity": "Mythic Rare",
+  "cardNumber": "214",
+  "artist": "Peter Mohrbacher",
+  "rating": "3.895",
+  "votes": "200"
+}

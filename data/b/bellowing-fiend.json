@@ -1,0 +1,13 @@
+{
+  "title": "Bellowing Fiend",
+  "image": "../img/b/bellowing-fiend.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit",
+  "text": "FlyingWhenever Bellowing Fiend deals damage to a creature, Bellowing Fiend deals 3 damage to that creature's controller and 3 damage to you.",
+  "expansion": "Seventh Edition",
+  "rarity": "Rare",
+  "cardNumber": "119",
+  "artist": "Chippy",
+  "rating": "3.091",
+  "votes": "33"
+}

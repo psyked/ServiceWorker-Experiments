@@ -1,0 +1,13 @@
+{
+  "title": "Diviner's Wand",
+  "image": "../img/d/diviners-wand.jpg",
+  "convertedManaCost": "3",
+  "types": "Tribal Artifact  — Wizard Equipment",
+  "text": "Equipped creature has \"Whenever you draw a card, this creature gets +1/+1 and gains flying until end of turn\" and \": Draw a card.\"Whenever a Wizard creature enters the battlefield, you may attach Diviner's Wand to it.Equip",
+  "expansion": "Morningtide",
+  "rarity": "Uncommon",
+  "cardNumber": "142",
+  "artist": "Wayne England",
+  "rating": "3.067",
+  "votes": "52"
+}

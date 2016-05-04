@@ -1,0 +1,13 @@
+{
+  "title": "Quagmire",
+  "image": "../img/q/quagmire.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Creatures with swampwalk can be blocked as though they didn't have swampwalk.",
+  "expansion": "Legends",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Dan Frazier",
+  "rating": "1.585",
+  "votes": "47"
+}

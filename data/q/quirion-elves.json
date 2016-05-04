@@ -1,0 +1,13 @@
+{
+  "title": "Quirion Elves",
+  "image": "../img/q/quirion-elves.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Druid",
+  "text": "As Quirion Elves enters the battlefield, choose a color.: Add  to your mana pool.: Add one mana of the chosen color to your mana pool.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Common",
+  "cardNumber": "39",
+  "artist": "Douglas Shuler",
+  "rating": "4.167",
+  "votes": "45"
+}

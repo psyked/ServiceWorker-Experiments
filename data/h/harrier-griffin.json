@@ -1,0 +1,13 @@
+{
+  "title": "Harrier Griffin",
+  "image": "../img/h/harrier-griffin.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Griffin",
+  "text": "FlyingAt the beginning of your upkeep, tap target creature.",
+  "expansion": "Guildpact",
+  "rarity": "Uncommon",
+  "cardNumber": "9",
+  "artist": "Jim Nelson",
+  "rating": "2.750",
+  "votes": "40"
+}

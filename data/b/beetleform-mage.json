@@ -1,0 +1,13 @@
+{
+  "title": "Beetleform Mage",
+  "image": "../img/b/beetleform-mage.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Insect Wizard",
+  "text": ": Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Common",
+  "cardNumber": "54",
+  "artist": "Marco Nelor",
+  "rating": "3.404",
+  "votes": "52"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Kuldotha Phoenix",
+  "image": "../img/k/kuldotha-phoenix.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Phoenix",
+  "text": "Flying, hasteMetalcraft — : Return Kuldotha Phoenix from your graveyard to the battlefield. Activate this ability only during your upkeep and only if you control three or more artifacts.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "95",
+  "artist": "Mike Bierek",
+  "rating": "3.897",
+  "votes": "102"
+}

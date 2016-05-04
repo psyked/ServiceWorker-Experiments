@@ -1,0 +1,13 @@
+{
+  "title": "Lagonna-Band Trailblazer",
+  "image": "../img/l/lagonna-band-trailblazer.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Centaur Scout",
+  "text": "Heroic — Whenever you cast a spell that targets Lagonna-Band Trailblazer, put a +1/+1 counter on Lagonna-Band Trailblazer.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "14",
+  "artist": "James Zapata",
+  "rating": "3.823",
+  "votes": "31"
+}

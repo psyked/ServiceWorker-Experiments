@@ -1,0 +1,13 @@
+{
+  "title": "Aven Windreader",
+  "image": "../img/a/aven-windreader.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bird Soldier Wizard",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.): Target player reveals the top card of his or her library.",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "69",
+  "artist": "Greg Hildebrandt",
+  "rating": "2.221",
+  "votes": "34"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Extravagant Spirit",
+  "image": "../img/e/extravagant-spirit.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Spirit",
+  "text": "FlyingAt the beginning of your upkeep, sacrifice Extravagant Spirit unless you pay  for each card in your hand.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "79",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "1.906",
+  "votes": "32"
+}

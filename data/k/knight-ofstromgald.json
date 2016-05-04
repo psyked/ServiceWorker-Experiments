@@ -1,0 +1,13 @@
+{
+  "title": "Knight of Stromgald",
+  "image": "../img/k/knight-ofstromgald.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Knight",
+  "text": "Protection from white: Knight of Stromgald gains first strike until end of turn.: Knight of Stromgald gets +1/+0 until end of turn.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "99",
+  "artist": "Mark Poole",
+  "rating": "4.012",
+  "votes": "40"
+}

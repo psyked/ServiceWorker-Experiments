@@ -1,0 +1,13 @@
+{
+  "title": "Femeref Knight",
+  "image": "../img/f/femeref-knight.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.): Femeref Knight gains vigilance until end of turn.",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Tony Roberts",
+  "rating": "3.259",
+  "votes": "29"
+}

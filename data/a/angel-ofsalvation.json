@@ -1,0 +1,13 @@
+{
+  "title": "Angel of Salvation",
+  "image": "../img/a/angel-ofsalvation.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Angel",
+  "text": "Flash; convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for  or one mana of that creature's color.)FlyingWhen Angel of Salvation enters the battlefield, prevent the next 5 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose.",
+  "expansion": "Duel Decks: Elspeth vs. Tezzeret",
+  "rarity": "Rare",
+  "cardNumber": "20",
+  "artist": "D. Alexander Gregory",
+  "rating": "3.375",
+  "votes": "48"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Alexi's Cloak",
+  "image": "../img/a/alexis-cloak.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "FlashEnchant creatureEnchanted creature has shroud. (It can't be the target of spells or abilities.)",
+  "expansion": "Prophecy",
+  "rarity": "Common",
+  "cardNumber": "29",
+  "artist": "Alan Rabinowitz",
+  "rating": "3.969",
+  "votes": "65"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Nantuko Cultivator",
+  "image": "../img/n/nantuko-cultivator.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Insect Druid",
+  "text": "When Nantuko Cultivator enters the battlefield, you may discard any number of land cards. Put that many +1/+1 counters on Nantuko Cultivator and draw that many cards.",
+  "expansion": "Torment",
+  "rarity": "Rare",
+  "cardNumber": "133",
+  "artist": "Darrell Riche",
+  "rating": "4.000",
+  "votes": "47"
+}

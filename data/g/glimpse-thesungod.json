@@ -1,0 +1,13 @@
+{
+  "title": "Glimpse the Sun God",
+  "image": "../img/g/glimpse-thesungod.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Tap X target creatures. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "13",
+  "artist": "Aleksi Briclot",
+  "rating": "3.625",
+  "votes": "32"
+}

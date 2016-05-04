@@ -1,0 +1,13 @@
+{
+  "title": "Hallowed Spiritkeeper",
+  "image": "../img/h/hallowed-spiritkeeper.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Avatar",
+  "text": "VigilanceWhen Hallowed Spiritkeeper dies, put X 1/1 white Spirit creature tokens with flying onto the battlefield, where X is the number of creature cards in your graveyard.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "8",
+  "artist": "Steve Prescott",
+  "rating": "5",
+  "votes": "0"
+}

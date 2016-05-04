@@ -1,0 +1,13 @@
+{
+  "title": "Artful Dodge",
+  "image": "../img/a/artful-dodge.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Target creature can't be blocked this turn.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Dark Ascension",
+  "rarity": "Common",
+  "cardNumber": "27",
+  "artist": "Tomasz Jedruszek",
+  "rating": "3.675",
+  "votes": "100"
+}

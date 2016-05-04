@@ -1,0 +1,13 @@
+{
+  "title": "Headless Skaab",
+  "image": "../img/h/headless-skaab.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie Warrior",
+  "text": "As an additional cost to cast Headless Skaab, exile a creature card from your graveyard.Headless Skaab enters the battlefield tapped.",
+  "expansion": "Dark Ascension",
+  "rarity": "Common",
+  "cardNumber": "40",
+  "artist": "Johann Bodin",
+  "rating": "3.223",
+  "votes": "56"
+}

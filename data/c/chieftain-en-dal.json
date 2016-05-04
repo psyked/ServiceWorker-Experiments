@@ -1,0 +1,13 @@
+{
+  "title": "Chieftain en-Dal",
+  "image": "../img/c/chieftain-en-dal.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "Whenever Chieftain en-Dal attacks, attacking creatures gain first strike until end of turn.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "4",
+  "artist": "Orizio Daniele",
+  "rating": "3.621",
+  "votes": "29"
+}

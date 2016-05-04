@@ -1,0 +1,13 @@
+{
+  "title": "Harness the Storm",
+  "image": "../img/h/harness-thestorm.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever you cast an instant or sorcery spell from your hand, you may cast target card with the same name as that spell from your graveyard. (You still pay its costs.)",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "163",
+  "artist": "Raymond Swanland",
+  "rating": "5",
+  "votes": "0"
+}

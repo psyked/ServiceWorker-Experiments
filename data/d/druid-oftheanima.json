@@ -1,0 +1,13 @@
+{
+  "title": "Druid of the Anima",
+  "image": "../img/d/druid-oftheanima.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Druid",
+  "text": ": Add , , or  to your mana pool.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "128",
+  "artist": "Jim Murray",
+  "rating": "3.020",
+  "votes": "75"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Firespout",
+  "image": "../img/f/firespout.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Firespout deals 3 damage to each creature without flying if  was spent to cast Firespout and 3 damage to each creature with flying if  was spent to cast it. (Do both if  was spent.)",
+  "expansion": "From the Vault: Annihilation (2014)",
+  "rarity": "Mythic Rare",
+  "cardNumber": "6",
+  "artist": "Raymond Swanland",
+  "rating": "5",
+  "votes": "0"
+}

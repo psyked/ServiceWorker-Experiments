@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Crusader",
+  "image": "../img/p/phyrexian-crusader.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie Knight",
+  "text": "First strike, protection from red and from whiteInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Rare",
+  "cardNumber": "50",
+  "artist": "Eric Deschamps",
+  "rating": "3.960",
+  "votes": "210"
+}

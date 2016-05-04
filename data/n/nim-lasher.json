@@ -1,0 +1,13 @@
+{
+  "title": "Nim Lasher",
+  "image": "../img/n/nim-lasher.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": "Nim Lasher gets +1/+0 for each artifact you control.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "71",
+  "artist": "Adam Rex",
+  "rating": "2.662",
+  "votes": "34"
+}

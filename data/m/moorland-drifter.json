@@ -1,0 +1,13 @@
+{
+  "title": "Moorland Drifter",
+  "image": "../img/m/moorland-drifter.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": "Delirium — Moorland Drifter has flying as long as there are four or more card types among cards in your graveyard.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "27",
+  "artist": "Ryan Yee",
+  "rating": "5",
+  "votes": "0"
+}

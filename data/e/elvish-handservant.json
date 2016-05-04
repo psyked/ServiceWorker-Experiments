@@ -1,0 +1,13 @@
+{
+  "title": "Elvish Handservant",
+  "image": "../img/e/elvish-handservant.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Warrior",
+  "text": "Whenever a player casts a Giant spell, you may put a +1/+1 counter on Elvish Handservant.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "206",
+  "artist": "Steve Prescott",
+  "rating": "2.364",
+  "votes": "44"
+}

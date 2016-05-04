@@ -1,0 +1,13 @@
+{
+  "title": "Blood of the Martyr",
+  "image": "../img/b/blood-ofthemartyr.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Until end of turn, if damage would be dealt to any creature, you may have that damage dealt to you instead.",
+  "expansion": "Chronicles",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Christopher Rush",
+  "rating": "3.050",
+  "votes": "40"
+}

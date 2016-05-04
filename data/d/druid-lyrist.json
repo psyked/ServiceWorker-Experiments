@@ -1,0 +1,13 @@
+{
+  "title": "Druid Lyrist",
+  "image": "../img/d/druid-lyrist.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Druid",
+  "text": ", , Sacrifice Druid Lyrist: Destroy target enchantment.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "238",
+  "artist": "Mark Zug",
+  "rating": "3.196",
+  "votes": "23"
+}

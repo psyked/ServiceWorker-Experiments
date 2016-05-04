@@ -1,0 +1,13 @@
+{
+  "title": "Imaginary Pet",
+  "image": "../img/i/imaginary-pet.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Illusion",
+  "text": "At the beginning of your upkeep, if you have a card in hand, return Imaginary Pet to its owner's hand.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "82",
+  "artist": "Christopher Rush",
+  "rating": "3.719",
+  "votes": "48"
+}

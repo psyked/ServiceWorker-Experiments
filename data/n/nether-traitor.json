@@ -1,0 +1,13 @@
+{
+  "title": "Nether Traitor",
+  "image": "../img/n/nether-traitor.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": "HasteShadow (This creature can block or be blocked by only creatures with shadow.)Whenever another creature is put into your graveyard from the battlefield, you may pay . If you do, return Nether Traitor from your graveyard to the battlefield.",
+  "expansion": "Time Spiral",
+  "rarity": "Rare",
+  "cardNumber": "120",
+  "artist": "Vance Kovacs",
+  "rating": "4.141",
+  "votes": "99"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Kragma Butcher",
+  "image": "../img/k/kragma-butcher.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Minotaur Warrior",
+  "text": "Inspired — Whenever Kragma Butcher becomes untapped, it gets +2/+0 until end of turn.",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "100",
+  "artist": "Daarken",
+  "rating": "3.700",
+  "votes": "30"
+}

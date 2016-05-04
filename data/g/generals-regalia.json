@@ -1,0 +1,13 @@
+{
+  "title": "General's Regalia",
+  "image": "../img/g/generals-regalia.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": The next time a source of your choice would deal damage to you this turn, that damage is dealt to target creature you control instead.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "295",
+  "artist": "David Monette",
+  "rating": "3.191",
+  "votes": "34"
+}

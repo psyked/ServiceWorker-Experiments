@@ -1,0 +1,13 @@
+{
+  "title": "Endless Scream",
+  "image": "../img/e/endless-scream.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEndless Scream enters the battlefield with X scream counters on it.Enchanted creature gets +1/+0 for each scream counter on Endless Scream.",
+  "expansion": "Tempest",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Joel Biske",
+  "rating": "4.233",
+  "votes": "45"
+}

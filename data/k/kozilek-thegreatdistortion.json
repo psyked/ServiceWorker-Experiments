@@ -1,0 +1,13 @@
+{
+  "title": "Kozilek, the Great Distortion",
+  "image": "../img/k/kozilek-thegreatdistortion.jpg",
+  "convertedManaCost": "10",
+  "types": "Legendary Creature  — Eldrazi",
+  "text": "When you cast Kozilek, the Great Distortion, if you have fewer than seven cards in hand, draw cards equal to the difference.MenaceDiscard a card with converted mana cost X: Counter target spell with converted mana cost X.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Mythic Rare",
+  "cardNumber": "4",
+  "artist": "Aleksi Briclot",
+  "rating": "5",
+  "votes": "0"
+}

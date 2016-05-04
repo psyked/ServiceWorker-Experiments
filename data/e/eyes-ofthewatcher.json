@@ -1,0 +1,13 @@
+{
+  "title": "Eyes of the Watcher",
+  "image": "../img/e/eyes-ofthewatcher.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever you cast an instant or sorcery spell, you may pay . If you do, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "30",
+  "artist": "Ron Spears",
+  "rating": "3.936",
+  "votes": "39"
+}

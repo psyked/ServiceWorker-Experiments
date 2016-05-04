@@ -1,0 +1,13 @@
+{
+  "title": "Nacatl War-Pride",
+  "image": "../img/n/nacatl-war-pride.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Cat Warrior",
+  "text": "Nacatl War-Pride must be blocked by exactly one creature if able.Whenever Nacatl War-Pride attacks, put X tokens that are copies of Nacatl War-Pride onto the battlefield tapped and attacking, where X is the number of creatures defending player controls. Exile the tokens at the beginning of the next end step.",
+  "expansion": "Future Sight",
+  "rarity": "Uncommon",
+  "cardNumber": "147",
+  "artist": "James Kei",
+  "rating": "4.153",
+  "votes": "85"
+}

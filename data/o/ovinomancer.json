@@ -1,0 +1,13 @@
+{
+  "title": "Ovinomancer",
+  "image": "../img/o/ovinomancer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "When Ovinomancer enters the battlefield, sacrifice it unless you return three basic lands you control to their owner's hand., Return Ovinomancer to its owner's hand: Destroy target creature. It can't be regenerated. That creature's controller puts a 0/1 green Sheep creature token onto the battlefield.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "27",
+  "artist": "Kev Walker",
+  "rating": "3.067",
+  "votes": "67"
+}

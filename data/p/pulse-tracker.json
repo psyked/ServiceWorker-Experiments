@@ -1,0 +1,13 @@
+{
+  "title": "Pulse Tracker",
+  "image": "../img/p/pulse-tracker.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Vampire Rogue",
+  "text": "Whenever Pulse Tracker attacks, each opponent loses 1 life.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Common",
+  "cardNumber": "43",
+  "artist": "Andrew Robinson",
+  "rating": "3.475",
+  "votes": "20"
+}

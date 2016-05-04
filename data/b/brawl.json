@@ -1,0 +1,13 @@
+{
+  "title": "Brawl",
+  "image": "../img/b/brawl.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Until end of turn, all creatures gain \": This creature deals damage equal to its power to target creature.\"",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "178",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "3.650",
+  "votes": "30"
+}

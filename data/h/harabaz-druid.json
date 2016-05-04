@@ -1,0 +1,13 @@
+{
+  "title": "Harabaz Druid",
+  "image": "../img/h/harabaz-druid.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Druid Ally",
+  "text": ": Add X mana of any one color to your mana pool, where X is the number of Allies you control.",
+  "expansion": "Worldwake",
+  "rarity": "Rare",
+  "cardNumber": "105",
+  "artist": "Wayne Reynolds",
+  "rating": "3.947",
+  "votes": "133"
+}

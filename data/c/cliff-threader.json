@@ -1,0 +1,13 @@
+{
+  "title": "Cliff Threader",
+  "image": "../img/c/cliff-threader.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kor Scout",
+  "text": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)",
+  "expansion": "Zendikar",
+  "rarity": "Common",
+  "cardNumber": "7",
+  "artist": "Paul Bonner",
+  "rating": "2.500",
+  "votes": "45"
+}

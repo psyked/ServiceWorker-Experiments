@@ -1,0 +1,13 @@
+{
+  "title": "Bereavement",
+  "image": "../img/b/bereavement.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever a green creature dies, its controller discards a card.",
+  "expansion": "Seventh Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "120",
+  "artist": "Marc Fishman",
+  "rating": "2.448",
+  "votes": "29"
+}

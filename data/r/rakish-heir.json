@@ -1,0 +1,13 @@
+{
+  "title": "Rakish Heir",
+  "image": "../img/r/rakish-heir.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vampire",
+  "text": "Whenever a Vampire you control deals combat damage to a player, put a +1/+1 counter on it.",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "158",
+  "artist": "Winona Nelson",
+  "rating": "3.806",
+  "votes": "90"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Patrician's Scorn",
+  "image": "../img/p/patricians-scorn.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "If you've cast another white spell this turn, you may cast Patrician's Scorn without paying its mana cost.Destroy all enchantments.",
+  "expansion": "Future Sight",
+  "rarity": "Common",
+  "cardNumber": "29",
+  "artist": "John Avon",
+  "rating": "3.423",
+  "votes": "39"
+}

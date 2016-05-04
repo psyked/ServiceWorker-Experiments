@@ -1,0 +1,13 @@
+{
+  "title": "Omen Machine",
+  "image": "../img/o/omen-machine.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact",
+  "text": "Players can't draw cards.At the beginning of each player's draw step, that player exiles the top card of his or her library. If it's a land card, the player puts it onto the battlefield. Otherwise, the player casts it without paying its mana cost if able.",
+  "expansion": "New Phyrexia",
+  "rarity": "Rare",
+  "cardNumber": "148",
+  "artist": "David Rapoza",
+  "rating": "3.082",
+  "votes": "91"
+}

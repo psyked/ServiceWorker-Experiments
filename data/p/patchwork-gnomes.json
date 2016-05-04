@@ -1,0 +1,13 @@
+{
+  "title": "Patchwork Gnomes",
+  "image": "../img/p/patchwork-gnomes.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Gnome",
+  "text": "Discard a card: Regenerate Patchwork Gnomes.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "229",
+  "artist": "Mike Raabe",
+  "rating": "5",
+  "votes": "0"
+}

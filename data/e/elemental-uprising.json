@@ -1,0 +1,13 @@
+{
+  "title": "Elemental Uprising",
+  "image": "../img/e/elemental-uprising.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target land you control becomes a 4/4 Elemental creature with haste until end of turn. It's still a land. It must be blocked this turn if able.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "130",
+  "artist": "Svetlin Velinov",
+  "rating": "5",
+  "votes": "0"
+}

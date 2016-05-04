@@ -1,0 +1,13 @@
+{
+  "title": "Cerulean Wisps",
+  "image": "../img/c/cerulean-wisps.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature becomes blue until end of turn. Untap that creature.Draw a card.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "31",
+  "artist": "Jim Nelson",
+  "rating": "2.976",
+  "votes": "41"
+}

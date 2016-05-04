@@ -1,0 +1,13 @@
+{
+  "title": "Prism Ring",
+  "image": "../img/p/prism-ring.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": "As Prism Ring enters the battlefield, choose a color.Whenever you cast a spell of the chosen color, you gain 1 life.",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "235",
+  "artist": "Daniel Ljunggren",
+  "rating": "5",
+  "votes": "0"
+}

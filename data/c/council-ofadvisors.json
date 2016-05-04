@@ -1,0 +1,13 @@
+{
+  "title": "Council of Advisors",
+  "image": "../img/c/council-ofadvisors.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Advisor",
+  "text": "When Council of Advisors enters the battlefield, draw a card.",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Uncommon",
+  "cardNumber": "40",
+  "artist": "Liu Shangying",
+  "rating": "1.919",
+  "votes": "31"
+}

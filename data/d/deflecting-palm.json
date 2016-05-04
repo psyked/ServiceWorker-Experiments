@@ -1,0 +1,13 @@
+{
+  "title": "Deflecting Palm",
+  "image": "../img/d/deflecting-palm.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "The next time a source of your choice would deal damage to you this turn, prevent that damage. If damage is prevented this way, Deflecting Palm deals that much damage to that source's controller.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "173",
+  "artist": "Eric Deschamps",
+  "rating": "4.125",
+  "votes": "4"
+}

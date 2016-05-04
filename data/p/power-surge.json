@@ -1,0 +1,13 @@
+{
+  "title": "Power Surge",
+  "image": "../img/p/power-surge.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "At the beginning of each player's upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands he or she controlled at the beginning of this turn.",
+  "expansion": "Fourth Edition",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Douglas Shuler",
+  "rating": "2.300",
+  "votes": "45"
+}

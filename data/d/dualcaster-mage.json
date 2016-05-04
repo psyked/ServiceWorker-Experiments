@@ -1,0 +1,13 @@
+{
+  "title": "Dualcaster Mage",
+  "image": "../img/d/dualcaster-mage.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "FlashWhen Dualcaster Mage enters the battlefield, copy target instant or sorcery spell. You may choose new targets for the copy.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "34",
+  "artist": "Matt Stewart",
+  "rating": "5",
+  "votes": "0"
+}

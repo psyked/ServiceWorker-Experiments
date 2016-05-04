@@ -1,0 +1,13 @@
+{
+  "title": "Crimson Roc",
+  "image": "../img/c/crimson-roc.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bird",
+  "text": "FlyingWhenever Crimson Roc blocks a creature without flying, Crimson Roc gets +1/+0 and gains first strike until end of turn.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Ian Miller",
+  "rating": "2.375",
+  "votes": "32"
+}

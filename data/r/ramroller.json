@@ -1,0 +1,13 @@
+{
+  "title": "Ramroller",
+  "image": "../img/r/ramroller.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Juggernaut",
+  "text": "Ramroller attacks each turn if able.Ramroller gets +2/+0 as long as you control another artifact.",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "237",
+  "artist": "Craig J Spearing",
+  "rating": "5",
+  "votes": "0"
+}

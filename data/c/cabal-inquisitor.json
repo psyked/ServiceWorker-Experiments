@@ -1,0 +1,13 @@
+{
+  "title": "Cabal Inquisitor",
+  "image": "../img/c/cabal-inquisitor.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Minion",
+  "text": "Threshold — , , Exile two cards from your graveyard: Target player discards a card. Activate this ability only any time you could cast a sorcery, and only if seven or more cards are in your graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "119",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "1.763",
+  "votes": "38"
+}

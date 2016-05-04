@@ -1,0 +1,13 @@
+{
+  "title": "Pontiff of Blight",
+  "image": "../img/p/pontiff-ofblight.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Zombie Cleric",
+  "text": "Extort (Whenever you cast a spell, you may pay . If you do, each opponent loses 1 life and you gain that much life.)Other creatures you control have extort. (If a creature has multiple instances of extort, each triggers separately.)",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "155",
+  "artist": "Seb McKinnon",
+  "rating": "5",
+  "votes": "0"
+}

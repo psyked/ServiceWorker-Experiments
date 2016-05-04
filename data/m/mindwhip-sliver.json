@@ -1,0 +1,13 @@
+{
+  "title": "Mindwhip Sliver",
+  "image": "../img/m/mindwhip-sliver.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Sliver",
+  "text": "All Slivers have \", Sacrifice this permanent: Target player discards a card at random. Activate this ability only any time you could cast a sorcery.\"",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Jeff Miracola",
+  "rating": "3.183",
+  "votes": "41"
+}

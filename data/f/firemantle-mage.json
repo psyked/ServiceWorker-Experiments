@@ -1,0 +1,13 @@
+{
+  "title": "Firemantle Mage",
+  "image": "../img/f/firemantle-mage.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Shaman Ally",
+  "text": "Rally — Whenever Firemantle Mage or another Ally enters the battlefield under your control, creatures you control gain menace until end of turn. (A creature with menace can't be blocked except by two or more creatures.)",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "145",
+  "artist": "Chris Rahn",
+  "rating": "5",
+  "votes": "0"
+}

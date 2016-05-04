@@ -1,0 +1,13 @@
+{
+  "title": "Mirror Match",
+  "image": "../img/m/mirror-match.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "Cast Mirror Match only during the declare blockers step.For each creature attacking you or a planeswalker you control, put a token that's a copy of that creature onto the battlefield blocking that creature. Exile those tokens at end of combat.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "13",
+  "artist": "Steve Prescott",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Defiler of Souls",
+  "image": "../img/d/defiler-ofsouls.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Demon",
+  "text": "FlyingAt the beginning of each player's upkeep, that player sacrifices a monocolored creature.",
+  "expansion": "Alara Reborn",
+  "rarity": "Mythic Rare",
+  "cardNumber": "37",
+  "artist": "Paul Bonner",
+  "rating": "3.617",
+  "votes": "128"
+}

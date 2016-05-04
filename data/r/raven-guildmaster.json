@@ -1,0 +1,13 @@
+{
+  "title": "Raven Guild Master",
+  "image": "../img/r/raven-guildmaster.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard Mutant",
+  "text": "Whenever Raven Guild Master deals combat damage to a player, that player exiles the top ten cards of his or her library.Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Scourge",
+  "rarity": "Rare",
+  "cardNumber": "47",
+  "artist": "Kev Walker",
+  "rating": "4.377",
+  "votes": "73"
+}

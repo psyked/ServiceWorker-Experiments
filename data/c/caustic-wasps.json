@@ -1,0 +1,13 @@
+{
+  "title": "Caustic Wasps",
+  "image": "../img/c/caustic-wasps.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Insect",
+  "text": "FlyingWhenever Caustic Wasps deals combat damage to a player, you may destroy target artifact that player controls.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "234",
+  "artist": "Glen Angus",
+  "rating": "3.231",
+  "votes": "26"
+}

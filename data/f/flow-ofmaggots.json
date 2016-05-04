@@ -1,0 +1,13 @@
+{
+  "title": "Flow of Maggots",
+  "image": "../img/f/flow-ofmaggots.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Insect",
+  "text": "Cumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)Flow of Maggots can't be blocked by non-Wall creatures.",
+  "expansion": "Ice Age",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Ron Spencer",
+  "rating": "1.750",
+  "votes": "46"
+}

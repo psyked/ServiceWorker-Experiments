@@ -1,0 +1,13 @@
+{
+  "title": "Barbed Shocker",
+  "image": "../img/b/barbed-shocker.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Insect",
+  "text": "Trample, hasteWhenever Barbed Shocker deals damage to a player, that player discards all the cards in his or her hand, then draws that many cards.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Uncommon",
+  "cardNumber": "136",
+  "artist": "Tony Szczudlo",
+  "rating": "3.833",
+  "votes": "6"
+}

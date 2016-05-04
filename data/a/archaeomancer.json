@@ -1,0 +1,13 @@
+{
+  "title": "Archaeomancer",
+  "image": "../img/a/archaeomancer.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Wizard",
+  "text": "When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Common",
+  "cardNumber": "13",
+  "artist": "Zoltan Boros",
+  "rating": "4.000",
+  "votes": "9"
+}

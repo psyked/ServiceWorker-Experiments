@@ -1,0 +1,13 @@
+{
+  "title": "Greatsword",
+  "image": "../img/g/greatsword.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +3/+0.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Magic 2012",
+  "rarity": "Uncommon",
+  "cardNumber": "209",
+  "artist": "Nic Klein",
+  "rating": "1.484",
+  "votes": "94"
+}

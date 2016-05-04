@@ -1,0 +1,13 @@
+{
+  "title": "Keeper of the Nine Gales",
+  "image": "../img/k/keeper-oftheninegales.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Bird Wizard",
+  "text": "Flying, Tap two untapped Birds you control: Return target permanent to its owner's hand.",
+  "expansion": "Legions",
+  "rarity": "Rare",
+  "cardNumber": "42",
+  "artist": "Jim Nelson",
+  "rating": "3.632",
+  "votes": "38"
+}

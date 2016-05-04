@@ -1,0 +1,13 @@
+{
+  "title": "Diabolic Intent",
+  "image": "../img/d/diabolic-intent.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Diabolic Intent, sacrifice a creature.Search your library for a card and put that card into your hand. Then shuffle your library.",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "42",
+  "artist": "Dave Dorman",
+  "rating": "4.299",
+  "votes": "87"
+}

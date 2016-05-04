@@ -1,0 +1,13 @@
+{
+  "title": "Runes of the Deus",
+  "image": "../img/r/runes-ofthedeus.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAs long as enchanted creature is red, it gets +1/+1 and has double strike. (It deals both first-strike and regular combat damage.)As long as enchanted creature is green, it gets +1/+1 and has trample.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "215",
+  "artist": "Warren Mahy",
+  "rating": "3.725",
+  "votes": "69"
+}

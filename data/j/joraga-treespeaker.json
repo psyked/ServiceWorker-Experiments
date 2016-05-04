@@ -1,0 +1,13 @@
+{
+  "title": "Joraga Treespeaker",
+  "image": "../img/j/joraga-treespeaker.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Druid",
+  "text": "Level up  (: Put a level counter on this. Level up only as a sorcery.)LEVEL 1-41/2: Add  to your mana pool.LEVEL 5+1/4Elves you control have \": Add  to your mana pool.\"",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "190",
+  "artist": "Cyril Van Der Haegen",
+  "rating": "4.258",
+  "votes": "153"
+}

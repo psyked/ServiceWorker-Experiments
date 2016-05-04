@@ -1,0 +1,13 @@
+{
+  "title": "Body of Jukai",
+  "image": "../img/b/body-ofjukai.jpg",
+  "convertedManaCost": "9",
+  "types": "Creature  — Spirit",
+  "text": "TrampleSoulshift 8 (When this creature dies, you may return target Spirit card with converted mana cost 8 or less from your graveyard to your hand.)",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "121",
+  "artist": "Luca Zontini",
+  "rating": "2.615",
+  "votes": "39"
+}

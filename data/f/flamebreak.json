@@ -1,0 +1,13 @@
+{
+  "title": "Flamebreak",
+  "image": "../img/f/flamebreak.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Flamebreak deals 3 damage to each creature without flying and each player. Creatures dealt damage this way can't be regenerated this turn.",
+  "expansion": "Darksteel",
+  "rarity": "Rare",
+  "cardNumber": "61",
+  "artist": "Trevor Hairsine",
+  "rating": "4.260",
+  "votes": "52"
+}

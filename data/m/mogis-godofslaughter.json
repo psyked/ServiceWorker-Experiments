@@ -1,0 +1,13 @@
+{
+  "title": "Mogis, God of Slaughter",
+  "image": "../img/m/mogis-godofslaughter.jpg",
+  "convertedManaCost": "4",
+  "types": "Legendary Enchantment Creature  — God",
+  "text": "IndestructibleAs long as your devotion to black and red is less than seven, Mogis isn't a creature.At the beginning of each opponent's upkeep, Mogis deals 2 damage to that player unless he or she sacrifices a creature.",
+  "expansion": "Born of the Gods",
+  "rarity": "Mythic Rare",
+  "cardNumber": "151",
+  "artist": "Peter Mohrbacher",
+  "rating": "3.834",
+  "votes": "145"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Nyx Infusion",
+  "image": "../img/n/nyx-infusion.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+2 as long as it's an enchantment. Otherwise, it gets -2/-2.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "77",
+  "artist": "Jason A. Engle",
+  "rating": "2.971",
+  "votes": "17"
+}

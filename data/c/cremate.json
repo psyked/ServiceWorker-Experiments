@@ -1,0 +1,13 @@
+{
+  "title": "Cremate",
+  "image": "../img/c/cremate.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Exile target card from a graveyard.Draw a card.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "59",
+  "artist": "Cynthia Sheppard",
+  "rating": "3.782",
+  "votes": "71"
+}

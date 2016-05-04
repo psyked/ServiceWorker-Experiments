@@ -1,0 +1,13 @@
+{
+  "title": "Plated Pegasus",
+  "image": "../img/p/plated-pegasus.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Pegasus",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)FlyingIf a spell would deal damage to a creature or player, prevent 1 damage that spell would deal to that creature or player.",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "34",
+  "artist": "Greg Hildebrandt",
+  "rating": "2.848",
+  "votes": "46"
+}

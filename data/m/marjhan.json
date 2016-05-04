@@ -1,0 +1,13 @@
+{
+  "title": "Marjhan",
+  "image": "../img/m/marjhan.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Serpent",
+  "text": "Marjhan doesn't untap during your untap step., Sacrifice a creature: Untap Marjhan. Activate this ability only during your upkeep.Marjhan can't attack unless defending player controls an Island.: Marjhan gets -1/-0 until end of turn and deals 1 damage to target attacking creature without flying.When you control no Islands, sacrifice Marjhan.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "54",
+  "artist": "Daniel Gelon",
+  "rating": "3.024",
+  "votes": "41"
+}

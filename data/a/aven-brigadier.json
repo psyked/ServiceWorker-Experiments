@@ -1,0 +1,13 @@
+{
+  "title": "Aven Brigadier",
+  "image": "../img/a/aven-brigadier.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Bird Soldier",
+  "text": "FlyingOther Bird creatures get +1/+1.Other Soldier creatures get +1/+1.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "7",
+  "artist": "Greg Staples",
+  "rating": "3.942",
+  "votes": "60"
+}

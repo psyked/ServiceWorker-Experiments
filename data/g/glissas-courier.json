@@ -1,0 +1,13 @@
+{
+  "title": "Glissa's Courier",
+  "image": "../img/g/glissas-courier.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Horror",
+  "text": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "80",
+  "artist": "Dave Kendall",
+  "rating": "2.554",
+  "votes": "56"
+}

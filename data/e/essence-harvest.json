@@ -1,0 +1,13 @@
+{
+  "title": "Essence Harvest",
+  "image": "../img/e/essence-harvest.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target player loses X life and you gain X life, where X is the greatest power among creatures you control.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "100",
+  "artist": "Daarken",
+  "rating": "3.633",
+  "votes": "64"
+}

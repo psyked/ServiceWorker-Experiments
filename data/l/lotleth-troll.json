@@ -1,0 +1,13 @@
+{
+  "title": "Lotleth Troll",
+  "image": "../img/l/lotleth-troll.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie Troll",
+  "text": "TrampleDiscard a creature card: Put a +1/+1 counter on Lotleth Troll.: Regenerate Lotleth Troll.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "226",
+  "artist": "Vincent Proce",
+  "rating": "5",
+  "votes": "0"
+}

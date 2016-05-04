@@ -1,0 +1,13 @@
+{
+  "title": "Consume Strength",
+  "image": "../img/c/consume-strength.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Target creature gets +2/+2 until end of turn. Another target creature gets -2/-2 until end of turn.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Common",
+  "cardNumber": "74",
+  "artist": "Adam Rex",
+  "rating": "4.094",
+  "votes": "16"
+}

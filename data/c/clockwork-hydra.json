@@ -1,0 +1,13 @@
+{
+  "title": "Clockwork Hydra",
+  "image": "../img/c/clockwork-hydra.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Hydra",
+  "text": "Clockwork Hydra enters the battlefield with four +1/+1 counters on it.Whenever Clockwork Hydra attacks or blocks, remove a +1/+1 counter from it. If you do, Clockwork Hydra deals 1 damage to target creature or player.: Put a +1/+1 counter on Clockwork Hydra.",
+  "expansion": "Duel Decks: Elspeth vs. Tezzeret",
+  "rarity": "Uncommon",
+  "cardNumber": "55",
+  "artist": "Daren Bader",
+  "rating": "3.539",
+  "votes": "38"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Rite of Undoing",
+  "image": "../img/r/rite-ofundoing.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for .)Return target nonland permanent you control and target nonland permanent you don't control to their owners' hands.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "49",
+  "artist": "Anastasia Ovchinnikova",
+  "rating": "5",
+  "votes": "0"
+}

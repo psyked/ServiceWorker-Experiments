@@ -1,0 +1,13 @@
+{
+  "title": "Peregrine Drake",
+  "image": "../img/p/peregrine-drake.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Drake",
+  "text": "FlyingWhen Peregrine Drake enters the battlefield, untap up to five lands.",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "22",
+  "artist": "Bob Eggleton",
+  "rating": "4.400",
+  "votes": "35"
+}

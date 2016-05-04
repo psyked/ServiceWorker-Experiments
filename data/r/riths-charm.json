@@ -1,0 +1,13 @@
+{
+  "title": "Rith's Charm",
+  "image": "../img/r/riths-charm.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose one —• Destroy target nonbasic land.• Put three 1/1 green Saproling creature tokens onto the battlefield.• Prevent all damage a source of your choice would deal this turn.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Uncommon",
+  "cardNumber": "60",
+  "artist": "David Martin",
+  "rating": "3.818",
+  "votes": "44"
+}

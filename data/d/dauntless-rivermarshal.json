@@ -1,0 +1,13 @@
+{
+  "title": "Dauntless River Marshal",
+  "image": "../img/d/dauntless-rivermarshal.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier",
+  "text": "Dauntless River Marshal gets +1/+1 as long as you control an Island.: Tap target creature.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "8",
+  "artist": "Mark Winters",
+  "rating": "3.667",
+  "votes": "6"
+}

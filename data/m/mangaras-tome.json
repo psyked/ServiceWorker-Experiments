@@ -1,0 +1,13 @@
+{
+  "title": "Mangara's Tome",
+  "image": "../img/m/mangaras-tome.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": "When Mangara's Tome enters the battlefield, search your library for five cards, exile them in a face-down pile, and shuffle that pile. Then shuffle your library.: The next time you would draw a card this turn, instead put the top card of the exiled pile into its owner's hand.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "John Bolton",
+  "rating": "4.088",
+  "votes": "40"
+}

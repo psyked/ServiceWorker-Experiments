@@ -1,0 +1,13 @@
+{
+  "title": "Deathbellow Raider",
+  "image": "../img/d/deathbellow-raider.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Minotaur Berserker",
+  "text": "Deathbellow Raider attacks each turn if able.: Regenerate Deathbellow Raider.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "117",
+  "artist": "Wayne Reynolds",
+  "rating": "3.567",
+  "votes": "45"
+}

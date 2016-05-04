@@ -1,0 +1,13 @@
+{
+  "title": "Quillspike",
+  "image": "../img/q/quillspike.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Beast",
+  "text": ", Remove a -1/-1 counter from a creature you control: Quillspike gets +3/+3 until end of turn.",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "126",
+  "artist": "Carl Critchlow",
+  "rating": "4.295",
+  "votes": "117"
+}

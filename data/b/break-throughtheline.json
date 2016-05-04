@@ -1,0 +1,13 @@
+{
+  "title": "Break Through the Line",
+  "image": "../img/b/break-throughtheline.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": ": Target creature with power 2 or less gains haste until end of turn and can't be blocked this turn.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "94",
+  "artist": "Clint Cearley",
+  "rating": "5",
+  "votes": "0"
+}

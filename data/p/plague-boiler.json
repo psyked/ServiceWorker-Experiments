@@ -1,0 +1,13 @@
+{
+  "title": "Plague Boiler",
+  "image": "../img/p/plague-boiler.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, put a plague counter on Plague Boiler.: Put a plague counter on Plague Boiler or remove a plague counter from it.When Plague Boiler has three or more plague counters on it, sacrifice it. If you do, destroy all nonland permanents.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "254",
+  "artist": "Mark Tedin",
+  "rating": "3.647",
+  "votes": "17"
+}

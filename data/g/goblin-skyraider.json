@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Sky Raider",
+  "image": "../img/g/goblin-skyraider.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "210",
+  "artist": "Daren Bader",
+  "rating": "1.364",
+  "votes": "44"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Arc Mage",
+  "image": "../img/a/arc-mage.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Spellshaper",
+  "text": ", , Discard a card: Arc Mage deals 2 damage divided as you choose among one or two target creatures and/or players.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "77",
+  "artist": "Terese Nielsen",
+  "rating": "2.743",
+  "votes": "37"
+}

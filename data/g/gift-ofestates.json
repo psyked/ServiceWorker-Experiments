@@ -1,0 +1,13 @@
+{
+  "title": "Gift of Estates",
+  "image": "../img/g/gift-ofestates.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, and put them into your hand. Then shuffle your library.",
+  "expansion": "Commander 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "73",
+  "artist": "Hugh Jamieson",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Drekavac",
+  "image": "../img/d/drekavac.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Beast",
+  "text": "When Drekavac enters the battlefield, sacrifice it unless you discard a noncreature card.",
+  "expansion": "Dissension",
+  "rarity": "Uncommon",
+  "cardNumber": "43",
+  "artist": "Syuichi Obata",
+  "rating": "2.625",
+  "votes": "40"
+}

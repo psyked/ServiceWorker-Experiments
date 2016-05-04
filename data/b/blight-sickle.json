@@ -1,0 +1,13 @@
+{
+  "title": "Blight Sickle",
+  "image": "../img/b/blight-sickle.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +1/+0 and has wither. (It deals damage to creatures in the form of -1/-1 counters.)Equip",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "247",
+  "artist": "John Avon",
+  "rating": "2.973",
+  "votes": "55"
+}

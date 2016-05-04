@@ -1,0 +1,13 @@
+{
+  "title": "Dauthi Mercenary",
+  "image": "../img/d/dauthi-mercenary.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Dauthi Knight Mercenary",
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.): Dauthi Mercenary gets +1/+0 until end of turn.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "114",
+  "artist": "Matthew D. Wilson",
+  "rating": "4.000",
+  "votes": "1"
+}

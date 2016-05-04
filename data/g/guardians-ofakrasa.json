@@ -1,0 +1,13 @@
+{
+  "title": "Guardians of Akrasa",
+  "image": "../img/g/guardians-ofakrasa.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "Defender (This creature can't attack.)Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",
+  "expansion": "Magic 2013",
+  "rarity": "Common",
+  "cardNumber": "18",
+  "artist": "Alan Pollack",
+  "rating": "2.875",
+  "votes": "44"
+}

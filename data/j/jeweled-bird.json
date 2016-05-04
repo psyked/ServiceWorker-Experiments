@@ -1,0 +1,13 @@
+{
+  "title": "Jeweled Bird",
+  "image": "../img/j/jeweled-bird.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": "Remove Jeweled Bird from your deck before playing if you're not playing for ante.: Ante Jeweled Bird. If you do, put all other cards you own from the ante into your graveyard, then draw a card.",
+  "expansion": "Chronicles",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Amy Weber",
+  "rating": "2.489",
+  "votes": "47"
+}

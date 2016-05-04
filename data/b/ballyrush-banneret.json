@@ -1,0 +1,13 @@
+{
+  "title": "Ballyrush Banneret",
+  "image": "../img/b/ballyrush-banneret.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kithkin Soldier",
+  "text": "Kithkin spells and Soldier spells you cast cost  less to cast.",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "1",
+  "artist": "Ralph Horsley",
+  "rating": "3.648",
+  "votes": "64"
+}

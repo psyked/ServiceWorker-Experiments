@@ -1,0 +1,13 @@
+{
+  "title": "Boggart Forager",
+  "image": "../img/b/boggart-forager.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Rogue",
+  "text": ", Sacrifice Boggart Forager: Target player shuffles his or her library.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "154",
+  "artist": "Ron Spencer",
+  "rating": "2.054",
+  "votes": "46"
+}

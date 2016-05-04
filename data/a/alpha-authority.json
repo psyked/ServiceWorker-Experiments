@@ -1,0 +1,13 @@
+{
+  "title": "Alpha Authority",
+  "image": "../img/a/alpha-authority.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has hexproof and can't be blocked by more than one creature.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "114",
+  "artist": "Dave Kendall",
+  "rating": "3.058",
+  "votes": "77"
+}

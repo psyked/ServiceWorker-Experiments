@@ -1,0 +1,13 @@
+{
+  "title": "Brooding Saurian",
+  "image": "../img/b/brooding-saurian.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Lizard",
+  "text": "At the beginning of each end step, each player gains control of all nontoken permanents he or she owns.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "138",
+  "artist": "rk post",
+  "rating": "3.462",
+  "votes": "13"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Kederekt Leviathan",
+  "image": "../img/k/kederekt-leviathan.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Leviathan",
+  "text": "When Kederekt Leviathan enters the battlefield, return all other nonland permanents to their owners' hands.Unearth  (: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "48",
+  "artist": "Mark Hyzer",
+  "rating": "3.289",
+  "votes": "97"
+}

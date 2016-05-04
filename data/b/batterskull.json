@@ -1,0 +1,13 @@
+{
+  "title": "Batterskull",
+  "image": "../img/b/batterskull.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact  — Equipment",
+  "text": "Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)Equipped creature gets +4/+4 and has vigilance and lifelink.: Return Batterskull to its owner's hand.Equip",
+  "expansion": "New Phyrexia",
+  "rarity": "Mythic Rare",
+  "cardNumber": "130",
+  "artist": "Mark Zug",
+  "rating": "4.234",
+  "votes": "288"
+}

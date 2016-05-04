@@ -1,0 +1,13 @@
+{
+  "title": "Devastating Dreams",
+  "image": "../img/d/devastating-dreams.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Devastating Dreams, discard X cards at random.Each player sacrifices X lands. Devastating Dreams deals X damage to each creature.",
+  "expansion": "Torment",
+  "rarity": "Rare",
+  "cardNumber": "95",
+  "artist": "Tony Szczudlo",
+  "rating": "3.743",
+  "votes": "35"
+}

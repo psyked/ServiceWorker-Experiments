@@ -1,0 +1,13 @@
+{
+  "title": "Kolaghan Monument",
+  "image": "../img/k/kolaghan-monument.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  or  to your mana pool.: Kolaghan Monument becomes a 4/4 black and red Dragon artifact creature with flying until end of turn.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "241",
+  "artist": "Daniel Ljunggren",
+  "rating": "5",
+  "votes": "0"
+}

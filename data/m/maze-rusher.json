@@ -1,0 +1,13 @@
+{
+  "title": "Maze Rusher",
+  "image": "../img/m/maze-rusher.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": "HasteMulticolored creatures you control have haste.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Common",
+  "cardNumber": "33",
+  "artist": "Yeong-Hao Han",
+  "rating": "2.833",
+  "votes": "21"
+}

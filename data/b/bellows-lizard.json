@@ -1,0 +1,13 @@
+{
+  "title": "Bellows Lizard",
+  "image": "../img/b/bellows-lizard.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Lizard",
+  "text": ": Bellows Lizard gets +1/+0 until end of turn.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "132",
+  "artist": "Jack Wang",
+  "rating": "5",
+  "votes": "0"
+}

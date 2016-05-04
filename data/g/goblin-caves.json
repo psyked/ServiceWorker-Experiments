@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Caves",
+  "image": "../img/g/goblin-caves.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landAs long as enchanted land is a basic Mountain, Goblin creatures get +0/+2.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "119",
+  "artist": "Drew Tucker",
+  "rating": "3.283",
+  "votes": "46"
+}

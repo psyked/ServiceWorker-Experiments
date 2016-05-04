@@ -1,0 +1,13 @@
+{
+  "title": "Global Ruin",
+  "image": "../img/g/global-ruin.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Each player chooses from the lands he or she controls a land of each basic land type, then sacrifices the rest.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "18",
+  "artist": "Greg Staples",
+  "rating": "4.208",
+  "votes": "48"
+}

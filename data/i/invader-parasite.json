@@ -1,0 +1,13 @@
+{
+  "title": "Invader Parasite",
+  "image": "../img/i/invader-parasite.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Insect",
+  "text": "Imprint — When Invader Parasite enters the battlefield, exile target land.Whenever a land with the same name as the exiled card enters the battlefield under an opponent's control, Invader Parasite deals 2 damage to that player.",
+  "expansion": "New Phyrexia",
+  "rarity": "Rare",
+  "cardNumber": "87",
+  "artist": "Volkan Baga",
+  "rating": "3.331",
+  "votes": "74"
+}

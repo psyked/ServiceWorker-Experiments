@@ -1,0 +1,13 @@
+{
+  "title": "Divination",
+  "image": "../img/d/divination.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Draw two cards.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "52",
+  "artist": "Howard Lyon",
+  "rating": "3.125",
+  "votes": "4"
+}

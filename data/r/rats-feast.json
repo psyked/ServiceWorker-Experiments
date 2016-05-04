@@ -1,0 +1,13 @@
+{
+  "title": "Rats' Feast",
+  "image": "../img/r/rats-feast.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Exile X target cards from a single graveyard.",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "71",
+  "artist": "Bob Petillo",
+  "rating": "2.057",
+  "votes": "35"
+}

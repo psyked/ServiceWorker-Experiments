@@ -1,0 +1,13 @@
+{
+  "title": "Geyserfield Stalker",
+  "image": "../img/g/geyserfield-stalker.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental",
+  "text": "Menace (This creature can't be blocked except by two or more creatures.)Landfall — Whenever a land enters the battlefield under your control, Geyserfield Stalker gets +2/+2 until end of turn.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "Deruchenko Alexander",
+  "rating": "5",
+  "votes": "0"
+}

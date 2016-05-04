@@ -1,0 +1,13 @@
+{
+  "title": "Magma Sliver",
+  "image": "../img/m/magma-sliver.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Sliver",
+  "text": "All Slivers have \": Target Sliver creature gets +X/+0 until end of turn, where X is the number of Slivers on the battlefield.\"",
+  "expansion": "Legions",
+  "rarity": "Rare",
+  "cardNumber": "107",
+  "artist": "Wayne England",
+  "rating": "3.972",
+  "votes": "72"
+}

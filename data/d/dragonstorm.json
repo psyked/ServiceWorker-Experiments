@@ -1,0 +1,13 @@
+{
+  "title": "Dragonstorm",
+  "image": "../img/d/dragonstorm.jpg",
+  "convertedManaCost": "9",
+  "types": "Sorcery",
+  "text": "Search your library for a Dragon permanent card and put it onto the battlefield. Then shuffle your library.Storm (When you cast this spell, copy it for each spell cast before it this turn.)",
+  "expansion": "Modern Masters",
+  "rarity": "Rare",
+  "cardNumber": "111",
+  "artist": "Kev Walker",
+  "rating": "4.268",
+  "votes": "41"
+}

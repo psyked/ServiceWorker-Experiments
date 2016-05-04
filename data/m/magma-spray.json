@@ -1,0 +1,13 @@
+{
+  "title": "Magma Spray",
+  "image": "../img/m/magma-spray.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "103",
+  "artist": "Richard Wright",
+  "rating": "3.400",
+  "votes": "30"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Patriarch's Desire",
+  "image": "../img/p/patriarchs-desire.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/-2.Threshold — Enchanted creature gets an additional +2/-2 as long as seven or more cards are in your graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "156",
+  "artist": "Eric Peterson",
+  "rating": "1.189",
+  "votes": "37"
+}

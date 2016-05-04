@@ -1,0 +1,13 @@
+{
+  "title": "Leeching Bite",
+  "image": "../img/l/leeching-bite.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +1/+1 until end of turn. Another target creature gets -1/-1 until end of turn.",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "113",
+  "artist": "Cos Koniotis",
+  "rating": "2.820",
+  "votes": "64"
+}

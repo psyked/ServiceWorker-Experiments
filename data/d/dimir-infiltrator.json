@@ -1,0 +1,13 @@
+{
+  "title": "Dimir Infiltrator",
+  "image": "../img/d/dimir-infiltrator.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": "Dimir Infiltrator can't be blocked.Transmute  (, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Common",
+  "cardNumber": "86",
+  "artist": "Jim Nelson",
+  "rating": "3.712",
+  "votes": "26"
+}

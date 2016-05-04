@@ -1,0 +1,13 @@
+{
+  "title": "Owl Familiar",
+  "image": "../img/o/owl-familiar.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Bird",
+  "text": "FlyingWhen Owl Familiar enters the battlefield, draw a card, then discard a card.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "85",
+  "artist": "Janine Johnston",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Grixis Illusionist",
+  "image": "../img/g/grixis-illusionist.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Wizard",
+  "text": ": Target land you control becomes the basic land type of your choice until end of turn.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "99",
+  "artist": "Mark Tedin",
+  "rating": "2.500",
+  "votes": "5"
+}

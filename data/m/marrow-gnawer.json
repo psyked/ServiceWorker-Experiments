@@ -1,0 +1,13 @@
+{
+  "title": "Marrow-Gnawer",
+  "image": "../img/m/marrow-gnawer.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Rat Rogue",
+  "text": "Rat creatures have fear. (They can't be blocked except by artifact creatures and/or black creatures.), Sacrifice a Rat: Put X 1/1 black Rat creature tokens onto the battlefield, where X is the number of Rats you control.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "124",
+  "artist": "Wayne Reynolds",
+  "rating": "4.033",
+  "votes": "90"
+}

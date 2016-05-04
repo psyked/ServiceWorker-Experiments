@@ -1,0 +1,13 @@
+{
+  "title": "Debtor's Pulpit",
+  "image": "../img/d/debtors-pulpit.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landEnchanted land has \": Tap target creature.\"",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "10",
+  "artist": "James Paick",
+  "rating": "1.791",
+  "votes": "74"
+}

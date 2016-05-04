@@ -1,0 +1,13 @@
+{
+  "title": "Barbarian Bully",
+  "image": "../img/b/barbarian-bully.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Barbarian",
+  "text": "Discard a card at random: Barbarian Bully gets +2/+2 until end of turn unless a player has Barbarian Bully deal 4 damage to him or her. Activate this ability only once each turn.",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "79",
+  "artist": "Mike Ploog",
+  "rating": "2.629",
+  "votes": "31"
+}

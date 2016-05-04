@@ -1,0 +1,13 @@
+{
+  "title": "Drowned Rusalka",
+  "image": "../img/d/drowned-rusalka.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Spirit",
+  "text": ", Sacrifice a creature: Discard a card, then draw a card.",
+  "expansion": "Guildpact",
+  "rarity": "Uncommon",
+  "cardNumber": "24",
+  "artist": "Dany Orizio",
+  "rating": "3.205",
+  "votes": "44"
+}

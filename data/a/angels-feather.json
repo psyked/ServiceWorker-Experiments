@@ -1,0 +1,13 @@
+{
+  "title": "Angel's Feather",
+  "image": "../img/a/angels-feather.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Whenever a player casts a white spell, you may gain 1 life.",
+  "expansion": "Duel Decks Anthology, Divine vs. Demonic",
+  "rarity": "Uncommon",
+  "cardNumber": "23",
+  "artist": "Alan Pollack",
+  "rating": "5",
+  "votes": "0"
+}

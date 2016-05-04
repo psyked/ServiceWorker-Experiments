@@ -1,0 +1,13 @@
+{
+  "title": "Acidic Soil",
+  "image": "../img/a/acidic-soil.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Acidic Soil deals damage to each player equal to the number of lands he or she controls.",
+  "expansion": "Urza's Saga",
+  "rarity": "Uncommon",
+  "cardNumber": "172",
+  "artist": "Scott M. Fischer",
+  "rating": "3.338",
+  "votes": "34"
+}

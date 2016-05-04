@@ -1,0 +1,13 @@
+{
+  "title": "Kozilek's Return",
+  "image": "../img/k/kozileks-return.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Devoid (This card has no color.)Kozilek's Return deals 2 damage to each creature.Whenever you cast an Eldrazi creature spell with converted mana cost 7 or greater, you may exile Kozilek's Return from your graveyard. If you do, Kozilek's Return deals 5 damage to each creature.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Mythic Rare",
+  "cardNumber": "98",
+  "artist": "Lius Lasahido",
+  "rating": "5",
+  "votes": "0"
+}

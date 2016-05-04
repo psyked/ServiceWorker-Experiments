@@ -1,0 +1,13 @@
+{
+  "title": "Enervate",
+  "image": "../img/e/enervate.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Tap target artifact, creature, or land.Draw a card at the beginning of the next turn's upkeep.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "47",
+  "artist": "L. A. Williams",
+  "rating": "3.625",
+  "votes": "20"
+}

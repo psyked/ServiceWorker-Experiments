@@ -1,0 +1,13 @@
+{
+  "title": "Bramble Creeper",
+  "image": "../img/b/bramble-creeper.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental",
+  "text": "Whenever Bramble Creeper attacks, it gets +5/+0 until end of turn.",
+  "expansion": "Magic 2010",
+  "rarity": "Common",
+  "cardNumber": "171",
+  "artist": "Carl Critchlow",
+  "rating": "2.138",
+  "votes": "87"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Moonlight Bargain",
+  "image": "../img/m/moonlight-bargain.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Look at the top five cards of your library. For each card, put that card into your graveyard unless you pay 2 life. Then put the rest into your hand.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "95",
+  "artist": "Nick Percival",
+  "rating": "2.860",
+  "votes": "43"
+}

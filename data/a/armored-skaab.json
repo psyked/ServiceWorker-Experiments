@@ -1,0 +1,13 @@
+{
+  "title": "Armored Skaab",
+  "image": "../img/a/armored-skaab.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie Warrior",
+  "text": "When Armored Skaab enters the battlefield, put the top four cards of your library into your graveyard.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "43",
+  "artist": "Volkan Baga",
+  "rating": "3.006",
+  "votes": "88"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Pale Rider of Trostad",
+  "image": "../img/p/pale-rideroftrostad.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": "Skulk (This creature can't be blocked by creatures with greater power.)When Pale Rider of Trostad enters the battlefield, discard a card.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "128",
+  "artist": "Seb McKinnon",
+  "rating": "5",
+  "votes": "0"
+}

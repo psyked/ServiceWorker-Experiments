@@ -1,0 +1,13 @@
+{
+  "title": "Mindstab",
+  "image": "../img/m/mindstab.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Target player discards three cards.Suspend 4— (Rather than cast this card from your hand, you may pay  and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "119",
+  "artist": "Mark Tedin",
+  "rating": "2.625",
+  "votes": "40"
+}

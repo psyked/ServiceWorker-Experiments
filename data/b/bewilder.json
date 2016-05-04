@@ -1,0 +1,13 @@
+{
+  "title": "Bewilder",
+  "image": "../img/b/bewilder.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Target creature gets -3/-0 until end of turn.Draw a card.",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "49",
+  "artist": "Ralph Horsley",
+  "rating": "1.288",
+  "votes": "33"
+}

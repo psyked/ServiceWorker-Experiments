@@ -1,0 +1,13 @@
+{
+  "title": "Dunerider Outlaw",
+  "image": "../img/d/dunerider-outlaw.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Rebel Rogue",
+  "text": "Protection from greenAt the beginning of each end step, if Dunerider Outlaw dealt damage to an opponent this turn, put a +1/+1 counter on it.",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "86",
+  "artist": "Alan Pollack",
+  "rating": "3.588",
+  "votes": "34"
+}

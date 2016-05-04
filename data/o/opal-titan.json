@@ -1,0 +1,13 @@
+{
+  "title": "Opal Titan",
+  "image": "../img/o/opal-titan.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "When an opponent casts a creature spell, if Opal Titan is an enchantment, Opal Titan becomes a 4/4 Giant creature with protection from each of that spell's colors.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "26",
+  "artist": "Paolo Parente",
+  "rating": "4.267",
+  "votes": "45"
+}

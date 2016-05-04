@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Mutant",
+  "image": "../img/g/goblin-mutant.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Goblin Mutant",
+  "text": "TrampleGoblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.Goblin Mutant can't block creatures with power 3 or greater.",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "96",
+  "artist": "Daniel Gelon",
+  "rating": "2.900",
+  "votes": "25"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Confessor",
+  "image": "../img/c/confessor.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": "Whenever a player discards a card, you may gain 1 life.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "15",
+  "artist": "John Avon",
+  "rating": "2.694",
+  "votes": "31"
+}

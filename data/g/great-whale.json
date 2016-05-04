@@ -1,0 +1,13 @@
+{
+  "title": "Great Whale",
+  "image": "../img/g/great-whale.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Whale",
+  "text": "When Great Whale enters the battlefield, untap up to seven lands.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "77",
+  "artist": "Bob Eggleton",
+  "rating": "4.488",
+  "votes": "83"
+}

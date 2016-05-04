@@ -1,0 +1,13 @@
+{
+  "title": "Divert",
+  "image": "../img/d/divert.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Change the target of target spell with a single target unless that spell's controller pays .",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "82",
+  "artist": "Christopher Moeller",
+  "rating": "4.241",
+  "votes": "29"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Interpret the Signs",
+  "image": "../img/i/interpret-thesigns.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Scry 3, then reveal the top card of your library. Draw cards equal to that card's converted mana cost. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "43",
+  "artist": "Cynthia Sheppard",
+  "rating": "2.857",
+  "votes": "21"
+}

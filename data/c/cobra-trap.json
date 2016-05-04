@@ -1,0 +1,13 @@
+{
+  "title": "Cobra Trap",
+  "image": "../img/c/cobra-trap.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant  — Trap",
+  "text": "If a noncreature permanent under your control was destroyed this turn by a spell or ability an opponent controlled, you may pay  rather than pay Cobra Trap's mana cost.Put four 1/1 green Snake creature tokens onto the battlefield.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "180",
+  "artist": "Scott Chou",
+  "rating": "5",
+  "votes": "0"
+}

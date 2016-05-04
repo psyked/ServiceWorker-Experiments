@@ -1,0 +1,13 @@
+{
+  "title": "Ambuscade Shaman",
+  "image": "../img/a/ambuscade-shaman.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Orc Shaman",
+  "text": "Whenever Ambuscade Shaman or another creature enters the battlefield under your control, that creature gets +2/+2 until end of turn.Dash  (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "87",
+  "artist": "Anthony Palumbo",
+  "rating": "5",
+  "votes": "0"
+}

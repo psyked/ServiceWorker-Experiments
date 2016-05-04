@@ -1,0 +1,13 @@
+{
+  "title": "Ghost Quarter",
+  "image": "../img/g/ghost-quarter.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool., Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her library for a basic land card, put it onto the battlefield, then shuffle his or her library.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "285",
+  "artist": "Peter Mohrbacher",
+  "rating": "5",
+  "votes": "0"
+}

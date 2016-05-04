@@ -1,0 +1,13 @@
+{
+  "title": "Immortal Coil",
+  "image": "../img/i/immortal-coil.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ", Exile two cards from your graveyard: Draw a card.If damage would be dealt to you, prevent that damage. Exile a card from your graveyard for each 1 damage prevented this way.When there are no cards in your graveyard, you lose the game.",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "79",
+  "artist": "Dan Scott",
+  "rating": "2.966",
+  "votes": "88"
+}

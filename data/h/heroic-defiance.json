@@ -1,0 +1,13 @@
+{
+  "title": "Heroic Defiance",
+  "image": "../img/h/heroic-defiance.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +3/+3 unless it shares a color with the most common color among all permanents or a color tied for most common.",
+  "expansion": "Planeshift",
+  "rarity": "Common",
+  "cardNumber": "6",
+  "artist": "Terese Nielsen",
+  "rating": "2.568",
+  "votes": "22"
+}

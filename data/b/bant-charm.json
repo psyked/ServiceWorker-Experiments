@@ -1,0 +1,13 @@
+{
+  "title": "Bant Charm",
+  "image": "../img/b/bant-charm.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose one —• Destroy target artifact.• Put target creature on the bottom of its owner's library.• Counter target instant spell.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "155",
+  "artist": "Randy Gallegos",
+  "rating": "3.775",
+  "votes": "120"
+}

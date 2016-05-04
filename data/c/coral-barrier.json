@@ -1,0 +1,13 @@
+{
+  "title": "Coral Barrier",
+  "image": "../img/c/coral-barrier.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)When Coral Barrier enters the battlefield, put a 1/1 blue Squid creature token with islandwalk onto the battlefield. (It can't be blocked as long as defending player controls an Island.)",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "49",
+  "artist": "Florian de Gesincourt",
+  "rating": "2.600",
+  "votes": "5"
+}

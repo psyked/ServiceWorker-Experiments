@@ -1,0 +1,13 @@
+{
+  "title": "Kavu Climber",
+  "image": "../img/k/kavu-climber.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Kavu",
+  "text": "When Kavu Climber enters the battlefield, draw a card.",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "273",
+  "artist": "Rob Alexander",
+  "rating": "3.118",
+  "votes": "38"
+}

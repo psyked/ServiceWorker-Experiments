@@ -1,0 +1,13 @@
+{
+  "title": "Rishadan Brigand",
+  "image": "../img/r/rishadan-brigand.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Pirate",
+  "text": "FlyingWhen Rishadan Brigand enters the battlefield, each opponent sacrifices a permanent unless he or she pays .Rishadan Brigand can block only creatures with flying.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "92",
+  "artist": "Scott Hampton",
+  "rating": "3.750",
+  "votes": "26"
+}

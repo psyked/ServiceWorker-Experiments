@@ -1,0 +1,13 @@
+{
+  "title": "Desertion",
+  "image": "../img/d/desertion.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Counter target spell. If an artifact or creature spell is countered this way, put that card onto the battlefield under your control instead of into its owner's graveyard.",
+  "expansion": "Commander's Arsenal",
+  "rarity": "Rare",
+  "cardNumber": "4",
+  "artist": "Richard Kane Ferguson",
+  "rating": "4.250",
+  "votes": "28"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Inkfathom Divers",
+  "image": "../img/i/inkfathom-divers.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Merfolk Soldier",
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)When Inkfathom Divers enters the battlefield, look at the top four cards of your library, then put them back in any order.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "70",
+  "artist": "Steven Belledin",
+  "rating": "2.450",
+  "votes": "30"
+}

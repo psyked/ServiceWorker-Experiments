@@ -1,0 +1,13 @@
+{
+  "title": "Essence Drain",
+  "image": "../img/e/essence-drain.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Essence Drain deals 3 damage to target creature or player and you gain 3 life.",
+  "expansion": "Magic 2013",
+  "rarity": "Common",
+  "cardNumber": "93",
+  "artist": "Jim Nelson",
+  "rating": "1.867",
+  "votes": "49"
+}

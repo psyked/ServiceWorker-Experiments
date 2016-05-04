@@ -1,0 +1,13 @@
+{
+  "title": "Manta Ray",
+  "image": "../img/m/manta-ray.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Fish",
+  "text": "Manta Ray can't attack unless defending player controls an Island.Manta Ray can't be blocked except by blue creatures.When you control no Islands, sacrifice Manta Ray.",
+  "expansion": "Weatherlight",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Una Fricker",
+  "rating": "3.023",
+  "votes": "43"
+}

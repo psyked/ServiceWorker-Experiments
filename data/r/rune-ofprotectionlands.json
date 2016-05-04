@@ -1,0 +1,13 @@
+{
+  "title": "Rune of Protection: Lands",
+  "image": "../img/r/rune-ofprotectionlands.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": ": The next time a land source of your choice would deal damage to you this turn, prevent that damage.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "39",
+  "artist": "Scott M. Fischer",
+  "rating": "2.412",
+  "votes": "51"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Fire Fiend",
+  "image": "../img/g/goblin-firefiend.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Goblin Berserker",
+  "text": "HasteGoblin Fire Fiend must be blocked if able.: Goblin Fire Fiend gets +1/+0 until end of turn.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "127",
+  "artist": "Paolo Parente",
+  "rating": "1.543",
+  "votes": "47"
+}

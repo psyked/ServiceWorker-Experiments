@@ -1,0 +1,13 @@
+{
+  "title": "Mogg Assassin",
+  "image": "../img/m/mogg-assassin.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Assassin",
+  "text": ": You choose target creature an opponent controls, and that opponent chooses target creature. Flip a coin. If you win the flip, destroy the creature you chose. If you lose the flip, destroy the creature your opponent chose.",
+  "expansion": "Exodus",
+  "rarity": "Uncommon",
+  "cardNumber": "88",
+  "artist": "Dermot Power",
+  "rating": "3.036",
+  "votes": "28"
+}

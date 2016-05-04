@@ -1,0 +1,13 @@
+{
+  "title": "Bant Battlemage",
+  "image": "../img/b/bant-battlemage.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": ", : Target creature gains trample until end of turn., : Target creature gains flying until end of turn.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "5",
+  "artist": "Donato Giancola",
+  "rating": "3.000",
+  "votes": "63"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Lumengrid Sentinel",
+  "image": "../img/l/lumengrid-sentinel.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "FlyingWhenever an artifact enters the battlefield under your control, you may tap target permanent.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "40",
+  "artist": "Scott M. Fischer",
+  "rating": "3.800",
+  "votes": "30"
+}

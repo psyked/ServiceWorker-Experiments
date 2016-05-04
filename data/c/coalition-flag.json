@@ -1,0 +1,13 @@
+{
+  "title": "Coalition Flag",
+  "image": "../img/c/coalition-flag.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature you controlEnchanted creature is a Flagbearer.While choosing targets as part of casting a spell or activating an ability, your opponents must choose at least one Flagbearer on the battlefield if able.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "2",
+  "artist": "Darrell Riche",
+  "rating": "4.088",
+  "votes": "34"
+}

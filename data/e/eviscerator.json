@@ -1,0 +1,13 @@
+{
+  "title": "Eviscerator",
+  "image": "../img/e/eviscerator.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Horror",
+  "text": "Protection from whiteWhen Eviscerator enters the battlefield, you lose 5 life.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Rare",
+  "cardNumber": "52",
+  "artist": "Michael Sutfin",
+  "rating": "3.033",
+  "votes": "45"
+}

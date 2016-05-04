@@ -1,0 +1,13 @@
+{
+  "title": "Elvish Vanguard",
+  "image": "../img/e/elvish-vanguard.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Warrior",
+  "text": "Whenever another Elf enters the battlefield, put a +1/+1 counter on Elvish Vanguard.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "259",
+  "artist": "Glen Angus",
+  "rating": "4.273",
+  "votes": "44"
+}

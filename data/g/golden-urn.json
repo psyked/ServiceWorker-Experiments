@@ -1,0 +1,13 @@
+{
+  "title": "Golden Urn",
+  "image": "../img/g/golden-urn.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, you may put a charge counter on Golden Urn., Sacrifice Golden Urn: You gain life equal to the number of charge counters on Golden Urn.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "158",
+  "artist": "Charles Urbach",
+  "rating": "2.659",
+  "votes": "66"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Beasts of Bogardan",
+  "image": "../img/b/beasts-ofbogardan.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast",
+  "text": "Protection from redBeasts of Bogardan gets +1/+1 as long as an opponent controls a nontoken white permanent.",
+  "expansion": "Chronicles",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Daniel Gelon",
+  "rating": "2.440",
+  "votes": "42"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Arc Runner",
+  "image": "../img/a/arc-runner.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental Ox",
+  "text": "Haste (This creature can attack and  as soon as it comes under your control.)At the beginning of the end step, sacrifice Arc Runner.",
+  "expansion": "Magic 2011",
+  "rarity": "Common",
+  "cardNumber": "123",
+  "artist": "Nils Hamm",
+  "rating": "3.006",
+  "votes": "89"
+}

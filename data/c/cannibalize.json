@@ -1,0 +1,13 @@
+{
+  "title": "Cannibalize",
+  "image": "../img/c/cannibalize.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Choose two target creatures controlled by the same player. Exile one of those creatures and put two +1/+1 counters on the other.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "83",
+  "artist": "Robert Bliss",
+  "rating": "5",
+  "votes": "0"
+}

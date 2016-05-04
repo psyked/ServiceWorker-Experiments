@@ -1,0 +1,13 @@
+{
+  "title": "Prismatic Boon",
+  "image": "../img/p/prismatic-boon.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Choose a color. X target creatures gain protection from the chosen color until end of turn.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Thomas Gianni",
+  "rating": "3.065",
+  "votes": "31"
+}

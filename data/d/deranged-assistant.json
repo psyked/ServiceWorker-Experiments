@@ -1,0 +1,13 @@
+{
+  "title": "Deranged Assistant",
+  "image": "../img/d/deranged-assistant.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": ", Put the top card of your library into your graveyard: Add  to your mana pool.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "52",
+  "artist": "Nils Hamm",
+  "rating": "3.774",
+  "votes": "73"
+}

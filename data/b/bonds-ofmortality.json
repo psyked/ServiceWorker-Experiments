@@ -1,0 +1,13 @@
+{
+  "title": "Bonds of Mortality",
+  "image": "../img/b/bonds-ofmortality.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "When Bonds of Mortality enters the battlefield, draw a card.: Creatures your opponents control lose hexproof and indestructible until end of turn.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "128",
+  "artist": "Chris Rallis",
+  "rating": "5",
+  "votes": "0"
+}

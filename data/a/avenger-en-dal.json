@@ -1,0 +1,13 @@
+{
+  "title": "Avenger en-Dal",
+  "image": "../img/a/avenger-en-dal.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Spellshaper",
+  "text": ", , Discard a card: Exile target attacking creature. Its controller gains life equal to its toughness.",
+  "expansion": "Nemesis",
+  "rarity": "Rare",
+  "cardNumber": "2",
+  "artist": "Ron Spencer",
+  "rating": "3.328",
+  "votes": "29"
+}

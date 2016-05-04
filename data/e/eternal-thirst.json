@@ -1,0 +1,13 @@
+{
+  "title": "Eternal Thirst",
+  "image": "../img/e/eternal-thirst.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has lifelink and \"Whenever a creature an opponent controls dies, put a +1/+1 counter on this creature.\" (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "95",
+  "artist": "Clint Cearley",
+  "rating": "2.750",
+  "votes": "8"
+}

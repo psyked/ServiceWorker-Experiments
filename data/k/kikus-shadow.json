@@ -1,0 +1,13 @@
+{
+  "title": "Kiku's Shadow",
+  "image": "../img/k/kikus-shadow.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target creature deals damage to itself equal to its power.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "77",
+  "artist": "Pete Venters",
+  "rating": "3.902",
+  "votes": "51"
+}

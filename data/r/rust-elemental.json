@@ -1,0 +1,13 @@
+{
+  "title": "Rust Elemental",
+  "image": "../img/r/rust-elemental.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Elemental",
+  "text": "FlyingAt the beginning of your upkeep, sacrifice an artifact other than Rust Elemental. If you can't, tap Rust Elemental and you lose 4 life.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "234",
+  "artist": "Arnie Swekel",
+  "rating": "1.729",
+  "votes": "48"
+}

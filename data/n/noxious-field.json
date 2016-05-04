@@ -1,0 +1,13 @@
+{
+  "title": "Noxious Field",
+  "image": "../img/n/noxious-field.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landEnchanted land has \": This land deals 1 damage to each creature and each player.\"",
+  "expansion": "Prophecy",
+  "rarity": "Uncommon",
+  "cardNumber": "70",
+  "artist": "Eric Peterson",
+  "rating": "3.667",
+  "votes": "33"
+}

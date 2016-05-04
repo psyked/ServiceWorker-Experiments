@@ -1,0 +1,13 @@
+{
+  "title": "Horizon Scholar",
+  "image": "../img/h/horizon-scholar.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Sphinx",
+  "text": "FlyingWhen Horizon Scholar enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "51",
+  "artist": "Karl Kopinski",
+  "rating": "3.156",
+  "votes": "32"
+}

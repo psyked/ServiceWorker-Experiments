@@ -1,0 +1,13 @@
+{
+  "title": "Knollspine Invocation",
+  "image": "../img/k/knollspine-invocation.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": ", Discard a card with converted mana cost X: Knollspine Invocation deals X damage to target creature or player.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "99",
+  "artist": "Dave Dorman",
+  "rating": "3.016",
+  "votes": "32"
+}

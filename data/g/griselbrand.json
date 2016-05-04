@@ -1,0 +1,13 @@
+{
+  "title": "Griselbrand",
+  "image": "../img/g/griselbrand.jpg",
+  "convertedManaCost": "8",
+  "types": "Legendary Creature  — Demon",
+  "text": "Flying, lifelinkPay 7 life: Draw seven cards.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Mythic Rare",
+  "cardNumber": "106",
+  "artist": "Igor Kieryluk",
+  "rating": "4.311",
+  "votes": "262"
+}

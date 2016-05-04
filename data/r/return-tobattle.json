@@ -1,0 +1,13 @@
+{
+  "title": "Return to Battle",
+  "image": "../img/r/return-tobattle.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Return target creature card from your graveyard to your hand.",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Common",
+  "cardNumber": "81",
+  "artist": "Ding Songjian",
+  "rating": "3.045",
+  "votes": "22"
+}

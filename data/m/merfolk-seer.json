@@ -1,0 +1,13 @@
+{
+  "title": "Merfolk Seer",
+  "image": "../img/m/merfolk-seer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Merfolk Wizard",
+  "text": "When Merfolk Seer dies, you may pay . If you do, draw a card.",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Steve Luke",
+  "rating": "2.269",
+  "votes": "26"
+}

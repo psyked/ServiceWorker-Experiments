@@ -1,0 +1,13 @@
+{
+  "title": "Elven Rite",
+  "image": "../img/e/elven-rite.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Distribute two +1/+1 counters among one or two target creatures.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "169",
+  "artist": "Jeff Miracola",
+  "rating": "5",
+  "votes": "0"
+}

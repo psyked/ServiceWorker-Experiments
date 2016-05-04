@@ -1,0 +1,13 @@
+{
+  "title": "Moonveil Dragon",
+  "image": "../img/m/moonveil-dragon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "Flying: Each creature you control gets +1/+0 until end of turn.",
+  "expansion": "Dark Ascension",
+  "rarity": "Mythic Rare",
+  "cardNumber": "99",
+  "artist": "Todd Lockwood",
+  "rating": "3.962",
+  "votes": "146"
+}

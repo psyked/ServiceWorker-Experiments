@@ -1,0 +1,13 @@
+{
+  "title": "Barrin's Spite",
+  "image": "../img/b/barrins-spite.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Choose two target creatures controlled by the same player. Their controller chooses and sacrifices one of them. Return the other to its owner's hand.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "235",
+  "artist": "Terese Nielsen",
+  "rating": "3.688",
+  "votes": "48"
+}

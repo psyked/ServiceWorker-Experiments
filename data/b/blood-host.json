@@ -1,0 +1,13 @@
+{
+  "title": "Blood Host",
+  "image": "../img/b/blood-host.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Vampire",
+  "text": ", Sacrifice another creature: Put a +1/+1 counter on Blood Host and you gain 2 life.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "87",
+  "artist": "Cynthia Sheppard",
+  "rating": "2.750",
+  "votes": "6"
+}

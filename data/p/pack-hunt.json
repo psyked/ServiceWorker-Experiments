@@ -1,0 +1,13 @@
+{
+  "title": "Pack Hunt",
+  "image": "../img/p/pack-hunt.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Search your library for up to three cards with the same name as target creature, reveal them, and put them into your hand. Then shuffle your library.",
+  "expansion": "Nemesis",
+  "rarity": "Rare",
+  "cardNumber": "109",
+  "artist": "Sam Wood",
+  "rating": "4.051",
+  "votes": "49"
+}

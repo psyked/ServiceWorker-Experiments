@@ -1,0 +1,13 @@
+{
+  "title": "Blowfly Infestation",
+  "image": "../img/b/blowfly-infestation.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a creature dies, if it had a -1/-1 counter on it, put a -1/-1 counter on target creature.",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "58",
+  "artist": "Drew Tucker",
+  "rating": "3.398",
+  "votes": "59"
+}

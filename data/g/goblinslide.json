@@ -1,0 +1,13 @@
+{
+  "title": "Goblinslide",
+  "image": "../img/g/goblinslide.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever you cast a noncreature spell, you may pay . If you do, put a 1/1 red Goblin creature token with haste onto the battlefield.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "109",
+  "artist": "Kev Walker",
+  "rating": "2.667",
+  "votes": "3"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Heat Shimmer",
+  "image": "../img/h/heat-shimmer.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Put a token that's a copy of target creature onto the battlefield. That token has haste and \"At the beginning of the end step, exile this permanent.\"",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "175",
+  "artist": "Franz Vohwinkel",
+  "rating": "3.000",
+  "votes": "30"
+}

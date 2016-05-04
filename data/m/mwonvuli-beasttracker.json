@@ -1,0 +1,13 @@
+{
+  "title": "Mwonvuli Beast Tracker",
+  "image": "../img/m/mwonvuli-beasttracker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Scout",
+  "text": "When Mwonvuli Beast Tracker enters the battlefield, search your library for a creature card with deathtouch, hexproof, reach, or trample and reveal it. Shuffle your library and put that card on top of it.",
+  "expansion": "Magic 2013",
+  "rarity": "Uncommon",
+  "cardNumber": "177",
+  "artist": "Zoltan Boros",
+  "rating": "3.724",
+  "votes": "49"
+}

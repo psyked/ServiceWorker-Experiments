@@ -1,0 +1,13 @@
+{
+  "title": "Mantis Engine",
+  "image": "../img/m/mantis-engine.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Insect",
+  "text": ": Mantis Engine gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.): Mantis Engine gains first strike until end of turn. (It deals combat damage before creatures without first strike.)",
+  "expansion": "Tenth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "333",
+  "artist": "John Zeleznik",
+  "rating": "2.727",
+  "votes": "33"
+}

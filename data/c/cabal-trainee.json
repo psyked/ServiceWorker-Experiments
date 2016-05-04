@@ -1,0 +1,13 @@
+{
+  "title": "Cabal Trainee",
+  "image": "../img/c/cabal-trainee.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Minion",
+  "text": "Sacrifice Cabal Trainee: Target creature gets -2/-0 until end of turn.",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "63",
+  "artist": "Pete Venters",
+  "rating": "3.417",
+  "votes": "42"
+}

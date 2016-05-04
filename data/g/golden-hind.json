@@ -1,0 +1,13 @@
+{
+  "title": "Golden Hind",
+  "image": "../img/g/golden-hind.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elk",
+  "text": ": Add  to your mana pool.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "124",
+  "artist": "Cyril Van Der Haegen",
+  "rating": "3.389",
+  "votes": "27"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Pollenbright Wings",
+  "image": "../img/p/pollenbright-wings.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has flying.Whenever enchanted creature deals combat damage to a player, put that many 1/1 green Saproling creature tokens onto the battlefield.",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "103",
+  "artist": "Terese Nielsen",
+  "rating": "2.696",
+  "votes": "23"
+}

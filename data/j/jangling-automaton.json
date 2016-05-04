@@ -1,0 +1,13 @@
+{
+  "title": "Jangling Automaton",
+  "image": "../img/j/jangling-automaton.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Construct",
+  "text": "Whenever Jangling Automaton attacks, untap all creatures defending player controls.",
+  "expansion": "Weatherlight",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Adam Rex",
+  "rating": "2.862",
+  "votes": "40"
+}

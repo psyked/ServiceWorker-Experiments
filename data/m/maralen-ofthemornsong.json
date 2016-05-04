@@ -1,0 +1,13 @@
+{
+  "title": "Maralen of the Mornsong",
+  "image": "../img/m/maralen-ofthemornsong.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Creature  — Elf Wizard",
+  "text": "Players can't draw cards.At the beginning of each player's draw step, that player loses 3 life, searches his or her library for a card, puts it into his or her hand, then shuffles his or her library.",
+  "expansion": "Morningtide",
+  "rarity": "Rare",
+  "cardNumber": "65",
+  "artist": "Mark Zug",
+  "rating": "3.765",
+  "votes": "119"
+}

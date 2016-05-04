@@ -1,0 +1,13 @@
+{
+  "title": "Rubbleback Rhino",
+  "image": "../img/r/rubbleback-rhino.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Rhino",
+  "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "132",
+  "artist": "Johann Bodin",
+  "rating": "2.239",
+  "votes": "46"
+}

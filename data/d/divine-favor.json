@@ -1,0 +1,13 @@
+{
+  "title": "Divine Favor",
+  "image": "../img/d/divine-favor.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Divine Favor enters the battlefield, you gain 3 life.Enchanted creature gets +1/+3.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "10",
+  "artist": "Allen Williams",
+  "rating": "2.167",
+  "votes": "6"
+}

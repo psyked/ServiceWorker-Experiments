@@ -1,0 +1,13 @@
+{
+  "title": "Pegasus Charger",
+  "image": "../img/p/pegasus-charger.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Pegasus",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)First strike (This creature deals combat damage before creatures without first strike.)",
+  "expansion": "Ninth Edition",
+  "rarity": "Common",
+  "cardNumber": "34",
+  "artist": "Val Mayerik",
+  "rating": "3.314",
+  "votes": "35"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mortal Combat",
+  "image": "../img/m/mortal-combat.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, if twenty or more creature cards are in your graveyard, you win the game.",
+  "expansion": "Tenth Edition",
+  "rarity": "Rare",
+  "cardNumber": "160",
+  "artist": "Mike Ploog",
+  "rating": "4.000",
+  "votes": "76"
+}

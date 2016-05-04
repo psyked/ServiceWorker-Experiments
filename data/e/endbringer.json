@@ -1,0 +1,13 @@
+{
+  "title": "Endbringer",
+  "image": "../img/e/endbringer.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Eldrazi",
+  "text": "Untap Endbringer during each other player's untap step.: Endbringer deals 1 damage to target creature or player., : Target creature can't attack or block this turn., : Draw a card.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Rare",
+  "cardNumber": "3",
+  "artist": "Vincent Proce",
+  "rating": "5",
+  "votes": "0"
+}

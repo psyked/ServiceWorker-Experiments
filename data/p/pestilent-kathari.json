@@ -1,0 +1,13 @@
+{
+  "title": "Pestilent Kathari",
+  "image": "../img/p/pestilent-kathari.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Bird Warrior",
+  "text": "FlyingDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.): Pestilent Kathari gains first strike until end of turn.",
+  "expansion": "Conflux",
+  "rarity": "Common",
+  "cardNumber": "50",
+  "artist": "Dave Kendall",
+  "rating": "3.000",
+  "votes": "47"
+}

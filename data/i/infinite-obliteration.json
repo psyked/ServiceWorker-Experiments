@@ -1,0 +1,13 @@
+{
+  "title": "Infinite Obliteration",
+  "image": "../img/i/infinite-obliteration.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Name a creature card. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles his or her library.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "103",
+  "artist": "Yeong-Hao Han",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Horned Cheetah",
+  "image": "../img/h/horned-cheetah.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Cat",
+  "text": "Whenever Horned Cheetah deals damage, you gain that much life.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "251",
+  "artist": "John Matson",
+  "rating": "2.309",
+  "votes": "34"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Gatherer of Graces",
+  "image": "../img/g/gatherer-ofgraces.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Druid",
+  "text": "Gatherer of Graces gets +1/+1 for each Aura attached to it.Sacrifice an Aura: Regenerate Gatherer of Graces.",
+  "expansion": "Guildpact",
+  "rarity": "Uncommon",
+  "cardNumber": "85",
+  "artist": "Heather Hudson",
+  "rating": "2.988",
+  "votes": "41"
+}

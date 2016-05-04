@@ -1,0 +1,13 @@
+{
+  "title": "Frightshroud Courier",
+  "image": "../img/f/frightshroud-courier.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": "You may choose not to untap Frightshroud Courier during your untap step., : Target Zombie creature gets +2/+2 and has fear for as long as Frightshroud Courier remains tapped. (It can't be blocked except by artifact creatures and/or black creatures.)",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "149",
+  "artist": "Ron Spears",
+  "rating": "2.833",
+  "votes": "24"
+}

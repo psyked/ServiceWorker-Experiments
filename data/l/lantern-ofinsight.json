@@ -1,0 +1,13 @@
+{
+  "title": "Lantern of Insight",
+  "image": "../img/l/lantern-ofinsight.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": "Players play with the top card of their libraries revealed., Sacrifice Lantern of Insight: Target player shuffles his or her library.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "135",
+  "artist": "Tim Hildebrandt",
+  "rating": "3.977",
+  "votes": "44"
+}

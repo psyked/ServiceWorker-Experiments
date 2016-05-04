@@ -1,0 +1,13 @@
+{
+  "title": "Harmonic Sliver",
+  "image": "../img/h/harmonic-sliver.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Sliver",
+  "text": "All Slivers have \"When this permanent enters the battlefield, destroy target artifact or enchantment.\"",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "240",
+  "artist": "Luca Zontini",
+  "rating": "4.234",
+  "votes": "62"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Nettlevine Blight",
+  "image": "../img/n/nettlevine-blight.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature or landEnchanted permanent has \"At the beginning of your end step, sacrifice this permanent and attach Nettlevine Blight to a creature or land you control.\"",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "131",
+  "artist": "Michael Sutfin",
+  "rating": "3.785",
+  "votes": "65"
+}

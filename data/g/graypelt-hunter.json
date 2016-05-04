@@ -1,0 +1,13 @@
+{
+  "title": "Graypelt Hunter",
+  "image": "../img/g/graypelt-hunter.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Warrior Ally",
+  "text": "TrampleWhenever Graypelt Hunter or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Graypelt Hunter.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "13",
+  "artist": "Svetlin Velinov",
+  "rating": "5",
+  "votes": "0"
+}

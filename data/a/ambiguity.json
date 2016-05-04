@@ -1,0 +1,13 @@
+{
+  "title": "Ambiguity",
+  "image": "../img/a/ambiguity.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever a player plays a spell that counters a spell that has been played or a player plays a spell that comes into play with counters, that player may counter the next spell played or put an additional counter on a permanent that has already been played, but not countered.",
+  "expansion": "Unhinged",
+  "rarity": "Rare",
+  "cardNumber": "24",
+  "artist": "Stephen Daniele",
+  "rating": "4.321",
+  "votes": "53"
+}

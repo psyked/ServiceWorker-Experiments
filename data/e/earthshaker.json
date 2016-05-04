@@ -1,0 +1,13 @@
+{
+  "title": "Earthshaker",
+  "image": "../img/e/earthshaker.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Spirit",
+  "text": "Whenever you cast a Spirit or Arcane spell, Earthshaker deals 2 damage to each creature without flying.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "165",
+  "artist": "Ron Spencer",
+  "rating": "2.821",
+  "votes": "39"
+}

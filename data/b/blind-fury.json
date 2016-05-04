@@ -1,0 +1,13 @@
+{
+  "title": "Blind Fury",
+  "image": "../img/b/blind-fury.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "All creatures lose trample until end of turn. If a creature would deal combat damage to a creature this turn, it deals double that damage to that creature instead.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "John Coulthart",
+  "rating": "3.530",
+  "votes": "33"
+}

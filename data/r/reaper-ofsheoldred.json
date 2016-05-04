@@ -1,0 +1,13 @@
+{
+  "title": "Reaper of Sheoldred",
+  "image": "../img/r/reaper-ofsheoldred.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Horror",
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)Whenever a source deals damage to Reaper of Sheoldred, that source's controller gets a poison counter.",
+  "expansion": "New Phyrexia",
+  "rarity": "Uncommon",
+  "cardNumber": "72",
+  "artist": "Stephan Martiniere",
+  "rating": "3.395",
+  "votes": "81"
+}

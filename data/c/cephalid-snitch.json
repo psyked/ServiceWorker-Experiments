@@ -1,0 +1,13 @@
+{
+  "title": "Cephalid Snitch",
+  "image": "../img/c/cephalid-snitch.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Cephalid Wizard",
+  "text": "Sacrifice Cephalid Snitch: Target creature loses protection from black until end of turn.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "30",
+  "artist": "Jerry Tiritilli",
+  "rating": "0.985",
+  "votes": "67"
+}

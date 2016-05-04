@@ -1,0 +1,13 @@
+{
+  "title": "Hermetic Study",
+  "image": "../img/h/hermetic-study.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has \": This creature deals 1 damage to target creature or player.\"",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "78",
+  "artist": "Ron Spencer",
+  "rating": "3.698",
+  "votes": "43"
+}

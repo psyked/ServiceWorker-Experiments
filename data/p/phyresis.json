@@ -1,0 +1,13 @@
+{
+  "title": "Phyresis",
+  "image": "../img/p/phyresis.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has infect. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "49",
+  "artist": "Izzy",
+  "rating": "3.341",
+  "votes": "104"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Chameleon Colossus",
+  "image": "../img/c/chameleon-colossus.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Shapeshifter",
+  "text": "Changeling (This card is every creature type.)Protection from black: Chameleon Colossus gets +X/+X until end of turn, where X is its power.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "178",
+  "artist": "Darrell Riche",
+  "rating": "5",
+  "votes": "0"
+}

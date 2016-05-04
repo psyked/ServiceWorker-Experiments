@@ -1,0 +1,13 @@
+{
+  "title": "Cyclopean Mummy",
+  "image": "../img/c/cyclopean-mummy.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie",
+  "text": "When Cyclopean Mummy dies, exile it.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "72",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "1.764",
+  "votes": "55"
+}

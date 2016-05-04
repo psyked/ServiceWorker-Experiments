@@ -1,0 +1,13 @@
+{
+  "title": "Gorilla Shaman",
+  "image": "../img/g/gorilla-shaman.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Ape Shaman",
+  "text": ": Destroy target noncreature artifact with converted mana cost X.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "129",
+  "artist": "Anthony S. Waters",
+  "rating": "4.455",
+  "votes": "67"
+}

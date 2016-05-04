@@ -1,0 +1,13 @@
+{
+  "title": "Assassin's Blade",
+  "image": "../img/a/assassins-blade.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Cast Assassin's Blade only during the declare attackers step and only if you've been attacked this step.Destroy target nonblack attacking creature.",
+  "expansion": "Portal",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "John Matson",
+  "rating": "3.093",
+  "votes": "27"
+}

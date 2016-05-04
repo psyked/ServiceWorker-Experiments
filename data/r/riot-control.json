@@ -1,0 +1,13 @@
+{
+  "title": "Riot Control",
+  "image": "../img/r/riot-control.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "You gain 1 life for each creature your opponents control. Prevent all damage that would be dealt to you this turn.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Common",
+  "cardNumber": "6",
+  "artist": "Slawomir Maniak",
+  "rating": "3.638",
+  "votes": "40"
+}

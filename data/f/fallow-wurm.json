@@ -1,0 +1,13 @@
+{
+  "title": "Fallow Wurm",
+  "image": "../img/f/fallow-wurm.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wurm",
+  "text": "When Fallow Wurm enters the battlefield, sacrifice it unless you discard a land card.",
+  "expansion": "Weatherlight",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Stephen L. Walsh",
+  "rating": "3.155",
+  "votes": "42"
+}

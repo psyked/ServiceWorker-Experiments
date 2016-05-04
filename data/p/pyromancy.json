@@ -1,0 +1,13 @@
+{
+  "title": "Pyromancy",
+  "image": "../img/p/pyromancy.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": ", Discard a card at random: Pyromancy deals damage to target creature or player equal to the converted mana cost of the discarded card.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Rare",
+  "cardNumber": "88",
+  "artist": "Quinton Hoover",
+  "rating": "3.839",
+  "votes": "31"
+}

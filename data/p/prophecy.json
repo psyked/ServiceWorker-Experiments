@@ -1,0 +1,13 @@
+{
+  "title": "Prophecy",
+  "image": "../img/p/prophecy.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Reveal the top card of target opponent's library. If it's a land, you gain 1 life. Then that player shuffles his or her library.Draw a card at the beginning of the next turn's upkeep.",
+  "expansion": "Homelands",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Christopher Rush",
+  "rating": "1.622",
+  "votes": "45"
+}

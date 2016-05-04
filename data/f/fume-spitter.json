@@ -1,0 +1,13 @@
+{
+  "title": "Fume Spitter",
+  "image": "../img/f/fume-spitter.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Horror",
+  "text": "Sacrifice Fume Spitter: Put a -1/-1 counter on target creature.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "63",
+  "artist": "Nils Hamm",
+  "rating": "3.876",
+  "votes": "97"
+}

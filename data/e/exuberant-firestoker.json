@@ -1,0 +1,13 @@
+{
+  "title": "Exuberant Firestoker",
+  "image": "../img/e/exuberant-firestoker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Druid Shaman",
+  "text": "At the beginning of your end step, if you control a creature with power 5 or greater, you may have Exuberant Firestoker deal 2 damage to target player.: Add  to your mana pool.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "99",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "3.022",
+  "votes": "45"
+}

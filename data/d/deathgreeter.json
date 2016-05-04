@@ -1,0 +1,13 @@
+{
+  "title": "Deathgreeter",
+  "image": "../img/d/deathgreeter.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Shaman",
+  "text": "Whenever another creature dies, you may gain 1 life.",
+  "expansion": "Duel Decks Anthology, Garruk vs. Liliana",
+  "rarity": "Common",
+  "cardNumber": "33",
+  "artist": "Dominick Domingo",
+  "rating": "5",
+  "votes": "0"
+}

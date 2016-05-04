@@ -1,0 +1,13 @@
+{
+  "title": "Electrostatic Bolt",
+  "image": "../img/e/electrostatic-bolt.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Electrostatic Bolt deals 2 damage to target creature. If it's an artifact creature, Electrostatic Bolt deals 4 damage to it instead.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "89",
+  "artist": "Randy Gallegos",
+  "rating": "3.655",
+  "votes": "42"
+}

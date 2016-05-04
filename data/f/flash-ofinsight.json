@@ -1,0 +1,13 @@
+{
+  "title": "Flash of Insight",
+  "image": "../img/f/flash-ofinsight.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.Flashback—, Exile X blue cards from your graveyard. (You may cast this card from your graveyard for its flashback cost, then exile it. You can't exile Flash of Insight to pay for its own flashback cost.)",
+  "expansion": "Judgment",
+  "rarity": "Uncommon",
+  "cardNumber": "40",
+  "artist": "Ben Thompson",
+  "rating": "3.424",
+  "votes": "33"
+}

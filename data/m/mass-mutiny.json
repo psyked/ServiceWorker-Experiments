@@ -1,0 +1,13 @@
+{
+  "title": "Mass Mutiny",
+  "image": "../img/m/mass-mutiny.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "For each opponent, gain control of up to one target creature that player controls until end of turn. Untap those creatures. They gain haste until end of turn.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "116",
+  "artist": "Carl Critchlow",
+  "rating": "3.750",
+  "votes": "12"
+}

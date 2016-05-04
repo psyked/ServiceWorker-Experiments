@@ -1,0 +1,13 @@
+{
+  "title": "Frozen Solid",
+  "image": "../img/f/frozen-solid.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature doesn't untap during its controller's untap step.When enchanted creature is dealt damage, destroy it.",
+  "expansion": "Scourge",
+  "rarity": "Common",
+  "cardNumber": "36",
+  "artist": "Glen Angus",
+  "rating": "2.943",
+  "votes": "35"
+}

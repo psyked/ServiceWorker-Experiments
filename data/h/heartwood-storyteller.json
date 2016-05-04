@@ -1,0 +1,13 @@
+{
+  "title": "Heartwood Storyteller",
+  "image": "../img/h/heartwood-storyteller.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Treefolk",
+  "text": "Whenever a player casts a noncreature spell, each of that player's opponents may draw a card.",
+  "expansion": "Future Sight",
+  "rarity": "Rare",
+  "cardNumber": "127",
+  "artist": "Anthony S. Waters",
+  "rating": "4.233",
+  "votes": "58"
+}

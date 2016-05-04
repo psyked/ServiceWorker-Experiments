@@ -1,0 +1,13 @@
+{
+  "title": "Psychic Venom",
+  "image": "../img/p/psychic-venom.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landWhenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that land's controller.",
+  "expansion": "Masters Edition",
+  "rarity": "Common",
+  "cardNumber": "46",
+  "artist": "Brian Snoddy",
+  "rating": "3.717",
+  "votes": "46"
+}

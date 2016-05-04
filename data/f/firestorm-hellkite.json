@@ -1,0 +1,13 @@
+{
+  "title": "Firestorm Hellkite",
+  "image": "../img/f/firestorm-hellkite.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "Flying, trampleCumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+  "expansion": "Visions",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Pete Venters",
+  "rating": "3.038",
+  "votes": "53"
+}

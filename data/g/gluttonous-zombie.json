@@ -1,0 +1,13 @@
+{
+  "title": "Gluttonous Zombie",
+  "image": "../img/g/gluttonous-zombie.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie",
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)",
+  "expansion": "Ninth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "134",
+  "artist": "Thomas M. Baxa",
+  "rating": "2.527",
+  "votes": "37"
+}

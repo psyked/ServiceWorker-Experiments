@@ -1,0 +1,13 @@
+{
+  "title": "Hellfire",
+  "image": "../img/h/hellfire.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Destroy all nonblack creatures. Hellfire deals X plus 3 damage to you, where X is the number of creatures that died this way.",
+  "expansion": "Masters Edition III",
+  "rarity": "Rare",
+  "cardNumber": "70",
+  "artist": "Pete Venters",
+  "rating": "4.182",
+  "votes": "44"
+}

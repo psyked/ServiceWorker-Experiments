@@ -1,0 +1,13 @@
+{
+  "title": "Gideon's Avenger",
+  "image": "../img/g/gideons-avenger.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "Whenever a creature an opponent controls becomes tapped, put a +1/+1 counter on Gideon's Avenger.",
+  "expansion": "Magic 2012",
+  "rarity": "Rare",
+  "cardNumber": "17",
+  "artist": "Randy Gallegos",
+  "rating": "4.005",
+  "votes": "104"
+}

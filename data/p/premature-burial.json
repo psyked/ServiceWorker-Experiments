@@ -1,0 +1,13 @@
+{
+  "title": "Premature Burial",
+  "image": "../img/p/premature-burial.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Destroy target nonblack creature that entered the battlefield since your last turn ended.",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "125",
+  "artist": "Clint Langley",
+  "rating": "1.465",
+  "votes": "43"
+}

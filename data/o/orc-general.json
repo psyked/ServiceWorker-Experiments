@@ -1,0 +1,13 @@
+{
+  "title": "Orc General",
+  "image": "../img/o/orc-general.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Orc Warrior",
+  "text": ", Sacrifice another Orc or Goblin: Other Orc creatures get +1/+1 until end of turn.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "137",
+  "artist": "Jesper Myrfors",
+  "rating": "3.138",
+  "votes": "29"
+}

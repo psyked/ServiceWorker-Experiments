@@ -1,0 +1,13 @@
+{
+  "title": "Broken Visage",
+  "image": "../img/b/broken-visage.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Destroy target nonartifact attacking creature. It can't be regenerated. Put a black Spirit creature token with that creature's power and toughness onto the battlefield. Sacrifice the token at the beginning of the next end step.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "81",
+  "artist": "Mike Kimble",
+  "rating": "3.485",
+  "votes": "34"
+}

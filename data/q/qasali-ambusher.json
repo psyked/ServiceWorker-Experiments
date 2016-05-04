@@ -1,0 +1,13 @@
+{
+  "title": "Qasali Ambusher",
+  "image": "../img/q/qasali-ambusher.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Cat Warrior",
+  "text": "ReachIf a creature is attacking you and you control a Forest and a Plains, you may cast Qasali Ambusher without paying its mana cost and as though it had flash.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "184",
+  "artist": "Kev Walker",
+  "rating": "3.746",
+  "votes": "114"
+}

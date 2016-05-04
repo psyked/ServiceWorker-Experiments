@@ -1,0 +1,13 @@
+{
+  "title": "Crown of Doom",
+  "image": "../img/c/crown-ofdoom.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Whenever a creature attacks you or a planeswalker you control, it gets +2/+0 until end of turn.: Target player other than Crown of Doom's owner gains control of it. Activate this ability only during your turn.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "55",
+  "artist": "Jasper Sandner",
+  "rating": "5",
+  "votes": "0"
+}

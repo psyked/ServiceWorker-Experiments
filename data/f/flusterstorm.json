@@ -1,0 +1,13 @@
+{
+  "title": "Flusterstorm",
+  "image": "../img/f/flusterstorm.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Counter target instant or sorcery spell unless its controller pays .Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "68",
+  "artist": "Erica Yang",
+  "rating": "4.500",
+  "votes": "1"
+}

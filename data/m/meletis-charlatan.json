@@ -1,0 +1,13 @@
+{
+  "title": "Meletis Charlatan",
+  "image": "../img/m/meletis-charlatan.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": ", : The controller of target instant or sorcery spell copies it. That player may choose new targets for the copy.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "54",
+  "artist": "Jason A. Engle",
+  "rating": "3.510",
+  "votes": "49"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Rotting Legion",
+  "image": "../img/r/rotting-legion.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie",
+  "text": "Rotting Legion enters the battlefield tapped.",
+  "expansion": "Magic 2011",
+  "rarity": "Common",
+  "cardNumber": "115",
+  "artist": "Carl Critchlow",
+  "rating": "1.873",
+  "votes": "75"
+}

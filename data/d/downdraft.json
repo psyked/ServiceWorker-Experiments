@@ -1,0 +1,13 @@
+{
+  "title": "Downdraft",
+  "image": "../img/d/downdraft.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": ": Target creature loses flying until end of turn.Sacrifice Downdraft: Downdraft deals 2 damage to each creature with flying.",
+  "expansion": "Weatherlight",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "John Matson",
+  "rating": "3.327",
+  "votes": "26"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Cackling Fiend",
+  "image": "../img/c/cackling-fiend.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie",
+  "text": "When Cackling Fiend enters the battlefield, each opponent discards a card.",
+  "expansion": "Battle Royale Box Set",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Brian Despain",
+  "rating": "2.538",
+  "votes": "26"
+}

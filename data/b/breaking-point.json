@@ -1,0 +1,13 @@
+{
+  "title": "Breaking Point",
+  "image": "../img/b/breaking-point.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Any player may have Breaking Point deal 6 damage to him or her. If no one does, destroy all creatures. Creatures destroyed this way can't be regenerated.",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Rare",
+  "cardNumber": "67",
+  "artist": "Matthew D. Wilson",
+  "rating": "3.593",
+  "votes": "27"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Extortion",
+  "image": "../img/e/extortion.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Look at target player's hand and choose up to two cards from it. That player discards those cards.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "135",
+  "artist": "Pete Venters",
+  "rating": "2.929",
+  "votes": "28"
+}

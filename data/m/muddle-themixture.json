@@ -1,0 +1,13 @@
+{
+  "title": "Muddle the Mixture",
+  "image": "../img/m/muddle-themixture.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Counter target instant or sorcery spell.Transmute  (, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "60",
+  "artist": "Luca Zontini",
+  "rating": "4.552",
+  "votes": "87"
+}

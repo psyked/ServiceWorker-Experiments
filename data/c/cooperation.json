@@ -1,0 +1,13 @@
+{
+  "title": "Cooperation",
+  "image": "../img/c/cooperation.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has banding. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",
+  "expansion": "Ice Age",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Phil Foglio",
+  "rating": "2.625",
+  "votes": "56"
+}

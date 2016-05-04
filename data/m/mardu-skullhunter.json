@@ -1,0 +1,13 @@
+{
+  "title": "Mardu Skullhunter",
+  "image": "../img/m/mardu-skullhunter.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Warrior",
+  "text": "Mardu Skullhunter enters the battlefield tapped.Raid — When Mardu Skullhunter enters the battlefield, if you attacked with a creature this turn, target opponent discards a card.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "78",
+  "artist": "Jason Rainville",
+  "rating": "3.250",
+  "votes": "2"
+}

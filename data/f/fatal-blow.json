@@ -1,0 +1,13 @@
+{
+  "title": "Fatal Blow",
+  "image": "../img/f/fatal-blow.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Destroy target creature that was dealt damage this turn. It can't be regenerated.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Common",
+  "cardNumber": "128",
+  "artist": "George Pratt",
+  "rating": "3.750",
+  "votes": "42"
+}

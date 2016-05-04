@@ -1,0 +1,13 @@
+{
+  "title": "Divine Offering",
+  "image": "../img/d/divine-offering.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Destroy target artifact. You gain life equal to its converted mana cost.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "10",
+  "artist": "Jeff A. Menges",
+  "rating": "3.907",
+  "votes": "27"
+}

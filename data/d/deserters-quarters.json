@@ -1,0 +1,13 @@
+{
+  "title": "Deserter's Quarters",
+  "image": "../img/d/deserters-quarters.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "You may choose not to untap Deserter's Quarters during your untap step., : Tap target creature. It doesn't untap during its controller's untap step for as long as Deserter's Quarters remains tapped.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "160",
+  "artist": "Daniel Ljunggren",
+  "rating": "1.417",
+  "votes": "30"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Artifact Mutation",
+  "image": "../img/a/artifact-mutation.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Destroy target artifact. It can't be regenerated. Put X 1/1 green Saproling creature tokens onto the battlefield, where X is that artifact's converted mana cost.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "231",
+  "artist": "Greg Staples",
+  "rating": "4.532",
+  "votes": "78"
+}

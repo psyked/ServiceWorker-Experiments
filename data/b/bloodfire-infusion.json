@@ -1,0 +1,13 @@
+{
+  "title": "Bloodfire Infusion",
+  "image": "../img/b/bloodfire-infusion.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature you control, Sacrifice enchanted creature: Bloodfire Infusion deals damage equal to the sacrificed creature's power to each creature.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "57",
+  "artist": "Anthony S. Waters",
+  "rating": "3.865",
+  "votes": "26"
+}

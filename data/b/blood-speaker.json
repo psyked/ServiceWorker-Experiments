@@ -1,0 +1,13 @@
+{
+  "title": "Blood Speaker",
+  "image": "../img/b/blood-speaker.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Ogre Shaman",
+  "text": "At the beginning of your upkeep, you may sacrifice Blood Speaker. If you do, search your library for a Demon card, reveal that card, put it into your hand, then shuffle your library.Whenever a Demon enters the battlefield under your control, return Blood Speaker from your graveyard to your hand.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "103",
+  "artist": "Adam Rex",
+  "rating": "3.806",
+  "votes": "54"
+}

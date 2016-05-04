@@ -1,0 +1,13 @@
+{
+  "title": "Horizon Spellbomb",
+  "image": "../img/h/horizon-spellbomb.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ", , Sacrifice Horizon Spellbomb: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.When Horizon Spellbomb is put into a graveyard from the battlefield, you may pay . If you do, draw a card.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "165",
+  "artist": "Franz Vohwinkel",
+  "rating": "2.840",
+  "votes": "50"
+}

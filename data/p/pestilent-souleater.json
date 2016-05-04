@@ -1,0 +1,13 @@
+{
+  "title": "Pestilent Souleater",
+  "image": "../img/p/pestilent-souleater.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Insect",
+  "text": ": Pestilent Souleater gains infect until end of turn. ( can be paid with either  or 2 life. A creature with infect deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "149",
+  "artist": "Matt Stewart",
+  "rating": "2.020",
+  "votes": "51"
+}

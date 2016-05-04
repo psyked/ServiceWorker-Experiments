@@ -1,0 +1,13 @@
+{
+  "title": "Angel's Trumpet",
+  "image": "../img/a/angels-trumpet.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "All creatures have vigilance.At the beginning of each player's end step, tap all untapped creatures that player controls that didn't attack this turn. Angel's Trumpet deals damage to the player equal to the number of creatures tapped this way.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Uncommon",
+  "cardNumber": "121",
+  "artist": "Kev Walker",
+  "rating": "3.875",
+  "votes": "32"
+}

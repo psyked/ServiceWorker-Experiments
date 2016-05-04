@@ -1,0 +1,13 @@
+{
+  "title": "Frenetic Sliver",
+  "image": "../img/f/frenetic-sliver.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Sliver",
+  "text": "All Slivers have \": If this permanent is on the battlefield, flip a coin. If you win the flip, exile this permanent and return it to the battlefield under its owner's control at the beginning of the next end step. If you lose the flip, sacrifice it.\"",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "157",
+  "artist": "Luca Zontini",
+  "rating": "3.250",
+  "votes": "48"
+}

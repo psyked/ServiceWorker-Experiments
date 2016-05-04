@@ -1,0 +1,13 @@
+{
+  "title": "Imperial Edict",
+  "image": "../img/i/imperial-edict.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target opponent chooses a creature he or she controls. Destroy it.",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Common",
+  "cardNumber": "77",
+  "artist": "Xu Xiaoming",
+  "rating": "3.817",
+  "votes": "30"
+}

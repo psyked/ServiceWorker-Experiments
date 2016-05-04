@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Snowman",
+  "image": "../img/g/goblin-snowman.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Goblin",
+  "text": "Whenever Goblin Snowman blocks, prevent all combat damage that would be dealt to and dealt by it this turn.: Goblin Snowman deals 1 damage to target creature it's blocking.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "64",
+  "artist": "Daniel Gelon",
+  "rating": "4.103",
+  "votes": "58"
+}

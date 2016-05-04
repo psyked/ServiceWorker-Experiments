@@ -1,0 +1,13 @@
+{
+  "title": "Inner Calm, Outer Strength",
+  "image": "../img/i/inner-calmouterstrength.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant  — Arcane",
+  "text": "Target creature gets +X/+X until end of turn, where X is the number of cards in your hand.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "133",
+  "artist": "Stephen Tappin",
+  "rating": "2.587",
+  "votes": "23"
+}

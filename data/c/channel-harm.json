@@ -1,0 +1,13 @@
+{
+  "title": "Channel Harm",
+  "image": "../img/c/channel-harm.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "Prevent all damage that would be dealt to you and permanents you control this turn by sources you don't control. If damage is prevented this way, you may have Channel Harm deal that much damage to target creature.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "7",
+  "artist": "David Gaillet",
+  "rating": "5",
+  "votes": "0"
+}

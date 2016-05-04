@@ -1,0 +1,13 @@
+{
+  "title": "Prismwake Merrow",
+  "image": "../img/p/prismwake-merrow.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Merfolk Wizard",
+  "text": "FlashWhen Prismwake Merrow enters the battlefield, target permanent becomes the color or colors of your choice until end of turn.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "46",
+  "artist": "Wayne England",
+  "rating": "2.111",
+  "votes": "36"
+}

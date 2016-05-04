@@ -1,0 +1,13 @@
+{
+  "title": "Lithophage",
+  "image": "../img/l/lithophage.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Insect",
+  "text": "At the beginning of your upkeep, sacrifice Lithophage unless you sacrifice a Mountain.",
+  "expansion": "Duel Decks: Venser vs. Koth",
+  "rarity": "Rare",
+  "cardNumber": "57",
+  "artist": "Mike Ploog",
+  "rating": "3.139",
+  "votes": "18"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Desolation Twin",
+  "image": "../img/d/desolation-twin.jpg",
+  "convertedManaCost": "10",
+  "types": "Creature  — Eldrazi",
+  "text": "When you cast Desolation Twin, put a 10/10 colorless Eldrazi creature token onto the battlefield.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "6",
+  "artist": "Jack Wang",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Boneshard Slasher",
+  "image": "../img/b/boneshard-slasher.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Horror",
+  "text": "FlyingThreshold — As long as seven or more cards are in your graveyard, Boneshard Slasher gets +2/+2 and has \"When Boneshard Slasher becomes the target of a spell or ability, sacrifice it.\"",
+  "expansion": "Torment",
+  "rarity": "Uncommon",
+  "cardNumber": "50",
+  "artist": "Ron Spencer",
+  "rating": "2.900",
+  "votes": "35"
+}

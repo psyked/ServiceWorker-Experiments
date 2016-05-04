@@ -1,0 +1,13 @@
+{
+  "title": "Knollspine Dragon",
+  "image": "../img/k/knollspine-dragon.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhen Knollspine Dragon enters the battlefield, you may discard your hand and draw cards equal to the damage dealt to target opponent this turn.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "98",
+  "artist": "Steve Prescott",
+  "rating": "3.720",
+  "votes": "59"
+}

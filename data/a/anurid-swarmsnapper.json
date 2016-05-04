@@ -1,0 +1,13 @@
+{
+  "title": "Anurid Swarmsnapper",
+  "image": "../img/a/anurid-swarmsnapper.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Frog Beast",
+  "text": "Reach (This creature can block creatures with flying.): Anurid Swarmsnapper can block an additional creature this turn.",
+  "expansion": "Judgment",
+  "rarity": "Uncommon",
+  "cardNumber": "105",
+  "artist": "John Matson",
+  "rating": "3.273",
+  "votes": "22"
+}

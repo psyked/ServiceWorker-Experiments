@@ -1,0 +1,13 @@
+{
+  "title": "Forgotten Ancient",
+  "image": "../img/f/forgotten-ancient.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elemental",
+  "text": "Whenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "185",
+  "artist": "Mark Tedin",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Flowstone Charger",
+  "image": "../img/f/flowstone-charger.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Beast",
+  "text": "Whenever Flowstone Charger attacks, it gets +3/-3 until end of turn.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "99",
+  "artist": "John Gallagher",
+  "rating": "2.969",
+  "votes": "32"
+}

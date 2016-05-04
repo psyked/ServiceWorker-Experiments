@@ -1,0 +1,13 @@
+{
+  "title": "Bloodhall Ooze",
+  "image": "../img/b/bloodhall-ooze.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Ooze",
+  "text": "At the beginning of your upkeep, if you control a black permanent, you may put a +1/+1 counter on Bloodhall Ooze.At the beginning of your upkeep, if you control a green permanent, you may put a +1/+1 counter on Bloodhall Ooze.",
+  "expansion": "Conflux",
+  "rarity": "Rare",
+  "cardNumber": "59",
+  "artist": "Jaime Jones",
+  "rating": "3.739",
+  "votes": "115"
+}

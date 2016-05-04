@@ -1,0 +1,13 @@
+{
+  "title": "Pathbreaker Ibex",
+  "image": "../img/p/pathbreaker-ibex.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Goat",
+  "text": "Whenever Pathbreaker Ibex attacks, creatures you control gain trample and get +X/+X until end of turn, where X is the greatest power among creatures you control.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "38",
+  "artist": "Christopher Moeller",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Brilliant Halo",
+  "image": "../img/b/brilliant-halo.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+2.When Brilliant Halo is put into a graveyard from the battlefield, return Brilliant Halo to its owner's hand.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "19",
+  "artist": "Randy Gallegos",
+  "rating": "5",
+  "votes": "0"
+}

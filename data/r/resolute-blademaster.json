@@ -1,0 +1,13 @@
+{
+  "title": "Resolute Blademaster",
+  "image": "../img/r/resolute-blademaster.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Soldier Ally",
+  "text": "Rally — Whenever Resolute Blademaster or another Ally enters the battlefield under your control, creatures you control gain double strike until end of turn.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "218",
+  "artist": "Joseph Meehan",
+  "rating": "5",
+  "votes": "0"
+}

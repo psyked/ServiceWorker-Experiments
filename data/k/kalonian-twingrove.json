@@ -1,0 +1,13 @@
+{
+  "title": "Kalonian Twingrove",
+  "image": "../img/k/kalonian-twingrove.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Treefolk Warrior",
+  "text": "Kalonian Twingrove's power and toughness are each equal to the number of Forests you control.When Kalonian Twingrove enters the battlefield, put a green Treefolk Warrior creature token onto the battlefield with \"This creature's power and toughness are each equal to the number of Forests you control.\"",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "182",
+  "artist": "Todd Lockwood",
+  "rating": "3.083",
+  "votes": "6"
+}

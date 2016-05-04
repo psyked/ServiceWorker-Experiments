@@ -1,0 +1,13 @@
+{
+  "title": "Arcbound Bruiser",
+  "image": "../img/a/arcbound-bruiser.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Golem",
+  "text": "Modular 3 (This enters the battlefield with three +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "94",
+  "artist": "Christopher Moeller",
+  "rating": "2.750",
+  "votes": "36"
+}

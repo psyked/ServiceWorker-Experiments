@@ -1,0 +1,13 @@
+{
+  "title": "Eater of the Dead",
+  "image": "../img/e/eater-ofthedead.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Horror",
+  "text": ": If Eater of the Dead is tapped, exile target creature card from a graveyard and untap Eater of the Dead.",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "67",
+  "artist": "Jesper Myrfors",
+  "rating": "3.400",
+  "votes": "35"
+}

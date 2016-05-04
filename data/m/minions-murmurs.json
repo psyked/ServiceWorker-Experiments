@@ -1,0 +1,13 @@
+{
+  "title": "Minions' Murmurs",
+  "image": "../img/m/minions-murmurs.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "You draw X cards and you lose X life, where X is the number of creatures you control.",
+  "expansion": "Future Sight",
+  "rarity": "Uncommon",
+  "cardNumber": "71",
+  "artist": "Nils Hamm",
+  "rating": "2.821",
+  "votes": "39"
+}

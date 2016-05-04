@@ -1,0 +1,13 @@
+{
+  "title": "Augur of Bolas",
+  "image": "../img/a/augur-ofbolas.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk Wizard",
+  "text": "When Augur of Bolas enters the battlefield, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "30",
+  "artist": "Slawomir Maniak",
+  "rating": "3.971",
+  "votes": "17"
+}

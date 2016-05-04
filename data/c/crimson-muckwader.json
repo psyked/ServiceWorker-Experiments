@@ -1,0 +1,13 @@
+{
+  "title": "Crimson Muckwader",
+  "image": "../img/c/crimson-muckwader.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Lizard",
+  "text": "Crimson Muckwader gets +1/+1 as long as you control a Swamp.: Regenerate Crimson Muckwader. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+  "expansion": "Magic 2013",
+  "rarity": "Uncommon",
+  "cardNumber": "127",
+  "artist": "Steven Belledin",
+  "rating": "3.404",
+  "votes": "47"
+}

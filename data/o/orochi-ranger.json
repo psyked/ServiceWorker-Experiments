@@ -1,0 +1,13 @@
+{
+  "title": "Orochi Ranger",
+  "image": "../img/o/orochi-ranger.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Snake Warrior",
+  "text": "Whenever Orochi Ranger deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "235",
+  "artist": "Greg Hildebrandt",
+  "rating": "2.207",
+  "votes": "29"
+}

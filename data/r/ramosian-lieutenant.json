@@ -1,0 +1,13 @@
+{
+  "title": "Ramosian Lieutenant",
+  "image": "../img/r/ramosian-lieutenant.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Rebel",
+  "text": ", : Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "37",
+  "artist": "Alan Pollack",
+  "rating": "3.783",
+  "votes": "23"
+}

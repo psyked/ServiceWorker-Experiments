@@ -1,0 +1,13 @@
+{
+  "title": "Rapacious One",
+  "image": "../img/r/rapacious-one.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "TrampleWhenever Rapacious One deals combat damage to a player, put that many 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have \"Sacrifice this creature: Add  to your mana pool.\"",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Uncommon",
+  "cardNumber": "133",
+  "artist": "Jason A. Engle",
+  "rating": "3.707",
+  "votes": "41"
+}

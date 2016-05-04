@@ -1,0 +1,13 @@
+{
+  "title": "Hooded Horror",
+  "image": "../img/h/hooded-horror.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Horror",
+  "text": "Hooded Horror can't be blocked as long as defending player controls the most creatures or is tied for the most.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "80",
+  "artist": "Allen Williams",
+  "rating": "3.324",
+  "votes": "17"
+}

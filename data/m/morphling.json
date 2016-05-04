@@ -1,0 +1,13 @@
+{
+  "title": "Morphling",
+  "image": "../img/m/morphling.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Shapeshifter",
+  "text": ": Untap Morphling.: Morphling gains flying until end of turn.: Morphling gains shroud until end of turn. (It can't be the target of spells or abilities.): Morphling gets +1/-1 until end of turn.: Morphling gets -1/+1 until end of turn.",
+  "expansion": "Vintage Masters",
+  "rarity": "Mythic Rare",
+  "cardNumber": "81",
+  "artist": "rk post",
+  "rating": "4.500",
+  "votes": "1"
+}

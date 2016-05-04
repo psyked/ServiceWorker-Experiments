@@ -1,0 +1,13 @@
+{
+  "title": "Peak Eruption",
+  "image": "../img/p/peak-eruption.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Destroy target Mountain. Peak Eruption deals 3 damage to that land's controller.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "132",
+  "artist": "Adam Paquette",
+  "rating": "3.250",
+  "votes": "40"
+}

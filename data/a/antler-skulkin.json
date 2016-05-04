@@ -1,0 +1,13 @@
+{
+  "title": "Antler Skulkin",
+  "image": "../img/a/antler-skulkin.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Scarecrow",
+  "text": ": Target white creature gains persist until end of turn. (When it dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",
+  "expansion": "Eventide",
+  "rarity": "Common",
+  "cardNumber": "167",
+  "artist": "Dave Kendall",
+  "rating": "2.111",
+  "votes": "45"
+}

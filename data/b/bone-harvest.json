@@ -1,0 +1,13 @@
+{
+  "title": "Bone Harvest",
+  "image": "../img/b/bone-harvest.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Put any number of target creature cards from your graveyard on top of your library.Draw a card at the beginning of the next turn's upkeep.",
+  "expansion": "Beatdown Box Set",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Greg Simanson",
+  "rating": "3.718",
+  "votes": "39"
+}

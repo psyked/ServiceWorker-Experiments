@@ -1,0 +1,13 @@
+{
+  "title": "Perplexing Chimera",
+  "image": "../img/p/perplexing-chimera.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment Creature  — Chimera",
+  "text": "Whenever an opponent casts a spell, you may exchange control of Perplexing Chimera and that spell. If you do, you may choose new targets for the spell. (If the spell becomes a permanent, you control that permanent.)",
+  "expansion": "Born of the Gods",
+  "rarity": "Rare",
+  "cardNumber": "48",
+  "artist": "Tyler Jacobson",
+  "rating": "3.833",
+  "votes": "54"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Flotilla",
+  "image": "../img/g/goblin-flotilla.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin",
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)At the beginning of each combat, unless you pay , whenever Goblin Flotilla blocks or becomes blocked by a creature this combat, that creature gains first strike until end of turn.",
+  "expansion": "Fallen Empires",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Tom Wänerstrand",
+  "rating": "2.712",
+  "votes": "40"
+}

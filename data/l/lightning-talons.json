@@ -1,0 +1,13 @@
+{
+  "title": "Lightning Talons",
+  "image": "../img/l/lightning-talons.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +3/+0 and has first strike. (It deals combat damage before creatures without first strike.)",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "144",
+  "artist": "Johann Bodin",
+  "rating": "2.979",
+  "votes": "24"
+}

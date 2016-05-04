@@ -1,0 +1,13 @@
+{
+  "title": "Infectious Host",
+  "image": "../img/i/infectious-host.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": "When Infectious Host dies, target player loses 2 life.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "91",
+  "artist": "rk post",
+  "rating": "1.738",
+  "votes": "40"
+}

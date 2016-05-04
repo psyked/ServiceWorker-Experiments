@@ -1,0 +1,13 @@
+{
+  "title": "Curse of the Cabal",
+  "image": "../img/c/curse-ofthecabal.jpg",
+  "convertedManaCost": "10",
+  "types": "Sorcery",
+  "text": "Target player sacrifices half the permanents he or she controls, rounded down.Suspend 2— (Rather than cast this card from your hand, you may pay  and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)At the beginning of each player's upkeep, if Curse of the Cabal is suspended, that player may sacrifice a permanent. If he or she does, put two time counters on Curse of the Cabal.",
+  "expansion": "Time Spiral",
+  "rarity": "Rare",
+  "cardNumber": "99",
+  "artist": "John Avon",
+  "rating": "3.815",
+  "votes": "65"
+}

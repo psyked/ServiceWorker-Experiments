@@ -1,0 +1,13 @@
+{
+  "title": "Emberwilde Augur",
+  "image": "../img/e/emberwilde-augur.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Shaman",
+  "text": "Sacrifice Emberwilde Augur: Emberwilde Augur deals 3 damage to target player. Activate this ability only during your upkeep.",
+  "expansion": "Duel Decks Anthology, Elves vs. Goblins",
+  "rarity": "Common",
+  "cardNumber": "35",
+  "artist": "Brandon Kitkouski",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Myr Mindservant",
+  "image": "../img/m/myr-mindservant.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact Creature  — Myr",
+  "text": ", : Shuffle your library.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "213",
+  "artist": "Dave Dorman",
+  "rating": "3.250",
+  "votes": "40"
+}

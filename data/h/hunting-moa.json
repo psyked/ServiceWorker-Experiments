@@ -1,0 +1,13 @@
+{
+  "title": "Hunting Moa",
+  "image": "../img/h/hunting-moa.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Bird Beast",
+  "text": "Echo  (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)When Hunting Moa enters the battlefield or dies, put a +1/+1 counter on target creature.",
+  "expansion": "Archenemy",
+  "rarity": "Uncommon",
+  "cardNumber": "60",
+  "artist": "DiTerlizzi",
+  "rating": "4.018",
+  "votes": "28"
+}

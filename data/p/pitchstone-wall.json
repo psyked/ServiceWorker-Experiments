@@ -1,0 +1,13 @@
+{
+  "title": "Pitchstone Wall",
+  "image": "../img/p/pitchstone-wall.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Wall",
+  "text": "Defender (This creature can't attack.)Whenever you discard a card, you may sacrifice Pitchstone Wall. If you do, return the discarded card from your graveyard to your hand.",
+  "expansion": "Torment",
+  "rarity": "Uncommon",
+  "cardNumber": "110",
+  "artist": "David Martin",
+  "rating": "3.017",
+  "votes": "30"
+}

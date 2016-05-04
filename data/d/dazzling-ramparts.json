@@ -1,0 +1,13 @@
+{
+  "title": "Dazzling Ramparts",
+  "image": "../img/d/dazzling-ramparts.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Wall",
+  "text": "Defender, : Tap target creature.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "6",
+  "artist": "Jung Park",
+  "rating": "2.000",
+  "votes": "5"
+}

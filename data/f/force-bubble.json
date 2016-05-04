@@ -1,0 +1,13 @@
+{
+  "title": "Force Bubble",
+  "image": "../img/f/force-bubble.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "If damage would be dealt to you, put that many depletion counters on Force Bubble instead.When there are four or more depletion counters on Force Bubble, sacrifice it.At the beginning of each end step, remove all depletion counters from Force Bubble.",
+  "expansion": "Scourge",
+  "rarity": "Rare",
+  "cardNumber": "14",
+  "artist": "Alan Pollack",
+  "rating": "2.917",
+  "votes": "30"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Fling",
+  "image": "../img/f/fling.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "As an additional cost to cast Fling, sacrifice a creature.Fling deals damage equal to the sacrificed creature's power to target creature or player.",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Common",
+  "cardNumber": "44",
+  "artist": "Parente",
+  "rating": "4.523",
+  "votes": "65"
+}

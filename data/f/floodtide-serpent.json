@@ -1,0 +1,13 @@
+{
+  "title": "Floodtide Serpent",
+  "image": "../img/f/floodtide-serpent.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Serpent",
+  "text": "Floodtide Serpent can't attack unless you return an enchantment you control to its owner's hand. (This cost is paid as attackers are declared.)",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "41",
+  "artist": "Steven Belledin",
+  "rating": "2.514",
+  "votes": "37"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ankh of Mishra",
+  "image": "../img/a/ankh-ofmishra.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "263",
+  "artist": "Ian Miller",
+  "rating": "4.000",
+  "votes": "1"
+}

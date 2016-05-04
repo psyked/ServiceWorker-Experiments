@@ -1,0 +1,13 @@
+{
+  "title": "Ancient Hellkite",
+  "image": "../img/a/ancient-hellkite.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Dragon",
+  "text": "Flying: Ancient Hellkite deals 1 damage to target creature defending player controls. Activate this ability only if Ancient Hellkite is attacking.",
+  "expansion": "Magic 2011",
+  "rarity": "Rare",
+  "cardNumber": "122",
+  "artist": "Jason Chan",
+  "rating": "3.672",
+  "votes": "119"
+}

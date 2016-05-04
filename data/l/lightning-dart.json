@@ -1,0 +1,13 @@
+{
+  "title": "Lightning Dart",
+  "image": "../img/l/lightning-dart.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Lightning Dart deals 1 damage to target creature. If that creature is white or blue, Lightning Dart deals 4 damage to it instead.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "152",
+  "artist": "Arnie Swekel",
+  "rating": "3.083",
+  "votes": "30"
+}

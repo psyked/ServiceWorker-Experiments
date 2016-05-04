@@ -1,0 +1,13 @@
+{
+  "title": "Breezekeeper",
+  "image": "../img/b/breezekeeper.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Djinn",
+  "text": "FlyingPhasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)",
+  "expansion": "Visions",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Adam Rex",
+  "rating": "3.109",
+  "votes": "32"
+}

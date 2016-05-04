@@ -1,0 +1,13 @@
+{
+  "title": "Norn's Annex",
+  "image": "../img/n/norns-annex.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": "( can be paid with either  or 2 life.)Creatures can't attack you or a planeswalker you control unless their controller pays  for each of those creatures.",
+  "expansion": "New Phyrexia",
+  "rarity": "Rare",
+  "cardNumber": "17",
+  "artist": "James Paick",
+  "rating": "3.814",
+  "votes": "132"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ghoulsteed",
+  "image": "../img/g/ghoulsteed.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie Horse",
+  "text": ", Discard two cards: Return Ghoulsteed from your graveyard to the battlefield tapped.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "113",
+  "artist": "Jason Kang",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Butcher's Cleaver",
+  "image": "../img/b/butchers-cleaver.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +3/+0.As long as equipped creature is a Human, it has lifelink.Equip",
+  "expansion": "Duel Decks: Blessed vs. Cursed",
+  "rarity": "Uncommon",
+  "cardNumber": "31",
+  "artist": "Jason Felix",
+  "rating": "5",
+  "votes": "0"
+}

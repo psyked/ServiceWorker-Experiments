@@ -1,0 +1,13 @@
+{
+  "title": "Dregscape Zombie",
+  "image": "../img/d/dregscape-zombie.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie",
+  "text": "Unearth  (: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Common",
+  "cardNumber": "5",
+  "artist": "Lars Grant-West",
+  "rating": "3.000",
+  "votes": "1"
+}

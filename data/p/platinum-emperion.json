@@ -1,0 +1,13 @@
+{
+  "title": "Platinum Emperion",
+  "image": "../img/p/platinum-emperion.jpg",
+  "convertedManaCost": "8",
+  "types": "Artifact Creature  — Golem",
+  "text": "Your life total can't change. (You can't gain or lose life. You can't pay any amount of life except 0.)",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Mythic Rare",
+  "cardNumber": "193",
+  "artist": "Chris Rahn",
+  "rating": "4.309",
+  "votes": "170"
+}

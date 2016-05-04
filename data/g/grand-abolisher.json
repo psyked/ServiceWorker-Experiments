@@ -1,0 +1,13 @@
+{
+  "title": "Grand Abolisher",
+  "image": "../img/g/grand-abolisher.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": "During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "74",
+  "artist": "Eric Deschamps",
+  "rating": "5",
+  "votes": "0"
+}

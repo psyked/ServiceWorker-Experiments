@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Grimoire",
+  "image": "../img/p/phyrexian-grimoire.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", : Target opponent chooses one of the top two cards of your graveyard. Exile that card and put the other one into your hand.",
+  "expansion": "Tempest",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Doug Chaffee",
+  "rating": "2.672",
+  "votes": "29"
+}

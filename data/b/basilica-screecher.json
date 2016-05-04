@@ -1,0 +1,13 @@
+{
+  "title": "Basilica Screecher",
+  "image": "../img/b/basilica-screecher.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Bat",
+  "text": "FlyingExtort (Whenever you cast a spell, you may pay . If you do, each opponent loses 1 life and you gain that much life.)",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "58",
+  "artist": "Christine Choi",
+  "rating": "3.153",
+  "votes": "72"
+}

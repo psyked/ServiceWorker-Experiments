@@ -1,0 +1,13 @@
+{
+  "title": "Hidden Stag",
+  "image": "../img/h/hidden-stag.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever an opponent plays a land, if Hidden Stag is an enchantment, Hidden Stag becomes a 3/2 Elk Beast creature.Whenever you play a land, if Hidden Stag is a creature, Hidden Stag becomes an enchantment.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "265",
+  "artist": "Berry",
+  "rating": "3.845",
+  "votes": "29"
+}

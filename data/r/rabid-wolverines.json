@@ -1,0 +1,13 @@
+{
+  "title": "Rabid Wolverines",
+  "image": "../img/r/rabid-wolverines.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Wolverine",
+  "text": "Whenever Rabid Wolverines becomes blocked by a creature, Rabid Wolverines gets +1/+1 until end of turn.",
+  "expansion": "Exodus",
+  "rarity": "Common",
+  "cardNumber": "119",
+  "artist": "Daren Bader",
+  "rating": "3.244",
+  "votes": "43"
+}

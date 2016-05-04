@@ -1,0 +1,13 @@
+{
+  "title": "Rattlechains",
+  "image": "../img/r/rattlechains.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": "FlashFlyingWhen Rattlechains enters the battlefield, target Spirit gains hexproof until end of turn.You may cast Spirit spells as though they had flash.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "81",
+  "artist": "Lius Lasahido",
+  "rating": "5",
+  "votes": "0"
+}

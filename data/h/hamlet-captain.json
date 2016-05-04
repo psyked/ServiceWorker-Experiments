@@ -1,0 +1,13 @@
+{
+  "title": "Hamlet Captain",
+  "image": "../img/h/hamlet-captain.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Warrior",
+  "text": "Whenever Hamlet Captain attacks or blocks, other Human creatures you control get +1/+1 until end of turn.",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "187",
+  "artist": "Wayne Reynolds",
+  "rating": "3.816",
+  "votes": "79"
+}

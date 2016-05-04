@@ -1,0 +1,13 @@
+{
+  "title": "Blaze of Glory",
+  "image": "../img/b/blaze-ofglory.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Cast Blaze of Glory only during combat before blockers are declared.Target creature defending player controls can block any number of creatures this turn. It blocks each attacking creature this turn if able.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "7",
+  "artist": "Richard Thomas",
+  "rating": "3.422",
+  "votes": "32"
+}

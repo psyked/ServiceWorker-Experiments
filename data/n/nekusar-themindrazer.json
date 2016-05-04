@@ -1,0 +1,13 @@
+{
+  "title": "Nekusar, the Mindrazer",
+  "image": "../img/n/nekusar-themindrazer.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Zombie Wizard",
+  "text": "At the beginning of each player's draw step, that player draws an additional card.Whenever an opponent draws a card, Nekusar, the Mindrazer deals 1 damage to that player.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Mythic Rare",
+  "cardNumber": "201",
+  "artist": "Mark Winters",
+  "rating": "3.724",
+  "votes": "76"
+}

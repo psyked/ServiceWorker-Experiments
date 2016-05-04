@@ -1,0 +1,13 @@
+{
+  "title": "Mogg Alarm",
+  "image": "../img/m/mogg-alarm.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "You may sacrifice two Mountains rather than pay Mogg Alarm's mana cost.Put two 1/1 red Goblin creature tokens onto the battlefield.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "93",
+  "artist": "Dave Dorman",
+  "rating": "3.013",
+  "votes": "39"
+}

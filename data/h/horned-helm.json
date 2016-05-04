@@ -1,0 +1,13 @@
+{
+  "title": "Horned Helm",
+  "image": "../img/h/horned-helm.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +1/+1 and has trample.: Attach Horned Helm to target creature you control.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "132",
+  "artist": "Martina Pilcerova",
+  "rating": "3.449",
+  "votes": "39"
+}

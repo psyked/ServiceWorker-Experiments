@@ -1,0 +1,13 @@
+{
+  "title": "Relentless Dead",
+  "image": "../img/r/relentless-dead.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie",
+  "text": "Menace (This creature can't be blocked except by two or more creatures.)When Relentless Dead dies, you may pay . If you do, return it to its owner's hand.When Relentless Dead dies, you may pay . If you do, return another target Zombie creature card with converted mana cost X from your graveyard to the battlefield.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Mythic Rare",
+  "cardNumber": "131",
+  "artist": "Ryan Yee",
+  "rating": "5",
+  "votes": "0"
+}

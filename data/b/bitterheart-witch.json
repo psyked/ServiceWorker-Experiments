@@ -1,0 +1,13 @@
+{
+  "title": "Bitterheart Witch",
+  "image": "../img/b/bitterheart-witch.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Shaman",
+  "text": "DeathtouchWhen Bitterheart Witch dies, you may search your library for a Curse card, put it onto the battlefield attached to target player, then shuffle your library.",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "88",
+  "artist": "Karl Kopinski",
+  "rating": "3.333",
+  "votes": "69"
+}

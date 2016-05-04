@@ -1,0 +1,13 @@
+{
+  "title": "Blood-Toll Harpy",
+  "image": "../img/b/blood-toll-harpy.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Harpy",
+  "text": "FlyingWhen Blood-Toll Harpy enters the battlefield, each player loses 1 life.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "79",
+  "artist": "Kev Walker",
+  "rating": "2.274",
+  "votes": "42"
+}

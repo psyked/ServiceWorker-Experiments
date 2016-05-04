@@ -1,0 +1,13 @@
+{
+  "title": "Rousing of Souls",
+  "image": "../img/r/rousing-ofsouls.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Parley — Each player reveals the top card of his or her library. For each nonland card revealed this way, you put a 1/1 white Spirit creature token with flying onto the battlefield. Then each player draws a card.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "19",
+  "artist": "Jeff Simpson",
+  "rating": "3.150",
+  "votes": "10"
+}

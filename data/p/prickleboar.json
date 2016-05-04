@@ -1,0 +1,13 @@
+{
+  "title": "Prickleboar",
+  "image": "../img/p/prickleboar.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Boar",
+  "text": "As long as it's your turn, Prickleboar gets +2/+0 and has first strike. (It deals combat damage before creatures without first strike.)",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "158",
+  "artist": "Jesper Ejsing",
+  "rating": "5",
+  "votes": "0"
+}

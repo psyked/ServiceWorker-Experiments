@@ -1,0 +1,13 @@
+{
+  "title": "Aspect of Wolf",
+  "image": "../img/a/aspect-ofwolf.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.",
+  "expansion": "Fifth Edition",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Janine Johnston",
+  "rating": "2.514",
+  "votes": "36"
+}

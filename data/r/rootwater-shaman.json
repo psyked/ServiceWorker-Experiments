@@ -1,0 +1,13 @@
+{
+  "title": "Rootwater Shaman",
+  "image": "../img/r/rootwater-shaman.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Merfolk Shaman",
+  "text": "You may cast Aura cards with enchant creature as though they had flash.",
+  "expansion": "Tempest",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Paolo Parente",
+  "rating": "3.768",
+  "votes": "41"
+}

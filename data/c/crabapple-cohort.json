@@ -1,0 +1,13 @@
+{
+  "title": "Crabapple Cohort",
+  "image": "../img/c/crabapple-cohort.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Treefolk Warrior",
+  "text": "Crabapple Cohort gets +1/+1 as long as you control another green creature.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "109",
+  "artist": "Richard Whitters",
+  "rating": "2.045",
+  "votes": "44"
+}

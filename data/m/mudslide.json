@@ -1,0 +1,13 @@
+{
+  "title": "Mudslide",
+  "image": "../img/m/mudslide.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Creatures without flying don't untap during their controllers' untap steps.At the beginning of each player's upkeep, that player may choose any number of tapped creatures without flying he or she controls and pay  for each creature chosen this way. If the player does, untap those creatures.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "136",
+  "artist": "Brian Snoddy",
+  "rating": "3.339",
+  "votes": "31"
+}

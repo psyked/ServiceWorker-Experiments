@@ -1,0 +1,13 @@
+{
+  "title": "Null Champion",
+  "image": "../img/n/null-champion.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie Warrior",
+  "text": "Level up  (: Put a level counter on this. Level up only as a sorcery.)LEVEL 1-34/2LEVEL 4+7/3: Regenerate Null Champion.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "121",
+  "artist": "Chris Rahn",
+  "rating": "3.344",
+  "votes": "64"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Cinder Hellion",
+  "image": "../img/c/cinder-hellion.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Hellion",
+  "text": "TrampleWhen Cinder Hellion enters the battlefield, it deals 2 damage to target opponent.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "105",
+  "artist": "Jason Kang",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Baron Sengir",
+  "image": "../img/b/baron-sengir.jpg",
+  "convertedManaCost": "8",
+  "types": "Legendary Creature  — Vampire",
+  "text": "FlyingWhenever a creature dealt damage by Baron Sengir this turn dies, put a +2/+2 counter on Baron Sengir.: Regenerate another target Vampire.",
+  "expansion": "Masters Edition",
+  "rarity": "Rare",
+  "cardNumber": "58",
+  "artist": "Pete Venters",
+  "rating": "3.944",
+  "votes": "108"
+}

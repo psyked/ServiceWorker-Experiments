@@ -1,0 +1,13 @@
+{
+  "title": "Impending Disaster",
+  "image": "../img/i/impending-disaster.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, if there are seven or more lands on the battlefield, sacrifice Impending Disaster and destroy all lands.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Rare",
+  "cardNumber": "82",
+  "artist": "Pete Venters",
+  "rating": "4.037",
+  "votes": "41"
+}

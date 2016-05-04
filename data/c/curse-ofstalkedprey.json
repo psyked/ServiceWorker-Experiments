@@ -1,0 +1,13 @@
+{
+  "title": "Curse of Stalked Prey",
+  "image": "../img/c/curse-ofstalkedprey.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura Curse",
+  "text": "Enchant playerWhenever a creature deals combat damage to enchanted player, put a +1/+1 counter on that creature.",
+  "expansion": "Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "136",
+  "artist": "Christopher Moeller",
+  "rating": "3.823",
+  "votes": "79"
+}

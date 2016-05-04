@@ -1,0 +1,13 @@
+{
+  "title": "Dark Tutelage",
+  "image": "../img/d/dark-tutelage.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost.",
+  "expansion": "Magic 2011",
+  "rarity": "Rare",
+  "cardNumber": "90",
+  "artist": "James Ryman",
+  "rating": "3.508",
+  "votes": "121"
+}

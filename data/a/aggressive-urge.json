@@ -1,0 +1,13 @@
+{
+  "title": "Aggressive Urge",
+  "image": "../img/a/aggressive-urge.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +1/+1 until end of turn.Draw a card.",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "250",
+  "artist": "Christopher Moeller",
+  "rating": "3.000",
+  "votes": "42"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Call of the Herd",
+  "image": "../img/c/call-oftheherd.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Put a 3/3 green Elephant creature token onto the battlefield.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "74",
+  "artist": "Carl Critchlow",
+  "rating": "4.045",
+  "votes": "55"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Curse of Chains",
+  "image": "../img/c/curse-ofchains.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAt the beginning of each upkeep, tap enchanted creature.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "139",
+  "artist": "Drew Tucker",
+  "rating": "3.672",
+  "votes": "61"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Loam Dweller",
+  "image": "../img/l/loam-dweller.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": "Whenever you cast a Spirit or Arcane spell, you may put a land card from your hand onto the battlefield tapped.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "134",
+  "artist": "Paolo Parente",
+  "rating": "3.500",
+  "votes": "38"
+}

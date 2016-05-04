@@ -1,0 +1,13 @@
+{
+  "title": "Callous Giant",
+  "image": "../img/c/callous-giant.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant",
+  "text": "If a source would deal 3 or less damage to Callous Giant, prevent that damage.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "139",
+  "artist": "Mark Brill",
+  "rating": "3.394",
+  "votes": "33"
+}

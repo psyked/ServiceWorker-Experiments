@@ -1,0 +1,13 @@
+{
+  "title": "Cease-Fire",
+  "image": "../img/c/cease-fire.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Target player can't cast creature spells this turn.Draw a card.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "14",
+  "artist": "Darrell Riche",
+  "rating": "2.776",
+  "votes": "29"
+}

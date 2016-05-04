@@ -1,0 +1,13 @@
+{
+  "title": "Deadshot",
+  "image": "../img/d/deadshot.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Tap target creature. It deals damage equal to its power to another target creature.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "129",
+  "artist": "Heather Hudson",
+  "rating": "5",
+  "votes": "0"
+}

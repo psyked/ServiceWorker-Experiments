@@ -1,0 +1,13 @@
+{
+  "title": "Malfegor",
+  "image": "../img/m/malfegor.jpg",
+  "convertedManaCost": "6",
+  "types": "Legendary Creature  — Demon Dragon",
+  "text": "FlyingWhen Malfegor enters the battlefield, discard your hand. Each opponent sacrifices a creature for each card discarded this way.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Mythic Rare",
+  "cardNumber": "208",
+  "artist": "Jason Chan",
+  "rating": "3.263",
+  "votes": "95"
+}

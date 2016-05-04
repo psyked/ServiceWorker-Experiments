@@ -1,0 +1,13 @@
+{
+  "title": "Crypt Rats",
+  "image": "../img/c/crypt-rats.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Rat",
+  "text": ": Crypt Rats deals X damage to each creature and each player. Spend only black mana on X.",
+  "expansion": "Seventh Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "125",
+  "artist": "Matt Cavotta",
+  "rating": "4.255",
+  "votes": "55"
+}

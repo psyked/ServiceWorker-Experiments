@@ -1,0 +1,13 @@
+{
+  "title": "Mistcutter Hydra",
+  "image": "../img/m/mistcutter-hydra.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Hydra",
+  "text": "Mistcutter Hydra can't be countered.Haste, protection from blueMistcutter Hydra enters the battlefield with X +1/+1 counters on it.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "162",
+  "artist": "Ryan Pancoast",
+  "rating": "3.610",
+  "votes": "100"
+}

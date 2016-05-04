@@ -1,0 +1,13 @@
+{
+  "title": "Grim Tutor",
+  "image": "../img/g/grim-tutor.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Search your library for a card and put that card into your hand, then shuffle your library. You lose 3 life.",
+  "expansion": "Masters Edition III",
+  "rarity": "Rare",
+  "cardNumber": "69",
+  "artist": "Mark Tedin",
+  "rating": "4.355",
+  "votes": "55"
+}

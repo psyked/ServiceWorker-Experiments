@@ -1,0 +1,13 @@
+{
+  "title": "Howling Wolf",
+  "image": "../img/h/howling-wolf.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Wolf",
+  "text": "When Howling Wolf enters the battlefield, you may search your library for up to three cards named Howling Wolf, reveal them, and put them into your hand. If you do, shuffle your library.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "167",
+  "artist": "Nils Hamm",
+  "rating": "2.625",
+  "votes": "4"
+}

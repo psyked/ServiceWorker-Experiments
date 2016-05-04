@@ -1,0 +1,13 @@
+{
+  "title": "Meltdown",
+  "image": "../img/m/meltdown.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Destroy each artifact with converted mana cost X or less.",
+  "expansion": "Urza's Saga",
+  "rarity": "Uncommon",
+  "cardNumber": "203",
+  "artist": "Donato Giancola",
+  "rating": "3.771",
+  "votes": "48"
+}

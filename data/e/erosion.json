@@ -1,0 +1,13 @@
+{
+  "title": "Erosion",
+  "image": "../img/e/erosion.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landAt the beginning of the upkeep of enchanted land's controller, destroy that land unless that player pays  or 1 life.",
+  "expansion": "Fourth Edition",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Pete Venters",
+  "rating": "1.644",
+  "votes": "45"
+}

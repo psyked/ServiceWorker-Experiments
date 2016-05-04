@@ -1,0 +1,13 @@
+{
+  "title": "Echo Tracer",
+  "image": "../img/e/echo-tracer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)When Echo Tracer is turned face up, return target creature to its owner's hand.",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Common",
+  "cardNumber": "51",
+  "artist": "Scott M. Fischer",
+  "rating": "5",
+  "votes": "0"
+}

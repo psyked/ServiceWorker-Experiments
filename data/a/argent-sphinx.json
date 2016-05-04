@@ -1,0 +1,13 @@
+{
+  "title": "Argent Sphinx",
+  "image": "../img/a/argent-sphinx.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Sphinx",
+  "text": "FlyingMetalcraft — : Exile Argent Sphinx. Return it to the battlefield under your control at the beginning of the next end step. Activate this ability only if you control three or more artifacts.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Rare",
+  "cardNumber": "41",
+  "artist": "Chris Rahn",
+  "rating": "5",
+  "votes": "0"
+}

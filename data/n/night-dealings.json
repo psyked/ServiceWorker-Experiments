@@ -1,0 +1,13 @@
+{
+  "title": "Night Dealings",
+  "image": "../img/n/night-dealings.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever a source you control deals damage to another player, put that many theft counters on Night Dealings., Remove X theft counters from Night Dealings: Search your library for a nonland card with converted mana cost X, reveal it, and put it into your hand. Then shuffle your library.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "132",
+  "artist": "Darrell Riche",
+  "rating": "3.083",
+  "votes": "42"
+}

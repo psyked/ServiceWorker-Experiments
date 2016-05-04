@@ -1,0 +1,13 @@
+{
+  "title": "Krosan Restorer",
+  "image": "../img/k/krosan-restorer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Druid",
+  "text": ": Untap target land.Threshold — : Untap up to three target lands. Activate this ability only if seven or more cards are in your graveyard.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "130",
+  "artist": "Clyde Caldwell",
+  "rating": "4.056",
+  "votes": "45"
+}

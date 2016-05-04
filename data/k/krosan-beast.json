@@ -1,0 +1,13 @@
+{
+  "title": "Krosan Beast",
+  "image": "../img/k/krosan-beast.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Squirrel Beast",
+  "text": "Threshold — Krosan Beast gets +7/+7 as long as seven or more cards are in your graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "248",
+  "artist": "Kev Walker",
+  "rating": "4.042",
+  "votes": "84"
+}

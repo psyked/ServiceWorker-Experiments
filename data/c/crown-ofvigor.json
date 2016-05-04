@@ -1,0 +1,13 @@
+{
+  "title": "Crown of Vigor",
+  "image": "../img/c/crown-ofvigor.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+1.Sacrifice Crown of Vigor: Enchanted creature and other creatures that share a creature type with it get +1/+1 until end of turn.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "253",
+  "artist": "Matt Cavotta",
+  "rating": "2.276",
+  "votes": "29"
+}

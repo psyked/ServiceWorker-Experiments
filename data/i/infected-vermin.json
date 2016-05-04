@@ -1,0 +1,13 @@
+{
+  "title": "Infected Vermin",
+  "image": "../img/i/infected-vermin.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Rat",
+  "text": ": Infected Vermin deals 1 damage to each creature and each player.Threshold — : Infected Vermin deals 3 damage to each creature and each player. Activate this ability only if seven or more cards are in your graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "144",
+  "artist": "Anthony S. Waters",
+  "rating": "2.609",
+  "votes": "23"
+}

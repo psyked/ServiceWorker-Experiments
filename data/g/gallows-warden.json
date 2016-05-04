@@ -1,0 +1,13 @@
+{
+  "title": "Gallows Warden",
+  "image": "../img/g/gallows-warden.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit",
+  "text": "FlyingOther Spirit creatures you control get +0/+1.",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "16",
+  "artist": "Dan Scott",
+  "rating": "2.852",
+  "votes": "54"
+}

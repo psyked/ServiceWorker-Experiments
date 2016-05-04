@@ -1,0 +1,13 @@
+{
+  "title": "Gleam of Battle",
+  "image": "../img/g/gleam-ofbattle.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "Whenever a creature you control attacks, put a +1/+1 counter on it.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Uncommon",
+  "cardNumber": "73",
+  "artist": "Raymond Swanland",
+  "rating": "3.162",
+  "votes": "40"
+}

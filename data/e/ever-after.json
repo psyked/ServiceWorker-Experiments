@@ -1,0 +1,13 @@
+{
+  "title": "Ever After",
+  "image": "../img/e/ever-after.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Return up to two target creature cards from your graveyard to the battlefield. Each of those creatures is a black Zombie in addition to its other colors and types. Put Ever After on the bottom of its owner's library.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "109",
+  "artist": "Ryan Alexander Lee",
+  "rating": "5",
+  "votes": "0"
+}

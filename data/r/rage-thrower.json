@@ -1,0 +1,13 @@
+{
+  "title": "Rage Thrower",
+  "image": "../img/r/rage-thrower.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Human Shaman",
+  "text": "Whenever another creature dies, Rage Thrower deals 2 damage to target player.",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "157",
+  "artist": "Peter Mohrbacher",
+  "rating": "3.323",
+  "votes": "65"
+}

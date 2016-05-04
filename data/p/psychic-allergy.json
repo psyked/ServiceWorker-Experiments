@@ -1,0 +1,13 @@
+{
+  "title": "Psychic Allergy",
+  "image": "../img/p/psychic-allergy.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "As Psychic Allergy enters the battlefield, choose a color.At the beginning of each opponent's upkeep, Psychic Allergy deals X damage to that player, where X is the number of nontoken permanents of the chosen color he or she controls.At the beginning of your upkeep, destroy Psychic Allergy unless you sacrifice two Islands.",
+  "expansion": "The Dark",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Mark Tedin",
+  "rating": "2.972",
+  "votes": "36"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Crackdown",
+  "image": "../img/c/crackdown.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Nonwhite creatures with power 3 or greater don't untap during their controllers' untap steps.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "15",
+  "artist": "Rebecca Guay",
+  "rating": "4.207",
+  "votes": "46"
+}

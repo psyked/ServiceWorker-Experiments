@@ -1,0 +1,13 @@
+{
+  "title": "Keldon Vandals",
+  "image": "../img/k/keldon-vandals.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Rogue",
+  "text": "Echo  (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)When Keldon Vandals enters the battlefield, destroy target artifact.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Common",
+  "cardNumber": "91",
+  "artist": "Greg Staples",
+  "rating": "3.943",
+  "votes": "44"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dromad Purebred",
+  "image": "../img/d/dromad-purebred.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Camel Beast",
+  "text": "Whenever Dromad Purebred is dealt damage, you gain 1 life.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "15",
+  "artist": "Carl Critchlow",
+  "rating": "1.436",
+  "votes": "55"
+}

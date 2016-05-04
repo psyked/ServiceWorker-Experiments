@@ -1,0 +1,13 @@
+{
+  "title": "Metathran Aerostat",
+  "image": "../img/m/metathran-aerostat.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Metathran",
+  "text": "Flying: You may put a creature card with converted mana cost X from your hand onto the battlefield. If you do, return Metathran Aerostat to its owner's hand.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "61",
+  "artist": "Greg Staples",
+  "rating": "3.016",
+  "votes": "32"
+}

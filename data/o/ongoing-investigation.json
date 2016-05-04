@@ -1,0 +1,13 @@
+{
+  "title": "Ongoing Investigation",
+  "image": "../img/o/ongoing-investigation.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever one or more creatures you control deal combat damage to a player, investigate. (Put a colorless Clue artifact token onto the battlefield with \", Sacrifice this artifact: Draw a card.\"), Exile a creature card from your graveyard: Investigate. You gain 2 life.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "77",
+  "artist": "Bud Cook",
+  "rating": "5",
+  "votes": "0"
+}

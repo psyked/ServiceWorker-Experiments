@@ -1,0 +1,13 @@
+{
+  "title": "Heliod's Emissary",
+  "image": "../img/h/heliods-emissary.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment Creature  — Elk",
+  "text": "Bestow  (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)Whenever Heliod's Emissary or enchanted creature attacks, tap target creature an opponent controls.Enchanted creature gets +3/+3.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "18",
+  "artist": "Sam Burley",
+  "rating": "3.412",
+  "votes": "34"
+}

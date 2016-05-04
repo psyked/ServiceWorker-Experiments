@@ -1,0 +1,13 @@
+{
+  "title": "Sacred Armory",
+  "image": "../img/s/sacred-armory.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ": Target creature gets +1/+0 until end of turn.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "228",
+  "artist": "Yeong-Hao Han",
+  "rating": "2.833",
+  "votes": "6"
+}

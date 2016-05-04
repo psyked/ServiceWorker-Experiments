@@ -1,0 +1,13 @@
+{
+  "title": "Bane of Progress",
+  "image": "../img/b/bane-ofprogress.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": "When Bane of Progress enters the battlefield, destroy all artifacts and enchantments. Put a +1/+1 counter on Bane of Progress for each permanent destroyed this way.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "175",
+  "artist": "Lars Grant-West",
+  "rating": "5",
+  "votes": "0"
+}

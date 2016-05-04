@@ -1,0 +1,13 @@
+{
+  "title": "Demonic Hordes",
+  "image": "../img/d/demonic-hordes.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Demon",
+  "text": ": Destroy target land.At the beginning of your upkeep, unless you pay , tap Demonic Hordes and sacrifice a land of an opponent's choice.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "76",
+  "artist": "Jesper Myrfors",
+  "rating": "4.011",
+  "votes": "46"
+}

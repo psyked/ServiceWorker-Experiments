@@ -1,0 +1,13 @@
+{
+  "title": "Roilmage's Trick",
+  "image": "../img/r/roilmages-trick.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Converge — Creatures your opponents control get -X/-0 until end of turn, where X is the number of colors of mana spent to cast Roilmage's Trick.Draw a card.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "83",
+  "artist": "Johann Bodin",
+  "rating": "5",
+  "votes": "0"
+}

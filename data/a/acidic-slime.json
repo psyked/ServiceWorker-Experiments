@@ -1,0 +1,13 @@
+{
+  "title": "Acidic Slime",
+  "image": "../img/a/acidic-slime.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Ooze",
+  "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "173",
+  "artist": "Karl Kopinski",
+  "rating": "5",
+  "votes": "0"
+}

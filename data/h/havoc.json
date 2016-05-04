@@ -1,0 +1,13 @@
+{
+  "title": "Havoc",
+  "image": "../img/h/havoc.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever an opponent casts a white spell, he or she loses 2 life.",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Donato Giancola",
+  "rating": "3.214",
+  "votes": "28"
+}

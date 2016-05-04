@@ -1,0 +1,13 @@
+{
+  "title": "Risen Executioner",
+  "image": "../img/r/risen-executioner.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie Warrior",
+  "text": "Risen Executioner can't block.Other Zombie creatures you control get +1/+1.You may cast Risen Executioner from your graveyard if you pay  more to cast it for each other creature card in your graveyard.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Mythic Rare",
+  "cardNumber": "116",
+  "artist": "Craig J Spearing",
+  "rating": "5",
+  "votes": "0"
+}

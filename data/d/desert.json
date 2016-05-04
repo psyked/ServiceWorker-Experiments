@@ -1,0 +1,13 @@
+{
+  "title": "Desert",
+  "image": "../img/d/desert.jpg",
+  "convertedManaCost": "",
+  "types": "Land  — Desert",
+  "text": ": Add  to your mana pool.: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.",
+  "expansion": "From the Vault: Realms",
+  "rarity": "Mythic Rare",
+  "cardNumber": "4",
+  "artist": "Glen Angus",
+  "rating": "3.943",
+  "votes": "35"
+}

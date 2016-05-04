@@ -1,0 +1,13 @@
+{
+  "title": "Rune Snag",
+  "image": "../img/r/rune-snag.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Counter target spell unless its controller pays  plus an additional  for each card named Rune Snag in each graveyard.",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "46",
+  "artist": "Dave Dorman",
+  "rating": "4.577",
+  "votes": "111"
+}

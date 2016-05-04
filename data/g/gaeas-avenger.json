@@ -1,0 +1,13 @@
+{
+  "title": "Gaea's Avenger",
+  "image": "../img/g/gaeas-avenger.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Treefolk",
+  "text": "Gaea's Avenger's power and toughness are each equal to 1 plus the number of artifacts your opponents control.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "155",
+  "artist": "Pete Venters",
+  "rating": "3.278",
+  "votes": "27"
+}

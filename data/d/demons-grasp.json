@@ -1,0 +1,13 @@
+{
+  "title": "Demon's Grasp",
+  "image": "../img/d/demons-grasp.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Target creature gets -5/-5 until end of turn.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "108",
+  "artist": "David Gaillet",
+  "rating": "5",
+  "votes": "0"
+}

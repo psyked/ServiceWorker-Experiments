@@ -1,0 +1,13 @@
+{
+  "title": "Ghosts of the Innocent",
+  "image": "../img/g/ghosts-oftheinnocent.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Spirit",
+  "text": "If a source would deal damage to a creature or player, it deals half that damage, rounded down, to that creature or player instead.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "20",
+  "artist": "Kev Walker",
+  "rating": "2.730",
+  "votes": "37"
+}

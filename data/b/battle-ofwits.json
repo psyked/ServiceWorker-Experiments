@@ -1,0 +1,13 @@
+{
+  "title": "Battle of Wits",
+  "image": "../img/b/battle-ofwits.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, if you have 200 or more cards in your library, you win the game.",
+  "expansion": "Magic 2013",
+  "rarity": "Rare",
+  "cardNumber": "44",
+  "artist": "Jason Chan",
+  "rating": "3.210",
+  "votes": "107"
+}

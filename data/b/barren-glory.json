@@ -1,0 +1,13 @@
+{
+  "title": "Barren Glory",
+  "image": "../img/b/barren-glory.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, if you control no permanents other than Barren Glory and have no cards in hand, you win the game.",
+  "expansion": "Future Sight",
+  "rarity": "Rare",
+  "cardNumber": "3",
+  "artist": "Dave Kendall",
+  "rating": "3.522",
+  "votes": "92"
+}

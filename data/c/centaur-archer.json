@@ -1,0 +1,13 @@
+{
+  "title": "Centaur Archer",
+  "image": "../img/c/centaur-archer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Centaur Archer",
+  "text": ": Centaur Archer deals 1 damage to target creature with flying.",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "142",
+  "artist": "Melissa A. Benson",
+  "rating": "3.283",
+  "votes": "30"
+}

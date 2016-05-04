@@ -1,0 +1,13 @@
+{
+  "title": "Pure Reflection",
+  "image": "../img/p/pure-reflection.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a player casts a creature spell, destroy all Reflections. Then that player puts an X/X white Reflection creature token onto the battlefield, where X is the converted mana cost of that spell.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "27",
+  "artist": "Scott M. Fischer",
+  "rating": "3.554",
+  "votes": "28"
+}

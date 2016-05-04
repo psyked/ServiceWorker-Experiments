@@ -1,0 +1,13 @@
+{
+  "title": "Biomass Mutation",
+  "image": "../img/b/biomass-mutation.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Creatures you control have base power and toughness X/X until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "213",
+  "artist": "Dan Scott",
+  "rating": "3.487",
+  "votes": "77"
+}

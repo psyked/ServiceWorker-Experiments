@@ -1,0 +1,13 @@
+{
+  "title": "Mana Flare",
+  "image": "../img/m/mana-flare.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.",
+  "expansion": "Masters Edition",
+  "rarity": "Rare",
+  "cardNumber": "103",
+  "artist": "Christopher Rush",
+  "rating": "3.936",
+  "votes": "55"
+}

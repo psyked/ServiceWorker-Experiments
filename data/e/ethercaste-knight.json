@@ -1,0 +1,13 @@
+{
+  "title": "Ethercaste Knight",
+  "image": "../img/e/ethercaste-knight.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Human Knight",
+  "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "175",
+  "artist": "Steven Belledin",
+  "rating": "5",
+  "votes": "0"
+}

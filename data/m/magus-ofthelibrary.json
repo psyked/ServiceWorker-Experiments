@@ -1,0 +1,13 @@
+{
+  "title": "Magus of the Library",
+  "image": "../img/m/magus-ofthelibrary.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": ": Add  to your mana pool.: Draw a card. Activate this ability only if you have exactly seven cards in hand.",
+  "expansion": "Planar Chaos",
+  "rarity": "Rare",
+  "cardNumber": "134",
+  "artist": "Wayne Reynolds",
+  "rating": "4.031",
+  "votes": "64"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Geist-Honored Monk",
+  "image": "../img/g/geist-honored-monk.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Monk",
+  "text": "VigilanceGeist-Honored Monk's power and toughness are each equal to the number of creatures you control.When Geist-Honored Monk enters the battlefield, put two 1/1 white Spirit creature tokens with flying onto the battlefield.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "72",
+  "artist": "Clint Cearley",
+  "rating": "5",
+  "votes": "0"
+}

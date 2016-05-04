@@ -1,0 +1,13 @@
+{
+  "title": "Enlisted Wurm",
+  "image": "../img/e/enlisted-wurm.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Wurm",
+  "text": "Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "90",
+  "artist": "Steve Prescott",
+  "rating": "3.081",
+  "votes": "43"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Reversal of Fortune",
+  "image": "../img/r/reversal-offortune.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Target opponent reveals his or her hand. You may copy an instant or sorcery card in it. If you do, you may cast the copy without paying its mana cost.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Rare",
+  "cardNumber": "77",
+  "artist": "Greg Hildebrandt",
+  "rating": "3.375",
+  "votes": "48"
+}

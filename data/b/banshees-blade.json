@@ -1,0 +1,13 @@
+{
+  "title": "Banshee's Blade",
+  "image": "../img/b/banshees-blade.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +1/+1 for each charge counter on Banshee's Blade.Whenever equipped creature deals combat damage, put a charge counter on Banshee's Blade.Equip  (: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "144",
+  "artist": "Bradley Williams",
+  "rating": "3.282",
+  "votes": "39"
+}

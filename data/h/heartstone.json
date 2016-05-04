@@ -1,0 +1,13 @@
+{
+  "title": "Heartstone",
+  "image": "../img/h/heartstone.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Activated abilities of creatures cost  less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.",
+  "expansion": "Premium Deck Series: Slivers",
+  "rarity": "Uncommon",
+  "cardNumber": "26",
+  "artist": "John Matson",
+  "rating": "3.909",
+  "votes": "55"
+}

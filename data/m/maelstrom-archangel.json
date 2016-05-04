@@ -1,0 +1,13 @@
+{
+  "title": "Maelstrom Archangel",
+  "image": "../img/m/maelstrom-archangel.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Angel",
+  "text": "FlyingWhenever Maelstrom Archangel deals combat damage to a player, you may cast a nonland card from your hand without paying its mana cost.",
+  "expansion": "Conflux",
+  "rarity": "Mythic Rare",
+  "cardNumber": "115",
+  "artist": "Cyril Van Der Haegen",
+  "rating": "4.091",
+  "votes": "171"
+}

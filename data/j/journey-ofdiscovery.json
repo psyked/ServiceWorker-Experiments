@@ -1,0 +1,13 @@
+{
+  "title": "Journey of Discovery",
+  "image": "../img/j/journey-ofdiscovery.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Choose one —• Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library.• You may play up to two additional lands this turn.Entwine  (Choose both if you pay the entwine cost.)",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "123",
+  "artist": "John Matson",
+  "rating": "3.671",
+  "votes": "38"
+}

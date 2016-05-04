@@ -1,0 +1,13 @@
+{
+  "title": "Giant Dustwasp",
+  "image": "../img/g/giant-dustwasp.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Insect",
+  "text": "FlyingSuspend 4— (Rather than cast this card from your hand, you may pay  and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "145",
+  "artist": "Greg Hildebrandt",
+  "rating": "3.265",
+  "votes": "17"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Culling Mark",
+  "image": "../img/c/culling-mark.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target creature blocks this turn if able.",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "120",
+  "artist": "Tomasz Jedruszek",
+  "rating": "1.078",
+  "votes": "45"
+}

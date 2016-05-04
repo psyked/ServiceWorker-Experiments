@@ -1,0 +1,13 @@
+{
+  "title": "Port Inspector",
+  "image": "../img/p/port-inspector.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human",
+  "text": "Whenever Port Inspector becomes blocked, you may look at defending player's hand.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "90",
+  "artist": "Dan Frazier",
+  "rating": "2.617",
+  "votes": "30"
+}

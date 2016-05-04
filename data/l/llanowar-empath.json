@@ -1,0 +1,13 @@
+{
+  "title": "Llanowar Empath",
+  "image": "../img/l/llanowar-empath.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elf Shaman",
+  "text": "When Llanowar Empath enters the battlefield, scry 2, then reveal the top card of your library. If it's a creature card, put it into your hand. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "185",
+  "artist": "Warren Mahy",
+  "rating": "5",
+  "votes": "0"
+}

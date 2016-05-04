@@ -1,0 +1,13 @@
+{
+  "title": "Blessed Spirits",
+  "image": "../img/b/blessed-spirits.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "FlyingWhenever you cast an enchantment spell, put a +1/+1 counter on Blessed Spirits.",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "7",
+  "artist": "Anna Steinbauer",
+  "rating": "5",
+  "votes": "0"
+}

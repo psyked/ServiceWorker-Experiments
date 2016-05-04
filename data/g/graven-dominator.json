@@ -1,0 +1,13 @@
+{
+  "title": "Graven Dominator",
+  "image": "../img/g/graven-dominator.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Gargoyle",
+  "text": "FlyingHaunt (When this creature dies, exile it haunting target creature.)When Graven Dominator enters the battlefield or the creature it haunts dies, each other creature has base power and toughness 1/1 until end of turn.",
+  "expansion": "Guildpact",
+  "rarity": "Rare",
+  "cardNumber": "7",
+  "artist": "Carl Critchlow",
+  "rating": "3.462",
+  "votes": "39"
+}

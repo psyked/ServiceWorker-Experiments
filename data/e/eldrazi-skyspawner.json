@@ -1,0 +1,13 @@
+{
+  "title": "Eldrazi Skyspawner",
+  "image": "../img/e/eldrazi-skyspawner.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.)FlyingWhen Eldrazi Skyspawner enters the battlefield, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has \"Sacrifice this creature: Add  to your mana pool.\"",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "58",
+  "artist": "Chase Stone",
+  "rating": "5",
+  "votes": "0"
+}

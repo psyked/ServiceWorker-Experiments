@@ -1,0 +1,13 @@
+{
+  "title": "Deepwood Tantiv",
+  "image": "../img/d/deepwood-tantiv.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast",
+  "text": "Whenever Deepwood Tantiv becomes blocked, you gain 2 life.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "241",
+  "artist": "Joel Biske",
+  "rating": "2.129",
+  "votes": "31"
+}

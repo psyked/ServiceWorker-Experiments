@@ -1,0 +1,13 @@
+{
+  "title": "Cinder Cloud",
+  "image": "../img/c/cinder-cloud.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Destroy target creature. If a white creature dies this way, Cinder Cloud deals damage to that creature's controller equal to the creature's power.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Jock",
+  "rating": "3.100",
+  "votes": "35"
+}

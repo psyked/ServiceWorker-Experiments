@@ -1,0 +1,13 @@
+{
+  "title": "Blood Tithe",
+  "image": "../img/b/blood-tithe.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Each opponent loses 3 life. You gain life equal to the life lost this way.",
+  "expansion": "Magic 2011",
+  "rarity": "Common",
+  "cardNumber": "84",
+  "artist": "Robh Ruppel",
+  "rating": "3.060",
+  "votes": "58"
+}

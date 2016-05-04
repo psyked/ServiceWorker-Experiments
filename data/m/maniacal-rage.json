@@ -1,0 +1,13 @@
+{
+  "title": "Maniacal Rage",
+  "image": "../img/m/maniacal-rage.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+2 and can't block.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "142",
+  "artist": "Pete Venters",
+  "rating": "5",
+  "votes": "0"
+}

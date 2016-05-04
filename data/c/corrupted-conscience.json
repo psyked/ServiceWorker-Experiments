@@ -1,0 +1,13 @@
+{
+  "title": "Corrupted Conscience",
+  "image": "../img/c/corrupted-conscience.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureYou control enchanted creature.Enchanted creature has infect. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Uncommon",
+  "cardNumber": "22",
+  "artist": "Jason Chan",
+  "rating": "3.730",
+  "votes": "137"
+}

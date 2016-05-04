@@ -1,0 +1,13 @@
+{
+  "title": "Daring Skyjek",
+  "image": "../img/d/daring-skyjek.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Knight",
+  "text": "Battalion — Whenever Daring Skyjek and at least two other creatures attack, Daring Skyjek gains flying until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "9",
+  "artist": "Jason Chan",
+  "rating": "3.354",
+  "votes": "72"
+}

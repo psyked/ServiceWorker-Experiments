@@ -1,0 +1,13 @@
+{
+  "title": "Leaf Arrow",
+  "image": "../img/l/leaf-arrow.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Leaf Arrow deals 3 damage to target creature with flying.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "194",
+  "artist": "Eric Deschamps",
+  "rating": "3.282",
+  "votes": "55"
+}

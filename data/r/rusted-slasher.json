@@ -1,0 +1,13 @@
+{
+  "title": "Rusted Slasher",
+  "image": "../img/r/rusted-slasher.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Horror",
+  "text": "Sacrifice an artifact: Regenerate Rusted Slasher.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "128",
+  "artist": "Adrian Smith",
+  "rating": "2.115",
+  "votes": "48"
+}

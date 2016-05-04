@@ -1,0 +1,13 @@
+{
+  "title": "Profaner of the Dead",
+  "image": "../img/p/profaner-ofthedead.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Naga Wizard",
+  "text": "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)When Profaner of the Dead exploits a creature, return to their owners' hands all creatures your opponents control with toughness less than the exploited creature's toughness.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "70",
+  "artist": "Vincent Proce",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Equinox",
+  "image": "../img/e/equinox.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landEnchanted land has \": Counter target spell if it would destroy a land you control.\"",
+  "expansion": "Legends",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Susan Van Camp",
+  "rating": "2.378",
+  "votes": "37"
+}

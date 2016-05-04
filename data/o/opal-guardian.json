@@ -1,0 +1,13 @@
+{
+  "title": "Opal Guardian",
+  "image": "../img/o/opal-guardian.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "When an opponent casts a creature spell, if Opal Guardian is an enchantment, Opal Guardian becomes a 3/4 Gargoyle creature with flying and protection from red.",
+  "expansion": "Time Spiral",
+  "rarity": "Rare",
+  "cardNumber": "30",
+  "artist": "Christopher Rush",
+  "rating": "3.562",
+  "votes": "40"
+}

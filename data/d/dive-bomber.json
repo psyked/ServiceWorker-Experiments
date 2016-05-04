@@ -1,0 +1,13 @@
+{
+  "title": "Dive Bomber",
+  "image": "../img/d/dive-bomber.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Bird Soldier",
+  "text": "Flying, Sacrifice Dive Bomber: Dive Bomber deals 2 damage to target attacking or blocking creature.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "26",
+  "artist": "Randy Gallegos",
+  "rating": "2.633",
+  "votes": "15"
+}

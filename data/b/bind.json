@@ -1,0 +1,13 @@
+{
+  "title": "Bind",
+  "image": "../img/b/bind.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Counter target activated ability. (Mana abilities can't be targeted.)Draw a card.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "182",
+  "artist": "Mark Zug",
+  "rating": "4.150",
+  "votes": "60"
+}

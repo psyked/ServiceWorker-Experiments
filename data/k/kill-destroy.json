@@ -1,0 +1,13 @@
+{
+  "title": "Kill Destroy",
+  "image": "../img/k/kill-destroy.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Destroy target nonblack creature.Gotcha Whenever an opponent says \"Kill\" or \"Destroy,\" you may say \"Gotcha\" If you do, return Kill Destroy from your graveyard to your hand.",
+  "expansion": "Unhinged",
+  "rarity": "Uncommon",
+  "cardNumber": "58",
+  "artist": "Corey D. Macourek",
+  "rating": "3.679",
+  "votes": "28"
+}

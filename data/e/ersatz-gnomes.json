@@ -1,0 +1,13 @@
+{
+  "title": "Ersatz Gnomes",
+  "image": "../img/e/ersatz-gnomes.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Gnome",
+  "text": ": Target spell becomes colorless.: Target permanent becomes colorless until end of turn.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Ron Spencer",
+  "rating": "3.837",
+  "votes": "52"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Noxious Toad",
+  "image": "../img/n/noxious-toad.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Frog",
+  "text": "When Noxious Toad dies, each opponent discards a card.",
+  "expansion": "Portal",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Adrian Smith",
+  "rating": "2.017",
+  "votes": "30"
+}

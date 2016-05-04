@@ -1,0 +1,13 @@
+{
+  "title": "Rabid Bloodsucker",
+  "image": "../img/r/rabid-bloodsucker.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Vampire",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)When Rabid Bloodsucker enters the battlefield, each player loses 2 life.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "113",
+  "artist": "Seb McKinnon",
+  "rating": "5",
+  "votes": "0"
+}

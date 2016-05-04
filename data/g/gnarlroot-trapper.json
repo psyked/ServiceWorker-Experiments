@@ -1,0 +1,13 @@
+{
+  "title": "Gnarlroot Trapper",
+  "image": "../img/g/gnarlroot-trapper.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Druid",
+  "text": ", Pay 1 life: Add  to your mana pool. Spend this mana only to cast an Elf creature spell.: Target attacking Elf you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "100",
+  "artist": "Christopher Moeller",
+  "rating": "5",
+  "votes": "0"
+}

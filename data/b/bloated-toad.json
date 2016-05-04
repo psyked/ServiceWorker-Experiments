@@ -1,0 +1,13 @@
+{
+  "title": "Bloated Toad",
+  "image": "../img/b/bloated-toad.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Frog",
+  "text": "Protection from blueCycling  (, Discard this card: Draw a card.)",
+  "expansion": "Urza's Legacy",
+  "rarity": "Uncommon",
+  "cardNumber": "97",
+  "artist": "Una Fricker",
+  "rating": "3.111",
+  "votes": "36"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Myr Turbine",
+  "image": "../img/m/myr-turbine.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": ": Put a 1/1 colorless Myr artifact creature token onto the battlefield., Tap five untapped Myr you control: Search your library for a Myr creature card, put it onto the battlefield, then shuffle your library.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Rare",
+  "cardNumber": "117",
+  "artist": "Randis Albion",
+  "rating": "3.524",
+  "votes": "85"
+}

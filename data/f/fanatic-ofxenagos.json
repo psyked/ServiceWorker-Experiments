@@ -1,0 +1,13 @@
+{
+  "title": "Fanatic of Xenagos",
+  "image": "../img/f/fanatic-ofxenagos.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Centaur Warrior",
+  "text": "TrampleTribute 1 (As this creature enters the battlefield, an opponent of your choice may place a +1/+1 counter on it.)When Fanatic of Xenagos enters the battlefield, if tribute wasn't paid, it gets +1/+1 and gains haste until end of turn.",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "147",
+  "artist": "Volkan Baga",
+  "rating": "3.823",
+  "votes": "62"
+}

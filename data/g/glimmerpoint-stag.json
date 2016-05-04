@@ -1,0 +1,13 @@
+{
+  "title": "Glimmerpoint Stag",
+  "image": "../img/g/glimmerpoint-stag.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elk",
+  "text": "VigilanceWhen Glimmerpoint Stag enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Uncommon",
+  "cardNumber": "70",
+  "artist": "Ryan Pancoast",
+  "rating": "3.857",
+  "votes": "7"
+}

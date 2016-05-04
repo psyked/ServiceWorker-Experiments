@@ -1,0 +1,13 @@
+{
+  "title": "Psionic Sliver",
+  "image": "../img/p/psionic-sliver.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Sliver",
+  "text": "All Sliver creatures have \": This creature deals 2 damage to target creature or player and 3 damage to itself.\"",
+  "expansion": "Time Spiral",
+  "rarity": "Rare",
+  "cardNumber": "72",
+  "artist": "Wayne England",
+  "rating": "3.667",
+  "votes": "48"
+}

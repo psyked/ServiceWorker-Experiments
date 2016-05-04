@@ -1,0 +1,13 @@
+{
+  "title": "Ghoulflesh",
+  "image": "../img/g/ghoulflesh.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets -1/-1 and is a black Zombie in addition to its other colors and types.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "103",
+  "artist": "Igor Kieryluk",
+  "rating": "1.484",
+  "votes": "31"
+}

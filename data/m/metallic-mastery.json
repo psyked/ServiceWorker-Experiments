@@ -1,0 +1,13 @@
+{
+  "title": "Metallic Mastery",
+  "image": "../img/m/metallic-mastery.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Gain control of target artifact until end of turn. Untap that artifact. It gains haste until end of turn.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Uncommon",
+  "cardNumber": "71",
+  "artist": "Erica Yang",
+  "rating": "2.762",
+  "votes": "42"
+}

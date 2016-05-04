@@ -1,0 +1,13 @@
+{
+  "title": "Ajani's Chosen",
+  "image": "../img/a/ajanis-chosen.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Cat Soldier",
+  "text": "Whenever an enchantment enters the battlefield under your control, put a 2/2 white Cat creature token onto the battlefield. If that enchantment is an Aura, you may attach it to the token.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "57",
+  "artist": "Wayne Reynolds",
+  "rating": "5",
+  "votes": "0"
+}

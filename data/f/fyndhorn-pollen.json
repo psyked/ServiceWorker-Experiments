@@ -1,0 +1,13 @@
+{
+  "title": "Fyndhorn Pollen",
+  "image": "../img/f/fyndhorn-pollen.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Cumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)All creatures get -1/-0.: All creatures get -1/-0 until end of turn.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "166",
+  "artist": "Phil Foglio",
+  "rating": "1.792",
+  "votes": "24"
+}

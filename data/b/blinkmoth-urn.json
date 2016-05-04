@@ -1,0 +1,13 @@
+{
+  "title": "Blinkmoth Urn",
+  "image": "../img/b/blinkmoth-urn.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": "At the beginning of each player's precombat main phase, if Blinkmoth Urn is untapped, that player adds  to his or her mana pool for each artifact he or she controls.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "145",
+  "artist": "David Martin",
+  "rating": "4.000",
+  "votes": "44"
+}

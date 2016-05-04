@@ -1,0 +1,13 @@
+{
+  "title": "Absorb Vis",
+  "image": "../img/a/absorb-vis.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "Target player loses 4 life and you gain 4 life.Basic landcycling  (, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "71",
+  "artist": "Brandon Kitkouski",
+  "rating": "2.635",
+  "votes": "37"
+}

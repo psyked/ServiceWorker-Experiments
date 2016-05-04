@@ -1,0 +1,13 @@
+{
+  "title": "Hobgoblin Dragoon",
+  "image": "../img/h/hobgoblin-dragoon.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Knight",
+  "text": "Flying, first strike",
+  "expansion": "Eventide",
+  "rarity": "Common",
+  "cardNumber": "142",
+  "artist": "Matt Cavotta",
+  "rating": "2.259",
+  "votes": "56"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Darkthicket Wolf",
+  "image": "../img/d/darkthicket-wolf.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Wolf",
+  "text": ": Darkthicket Wolf gets +2/+2 until end of turn. Activate this ability only once each turn.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "175",
+  "artist": "Wayne England",
+  "rating": "3.135",
+  "votes": "52"
+}

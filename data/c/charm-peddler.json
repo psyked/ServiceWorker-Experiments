@@ -1,0 +1,13 @@
+{
+  "title": "Charm Peddler",
+  "image": "../img/c/charm-peddler.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Spellshaper",
+  "text": ", , Discard a card: The next time a source of your choice would deal damage to target creature this turn, prevent that damage.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "6",
+  "artist": "John Matson",
+  "rating": "2.786",
+  "votes": "28"
+}

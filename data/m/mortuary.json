@@ -1,0 +1,13 @@
+{
+  "title": "Mortuary",
+  "image": "../img/m/mortuary.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever a creature is put into your graveyard from the battlefield, put that card on top of your library.",
+  "expansion": "Stronghold",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Robert Bliss",
+  "rating": "3.438",
+  "votes": "32"
+}

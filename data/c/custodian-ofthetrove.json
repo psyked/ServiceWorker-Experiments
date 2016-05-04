@@ -1,0 +1,13 @@
+{
+  "title": "Custodian of the Trove",
+  "image": "../img/c/custodian-ofthetrove.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Golem",
+  "text": "DefenderCustodian of the Trove enters the battlefield tapped.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "236",
+  "artist": "Raoul Vitale",
+  "rating": "5",
+  "votes": "0"
+}

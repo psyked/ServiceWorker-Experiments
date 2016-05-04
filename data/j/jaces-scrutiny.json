@@ -1,0 +1,13 @@
+{
+  "title": "Jace's Scrutiny",
+  "image": "../img/j/jaces-scrutiny.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets -4/-0 until end of turn.Investigate. (Put a colorless Clue artifact token onto the battlefield with \", Sacrifice this artifact: Draw a card.\")",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "70",
+  "artist": "Slawomir Maniak",
+  "rating": "5",
+  "votes": "0"
+}

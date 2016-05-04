@@ -1,0 +1,13 @@
+{
+  "title": "Sacrifice",
+  "image": "../img/s/sacrifice.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "As an additional cost to cast Sacrifice, sacrifice a creature.Add to your mana pool an amount of  equal to the sacrificed creature's converted mana cost.",
+  "expansion": "Revised Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Dan Frazier",
+  "rating": "3.867",
+  "votes": "45"
+}

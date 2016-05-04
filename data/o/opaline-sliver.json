@@ -1,0 +1,13 @@
+{
+  "title": "Opaline Sliver",
+  "image": "../img/o/opaline-sliver.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Sliver",
+  "text": "All Slivers have \"Whenever this permanent becomes the target of a spell an opponent controls, you may draw a card.\"",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "244",
+  "artist": "Dave Dorman",
+  "rating": "3.541",
+  "votes": "49"
+}

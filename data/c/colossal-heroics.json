@@ -1,0 +1,13 @@
+{
+  "title": "Colossal Heroics",
+  "image": "../img/c/colossal-heroics.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Strive — Colossal Heroics costs  more to cast for each target beyond the first.Any number of target creatures each get +2/+2 until end of turn. Untap those creatures.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "118",
+  "artist": "Seb McKinnon",
+  "rating": "2.868",
+  "votes": "19"
+}

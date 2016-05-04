@@ -1,0 +1,13 @@
+{
+  "title": "Crusher Zendikon",
+  "image": "../img/c/crusher-zendikon.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landEnchanted land is a 4/2 red Beast creature with trample. It's still a land.When enchanted land dies, return that card to its owner's hand.",
+  "expansion": "Worldwake",
+  "rarity": "Common",
+  "cardNumber": "78",
+  "artist": "Ryan Pancoast",
+  "rating": "3.008",
+  "votes": "64"
+}

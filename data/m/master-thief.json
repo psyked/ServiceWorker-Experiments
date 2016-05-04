@@ -1,0 +1,13 @@
+{
+  "title": "Master Thief",
+  "image": "../img/m/master-thief.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Rogue",
+  "text": "When Master Thief enters the battlefield, gain control of target artifact for as long as you control Master Thief.",
+  "expansion": "Magic 2012",
+  "rarity": "Uncommon",
+  "cardNumber": "64",
+  "artist": "Christopher Moeller",
+  "rating": "3.898",
+  "votes": "64"
+}

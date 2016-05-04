@@ -1,0 +1,13 @@
+{
+  "title": "Lavamancer's Skill",
+  "image": "../img/l/lavamancers-skill.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has \": This creature deals 1 damage to target creature.\"As long as enchanted creature is a Wizard, it has \": This creature deals 2 damage to target creature.\"",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "215",
+  "artist": "Monte Michael Moore",
+  "rating": "3.171",
+  "votes": "35"
+}

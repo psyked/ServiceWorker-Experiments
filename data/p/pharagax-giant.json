@@ -1,0 +1,13 @@
+{
+  "title": "Pharagax Giant",
+  "image": "../img/p/pharagax-giant.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Giant",
+  "text": "Tribute 2 (As this creature enters the battlefield, an opponent of your choice may place two +1/+1 counters on it.)When Pharagax Giant enters the battlefield, if tribute wasn't paid, Pharagax Giant deals 5 damage to each opponent.",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "104",
+  "artist": "Ryan Pancoast",
+  "rating": "3.462",
+  "votes": "26"
+}

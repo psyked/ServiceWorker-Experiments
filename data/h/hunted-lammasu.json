@@ -1,0 +1,13 @@
+{
+  "title": "Hunted Lammasu",
+  "image": "../img/h/hunted-lammasu.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Lammasu",
+  "text": "FlyingWhen Hunted Lammasu enters the battlefield, target opponent puts a 4/4 black Horror creature token onto the battlefield.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "22",
+  "artist": "Mark Zug",
+  "rating": "3.424",
+  "votes": "66"
+}

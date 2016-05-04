@@ -1,0 +1,13 @@
+{
+  "title": "Instigator",
+  "image": "../img/i/instigator.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Spellshaper",
+  "text": ", , Discard a card: Creatures target player controls attack this turn if able.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "140",
+  "artist": "Fred Fields",
+  "rating": "2.455",
+  "votes": "22"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Induce Despair",
+  "image": "../img/i/induce-despair.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "As an additional cost to cast Induce Despair, reveal a creature card from your hand.Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "53",
+  "artist": "Igor Kieryluk",
+  "rating": "5",
+  "votes": "0"
+}

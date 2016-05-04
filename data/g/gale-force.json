@@ -1,0 +1,13 @@
+{
+  "title": "Gale Force",
+  "image": "../img/g/gale-force.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Gale Force deals 5 damage to each creature with flying.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "209",
+  "artist": "Lars Grant-West",
+  "rating": "2.370",
+  "votes": "27"
+}

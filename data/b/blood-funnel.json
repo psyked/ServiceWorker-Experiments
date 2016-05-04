@@ -1,0 +1,13 @@
+{
+  "title": "Blood Funnel",
+  "image": "../img/b/blood-funnel.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Noncreature spells you cast cost  less to cast.Whenever you cast a noncreature spell, counter that spell unless you sacrifice a creature.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "77",
+  "artist": "Thomas M. Baxa",
+  "rating": "2.235",
+  "votes": "98"
+}

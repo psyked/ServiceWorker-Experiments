@@ -1,0 +1,13 @@
+{
+  "title": "Downsize",
+  "image": "../img/d/downsize.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature you don't control gets -4/-0 until end of turn.Overload  (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "38",
+  "artist": "Ryan Pancoast",
+  "rating": "2.709",
+  "votes": "55"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dread Wight",
+  "image": "../img/d/dread-wight.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie",
+  "text": "At end of combat, put a paralyzation counter on each creature blocking or blocked by Dread Wight and tap those creatures. Each of those creatures doesn't untap during its controller's untap step for as long as it has a paralyzation counter on it. Each of those creatures gains \": Remove a paralyzation counter from this creature.\"",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "79",
+  "artist": "Daniel Gelon",
+  "rating": "3.762",
+  "votes": "21"
+}

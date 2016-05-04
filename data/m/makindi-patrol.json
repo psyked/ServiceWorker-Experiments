@@ -1,0 +1,13 @@
+{
+  "title": "Makindi Patrol",
+  "image": "../img/m/makindi-patrol.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight Ally",
+  "text": "Rally — Whenever Makindi Patrol or another Ally enters the battlefield under your control, creatures you control gain vigilance until end of turn.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "39",
+  "artist": "David Palumbo",
+  "rating": "5",
+  "votes": "0"
+}

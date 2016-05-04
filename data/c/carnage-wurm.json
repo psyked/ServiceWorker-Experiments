@@ -1,0 +1,13 @@
+{
+  "title": "Carnage Wurm",
+  "image": "../img/c/carnage-wurm.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Wurm",
+  "text": "Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)",
+  "expansion": "Magic 2012",
+  "rarity": "Uncommon",
+  "cardNumber": "168",
+  "artist": "Dave Kendall",
+  "rating": "3.833",
+  "votes": "84"
+}

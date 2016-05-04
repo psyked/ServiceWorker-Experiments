@@ -1,0 +1,13 @@
+{
+  "title": "Lava Tubes",
+  "image": "../img/l/lava-tubes.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "Lava Tubes doesn't untap during your untap step if it has a depletion counter on it.At the beginning of your upkeep, remove a depletion counter from Lava Tubes.: Add  or  to your mana pool. Put a depletion counter on Lava Tubes.",
+  "expansion": "Ice Age",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Bryon Wackwitz",
+  "rating": "2.300",
+  "votes": "35"
+}

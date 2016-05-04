@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Devourer",
+  "image": "../img/p/phyrexian-devourer.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Construct",
+  "text": "When Phyrexian Devourer's power is 7 or greater, sacrifice it.Exile the top card of your library: Put X +1/+1 counters on Phyrexian Devourer, where X is the exiled card's converted mana cost.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "216",
+  "artist": "Mark Tedin",
+  "rating": "3.354",
+  "votes": "41"
+}

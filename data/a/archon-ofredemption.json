@@ -1,0 +1,13 @@
+{
+  "title": "Archon of Redemption",
+  "image": "../img/a/archon-ofredemption.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Archon",
+  "text": "FlyingWhenever Archon of Redemption or another creature with flying enters the battlefield under your control, you may gain life equal to that creature's power.",
+  "expansion": "Worldwake",
+  "rarity": "Rare",
+  "cardNumber": "3",
+  "artist": "Steven Belledin",
+  "rating": "3.521",
+  "votes": "96"
+}

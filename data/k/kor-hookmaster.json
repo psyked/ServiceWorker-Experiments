@@ -1,0 +1,13 @@
+{
+  "title": "Kor Hookmaster",
+  "image": "../img/k/kor-hookmaster.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kor Soldier",
+  "text": "When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Common",
+  "cardNumber": "52",
+  "artist": "Wayne Reynolds",
+  "rating": "3.000",
+  "votes": "1"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Great Wall",
+  "image": "../img/g/great-wall.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Creatures with plainswalk can be blocked as though they didn't have plainswalk.",
+  "expansion": "Legends",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Sandra Everingham",
+  "rating": "1.068",
+  "votes": "155"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Marath, Will of the Wild",
+  "image": "../img/m/marath-willofthewild.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Creature  — Elemental Beast",
+  "text": "Marath, Will of the Wild enters the battlefield with a number of +1/+1 counters on it equal to the amount of mana spent to cast it., Remove X +1/+1 counters from Marath: Choose one —• Put X +1/+1 counters on target creature. X can't be 0.• Marath deals X damage to target creature or player. X can't be 0.• Put an X/X green Elemental creature token onto the battlefield. X can't be 0.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Mythic Rare",
+  "cardNumber": "198",
+  "artist": "Tyler Jacobson",
+  "rating": "3.920",
+  "votes": "50"
+}

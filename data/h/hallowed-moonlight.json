@@ -1,0 +1,13 @@
+{
+  "title": "Hallowed Moonlight",
+  "image": "../img/h/hallowed-moonlight.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Until end of turn, if a creature would enter the battlefield and it wasn't cast, exile it instead.Draw a card.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "16",
+  "artist": "Mike Bierek",
+  "rating": "5",
+  "votes": "0"
+}

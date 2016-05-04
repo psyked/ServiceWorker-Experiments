@@ -1,0 +1,13 @@
+{
+  "title": "Ondu War Cleric",
+  "image": "../img/o/ondu-warcleric.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric Ally",
+  "text": "Cohort — , Tap an untapped Ally you control: You gain 2 life.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "31",
+  "artist": "Ben Maier",
+  "rating": "5",
+  "votes": "0"
+}

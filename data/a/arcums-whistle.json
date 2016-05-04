@@ -1,0 +1,13 @@
+{
+  "title": "Arcum's Whistle",
+  "image": "../img/a/arcums-whistle.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", : Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That player may pay , where X is that creature's converted mana cost. If he or she doesn't, the creature attacks this turn if able, and at the beginning of the next end step, destroy it if it didn't attack. Activate this ability only before attackers are declared.",
+  "expansion": "Ice Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Quinton Hoover",
+  "rating": "2.161",
+  "votes": "28"
+}

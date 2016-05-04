@@ -1,0 +1,13 @@
+{
+  "title": "Carnivorous Death-Parrot",
+  "image": "../img/c/carnivorous-death-parrot.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature — Bird",
+  "text": "FlyingAt the beginning of your upkeep, sacrifice Carnivorous Death-Parrot unless you say its flavor text.",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "29",
+  "artist": "Tim Hildebrandt",
+  "rating": "3.908",
+  "votes": "38"
+}

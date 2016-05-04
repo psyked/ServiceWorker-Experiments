@@ -1,0 +1,13 @@
+{
+  "title": "Frostling",
+  "image": "../img/f/frostling.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Spirit",
+  "text": "Sacrifice Frostling: Frostling deals 1 damage to target creature.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "103",
+  "artist": "Carl Critchlow",
+  "rating": "3.447",
+  "votes": "38"
+}

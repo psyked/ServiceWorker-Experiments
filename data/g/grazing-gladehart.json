@@ -1,0 +1,13 @@
+{
+  "title": "Grazing Gladehart",
+  "image": "../img/g/grazing-gladehart.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Antelope",
+  "text": "Landfall — Whenever a land enters the battlefield under your control, you may gain 2 life.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "14",
+  "artist": "Ryan Pancoast",
+  "rating": "5",
+  "votes": "0"
+}

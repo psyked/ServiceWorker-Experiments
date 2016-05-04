@@ -1,0 +1,13 @@
+{
+  "title": "Lighthouse Chronologist",
+  "image": "../img/l/lighthouse-chronologist.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": "Level up  (: Put a level counter on this. Level up only as a sorcery.)LEVEL 4-62/4LEVEL 7+3/5At the beginning of each end step, if it's not your turn, take an extra turn after this one.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Mythic Rare",
+  "cardNumber": "75",
+  "artist": "Steven Belledin",
+  "rating": "4.274",
+  "votes": "164"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Loam Dryad",
+  "image": "../img/l/loam-dryad.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Dryad Horror",
+  "text": ", Tap an untapped creature you control: Add one mana of any color to your mana pool.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "216",
+  "artist": "Jose Cabrera",
+  "rating": "5",
+  "votes": "0"
+}

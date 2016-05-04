@@ -1,0 +1,13 @@
+{
+  "title": "Kraken of the Straits",
+  "image": "../img/k/kraken-ofthestraits.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Kraken",
+  "text": "Creatures with power less than the number of Islands you control can't block Kraken of the Straits.",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "42",
+  "artist": "Richard Wright",
+  "rating": "3.480",
+  "votes": "25"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Plant Elemental",
+  "image": "../img/p/plant-elemental.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Plant Elemental",
+  "text": "When Plant Elemental enters the battlefield, sacrifice it unless you sacrifice a Forest.",
+  "expansion": "Portal",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Ted Naifeh",
+  "rating": "3.484",
+  "votes": "31"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Cagemail",
+  "image": "../img/c/cagemail.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+2 and can't attack.",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "7",
+  "artist": "Scott M. Fischer",
+  "rating": "2.870",
+  "votes": "27"
+}

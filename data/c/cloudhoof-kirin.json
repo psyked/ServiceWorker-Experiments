@@ -1,0 +1,13 @@
+{
+  "title": "Cloudhoof Kirin",
+  "image": "../img/c/cloudhoof-kirin.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Kirin Spirit",
+  "text": "FlyingWhenever you cast a Spirit or Arcane spell, you may have target player put the top X cards of his or her library into his or her graveyard, where X is that spell's converted mana cost.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "31",
+  "artist": "Randy Gallegos",
+  "rating": "3.807",
+  "votes": "44"
+}

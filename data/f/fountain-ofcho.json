@@ -1,0 +1,13 @@
+{
+  "title": "Fountain of Cho",
+  "image": "../img/f/fountain-ofcho.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "Fountain of Cho enters the battlefield tapped.: Put a storage counter on Fountain of Cho., Remove any number of storage counters from Fountain of Cho: Add  to your mana pool for each storage counter removed this way.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "317",
+  "artist": "Scott Hampton",
+  "rating": "3.260",
+  "votes": "25"
+}

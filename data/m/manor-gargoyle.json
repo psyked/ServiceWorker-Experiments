@@ -1,0 +1,13 @@
+{
+  "title": "Manor Gargoyle",
+  "image": "../img/m/manor-gargoyle.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Gargoyle",
+  "text": "DefenderManor Gargoyle has indestructible as long as it has defender.: Until end of turn, Manor Gargoyle loses defender and gains flying.",
+  "expansion": "Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "228",
+  "artist": "Matt Stewart",
+  "rating": "3.761",
+  "votes": "69"
+}

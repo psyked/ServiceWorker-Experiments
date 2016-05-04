@@ -1,0 +1,13 @@
+{
+  "title": "Aven Mimeomancer",
+  "image": "../img/a/aven-mimeomancer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Bird Wizard",
+  "text": "FlyingAt the beginning of your upkeep, you may put a feather counter on target creature. If you do, that creature has base power and toughness 3/1 and has flying for as long as it has a feather counter on it.",
+  "expansion": "Alara Reborn",
+  "rarity": "Rare",
+  "cardNumber": "2",
+  "artist": "Jesper Ejsing",
+  "rating": "3.479",
+  "votes": "140"
+}

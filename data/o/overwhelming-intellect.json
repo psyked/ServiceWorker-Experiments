@@ -1,0 +1,13 @@
+{
+  "title": "Overwhelming Intellect",
+  "image": "../img/o/overwhelming-intellect.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "Counter target creature spell. Draw cards equal to that spell's converted mana cost.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Uncommon",
+  "cardNumber": "28",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "3.333",
+  "votes": "15"
+}

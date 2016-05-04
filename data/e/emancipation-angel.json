@@ -1,0 +1,13 @@
+{
+  "title": "Emancipation Angel",
+  "image": "../img/e/emancipation-angel.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Angel",
+  "text": "FlyingWhen Emancipation Angel enters the battlefield, return a permanent you control to its owner's hand.",
+  "expansion": "Duel Decks: Blessed vs. Cursed",
+  "rarity": "Uncommon",
+  "cardNumber": "10",
+  "artist": "Scott Chou",
+  "rating": "5",
+  "votes": "0"
+}

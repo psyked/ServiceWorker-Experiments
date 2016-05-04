@@ -1,0 +1,13 @@
+{
+  "title": "Nessian Demolok",
+  "image": "../img/n/nessian-demolok.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast",
+  "text": "Tribute 3 (As this creature enters the battlefield, an opponent of your choice may place three +1/+1 counters on it.)When Nessian Demolok enters the battlefield, if tribute wasn't paid, destroy target noncreature permanent.",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "128",
+  "artist": "Daarken",
+  "rating": "2.966",
+  "votes": "29"
+}

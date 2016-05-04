@@ -1,0 +1,13 @@
+{
+  "title": "Phosphorescent Feast",
+  "image": "../img/p/phosphorescent-feast.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Chroma — Reveal any number of cards in your hand. You gain 2 life for each green mana symbol in those cards' mana costs.",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "72",
+  "artist": "Ron Spencer",
+  "rating": "2.019",
+  "votes": "53"
+}

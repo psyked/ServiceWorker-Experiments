@@ -1,0 +1,13 @@
+{
+  "title": "Auramancer",
+  "image": "../img/a/auramancer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "5",
+  "artist": "Rebecca Guay",
+  "rating": "5",
+  "votes": "0"
+}

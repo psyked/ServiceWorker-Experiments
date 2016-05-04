@@ -1,0 +1,13 @@
+{
+  "title": "Nyxathid",
+  "image": "../img/n/nyxathid.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental",
+  "text": "As Nyxathid enters the battlefield, choose an opponent.Nyxathid gets -1/-1 for each card in the chosen player's hand.",
+  "expansion": "Conflux",
+  "rarity": "Rare",
+  "cardNumber": "49",
+  "artist": "Raymond Swanland",
+  "rating": "3.932",
+  "votes": "146"
+}

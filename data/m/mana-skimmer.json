@@ -1,0 +1,13 @@
+{
+  "title": "Mana Skimmer",
+  "image": "../img/m/mana-skimmer.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Leech",
+  "text": "FlyingWhenever Mana Skimmer deals damage to a player, tap target land that player controls. That land doesn't untap during its controller's next untap step.",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "117",
+  "artist": "Daniel Gelon",
+  "rating": "2.815",
+  "votes": "27"
+}

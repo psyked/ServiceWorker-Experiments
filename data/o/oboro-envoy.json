@@ -1,0 +1,13 @@
+{
+  "title": "Oboro Envoy",
+  "image": "../img/o/oboro-envoy.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Moonfolk Wizard",
+  "text": "Flying, Return a land you control to its owner's hand: Target creature gets -X/-0 until end of turn, where X is the number of cards in your hand.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "49",
+  "artist": "Rob Alexander",
+  "rating": "1.793",
+  "votes": "41"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Burning Cloak",
+  "image": "../img/b/burning-cloak.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Target creature gets +2/+0 until end of turn. Burning Cloak deals 2 damage to that creature.",
+  "expansion": "Portal",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Scott M. Fischer",
+  "rating": "2.717",
+  "votes": "30"
+}

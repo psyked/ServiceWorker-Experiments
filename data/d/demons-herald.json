@@ -1,0 +1,13 @@
+{
+  "title": "Demon's Herald",
+  "image": "../img/d/demons-herald.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Wizard",
+  "text": ", , Sacrifice a blue creature, a black creature, and a red creature: Search your library for a card named Prince of Thralls and put it onto the battlefield. Then shuffle your library.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "72",
+  "artist": "Karl Kopinski",
+  "rating": "1.848",
+  "votes": "79"
+}

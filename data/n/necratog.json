@@ -1,0 +1,13 @@
+{
+  "title": "Necratog",
+  "image": "../img/n/necratog.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Atog",
+  "text": "Exile the top creature card of your graveyard: Necratog gets +2/+2 until end of turn.",
+  "expansion": "Weatherlight",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Bryan Talbot",
+  "rating": "3.697",
+  "votes": "38"
+}

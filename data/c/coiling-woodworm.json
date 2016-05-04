@@ -1,0 +1,13 @@
+{
+  "title": "Coiling Woodworm",
+  "image": "../img/c/coiling-woodworm.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Insect Worm",
+  "text": "Coiling Woodworm's power is equal to the number of Forests on the battlefield.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "103",
+  "artist": "David Martin",
+  "rating": "3.041",
+  "votes": "37"
+}

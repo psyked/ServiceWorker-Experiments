@@ -1,0 +1,13 @@
+{
+  "title": "Defiling Tears",
+  "image": "../img/d/defiling-tears.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Until end of turn, target creature becomes black, gets +1/-1, and gains \": Regenerate this creature.\"",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "99",
+  "artist": "rk post",
+  "rating": "1.797",
+  "votes": "32"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Arachnus Spinner",
+  "image": "../img/a/arachnus-spinner.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Spider",
+  "text": "Reach (This creature can block creatures with flying.)Tap an untapped Spider you control: Search your graveyard and/or library for a card named Arachnus Web and put it onto the battlefield attached to target creature. If you search your library this way, shuffle it.",
+  "expansion": "Magic 2012",
+  "rarity": "Rare",
+  "cardNumber": "162",
+  "artist": "Karl Kopinski",
+  "rating": "4.135",
+  "votes": "115"
+}

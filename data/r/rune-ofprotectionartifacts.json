@@ -1,0 +1,13 @@
+{
+  "title": "Rune of Protection: Artifacts",
+  "image": "../img/r/rune-ofprotectionartifacts.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": ": The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Urza's Saga",
+  "rarity": "Uncommon",
+  "cardNumber": "35",
+  "artist": "Scott M. Fischer",
+  "rating": "3.606",
+  "votes": "33"
+}

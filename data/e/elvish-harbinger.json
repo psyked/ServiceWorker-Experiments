@@ -1,0 +1,13 @@
+{
+  "title": "Elvish Harbinger",
+  "image": "../img/e/elvish-harbinger.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Druid",
+  "text": "When Elvish Harbinger enters the battlefield, you may search your library for an Elf card, reveal it, then shuffle your library and put that card on top of it.: Add one mana of any color to your mana pool.",
+  "expansion": "Duel Decks Anthology, Elves vs. Goblins",
+  "rarity": "Uncommon",
+  "cardNumber": "4",
+  "artist": "Larry MacDougall",
+  "rating": "5",
+  "votes": "0"
+}

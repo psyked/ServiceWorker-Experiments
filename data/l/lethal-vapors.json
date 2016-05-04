@@ -1,0 +1,13 @@
+{
+  "title": "Lethal Vapors",
+  "image": "../img/l/lethal-vapors.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever a creature enters the battlefield, destroy it.: Destroy Lethal Vapors. You skip your next turn. Any player may activate this ability.",
+  "expansion": "Scourge",
+  "rarity": "Rare",
+  "cardNumber": "68",
+  "artist": "John Avon",
+  "rating": "4.221",
+  "votes": "52"
+}

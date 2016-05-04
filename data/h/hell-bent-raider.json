@@ -1,0 +1,13 @@
+{
+  "title": "Hell-Bent Raider",
+  "image": "../img/h/hell-bent-raider.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Barbarian",
+  "text": "First strike, hasteDiscard a card at random: Hell-Bent Raider gains protection from white until end of turn.",
+  "expansion": "Torment",
+  "rarity": "Rare",
+  "cardNumber": "101",
+  "artist": "Mike Ploog",
+  "rating": "3.786",
+  "votes": "35"
+}

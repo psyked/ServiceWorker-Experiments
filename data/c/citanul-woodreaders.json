@@ -1,0 +1,13 @@
+{
+  "title": "Citanul Woodreaders",
+  "image": "../img/c/citanul-woodreaders.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Druid",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)When Citanul Woodreaders enters the battlefield, if it was kicked, draw two cards.",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "140",
+  "artist": "Steven Belledin",
+  "rating": "3.333",
+  "votes": "15"
+}

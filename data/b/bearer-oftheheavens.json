@@ -1,0 +1,13 @@
+{
+  "title": "Bearer of the Heavens",
+  "image": "../img/b/bearer-oftheheavens.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Giant",
+  "text": "When Bearer of the Heavens dies, destroy all permanents at the beginning of the next end step.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Rare",
+  "cardNumber": "89",
+  "artist": "Ryan Alexander Lee",
+  "rating": "3.636",
+  "votes": "55"
+}

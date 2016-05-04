@@ -1,0 +1,13 @@
+{
+  "title": "Harsh Deceiver",
+  "image": "../img/h/harsh-deceiver.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Spirit",
+  "text": ": Look at the top card of your library.: Reveal the top card of your library. If it's a land card, untap Harsh Deceiver and it gets +1/+1 until end of turn. Activate this ability only once each turn.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "11",
+  "artist": "Heather Hudson",
+  "rating": "1.103",
+  "votes": "39"
+}

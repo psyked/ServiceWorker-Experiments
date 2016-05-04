@@ -1,0 +1,13 @@
+{
+  "title": "Kjeldoran Javelineer",
+  "image": "../img/k/kjeldoran-javelineer.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Soldier",
+  "text": "Cumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.): Kjeldoran Javelineer deals damage equal to the number of age counters on it to target attacking or blocking creature.",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "11",
+  "artist": "Dave Dorman",
+  "rating": "2.682",
+  "votes": "33"
+}

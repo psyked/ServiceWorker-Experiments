@@ -1,0 +1,13 @@
+{
+  "title": "Havoc Festival",
+  "image": "../img/h/havoc-festival.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "Players can't gain life.At the beginning of each player's upkeep, that player loses half his or her life, rounded up.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Rare",
+  "cardNumber": "166",
+  "artist": "Johannes Voss",
+  "rating": "3.362",
+  "votes": "65"
+}

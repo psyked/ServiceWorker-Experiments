@@ -1,0 +1,13 @@
+{
+  "title": "Hibernation Sliver",
+  "image": "../img/h/hibernation-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Sliver",
+  "text": "All Slivers have \"Pay 2 life: Return this permanent to its owner's hand.\"",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "209",
+  "artist": "Scott Kirschner",
+  "rating": "5",
+  "votes": "0"
+}

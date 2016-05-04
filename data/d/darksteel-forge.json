@@ -1,0 +1,13 @@
+{
+  "title": "Darksteel Forge",
+  "image": "../img/d/darksteel-forge.jpg",
+  "convertedManaCost": "9",
+  "types": "Artifact",
+  "text": "Artifacts you control have indestructible. (Effects that say \"destroy\" don't destroy them. Artifact creatures with indestructible can't be destroyed by damage.)",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Mythic Rare",
+  "cardNumber": "206",
+  "artist": "Martina Pilcerova",
+  "rating": "3.681",
+  "votes": "69"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Greenhilt Trainee",
+  "image": "../img/g/greenhilt-trainee.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elf Warrior",
+  "text": ": Target creature gets +4/+4 until end of turn. Activate this ability only if Greenhilt Trainee's power is 4 or greater.",
+  "expansion": "New Phyrexia",
+  "rarity": "Uncommon",
+  "cardNumber": "112",
+  "artist": "Chris Rahn",
+  "rating": "2.804",
+  "votes": "46"
+}

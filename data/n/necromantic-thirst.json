@@ -1,0 +1,13 @@
+{
+  "title": "Necromantic Thirst",
+  "image": "../img/n/necromantic-thirst.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature deals combat damage to a player, you may return target creature card from your graveyard to your hand.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "119",
+  "artist": "Brandon Kitkouski",
+  "rating": "3.000",
+  "votes": "4"
+}

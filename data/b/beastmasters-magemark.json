@@ -1,0 +1,13 @@
+{
+  "title": "Beastmaster's Magemark",
+  "image": "../img/b/beastmasters-magemark.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureCreatures you control that are enchanted get +1/+1.Whenever a creature you control that's enchanted becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "80",
+  "artist": "Brandon Kitkouski",
+  "rating": "2.833",
+  "votes": "39"
+}

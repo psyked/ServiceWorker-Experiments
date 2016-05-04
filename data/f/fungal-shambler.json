@@ -1,0 +1,13 @@
+{
+  "title": "Fungal Shambler",
+  "image": "../img/f/fungal-shambler.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Fungus Beast",
+  "text": "TrampleWhenever Fungal Shambler deals damage to an opponent, you draw a card and that opponent discards a card.",
+  "expansion": "Apocalypse",
+  "rarity": "Rare",
+  "cardNumber": "100",
+  "artist": "Jim Nelson",
+  "rating": "4.155",
+  "votes": "58"
+}

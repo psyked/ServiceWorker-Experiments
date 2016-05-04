@@ -1,0 +1,13 @@
+{
+  "title": "Foreshadow",
+  "image": "../img/f/foreshadow.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Name a card, then target opponent puts the top card of his or her library into his or her graveyard. If that card is the named card, you draw a card.Draw a card at the beginning of the next turn's upkeep.",
+  "expansion": "Visions",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "George Pratt",
+  "rating": "3.351",
+  "votes": "37"
+}

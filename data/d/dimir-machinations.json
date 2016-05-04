@@ -1,0 +1,13 @@
+{
+  "title": "Dimir Machinations",
+  "image": "../img/d/dimir-machinations.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Look at the top three cards of target player's library. Exile any number of those cards, then put the rest back in any order.Transmute  (, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "84",
+  "artist": "Greg Staples",
+  "rating": "3.807",
+  "votes": "57"
+}

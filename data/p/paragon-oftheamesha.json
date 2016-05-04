@@ -1,0 +1,13 @@
+{
+  "title": "Paragon of the Amesha",
+  "image": "../img/p/paragon-oftheamesha.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "First strike: Until end of turn, Paragon of the Amesha becomes an Angel, gets +3/+3, and gains flying and lifelink.",
+  "expansion": "Conflux",
+  "rarity": "Uncommon",
+  "cardNumber": "14",
+  "artist": "Chris Rahn",
+  "rating": "2.973",
+  "votes": "56"
+}

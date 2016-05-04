@@ -1,0 +1,13 @@
+{
+  "title": "Anathemancer",
+  "image": "../img/a/anathemancer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie Wizard",
+  "text": "When Anathemancer enters the battlefield, it deals damage to target player equal to the number of nonbasic lands that player controls.Unearth  (: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "expansion": "Alara Reborn",
+  "rarity": "Uncommon",
+  "cardNumber": "33",
+  "artist": "Richard Whitters",
+  "rating": "3.478",
+  "votes": "112"
+}

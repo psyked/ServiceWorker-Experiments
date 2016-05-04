@@ -1,0 +1,13 @@
+{
+  "title": "Aven Augur",
+  "image": "../img/a/aven-augur.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Bird Wizard",
+  "text": "FlyingSacrifice Aven Augur: Return up to two target creatures to their owners' hands. Activate this ability only during your upkeep.",
+  "expansion": "Future Sight",
+  "rarity": "Common",
+  "cardNumber": "32",
+  "artist": "Dan Scott",
+  "rating": "2.663",
+  "votes": "43"
+}

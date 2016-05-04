@@ -1,0 +1,13 @@
+{
+  "title": "Hellspark Elemental",
+  "image": "../img/h/hellspark-elemental.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elemental",
+  "text": "Trample, hasteAt the beginning of the end step, sacrifice Hellspark Elemental.Unearth  (: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Uncommon",
+  "cardNumber": "46",
+  "artist": "Justin Sweet",
+  "rating": "3.519",
+  "votes": "26"
+}

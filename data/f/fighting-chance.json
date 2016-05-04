@@ -1,0 +1,13 @@
+{
+  "title": "Fighting Chance",
+  "image": "../img/f/fighting-chance.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "For each blocking creature, flip a coin. If you win the flip, prevent all combat damage that would be dealt by that creature this turn.",
+  "expansion": "Exodus",
+  "rarity": "Rare",
+  "cardNumber": "82",
+  "artist": "Mike Raabe",
+  "rating": "2.809",
+  "votes": "34"
+}

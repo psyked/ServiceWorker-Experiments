@@ -1,0 +1,13 @@
+{
+  "title": "Magus of the Bazaar",
+  "image": "../img/m/magus-ofthebazaar.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": ": Draw two cards, then discard three cards.",
+  "expansion": "Planar Chaos",
+  "rarity": "Rare",
+  "cardNumber": "43",
+  "artist": "Rob Alexander",
+  "rating": "3.877",
+  "votes": "61"
+}

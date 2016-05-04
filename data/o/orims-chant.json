@@ -1,0 +1,13 @@
+{
+  "title": "Orim's Chant",
+  "image": "../img/o/orims-chant.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)Target player can't cast spells this turn.If Orim's Chant was kicked, creatures can't attack this turn.",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "11",
+  "artist": "Kev Walker",
+  "rating": "4.602",
+  "votes": "133"
+}

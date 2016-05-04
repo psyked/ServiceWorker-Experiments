@@ -1,0 +1,13 @@
+{
+  "title": "Oak Street Innkeeper",
+  "image": "../img/o/oak-streetinnkeeper.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf",
+  "text": "As long as it's not your turn, tapped creatures you control have hexproof.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "131",
+  "artist": "Svetlin Velinov",
+  "rating": "3.054",
+  "votes": "46"
+}

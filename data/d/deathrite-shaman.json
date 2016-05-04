@@ -1,0 +1,13 @@
+{
+  "title": "Deathrite Shaman",
+  "image": "../img/d/deathrite-shaman.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Shaman",
+  "text": ": Exile target land card from a graveyard. Add one mana of any color to your mana pool., : Exile target instant or sorcery card from a graveyard. Each opponent loses 2 life., : Exile target creature card from a graveyard. You gain 2 life.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Rare",
+  "cardNumber": "213",
+  "artist": "Steve Argyle",
+  "rating": "4.443",
+  "votes": "265"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Qarsi Sadist",
+  "image": "../img/q/qarsi-sadist.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)When Qarsi Sadist exploits a creature, target opponent loses 2 life and you gain 2 life.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "113",
+  "artist": "Volkan Baga",
+  "rating": "5",
+  "votes": "0"
+}

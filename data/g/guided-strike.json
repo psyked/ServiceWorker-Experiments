@@ -1,0 +1,13 @@
+{
+  "title": "Guided Strike",
+  "image": "../img/g/guided-strike.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +1/+0 and gains first strike until end of turn.Draw a card.",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "13",
+  "artist": "Dave Dorman",
+  "rating": "3.589",
+  "votes": "45"
+}

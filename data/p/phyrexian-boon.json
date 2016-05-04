@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Boon",
+  "image": "../img/p/phyrexian-boon.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+1 as long as it's black. Otherwise, it gets -1/-2.",
+  "expansion": "Masters Edition",
+  "rarity": "Common",
+  "cardNumber": "81",
+  "artist": "Mark Tedin",
+  "rating": "3.630",
+  "votes": "27"
+}

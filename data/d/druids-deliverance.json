@@ -1,0 +1,13 @@
+{
+  "title": "Druid's Deliverance",
+  "image": "../img/d/druids-deliverance.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Prevent all combat damage that would be dealt to you this turn. Populate. (Put a token onto the battlefield that's a copy of a creature token you control.)",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "123",
+  "artist": "Dan Scott",
+  "rating": "3.716",
+  "votes": "81"
+}

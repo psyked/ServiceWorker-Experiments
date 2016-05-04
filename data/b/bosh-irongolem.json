@@ -1,0 +1,13 @@
+{
+  "title": "Bosh, Iron Golem",
+  "image": "../img/b/bosh-irongolem.jpg",
+  "convertedManaCost": "8",
+  "types": "Legendary Artifact Creature  — Golem",
+  "text": "Trample, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's converted mana cost to target creature or player.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "230",
+  "artist": "Brom",
+  "rating": "5",
+  "votes": "0"
+}

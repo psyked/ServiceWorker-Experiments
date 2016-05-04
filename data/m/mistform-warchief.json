@@ -1,0 +1,13 @@
+{
+  "title": "Mistform Warchief",
+  "image": "../img/m/mistform-warchief.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Illusion",
+  "text": "Creature spells you cast that share a creature type with Mistform Warchief cost  less to cast.: Mistform Warchief becomes the creature type of your choice until end of turn.",
+  "expansion": "Scourge",
+  "rarity": "Uncommon",
+  "cardNumber": "43",
+  "artist": "Greg Hildebrandt",
+  "rating": "3.756",
+  "votes": "39"
+}

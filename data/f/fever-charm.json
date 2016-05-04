@@ -1,0 +1,13 @@
+{
+  "title": "Fever Charm",
+  "image": "../img/f/fever-charm.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Choose one —• Target creature gains haste until end of turn.• Target creature gets +2/+0 until end of turn.• Fever Charm deals 3 damage to target Wizard creature.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "202",
+  "artist": "David Martin",
+  "rating": "2.864",
+  "votes": "22"
+}

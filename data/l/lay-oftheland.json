@@ -1,0 +1,13 @@
+{
+  "title": "Lay of the Land",
+  "image": "../img/l/lay-oftheland.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "183",
+  "artist": "Chuck Lukacs",
+  "rating": "2.439",
+  "votes": "41"
+}

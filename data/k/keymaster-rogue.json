@@ -1,0 +1,13 @@
+{
+  "title": "Keymaster Rogue",
+  "image": "../img/k/keymaster-rogue.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Rogue",
+  "text": "Keymaster Rogue can't be blocked.When Keymaster Rogue enters the battlefield, return a creature you control to its owner's hand.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "39",
+  "artist": "Winona Nelson",
+  "rating": "3.000",
+  "votes": "44"
+}

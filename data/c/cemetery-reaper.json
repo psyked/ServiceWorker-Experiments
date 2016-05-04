@@ -1,0 +1,13 @@
+{
+  "title": "Cemetery Reaper",
+  "image": "../img/c/cemetery-reaper.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": "Other Zombie creatures you control get +1/+1., : Exile target creature card from a graveyard. Put a 2/2 black Zombie creature token onto the battlefield.",
+  "expansion": "Magic 2012",
+  "rarity": "Rare",
+  "cardNumber": "86",
+  "artist": "Dave Allsop",
+  "rating": "4.124",
+  "votes": "105"
+}

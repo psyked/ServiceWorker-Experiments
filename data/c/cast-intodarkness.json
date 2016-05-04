@@ -1,0 +1,13 @@
+{
+  "title": "Cast into Darkness",
+  "image": "../img/c/cast-intodarkness.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets -2/-0 and can't block.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "63",
+  "artist": "Clint Cearley",
+  "rating": "1.950",
+  "votes": "20"
+}

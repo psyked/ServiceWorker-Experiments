@@ -1,0 +1,13 @@
+{
+  "title": "Ærathi Berserker",
+  "image": "../img/r/rathi-berserker.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Berserker",
+  "text": "Rampage 3 (Whenever this creature becomes blocked, it gets +3/+3 until end of turn for each creature blocking it beyond the first.)",
+  "expansion": "Legends",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Melissa Benson",
+  "rating": "2.344",
+  "votes": "48"
+}

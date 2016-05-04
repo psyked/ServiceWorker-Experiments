@@ -1,0 +1,13 @@
+{
+  "title": "Put Away",
+  "image": "../img/p/put-away.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Counter target spell. You may shuffle up to one target card from your graveyard into your library.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "48",
+  "artist": "Matt Cavotta",
+  "rating": "2.115",
+  "votes": "39"
+}

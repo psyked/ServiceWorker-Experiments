@@ -1,0 +1,13 @@
+{
+  "title": "Possessed Aven",
+  "image": "../img/p/possessed-aven.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Bird Soldier Horror",
+  "text": "FlyingThreshold — As long as seven or more cards are in your graveyard, Possessed Aven gets +1/+1, is black, and has \", : Destroy target blue creature.\"",
+  "expansion": "Torment",
+  "rarity": "Rare",
+  "cardNumber": "45",
+  "artist": "Scott M. Fischer",
+  "rating": "3.839",
+  "votes": "28"
+}

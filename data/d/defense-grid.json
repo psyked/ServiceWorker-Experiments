@@ -1,0 +1,13 @@
+{
+  "title": "Defense Grid",
+  "image": "../img/d/defense-grid.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Each spell costs  more to cast except during its controller's turn.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "293",
+  "artist": "Mark Tedin",
+  "rating": "4.255",
+  "votes": "47"
+}

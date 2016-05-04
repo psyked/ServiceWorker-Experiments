@@ -1,0 +1,13 @@
+{
+  "title": "Kiln Fiend",
+  "image": "../img/k/kiln-fiend.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elemental Beast",
+  "text": "Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until end of turn.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Common",
+  "cardNumber": "2",
+  "artist": "Adi Granov",
+  "rating": "4.366",
+  "votes": "41"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Call to Glory",
+  "image": "../img/c/call-toglory.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Untap all creatures you control. Samurai creatures you control get +1/+1 until end of turn.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "4",
+  "artist": "Wayne Reynolds",
+  "rating": "3.174",
+  "votes": "43"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Fight or Flight",
+  "image": "../img/f/fight-orflight.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of combat on each opponent's turn, separate all creatures that player controls into two piles. Only creatures in the pile of his or her choice can attack this turn.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "16",
+  "artist": "Randy Gallegos",
+  "rating": "3.365",
+  "votes": "26"
+}

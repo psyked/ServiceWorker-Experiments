@@ -1,0 +1,13 @@
+{
+  "title": "Farsight Mask",
+  "image": "../img/f/farsight-mask.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": "Whenever a source an opponent controls deals damage to you, if Farsight Mask is untapped, you may draw a card.",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "109",
+  "artist": "Ben Thompson",
+  "rating": "2.967",
+  "votes": "15"
+}

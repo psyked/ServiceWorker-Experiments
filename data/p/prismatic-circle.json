@@ -1,0 +1,13 @@
+{
+  "title": "Prismatic Circle",
+  "image": "../img/p/prismatic-circle.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Cumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)As Prismatic Circle enters the battlefield, choose a color.: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Pete Venters",
+  "rating": "2.250",
+  "votes": "28"
+}

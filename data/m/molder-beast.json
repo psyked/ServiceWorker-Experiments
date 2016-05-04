@@ -1,0 +1,13 @@
+{
+  "title": "Molder Beast",
+  "image": "../img/m/molder-beast.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast",
+  "text": "TrampleWhenever an artifact is put into a graveyard from the battlefield, Molder Beast gets +2/+0 until end of turn.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "125",
+  "artist": "Randis Albion",
+  "rating": "2.953",
+  "votes": "43"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Misstep",
+  "image": "../img/m/misstep.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Creatures target player controls don't untap during that player's next untap step.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "88",
+  "artist": "Kev Walker",
+  "rating": "3.344",
+  "votes": "32"
+}

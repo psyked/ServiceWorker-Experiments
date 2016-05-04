@@ -1,0 +1,13 @@
+{
+  "title": "Demonspine Whip",
+  "image": "../img/d/demonspine-whip.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": ": Equipped creature gets +X/+0 until end of turn.Equip",
+  "expansion": "Alara Reborn",
+  "rarity": "Uncommon",
+  "cardNumber": "39",
+  "artist": "Mark Hyzer",
+  "rating": "3.000",
+  "votes": "85"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Recoup",
+  "image": "../img/r/recoup.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (Mana cost includes color.)Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Uncommon",
+  "cardNumber": "63",
+  "artist": "Dave Dorman",
+  "rating": "4.553",
+  "votes": "38"
+}

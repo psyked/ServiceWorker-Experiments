@@ -1,0 +1,13 @@
+{
+  "title": "Deepwood Ghoul",
+  "image": "../img/d/deepwood-ghoul.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": "Pay 2 life: Regenerate Deepwood Ghoul.",
+  "expansion": "Eighth Edition",
+  "rarity": "Common",
+  "cardNumber": "127",
+  "artist": "Alan Pollack",
+  "rating": "2.620",
+  "votes": "25"
+}

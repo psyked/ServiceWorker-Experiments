@@ -1,0 +1,13 @@
+{
+  "title": "Noggle Ransacker",
+  "image": "../img/n/noggle-ransacker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Noggle Rogue",
+  "text": "When Noggle Ransacker enters the battlefield, each player draws two cards, then discards a card at random.",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "102",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "2.833",
+  "votes": "15"
+}

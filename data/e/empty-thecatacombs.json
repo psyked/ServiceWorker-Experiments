@@ -1,0 +1,13 @@
+{
+  "title": "Empty the Catacombs",
+  "image": "../img/e/empty-thecatacombs.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Each player returns all creature cards from his or her graveyard to his or her hand.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "86",
+  "artist": "Mark A. Nelson",
+  "rating": "2.879",
+  "votes": "33"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dragonlord Atarka",
+  "image": "../img/d/dragonlord-atarka.jpg",
+  "convertedManaCost": "7",
+  "types": "Legendary Creature  — Elder Dragon",
+  "text": "Flying, trampleWhen Dragonlord Atarka enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or planeswalkers your opponents control.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Mythic Rare",
+  "cardNumber": "216",
+  "artist": "Karl Kopinski",
+  "rating": "5",
+  "votes": "0"
+}

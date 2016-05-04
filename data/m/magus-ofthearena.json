@@ -1,0 +1,13 @@
+{
+  "title": "Magus of the Arena",
+  "image": "../img/m/magus-ofthearena.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Human Wizard",
+  "text": ", : Tap target creature you control and target creature of an opponent's choice he or she controls. Those creatures fight each other. (Each deals damage equal to its power to the other.)",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "115",
+  "artist": "Thomas M. Baxa",
+  "rating": "3.600",
+  "votes": "10"
+}

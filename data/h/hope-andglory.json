@@ -1,0 +1,13 @@
+{
+  "title": "Hope and Glory",
+  "image": "../img/h/hope-andglory.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Untap two target creatures. Each of them gets +1/+1 until end of turn.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Uncommon",
+  "cardNumber": "9",
+  "artist": "Heather Hudson",
+  "rating": "3.250",
+  "votes": "20"
+}

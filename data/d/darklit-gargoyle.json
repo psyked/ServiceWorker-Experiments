@@ -1,0 +1,13 @@
+{
+  "title": "Darklit Gargoyle",
+  "image": "../img/d/darklit-gargoyle.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Gargoyle",
+  "text": "Flying: Darklit Gargoyle gets +2/-1 until end of turn.",
+  "expansion": "Conflux",
+  "rarity": "Common",
+  "cardNumber": "7",
+  "artist": "Howard Lyon",
+  "rating": "3.038",
+  "votes": "79"
+}

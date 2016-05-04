@@ -1,0 +1,13 @@
+{
+  "title": "Dromoka Monument",
+  "image": "../img/d/dromoka-monument.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  or  to your mana pool.: Dromoka Monument becomes a 4/4 green and white Dragon artifact creature with flying until end of turn.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "238",
+  "artist": "Daniel Ljunggren",
+  "rating": "5",
+  "votes": "0"
+}

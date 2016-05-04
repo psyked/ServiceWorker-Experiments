@@ -1,0 +1,13 @@
+{
+  "title": "Reckless Scholar",
+  "image": "../img/r/reckless-scholar.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": ": Target player draws a card, then discards a card.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "82",
+  "artist": "Steve Prescott",
+  "rating": "5",
+  "votes": "0"
+}

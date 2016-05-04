@@ -1,0 +1,13 @@
+{
+  "title": "Endless Horizons",
+  "image": "../img/e/endless-horizons.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "When Endless Horizons enters the battlefield, search your library for any number of Plains cards and exile them. Then shuffle your library.At the beginning of your upkeep, you may put a card you own exiled with Endless Horizons into your hand.",
+  "expansion": "Eventide",
+  "rarity": "Rare",
+  "cardNumber": "4",
+  "artist": "Joshua Hagler",
+  "rating": "3.947",
+  "votes": "75"
+}

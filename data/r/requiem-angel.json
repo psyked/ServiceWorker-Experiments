@@ -1,0 +1,13 @@
+{
+  "title": "Requiem Angel",
+  "image": "../img/r/requiem-angel.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Angel",
+  "text": "FlyingWhenever another non-Spirit creature you control dies, put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "84",
+  "artist": "Eric Deschamps",
+  "rating": "5",
+  "votes": "0"
+}

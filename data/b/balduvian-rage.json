@@ -1,0 +1,13 @@
+{
+  "title": "Balduvian Rage",
+  "image": "../img/b/balduvian-rage.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target attacking creature gets +X/+0 until end of turn.Draw a card at the beginning of the next turn's upkeep.",
+  "expansion": "Coldsnap",
+  "rarity": "Uncommon",
+  "cardNumber": "76",
+  "artist": "John Matson",
+  "rating": "3.398",
+  "votes": "49"
+}

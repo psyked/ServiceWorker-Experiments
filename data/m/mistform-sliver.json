@@ -1,0 +1,13 @@
+{
+  "title": "Mistform Sliver",
+  "image": "../img/m/mistform-sliver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Illusion Sliver",
+  "text": "All Slivers have \": This permanent becomes the creature type of your choice in addition to its other types until end of turn.\"",
+  "expansion": "Legions",
+  "rarity": "Common",
+  "cardNumber": "46",
+  "artist": "Ben Thompson",
+  "rating": "2.514",
+  "votes": "35"
+}

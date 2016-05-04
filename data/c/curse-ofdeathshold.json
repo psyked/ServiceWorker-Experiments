@@ -1,0 +1,13 @@
+{
+  "title": "Curse of Death's Hold",
+  "image": "../img/c/curse-ofdeathshold.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura Curse",
+  "text": "Enchant playerCreatures enchanted player controls get -1/-1.",
+  "expansion": "Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "94",
+  "artist": "Clint Cearley",
+  "rating": "3.827",
+  "votes": "98"
+}

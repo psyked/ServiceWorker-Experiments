@@ -1,0 +1,13 @@
+{
+  "title": "Coffin Queen",
+  "image": "../img/c/coffin-queen.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie Wizard",
+  "text": "You may choose not to untap Coffin Queen during your untap step., : Put target creature card from a graveyard onto the battlefield under your control. When Coffin Queen becomes untapped or you lose control of Coffin Queen, exile that creature.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Rare",
+  "cardNumber": "87",
+  "artist": "Kaja Foglio",
+  "rating": "5",
+  "votes": "0"
+}

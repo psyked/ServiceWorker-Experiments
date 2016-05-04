@@ -1,0 +1,13 @@
+{
+  "title": "Orcish Veteran",
+  "image": "../img/o/orcish-veteran.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Orc",
+  "text": "Orcish Veteran can't block white creatures with power 2 or greater.: Orcish Veteran gains first strike until end of turn.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "144",
+  "artist": "Quinton Hoover",
+  "rating": "2.417",
+  "votes": "24"
+}

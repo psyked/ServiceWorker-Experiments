@@ -1,0 +1,13 @@
+{
+  "title": "Akroan Phalanx",
+  "image": "../img/a/akroan-phalanx.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Soldier",
+  "text": "Vigilance: Creatures you control get +1/+0 until end of turn.",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "2",
+  "artist": "Steve Prescott",
+  "rating": "3.419",
+  "votes": "31"
+}

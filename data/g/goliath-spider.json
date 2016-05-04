@@ -1,0 +1,13 @@
+{
+  "title": "Goliath Spider",
+  "image": "../img/g/goliath-spider.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Spider",
+  "text": "Reach (This creature can block creatures with flying.)",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "168",
+  "artist": "Alan Pollack",
+  "rating": "3.164",
+  "votes": "58"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Celestial Archon",
+  "image": "../img/c/celestial-archon.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment Creature  — Archon",
+  "text": "Bestow  (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)Flying, first strikeEnchanted creature gets +4/+4 and has flying and first strike.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "64",
+  "artist": "Matt Stewart",
+  "rating": "5",
+  "votes": "0"
+}

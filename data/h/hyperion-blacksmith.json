@@ -1,0 +1,13 @@
+{
+  "title": "Hyperion Blacksmith",
+  "image": "../img/h/hyperion-blacksmith.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Artificer",
+  "text": ": You may tap or untap target artifact an opponent controls.",
+  "expansion": "Legends",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Dan Frazier",
+  "rating": "2.783",
+  "votes": "30"
+}

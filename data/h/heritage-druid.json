@@ -1,0 +1,13 @@
+{
+  "title": "Heritage Druid",
+  "image": "../img/h/heritage-druid.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Druid",
+  "text": "Tap three untapped Elves you control: Add  to your mana pool.",
+  "expansion": "Morningtide",
+  "rarity": "Uncommon",
+  "cardNumber": "126",
+  "artist": "Larry MacDougall",
+  "rating": "4.339",
+  "votes": "96"
+}

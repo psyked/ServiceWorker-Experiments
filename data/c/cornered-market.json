@@ -1,0 +1,13 @@
+{
+  "title": "Cornered Market",
+  "image": "../img/c/cornered-market.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Players can't cast spells with the same name as a nontoken permanent.Players can't play nonbasic lands with the same name as a nontoken permanent.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "14",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "4.150",
+  "votes": "30"
+}

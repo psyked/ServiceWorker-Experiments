@@ -1,0 +1,13 @@
+{
+  "title": "Kangee, Aerie Keeper",
+  "image": "../img/k/kangee-aeriekeeper.jpg",
+  "convertedManaCost": "4",
+  "types": "Legendary Creature  — Bird Wizard",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)FlyingWhen Kangee, Aerie Keeper enters the battlefield, if it was kicked, put X feather counters on it.Other Bird creatures get +1/+1 for each feather counter on Kangee, Aerie Keeper.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "253",
+  "artist": "Mark Romanoski",
+  "rating": "3.755",
+  "votes": "49"
+}

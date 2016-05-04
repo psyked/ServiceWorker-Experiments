@@ -1,0 +1,13 @@
+{
+  "title": "Mind Over Matter",
+  "image": "../img/m/mind-overmatter.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "Discard a card: You may tap or untap target artifact, creature, or land.",
+  "expansion": "Exodus",
+  "rarity": "Rare",
+  "cardNumber": "40",
+  "artist": "Keith Parkinson",
+  "rating": "4.505",
+  "votes": "102"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Disruption Aura",
+  "image": "../img/d/disruption-aura.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant artifactEnchanted artifact has \"At the beginning of your upkeep, sacrifice this artifact unless you pay its mana cost.\"",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "28",
+  "artist": "Ron Spears",
+  "rating": "1.828",
+  "votes": "29"
+}

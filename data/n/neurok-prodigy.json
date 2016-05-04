@@ -1,0 +1,13 @@
+{
+  "title": "Neurok Prodigy",
+  "image": "../img/n/neurok-prodigy.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "FlyingDiscard an artifact card: Return Neurok Prodigy to its owner's hand.",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "26",
+  "artist": "Puddnhead",
+  "rating": "1.828",
+  "votes": "32"
+}

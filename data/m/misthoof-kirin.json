@@ -1,0 +1,13 @@
+{
+  "title": "Misthoof Kirin",
+  "image": "../img/m/misthoof-kirin.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kirin",
+  "text": "Flying, vigilanceMegamorph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "25",
+  "artist": "Ryan Barger",
+  "rating": "5",
+  "votes": "0"
+}

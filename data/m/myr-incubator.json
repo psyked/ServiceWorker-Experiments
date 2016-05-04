@@ -1,0 +1,13 @@
+{
+  "title": "Myr Incubator",
+  "image": "../img/m/myr-incubator.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact",
+  "text": ", , Sacrifice Myr Incubator: Search your library for any number of artifact cards, exile them, then put that many 1/1 colorless Myr artifact creature tokens onto the battlefield. Then shuffle your library.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "212",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "4.114",
+  "votes": "57"
+}

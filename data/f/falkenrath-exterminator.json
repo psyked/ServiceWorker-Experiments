@@ -1,0 +1,13 @@
+{
+  "title": "Falkenrath Exterminator",
+  "image": "../img/f/falkenrath-exterminator.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Vampire Archer",
+  "text": "Whenever Falkenrath Exterminator deals combat damage to a player, put a +1/+1 counter on it.: Falkenrath Exterminator deals damage to target creature equal to the number of +1/+1 counters on Falkenrath Exterminator.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Uncommon",
+  "cardNumber": "134",
+  "artist": "Winona Nelson",
+  "rating": "3.426",
+  "votes": "54"
+}

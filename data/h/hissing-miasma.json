@@ -1,0 +1,13 @@
+{
+  "title": "Hissing Miasma",
+  "image": "../img/h/hissing-miasma.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a creature attacks you, its controller loses 1 life.",
+  "expansion": "Guildpact",
+  "rarity": "Uncommon",
+  "cardNumber": "51",
+  "artist": "Ben Thompson",
+  "rating": "3.930",
+  "votes": "64"
+}

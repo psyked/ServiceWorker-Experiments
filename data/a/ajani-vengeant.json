@@ -1,0 +1,13 @@
+{
+  "title": "Ajani Vengeant",
+  "image": "../img/a/ajani-vengeant.jpg",
+  "convertedManaCost": "4",
+  "types": "Planeswalker  — Ajani",
+  "text": "+1: Target permanent doesn't untap during its controller's next untap step.−2: Ajani Vengeant deals 3 damage to target creature or player and you gain 3 life.−7: Destroy all lands target player controls.",
+  "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+  "rarity": "Mythic Rare",
+  "cardNumber": "1",
+  "artist": "Izzy",
+  "rating": "4.042",
+  "votes": "154"
+}

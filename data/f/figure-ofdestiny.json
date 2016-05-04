@@ -1,0 +1,13 @@
+{
+  "title": "Figure of Destiny",
+  "image": "../img/f/figure-ofdestiny.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Kithkin",
+  "text": ": Figure of Destiny becomes a Kithkin Spirit with base power and toughness 2/2.: If Figure of Destiny is a Spirit, it becomes a Kithkin Spirit Warrior with base power and toughness 4/4.: If Figure of Destiny is a Warrior, it becomes a Kithkin Spirit Warrior Avatar with base power and toughness 8/8, flying, and first strike.",
+  "expansion": "Duel Decks: Heroes vs. Monsters",
+  "rarity": "Rare",
+  "cardNumber": "3",
+  "artist": "Scott M. Fischer",
+  "rating": "4.500",
+  "votes": "23"
+}

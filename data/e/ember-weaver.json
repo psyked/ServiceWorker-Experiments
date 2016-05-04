@@ -1,0 +1,13 @@
+{
+  "title": "Ember Weaver",
+  "image": "../img/e/ember-weaver.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spider",
+  "text": "Reach (This creature can block creatures with flying.)As long as you control a red permanent, Ember Weaver gets +1/+0 and has first strike.",
+  "expansion": "Conflux",
+  "rarity": "Common",
+  "cardNumber": "81",
+  "artist": "Steve Prescott",
+  "rating": "3.161",
+  "votes": "90"
+}

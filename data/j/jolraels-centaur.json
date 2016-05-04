@@ -1,0 +1,13 @@
+{
+  "title": "Jolrael's Centaur",
+  "image": "../img/j/jolraels-centaur.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Centaur Archer",
+  "text": "Shroud (This creature can't be the target of spells or abilities.)Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Junior Tomlin",
+  "rating": "4.170",
+  "votes": "47"
+}

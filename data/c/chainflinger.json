@@ -1,0 +1,13 @@
+{
+  "title": "Chainflinger",
+  "image": "../img/c/chainflinger.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Beast",
+  "text": ", : Chainflinger deals 1 damage to target creature or player.Threshold — , : Chainflinger deals 2 damage to target creature or player. Activate this ability only if seven or more cards are in your graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "181",
+  "artist": "Scott M. Fischer",
+  "rating": "2.071",
+  "votes": "35"
+}

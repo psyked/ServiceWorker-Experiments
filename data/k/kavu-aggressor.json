@@ -1,0 +1,13 @@
+{
+  "title": "Kavu Aggressor",
+  "image": "../img/k/kavu-aggressor.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kavu",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)Kavu Aggressor can't block.If Kavu Aggressor was kicked, it enters the battlefield with a +1/+1 counter on it.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "148",
+  "artist": "Christopher Moeller",
+  "rating": "1.764",
+  "votes": "53"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ritual of Steel",
+  "image": "../img/r/ritual-ofsteel.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Ritual of Steel enters the battlefield, draw a card at the beginning of the next turn's upkeep.Enchanted creature gets +0/+2.",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Mark Poole",
+  "rating": "1.758",
+  "votes": "33"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Growth Spurt",
+  "image": "../img/g/growth-spurt.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Roll a six-sided die. Target creature gets +X/+X until end of turn, where X is equal to the die roll.",
+  "expansion": "Unglued",
+  "rarity": "Common",
+  "cardNumber": "61",
+  "artist": "Jeff Laubenstein",
+  "rating": "3.312",
+  "votes": "24"
+}

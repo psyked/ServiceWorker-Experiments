@@ -1,0 +1,13 @@
+{
+  "title": "Creakwood Ghoul",
+  "image": "../img/c/creakwood-ghoul.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Plant Zombie",
+  "text": ": Exile target card from a graveyard. You gain 1 life.",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "34",
+  "artist": "Thomas M. Baxa",
+  "rating": "2.284",
+  "votes": "51"
+}

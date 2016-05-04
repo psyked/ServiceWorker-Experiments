@@ -1,0 +1,13 @@
+{
+  "title": "Jaddi Lifestrider",
+  "image": "../img/j/jaddi-lifestrider.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental",
+  "text": "When Jaddi Lifestrider enters the battlefield, you may tap any number of untapped creatures you control. You gain 2 life for each creature tapped this way.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "189",
+  "artist": "Vincent Proce",
+  "rating": "3.412",
+  "votes": "57"
+}

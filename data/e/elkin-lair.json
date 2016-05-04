@@ -1,0 +1,13 @@
+{
+  "title": "Elkin Lair",
+  "image": "../img/e/elkin-lair.jpg",
+  "convertedManaCost": "4",
+  "types": "World Enchantment",
+  "text": "At the beginning of each player's upkeep, that player exiles a card at random from his or her hand. The player may play that card this turn. At the beginning of the next end step, if the player hasn't played the card, he or she puts it into his or her graveyard.",
+  "expansion": "Visions",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Jerry Tiritilli",
+  "rating": "3.179",
+  "votes": "28"
+}

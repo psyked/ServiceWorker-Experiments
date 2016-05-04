@@ -1,0 +1,13 @@
+{
+  "title": "Brushwagg",
+  "image": "../img/b/brushwagg.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Brushwagg",
+  "text": "Whenever Brushwagg blocks or becomes blocked, it gets -2/+2 until end of turn.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Ian Miller",
+  "rating": "4.211",
+  "votes": "71"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Niblis of Dusk",
+  "image": "../img/n/niblis-ofdusk.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "FlyingProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "76",
+  "artist": "Nils Hamm",
+  "rating": "5",
+  "votes": "0"
+}

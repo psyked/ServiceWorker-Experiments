@@ -1,0 +1,13 @@
+{
+  "title": "Resounding Scream",
+  "image": "../img/r/resounding-scream.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target player discards a card at random.Cycling  (, Discard this card: Draw a card.)When you cycle Resounding Scream, target player discards two cards at random.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "83",
+  "artist": "Thomas M. Baxa",
+  "rating": "1.106",
+  "votes": "90"
+}

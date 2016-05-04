@@ -1,0 +1,13 @@
+{
+  "title": "Handcuffs",
+  "image": "../img/h/handcuffs.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "Target player keeps both hands in contact with each other. If he or she does not, sacrifice Handcuffs and that player sacrifices three cards in play.",
+  "expansion": "Unglued",
+  "rarity": "Uncommon",
+  "cardNumber": "32",
+  "artist": "Jeff Laubenstein",
+  "rating": "3.743",
+  "votes": "35"
+}

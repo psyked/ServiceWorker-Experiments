@@ -1,0 +1,13 @@
+{
+  "title": "Champion's Drake",
+  "image": "../img/c/champions-drake.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Drake",
+  "text": "FlyingChampion's Drake gets +3/+3 as long as you control a creature with three or more level counters on it.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Lars Grant-West",
+  "rating": "3.231",
+  "votes": "52"
+}

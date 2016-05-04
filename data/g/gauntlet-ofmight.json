@@ -1,0 +1,13 @@
+{
+  "title": "Gauntlet of Might",
+  "image": "../img/g/gauntlet-ofmight.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "Red creatures get +1/+1.Whenever a Mountain is tapped for mana, its controller adds  to his or her mana pool (in addition to the mana the land produces).",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "202",
+  "artist": "Christopher Rush",
+  "rating": "4.543",
+  "votes": "47"
+}

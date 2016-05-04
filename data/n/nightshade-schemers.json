@@ -1,0 +1,13 @@
+{
+  "title": "Nightshade Schemers",
+  "image": "../img/n/nightshade-schemers.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Faerie Wizard",
+  "text": "FlyingKinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Nightshade Schemers, you may reveal it. If you do, each opponent loses 2 life.",
+  "expansion": "Morningtide",
+  "rarity": "Uncommon",
+  "cardNumber": "69",
+  "artist": "Parente",
+  "rating": "2.466",
+  "votes": "29"
+}

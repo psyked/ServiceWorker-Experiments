@@ -1,0 +1,13 @@
+{
+  "title": "Ensnaring Bridge",
+  "image": "../img/e/ensnaring-bridge.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Creatures with power greater than the number of cards in your hand can't attack.",
+  "expansion": "Eighth Edition",
+  "rarity": "Rare",
+  "cardNumber": "300",
+  "artist": "Ron Spencer",
+  "rating": "4.356",
+  "votes": "80"
+}

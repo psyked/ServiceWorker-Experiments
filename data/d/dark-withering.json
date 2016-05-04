@@ -1,0 +1,13 @@
+{
+  "title": "Dark Withering",
+  "image": "../img/d/dark-withering.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "Destroy target nonblack creature.Madness  (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "101",
+  "artist": "Wayne Reynolds",
+  "rating": "3.185",
+  "votes": "62"
+}

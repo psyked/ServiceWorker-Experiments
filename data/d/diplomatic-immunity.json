@@ -1,0 +1,13 @@
+{
+  "title": "Diplomatic Immunity",
+  "image": "../img/d/diplomatic-immunity.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureShroud (A permanent with shroud can't be the target of spells or abilities.)Enchanted creature has shroud.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "75",
+  "artist": "Terese Nielsen",
+  "rating": "4.277",
+  "votes": "137"
+}

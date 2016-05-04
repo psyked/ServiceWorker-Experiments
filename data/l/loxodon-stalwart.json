@@ -1,0 +1,13 @@
+{
+  "title": "Loxodon Stalwart",
+  "image": "../img/l/loxodon-stalwart.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elephant Soldier",
+  "text": "Vigilance: Loxodon Stalwart gets +0/+1 until end of turn.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "11",
+  "artist": "Paolo Parente",
+  "rating": "3.000",
+  "votes": "22"
+}

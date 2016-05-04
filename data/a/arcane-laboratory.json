@@ -1,0 +1,13 @@
+{
+  "title": "Arcane Laboratory",
+  "image": "../img/a/arcane-laboratory.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Each player can't cast more than one spell each turn.",
+  "expansion": "Seventh Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "60",
+  "artist": "Brian Snoddy",
+  "rating": "4.438",
+  "votes": "73"
+}

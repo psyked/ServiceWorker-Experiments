@@ -1,0 +1,13 @@
+{
+  "title": "Magnifying Glass",
+  "image": "../img/m/magnifying-glass.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  to your mana pool., : Investigate. (Put a colorless Clue artifact token onto the battlefield with \", Sacrifice this artifact: Draw a card.\")",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "258",
+  "artist": "Dan Scott",
+  "rating": "5",
+  "votes": "0"
+}

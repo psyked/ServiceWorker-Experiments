@@ -1,0 +1,13 @@
+{
+  "title": "Pharika's Cure",
+  "image": "../img/p/pharikas-cure.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Pharika's Cure deals 2 damage to target creature and you gain 2 life.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "100",
+  "artist": "Igor Kieryluk",
+  "rating": "3.306",
+  "votes": "36"
+}

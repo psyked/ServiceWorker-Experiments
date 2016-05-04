@@ -1,0 +1,13 @@
+{
+  "title": "Capricious Efreet",
+  "image": "../img/c/capricious-efreet.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Efreet",
+  "text": "At the beginning of your upkeep, choose target nonland permanent you control and up to two target nonland permanents you don't control. Destroy one of them at random.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "102",
+  "artist": "Justin Sweet",
+  "rating": "3.545",
+  "votes": "11"
+}

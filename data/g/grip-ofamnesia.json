@@ -1,0 +1,13 @@
+{
+  "title": "Grip of Amnesia",
+  "image": "../img/g/grip-ofamnesia.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Counter target spell unless its controller exiles all cards from his or her graveyard.Draw a card.",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "41",
+  "artist": "Bradley Williams",
+  "rating": "3.192",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Crown of Awe",
+  "image": "../img/c/crown-ofawe.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has protection from black and from red.Sacrifice Crown of Awe: Enchanted creature and other creatures that share a creature type with it gain protection from black and from red until end of turn.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "16",
+  "artist": "Randy Elliott",
+  "rating": "3.026",
+  "votes": "19"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dragon's Claw",
+  "image": "../img/d/dragons-claw.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Whenever a player casts a red spell, you may gain 1 life.",
+  "expansion": "Magic 2012",
+  "rarity": "Uncommon",
+  "cardNumber": "206",
+  "artist": "Alan Pollack",
+  "rating": "2.385",
+  "votes": "65"
+}

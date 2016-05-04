@@ -1,0 +1,13 @@
+{
+  "title": "Mizzium Mortars",
+  "image": "../img/m/mizzium-mortars.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Mizzium Mortars deals 4 damage to target creature you don't control.Overload  (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "163",
+  "artist": "Noah Bradley",
+  "rating": "5",
+  "votes": "0"
+}

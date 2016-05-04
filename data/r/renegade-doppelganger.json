@@ -1,0 +1,13 @@
+{
+  "title": "Renegade Doppelganger",
+  "image": "../img/r/renegade-doppelganger.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Shapeshifter",
+  "text": "Whenever another creature enters the battlefield under your control, you may have Renegade Doppelganger become a copy of that creature until end of turn. (If it does, it loses this ability for the rest of the turn.)",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Rare",
+  "cardNumber": "84",
+  "artist": "James Ryman",
+  "rating": "3.536",
+  "votes": "69"
+}

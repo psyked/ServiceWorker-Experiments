@@ -1,0 +1,13 @@
+{
+  "title": "Deadly Tempest",
+  "image": "../img/d/deadly-tempest.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Destroy all creatures. Each player loses life equal to the number of creatures he or she controlled that were destroyed this way.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "19",
+  "artist": "Cliff Childs",
+  "rating": "5",
+  "votes": "0"
+}

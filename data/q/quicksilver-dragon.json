@@ -1,0 +1,13 @@
+{
+  "title": "Quicksilver Dragon",
+  "image": "../img/q/quicksilver-dragon.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "Flying: If target spell has only one target and that target is Quicksilver Dragon, change that spell's target to another creature.Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Rare",
+  "cardNumber": "19",
+  "artist": "Ron Spencer",
+  "rating": "5",
+  "votes": "0"
+}

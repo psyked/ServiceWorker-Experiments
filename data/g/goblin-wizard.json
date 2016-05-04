@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Wizard",
+  "image": "../img/g/goblin-wizard.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Goblin Wizard",
+  "text": ": You may put a Goblin permanent card from your hand onto the battlefield.: Target Goblin gains protection from white until end of turn.",
+  "expansion": "Masters Edition",
+  "rarity": "Rare",
+  "cardNumber": "97",
+  "artist": "Daniel Gelon",
+  "rating": "3.942",
+  "votes": "52"
+}

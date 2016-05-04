@@ -1,0 +1,13 @@
+{
+  "title": "Duergar Cave-Guard",
+  "image": "../img/d/duergar-cave-guard.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Dwarf Warrior",
+  "text": "Wither (This deals damage to creatures in the form of -1/-1 counters.): Duergar Cave-Guard gets +1/+0 until end of turn.",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "51",
+  "artist": "Dave Allsop",
+  "rating": "2.477",
+  "votes": "44"
+}

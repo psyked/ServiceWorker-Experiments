@@ -1,0 +1,13 @@
+{
+  "title": "Crazed Goblin",
+  "image": "../img/c/crazed-goblin.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Crazed Goblin attacks each turn if able.",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Darrell Riche",
+  "rating": "0.860",
+  "votes": "132"
+}

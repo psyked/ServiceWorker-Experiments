@@ -1,0 +1,13 @@
+{
+  "title": "Hurloon Shaman",
+  "image": "../img/h/hurloon-shaman.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Minotaur Shaman",
+  "text": "When Hurloon Shaman dies, each player sacrifices a land.",
+  "expansion": "Weatherlight",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Scott M. Fischer",
+  "rating": "3.306",
+  "votes": "31"
+}

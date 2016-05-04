@@ -1,0 +1,13 @@
+{
+  "title": "Cover of Darkness",
+  "image": "../img/c/cover-ofdarkness.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "As Cover of Darkness enters the battlefield, choose a creature type.Creatures of the chosen type have fear. (They can't be blocked except by artifact creatures and/or black creatures.)",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "133",
+  "artist": "Kev Walker",
+  "rating": "4.110",
+  "votes": "50"
+}

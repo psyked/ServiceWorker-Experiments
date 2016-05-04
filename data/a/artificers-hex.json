@@ -1,0 +1,13 @@
+{
+  "title": "Artificer's Hex",
+  "image": "../img/a/artificers-hex.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant EquipmentAt the beginning of your upkeep, if enchanted Equipment is attached to a creature, destroy that creature.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "85",
+  "artist": "Franz Vohwinkel",
+  "rating": "3.096",
+  "votes": "47"
+}

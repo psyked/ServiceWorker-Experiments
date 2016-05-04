@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Cannon",
+  "image": "../img/g/goblin-cannon.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ": Goblin Cannon deals 1 damage to target creature or player. Sacrifice Goblin Cannon.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "125",
+  "artist": "Doug Chaffee",
+  "rating": "2.582",
+  "votes": "61"
+}

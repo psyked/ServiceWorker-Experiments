@@ -1,0 +1,13 @@
+{
+  "title": "Ironclaw Orcs",
+  "image": "../img/i/ironclaw-orcs.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Orc",
+  "text": "Ironclaw Orcs can't block creatures with power 2 or greater.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "132",
+  "artist": "Anson Maddocks",
+  "rating": "2.558",
+  "votes": "43"
+}

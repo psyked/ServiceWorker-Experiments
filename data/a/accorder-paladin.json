@@ -1,0 +1,13 @@
+{
+  "title": "Accorder Paladin",
+  "image": "../img/a/accorder-paladin.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Knight",
+  "text": "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Uncommon",
+  "cardNumber": "1",
+  "artist": "Kekai Kotaki",
+  "rating": "3.876",
+  "votes": "178"
+}

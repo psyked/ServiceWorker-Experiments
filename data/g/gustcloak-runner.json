@@ -1,0 +1,13 @@
+{
+  "title": "Gustcloak Runner",
+  "image": "../img/g/gustcloak-runner.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Soldier",
+  "text": "Whenever Gustcloak Runner becomes blocked, you may untap it and remove it from combat.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "35",
+  "artist": "Glen Angus",
+  "rating": "3.047",
+  "votes": "32"
+}

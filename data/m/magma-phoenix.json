@@ -1,0 +1,13 @@
+{
+  "title": "Magma Phoenix",
+  "image": "../img/m/magma-phoenix.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Phoenix",
+  "text": "FlyingWhen Magma Phoenix dies, it deals 3 damage to each creature and each player.: Return Magma Phoenix from your graveyard to your hand.",
+  "expansion": "Magic 2011",
+  "rarity": "Rare",
+  "cardNumber": "150",
+  "artist": "Raymond Swanland",
+  "rating": "4.034",
+  "votes": "73"
+}

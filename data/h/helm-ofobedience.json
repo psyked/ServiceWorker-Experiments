@@ -1,0 +1,13 @@
+{
+  "title": "Helm of Obedience",
+  "image": "../img/h/helm-ofobedience.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ", : Target opponent puts cards from the top of his or her library into his or her graveyard until a creature card or X cards are put into that graveyard this way, whichever comes first. If a creature card is put into that graveyard this way, sacrifice Helm of Obedience and put that card onto the battlefield under your control. X can't be 0.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "210",
+  "artist": "Brian Snoddy",
+  "rating": "4.369",
+  "votes": "80"
+}

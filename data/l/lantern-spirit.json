@@ -1,0 +1,13 @@
+{
+  "title": "Lantern Spirit",
+  "image": "../img/l/lantern-spirit.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "Flying: Return Lantern Spirit to its owner's hand.",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "62",
+  "artist": "Johann Bodin",
+  "rating": "3.259",
+  "votes": "54"
+}

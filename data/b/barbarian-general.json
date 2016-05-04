@@ -1,0 +1,13 @@
+{
+  "title": "Barbarian General",
+  "image": "../img/b/barbarian-general.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Barbarian Soldier",
+  "text": "Horsemanship (This creature can't be blocked except by creatures with horsemanship.)",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Uncommon",
+  "cardNumber": "100",
+  "artist": "Kuang Sheng",
+  "rating": "2.435",
+  "votes": "31"
+}

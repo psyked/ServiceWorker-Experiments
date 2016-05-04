@@ -1,0 +1,13 @@
+{
+  "title": "Kavu Scout",
+  "image": "../img/k/kavu-scout.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kavu Scout",
+  "text": "Domain — Kavu Scout gets +1/+0 for each basic land type among lands you control.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "151",
+  "artist": "DiTerlizzi",
+  "rating": "2.846",
+  "votes": "39"
+}

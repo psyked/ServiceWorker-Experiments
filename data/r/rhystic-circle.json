@@ -1,0 +1,13 @@
+{
+  "title": "Rhystic Circle",
+  "image": "../img/r/rhystic-circle.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": ": Any player may pay . If no one does, the next time a source of your choice would deal damage to you this turn, prevent that damage.",
+  "expansion": "Prophecy",
+  "rarity": "Common",
+  "cardNumber": "19",
+  "artist": "Alan Pollack",
+  "rating": "2.333",
+  "votes": "21"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Gerrard's Verdict",
+  "image": "../img/g/gerrards-verdict.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target player discards two cards. You gain 3 life for each land card discarded this way.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "102",
+  "artist": "Carl Critchlow",
+  "rating": "4.399",
+  "votes": "159"
+}

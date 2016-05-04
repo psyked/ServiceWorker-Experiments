@@ -1,0 +1,13 @@
+{
+  "title": "Lead the Stampede",
+  "image": "../img/l/lead-thestampede.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Uncommon",
+  "cardNumber": "170",
+  "artist": "Efrem Palacios",
+  "rating": "3.833",
+  "votes": "6"
+}

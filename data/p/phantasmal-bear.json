@@ -1,0 +1,13 @@
+{
+  "title": "Phantasmal Bear",
+  "image": "../img/p/phantasmal-bear.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Bear Illusion",
+  "text": "When Phantasmal Bear becomes the target of a spell or ability, sacrifice it.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Common",
+  "cardNumber": "4",
+  "artist": "Ryan Yee",
+  "rating": "4.179",
+  "votes": "14"
+}

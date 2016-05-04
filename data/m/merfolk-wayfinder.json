@@ -1,0 +1,13 @@
+{
+  "title": "Merfolk Wayfinder",
+  "image": "../img/m/merfolk-wayfinder.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Merfolk Scout",
+  "text": "FlyingWhen Merfolk Wayfinder enters the battlefield, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Uncommon",
+  "cardNumber": "9",
+  "artist": "Christopher Moeller",
+  "rating": "3.450",
+  "votes": "10"
+}

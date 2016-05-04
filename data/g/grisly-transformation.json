@@ -1,0 +1,13 @@
+{
+  "title": "Grisly Transformation",
+  "image": "../img/g/grisly-transformation.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhen Grisly Transformation enters the battlefield, draw a card.Enchanted creature has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "74",
+  "artist": "Tyler Jacobson",
+  "rating": "2.568",
+  "votes": "22"
+}

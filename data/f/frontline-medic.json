@@ -1,0 +1,13 @@
+{
+  "title": "Frontline Medic",
+  "image": "../img/f/frontline-medic.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": "Battalion — Whenever Frontline Medic and at least two other creatures attack, creatures you control gain indestructible until end of turn.Sacrifice Frontline Medic: Counter target spell with  in its mana cost unless its controller pays .",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "12",
+  "artist": "Willian Murai",
+  "rating": "4.028",
+  "votes": "127"
+}

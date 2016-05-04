@@ -1,0 +1,13 @@
+{
+  "title": "Erdwal Illuminator",
+  "image": "../img/e/erdwal-illuminator.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": "FlyingWhenever you investigate for the first time each turn, investigate an additional time.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "60",
+  "artist": "Seb McKinnon",
+  "rating": "5",
+  "votes": "0"
+}

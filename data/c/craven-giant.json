@@ -1,0 +1,13 @@
+{
+  "title": "Craven Giant",
+  "image": "../img/c/craven-giant.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Giant",
+  "text": "Craven Giant can't block.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "128",
+  "artist": "Brian Snoddy",
+  "rating": "5",
+  "votes": "0"
+}

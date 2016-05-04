@@ -1,0 +1,13 @@
+{
+  "title": "Double Cross",
+  "image": "../img/d/double-cross.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Choose another player. Look at that player's hand and choose one of those cards other than a basic land. He or she discards that card. At the beginning of the next game with the player, look at the player's hand and choose one of those cards other than a basic land. He or she discards that card.",
+  "expansion": "Unglued",
+  "rarity": "Common",
+  "cardNumber": "31",
+  "artist": "Jeff Laubenstein",
+  "rating": "3.200",
+  "votes": "20"
+}

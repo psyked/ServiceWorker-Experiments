@@ -1,0 +1,13 @@
+{
+  "title": "Druid's Call",
+  "image": "../img/d/druids-call.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature is dealt damage, its controller puts that many 1/1 green Squirrel creature tokens onto the battlefield.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "239",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "3.990",
+  "votes": "52"
+}

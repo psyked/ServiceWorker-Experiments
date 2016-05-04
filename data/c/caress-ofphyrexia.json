@@ -1,0 +1,13 @@
+{
+  "title": "Caress of Phyrexia",
+  "image": "../img/c/caress-ofphyrexia.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Target player draws three cards, loses 3 life, and gets three poison counters.",
+  "expansion": "New Phyrexia",
+  "rarity": "Uncommon",
+  "cardNumber": "53",
+  "artist": "Karl Kopinski",
+  "rating": "3.103",
+  "votes": "107"
+}

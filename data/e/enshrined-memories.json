@@ -1,0 +1,13 @@
+{
+  "title": "Enshrined Memories",
+  "image": "../img/e/enshrined-memories.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Reveal the top X cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "124",
+  "artist": "Jeff Easley",
+  "rating": "3.410",
+  "votes": "39"
+}

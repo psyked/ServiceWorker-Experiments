@@ -1,0 +1,13 @@
+{
+  "title": "Restless Bones",
+  "image": "../img/r/restless-bones.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Skeleton",
+  "text": ", : Target creature gains swampwalk until end of turn. (It can't be blocked as long as defending player controls a Swamp.): Regenerate Restless Bones.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "58",
+  "artist": "Glenn Fabry",
+  "rating": "1.645",
+  "votes": "38"
+}

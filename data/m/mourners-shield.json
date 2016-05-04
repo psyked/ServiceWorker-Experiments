@@ -1,0 +1,13 @@
+{
+  "title": "Mourner's Shield",
+  "image": "../img/m/mourners-shield.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "Imprint — When Mourner's Shield enters the battlefield, you may exile target card from a graveyard., : Prevent all damage that would be dealt this turn by a source of your choice that shares a color with the exiled card.",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "209",
+  "artist": "Carl Critchlow",
+  "rating": "2.857",
+  "votes": "28"
+}

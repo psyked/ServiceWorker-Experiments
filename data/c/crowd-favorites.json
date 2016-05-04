@@ -1,0 +1,13 @@
+{
+  "title": "Crowd Favorites",
+  "image": "../img/c/crowd-favorites.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Human Soldier",
+  "text": ": Tap target creature.: Crowd Favorites gets +0/+5 until end of turn.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "15",
+  "artist": "Roger Raupp",
+  "rating": "2.094",
+  "votes": "32"
+}

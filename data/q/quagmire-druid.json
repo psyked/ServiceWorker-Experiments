@@ -1,0 +1,13 @@
+{
+  "title": "Quagmire Druid",
+  "image": "../img/q/quagmire-druid.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie Druid",
+  "text": ", , Sacrifice a creature: Destroy target enchantment.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Common",
+  "cardNumber": "90",
+  "artist": "Jaime Jones",
+  "rating": "3.000",
+  "votes": "12"
+}

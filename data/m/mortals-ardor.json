@@ -1,0 +1,13 @@
+{
+  "title": "Mortal's Ardor",
+  "image": "../img/m/mortals-ardor.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets +1/+1 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)",
+  "expansion": "Duel Decks: Elspeth vs. Kiora",
+  "rarity": "Common",
+  "cardNumber": "19",
+  "artist": "Kev Walker",
+  "rating": "5",
+  "votes": "0"
+}

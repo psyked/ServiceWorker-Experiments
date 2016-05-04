@@ -1,0 +1,13 @@
+{
+  "title": "Descendants' Path",
+  "image": "../img/d/descendants-path.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, reveal the top card of your library. If it's a creature card that shares a creature type with a creature you control, you may cast that card without paying its mana cost. Otherwise, put that card on the bottom of your library.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "173",
+  "artist": "Terese Nielsen",
+  "rating": "3.854",
+  "votes": "99"
+}

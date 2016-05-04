@@ -1,0 +1,13 @@
+{
+  "title": "Mind Warp",
+  "image": "../img/m/mind-warp.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Look at target player's hand and choose X cards from it. That player discards those cards.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "143",
+  "artist": "Liz Danforth",
+  "rating": "1.868",
+  "votes": "38"
+}

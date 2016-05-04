@@ -1,0 +1,13 @@
+{
+  "title": "Countersquall",
+  "image": "../img/c/countersquall.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Counter target noncreature spell. Its controller loses 2 life.",
+  "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+  "rarity": "Uncommon",
+  "cardNumber": "59",
+  "artist": "Anthony Francisco",
+  "rating": "3.975",
+  "votes": "59"
+}

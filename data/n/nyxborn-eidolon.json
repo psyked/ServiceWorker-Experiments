@@ -1,0 +1,13 @@
+{
+  "title": "Nyxborn Eidolon",
+  "image": "../img/n/nyxborn-eidolon.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment Creature  — Spirit",
+  "text": "Bestow  (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)Enchanted creature gets +2/+1.",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "78",
+  "artist": "Nils Hamm",
+  "rating": "2.182",
+  "votes": "33"
+}

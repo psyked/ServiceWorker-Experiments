@@ -1,0 +1,13 @@
+{
+  "title": "Force Away",
+  "image": "../img/f/force-away.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Return target creature to its owner's hand.Ferocious — If you control a creature with power 4 or greater, you may draw a card. If you do, discard a card.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "40",
+  "artist": "Mark Winters",
+  "rating": "3.167",
+  "votes": "3"
+}

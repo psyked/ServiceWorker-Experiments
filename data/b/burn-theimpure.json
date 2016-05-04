@@ -1,0 +1,13 @@
+{
+  "title": "Burn the Impure",
+  "image": "../img/b/burn-theimpure.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Burn the Impure deals 3 damage to target creature. If that creature has infect, Burn the Impure deals 3 damage to that creature's controller.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "59",
+  "artist": "Nic Klein",
+  "rating": "3.279",
+  "votes": "86"
+}

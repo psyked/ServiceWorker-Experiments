@@ -1,0 +1,13 @@
+{
+  "title": "Kazuul Warlord",
+  "image": "../img/k/kazuul-warlord.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Minotaur Warrior Ally",
+  "text": "Whenever Kazuul Warlord or another Ally enters the battlefield under your control, you may put a +1/+1 counter on each Ally creature you control.",
+  "expansion": "Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "134",
+  "artist": "Kev Walker",
+  "rating": "3.843",
+  "votes": "89"
+}

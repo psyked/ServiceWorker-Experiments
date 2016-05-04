@@ -1,0 +1,13 @@
+{
+  "title": "Bear's Companion",
+  "image": "../img/b/bears-companion.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Warrior",
+  "text": "When Bear's Companion enters the battlefield, put a 4/4 green Bear creature token onto the battlefield.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "167",
+  "artist": "Winona Nelson",
+  "rating": "3.833",
+  "votes": "6"
+}

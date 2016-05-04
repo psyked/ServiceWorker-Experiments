@@ -1,0 +1,13 @@
+{
+  "title": "Cankerous Thirst",
+  "image": "../img/c/cankerous-thirst.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "If  was spent to cast Cankerous Thirst, you may have target creature get -3/-3 until end of turn. If  was spent to cast Cankerous Thirst, you may have target creature get +3/+3 until end of turn. (Do both if  was spent.)",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "116",
+  "artist": "Carl Frank",
+  "rating": "3.100",
+  "votes": "50"
+}

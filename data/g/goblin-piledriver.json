@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Piledriver",
+  "image": "../img/g/goblin-piledriver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Protection from blue (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue.)Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking Goblin.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "151",
+  "artist": "Matt Cavotta",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Piston Sledge",
+  "image": "../img/p/piston-sledge.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": "When Piston Sledge enters the battlefield, attach it to target creature you control.Equipped creature gets +3/+1.Equip—Sacrifice an artifact.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Uncommon",
+  "cardNumber": "124",
+  "artist": "Pete Venters",
+  "rating": "3.440",
+  "votes": "84"
+}

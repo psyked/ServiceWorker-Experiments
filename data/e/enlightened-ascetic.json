@@ -1,0 +1,13 @@
+{
+  "title": "Enlightened Ascetic",
+  "image": "../img/e/enlightened-ascetic.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Cat Monk",
+  "text": "When Enlightened Ascetic enters the battlefield, you may destroy target enchantment.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "12",
+  "artist": "James Zapata",
+  "rating": "5",
+  "votes": "0"
+}

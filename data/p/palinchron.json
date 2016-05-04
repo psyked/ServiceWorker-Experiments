@@ -1,0 +1,13 @@
+{
+  "title": "Palinchron",
+  "image": "../img/p/palinchron.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Illusion",
+  "text": "FlyingWhen Palinchron enters the battlefield, untap up to seven lands.: Return Palinchron to its owner's hand.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "86",
+  "artist": "Matthew D. Wilson",
+  "rating": "4.500",
+  "votes": "1"
+}

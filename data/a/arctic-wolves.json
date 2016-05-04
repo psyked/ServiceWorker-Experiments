@@ -1,0 +1,13 @@
+{
+  "title": "Arctic Wolves",
+  "image": "../img/a/arctic-wolves.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Wolf",
+  "text": "Cumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)When Arctic Wolves enters the battlefield, draw a card.",
+  "expansion": "Weatherlight",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Steve White",
+  "rating": "2.088",
+  "votes": "40"
+}

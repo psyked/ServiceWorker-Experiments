@@ -1,0 +1,13 @@
+{
+  "title": "Cliffside Lookout",
+  "image": "../img/c/cliffside-lookout.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Kor Scout Ally",
+  "text": ": Creatures you control get +1/+1 until end of turn.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "20",
+  "artist": "Eric Deschamps",
+  "rating": "5",
+  "votes": "0"
+}

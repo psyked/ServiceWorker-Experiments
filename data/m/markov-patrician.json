@@ -1,0 +1,13 @@
+{
+  "title": "Markov Patrician",
+  "image": "../img/m/markov-patrician.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vampire",
+  "text": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "107",
+  "artist": "Jana Schirmer & Johannes Voss",
+  "rating": "3.096",
+  "votes": "52"
+}

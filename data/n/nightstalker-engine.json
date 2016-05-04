@@ -1,0 +1,13 @@
+{
+  "title": "Nightstalker Engine",
+  "image": "../img/n/nightstalker-engine.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Nightstalker",
+  "text": "Nightstalker Engine's power is equal to the number of creature cards in your graveyard.",
+  "expansion": "Portal Second Age",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Mark Tedin",
+  "rating": "3.700",
+  "votes": "30"
+}

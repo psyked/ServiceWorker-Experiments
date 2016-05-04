@@ -1,0 +1,13 @@
+{
+  "title": "Rise of the Hobgoblins",
+  "image": "../img/r/rise-ofthehobgoblins.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "When Rise of the Hobgoblins enters the battlefield, you may pay . If you do, put X 1/1 red and white Goblin Soldier creature tokens onto the battlefield.: Red creatures and white creatures you control gain first strike until end of turn.",
+  "expansion": "Eventide",
+  "rarity": "Rare",
+  "cardNumber": "145",
+  "artist": "Jeff Miracola",
+  "rating": "3.944",
+  "votes": "80"
+}

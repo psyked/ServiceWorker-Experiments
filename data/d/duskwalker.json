@@ -1,0 +1,13 @@
+{
+  "title": "Duskwalker",
+  "image": "../img/d/duskwalker.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Minion",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)If Duskwalker was kicked, it enters the battlefield with two +1/+1 counters on it and with fear. (It can't be blocked except by artifact creatures and/or black creatures.)",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "104",
+  "artist": "David Martin",
+  "rating": "2.714",
+  "votes": "35"
+}

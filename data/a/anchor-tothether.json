@@ -1,0 +1,13 @@
+{
+  "title": "Anchor to the Æther",
+  "image": "../img/a/anchor-tothether.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Put target creature on top of its owner's library. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "44",
+  "artist": "Zoltan Boros",
+  "rating": "5",
+  "votes": "0"
+}

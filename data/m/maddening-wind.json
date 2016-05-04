@@ -1,0 +1,13 @@
+{
+  "title": "Maddening Wind",
+  "image": "../img/m/maddening-wind.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureCumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)At the beginning of the upkeep of enchanted creature's controller, Maddening Wind deals 2 damage to that player.",
+  "expansion": "Ice Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Dameon Willich",
+  "rating": "2.583",
+  "votes": "30"
+}

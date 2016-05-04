@@ -1,0 +1,13 @@
+{
+  "title": "Gaze of Justice",
+  "image": "../img/g/gaze-ofjustice.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Gaze of Justice, tap three untapped white creatures you control.Exile target creature.Flashback  (You may cast this card from your graveyard for its flashback cost and any additional costs. Then exile it.)",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "20",
+  "artist": "John Avon",
+  "rating": "3.559",
+  "votes": "34"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Lead Golem",
+  "image": "../img/l/lead-golem.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Golem",
+  "text": "Whenever Lead Golem attacks, it doesn't untap during its controller's next untap step.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "295",
+  "artist": "Hannibal King",
+  "rating": "1.477",
+  "votes": "43"
+}

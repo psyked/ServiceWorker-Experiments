@@ -1,0 +1,13 @@
+{
+  "title": "Heir of the Wilds",
+  "image": "../img/h/heir-ofthewilds.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Warrior",
+  "text": "DeathtouchFerocious — Whenever Heir of the Wilds attacks, if you control a creature with power 4 or greater, Heir of the Wilds gets +1/+1 until end of turn.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "134",
+  "artist": "Winona Nelson",
+  "rating": "3.625",
+  "votes": "4"
+}

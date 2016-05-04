@@ -1,0 +1,13 @@
+{
+  "title": "Cessation",
+  "image": "../img/c/cessation.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature can't attack.When Cessation is put into a graveyard from the battlefield, return Cessation to its owner's hand.",
+  "expansion": "Urza's Legacy",
+  "rarity": "Common",
+  "cardNumber": "4",
+  "artist": "Mark Zug",
+  "rating": "3.362",
+  "votes": "47"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Cinderbones",
+  "image": "../img/c/cinderbones.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elemental Skeleton",
+  "text": "Wither (This deals damage to creatures in the form of -1/-1 counters.): Regenerate Cinderbones.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "59",
+  "artist": "Carl Critchlow",
+  "rating": "2.415",
+  "votes": "47"
+}

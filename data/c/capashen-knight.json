@@ -1,0 +1,13 @@
+{
+  "title": "Capashen Knight",
+  "image": "../img/c/capashen-knight.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Knight",
+  "text": "First strike (This creature deals combat damage before creatures without first strike.): Capashen Knight gets +1/+0 until end of turn.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "11",
+  "artist": "Jasper Sandner",
+  "rating": "3.181",
+  "votes": "36"
+}

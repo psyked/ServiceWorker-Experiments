@@ -1,0 +1,13 @@
+{
+  "title": "Aven Shrine",
+  "image": "../img/a/aven-shrine.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a player casts a spell, that player gains X life, where X is the number of cards in all graveyards with the same name as that spell.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "9",
+  "artist": "Wayne England",
+  "rating": "1.696",
+  "votes": "28"
+}

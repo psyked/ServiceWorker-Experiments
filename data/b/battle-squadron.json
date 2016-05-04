@@ -1,0 +1,13 @@
+{
+  "title": "Battle Squadron",
+  "image": "../img/b/battle-squadron.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Goblin",
+  "text": "FlyingBattle Squadron's power and toughness are each equal to the number of creatures you control.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "174",
+  "artist": "Mark Tedin",
+  "rating": "4.044",
+  "votes": "45"
+}

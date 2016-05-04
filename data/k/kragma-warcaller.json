@@ -1,0 +1,13 @@
+{
+  "title": "Kragma Warcaller",
+  "image": "../img/k/kragma-warcaller.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Minotaur Warrior",
+  "text": "Minotaur creatures you control have haste.Whenever a Minotaur you control attacks, it gets +2/+0 until end of turn.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "195",
+  "artist": "Gabor Szikszai",
+  "rating": "3.550",
+  "votes": "40"
+}

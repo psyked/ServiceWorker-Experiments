@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Tinkerer",
+  "image": "../img/g/goblin-tinkerer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Artificer",
+  "text": ", : Destroy target artifact. That artifact deals damage equal to its converted mana cost to Goblin Tinkerer.",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Hannibal King",
+  "rating": "3.682",
+  "votes": "44"
+}

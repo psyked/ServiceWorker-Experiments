@@ -1,0 +1,13 @@
+{
+  "title": "Krenko's Command",
+  "image": "../img/k/krenkos-command.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Put two 1/1 red Goblin creature tokens onto the battlefield.",
+  "expansion": "Duel Decks: Speed vs. Cunning",
+  "rarity": "Common",
+  "cardNumber": "25",
+  "artist": "Karl Kopinski",
+  "rating": "5",
+  "votes": "0"
+}

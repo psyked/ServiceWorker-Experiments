@@ -1,0 +1,13 @@
+{
+  "title": "Powerstone Minefield",
+  "image": "../img/p/powerstone-minefield.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever a creature attacks or blocks, Powerstone Minefield deals 2 damage to it.",
+  "expansion": "Apocalypse",
+  "rarity": "Rare",
+  "cardNumber": "115",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "4.225",
+  "votes": "40"
+}

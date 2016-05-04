@@ -1,0 +1,13 @@
+{
+  "title": "Militia's Pride",
+  "image": "../img/m/militias-pride.jpg",
+  "convertedManaCost": "2",
+  "types": "Tribal Enchantment  — Kithkin",
+  "text": "Whenever a nontoken creature you control attacks, you may pay . If you do, put a 1/1 white Kithkin Soldier creature token onto the battlefield tapped and attacking.",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "30",
+  "artist": "Larry MacDougall",
+  "rating": "3.948",
+  "votes": "58"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Alchemist's Vial",
+  "image": "../img/a/alchemists-vial.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "When Alchemist's Vial enters the battlefield, draw a card., , Sacrifice Alchemist's Vial: Target creature can't attack or block this turn.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "220",
+  "artist": "Lindsey Look",
+  "rating": "5",
+  "votes": "0"
+}

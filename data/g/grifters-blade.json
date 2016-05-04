@@ -1,0 +1,13 @@
+{
+  "title": "Grifter's Blade",
+  "image": "../img/g/grifters-blade.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": "FlashAs Grifter's Blade enters the battlefield, choose a creature you control it could be attached to. If you do, it enters the battlefield attached to that creature.Equipped creature gets +1/+1.Equip",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "263",
+  "artist": "Alan Pollack",
+  "rating": "2.378",
+  "votes": "41"
+}

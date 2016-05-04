@@ -1,0 +1,13 @@
+{
+  "title": "Paradise Plume",
+  "image": "../img/p/paradise-plume.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "As Paradise Plume enters the battlefield, choose a color.Whenever a player casts a spell of the chosen color, you may gain 1 life.: Add one mana of the chosen color to your mana pool.",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "260",
+  "artist": "Wayne England",
+  "rating": "3.081",
+  "votes": "31"
+}

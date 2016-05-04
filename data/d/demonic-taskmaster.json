@@ -1,0 +1,13 @@
+{
+  "title": "Demonic Taskmaster",
+  "image": "../img/d/demonic-taskmaster.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Demon",
+  "text": "FlyingAt the beginning of your upkeep, sacrifice a creature other than Demonic Taskmaster.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Uncommon",
+  "cardNumber": "95",
+  "artist": "Chris Rahn",
+  "rating": "3.724",
+  "votes": "67"
+}

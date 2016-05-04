@@ -1,0 +1,13 @@
+{
+  "title": "Caltrops",
+  "image": "../img/c/caltrops.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Whenever a creature attacks, Caltrops deals 1 damage to it.",
+  "expansion": "Seventh Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "288",
+  "artist": "Eric Peterson",
+  "rating": "3.869",
+  "votes": "42"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Duress",
+  "image": "../img/d/duress.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "98",
+  "artist": "Jason Rainville",
+  "rating": "5",
+  "votes": "0"
+}

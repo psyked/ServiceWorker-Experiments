@@ -1,0 +1,13 @@
+{
+  "title": "Deadbridge Chant",
+  "image": "../img/d/deadbridge-chant.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "When Deadbridge Chant enters the battlefield, put the top ten cards of your library into your graveyard.At the beginning of your upkeep, choose a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, put it into your hand.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Mythic Rare",
+  "cardNumber": "63",
+  "artist": "Zoltan Boros",
+  "rating": "3.801",
+  "votes": "93"
+}

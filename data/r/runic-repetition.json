@@ -1,0 +1,13 @@
+{
+  "title": "Runic Repetition",
+  "image": "../img/r/runic-repetition.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Return target exiled card with flashback you own to your hand.",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "72",
+  "artist": "Svetlin Velinov",
+  "rating": "3.621",
+  "votes": "62"
+}

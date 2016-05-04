@@ -1,0 +1,13 @@
+{
+  "title": "Barkshell Blessing",
+  "image": "../img/b/barkshell-blessing.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets +2/+2 until end of turn.Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "224",
+  "artist": "Steven Belledin",
+  "rating": "2.893",
+  "votes": "42"
+}

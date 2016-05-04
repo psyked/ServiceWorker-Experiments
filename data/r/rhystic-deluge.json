@@ -1,0 +1,13 @@
+{
+  "title": "Rhystic Deluge",
+  "image": "../img/r/rhystic-deluge.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": ": Tap target creature unless its controller pays .",
+  "expansion": "Prophecy",
+  "rarity": "Common",
+  "cardNumber": "43",
+  "artist": "Pete Venters",
+  "rating": "3.135",
+  "votes": "26"
+}

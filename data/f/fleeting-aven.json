@@ -1,0 +1,13 @@
+{
+  "title": "Fleeting Aven",
+  "image": "../img/f/fleeting-aven.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Bird Wizard",
+  "text": "FlyingWhenever a player cycles a card, return Fleeting Aven to its owner's hand.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "83",
+  "artist": "Iain McCaig",
+  "rating": "2.341",
+  "votes": "22"
+}

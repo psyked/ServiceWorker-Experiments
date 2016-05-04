@@ -1,0 +1,13 @@
+{
+  "title": "Izzet Guildmage",
+  "image": "../img/i/izzet-guildmage.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": "( can be paid with either  or .): Copy target instant spell you control with converted mana cost 2 or less. You may choose new targets for the copy.: Copy target sorcery spell you control with converted mana cost 2 or less. You may choose new targets for the copy.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Uncommon",
+  "cardNumber": "4",
+  "artist": "Jim Murray",
+  "rating": "4.274",
+  "votes": "31"
+}

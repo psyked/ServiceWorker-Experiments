@@ -1,0 +1,13 @@
+{
+  "title": "Ancient Spider",
+  "image": "../img/a/ancient-spider.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Spider",
+  "text": "First strike; reach (This creature can block creatures with flying.)",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "96",
+  "artist": "Greg Staples",
+  "rating": "3.841",
+  "votes": "41"
+}

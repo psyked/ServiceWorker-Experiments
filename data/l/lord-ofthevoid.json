@@ -1,0 +1,13 @@
+{
+  "title": "Lord of the Void",
+  "image": "../img/l/lord-ofthevoid.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Demon",
+  "text": "FlyingWhenever Lord of the Void deals combat damage to a player, exile the top seven cards of that player's library, then put a creature card from among them onto the battlefield under your control.",
+  "expansion": "Gatecrash",
+  "rarity": "Mythic Rare",
+  "cardNumber": "71",
+  "artist": "Chris Rahn",
+  "rating": "3.828",
+  "votes": "96"
+}

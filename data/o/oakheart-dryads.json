@@ -1,0 +1,13 @@
+{
+  "title": "Oakheart Dryads",
+  "image": "../img/o/oakheart-dryads.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment Creature  — Nymph Dryad",
+  "text": "Constellation — Whenever Oakheart Dryads or another enchantment enters the battlefield under your control, target creature gets +1/+1 until end of turn.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "133",
+  "artist": "Johann Bodin",
+  "rating": "3.020",
+  "votes": "25"
+}

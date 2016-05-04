@@ -1,0 +1,13 @@
+{
+  "title": "Oxidda Daredevil",
+  "image": "../img/o/oxidda-daredevil.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Artificer",
+  "text": "Sacrifice an artifact: Oxidda Daredevil gains haste until end of turn.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "100",
+  "artist": "Pete Venters",
+  "rating": "1.829",
+  "votes": "70"
+}

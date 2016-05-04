@@ -1,0 +1,13 @@
+{
+  "title": "Coral Reef",
+  "image": "../img/c/coral-reef.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Coral Reef enters the battlefield with four polyp counters on it.Sacrifice an Island: Put two polyp counters on Coral Reef., Tap an untapped blue creature you control, Remove a polyp counter from Coral Reef: Put a +0/+1 counter on target creature.",
+  "expansion": "Homelands",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Amy Weber",
+  "rating": "1.440",
+  "votes": "50"
+}

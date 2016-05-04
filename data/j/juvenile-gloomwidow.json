@@ -1,0 +1,13 @@
+{
+  "title": "Juvenile Gloomwidow",
+  "image": "../img/j/juvenile-gloomwidow.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spider",
+  "text": "Reach (This creature can block creatures with flying.)Wither (This deals damage to creatures in the form of -1/-1 counters.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "121",
+  "artist": "Thomas M. Baxa",
+  "rating": "3.265",
+  "votes": "49"
+}

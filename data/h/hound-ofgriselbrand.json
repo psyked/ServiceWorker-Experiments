@@ -1,0 +1,13 @@
+{
+  "title": "Hound of Griselbrand",
+  "image": "../img/h/hound-ofgriselbrand.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elemental Hound",
+  "text": "Double strikeUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "141",
+  "artist": "Svetlin Velinov",
+  "rating": "3.891",
+  "votes": "87"
+}

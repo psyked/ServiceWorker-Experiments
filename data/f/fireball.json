@@ -1,0 +1,13 @@
+{
+  "title": "Fireball",
+  "image": "../img/f/fireball.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.Fireball costs  more to cast for each target beyond the first.",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Uncommon",
+  "cardNumber": "56",
+  "artist": "Dave Dorman",
+  "rating": "5",
+  "votes": "0"
+}

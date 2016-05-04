@@ -1,0 +1,13 @@
+{
+  "title": "Bloodflow Connoisseur",
+  "image": "../img/b/bloodflow-connoisseur.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vampire",
+  "text": "Sacrifice a creature: Put a +1/+1 counter on Bloodflow Connoisseur.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "87",
+  "artist": "Slawomir Maniak",
+  "rating": "2.971",
+  "votes": "51"
+}

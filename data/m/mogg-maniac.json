@@ -1,0 +1,13 @@
+{
+  "title": "Mogg Maniac",
+  "image": "../img/m/mogg-maniac.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin",
+  "text": "Whenever Mogg Maniac is dealt damage, it deals that much damage to target opponent.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "147",
+  "artist": "Brian Snoddy",
+  "rating": "5",
+  "votes": "0"
+}

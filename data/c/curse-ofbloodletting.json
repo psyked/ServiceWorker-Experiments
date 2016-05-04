@@ -1,0 +1,13 @@
+{
+  "title": "Curse of Bloodletting",
+  "image": "../img/c/curse-ofbloodletting.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment  — Aura Curse",
+  "text": "Enchant playerIf a source would deal damage to enchanted player, it deals double that damage to that player instead.",
+  "expansion": "Dark Ascension",
+  "rarity": "Rare",
+  "cardNumber": "85",
+  "artist": "Michael C. Hayes",
+  "rating": "3.682",
+  "votes": "66"
+}

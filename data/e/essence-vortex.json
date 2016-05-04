@@ -1,0 +1,13 @@
+{
+  "title": "Essence Vortex",
+  "image": "../img/e/essence-vortex.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Destroy target creature unless its controller pays life equal to its toughness. A creature destroyed this way can't be regenerated.",
+  "expansion": "Ice Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Margaret Organ-Kean",
+  "rating": "3.361",
+  "votes": "61"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Quicksilver Elemental",
+  "image": "../img/q/quicksilver-elemental.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental",
+  "text": ": Quicksilver Elemental gains all activated abilities of target creature until end of turn. (If any of the abilities use that creature's name, use this creature's name instead.)You may spend blue mana as though it were mana of any color to pay the activation costs of Quicksilver Elemental's abilities.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "47",
+  "artist": "Tony Szczudlo",
+  "rating": "3.888",
+  "votes": "40"
+}

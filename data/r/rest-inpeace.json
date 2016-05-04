@@ -1,0 +1,13 @@
+{
+  "title": "Rest in Peace",
+  "image": "../img/r/rest-inpeace.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "When Rest in Peace enters the battlefield, exile all cards from all graveyards.If a card or token would be put into a graveyard from anywhere, exile it instead.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Rare",
+  "cardNumber": "18",
+  "artist": "Terese Nielsen",
+  "rating": "4.118",
+  "votes": "123"
+}

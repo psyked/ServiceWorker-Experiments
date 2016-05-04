@@ -1,0 +1,13 @@
+{
+  "title": "Heliophial",
+  "image": "../img/h/heliophial.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": "Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.), Sacrifice Heliophial: Heliophial deals damage equal to the number of charge counters on it to target creature or player.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "130",
+  "artist": "Wayne England",
+  "rating": "2.226",
+  "votes": "31"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Bronze Bombshell",
+  "image": "../img/b/bronze-bombshell.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Construct",
+  "text": "When a player other than Bronze Bombshell's owner controls it, that player sacrifices it. If the player does, Bronze Bombshell deals 7 damage to him or her.",
+  "expansion": "Dissension",
+  "rarity": "Rare",
+  "cardNumber": "160",
+  "artist": "Martina Pilcerova",
+  "rating": "3.684",
+  "votes": "87"
+}

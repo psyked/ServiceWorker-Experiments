@@ -1,0 +1,13 @@
+{
+  "title": "Bloodied Ghost",
+  "image": "../img/b/bloodied-ghost.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "FlyingBloodied Ghost enters the battlefield with a -1/-1 counter on it.",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "83",
+  "artist": "Mike Dringenberg",
+  "rating": "2.696",
+  "votes": "46"
+}

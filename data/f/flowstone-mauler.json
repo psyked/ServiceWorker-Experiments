@@ -1,0 +1,13 @@
+{
+  "title": "Flowstone Mauler",
+  "image": "../img/f/flowstone-mauler.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Beast",
+  "text": "Trample: Flowstone Mauler gets +1/-1 until end of turn.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "133",
+  "artist": "Parente",
+  "rating": "5",
+  "votes": "0"
+}

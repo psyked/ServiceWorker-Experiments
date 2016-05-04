@@ -1,0 +1,13 @@
+{
+  "title": "Lost in the Mist",
+  "image": "../img/l/lost-inthemist.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Counter target spell. Return target permanent to its owner's hand.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "63",
+  "artist": "David Palumbo",
+  "rating": "3.234",
+  "votes": "47"
+}

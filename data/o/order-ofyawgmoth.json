@@ -1,0 +1,13 @@
+{
+  "title": "Order of Yawgmoth",
+  "image": "../img/o/order-ofyawgmoth.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie Knight",
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)Whenever Order of Yawgmoth deals damage to a player, that player discards a card.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Uncommon",
+  "cardNumber": "11",
+  "artist": "Chippy",
+  "rating": "4.114",
+  "votes": "35"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Clockwork Condor",
+  "image": "../img/c/clockwork-condor.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Bird",
+  "text": "FlyingClockwork Condor enters the battlefield with three +1/+1 counters on it.Whenever Clockwork Condor attacks or blocks, remove a +1/+1 counter from it at end of combat.",
+  "expansion": "Duel Decks: Elspeth vs. Tezzeret",
+  "rarity": "Common",
+  "cardNumber": "50",
+  "artist": "Arnie Swekel",
+  "rating": "1.636",
+  "votes": "33"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Imi Statue",
+  "image": "../img/i/imi-statue.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Players can't untap more than one artifact during their untap steps.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "255",
+  "artist": "Todd Lockwood",
+  "rating": "3.286",
+  "votes": "35"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Helldozer",
+  "image": "../img/h/helldozer.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Zombie Giant",
+  "text": ", : Destroy target land. If that land was nonbasic, untap Helldozer.",
+  "expansion": "Planechase",
+  "rarity": "Rare",
+  "cardNumber": "30",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "4.219",
+  "votes": "73"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Demonfire",
+  "image": "../img/d/demonfire.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Demonfire deals X damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead.Hellbent — If you have no cards in hand, Demonfire can't be countered by spells or abilities and the damage can't be prevented.",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Rare",
+  "cardNumber": "57",
+  "artist": "Greg Staples",
+  "rating": "5",
+  "votes": "0"
+}

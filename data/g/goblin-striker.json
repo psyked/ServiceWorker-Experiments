@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Striker",
+  "image": "../img/g/goblin-striker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Berserker",
+  "text": "First strike, haste",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "94",
+  "artist": "Kevin Dobler",
+  "rating": "3.067",
+  "votes": "30"
+}

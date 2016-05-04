@@ -1,0 +1,13 @@
+{
+  "title": "Hypnox",
+  "image": "../img/h/hypnox.jpg",
+  "convertedManaCost": "11",
+  "types": "Creature  — Nightmare Horror",
+  "text": "FlyingWhen Hypnox enters the battlefield, if you cast it from your hand, exile all cards from target opponent's hand.When Hypnox leaves the battlefield, return the exiled cards to their owner's hand.",
+  "expansion": "Torment",
+  "rarity": "Rare",
+  "cardNumber": "64",
+  "artist": "Greg Staples",
+  "rating": "3.812",
+  "votes": "56"
+}

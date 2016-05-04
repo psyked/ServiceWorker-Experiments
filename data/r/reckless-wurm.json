@@ -1,0 +1,13 @@
+{
+  "title": "Reckless Wurm",
+  "image": "../img/r/reckless-wurm.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Wurm",
+  "text": "TrampleMadness  (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "120",
+  "artist": "Greg Staples",
+  "rating": "4.106",
+  "votes": "47"
+}

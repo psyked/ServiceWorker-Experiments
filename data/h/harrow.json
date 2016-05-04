@@ -1,0 +1,13 @@
+{
+  "title": "Harrow",
+  "image": "../img/h/harrow.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "As an additional cost to cast Harrow, sacrifice a land.Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "16",
+  "artist": "Izzy",
+  "rating": "5",
+  "votes": "0"
+}

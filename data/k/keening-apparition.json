@@ -1,0 +1,13 @@
+{
+  "title": "Keening Apparition",
+  "image": "../img/k/keening-apparition.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": "Sacrifice Keening Apparition: Destroy target enchantment.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "12",
+  "artist": "Terese Nielsen",
+  "rating": "3.685",
+  "votes": "65"
+}

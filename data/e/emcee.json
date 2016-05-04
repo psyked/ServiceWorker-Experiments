@@ -1,0 +1,13 @@
+{
+  "title": "Emcee",
+  "image": "../img/e/emcee.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature — Human Rogue",
+  "text": "Whenever another creature comes into play, you may stand up and say in a deep, booming voice \"Presenting . . . \" and that creature's name. If you do, put a +1/+1 counter on that creature.",
+  "expansion": "Unhinged",
+  "rarity": "Uncommon",
+  "cardNumber": "9",
+  "artist": "Quinton Hoover",
+  "rating": "3.704",
+  "votes": "27"
+}

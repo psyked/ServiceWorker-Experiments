@@ -1,0 +1,13 @@
+{
+  "title": "Rabid Elephant",
+  "image": "../img/r/rabid-elephant.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elephant",
+  "text": "Whenever Rabid Elephant becomes blocked, it gets +2/+2 until end of turn for each creature blocking it.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "263",
+  "artist": "Dave Dorman",
+  "rating": "2.871",
+  "votes": "31"
+}

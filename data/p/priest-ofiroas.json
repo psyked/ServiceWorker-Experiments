@@ -1,0 +1,13 @@
+{
+  "title": "Priest of Iroas",
+  "image": "../img/p/priest-ofiroas.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": ", Sacrifice Priest of Iroas: Destroy target enchantment.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "134",
+  "artist": "Clint Cearley",
+  "rating": "2.339",
+  "votes": "31"
+}

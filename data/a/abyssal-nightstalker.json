@@ -1,0 +1,13 @@
+{
+  "title": "Abyssal Nightstalker",
+  "image": "../img/a/abyssal-nightstalker.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Nightstalker",
+  "text": "Whenever Abyssal Nightstalker attacks and isn't blocked, defending player discards a card.",
+  "expansion": "Portal Second Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Sam Woods",
+  "rating": "2.859",
+  "votes": "32"
+}

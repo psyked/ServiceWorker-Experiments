@@ -1,0 +1,13 @@
+{
+  "title": "Mirran Spy",
+  "image": "../img/m/mirran-spy.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Drone",
+  "text": "FlyingWhenever you cast an artifact spell, you may untap target creature.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "26",
+  "artist": "Dave Kendall",
+  "rating": "2.962",
+  "votes": "52"
+}

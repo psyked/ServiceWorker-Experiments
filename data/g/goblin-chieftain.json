@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Chieftain",
+  "image": "../img/g/goblin-chieftain.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin",
+  "text": "Haste (This creature can attack and  as soon as it comes under your control.)Other Goblin creatures you control get +1/+1 and have haste.",
+  "expansion": "Magic 2012",
+  "rarity": "Rare",
+  "cardNumber": "138",
+  "artist": "Sam Wood",
+  "rating": "3.984",
+  "votes": "93"
+}

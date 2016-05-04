@@ -1,0 +1,13 @@
+{
+  "title": "Cold Snap",
+  "image": "../img/c/cold-snap.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Cumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)At the beginning of each player's upkeep, Cold Snap deals damage to that player equal to the number of snow lands he or she controls.",
+  "expansion": "Ice Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Randy Gallegos",
+  "rating": "2.221",
+  "votes": "34"
+}

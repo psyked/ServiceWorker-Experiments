@@ -1,0 +1,13 @@
+{
+  "title": "Nylea's Emissary",
+  "image": "../img/n/nyleas-emissary.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment Creature  — Cat",
+  "text": "Bestow  (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)TrampleEnchanted creature gets +3/+3 and has trample.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "168",
+  "artist": "Sam Burley",
+  "rating": "3.429",
+  "votes": "28"
+}

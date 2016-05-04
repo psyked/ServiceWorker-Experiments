@@ -1,0 +1,13 @@
+{
+  "title": "Gore-House Chainwalker",
+  "image": "../img/g/gore-house-chainwalker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Warrior",
+  "text": "Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "96",
+  "artist": "Dan Scott",
+  "rating": "3.270",
+  "votes": "61"
+}

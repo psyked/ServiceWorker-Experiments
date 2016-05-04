@@ -1,0 +1,13 @@
+{
+  "title": "Æther Burst",
+  "image": "../img/t/ther-burst.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Return up to X target creatures to their owners' hands, where X is one plus the number of cards named Æther Burst in all graveyards as you cast Æther Burst.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "60",
+  "artist": "Adam Rex",
+  "rating": "3.985",
+  "votes": "34"
+}

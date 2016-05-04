@@ -1,0 +1,13 @@
+{
+  "title": "Leonin Elder",
+  "image": "../img/l/leonin-elder.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Cat Cleric",
+  "text": "Whenever an artifact enters the battlefield, you may gain 1 life.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "10",
+  "artist": "Todd Lockwood",
+  "rating": "3.500",
+  "votes": "39"
+}

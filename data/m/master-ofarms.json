@@ -1,0 +1,13 @@
+{
+  "title": "Master of Arms",
+  "image": "../img/m/master-ofarms.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "First strike: Tap target creature blocking Master of Arms.",
+  "expansion": "Weatherlight",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Dan Frazier",
+  "rating": "3.170",
+  "votes": "44"
+}

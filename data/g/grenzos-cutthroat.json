@@ -1,0 +1,13 @@
+{
+  "title": "Grenzo's Cutthroat",
+  "image": "../img/g/grenzos-cutthroat.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Rogue",
+  "text": "First strikeDethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "32",
+  "artist": "Svetlin Velinov",
+  "rating": "3.643",
+  "votes": "7"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Sledder",
+  "image": "../img/g/goblin-sledder.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin",
+  "text": "Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.",
+  "expansion": "Duel Decks Anthology, Elves vs. Goblins",
+  "rarity": "Common",
+  "cardNumber": "41",
+  "artist": "Ron Spencer",
+  "rating": "5",
+  "votes": "0"
+}

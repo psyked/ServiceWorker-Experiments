@@ -1,0 +1,13 @@
+{
+  "title": "Heliod's Pilgrim",
+  "image": "../img/h/heliods-pilgrim.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": "When Heliod's Pilgrim enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "14",
+  "artist": "Izzy",
+  "rating": "3.583",
+  "votes": "6"
+}

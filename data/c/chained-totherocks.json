@@ -1,0 +1,13 @@
+{
+  "title": "Chained to the Rocks",
+  "image": "../img/c/chained-totherocks.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant Mountain you controlWhen Chained to the Rocks enters the battlefield, exile target creature an opponent controls until Chained to the Rocks leaves the battlefield. (That creature returns under its owner's control.)",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "4",
+  "artist": "Aaron Miller",
+  "rating": "3.559",
+  "votes": "93"
+}

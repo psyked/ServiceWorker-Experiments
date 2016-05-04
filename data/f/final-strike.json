@@ -1,0 +1,13 @@
+{
+  "title": "Final Strike",
+  "image": "../img/f/final-strike.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Final Strike, sacrifice a creature.Final Strike deals damage to target opponent equal to the sacrificed creature's power.",
+  "expansion": "Portal",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "John Coulthart",
+  "rating": "1.707",
+  "votes": "29"
+}

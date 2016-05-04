@@ -1,0 +1,13 @@
+{
+  "title": "Grotag Thrasher",
+  "image": "../img/g/grotag-thrasher.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Lizard",
+  "text": "Whenever Grotag Thrasher attacks, target creature can't block this turn.",
+  "expansion": "Worldwake",
+  "rarity": "Common",
+  "cardNumber": "83",
+  "artist": "Jesper Ejsing",
+  "rating": "2.391",
+  "votes": "46"
+}

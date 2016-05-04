@@ -1,0 +1,13 @@
+{
+  "title": "Battle Screech",
+  "image": "../img/b/battle-screech.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Put two 1/1 white Bird creature tokens with flying onto the battlefield.Flashback—Tap three untapped white creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "15",
+  "artist": "Randy Gallegos",
+  "rating": "3.500",
+  "votes": "1"
+}

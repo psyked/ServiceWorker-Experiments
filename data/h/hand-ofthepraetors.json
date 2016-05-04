@@ -1,0 +1,13 @@
+{
+  "title": "Hand of the Praetors",
+  "image": "../img/h/hand-ofthepraetors.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie",
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)Other creatures you control with infect get +1/+1.Whenever you cast a creature spell with infect, target player gets a poison counter.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "66",
+  "artist": "Izzy",
+  "rating": "4.173",
+  "votes": "214"
+}

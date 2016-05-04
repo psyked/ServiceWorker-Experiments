@@ -1,0 +1,13 @@
+{
+  "title": "Furnace Scamp",
+  "image": "../img/f/furnace-scamp.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Beast",
+  "text": "Whenever Furnace Scamp deals combat damage to a player, you may sacrifice it. If you do, Furnace Scamp deals 3 damage to that player.",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "84",
+  "artist": "Karl Kopinski",
+  "rating": "3.531",
+  "votes": "96"
+}

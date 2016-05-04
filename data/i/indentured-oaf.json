@@ -1,0 +1,13 @@
+{
+  "title": "Indentured Oaf",
+  "image": "../img/i/indentured-oaf.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Ogre Warrior",
+  "text": "Prevent all damage that Indentured Oaf would deal to red creatures.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "133",
+  "artist": "Glenn Fabry",
+  "rating": "1.703",
+  "votes": "37"
+}

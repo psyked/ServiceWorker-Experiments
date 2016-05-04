@@ -1,0 +1,13 @@
+{
+  "title": "Ignoble Soldier",
+  "image": "../img/i/ignoble-soldier.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "Whenever Ignoble Soldier becomes blocked, prevent all combat damage that would be dealt by it this turn.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "22",
+  "artist": "Mark Romanoski",
+  "rating": "0.903",
+  "votes": "93"
+}

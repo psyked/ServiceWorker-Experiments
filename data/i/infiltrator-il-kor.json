@@ -1,0 +1,13 @@
+{
+  "title": "Infiltrator il-Kor",
+  "image": "../img/i/infiltrator-il-kor.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Kor Rogue",
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)Suspend 2— (Rather than cast this card from your hand, you may pay  and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)",
+  "expansion": "Future Sight",
+  "rarity": "Common",
+  "cardNumber": "37",
+  "artist": "Jon Foster",
+  "rating": "3.364",
+  "votes": "44"
+}

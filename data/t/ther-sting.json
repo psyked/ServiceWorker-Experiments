@@ -1,0 +1,13 @@
+{
+  "title": "Æther Sting",
+  "image": "../img/t/ther-sting.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever an opponent casts a creature spell, Æther Sting deals 1 damage to that player.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Uncommon",
+  "cardNumber": "76",
+  "artist": "Pete Venters",
+  "rating": "3.589",
+  "votes": "28"
+}

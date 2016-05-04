@@ -1,0 +1,13 @@
+{
+  "title": "Gnathosaur",
+  "image": "../img/g/gnathosaur.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Lizard",
+  "text": "Sacrifice an artifact: Gnathosaur gains trample until end of turn.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "63",
+  "artist": "Jason Chan",
+  "rating": "2.000",
+  "votes": "61"
+}

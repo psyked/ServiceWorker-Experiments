@@ -1,0 +1,13 @@
+{
+  "title": "Grindclock",
+  "image": "../img/g/grindclock.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ": Put a charge counter on Grindclock.: Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of charge counters on Grindclock.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "217",
+  "artist": "Nils Hamm",
+  "rating": "2.500",
+  "votes": "5"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Flowstone Thopter",
+  "image": "../img/f/flowstone-thopter.jpg",
+  "convertedManaCost": "7",
+  "types": "Artifact Creature  — Thopter",
+  "text": ": Flowstone Thopter gets +1/-1 and gains flying until end of turn.",
+  "expansion": "Nemesis",
+  "rarity": "Uncommon",
+  "cardNumber": "132",
+  "artist": "Mike Ploog",
+  "rating": "1.961",
+  "votes": "38"
+}

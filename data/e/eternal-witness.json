@@ -1,0 +1,13 @@
+{
+  "title": "Eternal Witness",
+  "image": "../img/e/eternal-witness.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Shaman",
+  "text": "When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "183",
+  "artist": "Terese Nielsen",
+  "rating": "5",
+  "votes": "0"
+}

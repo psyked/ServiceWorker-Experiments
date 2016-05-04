@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Infiltrator",
+  "image": "../img/p/phyrexian-infiltrator.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Minion",
+  "text": ": Exchange control of Phyrexian Infiltrator and target creature. (This effect lasts indefinitely.)",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "116",
+  "artist": "Darrell Riche",
+  "rating": "3.913",
+  "votes": "46"
+}

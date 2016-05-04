@@ -1,0 +1,13 @@
+{
+  "title": "Kjeldoran War Cry",
+  "image": "../img/k/kjeldoran-warcry.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Creatures you control get +X/+X until end of turn, where X is 1 plus the number of cards named Kjeldoran War Cry in all graveyards.",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "13",
+  "artist": "Michael Phillippi",
+  "rating": "2.977",
+  "votes": "44"
+}

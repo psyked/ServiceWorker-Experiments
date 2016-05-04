@@ -1,0 +1,13 @@
+{
+  "title": "Obsidian Acolyte",
+  "image": "../img/o/obsidian-acolyte.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": "Protection from black: Target creature gains protection from black until end of turn.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "22",
+  "artist": "Matthew D. Wilson",
+  "rating": "3.741",
+  "votes": "27"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Killing Wave",
+  "image": "../img/k/killing-wave.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "For each creature, its controller sacrifices it unless he or she pays X life.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "111",
+  "artist": "Steve Argyle",
+  "rating": "3.492",
+  "votes": "119"
+}

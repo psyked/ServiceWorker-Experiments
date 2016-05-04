@@ -1,0 +1,13 @@
+{
+  "title": "Augur il-Vec",
+  "image": "../img/a/augur-il-vec.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)Sacrifice Augur il-Vec: You gain 4 life. Activate this ability only during your upkeep.",
+  "expansion": "Future Sight",
+  "rarity": "Common",
+  "cardNumber": "2",
+  "artist": "Daren Bader",
+  "rating": "2.811",
+  "votes": "45"
+}

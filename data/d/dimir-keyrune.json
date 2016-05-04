@@ -1,0 +1,13 @@
+{
+  "title": "Dimir Keyrune",
+  "image": "../img/d/dimir-keyrune.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  or  to your mana pool.: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature until end of turn and can't be blocked this turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "228",
+  "artist": "Daniel Ljunggren",
+  "rating": "3.259",
+  "votes": "54"
+}

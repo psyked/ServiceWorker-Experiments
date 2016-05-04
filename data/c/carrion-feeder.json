@@ -1,0 +1,13 @@
+{
+  "title": "Carrion Feeder",
+  "image": "../img/c/carrion-feeder.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Zombie",
+  "text": "Carrion Feeder can't block.Sacrifice a creature: Put a +1/+1 counter on Carrion Feeder.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Common",
+  "cardNumber": "2",
+  "artist": "Brian Snoddy",
+  "rating": "4.348",
+  "votes": "69"
+}

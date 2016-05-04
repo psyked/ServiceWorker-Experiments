@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Game",
+  "image": "../img/g/goblin-game.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "Each player hides at least one item, then all players reveal them simultaneously. Each player loses life equal to the number of items he or she revealed. The player who revealed the fewest items then loses half his or her life, rounded up. If two or more players are tied for fewest, each loses half his or her life, rounded up.",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "61",
+  "artist": "DiTerlizzi",
+  "rating": "4.269",
+  "votes": "80"
+}

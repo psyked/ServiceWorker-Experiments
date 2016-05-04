@@ -1,0 +1,13 @@
+{
+  "title": "Icatian Priest",
+  "image": "../img/i/icatian-priest.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Cleric",
+  "text": ": Target creature gets +1/+1 until end of turn.",
+  "expansion": "Duel Decks Anthology, Divine vs. Demonic",
+  "rarity": "Uncommon",
+  "cardNumber": "2",
+  "artist": "Stephen Tappin",
+  "rating": "5",
+  "votes": "0"
+}

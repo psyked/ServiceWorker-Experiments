@@ -1,0 +1,13 @@
+{
+  "title": "Olivia, Mobilized for War",
+  "image": "../img/o/olivia-mobilizedforwar.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Creature  — Vampire Knight",
+  "text": "FlyingWhenever another creature enters the battlefield under your control, you may discard a card. If you do, put a +1/+1 counter on that creature, it gains haste until end of turn, and it becomes a Vampire in addition to its other types.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Mythic Rare",
+  "cardNumber": "248",
+  "artist": "Eric Deschamps",
+  "rating": "5",
+  "votes": "0"
+}

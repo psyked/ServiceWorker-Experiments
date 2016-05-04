@@ -1,0 +1,13 @@
+{
+  "title": "Cho-Manno's Blessing",
+  "image": "../img/c/cho-mannos-blessing.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "FlashEnchant creatureAs Cho-Manno's Blessing enters the battlefield, choose a color.Enchanted creature has protection from the chosen color. This effect doesn't remove Cho-Manno's Blessing.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "12",
+  "artist": "John Matson",
+  "rating": "3.882",
+  "votes": "38"
+}

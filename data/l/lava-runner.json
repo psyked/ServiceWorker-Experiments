@@ -1,0 +1,13 @@
+{
+  "title": "Lava Runner",
+  "image": "../img/l/lava-runner.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Lizard",
+  "text": "HasteWhenever Lava Runner becomes the target of a spell or ability, that spell or ability's controller sacrifices a land.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "200",
+  "artist": "Donato Giancola",
+  "rating": "4.140",
+  "votes": "25"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ink-Treader Nephilim",
+  "image": "../img/i/ink-treader-nephilim.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Nephilim",
+  "text": "Whenever a player casts an instant or sorcery spell, if that spell targets only Ink-Treader Nephilim, copy the spell for each other creature that spell could target. Each copy targets a different one of those creatures.",
+  "expansion": "Guildpact",
+  "rarity": "Rare",
+  "cardNumber": "117",
+  "artist": "Christopher Moeller",
+  "rating": "4.027",
+  "votes": "74"
+}

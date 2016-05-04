@@ -1,0 +1,13 @@
+{
+  "title": "Martial Coup",
+  "image": "../img/m/martial-coup.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Put X 1/1 white Soldier creature tokens onto the battlefield. If X is 5 or more, destroy all other creatures.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "78",
+  "artist": "Greg Staples",
+  "rating": "5",
+  "votes": "0"
+}

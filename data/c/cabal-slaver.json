@@ -1,0 +1,13 @@
+{
+  "title": "Cabal Slaver",
+  "image": "../img/c/cabal-slaver.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": "Whenever a Goblin deals combat damage to a player, that player discards a card.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "131",
+  "artist": "Pete Venters",
+  "rating": "3.054",
+  "votes": "28"
+}

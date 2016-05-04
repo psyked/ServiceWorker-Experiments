@@ -1,0 +1,13 @@
+{
+  "title": "Heed the Mists",
+  "image": "../img/h/heed-themists.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery  — Arcane",
+  "text": "Put the top card of your library into your graveyard, then draw cards equal to that card's converted mana cost.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "36",
+  "artist": "Christopher Rush",
+  "rating": "2.586",
+  "votes": "35"
+}

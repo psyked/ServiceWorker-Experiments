@@ -1,0 +1,13 @@
+{
+  "title": "Aphotic Wisps",
+  "image": "../img/a/aphotic-wisps.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature becomes black and gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)Draw a card.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "55",
+  "artist": "Jim Nelson",
+  "rating": "3.298",
+  "votes": "47"
+}

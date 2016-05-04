@@ -1,0 +1,13 @@
+{
+  "title": "Murder Investigation",
+  "image": "../img/m/murder-investigation.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature you controlWhen enchanted creature dies, put X 1/1 white Soldier creature tokens onto the battlefield, where X is its power.",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "27",
+  "artist": "Igor Kieryluk",
+  "rating": "5",
+  "votes": "0"
+}

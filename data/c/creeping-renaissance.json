@@ -1,0 +1,13 @@
+{
+  "title": "Creeping Renaissance",
+  "image": "../img/c/creeping-renaissance.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Choose a permanent type. Return all cards of the chosen type from your graveyard to your hand.Flashback  (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "expansion": "Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "174",
+  "artist": "Tomasz Jedruszek",
+  "rating": "3.804",
+  "votes": "69"
+}

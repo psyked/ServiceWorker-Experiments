@@ -1,0 +1,13 @@
+{
+  "title": "Rime Dryad",
+  "image": "../img/r/rime-dryad.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Dryad",
+  "text": "Snow forestwalk (This creature can't be blocked as long as defending player controls a snow Forest.)",
+  "expansion": "Ice Age",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Heather Hudson",
+  "rating": "3.691",
+  "votes": "47"
+}

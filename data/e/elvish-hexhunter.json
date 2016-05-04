@@ -1,0 +1,13 @@
+{
+  "title": "Elvish Hexhunter",
+  "image": "../img/e/elvish-hexhunter.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Shaman",
+  "text": ", , Sacrifice Elvish Hexhunter: Destroy target enchantment.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "226",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "4.051",
+  "votes": "68"
+}

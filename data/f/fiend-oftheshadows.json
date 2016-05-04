@@ -1,0 +1,13 @@
+{
+  "title": "Fiend of the Shadows",
+  "image": "../img/f/fiend-oftheshadows.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Vampire Wizard",
+  "text": "FlyingWhenever Fiend of the Shadows deals combat damage to a player, that player exiles a card from his or her hand. You may play that card for as long as it remains exiled.Sacrifice a Human: Regenerate Fiend of the Shadows.",
+  "expansion": "Dark Ascension",
+  "rarity": "Rare",
+  "cardNumber": "62",
+  "artist": "Igor Kieryluk",
+  "rating": "3.518",
+  "votes": "56"
+}

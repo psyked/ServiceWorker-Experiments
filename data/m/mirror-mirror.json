@@ -1,0 +1,13 @@
+{
+  "title": "Mirror Mirror",
+  "image": "../img/m/mirror-mirror.jpg",
+  "convertedManaCost": "7",
+  "types": "Artifact",
+  "text": "Mirror Mirror comes into play tapped.o7, ocT, Sacrifice Mirror Mirror: At end of turn, exchange life totals with target player and exchange all cards in play that you control, and all cards in your hand, library, and graveyard, with that player until end of game.",
+  "expansion": "Unglued",
+  "rarity": "Rare",
+  "cardNumber": "77",
+  "artist": "Kaja Foglio",
+  "rating": "3.905",
+  "votes": "21"
+}

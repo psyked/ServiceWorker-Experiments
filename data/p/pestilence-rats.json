@@ -1,0 +1,13 @@
+{
+  "title": "Pestilence Rats",
+  "image": "../img/p/pestilence-rats.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Rat",
+  "text": "Pestilence Rats's power is equal to the number of other Rats on the battlefield. (For example, as long as there are two other Rats on the battlefield, Pestilence Rats's power and toughness are 2/3.)",
+  "expansion": "Ice Age",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Jeff A. Menges",
+  "rating": "2.865",
+  "votes": "26"
+}

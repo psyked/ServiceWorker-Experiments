@@ -1,0 +1,13 @@
+{
+  "title": "Arashin War Beast",
+  "image": "../img/a/arashin-warbeast.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Beast",
+  "text": "Whenever Arashin War Beast deals combat damage to one or more blocking creatures, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+  "expansion": "Ugin's Fate promos",
+  "rarity": "Uncommon",
+  "cardNumber": "123",
+  "artist": "Eric Deschamps",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Charging Troll",
+  "image": "../img/c/charging-troll.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Troll",
+  "text": "Vigilance: Regenerate Charging Troll.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Uncommon",
+  "cardNumber": "45",
+  "artist": "Dave Dorman",
+  "rating": "4.156",
+  "votes": "48"
+}

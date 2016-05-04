@@ -1,0 +1,13 @@
+{
+  "title": "Drainpipe Vermin",
+  "image": "../img/d/drainpipe-vermin.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Rat",
+  "text": "When Drainpipe Vermin dies, you may pay . If you do, target player discards a card.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "66",
+  "artist": "Trevor Claxton",
+  "rating": "2.808",
+  "votes": "60"
+}

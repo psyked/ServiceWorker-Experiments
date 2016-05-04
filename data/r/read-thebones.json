@@ -1,0 +1,13 @@
+{
+  "title": "Read the Bones",
+  "image": "../img/r/read-thebones.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Lars Grant-West",
+  "rating": "5",
+  "votes": "0"
+}

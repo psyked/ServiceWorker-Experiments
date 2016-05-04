@@ -1,0 +1,13 @@
+{
+  "title": "Hoarding Dragon",
+  "image": "../img/h/hoarding-dragon.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhen Hoarding Dragon enters the battlefield, you may search your library for an artifact card, exile it, then shuffle your library.When Hoarding Dragon dies, you may put the exiled card into its owner's hand.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "149",
+  "artist": "Matt Cavotta",
+  "rating": "3.800",
+  "votes": "5"
+}

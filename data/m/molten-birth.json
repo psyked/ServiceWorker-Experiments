@@ -1,0 +1,13 @@
+{
+  "title": "Molten Birth",
+  "image": "../img/m/molten-birth.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Put two 1/1 red Elemental creature tokens onto the battlefield. Then flip a coin. If you win the flip, return Molten Birth to its owner's hand.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "147",
+  "artist": "Jaime Jones",
+  "rating": "3.611",
+  "votes": "36"
+}

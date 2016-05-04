@@ -1,0 +1,13 @@
+{
+  "title": "Nissa Revane",
+  "image": "../img/n/nissa-revane.jpg",
+  "convertedManaCost": "4",
+  "types": "Planeswalker  — Nissa",
+  "text": "+1: Search your library for a card named Nissa's Chosen and put it onto the battlefield. Then shuffle your library.+1: You gain 2 life for each Elf you control.−7: Search your library for any number of Elf creature cards and put them onto the battlefield. Then shuffle your library.",
+  "expansion": "Zendikar",
+  "rarity": "Mythic Rare",
+  "cardNumber": "170",
+  "artist": "Jaime Jones",
+  "rating": "3.471",
+  "votes": "401"
+}

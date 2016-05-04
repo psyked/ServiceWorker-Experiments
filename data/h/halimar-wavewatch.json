@@ -1,0 +1,13 @@
+{
+  "title": "Halimar Wavewatch",
+  "image": "../img/h/halimar-wavewatch.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk Soldier",
+  "text": "Level up  (: Put a level counter on this. Level up only as a sorcery.)LEVEL 1-40/6LEVEL 5+6/6Islandwalk (This creature can't be blocked as long as defending player controls an Island.)",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "72",
+  "artist": "Matt Stewart",
+  "rating": "3.262",
+  "votes": "65"
+}

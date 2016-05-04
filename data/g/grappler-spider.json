@@ -1,0 +1,13 @@
+{
+  "title": "Grappler Spider",
+  "image": "../img/g/grappler-spider.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spider",
+  "text": "Reach (This creature can block creatures with flying.)",
+  "expansion": "Worldwake",
+  "rarity": "Common",
+  "cardNumber": "102",
+  "artist": "Austin Hsu",
+  "rating": "1.652",
+  "votes": "66"
+}

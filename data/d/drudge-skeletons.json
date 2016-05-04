@@ -1,0 +1,13 @@
+{
+  "title": "Drudge Skeletons",
+  "image": "../img/d/drudge-skeletons.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Skeleton",
+  "text": ": Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+  "expansion": "Duel Decks Anthology, Garruk vs. Liliana",
+  "rarity": "Common",
+  "cardNumber": "36",
+  "artist": "Daarken",
+  "rating": "5",
+  "votes": "0"
+}

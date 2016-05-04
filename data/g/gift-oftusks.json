@@ -1,0 +1,13 @@
+{
+  "title": "Gift of Tusks",
+  "image": "../img/g/gift-oftusks.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Until end of turn, target creature loses all abilities and becomes a green Elephant with base power and toughness 3/3.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "55",
+  "artist": "Kev Walker",
+  "rating": "5",
+  "votes": "0"
+}

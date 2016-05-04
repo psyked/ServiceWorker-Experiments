@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Totem",
+  "image": "../img/p/phyrexian-totem.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  to your mana pool.: Phyrexian Totem becomes a 5/5 black Horror artifact creature with trample until end of turn.Whenever Phyrexian Totem is dealt damage, if it's a creature, sacrifice that many permanents.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Uncommon",
+  "cardNumber": "20",
+  "artist": "John Zeleznik",
+  "rating": "3.938",
+  "votes": "32"
+}

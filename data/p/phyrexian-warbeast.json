@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian War Beast",
+  "image": "../img/p/phyrexian-warbeast.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Beast",
+  "text": "When Phyrexian War Beast leaves the battlefield, sacrifice a land and Phyrexian War Beast deals 1 damage to you.",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "162",
+  "artist": "Bill Sienkiewicz",
+  "rating": "3.786",
+  "votes": "63"
+}

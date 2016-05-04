@@ -1,0 +1,13 @@
+{
+  "title": "Immortal Servitude",
+  "image": "../img/i/immortal-servitude.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Return each creature card with converted mana cost X from your graveyard to the battlefield.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "220",
+  "artist": "Seb McKinnon",
+  "rating": "3.674",
+  "votes": "72"
+}

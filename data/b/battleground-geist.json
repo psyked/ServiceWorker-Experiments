@@ -1,0 +1,13 @@
+{
+  "title": "Battleground Geist",
+  "image": "../img/b/battleground-geist.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit",
+  "text": "FlyingOther Spirit creatures you control get +1/+0.",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "45",
+  "artist": "Clint Cearley",
+  "rating": "2.877",
+  "votes": "65"
+}

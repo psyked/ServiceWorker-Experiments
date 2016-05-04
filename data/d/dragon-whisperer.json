@@ -1,0 +1,13 @@
+{
+  "title": "Dragon Whisperer",
+  "image": "../img/d/dragon-whisperer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Shaman",
+  "text": ": Dragon Whisperer gains flying until end of turn.: Dragon Whisperer gets +1/+0 until end of turn.Formidable — : Put a 4/4 red Dragon creature token with flying onto the battlefield. Activate this ability only if creatures you control have total power 8 or greater.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Mythic Rare",
+  "cardNumber": "137",
+  "artist": "Chris Rallis",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Pain Magnification",
+  "image": "../img/p/pain-magnification.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever an opponent is dealt 3 or more damage by a single source, that player discards a card.",
+  "expansion": "Dissension",
+  "rarity": "Uncommon",
+  "cardNumber": "121",
+  "artist": "Aleksi Briclot",
+  "rating": "3.529",
+  "votes": "51"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Hulking Goblin",
+  "image": "../img/h/hulking-goblin.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin",
+  "text": "Hulking Goblin can't block.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "174",
+  "artist": "Pete Venters",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Naya Charm",
+  "image": "../img/n/naya-charm.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose one —• Naya Charm deals 3 damage to target creature.• Return target card from a graveyard to its owner's hand.• Tap all creatures target player controls.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "200",
+  "artist": "Jesper Ejsing",
+  "rating": "3.769",
+  "votes": "13"
+}

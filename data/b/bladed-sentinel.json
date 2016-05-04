@@ -1,0 +1,13 @@
+{
+  "title": "Bladed Sentinel",
+  "image": "../img/b/bladed-sentinel.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Construct",
+  "text": ": Bladed Sentinel gains vigilance until end of turn.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "98",
+  "artist": "Tomasz Jedruszek",
+  "rating": "2.037",
+  "votes": "68"
+}

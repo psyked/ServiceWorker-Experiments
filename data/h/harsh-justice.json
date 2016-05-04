@@ -1,0 +1,13 @@
+{
+  "title": "Harsh Justice",
+  "image": "../img/h/harsh-justice.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Cast Harsh Justice only during the declare attackers step and only if you've been attacked this step.This turn, whenever an attacking creature deals combat damage to you, it deals that much damage to its controller.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Rare",
+  "cardNumber": "13",
+  "artist": "John Coulthart",
+  "rating": "4.133",
+  "votes": "15"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Castle Raptors",
+  "image": "../img/c/castle-raptors.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bird Soldier",
+  "text": "FlyingAs long as Castle Raptors is untapped, it gets +0/+2.",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "5",
+  "artist": "Christopher Moeller",
+  "rating": "2.161",
+  "votes": "31"
+}

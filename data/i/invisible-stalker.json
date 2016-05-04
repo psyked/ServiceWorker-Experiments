@@ -1,0 +1,13 @@
+{
+  "title": "Invisible Stalker",
+  "image": "../img/i/invisible-stalker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Rogue",
+  "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)Invisible Stalker can't be blocked.",
+  "expansion": "Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "60",
+  "artist": "Bud Cook",
+  "rating": "3.960",
+  "votes": "287"
+}

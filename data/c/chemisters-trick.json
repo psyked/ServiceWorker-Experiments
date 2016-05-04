@@ -1,0 +1,13 @@
+{
+  "title": "Chemister's Trick",
+  "image": "../img/c/chemisters-trick.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature you don't control gets -2/-0 until end of turn and attacks this turn if able.Overload  (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "149",
+  "artist": "Christopher Moeller",
+  "rating": "2.627",
+  "votes": "51"
+}

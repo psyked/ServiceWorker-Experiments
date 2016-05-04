@@ -1,0 +1,13 @@
+{
+  "title": "Guardian Seraph",
+  "image": "../img/g/guardian-seraph.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Angel",
+  "text": "FlyingIf a source an opponent controls would deal damage to you, prevent 1 of that damage.",
+  "expansion": "Magic 2010",
+  "rarity": "Rare",
+  "cardNumber": "13",
+  "artist": "Paul Bonner",
+  "rating": "4.300",
+  "votes": "100"
+}

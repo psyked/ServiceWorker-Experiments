@@ -1,0 +1,13 @@
+{
+  "title": "Artificial Evolution",
+  "image": "../img/a/artificial-evolution.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Change the text of target spell or permanent by replacing all instances of one creature type with another. The new creature type can't be Wall. (This effect lasts indefinitely.)",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "67",
+  "artist": "Greg Staples",
+  "rating": "4.292",
+  "votes": "89"
+}

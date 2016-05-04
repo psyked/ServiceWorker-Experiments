@@ -1,0 +1,13 @@
+{
+  "title": "Enter the Infinite",
+  "image": "../img/e/enter-theinfinite.jpg",
+  "convertedManaCost": "12",
+  "types": "Sorcery",
+  "text": "Draw cards equal to the number of cards in your library, then put a card from your hand on top of your library. You have no maximum hand size until your next turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Mythic Rare",
+  "cardNumber": "34",
+  "artist": "Terese Nielsen",
+  "rating": "3.435",
+  "votes": "146"
+}

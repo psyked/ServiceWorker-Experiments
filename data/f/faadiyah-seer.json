@@ -1,0 +1,13 @@
+{
+  "title": "Fa'adiyah Seer",
+  "image": "../img/f/faadiyah-seer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Shaman",
+  "text": ": Draw a card and reveal it. If it isn't a land card, discard it.",
+  "expansion": "Planar Chaos",
+  "rarity": "Common",
+  "cardNumber": "146",
+  "artist": "Heather Hudson",
+  "rating": "2.873",
+  "votes": "55"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Riot Piker",
+  "image": "../img/r/riot-piker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Berserker",
+  "text": "First strikeRiot Piker attacks each turn if able.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Common",
+  "cardNumber": "37",
+  "artist": "Christopher Moeller",
+  "rating": "2.882",
+  "votes": "38"
+}

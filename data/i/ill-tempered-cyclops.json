@@ -1,0 +1,13 @@
+{
+  "title": "Ill-Tempered Cyclops",
+  "image": "../img/i/ill-tempered-cyclops.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Cyclops",
+  "text": "Trample: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "125",
+  "artist": "Peter Mohrbacher",
+  "rating": "3.471",
+  "votes": "34"
+}

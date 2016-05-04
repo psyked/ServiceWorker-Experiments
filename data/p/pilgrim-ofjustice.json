@@ -1,0 +1,13 @@
+{
+  "title": "Pilgrim of Justice",
+  "image": "../img/p/pilgrim-ofjustice.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": "Protection from red, Sacrifice Pilgrim of Justice: The next time a red source of your choice would deal damage this turn, prevent that damage.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "40",
+  "artist": "Orizio Daniele",
+  "rating": "2.562",
+  "votes": "24"
+}

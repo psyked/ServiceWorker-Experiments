@@ -1,0 +1,13 @@
+{
+  "title": "Defiant Strike",
+  "image": "../img/d/defiant-strike.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets +1/+0 until end of turn.Draw a card.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "7",
+  "artist": "Anastasia Ovchinnikova",
+  "rating": "1.750",
+  "votes": "4"
+}

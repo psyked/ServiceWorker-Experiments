@@ -1,0 +1,13 @@
+{
+  "title": "Entangling Trap",
+  "image": "../img/e/entangling-trap.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever you clash, tap target creature an opponent controls. If you won, that creature doesn't untap during its controller's next untap step. (This ability triggers after the clash ends.)",
+  "expansion": "Lorwyn",
+  "rarity": "Uncommon",
+  "cardNumber": "13",
+  "artist": "Warren Mahy",
+  "rating": "2.068",
+  "votes": "44"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Crumble",
+  "image": "../img/c/crumble.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its converted mana cost.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "147",
+  "artist": "Jesper Myrfors",
+  "rating": "3.457",
+  "votes": "23"
+}

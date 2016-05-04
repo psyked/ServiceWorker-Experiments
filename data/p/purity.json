@@ -1,0 +1,13 @@
+{
+  "title": "Purity",
+  "image": "../img/p/purity.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental Incarnation",
+  "text": "FlyingIf noncombat damage would be dealt to you, prevent that damage. You gain life equal to the damage prevented this way.When Purity is put into a graveyard from anywhere, shuffle it into its owner's library.",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "37",
+  "artist": "Warren Mahy",
+  "rating": "4.011",
+  "votes": "92"
+}

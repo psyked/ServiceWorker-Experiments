@@ -1,0 +1,13 @@
+{
+  "title": "Merrow Reejerey",
+  "image": "../img/m/merrow-reejerey.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Merfolk Soldier",
+  "text": "Other Merfolk creatures you control get +1/+1.Whenever you cast a Merfolk spell, you may tap or untap target permanent.",
+  "expansion": "Lorwyn",
+  "rarity": "Uncommon",
+  "cardNumber": "74",
+  "artist": "Greg Staples",
+  "rating": "4.452",
+  "votes": "104"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Flameshot",
+  "image": "../img/f/flameshot.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "You may discard a Mountain card rather than pay Flameshot's mana cost.Flameshot deals 3 damage divided as you choose among one, two, or three target creatures.",
+  "expansion": "Prophecy",
+  "rarity": "Uncommon",
+  "cardNumber": "90",
+  "artist": "Mark Brill",
+  "rating": "3.115",
+  "votes": "26"
+}

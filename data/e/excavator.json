@@ -1,0 +1,13 @@
+{
+  "title": "Excavator",
+  "image": "../img/e/excavator.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", Sacrifice a basic land: Target creature gains landwalk of each of the land types of the sacrificed land until end of turn. (It can't be blocked as long as defending player controls a land of any of those types.)",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Tom Kyffin",
+  "rating": "1.769",
+  "votes": "26"
+}

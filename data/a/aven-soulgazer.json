@@ -1,0 +1,13 @@
+{
+  "title": "Aven Soulgazer",
+  "image": "../img/a/aven-soulgazer.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bird Cleric",
+  "text": "Flying: Look at target face-down creature.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "8",
+  "artist": "John Avon",
+  "rating": "1.815",
+  "votes": "27"
+}

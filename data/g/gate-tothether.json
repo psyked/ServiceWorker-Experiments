@@ -1,0 +1,13 @@
+{
+  "title": "Gate to the Æther",
+  "image": "../img/g/gate-tothether.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact",
+  "text": "At the beginning of each player's upkeep, that player reveals the top card of his or her library. If it's an artifact, creature, enchantment, or land card, the player may put it onto the battlefield.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "174",
+  "artist": "Pete Venters",
+  "rating": "4.026",
+  "votes": "39"
+}

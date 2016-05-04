@@ -1,0 +1,13 @@
+{
+  "title": "Gray Merchant of Asphodel",
+  "image": "../img/g/gray-merchantofasphodel.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie",
+  "text": "When Gray Merchant of Asphodel enters the battlefield, each opponent loses X life, where X is your devotion to black. You gain life equal to the life lost this way. (Each  in the mana costs of permanents you control counts toward your devotion to black.)",
+  "expansion": "Commander 2014",
+  "rarity": "Common",
+  "cardNumber": "146",
+  "artist": "Robbie Trevino",
+  "rating": "5",
+  "votes": "0"
+}

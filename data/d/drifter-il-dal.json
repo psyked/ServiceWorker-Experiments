@@ -1,0 +1,13 @@
+{
+  "title": "Drifter il-Dal",
+  "image": "../img/d/drifter-il-dal.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Wizard",
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)At the beginning of your upkeep, sacrifice Drifter il-Dal unless you pay .",
+  "expansion": "Time Spiral",
+  "rarity": "Common",
+  "cardNumber": "59",
+  "artist": "Justin Sweet",
+  "rating": "3.117",
+  "votes": "47"
+}

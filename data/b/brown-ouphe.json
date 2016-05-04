@@ -1,0 +1,13 @@
+{
+  "title": "Brown Ouphe",
+  "image": "../img/b/brown-ouphe.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Ouphe",
+  "text": ", : Counter target activated ability from an artifact source. (Mana abilities can't be targeted.)",
+  "expansion": "Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "115",
+  "artist": "Greg Hildebrandt",
+  "rating": "3.610",
+  "votes": "50"
+}

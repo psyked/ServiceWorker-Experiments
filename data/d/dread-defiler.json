@@ -1,0 +1,13 @@
+{
+  "title": "Dread Defiler",
+  "image": "../img/d/dread-defiler.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Eldrazi",
+  "text": "Devoid (This card has no color.), Exile a creature card from your graveyard: Target opponent loses life equal to the exiled card's power. ( represents colorless mana.)",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Rare",
+  "cardNumber": "68",
+  "artist": "Slawomir Maniak",
+  "rating": "5",
+  "votes": "0"
+}

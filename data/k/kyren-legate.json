@@ -1,0 +1,13 @@
+{
+  "title": "Kyren Legate",
+  "image": "../img/k/kyren-legate.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin",
+  "text": "HasteIf an opponent controls a Plains and you control a Mountain, you may cast Kyren Legate without paying its mana cost.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "197",
+  "artist": "Dave Dorman",
+  "rating": "3.690",
+  "votes": "29"
+}

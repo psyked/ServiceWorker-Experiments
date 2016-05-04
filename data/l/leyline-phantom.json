@@ -1,0 +1,13 @@
+{
+  "title": "Leyline Phantom",
+  "image": "../img/l/leyline-phantom.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Illusion",
+  "text": "When Leyline Phantom deals combat damage, return it to its owner's hand. (Return it only if it survived combat.)",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Common",
+  "cardNumber": "16",
+  "artist": "Ryan Yee",
+  "rating": "2.158",
+  "votes": "19"
+}

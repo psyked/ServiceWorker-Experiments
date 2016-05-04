@@ -1,0 +1,13 @@
+{
+  "title": "Complex Automaton",
+  "image": "../img/c/complex-automaton.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Golem",
+  "text": "At the beginning of your upkeep, if you control seven or more permanents, return Complex Automaton to its owner's hand.",
+  "expansion": "Nemesis",
+  "rarity": "Rare",
+  "cardNumber": "128",
+  "artist": "Dana Knutson",
+  "rating": "2.061",
+  "votes": "33"
+}

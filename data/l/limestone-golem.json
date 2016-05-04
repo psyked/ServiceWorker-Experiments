@@ -1,0 +1,13 @@
+{
+  "title": "Limestone Golem",
+  "image": "../img/l/limestone-golem.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Golem",
+  "text": ", Sacrifice Limestone Golem: Target player draws a card.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "301",
+  "artist": "Mark Tedin",
+  "rating": "1.706",
+  "votes": "34"
+}

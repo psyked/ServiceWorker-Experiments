@@ -1,0 +1,13 @@
+{
+  "title": "Cathar's Companion",
+  "image": "../img/c/cathars-companion.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Hound",
+  "text": "Whenever you cast a noncreature spell, Cathar's Companion gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "9",
+  "artist": "Svetlin Velinov",
+  "rating": "5",
+  "votes": "0"
+}

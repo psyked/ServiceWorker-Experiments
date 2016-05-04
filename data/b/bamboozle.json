@@ -1,0 +1,13 @@
+{
+  "title": "Bamboozle",
+  "image": "../img/b/bamboozle.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target player reveals the top four cards of his or her library. You choose two of those cards and put them into his or her graveyard. Put the rest on top of his or her library in any order.",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "68",
+  "artist": "Alan Pollack",
+  "rating": "3.109",
+  "votes": "32"
+}

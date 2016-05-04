@@ -1,0 +1,13 @@
+{
+  "title": "Burst of Strength",
+  "image": "../img/b/burst-ofstrength.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Put a +1/+1 counter on target creature and untap it.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "115",
+  "artist": "Marco Nelor",
+  "rating": "2.947",
+  "votes": "57"
+}

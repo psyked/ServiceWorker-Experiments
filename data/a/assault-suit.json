@@ -1,0 +1,13 @@
+{
+  "title": "Assault Suit",
+  "image": "../img/a/assault-suit.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +2/+2, has haste, can't attack you or a planeswalker you control, and can't be sacrificed.At the beginning of each opponent's upkeep, you may have that player gain control of equipped creature until end of turn. If you do, untap it.Equip",
+  "expansion": "Commander 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "53",
+  "artist": "James Paick",
+  "rating": "5",
+  "votes": "0"
+}

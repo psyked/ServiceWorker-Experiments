@@ -1,0 +1,13 @@
+{
+  "title": "Fated Infatuation",
+  "image": "../img/f/fated-infatuation.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Put a token onto the battlefield that's a copy of target creature you control. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "expansion": "Born of the Gods",
+  "rarity": "Rare",
+  "cardNumber": "39",
+  "artist": "Winona Nelson",
+  "rating": "3.814",
+  "votes": "51"
+}

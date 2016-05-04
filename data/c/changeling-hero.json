@@ -1,0 +1,13 @@
+{
+  "title": "Changeling Hero",
+  "image": "../img/c/changeling-hero.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Shapeshifter",
+  "text": "Changeling (This card is every creature type.)Champion a creature (When this enters the battlefield, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)Lifelink (Damage dealt by this creature also causes you to gain that much life.)",
+  "expansion": "Lorwyn",
+  "rarity": "Uncommon",
+  "cardNumber": "9",
+  "artist": "Jeff Miracola",
+  "rating": "3.011",
+  "votes": "44"
+}

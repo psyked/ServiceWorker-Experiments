@@ -1,0 +1,13 @@
+{
+  "title": "Filigree Fracture",
+  "image": "../img/f/filigree-fracture.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Destroy target artifact or enchantment. If that permanent was blue or black, draw a card.",
+  "expansion": "Conflux",
+  "rarity": "Uncommon",
+  "cardNumber": "82",
+  "artist": "Howard Lyon",
+  "rating": "2.671",
+  "votes": "38"
+}

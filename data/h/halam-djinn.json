@@ -1,0 +1,13 @@
+{
+  "title": "Halam Djinn",
+  "image": "../img/h/halam-djinn.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Djinn",
+  "text": "HasteHalam Djinn gets -2/-2 as long as red is the most common color among all permanents or is tied for most common.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "146",
+  "artist": "Adam Rex",
+  "rating": "2.889",
+  "votes": "27"
+}

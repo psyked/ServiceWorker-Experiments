@@ -1,0 +1,13 @@
+{
+  "title": "Coastal Drake",
+  "image": "../img/c/coastal-drake.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Drake",
+  "text": "Flying, : Return target Kavu to its owner's hand.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "22",
+  "artist": "John Gallagher",
+  "rating": "2.500",
+  "votes": "29"
+}

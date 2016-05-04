@@ -1,0 +1,13 @@
+{
+  "title": "Blinding Flare",
+  "image": "../img/b/blinding-flare.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Strive — Blinding Flare costs  more to cast for each target beyond the first.Any number of target creatures can't block this turn.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "91",
+  "artist": "Evan Shipard",
+  "rating": "2.977",
+  "votes": "22"
+}

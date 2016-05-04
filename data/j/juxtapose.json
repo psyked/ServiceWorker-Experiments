@@ -1,0 +1,13 @@
+{
+  "title": "Juxtapose",
+  "image": "../img/j/juxtapose.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "You and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them.",
+  "expansion": "Masters Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "41",
+  "artist": "Justin Hampton",
+  "rating": "3.742",
+  "votes": "31"
+}

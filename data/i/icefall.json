@@ -1,0 +1,13 @@
+{
+  "title": "Icefall",
+  "image": "../img/i/icefall.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy target artifact or land.Recover  (When a creature is put into your graveyard from the battlefield, you may pay . If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "85",
+  "artist": "Warren Mahy",
+  "rating": "3.590",
+  "votes": "39"
+}

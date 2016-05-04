@@ -1,0 +1,13 @@
+{
+  "title": "Cosmic Larva",
+  "image": "../img/c/cosmic-larva.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Beast",
+  "text": "TrampleAt the beginning of your upkeep, sacrifice Cosmic Larva unless you sacrifice two lands.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Rare",
+  "cardNumber": "63",
+  "artist": "Jeff Easley",
+  "rating": "3.724",
+  "votes": "67"
+}

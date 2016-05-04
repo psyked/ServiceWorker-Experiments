@@ -1,0 +1,13 @@
+{
+  "title": "Double Deal",
+  "image": "../img/d/double-deal.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Choose another player. Double Deal deals 3 damage to that player now and deals an additional 3 damage to the player at the beginning of the next game with the player.",
+  "expansion": "Unglued",
+  "rarity": "Common",
+  "cardNumber": "42",
+  "artist": "Edward P. Beard, Jr",
+  "rating": "3.630",
+  "votes": "27"
+}

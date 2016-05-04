@@ -1,0 +1,13 @@
+{
+  "title": "Chainbreaker",
+  "image": "../img/c/chainbreaker.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Scarecrow",
+  "text": "Chainbreaker enters the battlefield with two -1/-1 counters on it., : Remove a -1/-1 counter from target creature.",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "249",
+  "artist": "Jeff Miracola",
+  "rating": "1.846",
+  "votes": "39"
+}

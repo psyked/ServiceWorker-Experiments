@@ -1,0 +1,13 @@
+{
+  "title": "Ivory Giant",
+  "image": "../img/i/ivory-giant.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Giant",
+  "text": "When Ivory Giant enters the battlefield, tap all nonwhite creatures.Suspend 5— (Rather than cast this card from your hand, you may pay  and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "19",
+  "artist": "Zack Stella",
+  "rating": "3.417",
+  "votes": "18"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Isolation Cell",
+  "image": "../img/i/isolation-cell.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "Whenever an opponent casts a creature spell, that player loses 2 life unless he or she pays .",
+  "expansion": "New Phyrexia",
+  "rarity": "Uncommon",
+  "cardNumber": "141",
+  "artist": "Adrian Smith",
+  "rating": "3.062",
+  "votes": "64"
+}

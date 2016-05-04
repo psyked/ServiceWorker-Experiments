@@ -1,0 +1,13 @@
+{
+  "title": "Induce Paranoia",
+  "image": "../img/i/induce-paranoia.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Counter target spell. If  was spent to cast Induce Paranoia, that spell's controller puts the top X cards of his or her library into his or her graveyard, where X is the spell's converted mana cost.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Jim Murray",
+  "rating": "3.429",
+  "votes": "56"
+}

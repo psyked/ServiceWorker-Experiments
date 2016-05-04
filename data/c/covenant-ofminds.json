@@ -1,0 +1,13 @@
+{
+  "title": "Covenant of Minds",
+  "image": "../img/c/covenant-ofminds.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Reveal the top three cards of your library. Target opponent may choose to put those cards into your hand. If he or she doesn't, put those cards into your graveyard and draw five cards.",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "38",
+  "artist": "Dan Seagrave",
+  "rating": "2.375",
+  "votes": "72"
+}

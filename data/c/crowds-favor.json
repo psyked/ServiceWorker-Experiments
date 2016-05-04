@@ -1,0 +1,13 @@
+{
+  "title": "Crowd's Favor",
+  "image": "../img/c/crowds-favor.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for  or one mana of that creature's color.)Target creature gets +1/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "138",
+  "artist": "Slawomir Maniak",
+  "rating": "2.917",
+  "votes": "6"
+}

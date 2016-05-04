@@ -1,0 +1,13 @@
+{
+  "title": "Legacy Weapon",
+  "image": "../img/l/legacy-weapon.jpg",
+  "convertedManaCost": "7",
+  "types": "Legendary Artifact",
+  "text": ": Exile target permanent.If Legacy Weapon would be put into a graveyard from anywhere, reveal Legacy Weapon and shuffle it into its owner's library instead.",
+  "expansion": "Tenth Edition",
+  "rarity": "Rare",
+  "cardNumber": "330",
+  "artist": "Terese Nielsen",
+  "rating": "4.153",
+  "votes": "85"
+}

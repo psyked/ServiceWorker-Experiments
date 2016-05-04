@@ -1,0 +1,13 @@
+{
+  "title": "Ogre Savant",
+  "image": "../img/o/ogre-savant.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Ogre Wizard",
+  "text": "When Ogre Savant enters the battlefield, if  was spent to cast Ogre Savant, return target creature to its owner's hand.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Common",
+  "cardNumber": "9",
+  "artist": "Parente",
+  "rating": "2.333",
+  "votes": "12"
+}

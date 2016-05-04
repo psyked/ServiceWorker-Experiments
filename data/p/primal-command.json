@@ -1,0 +1,13 @@
+{
+  "title": "Primal Command",
+  "image": "../img/p/primal-command.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Choose two —• Target player gains 7 life.• Put target noncreature permanent on top of its owner's library.• Target player shuffles his or her graveyard into his or her library.• Search your library for a creature card, reveal it, put it into your hand, then shuffle your library.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Rare",
+  "cardNumber": "20",
+  "artist": "Magali Villeneuve",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Nevermore",
+  "image": "../img/n/nevermore.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "As Nevermore enters the battlefield, name a nonland card.The named card can't be cast.",
+  "expansion": "Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "25",
+  "artist": "Jason A. Engle",
+  "rating": "3.796",
+  "votes": "81"
+}

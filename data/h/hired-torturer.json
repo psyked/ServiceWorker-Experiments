@@ -1,0 +1,13 @@
+{
+  "title": "Hired Torturer",
+  "image": "../img/h/hired-torturer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Rogue",
+  "text": "Defender, : Target opponent loses 2 life, then reveals a card at random from his or her hand.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Common",
+  "cardNumber": "25",
+  "artist": "Winona Nelson",
+  "rating": "2.561",
+  "votes": "33"
+}

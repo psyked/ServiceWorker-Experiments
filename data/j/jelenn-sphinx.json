@@ -1,0 +1,13 @@
+{
+  "title": "Jelenn Sphinx",
+  "image": "../img/j/jelenn-sphinx.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Sphinx",
+  "text": "Flying, vigilanceWhenever Jelenn Sphinx attacks, other attacking creatures get +1/+1 until end of turn.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Uncommon",
+  "cardNumber": "77",
+  "artist": "Wesley Burt",
+  "rating": "3.678",
+  "votes": "45"
+}

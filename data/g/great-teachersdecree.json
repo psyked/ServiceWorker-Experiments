@@ -1,0 +1,13 @@
+{
+  "title": "Great Teacher's Decree",
+  "image": "../img/g/great-teachersdecree.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Creatures you control get +2/+1 until end of turn.Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "21",
+  "artist": "Zoltan Boros",
+  "rating": "5",
+  "votes": "0"
+}

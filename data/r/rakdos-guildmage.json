@@ -1,0 +1,13 @@
+{
+  "title": "Rakdos Guildmage",
+  "image": "../img/r/rakdos-guildmage.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie Shaman",
+  "text": "( can be paid with either  or .), Discard a card: Target creature gets -2/-2 until end of turn.: Put a 2/1 red Goblin creature token with haste onto the battlefield. Exile it at the beginning of the next end step.",
+  "expansion": "Archenemy",
+  "rarity": "Uncommon",
+  "cardNumber": "92",
+  "artist": "Jeremy Jarvis",
+  "rating": "3.392",
+  "votes": "37"
+}

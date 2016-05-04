@@ -1,0 +1,13 @@
+{
+  "title": "Azorius Cluestone",
+  "image": "../img/a/azorius-cluestone.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  or  to your mana pool., , Sacrifice Azorius Cluestone: Draw a card.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Common",
+  "cardNumber": "136",
+  "artist": "Raoul Vitale",
+  "rating": "2.595",
+  "votes": "42"
+}

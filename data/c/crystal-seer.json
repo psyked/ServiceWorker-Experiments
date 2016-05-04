@@ -1,0 +1,13 @@
+{
+  "title": "Crystal Seer",
+  "image": "../img/c/crystal-seer.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Vedalken Wizard",
+  "text": "When Crystal Seer enters the battlefield, look at the top four cards of your library, then put them back in any order.: Return Crystal Seer to its owner's hand.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "23",
+  "artist": "Glen Angus",
+  "rating": "1.195",
+  "votes": "64"
+}

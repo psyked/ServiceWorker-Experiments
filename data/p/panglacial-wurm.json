@@ -1,0 +1,13 @@
+{
+  "title": "Panglacial Wurm",
+  "image": "../img/p/panglacial-wurm.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Wurm",
+  "text": "TrampleWhile you're searching your library, you may cast Panglacial Wurm from your library.",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "116",
+  "artist": "Jim Pavelec",
+  "rating": "4.198",
+  "votes": "124"
+}

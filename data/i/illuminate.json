@@ -1,0 +1,13 @@
+{
+  "title": "Illuminate",
+  "image": "../img/i/illuminate.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Kicker  and/or  (You may pay an additional  and/or  as you cast this spell.)Illuminate deals X damage to target creature. If Illuminate was kicked with its  kicker, it deals X damage to that creature's controller. If Illuminate was kicked with its  kicker, you draw X cards.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "63",
+  "artist": "Christopher Moeller",
+  "rating": "3.181",
+  "votes": "36"
+}

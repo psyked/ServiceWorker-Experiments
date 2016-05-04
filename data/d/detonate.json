@@ -1,0 +1,13 @@
+{
+  "title": "Detonate",
+  "image": "../img/d/detonate.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "111",
+  "artist": "Randy Asplund",
+  "rating": "3.688",
+  "votes": "24"
+}

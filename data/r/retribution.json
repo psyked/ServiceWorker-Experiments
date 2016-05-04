@@ -1,0 +1,13 @@
+{
+  "title": "Retribution",
+  "image": "../img/r/retribution.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Choose two target creatures an opponent controls. That player chooses and sacrifices one of those creatures. Put a -1/-1 counter on the other.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "148",
+  "artist": "Mark Tedin",
+  "rating": "3.458",
+  "votes": "24"
+}

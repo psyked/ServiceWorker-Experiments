@@ -1,0 +1,13 @@
+{
+  "title": "Merchant Scroll",
+  "image": "../img/m/merchant-scroll.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Search your library for a blue instant card, reveal that card, and put it into your hand. Then shuffle your library.",
+  "expansion": "Eighth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "91",
+  "artist": "David Martin",
+  "rating": "4.341",
+  "votes": "107"
+}

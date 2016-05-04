@@ -1,0 +1,13 @@
+{
+  "title": "Festering March",
+  "image": "../img/f/festering-march.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Creatures your opponents control get -1/-1 until end of turn. Exile Festering March with three time counters on it.Suspend 3— (Rather than cast this card from your hand, you may pay  and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",
+  "expansion": "Future Sight",
+  "rarity": "Uncommon",
+  "cardNumber": "65",
+  "artist": "Brandon Kitkouski",
+  "rating": "3.149",
+  "votes": "37"
+}

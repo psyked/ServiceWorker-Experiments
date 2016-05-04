@@ -1,0 +1,13 @@
+{
+  "title": "Outrage Shaman",
+  "image": "../img/o/outrage-shaman.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Goblin Shaman",
+  "text": "Chroma — When Outrage Shaman enters the battlefield, it deals damage to target creature equal to the number of red mana symbols in the mana costs of permanents you control.",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "59",
+  "artist": "Cole Eastburn",
+  "rating": "2.650",
+  "votes": "40"
+}

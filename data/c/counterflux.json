@@ -1,0 +1,13 @@
+{
+  "title": "Counterflux",
+  "image": "../img/c/counterflux.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counterflux can't be countered by spells or abilities.Counter target spell you don't control.Overload  (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "214",
+  "artist": "Scott M. Fischer",
+  "rating": "5",
+  "votes": "0"
+}

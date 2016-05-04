@@ -1,0 +1,13 @@
+{
+  "title": "Liability",
+  "image": "../img/l/liability.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a nontoken permanent is put into a player's graveyard from the battlefield, that player loses 1 life.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "144",
+  "artist": "Christopher Moeller",
+  "rating": "3.917",
+  "votes": "36"
+}

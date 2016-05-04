@@ -1,0 +1,13 @@
+{
+  "title": "Bloodletter",
+  "image": "../img/b/bloodletter.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature — Zombie",
+  "text": "When the names of three or more nonland permanents begin with the same letter, sacrifice Bloodletter. If you do, it deals 2 damage to each creature and each player.",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "50",
+  "artist": "Daren Bader",
+  "rating": "3.364",
+  "votes": "22"
+}

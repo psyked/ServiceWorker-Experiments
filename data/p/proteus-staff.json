@@ -1,0 +1,13 @@
+{
+  "title": "Proteus Staff",
+  "image": "../img/p/proteus-staff.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", : Put target creature on the bottom of its owner's library. That creature's controller reveals cards from the top of his or her library until he or she reveals a creature card. The player puts that card onto the battlefield and the rest on the bottom of his or her library in any order. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "230",
+  "artist": "Trevor Hairsine",
+  "rating": "4.343",
+  "votes": "70"
+}

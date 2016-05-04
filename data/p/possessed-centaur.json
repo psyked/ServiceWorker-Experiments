@@ -1,0 +1,13 @@
+{
+  "title": "Possessed Centaur",
+  "image": "../img/p/possessed-centaur.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Centaur Horror",
+  "text": "TrampleThreshold — As long as seven or more cards are in your graveyard, Possessed Centaur gets +1/+1, is black, and has \", : Destroy target green creature.\"",
+  "expansion": "Torment",
+  "rarity": "Rare",
+  "cardNumber": "137",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "3.774",
+  "votes": "31"
+}

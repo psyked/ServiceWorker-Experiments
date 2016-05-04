@@ -1,0 +1,13 @@
+{
+  "title": "Farrelite Priest",
+  "image": "../img/f/farrelite-priest.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": ": Add  to your mana pool. If this ability has been activated four or more times this turn, sacrifice Farrelite Priest at the beginning of the next end step.",
+  "expansion": "Fallen Empires",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Phil Foglio",
+  "rating": "3.288",
+  "votes": "33"
+}

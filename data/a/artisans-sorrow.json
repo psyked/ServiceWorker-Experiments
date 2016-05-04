@@ -1,0 +1,13 @@
+{
+  "title": "Artisan's Sorrow",
+  "image": "../img/a/artisans-sorrow.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Destroy target artifact or enchantment. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "151",
+  "artist": "Jung Park",
+  "rating": "2.879",
+  "votes": "33"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Hickory Woodlot",
+  "image": "../img/h/hickory-woodlot.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "Hickory Woodlot enters the battlefield tapped with two depletion counters on it., Remove a depletion counter from Hickory Woodlot: Add  to your mana pool. If there are no depletion counters on Hickory Woodlot, sacrifice it.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "319",
+  "artist": "Sean McConnell",
+  "rating": "3.562",
+  "votes": "32"
+}

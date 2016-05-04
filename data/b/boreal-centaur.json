@@ -1,0 +1,13 @@
+{
+  "title": "Boreal Centaur",
+  "image": "../img/b/boreal-centaur.jpg",
+  "convertedManaCost": "2",
+  "types": "Snow Creature  — Centaur Warrior",
+  "text": ": Boreal Centaur gets +1/+1 until end of turn. Activate this ability only once each turn. ( can be paid with one mana from a snow permanent.)",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "104",
+  "artist": "Marcelo Vignali",
+  "rating": "3.064",
+  "votes": "47"
+}

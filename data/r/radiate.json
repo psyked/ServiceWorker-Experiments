@@ -1,0 +1,13 @@
+{
+  "title": "Radiate",
+  "image": "../img/r/radiate.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Choose target instant or sorcery spell that targets only a single permanent or player. Copy that spell for each other permanent or player the spell could target. Each copy targets a different one of those permanents and players.",
+  "expansion": "Torment",
+  "rarity": "Rare",
+  "cardNumber": "113",
+  "artist": "Carl Critchlow",
+  "rating": "4.091",
+  "votes": "44"
+}

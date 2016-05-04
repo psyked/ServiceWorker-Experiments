@@ -1,0 +1,13 @@
+{
+  "title": "Dystopia",
+  "image": "../img/d/dystopia.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Cumulative upkeep—Pay 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)At the beginning of each player's upkeep, that player sacrifices a green or white permanent.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "88",
+  "artist": "Ruth Thompson",
+  "rating": "4.391",
+  "votes": "69"
+}

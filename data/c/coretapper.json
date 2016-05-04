@@ -1,0 +1,13 @@
+{
+  "title": "Coretapper",
+  "image": "../img/c/coretapper.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Myr",
+  "text": ": Put a charge counter on target artifact.Sacrifice Coretapper: Put two charge counters on target artifact.",
+  "expansion": "Darksteel",
+  "rarity": "Uncommon",
+  "cardNumber": "107",
+  "artist": "Dany Orizio",
+  "rating": "4.424",
+  "votes": "66"
+}

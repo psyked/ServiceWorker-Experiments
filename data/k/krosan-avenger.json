@@ -1,0 +1,13 @@
+{
+  "title": "Krosan Avenger",
+  "image": "../img/k/krosan-avenger.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Druid",
+  "text": "TrampleThreshold — : Regenerate Krosan Avenger. Activate this ability only if seven or more cards are in your graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "247",
+  "artist": "D. Alexander Gregory",
+  "rating": "3.250",
+  "votes": "28"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Bayou Dragonfly",
+  "image": "../img/b/bayou-dragonfly.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Insect",
+  "text": "Flying; swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+  "expansion": "Tempest",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "DiTerlizzi",
+  "rating": "3.419",
+  "votes": "43"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Moorland Inquisitor",
+  "image": "../img/m/moorland-inquisitor.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier",
+  "text": ": Moorland Inquisitor gains first strike until end of turn.",
+  "expansion": "Duel Decks: Blessed vs. Cursed",
+  "rarity": "Common",
+  "cardNumber": "16",
+  "artist": "David Palumbo",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Liege of the Tangle",
+  "image": "../img/l/liege-ofthetangle.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Elemental",
+  "text": "TrampleWhenever Liege of the Tangle deals combat damage to a player, you may choose any number of target lands you control and put an awakening counter on each of them. Each of those lands is an 8/8 green Elemental creature for as long as it has an awakening counter on it. They're still lands.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Mythic Rare",
+  "cardNumber": "123",
+  "artist": "Jason Chan",
+  "rating": "3.989",
+  "votes": "134"
+}

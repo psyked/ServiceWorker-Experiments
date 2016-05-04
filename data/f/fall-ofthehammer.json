@@ -1,0 +1,13 @@
+{
+  "title": "Fall of the Hammer",
+  "image": "../img/f/fall-ofthehammer.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature you control deals damage equal to its power to another target creature.",
+  "expansion": "Commander 2015",
+  "rarity": "Common",
+  "cardNumber": "154",
+  "artist": "Adam Paquette",
+  "rating": "5",
+  "votes": "0"
+}

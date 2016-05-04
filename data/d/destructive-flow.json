@@ -1,0 +1,13 @@
+{
+  "title": "Destructive Flow",
+  "image": "../img/d/destructive-flow.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of each player's upkeep, that player sacrifices a nonbasic land.",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "102",
+  "artist": "Don Hazeltine",
+  "rating": "3.282",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Curse of the Pierced Heart",
+  "image": "../img/c/curse-ofthepiercedheart.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura Curse",
+  "text": "Enchant playerAt the beginning of enchanted player's upkeep, Curse of the Pierced Heart deals 1 damage to that player.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "138",
+  "artist": "E. M. Gist",
+  "rating": "3.444",
+  "votes": "71"
+}

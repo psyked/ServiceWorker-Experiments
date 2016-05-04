@@ -1,0 +1,13 @@
+{
+  "title": "Mischievous Quanar",
+  "image": "../img/m/mischievous-quanar.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast",
+  "text": ": Turn Mischievous Quanar face down.Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)When Mischievous Quanar is turned face up, copy target instant or sorcery spell. You may choose new targets for that copy.",
+  "expansion": "Scourge",
+  "rarity": "Rare",
+  "cardNumber": "42",
+  "artist": "Lars Grant-West",
+  "rating": "4.068",
+  "votes": "37"
+}

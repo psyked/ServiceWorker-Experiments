@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Rabblemaster",
+  "image": "../img/g/goblin-rabblemaster.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Other Goblin creatures you control attack each turn if able.At the beginning of combat on your turn, put a 1/1 red Goblin creature token with haste onto the battlefield.Whenever Goblin Rabblemaster attacks, it gets +1/+0 until end of turn for each other attacking Goblin.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "145",
+  "artist": "Svetlin Velinov",
+  "rating": "4.000",
+  "votes": "8"
+}

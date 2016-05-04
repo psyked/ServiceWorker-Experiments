@@ -1,0 +1,13 @@
+{
+  "title": "Aura of Dominion",
+  "image": "../img/a/aura-ofdominion.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature, Tap an untapped creature you control: Untap enchanted creature.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "51",
+  "artist": "Randy Gallegos",
+  "rating": "2.833",
+  "votes": "42"
+}

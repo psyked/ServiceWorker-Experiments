@@ -1,0 +1,13 @@
+{
+  "title": "Caller of the Hunt",
+  "image": "../img/c/caller-ofthehunt.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human",
+  "text": "As an additional cost to cast Caller of the Hunt, choose a creature type.Caller of the Hunt's power and toughness are each equal to the number of creatures of the chosen type on the battlefield.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "233",
+  "artist": "Clyde Caldwell",
+  "rating": "3.733",
+  "votes": "30"
+}

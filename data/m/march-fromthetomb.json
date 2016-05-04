@@ -1,0 +1,13 @@
+{
+  "title": "March from the Tomb",
+  "image": "../img/m/march-fromthetomb.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Return any number of target Ally creature cards with total converted mana cost 8 or less from your graveyard to the battlefield.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "214",
+  "artist": "Lake Hurwitz",
+  "rating": "5",
+  "votes": "0"
+}

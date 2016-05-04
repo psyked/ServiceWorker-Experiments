@@ -1,0 +1,13 @@
+{
+  "title": "Illumination",
+  "image": "../img/i/illumination.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Counter target artifact or enchantment spell. Its controller gains life equal to its converted mana cost.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "David O'Connor",
+  "rating": "2.444",
+  "votes": "27"
+}

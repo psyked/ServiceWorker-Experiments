@@ -1,0 +1,13 @@
+{
+  "title": "Icatian Moneychanger",
+  "image": "../img/i/icatian-moneychanger.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human",
+  "text": "Icatian Moneychanger enters the battlefield with three credit counters on it.When Icatian Moneychanger enters the battlefield, it deals 3 damage to you.At the beginning of your upkeep, put a credit counter on Icatian Moneychanger.Sacrifice Icatian Moneychanger: You gain 1 life for each credit counter on Icatian Moneychanger. Activate this ability only during your upkeep.",
+  "expansion": "Fallen Empires",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Melissa Benson",
+  "rating": "2.512",
+  "votes": "41"
+}

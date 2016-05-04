@@ -1,0 +1,13 @@
+{
+  "title": "Mark of the Oni",
+  "image": "../img/m/mark-oftheoni.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureYou control enchanted creature.At the beginning of the end step, if you control no Demons, sacrifice Mark of the Oni.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "73",
+  "artist": "Heather Hudson",
+  "rating": "3.683",
+  "votes": "60"
+}

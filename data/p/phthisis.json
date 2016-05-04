@@ -1,0 +1,13 @@
+{
+  "title": "Phthisis",
+  "image": "../img/p/phthisis.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "Destroy target creature. Its controller loses life equal to its power plus its toughness.Suspend 5— (Rather than cast this card from your hand, you may pay  and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "85",
+  "artist": "Carl Critchlow",
+  "rating": "3.711",
+  "votes": "19"
+}

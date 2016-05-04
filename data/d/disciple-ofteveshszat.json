@@ -1,0 +1,13 @@
+{
+  "title": "Disciple of Tevesh Szat",
+  "image": "../img/d/disciple-ofteveshszat.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Cleric",
+  "text": ": Target creature gets -1/-1 until end of turn., , Sacrifice Disciple of Tevesh Szat: Target creature gets -6/-6 until end of turn.",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "55",
+  "artist": "Pete Venters",
+  "rating": "3.000",
+  "votes": "52"
+}

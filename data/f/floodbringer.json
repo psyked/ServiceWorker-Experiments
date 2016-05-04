@@ -1,0 +1,13 @@
+{
+  "title": "Floodbringer",
+  "image": "../img/f/floodbringer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Moonfolk Wizard",
+  "text": "Flying, Return a land you control to its owner's hand: Tap target land.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "34",
+  "artist": "Ittoku",
+  "rating": "2.686",
+  "votes": "43"
+}

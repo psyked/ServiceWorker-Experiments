@@ -1,0 +1,13 @@
+{
+  "title": "Embersmith",
+  "image": "../img/e/embersmith.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Artificer",
+  "text": "Whenever you cast an artifact spell, you may pay . If you do, Embersmith deals 1 damage to target creature or player.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "87",
+  "artist": "Eric Deschamps",
+  "rating": "3.018",
+  "votes": "57"
+}

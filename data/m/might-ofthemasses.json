@@ -1,0 +1,13 @@
+{
+  "title": "Might of the Masses",
+  "image": "../img/m/might-ofthemasses.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature gets +1/+1 until end of turn for each creature you control.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "188",
+  "artist": "Johann Bodin",
+  "rating": "5",
+  "votes": "0"
+}

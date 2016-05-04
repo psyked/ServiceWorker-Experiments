@@ -1,0 +1,13 @@
+{
+  "title": "Lurker",
+  "image": "../img/l/lurker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Beast",
+  "text": "Lurker can't be the target of spells unless it attacked or blocked this turn.",
+  "expansion": "The Dark",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Anson Maddocks",
+  "rating": "2.985",
+  "votes": "34"
+}

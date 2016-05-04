@@ -1,0 +1,13 @@
+{
+  "title": "Marrow Chomper",
+  "image": "../img/m/marrow-chomper.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie Lizard",
+  "text": "Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)When Marrow Chomper enters the battlefield, you gain 2 life for each creature it devoured.",
+  "expansion": "Alara Reborn",
+  "rarity": "Uncommon",
+  "cardNumber": "93",
+  "artist": "Lars Grant-West",
+  "rating": "3.024",
+  "votes": "85"
+}

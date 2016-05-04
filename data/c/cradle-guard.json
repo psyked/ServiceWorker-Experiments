@@ -1,0 +1,13 @@
+{
+  "title": "Cradle Guard",
+  "image": "../img/c/cradle-guard.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Treefolk",
+  "text": "TrampleEcho  (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",
+  "expansion": "Urza's Saga",
+  "rarity": "Uncommon",
+  "cardNumber": "245",
+  "artist": "Mark Zug",
+  "rating": "4.148",
+  "votes": "44"
+}

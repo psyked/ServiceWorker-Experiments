@@ -1,0 +1,13 @@
+{
+  "title": "Inertia Bubble",
+  "image": "../img/i/inertia-bubble.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant artifactEnchanted artifact doesn't untap during its controller's untap step.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "37",
+  "artist": "Hugh Jamieson",
+  "rating": "2.167",
+  "votes": "33"
+}

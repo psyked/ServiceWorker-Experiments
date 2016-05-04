@@ -1,0 +1,13 @@
+{
+  "title": "Haazda Snare Squad",
+  "image": "../img/h/haazda-snaresquad.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "Whenever Haazda Snare Squad attacks, you may pay . If you do, tap target creature an opponent controls.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Common",
+  "cardNumber": "2",
+  "artist": "David Palumbo",
+  "rating": "3.303",
+  "votes": "33"
+}

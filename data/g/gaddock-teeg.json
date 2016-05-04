@@ -1,0 +1,13 @@
+{
+  "title": "Gaddock Teeg",
+  "image": "../img/g/gaddock-teeg.jpg",
+  "convertedManaCost": "2",
+  "types": "Legendary Creature  — Kithkin Advisor",
+  "text": "Noncreature spells with converted mana cost 4 or greater can't be cast.Noncreature spells with  in their mana costs can't be cast.",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "248",
+  "artist": "Greg Staples",
+  "rating": "4.477",
+  "votes": "152"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mtenda Herder",
+  "image": "../img/m/mtenda-herder.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Scout",
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Zina Saunders",
+  "rating": "3.833",
+  "votes": "51"
+}

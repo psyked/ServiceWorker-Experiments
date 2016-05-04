@@ -1,0 +1,13 @@
+{
+  "title": "Arrogant Bloodlord",
+  "image": "../img/a/arrogant-bloodlord.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vampire Knight",
+  "text": "Whenever Arrogant Bloodlord blocks or becomes blocked by a creature with power 1 or less, destroy Arrogant Bloodlord at end of combat.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "94",
+  "artist": "Mike Bierek",
+  "rating": "3.732",
+  "votes": "99"
+}

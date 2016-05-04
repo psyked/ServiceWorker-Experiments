@@ -1,0 +1,13 @@
+{
+  "title": "Enigma Sphinx",
+  "image": "../img/e/enigma-sphinx.jpg",
+  "convertedManaCost": "7",
+  "types": "Artifact Creature  — Sphinx",
+  "text": "FlyingWhen Enigma Sphinx is put into your graveyard from the battlefield, put it into your library third from the top.Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Rare",
+  "cardNumber": "89",
+  "artist": "Chris Rahn",
+  "rating": "3.021",
+  "votes": "47"
+}

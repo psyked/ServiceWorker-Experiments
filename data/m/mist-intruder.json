@@ -1,0 +1,13 @@
+{
+  "title": "Mist Intruder",
+  "image": "../img/m/mist-intruder.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.)FlyingIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "61",
+  "artist": "Jason Rainville",
+  "rating": "5",
+  "votes": "0"
+}

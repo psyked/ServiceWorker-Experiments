@@ -1,0 +1,13 @@
+{
+  "title": "Horribly Awry",
+  "image": "../img/h/horribly-awry.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Devoid (This card has no color.)Counter target creature spell with converted mana cost 4 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "59",
+  "artist": "Clint Cearley",
+  "rating": "5",
+  "votes": "0"
+}

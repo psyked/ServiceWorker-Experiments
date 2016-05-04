@@ -1,0 +1,13 @@
+{
+  "title": "Lost Auramancers",
+  "image": "../img/l/lost-auramancers.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Wizard",
+  "text": "Vanishing 3 (This creature enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)When Lost Auramancers dies, if it had no time counters on it, you may search your library for an enchantment card and put it onto the battlefield. If you do, shuffle your library.",
+  "expansion": "Future Sight",
+  "rarity": "Uncommon",
+  "cardNumber": "11",
+  "artist": "Brandon Kitkouski",
+  "rating": "3.561",
+  "votes": "41"
+}

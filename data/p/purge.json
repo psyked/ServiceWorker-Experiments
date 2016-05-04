@@ -1,0 +1,13 @@
+{
+  "title": "Purge",
+  "image": "../img/p/purge.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Destroy target artifact creature or black creature. It can't be regenerated.",
+  "expansion": "Darksteel",
+  "rarity": "Uncommon",
+  "cardNumber": "12",
+  "artist": "Pete Venters",
+  "rating": "3.713",
+  "votes": "54"
+}

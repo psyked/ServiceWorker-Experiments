@@ -1,0 +1,13 @@
+{
+  "title": "Bramble Elemental",
+  "image": "../img/b/bramble-elemental.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental",
+  "text": "Whenever an Aura becomes attached to Bramble Elemental, put two 1/1 green Saproling creature tokens onto the battlefield.",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Common",
+  "cardNumber": "59",
+  "artist": "Tomas Giorello",
+  "rating": "2.979",
+  "votes": "24"
+}

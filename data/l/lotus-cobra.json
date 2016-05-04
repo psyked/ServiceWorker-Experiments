@@ -1,0 +1,13 @@
+{
+  "title": "Lotus Cobra",
+  "image": "../img/l/lotus-cobra.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Snake",
+  "text": "Landfall — Whenever a land enters the battlefield under your control, you may add one mana of any color to your mana pool.",
+  "expansion": "Zendikar",
+  "rarity": "Mythic Rare",
+  "cardNumber": "168",
+  "artist": "Chippy",
+  "rating": "4.427",
+  "votes": "316"
+}

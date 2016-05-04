@@ -1,0 +1,13 @@
+{
+  "title": "Living Armor",
+  "image": "../img/l/living-armor.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": ", Sacrifice Living Armor: Put X +0/+1 counters on target creature, where X is that creature's converted mana cost.",
+  "expansion": "Chronicles",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Anson Maddocks",
+  "rating": "3.033",
+  "votes": "30"
+}

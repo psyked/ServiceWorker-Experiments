@@ -1,0 +1,13 @@
+{
+  "title": "Llanowar Sentinel",
+  "image": "../img/l/llanowar-sentinel.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf",
+  "text": "When Llanowar Sentinel enters the battlefield, you may pay . If you do, search your library for a card named Llanowar Sentinel and put that card onto the battlefield. Then shuffle your library.",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "275",
+  "artist": "Randy Gallegos",
+  "rating": "3.905",
+  "votes": "37"
+}

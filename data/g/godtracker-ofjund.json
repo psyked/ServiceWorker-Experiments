@@ -1,0 +1,13 @@
+{
+  "title": "Godtracker of Jund",
+  "image": "../img/g/godtracker-ofjund.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Shaman",
+  "text": "Whenever a creature with power 5 or greater enters the battlefield under your control, you may put a +1/+1 counter on Godtracker of Jund.",
+  "expansion": "Alara Reborn",
+  "rarity": "Common",
+  "cardNumber": "55",
+  "artist": "Justin Sweet",
+  "rating": "2.264",
+  "votes": "55"
+}

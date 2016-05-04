@@ -1,0 +1,13 @@
+{
+  "title": "Landslide",
+  "image": "../img/l/landslide.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Sacrifice any number of Mountains. Landslide deals that much damage to target player.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Uncommon",
+  "cardNumber": "92",
+  "artist": "Jeff Laubenstein",
+  "rating": "3.865",
+  "votes": "37"
+}

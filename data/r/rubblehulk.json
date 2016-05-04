@@ -1,0 +1,13 @@
+{
+  "title": "Rubblehulk",
+  "image": "../img/r/rubblehulk.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": "Rubblehulk's power and toughness are each equal to the number of lands you control.Bloodrush — , Discard Rubblehulk: Target attacking creature gets +X/+X until end of turn, where X is the number of lands you control.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "191",
+  "artist": "Raymond Swanland",
+  "rating": "3.421",
+  "votes": "82"
+}

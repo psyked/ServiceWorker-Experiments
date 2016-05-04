@@ -1,0 +1,13 @@
+{
+  "title": "Hedron Crawler",
+  "image": "../img/h/hedron-crawler.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Construct",
+  "text": ": Add  to your mana pool. ( represents colorless mana.)",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "164",
+  "artist": "Daniel Ljunggren",
+  "rating": "5",
+  "votes": "0"
+}

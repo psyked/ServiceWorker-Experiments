@@ -1,0 +1,13 @@
+{
+  "title": "Marble Titan",
+  "image": "../img/m/marble-titan.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Giant",
+  "text": "Creatures with power 3 or greater don't untap during their controllers' untap steps.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "26",
+  "artist": "Brom",
+  "rating": "3.705",
+  "votes": "44"
+}

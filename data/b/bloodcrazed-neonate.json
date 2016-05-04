@@ -1,0 +1,13 @@
+{
+  "title": "Bloodcrazed Neonate",
+  "image": "../img/b/bloodcrazed-neonate.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Vampire",
+  "text": "Bloodcrazed Neonate attacks each turn if able.Whenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 counter on it.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "131",
+  "artist": "Cynthia Sheppard",
+  "rating": "3.267",
+  "votes": "75"
+}

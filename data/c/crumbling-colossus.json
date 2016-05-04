@@ -1,0 +1,13 @@
+{
+  "title": "Crumbling Colossus",
+  "image": "../img/c/crumbling-colossus.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Golem",
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)When Crumbling Colossus attacks, sacrifice it at end of combat.",
+  "expansion": "Magic 2012",
+  "rarity": "Uncommon",
+  "cardNumber": "204",
+  "artist": "Michael C. Hayes",
+  "rating": "2.700",
+  "votes": "65"
+}

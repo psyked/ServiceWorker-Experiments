@@ -1,0 +1,13 @@
+{
+  "title": "Empty the Warrens",
+  "image": "../img/e/empty-thewarrens.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Put two 1/1 red Goblin creature tokens onto the battlefield.Storm (When you cast this spell, copy it for each spell cast before it this turn.)",
+  "expansion": "Modern Masters",
+  "rarity": "Common",
+  "cardNumber": "112",
+  "artist": "Jasper Sandner",
+  "rating": "4.523",
+  "votes": "44"
+}

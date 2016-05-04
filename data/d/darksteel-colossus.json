@@ -1,0 +1,13 @@
+{
+  "title": "Darksteel Colossus",
+  "image": "../img/d/darksteel-colossus.jpg",
+  "convertedManaCost": "11",
+  "types": "Artifact Creature  — Golem",
+  "text": "Trample, indestructibleIf Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.",
+  "expansion": "Magic 2010",
+  "rarity": "Mythic Rare",
+  "cardNumber": "208",
+  "artist": "Carl Critchlow",
+  "rating": "4.568",
+  "votes": "280"
+}

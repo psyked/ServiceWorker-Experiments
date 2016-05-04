@@ -1,0 +1,13 @@
+{
+  "title": "Memory Sluice",
+  "image": "../img/m/memory-sluice.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Target player puts the top four cards of his or her library into his or her graveyard.Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",
+  "expansion": "Shadowmoor",
+  "rarity": "Common",
+  "cardNumber": "170",
+  "artist": "Wayne England",
+  "rating": "3.776",
+  "votes": "67"
+}

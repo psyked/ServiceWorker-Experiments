@@ -1,0 +1,13 @@
+{
+  "title": "Rhystic Lightning",
+  "image": "../img/r/rhystic-lightning.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Rhystic Lightning deals 4 damage to target creature or player unless that creature's controller or that player pays . If he or she does, Rhystic Lightning deals 2 damage to the creature or player.",
+  "expansion": "Prophecy",
+  "rarity": "Common",
+  "cardNumber": "99",
+  "artist": "Roger Raupp",
+  "rating": "3.189",
+  "votes": "37"
+}

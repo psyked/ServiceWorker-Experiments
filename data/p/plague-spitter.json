@@ -1,0 +1,13 @@
+{
+  "title": "Plague Spitter",
+  "image": "../img/p/plague-spitter.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Horror",
+  "text": "At the beginning of your upkeep, Plague Spitter deals 1 damage to each creature and each player.When Plague Spitter dies, Plague Spitter deals 1 damage to each creature and each player.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "119",
+  "artist": "Chippy",
+  "rating": "4.246",
+  "votes": "71"
+}

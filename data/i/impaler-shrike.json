@@ -1,0 +1,13 @@
+{
+  "title": "Impaler Shrike",
+  "image": "../img/i/impaler-shrike.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Bird",
+  "text": "FlyingWhenever Impaler Shrike deals combat damage to a player, you may sacrifice it. If you do, draw three cards.",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "36",
+  "artist": "Nils Hamm",
+  "rating": "3.104",
+  "votes": "67"
+}

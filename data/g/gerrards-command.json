@@ -1,0 +1,13 @@
+{
+  "title": "Gerrard's Command",
+  "image": "../img/g/gerrards-command.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Untap target creature. It gets +3/+3 until end of turn.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Common",
+  "cardNumber": "53",
+  "artist": "Roger Raupp",
+  "rating": "4.229",
+  "votes": "35"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Esper Charm",
+  "image": "../img/e/esper-charm.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose one —• Destroy target enchantment.• Draw two cards.• Target player discards two cards.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "167",
+  "artist": "Michael Bruinsma",
+  "rating": "3.836",
+  "votes": "110"
+}

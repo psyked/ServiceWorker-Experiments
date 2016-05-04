@@ -1,0 +1,13 @@
+{
+  "title": "Drain Life",
+  "image": "../img/d/drain-life.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Spend only black mana on X.Drain Life deals X damage to target creature or player. You gain life equal to the damage dealt, but not more life than the player's life total before Drain Life dealt damage or the creature's toughness.",
+  "expansion": "Beatdown Box Set",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Andrew Robinson",
+  "rating": "3.868",
+  "votes": "53"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ice Floe",
+  "image": "../img/i/ice-floe.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "You may choose not to untap Ice Floe during your untap step.: Tap target creature without flying that's attacking you. It doesn't untap during its controller's untap step for as long as Ice Floe remains tapped.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "232",
+  "artist": "Jeff A. Menges",
+  "rating": "3.900",
+  "votes": "40"
+}

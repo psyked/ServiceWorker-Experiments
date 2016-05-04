@@ -1,0 +1,13 @@
+{
+  "title": "Pus Kami",
+  "image": "../img/p/pus-kami.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Spirit",
+  "text": ", Sacrifice Pus Kami: Destroy target nonblack creature.Soulshift 6 (When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "79",
+  "artist": "Dave Allsop",
+  "rating": "1.610",
+  "votes": "41"
+}

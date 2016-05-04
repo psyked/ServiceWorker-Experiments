@@ -1,0 +1,13 @@
+{
+  "title": "Monastery Mentor",
+  "image": "../img/m/monastery-mentor.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Monk",
+  "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)Whenever you cast a noncreature spell, put a 1/1 white Monk creature token with prowess onto the battlefield.",
+  "expansion": "Fate Reforged",
+  "rarity": "Mythic Rare",
+  "cardNumber": "20",
+  "artist": "Magali Villeneuve",
+  "rating": "5",
+  "votes": "0"
+}

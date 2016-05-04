@@ -1,0 +1,13 @@
+{
+  "title": "Infernal Harvest",
+  "image": "../img/i/infernal-harvest.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Infernal Harvest, return X Swamps you control to their owner's hand.Infernal Harvest deals X damage divided as you choose among any number of target creatures.",
+  "expansion": "Visions",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Nathalie Hertz",
+  "rating": "2.958",
+  "votes": "36"
+}

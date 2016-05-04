@@ -1,0 +1,13 @@
+{
+  "title": "Mana Maze",
+  "image": "../img/m/mana-maze.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Players can't cast spells that share a color with the spell most recently cast this turn.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "59",
+  "artist": "Rebecca Guay",
+  "rating": "3.806",
+  "votes": "36"
+}

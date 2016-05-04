@@ -1,0 +1,13 @@
+{
+  "title": "Blighted Woodland",
+  "image": "../img/b/blighted-woodland.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": ": Add  to your mana pool., , Sacrifice Blighted Woodland: Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "233",
+  "artist": "Jason Felix",
+  "rating": "5",
+  "votes": "0"
+}

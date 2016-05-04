@@ -1,0 +1,13 @@
+{
+  "title": "Doran, the Siege Tower",
+  "image": "../img/d/doran-thesiegetower.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Creature  — Treefolk Shaman",
+  "text": "Each creature assigns combat damage equal to its toughness rather than its power.",
+  "expansion": "From the Vault: Legends",
+  "rarity": "Mythic Rare",
+  "cardNumber": "3",
+  "artist": "Mark Zug",
+  "rating": "4.179",
+  "votes": "137"
+}

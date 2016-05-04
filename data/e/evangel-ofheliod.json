@@ -1,0 +1,13 @@
+{
+  "title": "Evangel of Heliod",
+  "image": "../img/e/evangel-ofheliod.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Human Cleric",
+  "text": "When Evangel of Heliod enters the battlefield, put a number of 1/1 white Soldier creature tokens onto the battlefield equal to your devotion to white. (Each  in the mana costs of permanents you control counts toward your devotion to white.)",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "11",
+  "artist": "Nils Hamm",
+  "rating": "3.431",
+  "votes": "36"
+}

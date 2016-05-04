@@ -1,0 +1,13 @@
+{
+  "title": "Near-Death Experience",
+  "image": "../img/n/near-death-experience.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, if you have exactly 1 life, you win the game.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Rare",
+  "cardNumber": "38",
+  "artist": "Dan Scott",
+  "rating": "3.863",
+  "votes": "117"
+}

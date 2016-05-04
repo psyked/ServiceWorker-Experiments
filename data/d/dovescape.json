@@ -1,0 +1,13 @@
+{
+  "title": "Dovescape",
+  "image": "../img/d/dovescape.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "( can be paid with either  or .)Whenever a player casts a noncreature spell, counter that spell. That player puts X 1/1 white and blue Bird creature tokens with flying onto the battlefield, where X is the spell's converted mana cost.",
+  "expansion": "Dissension",
+  "rarity": "Rare",
+  "cardNumber": "143",
+  "artist": "Shishizaru",
+  "rating": "4.057",
+  "votes": "96"
+}

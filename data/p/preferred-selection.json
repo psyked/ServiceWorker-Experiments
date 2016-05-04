@@ -1,0 +1,13 @@
+{
+  "title": "Preferred Selection",
+  "image": "../img/p/preferred-selection.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, look at the top two cards of your library. You may sacrifice Preferred Selection and pay . If you do, put one of those cards into your hand. If you don't, put one of those cards on the bottom of your library.",
+  "expansion": "Mirage",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Kev Walker",
+  "rating": "3.594",
+  "votes": "32"
+}

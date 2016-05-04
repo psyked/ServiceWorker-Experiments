@@ -1,0 +1,13 @@
+{
+  "title": "Benthic Giant",
+  "image": "../img/b/benthic-giant.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant",
+  "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "41",
+  "artist": "Jaime Jones",
+  "rating": "3.090",
+  "votes": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Hearth Kami",
+  "image": "../img/h/hearth-kami.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": ", Sacrifice Hearth Kami: Destroy target artifact with converted mana cost X.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "171",
+  "artist": "Luca Zontini",
+  "rating": "3.366",
+  "votes": "41"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Coral Fighters",
+  "image": "../img/c/coral-fighters.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk Soldier",
+  "text": "Whenever Coral Fighters attacks and isn't blocked, look at the top card of defending player's library. You may put that card on the bottom of that player's library.",
+  "expansion": "Duel Decks: Venser vs. Koth",
+  "rarity": "Uncommon",
+  "cardNumber": "4",
+  "artist": "Steve Luke",
+  "rating": "3.656",
+  "votes": "16"
+}

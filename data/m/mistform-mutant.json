@@ -1,0 +1,13 @@
+{
+  "title": "Mistform Mutant",
+  "image": "../img/m/mistform-mutant.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Illusion Mutant",
+  "text": ": Choose a creature type other than Wall. Target creature becomes that type until end of turn.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "95",
+  "artist": "John Avon",
+  "rating": "2.455",
+  "votes": "22"
+}

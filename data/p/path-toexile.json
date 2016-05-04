@@ -1,0 +1,13 @@
+{
+  "title": "Path to Exile",
+  "image": "../img/p/path-toexile.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.",
+  "expansion": "Modern Event Deck 2014",
+  "rarity": "Uncommon",
+  "cardNumber": "3",
+  "artist": "Todd Lockwood",
+  "rating": "4.300",
+  "votes": "10"
+}

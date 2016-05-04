@@ -1,0 +1,13 @@
+{
+  "title": "Mystic Enforcer",
+  "image": "../img/m/mystic-enforcer.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Nomad Mystic",
+  "text": "Protection from blackThreshold — As long as seven or more cards are in your graveyard, Mystic Enforcer gets +3/+3 and has flying.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "96",
+  "artist": "Gary Ruddell",
+  "rating": "4.258",
+  "votes": "64"
+}

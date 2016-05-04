@@ -1,0 +1,13 @@
+{
+  "title": "Invert the Skies",
+  "image": "../img/i/invert-theskies.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Creatures your opponents control lose flying until end of turn if  was spent to cast Invert the Skies, and creatures you control gain flying until end of turn if  was spent to cast it. (Do both if  was spent.)",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "155",
+  "artist": "Randy Gallegos",
+  "rating": "3.229",
+  "votes": "48"
+}

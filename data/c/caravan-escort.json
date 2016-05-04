@@ -1,0 +1,13 @@
+{
+  "title": "Caravan Escort",
+  "image": "../img/c/caravan-escort.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Knight",
+  "text": "Level up  (: Put a level counter on this. Level up only as a sorcery.)LEVEL 1-42/2LEVEL 5+5/5First strike",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "3",
+  "artist": "Goran Josic",
+  "rating": "5",
+  "votes": "0"
+}

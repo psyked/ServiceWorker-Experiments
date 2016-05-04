@@ -1,0 +1,13 @@
+{
+  "title": "Hecatomb",
+  "image": "../img/h/hecatomb.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "When Hecatomb enters the battlefield, sacrifice Hecatomb unless you sacrifice four creatures.Tap an untapped Swamp you control: Hecatomb deals 1 damage to target creature or player.",
+  "expansion": "Masters Edition",
+  "rarity": "Rare",
+  "cardNumber": "71",
+  "artist": "NéNé Thomas",
+  "rating": "3.750",
+  "votes": "52"
+}

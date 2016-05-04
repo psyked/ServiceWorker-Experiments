@@ -1,0 +1,13 @@
+{
+  "title": "Despotic Scepter",
+  "image": "../img/d/despotic-scepter.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": ": Destroy target permanent you own. It can't be regenerated.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "206",
+  "artist": "Richard Thomas",
+  "rating": "3.738",
+  "votes": "40"
+}

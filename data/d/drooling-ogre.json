@@ -1,0 +1,13 @@
+{
+  "title": "Drooling Ogre",
+  "image": "../img/d/drooling-ogre.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Ogre",
+  "text": "Whenever a player casts an artifact spell, that player gains control of Drooling Ogre. (This effect lasts indefinitely.)",
+  "expansion": "Darksteel",
+  "rarity": "Common",
+  "cardNumber": "58",
+  "artist": "Brian Snoddy",
+  "rating": "2.987",
+  "votes": "38"
+}

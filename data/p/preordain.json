@@ -1,0 +1,13 @@
+{
+  "title": "Preordain",
+  "image": "../img/p/preordain.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "expansion": "Commander 2015",
+  "rarity": "Common",
+  "cardNumber": "101",
+  "artist": "Svetlin Velinov",
+  "rating": "5",
+  "votes": "0"
+}

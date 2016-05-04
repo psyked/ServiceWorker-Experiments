@@ -1,0 +1,13 @@
+{
+  "title": "Molten Rain",
+  "image": "../img/m/molten-rain.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Destroy target land. If that land was nonbasic, Molten Rain deals 2 damage to the land's controller.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "101",
+  "artist": "Hugh Jamieson",
+  "rating": "4.295",
+  "votes": "56"
+}

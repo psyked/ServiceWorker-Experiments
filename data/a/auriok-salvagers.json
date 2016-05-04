@@ -1,0 +1,13 @@
+{
+  "title": "Auriok Salvagers",
+  "image": "../img/a/auriok-salvagers.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Soldier",
+  "text": ": Return target artifact card with converted mana cost 1 or less from your graveyard to your hand.",
+  "expansion": "Modern Masters",
+  "rarity": "Rare",
+  "cardNumber": "5",
+  "artist": "Randy Gallegos",
+  "rating": "3.557",
+  "votes": "35"
+}

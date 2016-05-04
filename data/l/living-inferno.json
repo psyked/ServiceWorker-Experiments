@@ -1,0 +1,13 @@
+{
+  "title": "Living Inferno",
+  "image": "../img/l/living-inferno.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Elemental",
+  "text": ": Living Inferno deals damage equal to its power divided as you choose among any number of target creatures. Each of those creatures deals damage equal to its power to Living Inferno.",
+  "expansion": "Guildpact",
+  "rarity": "Rare",
+  "cardNumber": "69",
+  "artist": "John Avon",
+  "rating": "3.400",
+  "votes": "40"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Fireshrieker",
+  "image": "../img/f/fireshrieker.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature has double strike. (It deals both first-strike and regular combat damage.)Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Uncommon",
+  "cardNumber": "199",
+  "artist": "Christopher Moeller",
+  "rating": "3.625",
+  "votes": "4"
+}

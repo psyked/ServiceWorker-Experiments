@@ -1,0 +1,13 @@
+{
+  "title": "Floating Shield",
+  "image": "../img/f/floating-shield.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAs Floating Shield enters the battlefield, choose a color.Enchanted creature has protection from the chosen color. This effect doesn't remove Floating Shield.Sacrifice Floating Shield: Target creature gains protection from the chosen color until end of turn.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "5",
+  "artist": "Keith Garletts",
+  "rating": "2.618",
+  "votes": "17"
+}

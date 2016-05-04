@@ -1,0 +1,13 @@
+{
+  "title": "Haunted Plate Mail",
+  "image": "../img/h/haunted-platemail.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature gets +4/+4.: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit artifact creature that's no longer an Equipment. Activate this ability only if you control no creatures.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "218",
+  "artist": "Izzy",
+  "rating": "3.400",
+  "votes": "5"
+}

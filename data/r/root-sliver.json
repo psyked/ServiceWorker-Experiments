@@ -1,0 +1,13 @@
+{
+  "title": "Root Sliver",
+  "image": "../img/r/root-sliver.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Sliver",
+  "text": "Root Sliver can't be countered.Sliver spells can't be countered by spells or abilities.",
+  "expansion": "Legions",
+  "rarity": "Uncommon",
+  "cardNumber": "137",
+  "artist": "Matt Thompson",
+  "rating": "3.653",
+  "votes": "36"
+}

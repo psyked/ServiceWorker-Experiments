@@ -1,0 +1,13 @@
+{
+  "title": "Griffin Sentinel",
+  "image": "../img/g/griffin-sentinel.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Griffin",
+  "text": "FlyingVigilance (Attacking doesn't cause this creature to tap.)",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "20",
+  "artist": "Warren Mahy",
+  "rating": "3.400",
+  "votes": "30"
+}

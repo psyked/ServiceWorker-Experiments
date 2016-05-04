@@ -1,0 +1,13 @@
+{
+  "title": "Poison Arrow",
+  "image": "../img/p/poison-arrow.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Destroy target nonblack creature. You gain 3 life.",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Uncommon",
+  "cardNumber": "80",
+  "artist": "Li Tie",
+  "rating": "1.794",
+  "votes": "34"
+}

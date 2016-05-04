@@ -1,0 +1,13 @@
+{
+  "title": "Krark-Clan Engineers",
+  "image": "../img/k/krark-clan-engineers.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Goblin Artificer",
+  "text": ", Sacrifice two artifacts: Destroy target artifact.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Uncommon",
+  "cardNumber": "70",
+  "artist": "Pete Venters",
+  "rating": "2.274",
+  "votes": "31"
+}

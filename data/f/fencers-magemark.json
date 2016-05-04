@@ -1,0 +1,13 @@
+{
+  "title": "Fencer's Magemark",
+  "image": "../img/f/fencers-magemark.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureCreatures you control that are enchanted get +1/+1 and have first strike.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "65",
+  "artist": "Brandon Kitkouski",
+  "rating": "3.207",
+  "votes": "46"
+}

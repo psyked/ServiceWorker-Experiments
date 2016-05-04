@@ -1,0 +1,13 @@
+{
+  "title": "Chained Throatseeker",
+  "image": "../img/c/chained-throatseeker.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Horror",
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)Chained Throatseeker can't attack unless defending player is poisoned.",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "30",
+  "artist": "Stephan Martiniere",
+  "rating": "3.180",
+  "votes": "89"
+}

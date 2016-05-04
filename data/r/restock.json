@@ -1,0 +1,13 @@
+{
+  "title": "Restock",
+  "image": "../img/r/restock.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Return two target cards from your graveyard to your hand. Exile Restock.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "195",
+  "artist": "Daren Bader",
+  "rating": "3.200",
+  "votes": "5"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Diamond Faerie",
+  "image": "../img/d/diamond-faerie.jpg",
+  "convertedManaCost": "5",
+  "types": "Snow Creature  — Faerie",
+  "text": "Flying: Snow creatures you control get +1/+1 until end of turn. ( can be paid with one mana from a snow permanent.)",
+  "expansion": "Coldsnap",
+  "rarity": "Rare",
+  "cardNumber": "128",
+  "artist": "Heather Hudson",
+  "rating": "3.036",
+  "votes": "42"
+}

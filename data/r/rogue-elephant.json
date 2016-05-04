@@ -1,0 +1,13 @@
+{
+  "title": "Rogue Elephant",
+  "image": "../img/r/rogue-elephant.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elephant",
+  "text": "When Rogue Elephant enters the battlefield, sacrifice it unless you sacrifice a Forest.",
+  "expansion": "Weatherlight",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Steve White",
+  "rating": "4.282",
+  "votes": "85"
+}

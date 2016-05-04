@@ -1,0 +1,13 @@
+{
+  "title": "Orcish Lumberjack",
+  "image": "../img/o/orcish-lumberjack.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Orc",
+  "text": ", Sacrifice a Forest: Add three mana in any combination of  and/or  to your mana pool.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "179",
+  "artist": "Steve Prescott",
+  "rating": "4.500",
+  "votes": "1"
+}

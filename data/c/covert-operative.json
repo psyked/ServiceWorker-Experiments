@@ -1,0 +1,13 @@
+{
+  "title": "Covert Operative",
+  "image": "../img/c/covert-operative.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Wizard",
+  "text": "Covert Operative can't be blocked.",
+  "expansion": "Legions",
+  "rarity": "Common",
+  "cardNumber": "33",
+  "artist": "Kev Walker",
+  "rating": "2.694",
+  "votes": "31"
+}

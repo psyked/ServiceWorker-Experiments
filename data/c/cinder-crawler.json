@@ -1,0 +1,13 @@
+{
+  "title": "Cinder Crawler",
+  "image": "../img/c/cinder-crawler.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Salamander",
+  "text": ": Cinder Crawler gets +1/+0 until end of turn. Activate this ability only if Cinder Crawler is blocked.",
+  "expansion": "Exodus",
+  "rarity": "Common",
+  "cardNumber": "80",
+  "artist": "Jim Nelson",
+  "rating": "2.667",
+  "votes": "27"
+}

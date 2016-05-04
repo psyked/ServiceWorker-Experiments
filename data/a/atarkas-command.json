@@ -1,0 +1,13 @@
+{
+  "title": "Atarka's Command",
+  "image": "../img/a/atarkas-command.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Choose two —• Your opponents can't gain life this turn.• Atarka's Command deals 3 damage to each opponent.• You may put a land card from your hand onto the battlefield.• Creatures you control get +1/+1 and gain reach until end of turn.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "213",
+  "artist": "Chris Rahn",
+  "rating": "5",
+  "votes": "0"
+}

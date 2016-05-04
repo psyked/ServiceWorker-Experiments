@@ -1,0 +1,13 @@
+{
+  "title": "Nebuchadnezzar",
+  "image": "../img/n/nebuchadnezzar.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Creature  — Human Wizard",
+  "text": ", : Name a card. Target opponent reveals X cards at random from his or her hand. Then that player discards all cards with that name revealed this way. Activate this ability only during your turn.",
+  "expansion": "Masters Edition III",
+  "rarity": "Uncommon",
+  "cardNumber": "162",
+  "artist": "Richard Kane Ferguson",
+  "rating": "3.939",
+  "votes": "41"
+}

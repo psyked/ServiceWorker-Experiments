@@ -1,0 +1,13 @@
+{
+  "title": "Rust Tick",
+  "image": "../img/r/rust-tick.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Insect",
+  "text": "You may choose not to untap Rust Tick during your untap step., : Tap target artifact. It doesn't untap during its controller's untap step for as long as Rust Tick remains tapped.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "198",
+  "artist": "Carl Critchlow",
+  "rating": "2.808",
+  "votes": "39"
+}

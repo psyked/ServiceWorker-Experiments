@@ -1,0 +1,13 @@
+{
+  "title": "Cabal Conditioning",
+  "image": "../img/c/cabal-conditioning.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "Any number of target players each discard a number of cards equal to the highest converted mana cost among permanents you control.",
+  "expansion": "Scourge",
+  "rarity": "Rare",
+  "cardNumber": "56",
+  "artist": "Scott M. Fischer",
+  "rating": "3.052",
+  "votes": "29"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "High Tide",
+  "image": "../img/h/high-tide.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Until end of turn, whenever a player taps an Island for mana, that player adds  to his or her mana pool (in addition to the mana the land produces).",
+  "expansion": "Vintage Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "73",
+  "artist": "Eric Deschamps",
+  "rating": "4.500",
+  "votes": "1"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Counterbore",
+  "image": "../img/c/counterbore.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Counter target spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles his or her library.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "33",
+  "artist": "Wayne England",
+  "rating": "3.559",
+  "votes": "68"
+}

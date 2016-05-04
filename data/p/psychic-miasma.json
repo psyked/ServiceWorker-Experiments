@@ -1,0 +1,13 @@
+{
+  "title": "Psychic Miasma",
+  "image": "../img/p/psychic-miasma.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target player discards a card. If a land card is discarded this way, return Psychic Miasma to its owner's hand.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "76",
+  "artist": "Svetlin Velinov",
+  "rating": "2.273",
+  "votes": "44"
+}

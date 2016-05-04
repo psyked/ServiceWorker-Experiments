@@ -1,0 +1,13 @@
+{
+  "title": "Battlewise Aven",
+  "image": "../img/b/battlewise-aven.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Bird Soldier",
+  "text": "FlyingThreshold — As long as seven or more cards are in your graveyard, Battlewise Aven gets +1/+1 and has first strike.",
+  "expansion": "Judgment",
+  "rarity": "Common",
+  "cardNumber": "4",
+  "artist": "Wayne England",
+  "rating": "2.710",
+  "votes": "31"
+}

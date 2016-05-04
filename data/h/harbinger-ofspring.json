@@ -1,0 +1,13 @@
+{
+  "title": "Harbinger of Spring",
+  "image": "../img/h/harbinger-ofspring.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit",
+  "text": "Protection from non-Spirit creaturesSoulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "128",
+  "artist": "Cara Mitten",
+  "rating": "2.689",
+  "votes": "37"
+}

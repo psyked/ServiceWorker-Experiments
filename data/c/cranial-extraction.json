@@ -1,0 +1,13 @@
+{
+  "title": "Cranial Extraction",
+  "image": "../img/c/cranial-extraction.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery  — Arcane",
+  "text": "Name a nonland card. Search target player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles his or her library.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "105",
+  "artist": "Dave Allsop",
+  "rating": "4.311",
+  "votes": "98"
+}

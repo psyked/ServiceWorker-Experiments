@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Assassin",
+  "image": "../img/g/goblin-assassin.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Goblin Assassin",
+  "text": "Whenever Goblin Assassin or another Goblin enters the battlefield, each player flips a coin. Each player whose coin comes up tails sacrifices a creature.",
+  "expansion": "Legions",
+  "rarity": "Uncommon",
+  "cardNumber": "95",
+  "artist": "Dave Dorman",
+  "rating": "3.364",
+  "votes": "44"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Aspiring Aeronaut",
+  "image": "../img/a/aspiring-aeronaut.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Artificer",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)When Aspiring Aeronaut enters the battlefield, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "46",
+  "artist": "Willian Murai",
+  "rating": "5",
+  "votes": "0"
+}

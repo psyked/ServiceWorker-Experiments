@@ -1,0 +1,13 @@
+{
+  "title": "Kruphix, God of Horizons",
+  "image": "../img/k/kruphix-godofhorizons.jpg",
+  "convertedManaCost": "5",
+  "types": "Legendary Enchantment Creature  — God",
+  "text": "IndestructibleAs long as your devotion to green and blue is less than seven, Kruphix isn't a creature.You have no maximum hand size.If unused mana would empty from your mana pool, that mana becomes colorless instead.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Mythic Rare",
+  "cardNumber": "152",
+  "artist": "Daarken",
+  "rating": "3.678",
+  "votes": "90"
+}

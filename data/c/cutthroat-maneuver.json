@@ -1,0 +1,13 @@
+{
+  "title": "Cutthroat Maneuver",
+  "image": "../img/c/cutthroat-maneuver.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Up to two target creatures each get +1/+1 and gain lifelink until end of turn.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "82",
+  "artist": "Brad Rigney",
+  "rating": "2.274",
+  "votes": "31"
+}

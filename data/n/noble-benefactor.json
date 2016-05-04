@@ -1,0 +1,13 @@
+{
+  "title": "Noble Benefactor",
+  "image": "../img/n/noble-benefactor.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": "When Noble Benefactor dies, each player may search his or her library for a card and put that card into his or her hand. Then each player who searched his or her library this way shuffles it.",
+  "expansion": "Weatherlight",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "DiTerlizzi",
+  "rating": "3.736",
+  "votes": "36"
+}

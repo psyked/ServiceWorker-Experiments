@@ -1,0 +1,13 @@
+{
+  "title": "Protean Hulk",
+  "image": "../img/p/protean-hulk.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Beast",
+  "text": "When Protean Hulk dies, search your library for any number of creature cards with total converted mana cost 6 or less and put them onto the battlefield. Then shuffle your library.",
+  "expansion": "Dissension",
+  "rarity": "Rare",
+  "cardNumber": "90",
+  "artist": "Matt Cavotta",
+  "rating": "4.537",
+  "votes": "148"
+}

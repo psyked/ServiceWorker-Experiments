@@ -1,0 +1,13 @@
+{
+  "title": "Dream Pillager",
+  "image": "../img/d/dream-pillager.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhenever Dream Pillager deals combat damage to a player, exile that many cards from the top of your library. Until end of turn, you may cast nonland cards exiled this way.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "25",
+  "artist": "Min Yum",
+  "rating": "5",
+  "votes": "0"
+}

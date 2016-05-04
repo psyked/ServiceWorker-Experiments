@@ -1,0 +1,13 @@
+{
+  "title": "D'Avenant Archer",
+  "image": "../img/d/davenant-archer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier Archer",
+  "text": ": D'Avenant Archer deals 1 damage to target attacking or blocking creature.",
+  "expansion": "Masters Edition III",
+  "rarity": "Common",
+  "cardNumber": "6",
+  "artist": "Douglas Shuler",
+  "rating": "2.423",
+  "votes": "26"
+}

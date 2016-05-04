@@ -1,0 +1,13 @@
+{
+  "title": "Heap Doll",
+  "image": "../img/h/heap-doll.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact Creature  — Scarecrow",
+  "text": "Sacrifice Heap Doll: Exile target card from a graveyard.",
+  "expansion": "Shadowmoor",
+  "rarity": "Uncommon",
+  "cardNumber": "253",
+  "artist": "John Avon",
+  "rating": "3.647",
+  "votes": "58"
+}

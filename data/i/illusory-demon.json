@@ -1,0 +1,13 @@
+{
+  "title": "Illusory Demon",
+  "image": "../img/i/illusory-demon.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Demon Illusion",
+  "text": "FlyingWhen you cast a spell, sacrifice Illusory Demon.",
+  "expansion": "Alara Reborn",
+  "rarity": "Uncommon",
+  "cardNumber": "21",
+  "artist": "Nils Hamm",
+  "rating": "2.413",
+  "votes": "75"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Horned Sliver",
+  "image": "../img/h/horned-sliver.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Sliver",
+  "text": "All Sliver creatures have trample.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "176",
+  "artist": "Allen Williams",
+  "rating": "5",
+  "votes": "0"
+}

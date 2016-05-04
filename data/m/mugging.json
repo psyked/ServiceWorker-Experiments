@@ -1,0 +1,13 @@
+{
+  "title": "Mugging",
+  "image": "../img/m/mugging.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Mugging deals 2 damage to target creature. That creature can't block this turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Common",
+  "cardNumber": "102",
+  "artist": "Greg Staples",
+  "rating": "2.886",
+  "votes": "57"
+}

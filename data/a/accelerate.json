@@ -1,0 +1,13 @@
+{
+  "title": "Accelerate",
+  "image": "../img/a/accelerate.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gains haste until end of turn.Draw a card.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "90",
+  "artist": "Gary Ruddell",
+  "rating": "1.768",
+  "votes": "41"
+}

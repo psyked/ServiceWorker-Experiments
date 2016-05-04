@@ -1,0 +1,13 @@
+{
+  "title": "Archetype of Imagination",
+  "image": "../img/a/archetype-ofimagination.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment Creature  — Human Wizard",
+  "text": "Creatures you control have flying.Creatures your opponents control lose flying and can't have or gain flying.",
+  "expansion": "Born of the Gods",
+  "rarity": "Uncommon",
+  "cardNumber": "32",
+  "artist": "Robbie Trevino",
+  "rating": "3.837",
+  "votes": "43"
+}

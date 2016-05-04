@@ -1,0 +1,13 @@
+{
+  "title": "Ghoulraiser",
+  "image": "../img/g/ghoulraiser.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": "When Ghoulraiser enters the battlefield, return a Zombie card at random from your graveyard to your hand.",
+  "expansion": "Duel Decks: Blessed vs. Cursed",
+  "rarity": "Common",
+  "cardNumber": "58",
+  "artist": "Steve Prescott",
+  "rating": "5",
+  "votes": "0"
+}

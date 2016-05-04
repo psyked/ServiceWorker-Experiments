@@ -1,0 +1,13 @@
+{
+  "title": "Arnjlot's Ascent",
+  "image": "../img/a/arnjlots-ascent.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Cumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.): Target creature gains flying until end of turn.",
+  "expansion": "Ice Age",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Drew Tucker",
+  "rating": "1.803",
+  "votes": "38"
+}

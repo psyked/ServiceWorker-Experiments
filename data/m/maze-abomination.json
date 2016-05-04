@@ -1,0 +1,13 @@
+{
+  "title": "Maze Abomination",
+  "image": "../img/m/maze-abomination.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)Multicolored creatures you control have deathtouch.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Common",
+  "cardNumber": "26",
+  "artist": "Yeong-Hao Han",
+  "rating": "3.139",
+  "votes": "36"
+}

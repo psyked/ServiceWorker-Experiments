@@ -1,0 +1,13 @@
+{
+  "title": "Realm Razer",
+  "image": "../img/r/realm-razer.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Beast",
+  "text": "When Realm Razer enters the battlefield, exile all lands.When Realm Razer leaves the battlefield, return the exiled cards to the battlefield tapped under their owners' control.",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "187",
+  "artist": "Hideaki Takamura",
+  "rating": "3.566",
+  "votes": "91"
+}

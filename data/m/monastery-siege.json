@@ -1,0 +1,13 @@
+{
+  "title": "Monastery Siege",
+  "image": "../img/m/monastery-siege.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "As Monastery Siege enters the battlefield, choose Khans or Dragons.• Khans — At the beginning of your draw step, draw an additional card, then discard a card.• Dragons — Spells your opponents cast that target you or a permanent you control cost  more to cast.",
+  "expansion": "Fate Reforged",
+  "rarity": "Rare",
+  "cardNumber": "43",
+  "artist": "Mark Winters",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Overwhelming Stampede",
+  "image": "../img/o/overwhelming-stampede.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Until end of turn, creatures you control gain trample and get +X/+X, where X is the greatest power among creatures you control.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "196",
+  "artist": "Steven Belledin",
+  "rating": "5",
+  "votes": "0"
+}

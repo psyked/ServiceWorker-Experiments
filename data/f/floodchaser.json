@@ -1,0 +1,13 @@
+{
+  "title": "Floodchaser",
+  "image": "../img/f/floodchaser.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": "Floodchaser enters the battlefield with six +1/+1 counters on it.Floodchaser can't attack unless defending player controls an Island., Remove a +1/+1 counter from Floodchaser: Target land becomes an Island until end of turn.",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "34",
+  "artist": "Eric Fortune",
+  "rating": "1.962",
+  "votes": "40"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dementia Bat",
+  "image": "../img/d/dementia-bat.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bat",
+  "text": "Flying, Sacrifice Dementia Bat: Target player discards two cards.",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "55",
+  "artist": "Daarken",
+  "rating": "1.697",
+  "votes": "119"
+}

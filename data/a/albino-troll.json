@@ -1,0 +1,13 @@
+{
+  "title": "Albino Troll",
+  "image": "../img/a/albino-troll.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Troll",
+  "text": "Echo  (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.): Regenerate Albino Troll.",
+  "expansion": "Duel Decks Anthology, Garruk vs. Liliana",
+  "rarity": "Uncommon",
+  "cardNumber": "3",
+  "artist": "Parente",
+  "rating": "5",
+  "votes": "0"
+}

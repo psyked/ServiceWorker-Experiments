@@ -1,0 +1,13 @@
+{
+  "title": "Charm School",
+  "image": "../img/c/charm-school.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchant Player",
+  "text": "When Charm School comes into play, choose a color and balance Charm School on your head.Prevent all damage to you of the chosen color.If Charm School falls off your head, sacrifice Charm School.",
+  "expansion": "Unglued",
+  "rarity": "Uncommon",
+  "cardNumber": "1",
+  "artist": "Kaja Foglio",
+  "rating": "4.155",
+  "votes": "29"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Phantasmal Dragon",
+  "image": "../img/p/phantasmal-dragon.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Dragon Illusion",
+  "text": "FlyingWhen Phantasmal Dragon becomes the target of a spell or ability, sacrifice it.",
+  "expansion": "Duel Decks: Jace vs. Vraska",
+  "rarity": "Uncommon",
+  "cardNumber": "14",
+  "artist": "Wayne Reynolds",
+  "rating": "3.900",
+  "votes": "15"
+}

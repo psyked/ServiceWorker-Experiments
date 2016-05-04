@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Boom Keg",
+  "image": "../img/g/goblin-boomkeg.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, sacrifice Goblin Boom Keg.When Goblin Boom Keg is put into a graveyard from the battlefield, it deals 3 damage to target creature or player.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "159",
+  "artist": "Viktor Titov",
+  "rating": "5",
+  "votes": "0"
+}

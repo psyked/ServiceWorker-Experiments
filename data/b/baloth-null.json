@@ -1,0 +1,13 @@
+{
+  "title": "Baloth Null",
+  "image": "../img/b/baloth-null.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Zombie Beast",
+  "text": "When Baloth Null enters the battlefield, return up to two target creature cards from your graveyard to your hand.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "152",
+  "artist": "Jakub Kasper",
+  "rating": "5",
+  "votes": "0"
+}

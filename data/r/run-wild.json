@@ -1,0 +1,13 @@
+{
+  "title": "Run Wild",
+  "image": "../img/r/run-wild.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Until end of turn, target creature gains trample and \": Regenerate this creature.\"",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "279",
+  "artist": "Alan Pollack",
+  "rating": "3.000",
+  "votes": "31"
+}

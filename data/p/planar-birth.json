@@ -1,0 +1,13 @@
+{
+  "title": "Planar Birth",
+  "image": "../img/p/planar-birth.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Return all basic land cards from all graveyards to the battlefield tapped under their owners' control.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "31",
+  "artist": "Adam Rex",
+  "rating": "4.130",
+  "votes": "46"
+}

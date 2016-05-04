@@ -1,0 +1,13 @@
+{
+  "title": "Cloak and Dagger",
+  "image": "../img/c/cloak-anddagger.jpg",
+  "convertedManaCost": "2",
+  "types": "Tribal Artifact  — Rogue Equipment",
+  "text": "Equipped creature gets +2/+0 and has shroud. (It can't be the target of spells or abilities.)Whenever a Rogue creature enters the battlefield, you may attach Cloak and Dagger to it.Equip",
+  "expansion": "Morningtide",
+  "rarity": "Uncommon",
+  "cardNumber": "141",
+  "artist": "Daren Bader",
+  "rating": "3.526",
+  "votes": "57"
+}

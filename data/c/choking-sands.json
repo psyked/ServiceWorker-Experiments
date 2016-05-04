@@ -1,0 +1,13 @@
+{
+  "title": "Choking Sands",
+  "image": "../img/c/choking-sands.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Destroy target non-Swamp land. If that land was nonbasic, Choking Sands deals 2 damage to the land's controller.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "109",
+  "artist": "Roger Raupp",
+  "rating": "4.000",
+  "votes": "1"
+}

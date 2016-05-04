@@ -1,0 +1,13 @@
+{
+  "title": "Consecrated by Blood",
+  "image": "../img/c/consecrated-byblood.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+2 and has flying and \"Sacrifice two other creatures: Regenerate this creature.\" (The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "87",
+  "artist": "John Stanko",
+  "rating": "5",
+  "votes": "0"
+}

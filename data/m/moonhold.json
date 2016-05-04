@@ -1,0 +1,13 @@
+{
+  "title": "Moonhold",
+  "image": "../img/m/moonhold.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Target player can't play land cards this turn if  was spent to cast Moonhold and can't play creature cards this turn if  was spent to cast it. (Do both if  was spent.)",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "143",
+  "artist": "Mike Dringenberg",
+  "rating": "3.333",
+  "votes": "54"
+}

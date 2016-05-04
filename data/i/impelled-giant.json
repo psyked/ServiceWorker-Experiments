@@ -1,0 +1,13 @@
+{
+  "title": "Impelled Giant",
+  "image": "../img/i/impelled-giant.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant Warrior",
+  "text": "TrampleTap an untapped red creature you control other than Impelled Giant: Impelled Giant gets +X/+0 until end of turn, where X is the power of the creature tapped this way.",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "58",
+  "artist": "Mark Zug",
+  "rating": "3.013",
+  "votes": "39"
+}

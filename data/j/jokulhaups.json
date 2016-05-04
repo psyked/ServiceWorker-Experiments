@@ -1,0 +1,13 @@
+{
+  "title": "Jokulhaups",
+  "image": "../img/j/jokulhaups.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Destroy all artifacts, creatures, and lands. They can't be regenerated.",
+  "expansion": "Masters Edition",
+  "rarity": "Rare",
+  "cardNumber": "100",
+  "artist": "Richard Thomas",
+  "rating": "4.519",
+  "votes": "78"
+}

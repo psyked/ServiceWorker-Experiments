@@ -1,0 +1,13 @@
+{
+  "title": "Glitterfang",
+  "image": "../img/g/glitterfang.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Spirit",
+  "text": "HasteAt the beginning of the end step, return Glitterfang to its owner's hand.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "100",
+  "artist": "Ron Spencer",
+  "rating": "3.750",
+  "votes": "62"
+}

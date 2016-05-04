@@ -1,0 +1,13 @@
+{
+  "title": "Chant of Vitu-Ghazi",
+  "image": "../img/c/chant-ofvitu-ghazi.jpg",
+  "convertedManaCost": "8",
+  "types": "Instant",
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for  or one mana of that creature's color.)Prevent all damage that would be dealt by creatures this turn. You gain life equal to the damage prevented this way.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "7",
+  "artist": "Stephen Tappin",
+  "rating": "2.500",
+  "votes": "44"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Blinding Powder",
+  "image": "../img/b/blinding-powder.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature has \"Unattach Blinding Powder: Prevent all combat damage that would be dealt to this creature this turn.\"Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "153",
+  "artist": "Greg Hildebrandt",
+  "rating": "3.032",
+  "votes": "47"
+}

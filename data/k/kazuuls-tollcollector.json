@@ -1,0 +1,13 @@
+{
+  "title": "Kazuul's Toll Collector",
+  "image": "../img/k/kazuuls-tollcollector.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Ogre Warrior",
+  "text": ": Attach target Equipment you control to Kazuul's Toll Collector. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "112",
+  "artist": "Greg Staples",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,6 +1,6 @@
 {
   "title": "_____",
-  "image": "./img/.jpg",
+  "image": "../img//.jpg",
   "convertedManaCost": "2",
   "types": "Creature — Shapeshifter",
   "text": ": This card's name becomes the name of your choice. Play this ability anywhere, anytime.",

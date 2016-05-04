@@ -1,0 +1,13 @@
+{
+  "title": "Fleet-Footed Monk",
+  "image": "../img/f/fleet-footed-monk.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Monk",
+  "text": "Fleet-Footed Monk can't be blocked by creatures with power 2 or greater.",
+  "expansion": "Portal",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "D. Alexander Gregory",
+  "rating": "3.241",
+  "votes": "27"
+}

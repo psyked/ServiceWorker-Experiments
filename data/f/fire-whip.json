@@ -1,0 +1,13 @@
+{
+  "title": "Fire Whip",
+  "image": "../img/f/fire-whip.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature you controlEnchanted creature has \": This creature deals 1 damage to target creature or player.\"Sacrifice Fire Whip: Fire Whip deals 1 damage to target creature or player.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "63",
+  "artist": "Jeff Miracola",
+  "rating": "4.208",
+  "votes": "65"
+}

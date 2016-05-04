@@ -1,0 +1,13 @@
+{
+  "title": "Myr Propagator",
+  "image": "../img/m/myr-propagator.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Myr",
+  "text": ", : Put a token that's a copy of Myr Propagator onto the battlefield.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "182",
+  "artist": "Ryan Pancoast",
+  "rating": "3.302",
+  "votes": "86"
+}

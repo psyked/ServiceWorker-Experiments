@@ -1,0 +1,13 @@
+{
+  "title": "Ankle Shanker",
+  "image": "../img/a/ankle-shanker.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Goblin Berserker",
+  "text": "HasteWhenever Ankle Shanker attacks, creatures you control gain first strike and deathtouch until end of turn.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "164",
+  "artist": "Zoltan Boros",
+  "rating": "3.857",
+  "votes": "7"
+}

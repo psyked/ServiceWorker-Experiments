@@ -1,0 +1,13 @@
+{
+  "title": "Carrion Rats",
+  "image": "../img/c/carrion-rats.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Rat",
+  "text": "Whenever Carrion Rats attacks or blocks, any player may exile a card from his or her graveyard. If a player does, Carrion Rats assigns no combat damage this turn.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "54",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "2.839",
+  "votes": "31"
+}

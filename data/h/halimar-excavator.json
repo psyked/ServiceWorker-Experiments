@@ -1,0 +1,13 @@
+{
+  "title": "Halimar Excavator",
+  "image": "../img/h/halimar-excavator.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard Ally",
+  "text": "Whenever Halimar Excavator or another Ally enters the battlefield under your control, target player puts the top X cards of his or her library into his or her graveyard, where X is the number of Allies you control.",
+  "expansion": "Worldwake",
+  "rarity": "Common",
+  "cardNumber": "29",
+  "artist": "Kev Walker",
+  "rating": "3.603",
+  "votes": "87"
+}

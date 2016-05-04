@@ -1,0 +1,13 @@
+{
+  "title": "Deftblade Elite",
+  "image": "../img/d/deftblade-elite.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Soldier",
+  "text": "Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.): Prevent all combat damage that would be dealt to and dealt by Deftblade Elite this turn.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "23",
+  "artist": "Alan Pollack",
+  "rating": "3.250",
+  "votes": "2"
+}

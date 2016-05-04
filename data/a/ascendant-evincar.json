@@ -1,0 +1,13 @@
+{
+  "title": "Ascendant Evincar",
+  "image": "../img/a/ascendant-evincar.jpg",
+  "convertedManaCost": "6",
+  "types": "Legendary Creature  — Vampire",
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)Other black creatures get +1/+1.Nonblack creatures get -1/-1.",
+  "expansion": "Planechase",
+  "rarity": "Rare",
+  "cardNumber": "17",
+  "artist": "Mark Zug",
+  "rating": "3.968",
+  "votes": "78"
+}

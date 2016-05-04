@@ -1,0 +1,13 @@
+{
+  "title": "Discordant Dirge",
+  "image": "../img/d/discordant-dirge.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, you may put a verse counter on Discordant Dirge., Sacrifice Discordant Dirge: Look at target opponent's hand and choose up to X cards from it, where X is the number of verse counters on Discordant Dirge. That player discards those cards.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "131",
+  "artist": "Carl Critchlow",
+  "rating": "2.045",
+  "votes": "33"
+}

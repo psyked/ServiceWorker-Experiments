@@ -1,0 +1,13 @@
+{
+  "title": "Mine, Mine, Mine!",
+  "image": "../img/m/mine-minemine.jpg",
+  "convertedManaCost": "6",
+  "types": "Enchantment",
+  "text": "When Mine, Mine, Mine comes into play, each player puts his or her library into his or her hand.Each player skips his or her discard phase and does not lose as a result of being unable to draw a card.Each player cannot play more than one spell each turn.If Mine, Mine, Mine leaves play, each player shuffles his or her hand and graveyard into his or her library.",
+  "expansion": "Unglued",
+  "rarity": "Rare",
+  "cardNumber": "65",
+  "artist": "Heather Hudson",
+  "rating": "3.946",
+  "votes": "28"
+}

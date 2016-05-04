@@ -1,0 +1,13 @@
+{
+  "title": "Deathreap Ritual",
+  "image": "../img/d/deathreap-ritual.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Morbid — At the beginning of each end step, if a creature died this turn, you may draw a card.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Uncommon",
+  "cardNumber": "44",
+  "artist": "Steve Argyle",
+  "rating": "4.111",
+  "votes": "18"
+}

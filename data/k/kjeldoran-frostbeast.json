@@ -1,0 +1,13 @@
+{
+  "title": "Kjeldoran Frostbeast",
+  "image": "../img/k/kjeldoran-frostbeast.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental Beast",
+  "text": "At end of combat, destroy all creatures blocking or blocked by Kjeldoran Frostbeast.",
+  "expansion": "Masters Edition III",
+  "rarity": "Uncommon",
+  "cardNumber": "156",
+  "artist": "Mark Poole",
+  "rating": "3.414",
+  "votes": "35"
+}

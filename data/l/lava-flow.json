@@ -1,0 +1,13 @@
+{
+  "title": "Lava Flow",
+  "image": "../img/l/lava-flow.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Destroy target creature or land.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Common",
+  "cardNumber": "126",
+  "artist": "Mike Dringenberg",
+  "rating": "3.025",
+  "votes": "20"
+}

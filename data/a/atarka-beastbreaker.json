@@ -1,0 +1,13 @@
+{
+  "title": "Atarka Beastbreaker",
+  "image": "../img/a/atarka-beastbreaker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Warrior",
+  "text": "Formidable — : Atarka Beastbreaker gets +4/+4 until end of turn. Activate this ability only if creatures you control have total power 8 or greater.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "174",
+  "artist": "Johannes Voss",
+  "rating": "5",
+  "votes": "0"
+}

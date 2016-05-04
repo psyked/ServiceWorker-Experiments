@@ -1,0 +1,13 @@
+{
+  "title": "Jeskai Sage",
+  "image": "../img/j/jeskai-sage.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Monk",
+  "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)When Jeskai Sage dies, draw a card.",
+  "expansion": "Fate Reforged",
+  "rarity": "Common",
+  "cardNumber": "38",
+  "artist": "Craig J Spearing",
+  "rating": "5",
+  "votes": "0"
+}

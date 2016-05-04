@@ -1,0 +1,13 @@
+{
+  "title": "Mountain Goat",
+  "image": "../img/m/mountain-goat.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goat",
+  "text": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Common",
+  "cardNumber": "195",
+  "artist": "Cornelius Brudi",
+  "rating": "3.776",
+  "votes": "49"
+}

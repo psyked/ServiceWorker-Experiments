@@ -1,0 +1,13 @@
+{
+  "title": "Farrel's Zealot",
+  "image": "../img/f/farrels-zealot.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human",
+  "text": "Whenever Farrel's Zealot attacks and isn't blocked, you may have it deal 3 damage to target creature. If you do, Farrel's Zealot assigns no combat damage this turn.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "14",
+  "artist": "Richard Kane Ferguson",
+  "rating": "3.240",
+  "votes": "25"
+}

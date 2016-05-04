@@ -1,0 +1,13 @@
+{
+  "title": "Blind Seer",
+  "image": "../img/b/blind-seer.jpg",
+  "convertedManaCost": "4",
+  "types": "Legendary Creature  — Human Wizard",
+  "text": ": Target spell or permanent becomes the color of your choice until end of turn.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "47",
+  "artist": "Dave Dorman",
+  "rating": "3.550",
+  "votes": "60"
+}

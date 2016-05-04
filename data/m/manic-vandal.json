@@ -1,0 +1,13 @@
+{
+  "title": "Manic Vandal",
+  "image": "../img/m/manic-vandal.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Warrior",
+  "text": "When Manic Vandal enters the battlefield, destroy target artifact.",
+  "expansion": "Magic 2012",
+  "rarity": "Common",
+  "cardNumber": "151",
+  "artist": "Christopher Moeller",
+  "rating": "3.873",
+  "votes": "51"
+}

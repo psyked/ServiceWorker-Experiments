@@ -1,0 +1,13 @@
+{
+  "title": "Entropic Specter",
+  "image": "../img/e/entropic-specter.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Specter Spirit",
+  "text": "FlyingAs Entropic Specter enters the battlefield, choose an opponent.Entropic Specter's power and toughness are each equal to the number of cards in the chosen player's hand.Whenever Entropic Specter deals damage to a player, that player discards a card.",
+  "expansion": "Exodus",
+  "rarity": "Rare",
+  "cardNumber": "61",
+  "artist": "Ron Spencer",
+  "rating": "1.706",
+  "votes": "68"
+}

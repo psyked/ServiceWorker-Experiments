@@ -1,0 +1,13 @@
+{
+  "title": "Briar Patch",
+  "image": "../img/b/briar-patch.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a creature attacks you, it gets -1/-0 until end of turn.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "232",
+  "artist": "Rebecca Guay",
+  "rating": "2.865",
+  "votes": "26"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ivy Elemental",
+  "image": "../img/i/ivy-elemental.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elemental",
+  "text": "Ivy Elemental enters the battlefield with X +1/+1 counters on it.",
+  "expansion": "Planechase",
+  "rarity": "Rare",
+  "cardNumber": "74",
+  "artist": "Ron Spencer",
+  "rating": "3.377",
+  "votes": "53"
+}

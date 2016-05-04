@@ -1,0 +1,13 @@
+{
+  "title": "Bringer of the Green Dawn",
+  "image": "../img/b/bringer-ofthegreendawn.jpg",
+  "convertedManaCost": "9",
+  "types": "Creature  — Bringer",
+  "text": "You may pay  rather than pay Bringer of the Green Dawn's mana cost.TrampleAt the beginning of your upkeep, you may put a 3/3 green Beast creature token onto the battlefield.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Rare",
+  "cardNumber": "83",
+  "artist": "Jim Murray",
+  "rating": "4.112",
+  "votes": "49"
+}

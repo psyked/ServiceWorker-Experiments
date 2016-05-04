@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Wardriver",
+  "image": "../img/g/goblin-wardriver.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Uncommon",
+  "cardNumber": "64",
+  "artist": "Chippy",
+  "rating": "3.848",
+  "votes": "148"
+}

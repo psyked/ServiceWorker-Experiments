@@ -1,0 +1,13 @@
+{
+  "title": "Ghastly Demise",
+  "image": "../img/g/ghastly-demise.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Destroy target nonblack creature if its toughness is less than or equal to the number of cards in your graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "139",
+  "artist": "Gary Ruddell",
+  "rating": "4.069",
+  "votes": "51"
+}

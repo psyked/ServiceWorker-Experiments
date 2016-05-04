@@ -1,0 +1,13 @@
+{
+  "title": "Cenn's Tactician",
+  "image": "../img/c/cenns-tactician.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Kithkin Soldier",
+  "text": ", : Put a +1/+1 counter on target Soldier creature.Each creature you control with a +1/+1 counter on it can block an additional creature each combat.",
+  "expansion": "Morningtide",
+  "rarity": "Uncommon",
+  "cardNumber": "5",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "3.753",
+  "votes": "93"
+}

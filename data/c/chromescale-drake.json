@@ -1,0 +1,13 @@
+{
+  "title": "Chromescale Drake",
+  "image": "../img/c/chromescale-drake.jpg",
+  "convertedManaCost": "9",
+  "types": "Creature  — Drake",
+  "text": "Affinity for artifacts (This spell costs  less to cast for each artifact you control.)FlyingWhen Chromescale Drake enters the battlefield, reveal the top three cards of your library. Put all artifact cards revealed this way into your hand and the rest into your graveyard.",
+  "expansion": "Darksteel",
+  "rarity": "Rare",
+  "cardNumber": "20",
+  "artist": "Ben Thompson",
+  "rating": "3.265",
+  "votes": "34"
+}

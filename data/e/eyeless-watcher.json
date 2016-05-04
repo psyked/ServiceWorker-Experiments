@@ -1,0 +1,13 @@
+{
+  "title": "Eyeless Watcher",
+  "image": "../img/e/eyeless-watcher.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Eldrazi Drone",
+  "text": "Devoid (This card has no color.)When Eyeless Watcher enters the battlefield, put two 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have \"Sacrifice this creature: Add  to your mana pool.\"",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "166",
+  "artist": "Yohann Schepacz",
+  "rating": "5",
+  "votes": "0"
+}

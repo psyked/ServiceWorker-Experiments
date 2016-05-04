@@ -1,0 +1,13 @@
+{
+  "title": "Gomazoa",
+  "image": "../img/g/gomazoa.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Jellyfish",
+  "text": "Defender, flying: Put Gomazoa and each creature it's blocking on top of their owners' libraries, then those players shuffle their libraries.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Uncommon",
+  "cardNumber": "48",
+  "artist": "Chippy",
+  "rating": "3.671",
+  "votes": "38"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Quicken",
+  "image": "../img/q/quicken.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "The next sorcery card you cast this turn can be cast as though it had flash. (It can be cast any time you could cast an instant.)Draw a card.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "68",
+  "artist": "Aleksi Briclot",
+  "rating": "4.148",
+  "votes": "64"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Honorable Passage",
+  "image": "../img/h/honorable-passage.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage. If damage from a red source is prevented this way, Honorable Passage deals that much damage to the source's controller.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "9",
+  "artist": "Jeff Miracola",
+  "rating": "3.250",
+  "votes": "20"
+}

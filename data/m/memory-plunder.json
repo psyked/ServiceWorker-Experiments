@@ -1,0 +1,13 @@
+{
+  "title": "Memory Plunder",
+  "image": "../img/m/memory-plunder.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "You may cast target instant or sorcery card from an opponent's graveyard without paying its mana cost.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "169",
+  "artist": "Dan Scott",
+  "rating": "3.829",
+  "votes": "73"
+}

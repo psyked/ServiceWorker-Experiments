@@ -1,0 +1,13 @@
+{
+  "title": "Forge Devil",
+  "image": "../img/f/forge-devil.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Devil",
+  "text": "When Forge Devil enters the battlefield, it deals 1 damage to target creature and 1 damage to you.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "140",
+  "artist": "Austin Hsu",
+  "rating": "2.600",
+  "votes": "5"
+}

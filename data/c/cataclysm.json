@@ -1,0 +1,13 @@
+{
+  "title": "Cataclysm",
+  "image": "../img/c/cataclysm.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Each player chooses from among the permanents he or she controls an artifact, a creature, an enchantment, and a land, then sacrifices the rest.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Mythic Rare",
+  "cardNumber": "8",
+  "artist": "Jim Nelson",
+  "rating": "5",
+  "votes": "0"
+}

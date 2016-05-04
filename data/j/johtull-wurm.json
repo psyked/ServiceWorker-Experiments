@@ -1,0 +1,13 @@
+{
+  "title": "Johtull Wurm",
+  "image": "../img/j/johtull-wurm.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Wurm",
+  "text": "Whenever Johtull Wurm becomes blocked, it gets -2/-1 until end of turn for each creature blocking it beyond the first.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "168",
+  "artist": "Daniel Gelon",
+  "rating": "2.039",
+  "votes": "51"
+}

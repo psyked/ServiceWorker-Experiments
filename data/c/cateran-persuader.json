@@ -1,0 +1,13 @@
+{
+  "title": "Cateran Persuader",
+  "image": "../img/c/cateran-persuader.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Mercenary",
+  "text": ", : Search your library for a Mercenary permanent card with converted mana cost 1 or less and put it onto the battlefield. Then shuffle your library.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "124",
+  "artist": "Carl Critchlow",
+  "rating": "3.431",
+  "votes": "36"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Champion's Victory",
+  "image": "../img/c/champions-victory.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Cast Champion's Victory only during the declare attackers step and only if you've been attacked this step.Return target attacking creature to its owner's hand.",
+  "expansion": "Portal Three Kingdoms",
+  "rarity": "Uncommon",
+  "cardNumber": "39",
+  "artist": "Hong Yan",
+  "rating": "1.662",
+  "votes": "37"
+}

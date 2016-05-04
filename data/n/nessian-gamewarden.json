@@ -1,0 +1,13 @@
+{
+  "title": "Nessian Game Warden",
+  "image": "../img/n/nessian-gamewarden.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast",
+  "text": "When Nessian Game Warden enters the battlefield, look at the top X cards of your library, where X is the number of Forests you control. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "132",
+  "artist": "Vincent Proce",
+  "rating": "3.883",
+  "votes": "30"
+}

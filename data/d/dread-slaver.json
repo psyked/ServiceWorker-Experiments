@@ -1,0 +1,13 @@
+{
+  "title": "Dread Slaver",
+  "image": "../img/d/dread-slaver.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie Horror",
+  "text": "Whenever a creature dealt damage by Dread Slaver this turn dies, return it to the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "98",
+  "artist": "Dave Kendall",
+  "rating": "3.413",
+  "votes": "52"
+}

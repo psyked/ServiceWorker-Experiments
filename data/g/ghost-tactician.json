@@ -1,0 +1,13 @@
+{
+  "title": "Ghost Tactician",
+  "image": "../img/g/ghost-tactician.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit Spellshaper",
+  "text": ", , Discard a card: Creatures you control get +1/+0 until end of turn.",
+  "expansion": "Planar Chaos",
+  "rarity": "Common",
+  "cardNumber": "6",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "1.190",
+  "votes": "42"
+}

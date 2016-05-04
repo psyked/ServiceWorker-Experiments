@@ -1,0 +1,13 @@
+{
+  "title": "Kalastria Nightwatch",
+  "image": "../img/k/kalastria-nightwatch.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Vampire Warrior Ally",
+  "text": "Whenever you gain life, Kalastria Nightwatch gains flying until end of turn.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "115",
+  "artist": "Jama Jurabaev",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ivory Guardians",
+  "image": "../img/i/ivory-guardians.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant Cleric",
+  "text": "Protection from redCreatures named Ivory Guardians get +1/+1 as long as an opponent controls a nontoken red permanent.",
+  "expansion": "Masters Edition III",
+  "rarity": "Uncommon",
+  "cardNumber": "15",
+  "artist": "Melissa A. Benson",
+  "rating": "1.622",
+  "votes": "37"
+}

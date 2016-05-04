@@ -1,0 +1,13 @@
+{
+  "title": "Rune of Protection: Blue",
+  "image": "../img/r/rune-ofprotectionblue.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": ": The next time a blue source of your choice would deal damage to you this turn, prevent that damage.Cycling  (, Discard this card: Draw a card.)",
+  "expansion": "Urza's Saga",
+  "rarity": "Common",
+  "cardNumber": "37",
+  "artist": "Scott M. Fischer",
+  "rating": "2.893",
+  "votes": "28"
+}

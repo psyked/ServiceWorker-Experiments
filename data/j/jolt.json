@@ -1,0 +1,13 @@
+{
+  "title": "Jolt",
+  "image": "../img/j/jolt.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "You may tap or untap target artifact, creature, or land.Draw a card at the beginning of the next turn's upkeep.",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "John Matson",
+  "rating": "2.900",
+  "votes": "25"
+}

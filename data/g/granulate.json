@@ -1,0 +1,13 @@
+{
+  "title": "Granulate",
+  "image": "../img/g/granulate.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy each nonland artifact with converted mana cost 4 or less.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Rare",
+  "cardNumber": "67",
+  "artist": "Brian Snoddy",
+  "rating": "3.327",
+  "votes": "26"
+}

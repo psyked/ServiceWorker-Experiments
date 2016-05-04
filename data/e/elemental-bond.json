@@ -1,0 +1,13 @@
+{
+  "title": "Elemental Bond",
+  "image": "../img/e/elemental-bond.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a creature with power 3 or greater enters the battlefield under your control, draw a card.",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "174",
+  "artist": "David Gaillet",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Recover",
+  "image": "../img/r/recover.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Return target creature card from your graveyard to your hand.Draw a card.",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "172",
+  "artist": "Nelson DeCastro",
+  "rating": "3.534",
+  "votes": "44"
+}

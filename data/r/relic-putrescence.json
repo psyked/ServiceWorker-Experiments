@@ -1,0 +1,13 @@
+{
+  "title": "Relic Putrescence",
+  "image": "../img/r/relic-putrescence.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant artifactWhenever enchanted artifact becomes tapped, its controller gets a poison counter.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "77",
+  "artist": "Allen Williams",
+  "rating": "2.250",
+  "votes": "42"
+}

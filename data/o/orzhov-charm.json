@@ -1,0 +1,13 @@
+{
+  "title": "Orzhov Charm",
+  "image": "../img/o/orzhov-charm.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Choose one —• Return target creature you control and all Auras you control attached to it to their owner's hand.• Destroy target creature and you lose life equal to its toughness.• Return target creature card with converted mana cost 1 or less from your graveyard to the battlefield.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "185",
+  "artist": "Zoltan Boros",
+  "rating": "4.025",
+  "votes": "101"
+}

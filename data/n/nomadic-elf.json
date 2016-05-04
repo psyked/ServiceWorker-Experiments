@@ -1,0 +1,13 @@
+{
+  "title": "Nomadic Elf",
+  "image": "../img/n/nomadic-elf.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Nomad",
+  "text": ": Add one mana of any color to your mana pool.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Common",
+  "cardNumber": "38",
+  "artist": "D. J. Cleland-Hura",
+  "rating": "3.000",
+  "votes": "40"
+}

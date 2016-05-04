@@ -1,0 +1,13 @@
+{
+  "title": "Atarka Monument",
+  "image": "../img/a/atarka-monument.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  or  to your mana pool.: Atarka Monument becomes a 4/4 red and green Dragon artifact creature with flying until end of turn.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "235",
+  "artist": "Daniel Ljunggren",
+  "rating": "5",
+  "votes": "0"
+}

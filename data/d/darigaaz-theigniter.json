@@ -1,0 +1,13 @@
+{
+  "title": "Darigaaz, the Igniter",
+  "image": "../img/d/darigaaz-theigniter.jpg",
+  "convertedManaCost": "6",
+  "types": "Legendary Creature  — Dragon",
+  "text": "FlyingWhenever Darigaaz, the Igniter deals combat damage to a player, you may pay . If you do, choose a color, then that player reveals his or her hand and Darigaaz deals damage to the player equal to the number of cards of that color revealed this way.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Rare",
+  "cardNumber": "47",
+  "artist": "Mark Zug",
+  "rating": "4.080",
+  "votes": "69"
+}

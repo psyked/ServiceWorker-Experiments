@@ -1,0 +1,13 @@
+{
+  "title": "Heart-Piercer Bow",
+  "image": "../img/h/heart-piercer-bow.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Whenever equipped creature attacks, Heart-Piercer Bow deals 1 damage to target creature defending player controls.Equip",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "221",
+  "artist": "Franz Vohwinkel",
+  "rating": "2.500",
+  "votes": "2"
+}

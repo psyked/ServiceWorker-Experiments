@@ -1,0 +1,13 @@
+{
+  "title": "Necroplasm",
+  "image": "../img/n/necroplasm.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Ooze",
+  "text": "At the beginning of your upkeep, put a +1/+1 counter on Necroplasm.At the beginning of your end step, destroy each creature with converted mana cost equal to the number of +1/+1 counters on Necroplasm.Dredge 2 (If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "98",
+  "artist": "rk post",
+  "rating": "3.915",
+  "votes": "53"
+}

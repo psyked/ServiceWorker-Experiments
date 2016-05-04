@@ -1,0 +1,13 @@
+{
+  "title": "Armor Sliver",
+  "image": "../img/a/armor-sliver.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Sliver",
+  "text": "All Sliver creatures have \": This creature gets +0/+1 until end of turn.\"",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "4",
+  "artist": "Scott Kirschner",
+  "rating": "5",
+  "votes": "0"
+}

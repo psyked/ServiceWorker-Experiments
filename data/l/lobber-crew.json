@@ -1,0 +1,13 @@
+{
+  "title": "Lobber Crew",
+  "image": "../img/l/lobber-crew.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Defender: Lobber Crew deals 1 damage to each opponent.Whenever you cast a multicolored spell, untap Lobber Crew.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "99",
+  "artist": "Greg Staples",
+  "rating": "3.080",
+  "votes": "56"
+}

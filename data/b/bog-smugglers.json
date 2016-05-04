@@ -1,0 +1,13 @@
+{
+  "title": "Bog Smugglers",
+  "image": "../img/b/bog-smugglers.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Mercenary",
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "117",
+  "artist": "Mike Ploog",
+  "rating": "2.604",
+  "votes": "24"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Gladehart Cavalry",
+  "image": "../img/g/gladehart-cavalry.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Elf Knight",
+  "text": "When Gladehart Cavalry enters the battlefield, support 6. (Put a +1/+1 counter on each of up to six other target creatures.)Whenever a creature you control with a +1/+1 counter on it dies, you gain 2 life.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Rare",
+  "cardNumber": "132",
+  "artist": "Steven Belledin",
+  "rating": "5",
+  "votes": "0"
+}

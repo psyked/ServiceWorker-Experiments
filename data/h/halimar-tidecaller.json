@@ -1,0 +1,13 @@
+{
+  "title": "Halimar Tidecaller",
+  "image": "../img/h/halimar-tidecaller.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard Ally",
+  "text": "When Halimar Tidecaller enters the battlefield, you may return target card with awaken from your graveyard to your hand.Land creatures you control have flying.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "79",
+  "artist": "Magali Villeneuve",
+  "rating": "5",
+  "votes": "0"
+}

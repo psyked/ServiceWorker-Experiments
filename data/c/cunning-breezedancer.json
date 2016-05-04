@@ -1,0 +1,13 @@
+{
+  "title": "Cunning Breezedancer",
+  "image": "../img/c/cunning-breezedancer.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Dragon",
+  "text": "FlyingWhenever you cast a noncreature spell, Cunning Breezedancer gets +2/+2 until end of turn.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "215",
+  "artist": "Todd Lockwood",
+  "rating": "5",
+  "votes": "0"
+}

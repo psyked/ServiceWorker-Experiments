@@ -1,0 +1,13 @@
+{
+  "title": "Lurking Crocodile",
+  "image": "../img/l/lurking-crocodile.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Crocodile",
+  "text": "Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)Islandwalk (This creature can't be blocked as long as defending player controls an Island.)",
+  "expansion": "Magic 2012",
+  "rarity": "Common",
+  "cardNumber": "184",
+  "artist": "Donato Giancola",
+  "rating": "3.096",
+  "votes": "52"
+}

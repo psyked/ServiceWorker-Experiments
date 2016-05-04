@@ -1,0 +1,13 @@
+{
+  "title": "Mercadian Bazaar",
+  "image": "../img/m/mercadian-bazaar.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "Mercadian Bazaar enters the battlefield tapped.: Put a storage counter on Mercadian Bazaar., Remove any number of storage counters from Mercadian Bazaar: Add  to your mana pool for each storage counter removed this way.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "321",
+  "artist": "Terese Nielsen",
+  "rating": "3.133",
+  "votes": "30"
+}

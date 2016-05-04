@@ -1,0 +1,13 @@
+{
+  "title": "Crossway Vampire",
+  "image": "../img/c/crossway-vampire.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Vampire",
+  "text": "When Crossway Vampire enters the battlefield, target creature can't block this turn.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "135",
+  "artist": "Mark Evans",
+  "rating": "3.322",
+  "votes": "59"
+}

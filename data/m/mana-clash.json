@@ -1,0 +1,13 @@
+{
+  "title": "Mana Clash",
+  "image": "../img/m/mana-clash.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "203",
+  "artist": "Ron Spencer",
+  "rating": "3.354",
+  "votes": "48"
+}

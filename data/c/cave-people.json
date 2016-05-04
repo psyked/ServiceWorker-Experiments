@@ -1,0 +1,13 @@
+{
+  "title": "Cave People",
+  "image": "../img/c/cave-people.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human",
+  "text": "Whenever Cave People attacks, it gets +1/-2 until end of turn., : Target creature gains mountainwalk until end of turn. (It can't be blocked as long as defending player controls a Mountain.)",
+  "expansion": "Fifth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Steve Luke",
+  "rating": "2.926",
+  "votes": "27"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Puca's Mischief",
+  "image": "../img/p/pucas-mischief.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, you may exchange control of target nonland permanent you control and target nonland permanent an opponent controls with an equal or lesser converted mana cost.",
+  "expansion": "Shadowmoor",
+  "rarity": "Rare",
+  "cardNumber": "47",
+  "artist": "Scott Altmann",
+  "rating": "3.856",
+  "votes": "52"
+}

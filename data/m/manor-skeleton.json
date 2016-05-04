@@ -1,0 +1,13 @@
+{
+  "title": "Manor Skeleton",
+  "image": "../img/m/manor-skeleton.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Skeleton",
+  "text": "Haste: Regenerate Manor Skeleton.",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "106",
+  "artist": "Eric Deschamps",
+  "rating": "3.008",
+  "votes": "60"
+}

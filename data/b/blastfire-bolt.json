@@ -1,0 +1,13 @@
+{
+  "title": "Blastfire Bolt",
+  "image": "../img/b/blastfire-bolt.jpg",
+  "convertedManaCost": "6",
+  "types": "Instant",
+  "text": "Blastfire Bolt deals 5 damage to target creature. Destroy all Equipment attached to that creature.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "130",
+  "artist": "Phill Simmer",
+  "rating": "2.071",
+  "votes": "7"
+}

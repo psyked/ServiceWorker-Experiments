@@ -1,0 +1,13 @@
+{
+  "title": "Metathran Elite",
+  "image": "../img/m/metathran-elite.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Metathran Soldier",
+  "text": "Metathran Elite can't be blocked as long as it's enchanted.",
+  "expansion": "Urza's Destiny",
+  "rarity": "Uncommon",
+  "cardNumber": "38",
+  "artist": "Jim Nelson",
+  "rating": "3.556",
+  "votes": "36"
+}

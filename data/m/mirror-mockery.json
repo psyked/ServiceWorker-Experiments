@@ -1,0 +1,13 @@
+{
+  "title": "Mirror Mockery",
+  "image": "../img/m/mirror-mockery.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature attacks, you may put a token onto the battlefield that's a copy of that creature. Exile that token at end of combat.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "62",
+  "artist": "Ryan Alexander Lee",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Archers' Parapet",
+  "image": "../img/a/archers-parapet.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Wall",
+  "text": "Defender, : Each opponent loses 1 life.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "128",
+  "artist": "Wayne Reynolds",
+  "rating": "2.600",
+  "votes": "5"
+}

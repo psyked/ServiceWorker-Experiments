@@ -1,0 +1,13 @@
+{
+  "title": "Krovikan Horror",
+  "image": "../img/k/krovikan-horror.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Horror Spirit",
+  "text": "At the beginning of the end step, if Krovikan Horror is in your graveyard with a creature card directly above it, you may return Krovikan Horror to your hand., Sacrifice a creature: Krovikan Horror deals 1 damage to target creature or player.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "101",
+  "artist": "Christopher Rush",
+  "rating": "3.654",
+  "votes": "26"
+}

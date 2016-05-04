@@ -1,0 +1,13 @@
+{
+  "title": "Goblin War Cry",
+  "image": "../img/g/goblin-warcry.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target opponent chooses a creature he or she controls. Other creatures he or she controls can't block this turn.",
+  "expansion": "Portal Second Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Michael Weaver",
+  "rating": "2.250",
+  "votes": "30"
+}

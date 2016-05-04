@@ -1,0 +1,13 @@
+{
+  "title": "Master of Cruelties",
+  "image": "../img/m/master-ofcruelties.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Demon",
+  "text": "First strike, deathtouchMaster of Cruelties can only attack alone.Whenever Master of Cruelties attacks a player and isn't blocked, that player's life total becomes 1. Master of Cruelties assigns no combat damage this combat.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Mythic Rare",
+  "cardNumber": "82",
+  "artist": "Chase Stone",
+  "rating": "3.858",
+  "votes": "134"
+}

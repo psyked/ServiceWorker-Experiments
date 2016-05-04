@@ -1,0 +1,13 @@
+{
+  "title": "Penumbra Bobcat",
+  "image": "../img/p/penumbra-bobcat.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Cat",
+  "text": "When Penumbra Bobcat dies, put a 2/1 black Cat creature token onto the battlefield.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "82",
+  "artist": "Heather Hudson",
+  "rating": "3.596",
+  "votes": "47"
+}

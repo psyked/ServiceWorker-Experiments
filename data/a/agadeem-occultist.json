@@ -1,0 +1,13 @@
+{
+  "title": "Agadeem Occultist",
+  "image": "../img/a/agadeem-occultist.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Shaman Ally",
+  "text": ": Put target creature card from an opponent's graveyard onto the battlefield under your control if its converted mana cost is less than or equal to the number of Allies you control.",
+  "expansion": "Worldwake",
+  "rarity": "Rare",
+  "cardNumber": "48",
+  "artist": "Vance Kovacs",
+  "rating": "3.513",
+  "votes": "76"
+}

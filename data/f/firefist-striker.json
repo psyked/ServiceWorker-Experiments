@@ -1,0 +1,13 @@
+{
+  "title": "Firefist Striker",
+  "image": "../img/f/firefist-striker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Soldier",
+  "text": "Battalion — Whenever Firefist Striker and at least two other creatures attack, target creature can't block this turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "90",
+  "artist": "Tyler Jacobson",
+  "rating": "2.992",
+  "votes": "60"
+}

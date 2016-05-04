@@ -1,0 +1,13 @@
+{
+  "title": "Mardu Blazebringer",
+  "image": "../img/m/mardu-blazebringer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Ogre Warrior",
+  "text": "When Mardu Blazebringer attacks or blocks, sacrifice it at end of combat.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "115",
+  "artist": "Peter Mohrbacher",
+  "rating": "1.500",
+  "votes": "3"
+}

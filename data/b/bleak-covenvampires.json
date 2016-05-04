@@ -1,0 +1,13 @@
+{
+  "title": "Bleak Coven Vampires",
+  "image": "../img/b/bleak-covenvampires.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Vampire Warrior",
+  "text": "Metalcraft — When Bleak Coven Vampires enters the battlefield, if you control three or more artifacts, target player loses 4 life and you gain 4 life.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "55",
+  "artist": "Randis Albion",
+  "rating": "2.692",
+  "votes": "60"
+}

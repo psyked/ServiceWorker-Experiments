@@ -1,0 +1,13 @@
+{
+  "title": "Dwarven Landslide",
+  "image": "../img/d/dwarven-landslide.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Kicker—, Sacrifice a land. (You may pay  and sacrifice a land in addition to any other costs as you cast this spell.)Destroy target land. If Dwarven Landslide was kicked, destroy another target land.",
+  "expansion": "Apocalypse",
+  "rarity": "Common",
+  "cardNumber": "60",
+  "artist": "Tony Szczudlo",
+  "rating": "2.057",
+  "votes": "35"
+}

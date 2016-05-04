@@ -1,0 +1,13 @@
+{
+  "title": "Common Courtesy",
+  "image": "../img/c/common-courtesy.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Counter any spell unless its caster asks your permission to play that spell. If you refuse permission, Sacrifice Common Courtesy and counter the spell.",
+  "expansion": "Unglued",
+  "rarity": "Uncommon",
+  "cardNumber": "21",
+  "artist": "Mike Raabe",
+  "rating": "4.080",
+  "votes": "44"
+}

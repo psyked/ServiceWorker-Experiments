@@ -1,0 +1,13 @@
+{
+  "title": "Piracy Charm",
+  "image": "../img/p/piracy-charm.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Choose one —• Target creature gains islandwalk until end of turn. (It can't be blocked as long as defending player controls an Island.)• Target creature gets +2/-1 until end of turn.• Target player discards a card.",
+  "expansion": "Planar Chaos",
+  "rarity": "Common",
+  "cardNumber": "58",
+  "artist": "John Avon",
+  "rating": "4.087",
+  "votes": "69"
+}

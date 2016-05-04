@@ -1,0 +1,13 @@
+{
+  "title": "Apathy",
+  "image": "../img/a/apathy.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature doesn't untap during its controller's untap step.At the beginning of the upkeep of enchanted creature's controller, that player may discard a card at random. If he or she does, untap that creature.",
+  "expansion": "Weatherlight",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Phil Foglio",
+  "rating": "3.524",
+  "votes": "42"
+}

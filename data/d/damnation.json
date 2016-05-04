@@ -1,0 +1,13 @@
+{
+  "title": "Damnation",
+  "image": "../img/d/damnation.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy all creatures. They can't be regenerated.",
+  "expansion": "Planar Chaos",
+  "rarity": "Rare",
+  "cardNumber": "85",
+  "artist": "Kev Walker",
+  "rating": "4.424",
+  "votes": "408"
+}

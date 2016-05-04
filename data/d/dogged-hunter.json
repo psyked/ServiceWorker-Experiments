@@ -1,0 +1,13 @@
+{
+  "title": "Dogged Hunter",
+  "image": "../img/d/dogged-hunter.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Nomad",
+  "text": ": Destroy target creature token.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "20",
+  "artist": "rk post",
+  "rating": "3.179",
+  "votes": "28"
+}

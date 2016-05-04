@@ -1,0 +1,13 @@
+{
+  "title": "Conduit of Ruin",
+  "image": "../img/c/conduit-ofruin.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Eldrazi",
+  "text": "When you cast Conduit of Ruin, you may search your library for a colorless creature card with converted mana cost 7 or greater, reveal it, then shuffle your library and put that card on top of it.The first creature spell you cast each turn costs  less to cast.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "4",
+  "artist": "Slawomir Maniak",
+  "rating": "5",
+  "votes": "0"
+}

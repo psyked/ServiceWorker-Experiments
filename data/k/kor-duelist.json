@@ -1,0 +1,13 @@
+{
+  "title": "Kor Duelist",
+  "image": "../img/k/kor-duelist.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Kor Soldier",
+  "text": "As long as Kor Duelist is equipped, it has double strike. (It deals both first-strike and regular combat damage.)",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "22",
+  "artist": "Izzy",
+  "rating": "5",
+  "votes": "0"
+}

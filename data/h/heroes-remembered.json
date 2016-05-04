@@ -1,0 +1,13 @@
+{
+  "title": "Heroes Remembered",
+  "image": "../img/h/heroes-remembered.jpg",
+  "convertedManaCost": "9",
+  "types": "Sorcery",
+  "text": "You gain 20 life.Suspend 10— (Rather than cast this card from your hand, you may pay  and exile it with ten time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",
+  "expansion": "Planar Chaos",
+  "rarity": "Rare",
+  "cardNumber": "7",
+  "artist": "Michael Phillippi",
+  "rating": "3.620",
+  "votes": "83"
+}

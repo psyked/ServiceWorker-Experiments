@@ -1,0 +1,13 @@
+{
+  "title": "Gustrider Exuberant",
+  "image": "../img/g/gustrider-exuberant.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "FlyingSacrifice Gustrider Exuberant: Creatures you control with power 5 or greater gain flying until end of turn.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "13",
+  "artist": "Wayne Reynolds",
+  "rating": "2.021",
+  "votes": "47"
+}

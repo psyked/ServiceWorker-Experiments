@@ -1,0 +1,13 @@
+{
+  "title": "Marrow Bats",
+  "image": "../img/m/marrow-bats.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bat Skeleton",
+  "text": "FlyingPay 4 life: Regenerate Marrow Bats.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "82",
+  "artist": "Jason A. Engle",
+  "rating": "1.528",
+  "votes": "18"
+}

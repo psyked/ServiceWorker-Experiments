@@ -1,0 +1,13 @@
+{
+  "title": "Grassland Crusader",
+  "image": "../img/g/grassland-crusader.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Human Cleric Soldier",
+  "text": ": Target Elf or Soldier creature gets +2/+2 until end of turn.",
+  "expansion": "Onslaught",
+  "rarity": "Common",
+  "cardNumber": "32",
+  "artist": "Mark Tedin",
+  "rating": "1.071",
+  "votes": "42"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Flameshadow Conjuring",
+  "image": "../img/f/flameshadow-conjuring.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever a nontoken creature enters the battlefield under your control, you may pay . If you do, put a token onto the battlefield that's a copy of that creature. That token gains haste. Exile it at the beginning of the next end step.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "147",
+  "artist": "Seb McKinnon",
+  "rating": "5",
+  "votes": "0"
+}

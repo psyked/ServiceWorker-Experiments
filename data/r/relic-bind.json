@@ -1,0 +1,13 @@
+{
+  "title": "Relic Bind",
+  "image": "../img/r/relic-bind.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant artifact an opponent controlsWhenever enchanted artifact becomes tapped, choose one —• Relic Bind deals 1 damage to target player.• Target player gains 1 life.",
+  "expansion": "Fourth Edition",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Christopher Rush",
+  "rating": "2.042",
+  "votes": "24"
+}

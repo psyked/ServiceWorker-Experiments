@@ -1,0 +1,13 @@
+{
+  "title": "Animal Boneyard",
+  "image": "../img/a/animal-boneyard.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landEnchanted land has \", Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.\"",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "4",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "2.732",
+  "votes": "28"
+}

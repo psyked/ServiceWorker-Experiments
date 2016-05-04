@@ -1,0 +1,13 @@
+{
+  "title": "Cloud Cover",
+  "image": "../img/c/cloud-cover.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever another permanent you control becomes the target of a spell or ability an opponent controls, you may return that permanent to its owner's hand.",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "98",
+  "artist": "Marc Fishman",
+  "rating": "4.304",
+  "votes": "51"
+}

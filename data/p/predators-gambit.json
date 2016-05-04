@@ -1,0 +1,13 @@
+{
+  "title": "Predator's Gambit",
+  "image": "../img/p/predators-gambit.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+1.Enchanted creature has intimidate as long as its controller controls no other creatures. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "117",
+  "artist": "Zoltan Boros",
+  "rating": "3.052",
+  "votes": "48"
+}

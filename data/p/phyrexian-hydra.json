@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Hydra",
+  "image": "../img/p/phyrexian-hydra.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Hydra",
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)If damage would be dealt to Phyrexian Hydra, prevent that damage. Put a -1/-1 counter on Phyrexian Hydra for each 1 damage prevented this way.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Rare",
+  "cardNumber": "85",
+  "artist": "Mike Bierek",
+  "rating": "3.615",
+  "votes": "109"
+}

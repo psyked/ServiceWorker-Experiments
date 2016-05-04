@@ -1,0 +1,13 @@
+{
+  "title": "Chartooth Cougar",
+  "image": "../img/c/chartooth-cougar.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Cat Beast",
+  "text": ": Chartooth Cougar gets +1/+0 until end of turn.Mountaincycling  (, Discard this card: Search your library for a Mountain card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Common",
+  "cardNumber": "47",
+  "artist": "Tony Szczudlo",
+  "rating": "5",
+  "votes": "0"
+}

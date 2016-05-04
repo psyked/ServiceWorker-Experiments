@@ -1,0 +1,13 @@
+{
+  "title": "Arachnus Web",
+  "image": "../img/a/arachnus-web.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature can't attack or block, and its activated abilities can't be activated.At the beginning of the end step, if enchanted creature's power is 4 or greater, destroy Arachnus Web.",
+  "expansion": "Magic 2012",
+  "rarity": "Common",
+  "cardNumber": "163",
+  "artist": "Karl Kopinski",
+  "rating": "3.556",
+  "votes": "54"
+}

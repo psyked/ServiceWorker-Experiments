@@ -1,0 +1,13 @@
+{
+  "title": "Necromancer's Assistant",
+  "image": "../img/n/necromancers-assistant.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": "When Necromancer's Assistant enters the battlefield, put the top three cards of your library into your graveyard.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "107",
+  "artist": "Svetlin Velinov",
+  "rating": "1.571",
+  "votes": "7"
+}

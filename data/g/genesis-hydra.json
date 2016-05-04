@@ -1,0 +1,13 @@
+{
+  "title": "Genesis Hydra",
+  "image": "../img/g/genesis-hydra.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Plant Hydra",
+  "text": "When you cast Genesis Hydra, reveal the top X cards of your library. You may put a nonland permanent card with converted mana cost X or less from among them onto the battlefield. Then shuffle the rest into your library.Genesis Hydra enters the battlefield with X +1/+1 counters on it.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "176",
+  "artist": "Peter Mohrbacher",
+  "rating": "3.688",
+  "votes": "8"
+}

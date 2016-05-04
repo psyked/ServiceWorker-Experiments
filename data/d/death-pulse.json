@@ -1,0 +1,13 @@
+{
+  "title": "Death Pulse",
+  "image": "../img/d/death-pulse.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Target creature gets -4/-4 until end of turn.Cycling  (, Discard this card: Draw a card.)When you cycle Death Pulse, you may have target creature get -1/-1 until end of turn.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "137",
+  "artist": "Tony Szczudlo",
+  "rating": "3.704",
+  "votes": "27"
+}

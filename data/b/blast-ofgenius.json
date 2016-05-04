@@ -1,0 +1,13 @@
+{
+  "title": "Blast of Genius",
+  "image": "../img/b/blast-ofgenius.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Choose target creature or player. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card's converted mana cost to that creature or player.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Uncommon",
+  "cardNumber": "55",
+  "artist": "Terese Nielsen",
+  "rating": "3.325",
+  "votes": "60"
+}

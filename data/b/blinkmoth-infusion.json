@@ -1,0 +1,13 @@
+{
+  "title": "Blinkmoth Infusion",
+  "image": "../img/b/blinkmoth-infusion.jpg",
+  "convertedManaCost": "14",
+  "types": "Instant",
+  "text": "Affinity for artifacts (This spell costs  less to cast for each artifact you control.)Untap all artifacts.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Rare",
+  "cardNumber": "25",
+  "artist": "Alan Pollack",
+  "rating": "3.587",
+  "votes": "75"
+}

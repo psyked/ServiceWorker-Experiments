@@ -1,0 +1,13 @@
+{
+  "title": "Gaea's Liege",
+  "image": "../img/g/gaeas-liege.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Avatar",
+  "text": "As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.: Target land becomes a Forest until Gaea's Liege leaves the battlefield.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "78",
+  "artist": "Dameon Willich",
+  "rating": "3.442",
+  "votes": "60"
+}

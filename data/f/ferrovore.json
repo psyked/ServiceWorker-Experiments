@@ -1,0 +1,13 @@
+{
+  "title": "Ferrovore",
+  "image": "../img/f/ferrovore.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Beast",
+  "text": ", Sacrifice an artifact: Ferrovore gets +3/+0 until end of turn.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "88",
+  "artist": "Austin Hsu",
+  "rating": "2.857",
+  "votes": "56"
+}

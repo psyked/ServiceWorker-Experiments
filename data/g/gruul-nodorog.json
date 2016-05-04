@@ -1,0 +1,13 @@
+{
+  "title": "Gruul Nodorog",
+  "image": "../img/g/gruul-nodorog.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Beast",
+  "text": ": Gruul Nodorog gains menace until end of turn. (It can't be blocked except by two or more creatures.)",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "88",
+  "artist": "Pete Venters",
+  "rating": "1.600",
+  "votes": "45"
+}

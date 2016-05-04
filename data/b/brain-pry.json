@@ -1,0 +1,13 @@
+{
+  "title": "Brain Pry",
+  "image": "../img/b/brain-pry.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Name a nonland card. Target player reveals his or her hand. That player discards a card with that name. If he or she can't, you draw a card.",
+  "expansion": "Dissension",
+  "rarity": "Uncommon",
+  "cardNumber": "39",
+  "artist": "Jim Nelson",
+  "rating": "3.212",
+  "votes": "40"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Despoil",
+  "image": "../img/d/despoil.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy target land. Its controller loses 2 life.",
+  "expansion": "Prophecy",
+  "rarity": "Common",
+  "cardNumber": "62",
+  "artist": "Scott M. Fischer",
+  "rating": "3.794",
+  "votes": "34"
+}

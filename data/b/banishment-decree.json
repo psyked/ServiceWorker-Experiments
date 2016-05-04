@@ -1,0 +1,13 @@
+{
+  "title": "Banishment Decree",
+  "image": "../img/b/banishment-decree.jpg",
+  "convertedManaCost": "5",
+  "types": "Instant",
+  "text": "Put target artifact, creature, or enchantment on top of its owner's library.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Common",
+  "cardNumber": "3",
+  "artist": "James Ryman",
+  "rating": "1.953",
+  "votes": "96"
+}

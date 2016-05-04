@@ -1,0 +1,13 @@
+{
+  "title": "Lich Lord of Unx",
+  "image": "../img/l/lich-lordofunx.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie Wizard",
+  "text": ", : Put a 1/1 blue and black Zombie Wizard creature token onto the battlefield.: Target player loses X life and puts the top X cards of his or her library into his or her graveyard, where X is the number of Zombies you control.",
+  "expansion": "Alara Reborn",
+  "rarity": "Rare",
+  "cardNumber": "24",
+  "artist": "Dave Allsop",
+  "rating": "3.662",
+  "votes": "145"
+}

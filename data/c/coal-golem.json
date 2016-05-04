@@ -1,0 +1,13 @@
+{
+  "title": "Coal Golem",
+  "image": "../img/c/coal-golem.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Golem",
+  "text": ", Sacrifice Coal Golem: Add  to your mana pool.",
+  "expansion": "Masters Edition III",
+  "rarity": "Common",
+  "cardNumber": "193",
+  "artist": "Christopher Rush",
+  "rating": "2.172",
+  "votes": "32"
+}

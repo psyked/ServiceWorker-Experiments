@@ -1,0 +1,13 @@
+{
+  "title": "Malicious Affliction",
+  "image": "../img/m/malicious-affliction.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Morbid — When you cast Malicious Affliction, if a creature died this turn, you may copy Malicious Affliction and may choose a new target for the copy.Destroy target nonblack creature.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "25",
+  "artist": "Erica Yang",
+  "rating": "5",
+  "votes": "0"
+}

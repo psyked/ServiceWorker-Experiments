@@ -1,0 +1,13 @@
+{
+  "title": "Irresistible Prey",
+  "image": "../img/i/irresistible-prey.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Target creature must be blocked this turn if able.Draw a card.",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "188",
+  "artist": "Jesper Ejsing",
+  "rating": "3.290",
+  "votes": "62"
+}

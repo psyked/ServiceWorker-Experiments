@@ -1,0 +1,13 @@
+{
+  "title": "Quarry Colossus",
+  "image": "../img/q/quarry-colossus.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Giant",
+  "text": "When Quarry Colossus enters the battlefield, put target creature into its owner's library just beneath the top X cards of that library, where X is the number of Plains you control.",
+  "expansion": "Journey into Nyx",
+  "rarity": "Uncommon",
+  "cardNumber": "22",
+  "artist": "Todd Lockwood",
+  "rating": "3.615",
+  "votes": "26"
+}

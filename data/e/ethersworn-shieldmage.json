@@ -1,0 +1,13 @@
+{
+  "title": "Ethersworn Shieldmage",
+  "image": "../img/e/ethersworn-shieldmage.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Vedalken Wizard",
+  "text": "FlashWhen Ethersworn Shieldmage enters the battlefield, prevent all damage that would be dealt to artifact creatures this turn.",
+  "expansion": "Archenemy",
+  "rarity": "Common",
+  "cardNumber": "84",
+  "artist": "Daarken",
+  "rating": "2.870",
+  "votes": "46"
+}

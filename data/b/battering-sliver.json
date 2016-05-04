@@ -1,0 +1,13 @@
+{
+  "title": "Battering Sliver",
+  "image": "../img/b/battering-sliver.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Sliver",
+  "text": "All Sliver creatures have trample.",
+  "expansion": "Planar Chaos",
+  "rarity": "Common",
+  "cardNumber": "95",
+  "artist": "Greg Staples",
+  "rating": "2.856",
+  "votes": "52"
+}

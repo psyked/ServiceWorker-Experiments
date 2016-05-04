@@ -1,0 +1,13 @@
+{
+  "title": "Dauthi Ghoul",
+  "image": "../img/d/dauthi-ghoul.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Dauthi Zombie",
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)Whenever a creature with shadow dies, put a +1/+1 counter on Dauthi Ghoul.",
+  "expansion": "Tempest",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Tom Kyffin",
+  "rating": "3.897",
+  "votes": "39"
+}

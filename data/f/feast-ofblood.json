@@ -1,0 +1,13 @@
+{
+  "title": "Feast of Blood",
+  "image": "../img/f/feast-ofblood.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Cast Feast of Blood only if you control two or more Vampires.Destroy target creature. You gain 4 life.",
+  "expansion": "Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "88",
+  "artist": "Jason Felix",
+  "rating": "3.862",
+  "votes": "127"
+}

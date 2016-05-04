@@ -1,0 +1,13 @@
+{
+  "title": "Aspect of Gorgon",
+  "image": "../img/a/aspect-ofgorgon.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+3 and has deathtouch. (Any amount of damage it deals to a creature is enough to destroy it.)",
+  "expansion": "Journey into Nyx",
+  "rarity": "Common",
+  "cardNumber": "60",
+  "artist": "Willian Murai",
+  "rating": "2.879",
+  "votes": "29"
+}

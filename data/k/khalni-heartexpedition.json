@@ -1,0 +1,13 @@
+{
+  "title": "Khalni Heart Expedition",
+  "image": "../img/k/khalni-heartexpedition.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Khalni Heart Expedition.Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "18",
+  "artist": "Jason Chan",
+  "rating": "5",
+  "votes": "0"
+}

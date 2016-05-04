@@ -1,0 +1,13 @@
+{
+  "title": "Frenzied Tilling",
+  "image": "../img/f/frenzied-tilling.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Destroy target land. Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "166",
+  "artist": "Noah Bradley",
+  "rating": "3.302",
+  "votes": "48"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Craterhoof Behemoth",
+  "image": "../img/c/craterhoof-behemoth.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Beast",
+  "text": "HasteWhen Craterhoof Behemoth enters the battlefield, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Mythic Rare",
+  "cardNumber": "172",
+  "artist": "Chris Rahn",
+  "rating": "3.971",
+  "votes": "119"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Electrickery",
+  "image": "../img/e/electrickery.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Electrickery deals 1 damage to target creature you don't control.Overload  (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "93",
+  "artist": "Greg Staples",
+  "rating": "3.604",
+  "votes": "77"
+}

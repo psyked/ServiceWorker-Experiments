@@ -1,0 +1,13 @@
+{
+  "title": "Roaring Slagwurm",
+  "image": "../img/r/roaring-slagwurm.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Wurm",
+  "text": "Whenever Roaring Slagwurm attacks, tap all artifacts.",
+  "expansion": "Darksteel",
+  "rarity": "Rare",
+  "cardNumber": "83",
+  "artist": "David Martin",
+  "rating": "3.198",
+  "votes": "43"
+}

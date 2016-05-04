@@ -1,0 +1,13 @@
+{
+  "title": "Ghost Hounds",
+  "image": "../img/g/ghost-hounds.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Hound Spirit",
+  "text": "VigilanceWhenever Ghost Hounds blocks or becomes blocked by a white creature, Ghost Hounds gains first strike until end of turn.",
+  "expansion": "Homelands",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Jeff A. Menges",
+  "rating": "2.807",
+  "votes": "44"
+}

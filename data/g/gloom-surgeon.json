@@ -1,0 +1,13 @@
+{
+  "title": "Gloom Surgeon",
+  "image": "../img/g/gloom-surgeon.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": "If combat damage would be dealt to Gloom Surgeon, prevent that damage and exile that many cards from the top of your library.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "104",
+  "artist": "Volkan Baga",
+  "rating": "2.973",
+  "votes": "74"
+}

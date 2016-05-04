@@ -1,0 +1,13 @@
+{
+  "title": "Musician",
+  "image": "../img/m/musician.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "Cumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.): Put a music counter on target creature. If it doesn't have \"At the beginning of your upkeep, destroy this creature unless you pay  for each music counter on it,\" it gains that ability.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "56",
+  "artist": "Drew Tucker",
+  "rating": "2.942",
+  "votes": "26"
+}

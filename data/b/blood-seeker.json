@@ -1,0 +1,13 @@
+{
+  "title": "Blood Seeker",
+  "image": "../img/b/blood-seeker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Vampire Shaman",
+  "text": "Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.",
+  "expansion": "Magic 2012",
+  "rarity": "Common",
+  "cardNumber": "81",
+  "artist": "Greg Staples",
+  "rating": "3.386",
+  "votes": "66"
+}

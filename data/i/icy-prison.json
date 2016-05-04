@@ -1,0 +1,13 @@
+{
+  "title": "Icy Prison",
+  "image": "../img/i/icy-prison.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "When Icy Prison enters the battlefield, exile target creature.At the beginning of your upkeep, sacrifice Icy Prison unless any player pays .When Icy Prison leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+  "expansion": "Masters Edition II",
+  "rarity": "Common",
+  "cardNumber": "50",
+  "artist": "Anson Maddocks",
+  "rating": "3.429",
+  "votes": "21"
+}

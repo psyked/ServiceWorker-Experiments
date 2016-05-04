@@ -1,0 +1,13 @@
+{
+  "title": "Phyrexian Scuta",
+  "image": "../img/p/phyrexian-scuta.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie",
+  "text": "Kicker—Pay 3 life. (You may pay 3 life in addition to any other costs as you cast this spell.)If Phyrexian Scuta was kicked, it enters the battlefield with two +1/+1 counters on it.",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "51",
+  "artist": "Scott M. Fischer",
+  "rating": "3.845",
+  "votes": "58"
+}

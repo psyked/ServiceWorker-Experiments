@@ -1,0 +1,13 @@
+{
+  "title": "Amrou Kithkin",
+  "image": "../img/a/amrou-kithkin.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kithkin",
+  "text": "Amrou Kithkin can't be blocked by creatures with power 3 or greater.",
+  "expansion": "Masters Edition III",
+  "rarity": "Common",
+  "cardNumber": "3",
+  "artist": "Quinton Hoover",
+  "rating": "3.044",
+  "votes": "45"
+}

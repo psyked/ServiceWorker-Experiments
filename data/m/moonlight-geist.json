@@ -1,0 +1,13 @@
+{
+  "title": "Moonlight Geist",
+  "image": "../img/m/moonlight-geist.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "Flying: Prevent all combat damage that would be dealt to and dealt by Moonlight Geist this turn.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "29",
+  "artist": "Dan Scott",
+  "rating": "2.062",
+  "votes": "32"
+}

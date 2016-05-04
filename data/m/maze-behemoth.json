@@ -1,0 +1,13 @@
+{
+  "title": "Maze Behemoth",
+  "image": "../img/m/maze-behemoth.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Elemental",
+  "text": "TrampleMulticolored creatures you control have trample.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Common",
+  "cardNumber": "43",
+  "artist": "Yeong-Hao Han",
+  "rating": "2.857",
+  "votes": "21"
+}

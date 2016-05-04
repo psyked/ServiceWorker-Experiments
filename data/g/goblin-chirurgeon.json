@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Chirurgeon",
+  "image": "../img/g/goblin-chirurgeon.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Shaman",
+  "text": "Sacrifice a Goblin: Regenerate target creature.",
+  "expansion": "Masters Edition",
+  "rarity": "Common",
+  "cardNumber": "94",
+  "artist": "Dan Frazier",
+  "rating": "3.890",
+  "votes": "41"
+}

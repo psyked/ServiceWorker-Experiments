@@ -1,0 +1,13 @@
+{
+  "title": "Balduvian Frostwaker",
+  "image": "../img/b/balduvian-frostwaker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": ", : Target snow land becomes a 2/2 blue Elemental creature with flying. It's still a land.",
+  "expansion": "Coldsnap",
+  "rarity": "Uncommon",
+  "cardNumber": "28",
+  "artist": "Stephen Tappin",
+  "rating": "3.370",
+  "votes": "46"
+}

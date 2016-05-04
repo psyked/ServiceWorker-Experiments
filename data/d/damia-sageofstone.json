@@ -1,0 +1,13 @@
+{
+  "title": "Damia, Sage of Stone",
+  "image": "../img/d/damia-sageofstone.jpg",
+  "convertedManaCost": "7",
+  "types": "Legendary Creature  — Gorgon Wizard",
+  "text": "DeathtouchSkip your draw step.At the beginning of your upkeep, if you have fewer than seven cards in hand, draw cards equal to the difference.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Mythic Rare",
+  "cardNumber": "191",
+  "artist": "Steve Argyle",
+  "rating": "4.024",
+  "votes": "143"
+}

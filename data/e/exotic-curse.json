@@ -1,0 +1,13 @@
+{
+  "title": "Exotic Curse",
+  "image": "../img/e/exotic-curse.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureDomain — Enchanted creature gets -1/-1 for each basic land type among lands you control.",
+  "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Dany Orizio",
+  "rating": "3.022",
+  "votes": "23"
+}

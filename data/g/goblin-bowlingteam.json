@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Bowling Team",
+  "image": "../img/g/goblin-bowlingteam.jpg",
+  "convertedManaCost": "4",
+  "types": "Summon — Goblins",
+  "text": "Whenever Goblin Bowling Team damages any creature or player, roll a six-sided die. Goblin Bowling Team deals to that creature or player additional damage equal to the die roll.",
+  "expansion": "Unglued",
+  "rarity": "Common",
+  "cardNumber": "44",
+  "artist": "Pete Venters",
+  "rating": "3.523",
+  "votes": "22"
+}

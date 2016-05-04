@@ -1,0 +1,13 @@
+{
+  "title": "Callous Oppressor",
+  "image": "../img/c/callous-oppressor.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Cephalid",
+  "text": "You may choose not to untap Callous Oppressor during your untap step.As Callous Oppressor enters the battlefield, an opponent chooses a creature type.: Gain control of target creature that isn't of the chosen type for as long as Callous Oppressor remains tapped.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "72",
+  "artist": "Justin Sweet",
+  "rating": "3.514",
+  "votes": "36"
+}

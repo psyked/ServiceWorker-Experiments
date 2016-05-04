@@ -1,0 +1,13 @@
+{
+  "title": "Disrupt",
+  "image": "../img/d/disrupt.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Counter target instant or sorcery spell unless its controller pays .Draw a card.",
+  "expansion": "Invasion",
+  "rarity": "Uncommon",
+  "cardNumber": "51",
+  "artist": "Paolo Parente",
+  "rating": "4.475",
+  "votes": "79"
+}

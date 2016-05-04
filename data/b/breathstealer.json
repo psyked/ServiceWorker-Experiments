@@ -1,0 +1,13 @@
+{
+  "title": "Breathstealer",
+  "image": "../img/b/breathstealer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Nightstalker",
+  "text": ": Breathstealer gets +1/-1 until end of turn.",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Cliff Nielsen",
+  "rating": "2.608",
+  "votes": "37"
+}

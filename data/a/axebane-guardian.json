@@ -1,0 +1,13 @@
+{
+  "title": "Axebane Guardian",
+  "image": "../img/a/axebane-guardian.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Druid",
+  "text": "Defender: Add X mana in any combination of colors to your mana pool, where X is the number of creatures with defender you control.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "115",
+  "artist": "Slawomir Maniak",
+  "rating": "3.306",
+  "votes": "80"
+}

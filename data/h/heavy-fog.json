@@ -1,0 +1,13 @@
+{
+  "title": "Heavy Fog",
+  "image": "../img/h/heavy-fog.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Cast Heavy Fog only during the declare attackers step and only if you've been attacked this step.Prevent all damage that would be dealt to you this turn by attacking creatures.",
+  "expansion": "Masters Edition III",
+  "rarity": "Common",
+  "cardNumber": "122",
+  "artist": "Liu Shangying",
+  "rating": "1.554",
+  "votes": "28"
+}

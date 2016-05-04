@@ -1,0 +1,13 @@
+{
+  "title": "Rats of Rath",
+  "image": "../img/r/rats-ofrath.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Rat",
+  "text": ": Destroy target artifact, creature, or land you control.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "John Matson",
+  "rating": "5",
+  "votes": "0"
+}

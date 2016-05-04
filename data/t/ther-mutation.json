@@ -1,0 +1,13 @@
+{
+  "title": "Æther Mutation",
+  "image": "../img/t/ther-mutation.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Return target creature to its owner's hand. Put X 1/1 green Saproling creature tokens onto the battlefield, where X is that creature's converted mana cost.",
+  "expansion": "Vintage Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "241",
+  "artist": "Ron Spencer",
+  "rating": "3.500",
+  "votes": "3"
+}

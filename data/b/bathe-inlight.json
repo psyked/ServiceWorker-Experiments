@@ -1,0 +1,13 @@
+{
+  "title": "Bathe in Light",
+  "image": "../img/b/bathe-inlight.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Radiance — Choose a color. Target creature and each other creature that shares a color with it gain protection from the chosen color until end of turn.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Uncommon",
+  "cardNumber": "9",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "3.000",
+  "votes": "26"
+}

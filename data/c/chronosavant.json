@@ -1,0 +1,13 @@
+{
+  "title": "Chronosavant",
+  "image": "../img/c/chronosavant.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant",
+  "text": ": Return Chronosavant from your graveyard to the battlefield tapped. You skip your next turn.",
+  "expansion": "Time Spiral",
+  "rarity": "Rare",
+  "cardNumber": "9",
+  "artist": "Pete Venters",
+  "rating": "1.734",
+  "votes": "62"
+}

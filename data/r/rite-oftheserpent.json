@@ -1,0 +1,13 @@
+{
+  "title": "Rite of the Serpent",
+  "image": "../img/r/rite-oftheserpent.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Destroy target creature. If that creature had a +1/+1 counter on it, put a 1/1 green Snake creature token onto the battlefield.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "86",
+  "artist": "Seb McKinnon",
+  "rating": "2.250",
+  "votes": "2"
+}

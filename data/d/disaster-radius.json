@@ -1,0 +1,13 @@
+{
+  "title": "Disaster Radius",
+  "image": "../img/d/disaster-radius.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Disaster Radius, reveal a creature card from your hand.Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "150",
+  "artist": "James Paick",
+  "rating": "5",
+  "votes": "0"
+}

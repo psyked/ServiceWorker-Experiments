@@ -1,0 +1,13 @@
+{
+  "title": "Fortress Cyclops",
+  "image": "../img/f/fortress-cyclops.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Cyclops Soldier",
+  "text": "Whenever Fortress Cyclops attacks, it gets +3/+0 until end of turn.Whenever Fortress Cyclops blocks, it gets +0/+3 until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "164",
+  "artist": "Maciej Kuciara",
+  "rating": "2.892",
+  "votes": "51"
+}

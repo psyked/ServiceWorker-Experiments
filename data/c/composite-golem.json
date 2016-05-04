@@ -1,0 +1,13 @@
+{
+  "title": "Composite Golem",
+  "image": "../img/c/composite-golem.jpg",
+  "convertedManaCost": "6",
+  "types": "Artifact Creature  — Golem",
+  "text": "Sacrifice Composite Golem: Add  to your mana pool.",
+  "expansion": "Tenth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "318",
+  "artist": "Mark Tedin",
+  "rating": "4.014",
+  "votes": "73"
+}

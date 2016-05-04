@@ -1,0 +1,13 @@
+{
+  "title": "Dreg Mangler",
+  "image": "../img/d/dreg-mangler.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Plant Zombie",
+  "text": "HasteScavenge  (, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "158",
+  "artist": "Peter Mohrbacher",
+  "rating": "4.012",
+  "votes": "129"
+}

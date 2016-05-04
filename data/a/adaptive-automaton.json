@@ -1,0 +1,13 @@
+{
+  "title": "Adaptive Automaton",
+  "image": "../img/a/adaptive-automaton.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Construct",
+  "text": "As Adaptive Automaton enters the battlefield, choose a creature type.Adaptive Automaton is the chosen type in addition to its other types.Other creatures you control of the chosen type get +1/+1.",
+  "expansion": "Magic 2012",
+  "rarity": "Rare",
+  "cardNumber": "201",
+  "artist": "Igor Kieryluk",
+  "rating": "4.199",
+  "votes": "163"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Grave Scrabbler",
+  "image": "../img/g/grave-scrabbler.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Zombie",
+  "text": "Madness  (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)When Grave Scrabbler enters the battlefield, if its madness cost was paid, you may return target creature card from a graveyard to its owner's hand.",
+  "expansion": "Future Sight",
+  "rarity": "Common",
+  "cardNumber": "86",
+  "artist": "Dave Allsop",
+  "rating": "3.227",
+  "votes": "44"
+}

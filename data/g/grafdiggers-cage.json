@@ -1,0 +1,13 @@
+{
+  "title": "Grafdigger's Cage",
+  "image": "../img/g/grafdiggers-cage.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": "Creature cards can't enter the battlefield from graveyards or libraries.Players can't cast cards in graveyards or libraries.",
+  "expansion": "Dark Ascension",
+  "rarity": "Rare",
+  "cardNumber": "149",
+  "artist": "Daniel Ljunggren",
+  "rating": "4.050",
+  "votes": "169"
+}

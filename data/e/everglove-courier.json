@@ -1,0 +1,13 @@
+{
+  "title": "Everglove Courier",
+  "image": "../img/e/everglove-courier.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf",
+  "text": "You may choose not to untap Everglove Courier during your untap step., : Target Elf creature gets +2/+2 and has trample for as long as Everglove Courier remains tapped.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "262",
+  "artist": "Darrell Riche",
+  "rating": "2.788",
+  "votes": "26"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Butcher of Malakir",
+  "image": "../img/b/butcher-ofmalakir.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Vampire Warrior",
+  "text": "FlyingWhenever Butcher of Malakir or another creature you control dies, each opponent sacrifices a creature.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "118",
+  "artist": "Jason Chan",
+  "rating": "5",
+  "votes": "0"
+}

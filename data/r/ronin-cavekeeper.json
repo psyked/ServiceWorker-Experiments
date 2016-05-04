@@ -1,0 +1,13 @@
+{
+  "title": "Ronin Cavekeeper",
+  "image": "../img/r/ronin-cavekeeper.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Human Samurai",
+  "text": "Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "Paolo Parente",
+  "rating": "2.156",
+  "votes": "32"
+}

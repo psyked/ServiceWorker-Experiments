@@ -1,0 +1,13 @@
+{
+  "title": "Cardpecker",
+  "image": "../img/c/cardpecker.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature — Bird",
+  "text": "FlyingGotcha Whenever an opponent touches the table with his or her hand, you may say \"Gotcha\" If you do, return Cardpecker from your graveyard to your hand.",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "4",
+  "artist": "Richard Sardinha",
+  "rating": "3.674",
+  "votes": "23"
+}

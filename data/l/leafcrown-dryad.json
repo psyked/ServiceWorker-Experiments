@@ -1,0 +1,13 @@
+{
+  "title": "Leafcrown Dryad",
+  "image": "../img/l/leafcrown-dryad.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment Creature  — Nymph Dryad",
+  "text": "Bestow  (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)ReachEnchanted creature gets +2/+2 and has reach.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "161",
+  "artist": "Volkan Baga",
+  "rating": "3.474",
+  "votes": "39"
+}

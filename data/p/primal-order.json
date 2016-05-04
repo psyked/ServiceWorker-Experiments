@@ -1,0 +1,13 @@
+{
+  "title": "Primal Order",
+  "image": "../img/p/primal-order.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of each player's upkeep, Primal Order deals damage to that player equal to the number of nonbasic lands he or she controls.",
+  "expansion": "Masters Edition",
+  "rarity": "Rare",
+  "cardNumber": "125",
+  "artist": "Rob Alexander",
+  "rating": "3.866",
+  "votes": "41"
+}

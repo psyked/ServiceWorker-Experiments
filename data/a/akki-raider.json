@@ -1,0 +1,13 @@
+{
+  "title": "Akki Raider",
+  "image": "../img/a/akki-raider.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Whenever a land is put into a graveyard from the battlefield, Akki Raider gets +1/+0 until end of turn.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "92",
+  "artist": "Martina Pilcerova",
+  "rating": "2.000",
+  "votes": "31"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Infiltrate",
+  "image": "../img/i/infiltrate.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Target creature can't be blocked this turn.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "33",
+  "artist": "Nelson DeCastro",
+  "rating": "3.216",
+  "votes": "44"
+}

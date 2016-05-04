@@ -1,0 +1,13 @@
+{
+  "title": "Epiphany Storm",
+  "image": "../img/e/epiphany-storm.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has \", , Discard a card: Draw a card.\"",
+  "expansion": "Born of the Gods",
+  "rarity": "Common",
+  "cardNumber": "91",
+  "artist": "Clint Cearley",
+  "rating": "2.652",
+  "votes": "23"
+}

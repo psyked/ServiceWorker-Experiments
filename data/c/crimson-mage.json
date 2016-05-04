@@ -1,0 +1,13 @@
+{
+  "title": "Crimson Mage",
+  "image": "../img/c/crimson-mage.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Shaman",
+  "text": ": Target creature you control gains haste until end of turn. (It can attack and  this turn.)",
+  "expansion": "Magic 2012",
+  "rarity": "Uncommon",
+  "cardNumber": "129",
+  "artist": "Izzy",
+  "rating": "3.636",
+  "votes": "59"
+}

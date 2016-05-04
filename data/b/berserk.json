@@ -1,0 +1,13 @@
+{
+  "title": "Berserk",
+  "image": "../img/b/berserk.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Cast Berserk only before the combat damage step.Target creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "197",
+  "artist": "Steve Prescott",
+  "rating": "3.750",
+  "votes": "4"
+}

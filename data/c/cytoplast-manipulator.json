@@ -1,0 +1,13 @@
+{
+  "title": "Cytoplast Manipulator",
+  "image": "../img/c/cytoplast-manipulator.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Wizard Mutant",
+  "text": "Graft 2 (This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.), : Gain control of target creature with a +1/+1 counter on it for as long as Cytoplast Manipulator remains on the battlefield.",
+  "expansion": "Dissension",
+  "rarity": "Rare",
+  "cardNumber": "23",
+  "artist": "Dan Scott",
+  "rating": "4.071",
+  "votes": "84"
+}

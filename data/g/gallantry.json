@@ -1,0 +1,13 @@
+{
+  "title": "Gallantry",
+  "image": "../img/g/gallantry.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target blocking creature gets +4/+4 until end of turn.Draw a card.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "14",
+  "artist": "Douglas Shuler",
+  "rating": "5",
+  "votes": "0"
+}

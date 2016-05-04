@@ -1,0 +1,13 @@
+{
+  "title": "Curse of Exhaustion",
+  "image": "../img/c/curse-ofexhaustion.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura Curse",
+  "text": "Enchant playerEnchanted player can't cast more than one spell each turn.",
+  "expansion": "Dark Ascension",
+  "rarity": "Uncommon",
+  "cardNumber": "5",
+  "artist": "Slawomir Maniak",
+  "rating": "3.942",
+  "votes": "86"
+}

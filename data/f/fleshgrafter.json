@@ -1,0 +1,13 @@
+{
+  "title": "Fleshgrafter",
+  "image": "../img/f/fleshgrafter.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Warrior",
+  "text": "Discard an artifact card: Fleshgrafter gets +2/+2 until end of turn.",
+  "expansion": "Fifth Dawn",
+  "rarity": "Common",
+  "cardNumber": "51",
+  "artist": "Jim Murray",
+  "rating": "2.658",
+  "votes": "19"
+}

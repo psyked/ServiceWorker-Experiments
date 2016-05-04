@@ -1,0 +1,13 @@
+{
+  "title": "Psychogenic Probe",
+  "image": "../img/p/psychogenic-probe.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Whenever a spell or ability causes a player to shuffle his or her library, Psychogenic Probe deals 2 damage to him or her.",
+  "expansion": "Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "231",
+  "artist": "Jeremy Jarvis",
+  "rating": "3.744",
+  "votes": "43"
+}

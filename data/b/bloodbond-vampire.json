@@ -1,0 +1,13 @@
+{
+  "title": "Bloodbond Vampire",
+  "image": "../img/b/bloodbond-vampire.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Vampire Shaman Ally",
+  "text": "Whenever you gain life, put a +1/+1 counter on Bloodbond Vampire.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "104",
+  "artist": "Anna Steinbauer",
+  "rating": "5",
+  "votes": "0"
+}

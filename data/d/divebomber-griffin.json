@@ -1,0 +1,13 @@
+{
+  "title": "Divebomber Griffin",
+  "image": "../img/d/divebomber-griffin.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Griffin",
+  "text": "Flying, Sacrifice Divebomber Griffin: Divebomber Griffin deals 3 damage to target attacking or blocking creature.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Uncommon",
+  "cardNumber": "14",
+  "artist": "Kev Walker",
+  "rating": "2.023",
+  "votes": "43"
+}

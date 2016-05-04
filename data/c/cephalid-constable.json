@@ -1,0 +1,13 @@
+{
+  "title": "Cephalid Constable",
+  "image": "../img/c/cephalid-constable.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Cephalid Wizard",
+  "text": "Whenever Cephalid Constable deals combat damage to a player, return up to that many target permanents that player controls to their owners' hands.",
+  "expansion": "Tenth Edition",
+  "rarity": "Rare",
+  "cardNumber": "72",
+  "artist": "Alan Pollack",
+  "rating": "4.049",
+  "votes": "41"
+}

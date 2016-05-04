@@ -1,0 +1,13 @@
+{
+  "title": "Parasitic Implant",
+  "image": "../img/p/parasitic-implant.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAt the beginning of your upkeep, enchanted creature's controller sacrifices it and you put a 1/1 colorless Myr artifact creature token onto the battlefield.",
+  "expansion": "New Phyrexia",
+  "rarity": "Common",
+  "cardNumber": "67",
+  "artist": "Jason Felix",
+  "rating": "3.043",
+  "votes": "70"
+}

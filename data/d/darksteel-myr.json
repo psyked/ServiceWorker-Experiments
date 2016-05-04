@@ -1,0 +1,13 @@
+{
+  "title": "Darksteel Myr",
+  "image": "../img/d/darksteel-myr.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Myr",
+  "text": "Indestructible (Damage and effects that say \"destroy\" don't destroy this creature. If its toughness is 0 or less, it's still put into its owner's graveyard.)",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "151",
+  "artist": "Randis Albion",
+  "rating": "3.005",
+  "votes": "110"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Colossal Whale",
+  "image": "../img/c/colossal-whale.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Whale",
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)Whenever Colossal Whale attacks, you may exile target creature defending player controls until Colossal Whale leaves the battlefield. (That creature returns under its owner's control.)",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "48",
+  "artist": "Adam Paquette",
+  "rating": "3.641",
+  "votes": "64"
+}

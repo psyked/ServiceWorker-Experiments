@@ -1,0 +1,13 @@
+{
+  "title": "Demigod of Revenge",
+  "image": "../img/d/demigod-ofrevenge.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit Avatar",
+  "text": "Flying, hasteWhen you cast Demigod of Revenge, return all cards named Demigod of Revenge from your graveyard to the battlefield.",
+  "expansion": "Modern Masters",
+  "rarity": "Rare",
+  "cardNumber": "187",
+  "artist": "Jim Murray",
+  "rating": "4.054",
+  "votes": "56"
+}

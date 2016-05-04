@@ -1,0 +1,13 @@
+{
+  "title": "Assembly Hall",
+  "image": "../img/a/assembly-hall.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": ", : Reveal a creature card in your hand. Search your library for a card with the same name as that card, reveal it, and put it into your hand. Then shuffle your library.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "286",
+  "artist": "Val Mayerik",
+  "rating": "3.086",
+  "votes": "29"
+}

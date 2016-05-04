@@ -1,0 +1,13 @@
+{
+  "title": "Override",
+  "image": "../img/o/override.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell unless its controller pays  for each artifact you control.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "45",
+  "artist": "Hugh Jamieson",
+  "rating": "2.938",
+  "votes": "32"
+}

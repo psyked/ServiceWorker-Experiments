@@ -1,0 +1,13 @@
+{
+  "title": "Frost Breath",
+  "image": "../img/f/frost-breath.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.",
+  "expansion": "Magic 2014 Core Set",
+  "rarity": "Common",
+  "cardNumber": "56",
+  "artist": "Mike Bierek",
+  "rating": "3.417",
+  "votes": "30"
+}

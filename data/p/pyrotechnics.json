@@ -1,0 +1,13 @@
+{
+  "title": "Pyrotechnics",
+  "image": "../img/p/pyrotechnics.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Pyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "111",
+  "artist": "Matt Stewart",
+  "rating": "5",
+  "votes": "0"
+}

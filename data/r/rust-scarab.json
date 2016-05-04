@@ -1,0 +1,13 @@
+{
+  "title": "Rust Scarab",
+  "image": "../img/r/rust-scarab.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Insect",
+  "text": "Whenever Rust Scarab becomes blocked, you may destroy target artifact or enchantment defending player controls.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "130",
+  "artist": "Adam Paquette",
+  "rating": "2.948",
+  "votes": "48"
+}

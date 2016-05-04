@@ -1,0 +1,13 @@
+{
+  "title": "Anavolver",
+  "image": "../img/a/anavolver.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Volver",
+  "text": "Kicker  and/or  (You may pay an additional  and/or  as you cast this spell.)If Anavolver was kicked with its  kicker, it enters the battlefield with two +1/+1 counters on it and with flying.If Anavolver was kicked with its  kicker, it enters the battlefield with a +1/+1 counter on it and with \"Pay 3 life: Regenerate Anavolver.\"",
+  "expansion": "Apocalypse",
+  "rarity": "Rare",
+  "cardNumber": "75",
+  "artist": "Matt Cavotta",
+  "rating": "3.973",
+  "votes": "56"
+}

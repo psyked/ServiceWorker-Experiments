@@ -1,0 +1,13 @@
+{
+  "title": "Desolation",
+  "image": "../img/d/desolation.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of each end step, each player who tapped a land for mana this turn sacrifices a land. Desolation deals 2 damage to each player who sacrificed a Plains this way.",
+  "expansion": "Visions",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "George Pratt",
+  "rating": "3.583",
+  "votes": "36"
+}

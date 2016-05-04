@@ -1,0 +1,13 @@
+{
+  "title": "Hypervolt Grasp",
+  "image": "../img/h/hypervolt-grasp.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature has \": This creature deals 1 damage to target creature or player.\": Return Hypervolt Grasp to its owner's hand.",
+  "expansion": "Guildpact",
+  "rarity": "Uncommon",
+  "cardNumber": "67",
+  "artist": "Mark Romanoski",
+  "rating": "2.909",
+  "votes": "44"
+}

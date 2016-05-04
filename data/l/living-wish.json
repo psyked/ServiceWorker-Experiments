@@ -1,0 +1,13 @@
+{
+  "title": "Living Wish",
+  "image": "../img/l/living-wish.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "You may choose a creature or land card you own from outside the game, reveal that card, and put it into your hand. Exile Living Wish.",
+  "expansion": "Judgment",
+  "rarity": "Rare",
+  "cardNumber": "124",
+  "artist": "Eric Peterson",
+  "rating": "4.385",
+  "votes": "96"
+}

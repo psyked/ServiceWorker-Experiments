@@ -1,0 +1,13 @@
+{
+  "title": "Magmaquake",
+  "image": "../img/m/magmaquake.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Magmaquake deals X damage to each creature without flying and each planeswalker.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "162",
+  "artist": "Gabor Szikszai",
+  "rating": "5",
+  "votes": "0"
+}

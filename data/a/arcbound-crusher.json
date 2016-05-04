@@ -1,0 +1,13 @@
+{
+  "title": "Arcbound Crusher",
+  "image": "../img/a/arcbound-crusher.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Juggernaut",
+  "text": "TrampleWhenever another artifact enters the battlefield, put a +1/+1 counter on Arcbound Crusher.Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)",
+  "expansion": "Planechase",
+  "rarity": "Uncommon",
+  "cardNumber": "105",
+  "artist": "Michael Sutfin",
+  "rating": "4.467",
+  "votes": "45"
+}

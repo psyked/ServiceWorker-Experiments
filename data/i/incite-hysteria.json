@@ -1,0 +1,13 @@
+{
+  "title": "Incite Hysteria",
+  "image": "../img/i/incite-hysteria.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Radiance — Until end of turn, target creature and each other creature that shares a color with it gain \"This creature can't block.\"",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "132",
+  "artist": "Paolo Parente",
+  "rating": "2.596",
+  "votes": "26"
+}

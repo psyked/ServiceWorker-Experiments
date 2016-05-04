@@ -1,0 +1,13 @@
+{
+  "title": "Copperhorn Scout",
+  "image": "../img/c/copperhorn-scout.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Scout",
+  "text": "Whenever Copperhorn Scout attacks, untap each other creature you control.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "160",
+  "artist": "Shelly Wan",
+  "rating": "3.400",
+  "votes": "5"
+}

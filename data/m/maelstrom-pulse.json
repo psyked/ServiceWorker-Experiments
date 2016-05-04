@@ -1,0 +1,13 @@
+{
+  "title": "Maelstrom Pulse",
+  "image": "../img/m/maelstrom-pulse.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Destroy target nonland permanent and all other permanents with the same name as that permanent.",
+  "expansion": "Modern Masters",
+  "rarity": "Rare",
+  "cardNumber": "180",
+  "artist": "John Avon",
+  "rating": "4.556",
+  "votes": "71"
+}

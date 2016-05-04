@@ -1,0 +1,13 @@
+{
+  "title": "Ley Druid",
+  "image": "../img/l/ley-druid.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Druid",
+  "text": ": Untap target land.",
+  "expansion": "Ninth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "251",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "2.650",
+  "votes": "40"
+}

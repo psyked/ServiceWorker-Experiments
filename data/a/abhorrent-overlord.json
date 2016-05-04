@@ -1,0 +1,13 @@
+{
+  "title": "Abhorrent Overlord",
+  "image": "../img/a/abhorrent-overlord.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Demon",
+  "text": "FlyingWhen Abhorrent Overlord enters the battlefield, put a number of 1/1 black Harpy creature tokens with flying onto the battlefield equal to your devotion to black. (Each  in the mana costs of permanents you control counts toward your devotion to black.)At the beginning of your upkeep, sacrifice a creature.",
+  "expansion": "Theros",
+  "rarity": "Rare",
+  "cardNumber": "75",
+  "artist": "Slawomir Maniak",
+  "rating": "3.466",
+  "votes": "87"
+}

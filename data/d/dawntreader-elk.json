@@ -1,0 +1,13 @@
+{
+  "title": "Dawntreader Elk",
+  "image": "../img/d/dawntreader-elk.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elk",
+  "text": ", Sacrifice Dawntreader Elk: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
+  "expansion": "Dark Ascension",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "John Avon",
+  "rating": "3.642",
+  "votes": "81"
+}

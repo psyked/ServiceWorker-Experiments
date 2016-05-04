@@ -1,0 +1,13 @@
+{
+  "title": "Blood Tyrant",
+  "image": "../img/b/blood-tyrant.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Vampire",
+  "text": "Flying, trampleAt the beginning of your upkeep, each player loses 1 life. Put a +1/+1 counter on Blood Tyrant for each 1 life lost this way.Whenever a player loses the game, put five +1/+1 counters on Blood Tyrant.",
+  "expansion": "Conflux",
+  "rarity": "Rare",
+  "cardNumber": "99",
+  "artist": "Karl Kopinski",
+  "rating": "3.737",
+  "votes": "135"
+}

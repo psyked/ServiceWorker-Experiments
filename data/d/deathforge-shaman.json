@@ -1,0 +1,13 @@
+{
+  "title": "Deathforge Shaman",
+  "image": "../img/d/deathforge-shaman.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Ogre Shaman",
+  "text": "Multikicker  (You may pay an additional  any number of times as you cast this spell.)When Deathforge Shaman enters the battlefield, it deals damage to target player equal to twice the number of times it was kicked.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Uncommon",
+  "cardNumber": "141",
+  "artist": "Dave Kendall",
+  "rating": "3.875",
+  "votes": "4"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Oni Possession",
+  "image": "../img/o/oni-possession.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAt the beginning of your upkeep, sacrifice a creature.Enchanted creature gets +3/+3 and has trample.Enchanted creature is a Demon Spirit.",
+  "expansion": "Duel Decks Anthology, Divine vs. Demonic",
+  "rarity": "Uncommon",
+  "cardNumber": "51",
+  "artist": "Aleksi Briclot",
+  "rating": "5",
+  "votes": "0"
+}

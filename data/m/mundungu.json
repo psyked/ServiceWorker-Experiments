@@ -1,0 +1,13 @@
+{
+  "title": "Mundungu",
+  "image": "../img/m/mundungu.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": ": Counter target spell unless its controller pays  and 1 life.",
+  "expansion": "Visions",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Terese Nielsen",
+  "rating": "4.221",
+  "votes": "61"
+}

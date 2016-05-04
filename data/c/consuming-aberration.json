@@ -1,0 +1,13 @@
+{
+  "title": "Consuming Aberration",
+  "image": "../img/c/consuming-aberration.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Horror",
+  "text": "Consuming Aberration's power and toughness are each equal to the number of cards in your opponents' graveyards.Whenever you cast a spell, each opponent reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard.",
+  "expansion": "Gatecrash",
+  "rarity": "Rare",
+  "cardNumber": "152",
+  "artist": "Karl Kopinski",
+  "rating": "4.050",
+  "votes": "191"
+}

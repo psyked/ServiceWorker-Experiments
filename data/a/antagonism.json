@@ -1,0 +1,13 @@
+{
+  "title": "Antagonism",
+  "image": "../img/a/antagonism.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of each player's end step, Antagonism deals 2 damage to that player unless one of his or her opponents was dealt damage this turn.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "173",
+  "artist": "Donato Giancola",
+  "rating": "3.684",
+  "votes": "19"
+}

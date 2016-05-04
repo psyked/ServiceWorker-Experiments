@@ -1,0 +1,13 @@
+{
+  "title": "Pardic Lancer",
+  "image": "../img/p/pardic-lancer.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Barbarian",
+  "text": "Discard a card at random: Pardic Lancer gets +1/+0 and gains first strike until end of turn.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "107",
+  "artist": "Justin Sweet",
+  "rating": "1.667",
+  "votes": "27"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Glory Chaser",
+  "image": "../img/g/goblin-glorychaser.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)As long as Goblin Glory Chaser is renowned, it has menace. (It can't be blocked except by two or more creatures.)",
+  "expansion": "Magic Origins",
+  "rarity": "Uncommon",
+  "cardNumber": "150",
+  "artist": "Greg Staples",
+  "rating": "5",
+  "votes": "0"
+}

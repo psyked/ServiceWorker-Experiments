@@ -1,0 +1,13 @@
+{
+  "title": "Centaur Battlemaster",
+  "image": "../img/c/centaur-battlemaster.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Centaur Warrior",
+  "text": "Heroic — Whenever you cast a spell that targets Centaur Battlemaster, put three +1/+1 counters on Centaur Battlemaster.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "154",
+  "artist": "Kev Walker",
+  "rating": "3.542",
+  "votes": "59"
+}

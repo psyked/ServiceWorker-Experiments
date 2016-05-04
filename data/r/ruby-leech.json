@@ -1,0 +1,13 @@
+{
+  "title": "Ruby Leech",
+  "image": "../img/r/ruby-leech.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Leech",
+  "text": "First strikeRed spells you cast cost  more to cast.",
+  "expansion": "Invasion",
+  "rarity": "Rare",
+  "cardNumber": "161",
+  "artist": "Jacques Bredy",
+  "rating": "1.385",
+  "votes": "48"
+}

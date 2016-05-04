@@ -1,0 +1,13 @@
+{
+  "title": "Fiery Impulse",
+  "image": "../img/f/fiery-impulse.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Fiery Impulse deals 2 damage to target creature.Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, Fiery Impulse deals 3 damage to that creature instead.",
+  "expansion": "Magic Origins",
+  "rarity": "Common",
+  "cardNumber": "145",
+  "artist": "Daarken",
+  "rating": "5",
+  "votes": "0"
+}

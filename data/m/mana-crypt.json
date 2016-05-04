@@ -1,0 +1,13 @@
+{
+  "title": "Mana Crypt",
+  "image": "../img/m/mana-crypt.jpg",
+  "convertedManaCost": "0",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.: Add  to your mana pool.",
+  "expansion": "Vintage Masters",
+  "rarity": "Mythic Rare",
+  "cardNumber": "272",
+  "artist": "Matt Stewart",
+  "rating": "4.125",
+  "votes": "4"
+}

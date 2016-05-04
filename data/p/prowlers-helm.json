@@ -1,0 +1,13 @@
+{
+  "title": "Prowler's Helm",
+  "image": "../img/p/prowlers-helm.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature can't be blocked except by Walls.Equip",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "219",
+  "artist": "Igor Kieryluk",
+  "rating": "3.371",
+  "votes": "35"
+}

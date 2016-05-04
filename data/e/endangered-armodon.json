@@ -1,0 +1,13 @@
+{
+  "title": "Endangered Armodon",
+  "image": "../img/e/endangered-armodon.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elephant",
+  "text": "When you control a creature with toughness 2 or less, sacrifice Endangered Armodon.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "171",
+  "artist": "Kev Walker",
+  "rating": "5",
+  "votes": "0"
+}

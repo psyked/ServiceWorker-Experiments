@@ -1,0 +1,13 @@
+{
+  "title": "Banisher Priest",
+  "image": "../img/b/banisher-priest.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Cleric",
+  "text": "When Banisher Priest enters the battlefield, exile target creature an opponent controls until Banisher Priest leaves the battlefield. (That creature returns under its owner's control.)",
+  "expansion": "Duel Decks: Elspeth vs. Kiora",
+  "rarity": "Uncommon",
+  "cardNumber": "2",
+  "artist": "Willian Murai",
+  "rating": "5",
+  "votes": "0"
+}

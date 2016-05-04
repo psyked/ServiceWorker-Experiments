@@ -1,0 +1,13 @@
+{
+  "title": "Resounding Roar",
+  "image": "../img/r/resounding-roar.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +3/+3 until end of turn.Cycling  (, Discard this card: Draw a card.)When you cycle Resounding Roar, target creature gets +6/+6 until end of turn.",
+  "expansion": "Shards of Alara",
+  "rarity": "Common",
+  "cardNumber": "144",
+  "artist": "Steve Prescott",
+  "rating": "2.000",
+  "votes": "53"
+}

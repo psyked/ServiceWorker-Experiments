@@ -1,0 +1,13 @@
+{
+  "title": "Drana, Liberator of Malakir",
+  "image": "../img/d/drana-liberatorofmalakir.jpg",
+  "convertedManaCost": "3",
+  "types": "Legendary Creature  — Vampire Ally",
+  "text": "Flying, first strikeWhenever Drana, Liberator of Malakir deals combat damage to a player, put a +1/+1 counter on each attacking creature you control.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Mythic Rare",
+  "cardNumber": "109",
+  "artist": "Mike Bierek",
+  "rating": "5",
+  "votes": "0"
+}

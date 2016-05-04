@@ -1,0 +1,13 @@
+{
+  "title": "Guttersnipe",
+  "image": "../img/g/guttersnipe.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Shaman",
+  "text": "Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "112",
+  "artist": "Steve Prescott",
+  "rating": "4.212",
+  "votes": "33"
+}

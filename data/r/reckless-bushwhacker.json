@@ -1,0 +1,13 @@
+{
+  "title": "Reckless Bushwhacker",
+  "image": "../img/r/reckless-bushwhacker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Warrior Ally",
+  "text": "Surge  (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)HasteWhen Reckless Bushwhacker enters the battlefield, if its surge cost was paid, other creatures you control get +1/+0 and gain haste until end of turn.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "116",
+  "artist": "Kieran Yanner",
+  "rating": "5",
+  "votes": "0"
+}

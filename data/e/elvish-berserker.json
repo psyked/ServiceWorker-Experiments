@@ -1,0 +1,13 @@
+{
+  "title": "Elvish Berserker",
+  "image": "../img/e/elvish-berserker.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Berserker",
+  "text": "Whenever Elvish Berserker becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.",
+  "expansion": "Tenth Edition",
+  "rarity": "Common",
+  "cardNumber": "260",
+  "artist": "Parente",
+  "rating": "3.585",
+  "votes": "41"
+}

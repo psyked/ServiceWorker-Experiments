@@ -1,0 +1,13 @@
+{
+  "title": "Hunted Horror",
+  "image": "../img/h/hunted-horror.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Horror",
+  "text": "TrampleWhen Hunted Horror enters the battlefield, target opponent puts two 3/3 green Centaur creature tokens with protection from black onto the battlefield.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Rare",
+  "cardNumber": "90",
+  "artist": "Paolo Parente",
+  "rating": "4.070",
+  "votes": "86"
+}

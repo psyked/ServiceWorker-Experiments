@@ -1,0 +1,13 @@
+{
+  "title": "Corrosive Gale",
+  "image": "../img/c/corrosive-gale.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "( can be paid with either  or 2 life.)Corrosive Gale deals X damage to each creature with flying.",
+  "expansion": "New Phyrexia",
+  "rarity": "Uncommon",
+  "cardNumber": "107",
+  "artist": "Dan Scott",
+  "rating": "3.014",
+  "votes": "74"
+}

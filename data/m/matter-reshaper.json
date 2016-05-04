@@ -1,0 +1,13 @@
+{
+  "title": "Matter Reshaper",
+  "image": "../img/m/matter-reshaper.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Eldrazi",
+  "text": "( represents colorless mana.)When Matter Reshaper dies, reveal the top card of your library. You may put that card onto the battlefield if it's a permanent card with converted mana cost 3 or less. Otherwise, put that card into your hand.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Rare",
+  "cardNumber": "6",
+  "artist": "Chris Rahn",
+  "rating": "5",
+  "votes": "0"
+}

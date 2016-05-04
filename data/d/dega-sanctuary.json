@@ -1,0 +1,13 @@
+{
+  "title": "Dega Sanctuary",
+  "image": "../img/d/dega-sanctuary.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, if you control a black or red permanent, you gain 2 life. If you control a black permanent and a red permanent, you gain 4 life instead.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "5",
+  "artist": "Ben Thompson",
+  "rating": "3.707",
+  "votes": "29"
+}

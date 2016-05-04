@@ -1,0 +1,13 @@
+{
+  "title": "Dragonrage",
+  "image": "../img/d/dragonrage.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Add  to your mana pool for each attacking creature you control. Until end of turn, attacking creatures you control gain \": This creature gets +1/+0 until end of turn.\"",
+  "expansion": "Fate Reforged",
+  "rarity": "Uncommon",
+  "cardNumber": "97",
+  "artist": "Tomasz Jedruszek",
+  "rating": "5",
+  "votes": "0"
+}

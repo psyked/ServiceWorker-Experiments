@@ -1,0 +1,13 @@
+{
+  "title": "Bog Raiders",
+  "image": "../img/b/bog-raiders.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Zombie",
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+  "expansion": "Magic 2011",
+  "rarity": "Common",
+  "cardNumber": "86",
+  "artist": "Carl Critchlow",
+  "rating": "3.130",
+  "votes": "54"
+}

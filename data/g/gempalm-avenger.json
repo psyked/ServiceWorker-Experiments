@@ -1,0 +1,13 @@
+{
+  "title": "Gempalm Avenger",
+  "image": "../img/g/gempalm-avenger.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Human Soldier",
+  "text": "Cycling  (, Discard this card: Draw a card.)When you cycle Gempalm Avenger, Soldier creatures get +1/+1 and gain first strike until end of turn.",
+  "expansion": "Duel Decks: Elspeth vs. Kiora",
+  "rarity": "Common",
+  "cardNumber": "9",
+  "artist": "Tim Hildebrandt",
+  "rating": "5",
+  "votes": "0"
+}

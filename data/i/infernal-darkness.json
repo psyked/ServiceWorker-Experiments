@@ -1,0 +1,13 @@
+{
+  "title": "Infernal Darkness",
+  "image": "../img/i/infernal-darkness.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Cumulative upkeep—Pay  and 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)If a land is tapped for mana, it produces  instead of any other type.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "97",
+  "artist": "Phil Foglio",
+  "rating": "4.058",
+  "votes": "43"
+}

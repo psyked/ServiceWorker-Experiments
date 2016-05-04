@@ -1,0 +1,13 @@
+{
+  "title": "Crystal Ball",
+  "image": "../img/c/crystal-ball.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ", : Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "expansion": "Magic 2011",
+  "rarity": "Uncommon",
+  "cardNumber": "203",
+  "artist": "Ron Spencer",
+  "rating": "4.209",
+  "votes": "158"
+}

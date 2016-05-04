@@ -1,0 +1,13 @@
+{
+  "title": "Orcish Spy",
+  "image": "../img/o/orcish-spy.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Orc Rogue",
+  "text": ": Look at the top three cards of target player's library.",
+  "expansion": "Eighth Edition",
+  "rarity": "Common",
+  "cardNumber": "208",
+  "artist": "Greg Staples",
+  "rating": "3.609",
+  "votes": "46"
+}

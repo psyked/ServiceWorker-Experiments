@@ -1,0 +1,13 @@
+{
+  "title": "Brass Squire",
+  "image": "../img/b/brass-squire.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Myr",
+  "text": ": Attach target Equipment you control to target creature you control.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Uncommon",
+  "cardNumber": "101",
+  "artist": "Ryan Pancoast",
+  "rating": "3.658",
+  "votes": "117"
+}

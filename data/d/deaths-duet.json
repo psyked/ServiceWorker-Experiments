@@ -1,0 +1,13 @@
+{
+  "title": "Death's Duet",
+  "image": "../img/d/deaths-duet.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Return two target creature cards from your graveyard to your hand.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Common",
+  "cardNumber": "101",
+  "artist": "Keith Parkinson",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Furrier",
+  "image": "../img/g/goblin-furrier.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Prevent all damage that Goblin Furrier would deal to snow creatures.",
+  "expansion": "Coldsnap",
+  "rarity": "Common",
+  "cardNumber": "82",
+  "artist": "Warren Mahy",
+  "rating": "2.770",
+  "votes": "50"
+}

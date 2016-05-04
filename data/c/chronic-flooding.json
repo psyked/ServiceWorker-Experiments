@@ -1,0 +1,13 @@
+{
+  "title": "Chronic Flooding",
+  "image": "../img/c/chronic-flooding.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant landWhenever enchanted land becomes tapped, its controller puts the top three cards of his or her library into his or her graveyard.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "32",
+  "artist": "Scott Chou",
+  "rating": "2.661",
+  "votes": "56"
+}

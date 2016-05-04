@@ -1,0 +1,13 @@
+{
+  "title": "Eldrazi Monument",
+  "image": "../img/e/eldrazi-monument.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact",
+  "text": "Creatures you control get +1/+1 and have flying and indestructible.At the beginning of your upkeep, sacrifice a creature. If you can't, sacrifice Eldrazi Monument.",
+  "expansion": "Commander 2015",
+  "rarity": "Mythic Rare",
+  "cardNumber": "253",
+  "artist": "Mark Tedin",
+  "rating": "5",
+  "votes": "0"
+}

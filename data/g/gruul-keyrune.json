@@ -1,0 +1,13 @@
+{
+  "title": "Gruul Keyrune",
+  "image": "../img/g/gruul-keyrune.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add  or  to your mana pool.: Gruul Keyrune becomes a 3/2 red and green Beast artifact creature with trample until end of turn.",
+  "expansion": "Gatecrash",
+  "rarity": "Uncommon",
+  "cardNumber": "230",
+  "artist": "Daniel Ljunggren",
+  "rating": "3.193",
+  "votes": "44"
+}

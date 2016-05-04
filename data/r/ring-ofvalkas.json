@@ -1,0 +1,13 @@
+{
+  "title": "Ring of Valkas",
+  "image": "../img/r/ring-ofvalkas.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature has haste. (It can attack and  no matter when it came under your control.)At the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's red.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Magic 2013",
+  "rarity": "Uncommon",
+  "cardNumber": "214",
+  "artist": "Erica Yang",
+  "rating": "3.720",
+  "votes": "41"
+}

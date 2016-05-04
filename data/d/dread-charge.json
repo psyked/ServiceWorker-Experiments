@@ -1,0 +1,13 @@
+{
+  "title": "Dread Charge",
+  "image": "../img/d/dread-charge.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Black creatures you control can't be blocked this turn except by black creatures.",
+  "expansion": "Portal",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Ted Naifeh",
+  "rating": "2.204",
+  "votes": "27"
+}

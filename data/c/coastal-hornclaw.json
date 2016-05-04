@@ -1,0 +1,13 @@
+{
+  "title": "Coastal Hornclaw",
+  "image": "../img/c/coastal-hornclaw.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Bird",
+  "text": "Sacrifice a land: Coastal Hornclaw gains flying until end of turn.",
+  "expansion": "Eighth Edition",
+  "rarity": "Common",
+  "cardNumber": "66",
+  "artist": "DiTerlizzi",
+  "rating": "1.274",
+  "votes": "53"
+}

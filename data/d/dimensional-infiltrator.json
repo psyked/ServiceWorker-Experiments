@@ -1,0 +1,13 @@
+{
+  "title": "Dimensional Infiltrator",
+  "image": "../img/d/dimensional-infiltrator.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Eldrazi",
+  "text": "Devoid (This card has no color.)FlashFlying: Target opponent exiles the top card of his or her library. If it's a land card, you may return Dimensional Infiltrator to its owner's hand. ( represents colorless mana.)",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Rare",
+  "cardNumber": "44",
+  "artist": "Chase Stone",
+  "rating": "5",
+  "votes": "0"
+}

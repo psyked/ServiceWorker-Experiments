@@ -1,0 +1,13 @@
+{
+  "title": "Psychic Trance",
+  "image": "../img/p/psychic-trance.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Until end of turn, Wizards you control gain \": Counter target spell.\"",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "102",
+  "artist": "Rebecca Guay",
+  "rating": "2.820",
+  "votes": "25"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Gate to Phyrexia",
+  "image": "../img/g/gate-tophyrexia.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Sacrifice a creature: Destroy target artifact. Activate this ability only during your upkeep and only once each turn.",
+  "expansion": "Masters Edition IV",
+  "rarity": "Uncommon",
+  "cardNumber": "82",
+  "artist": "Sandra Everingham",
+  "rating": "3.905",
+  "votes": "37"
+}

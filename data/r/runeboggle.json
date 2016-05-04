@@ -1,0 +1,13 @@
+{
+  "title": "Runeboggle",
+  "image": "../img/r/runeboggle.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell unless its controller pays .Draw a card.",
+  "expansion": "Guildpact",
+  "rarity": "Common",
+  "cardNumber": "33",
+  "artist": "Ron Spencer",
+  "rating": "2.083",
+  "votes": "48"
+}

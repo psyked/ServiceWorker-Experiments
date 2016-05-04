@@ -1,0 +1,13 @@
+{
+  "title": "Kuro's Taken",
+  "image": "../img/k/kuros-taken.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Rat Samurai",
+  "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.): Regenerate Kuro's Taken.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "79",
+  "artist": "Puddnhead",
+  "rating": "3.115",
+  "votes": "26"
+}

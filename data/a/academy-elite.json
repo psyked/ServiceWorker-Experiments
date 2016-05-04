@@ -1,0 +1,13 @@
+{
+  "title": "Academy Elite",
+  "image": "../img/a/academy-elite.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Wizard",
+  "text": "Academy Elite enters the battlefield with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards., Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Rare",
+  "cardNumber": "20",
+  "artist": "Volkan Baga",
+  "rating": "3.083",
+  "votes": "6"
+}

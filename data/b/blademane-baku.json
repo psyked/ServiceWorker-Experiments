@@ -1,0 +1,13 @@
+{
+  "title": "Blademane Baku",
+  "image": "../img/b/blademane-baku.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Spirit",
+  "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Blademane Baku., Remove X ki counters from Blademane Baku: For each counter removed, Blademane Baku gets +2/+0 until end of turn.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "95",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "2.328",
+  "votes": "29"
+}

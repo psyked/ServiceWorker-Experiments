@@ -1,0 +1,13 @@
+{
+  "title": "Dimensional Breach",
+  "image": "../img/d/dimensional-breach.jpg",
+  "convertedManaCost": "7",
+  "types": "Sorcery",
+  "text": "Exile all permanents. For as long as any of those cards remain exiled, at the beginning of each player's upkeep, that player returns one of the exiled cards he or she owns to the battlefield.",
+  "expansion": "Scourge",
+  "rarity": "Rare",
+  "cardNumber": "9",
+  "artist": "Dave Dorman",
+  "rating": "3.714",
+  "votes": "21"
+}

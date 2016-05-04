@@ -1,0 +1,13 @@
+{
+  "title": "Amulet of Vigor",
+  "image": "../img/a/amulet-ofvigor.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": "Whenever a permanent enters the battlefield tapped and under your control, untap it.",
+  "expansion": "Worldwake",
+  "rarity": "Rare",
+  "cardNumber": "121",
+  "artist": "Warren Mahy",
+  "rating": "4.120",
+  "votes": "183"
+}

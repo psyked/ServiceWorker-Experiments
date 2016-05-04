@@ -1,0 +1,13 @@
+{
+  "title": "Recurring Insight",
+  "image": "../img/r/recurring-insight.jpg",
+  "convertedManaCost": "6",
+  "types": "Sorcery",
+  "text": "Draw cards equal to the number of cards in target opponent's hand.Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+  "expansion": "Rise of the Eldrazi",
+  "rarity": "Rare",
+  "cardNumber": "82",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "3.107",
+  "votes": "56"
+}

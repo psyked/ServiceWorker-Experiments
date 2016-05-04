@@ -1,0 +1,13 @@
+{
+  "title": "Needle Specter",
+  "image": "../img/n/needle-specter.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Specter",
+  "text": "FlyingWither (This deals damage to creatures in the form of -1/-1 counters.)Whenever Needle Specter deals combat damage to a player, that player discards that many cards.",
+  "expansion": "Eventide",
+  "rarity": "Rare",
+  "cardNumber": "39",
+  "artist": "Christopher Moeller",
+  "rating": "3.617",
+  "votes": "64"
+}

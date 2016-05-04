@@ -1,0 +1,13 @@
+{
+  "title": "Last Breath",
+  "image": "../img/l/last-breath.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Exile target creature with power 2 or less. Its controller gains 4 life.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "22",
+  "artist": "Nils Hamm",
+  "rating": "2.682",
+  "votes": "55"
+}

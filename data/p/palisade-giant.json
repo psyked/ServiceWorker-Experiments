@@ -1,0 +1,13 @@
+{
+  "title": "Palisade Giant",
+  "image": "../img/p/palisade-giant.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant Soldier",
+  "text": "All damage that would be dealt to you or another permanent you control is dealt to Palisade Giant instead.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Rare",
+  "cardNumber": "15",
+  "artist": "Greg Staples",
+  "rating": "3.364",
+  "votes": "88"
+}

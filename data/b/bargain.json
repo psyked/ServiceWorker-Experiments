@@ -1,0 +1,13 @@
+{
+  "title": "Bargain",
+  "image": "../img/b/bargain.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Target opponent draws a card.You gain 7 life.",
+  "expansion": "Starter 1999",
+  "rarity": "Uncommon",
+  "cardNumber": "7",
+  "artist": "Phil Foglio",
+  "rating": "1.578",
+  "votes": "45"
+}

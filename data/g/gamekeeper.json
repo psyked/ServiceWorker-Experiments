@@ -1,0 +1,13 @@
+{
+  "title": "Gamekeeper",
+  "image": "../img/g/gamekeeper.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elf",
+  "text": "When Gamekeeper dies, you may exile it. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and put all other cards revealed this way into your graveyard.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Uncommon",
+  "cardNumber": "165",
+  "artist": "Scott Hampton",
+  "rating": "3.875",
+  "votes": "4"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Æthermage's Touch",
+  "image": "../img/t/thermages-touch.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Reveal the top four cards of your library. You may put a creature card from among them onto the battlefield. It gains \"At the beginning of your end step, return this creature to its owner's hand.\" Then put the rest of the cards revealed this way on the bottom of your library in any order.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "176",
+  "artist": "Randy Gallegos",
+  "rating": "3.278",
+  "votes": "9"
+}

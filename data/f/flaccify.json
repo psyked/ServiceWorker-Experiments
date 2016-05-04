@@ -1,0 +1,13 @@
+{
+  "title": "Flaccify",
+  "image": "../img/f/flaccify.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Counter target spell unless its controller pays .",
+  "expansion": "Unhinged",
+  "rarity": "Common",
+  "cardNumber": "32",
+  "artist": "Tim Hildebrandt",
+  "rating": "3.783",
+  "votes": "23"
+}

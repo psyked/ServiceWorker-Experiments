@@ -1,0 +1,13 @@
+{
+  "title": "Resize",
+  "image": "../img/r/resize.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target creature gets +3/+3 until end of turn.Recover  (When a creature is put into your graveyard from the battlefield, you may pay . If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",
+  "expansion": "Coldsnap",
+  "rarity": "Uncommon",
+  "cardNumber": "117",
+  "artist": "Daren Bader",
+  "rating": "3.081",
+  "votes": "37"
+}

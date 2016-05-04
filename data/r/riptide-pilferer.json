@@ -1,0 +1,13 @@
+{
+  "title": "Riptide Pilferer",
+  "image": "../img/r/riptide-pilferer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Merfolk Rogue",
+  "text": "Whenever Riptide Pilferer deals combat damage to a player, that player discards a card.Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Planar Chaos",
+  "rarity": "Uncommon",
+  "cardNumber": "60",
+  "artist": "Steve Prescott",
+  "rating": "3.434",
+  "votes": "38"
+}

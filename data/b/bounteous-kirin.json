@@ -1,0 +1,13 @@
+{
+  "title": "Bounteous Kirin",
+  "image": "../img/b/bounteous-kirin.jpg",
+  "convertedManaCost": "7",
+  "types": "Legendary Creature  — Kirin Spirit",
+  "text": "FlyingWhenever you cast a Spirit or Arcane spell, you may gain life equal to that spell's converted mana cost.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Rare",
+  "cardNumber": "123",
+  "artist": "Shishizaru",
+  "rating": "3.211",
+  "votes": "45"
+}

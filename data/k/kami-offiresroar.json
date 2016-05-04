@@ -1,0 +1,13 @@
+{
+  "title": "Kami of Fire's Roar",
+  "image": "../img/k/kami-offiresroar.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Spirit",
+  "text": "Whenever you cast a Spirit or Arcane spell, target creature can't block this turn.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "174",
+  "artist": "Dave Dorman",
+  "rating": "1.794",
+  "votes": "34"
+}

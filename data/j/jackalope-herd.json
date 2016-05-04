@@ -1,0 +1,13 @@
+{
+  "title": "Jackalope Herd",
+  "image": "../img/j/jackalope-herd.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Rabbit Beast",
+  "text": "When you cast a spell, return Jackalope Herd to its owner's hand.",
+  "expansion": "Exodus",
+  "rarity": "Common",
+  "cardNumber": "111",
+  "artist": "Ron Spencer",
+  "rating": "2.415",
+  "votes": "47"
+}

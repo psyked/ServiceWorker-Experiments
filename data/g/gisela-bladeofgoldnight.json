@@ -1,0 +1,13 @@
+{
+  "title": "Gisela, Blade of Goldnight",
+  "image": "../img/g/gisela-bladeofgoldnight.jpg",
+  "convertedManaCost": "7",
+  "types": "Legendary Creature  — Angel",
+  "text": "Flying, first strikeIf a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead.If a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.",
+  "expansion": "Commander 2015",
+  "rarity": "Mythic Rare",
+  "cardNumber": "219",
+  "artist": "Jason Chan",
+  "rating": "5",
+  "votes": "0"
+}

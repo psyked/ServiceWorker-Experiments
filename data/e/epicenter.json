@@ -1,0 +1,13 @@
+{
+  "title": "Epicenter",
+  "image": "../img/e/epicenter.jpg",
+  "convertedManaCost": "5",
+  "types": "Sorcery",
+  "text": "Target player sacrifices a land.Threshold — Each player sacrifices all lands he or she controls instead if seven or more cards are in your graveyard.",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "192",
+  "artist": "Anthony S. Waters",
+  "rating": "3.441",
+  "votes": "17"
+}

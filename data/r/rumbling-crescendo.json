@@ -1,0 +1,13 @@
+{
+  "title": "Rumbling Crescendo",
+  "image": "../img/r/rumbling-crescendo.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, you may put a verse counter on Rumbling Crescendo., Sacrifice Rumbling Crescendo: Destroy up to X target lands, where X is the number of verse counters on Rumbling Crescendo.",
+  "expansion": "Urza's Saga",
+  "rarity": "Rare",
+  "cardNumber": "210",
+  "artist": "Lawrence Snelly",
+  "rating": "3.260",
+  "votes": "25"
+}

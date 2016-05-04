@@ -1,0 +1,13 @@
+{
+  "title": "Amber Prison",
+  "image": "../img/a/amber-prison.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "You may choose not to untap Amber Prison during your untap step., : Tap target artifact, creature, or land. That permanent doesn't untap during its controller's untap step for as long as Amber Prison remains tapped.",
+  "expansion": "Classic Sixth Edition",
+  "rarity": "Rare",
+  "cardNumber": "272",
+  "artist": "Donato Giancola",
+  "rating": "3.464",
+  "votes": "28"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dreampod Druid",
+  "image": "../img/d/dreampod-druid.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Druid",
+  "text": "At the beginning of each upkeep, if Dreampod Druid is enchanted, put a 1/1 green Saproling creature token onto the battlefield.",
+  "expansion": "Vintage Masters",
+  "rarity": "Uncommon",
+  "cardNumber": "204",
+  "artist": "Wayne Reynolds",
+  "rating": "4.000",
+  "votes": "1"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Crackling Club",
+  "image": "../img/c/crackling-club.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +1/+0.Sacrifice Crackling Club: Crackling Club deals 1 damage to target creature.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "93",
+  "artist": "Mike Ploog",
+  "rating": "2.500",
+  "votes": "32"
+}

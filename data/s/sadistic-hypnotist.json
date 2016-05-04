@@ -1,0 +1,13 @@
+{
+  "title": "Sadistic Hypnotist",
+  "image": "../img/s/sadistic-hypnotist.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Minion",
+  "text": "Sacrifice a creature: Target player discards two cards. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Uncommon",
+  "cardNumber": "62",
+  "artist": "Parente",
+  "rating": "4.000",
+  "votes": "16"
+}

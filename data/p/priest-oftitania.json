@@ -1,0 +1,13 @@
+{
+  "title": "Priest of Titania",
+  "image": "../img/p/priest-oftitania.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Druid",
+  "text": ": Add  to your mana pool for each Elf on the battlefield.",
+  "expansion": "Commander 2014",
+  "rarity": "Common",
+  "cardNumber": "210",
+  "artist": "Rebecca Guay",
+  "rating": "5",
+  "votes": "0"
+}

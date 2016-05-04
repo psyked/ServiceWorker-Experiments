@@ -1,0 +1,13 @@
+{
+  "title": "Hollow Warrior",
+  "image": "../img/h/hollow-warrior.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact Creature  — Golem Warrior",
+  "text": "Hollow Warrior can't attack or block unless you tap an untapped creature you control not declared as an attacking or blocking creature this combat. (This cost is paid as attackers or blockers are declared.)",
+  "expansion": "Prophecy",
+  "rarity": "Uncommon",
+  "cardNumber": "138",
+  "artist": "Adam Rex",
+  "rating": "2.321",
+  "votes": "28"
+}

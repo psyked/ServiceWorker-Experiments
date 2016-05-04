@@ -1,0 +1,13 @@
+{
+  "title": "Greater Good",
+  "image": "../img/g/greater-good.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "245",
+  "artist": "Douglas Shuler",
+  "rating": "4.217",
+  "votes": "69"
+}

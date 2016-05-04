@@ -1,0 +1,13 @@
+{
+  "title": "Guilty Conscience",
+  "image": "../img/g/guilty-conscience.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature deals damage, Guilty Conscience deals that much damage to that creature.",
+  "expansion": "Scourge",
+  "rarity": "Common",
+  "cardNumber": "17",
+  "artist": "Christopher Moeller",
+  "rating": "4.053",
+  "votes": "47"
+}

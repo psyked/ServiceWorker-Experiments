@@ -1,0 +1,13 @@
+{
+  "title": "Circle of Elders",
+  "image": "../img/c/circle-ofelders.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Shaman",
+  "text": "VigilanceFormidable — : Add  to your mana pool. Activate this ability only if creatures you control have total power 8 or greater.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "176",
+  "artist": "Jakub Kasper",
+  "rating": "5",
+  "votes": "0"
+}

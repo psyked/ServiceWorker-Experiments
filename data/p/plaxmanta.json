@@ -1,0 +1,13 @@
+{
+  "title": "Plaxmanta",
+  "image": "../img/p/plaxmanta.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Beast",
+  "text": "FlashWhen Plaxmanta enters the battlefield, creatures you control gain shroud until end of turn. (They can't be the targets of spells or abilities.)When Plaxmanta enters the battlefield, sacrifice it unless  was spent to cast it.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "100",
+  "artist": "Alan Pollack",
+  "rating": "5",
+  "votes": "0"
+}

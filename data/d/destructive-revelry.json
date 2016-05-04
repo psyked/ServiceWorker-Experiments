@@ -1,0 +1,13 @@
+{
+  "title": "Destructive Revelry",
+  "image": "../img/d/destructive-revelry.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Destroy target artifact or enchantment. Destructive Revelry deals 2 damage to that permanent's controller.",
+  "expansion": "Duel Decks: Heroes vs. Monsters",
+  "rarity": "Uncommon",
+  "cardNumber": "66",
+  "artist": "Kev Walker",
+  "rating": "3.531",
+  "votes": "32"
+}

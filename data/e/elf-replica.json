@@ -1,0 +1,13 @@
+{
+  "title": "Elf Replica",
+  "image": "../img/e/elf-replica.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Elf",
+  "text": ", Sacrifice Elf Replica: Destroy target enchantment.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "167",
+  "artist": "Carl Critchlow",
+  "rating": "2.683",
+  "votes": "30"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Rising Waters",
+  "image": "../img/r/rising-waters.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Lands don't untap during their controllers' untap steps.At the beginning of each player's upkeep, that player untaps a land he or she controls.",
+  "expansion": "Nemesis",
+  "rarity": "Rare",
+  "cardNumber": "38",
+  "artist": "Scott M. Fischer",
+  "rating": "4.120",
+  "votes": "46"
+}

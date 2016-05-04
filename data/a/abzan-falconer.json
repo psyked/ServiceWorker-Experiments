@@ -1,0 +1,13 @@
+{
+  "title": "Abzan Falconer",
+  "image": "../img/a/abzan-falconer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "Outlast  (, : Put a +1/+1 counter on this creature. Outlast only as a sorcery.)Each creature you control with a +1/+1 counter on it has flying.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Uncommon",
+  "cardNumber": "2",
+  "artist": "Steven Belledin",
+  "rating": "3.643",
+  "votes": "7"
+}

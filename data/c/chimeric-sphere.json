@@ -1,0 +1,13 @@
+{
+  "title": "Chimeric Sphere",
+  "image": "../img/c/chimeric-sphere.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Until end of turn, Chimeric Sphere becomes a 2/1 Construct artifact creature with flying.: Until end of turn, Chimeric Sphere becomes a 3/2 Construct artifact creature and loses flying.",
+  "expansion": "Weatherlight",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Colin MacNeil",
+  "rating": "3.207",
+  "votes": "29"
+}

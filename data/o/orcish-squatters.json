@@ -1,0 +1,13 @@
+{
+  "title": "Orcish Squatters",
+  "image": "../img/o/orcish-squatters.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Orc",
+  "text": "Whenever Orcish Squatters attacks and isn't blocked, you may gain control of target land defending player controls for as long as you control Orcish Squatters. If you do, Orcish Squatters assigns no combat damage this turn.",
+  "expansion": "Masters Edition II",
+  "rarity": "Rare",
+  "cardNumber": "143",
+  "artist": "Richard Kane Ferguson",
+  "rating": "3.419",
+  "votes": "31"
+}

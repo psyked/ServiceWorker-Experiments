@@ -1,0 +1,13 @@
+{
+  "title": "Cackling Witch",
+  "image": "../img/c/cackling-witch.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Spellshaper",
+  "text": ", , Discard a card: Target creature gets +X/+0 until end of turn.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Uncommon",
+  "cardNumber": "119",
+  "artist": "Brian Despain",
+  "rating": "3.018",
+  "votes": "28"
+}

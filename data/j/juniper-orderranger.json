@@ -1,0 +1,13 @@
+{
+  "title": "Juniper Order Ranger",
+  "image": "../img/j/juniper-orderranger.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Human Knight",
+  "text": "Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger.",
+  "expansion": "Duel Decks: Knights vs. Dragons",
+  "rarity": "Uncommon",
+  "cardNumber": "21",
+  "artist": "Greg Hildebrandt",
+  "rating": "4.057",
+  "votes": "53"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ayli, Eternal Pilgrim",
+  "image": "../img/a/ayli-eternalpilgrim.jpg",
+  "convertedManaCost": "2",
+  "types": "Legendary Creature  — Kor Cleric",
+  "text": "Deathtouch, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness., Sacrifice another creature: Exile target nonland permanent. Activate this ability only if you have at least 10 life more than your starting life total.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Rare",
+  "cardNumber": "151",
+  "artist": "Cynthia Sheppard",
+  "rating": "5",
+  "votes": "0"
+}

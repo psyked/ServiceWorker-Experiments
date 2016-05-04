@@ -1,0 +1,13 @@
+{
+  "title": "Haunting Apparition",
+  "image": "../img/h/haunting-apparition.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Spirit",
+  "text": "FlyingAs Haunting Apparition enters the battlefield, choose an opponent.Haunting Apparition's power is equal to 1 plus the number of green creature cards in the chosen player's graveyard.",
+  "expansion": "Mirage",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Chippy",
+  "rating": "2.803",
+  "votes": "33"
+}

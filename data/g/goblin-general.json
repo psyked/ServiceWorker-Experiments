@@ -1,0 +1,13 @@
+{
+  "title": "Goblin General",
+  "image": "../img/g/goblin-general.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Whenever Goblin General attacks, Goblin creatures you control get +1/+1 until end of turn.",
+  "expansion": "Vintage Masters",
+  "rarity": "Common",
+  "cardNumber": "165",
+  "artist": "Keith Parkinson",
+  "rating": "3.500",
+  "votes": "2"
+}

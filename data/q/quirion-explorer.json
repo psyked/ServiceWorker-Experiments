@@ -1,0 +1,13 @@
+{
+  "title": "Quirion Explorer",
+  "image": "../img/q/quirion-explorer.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Elf Druid Scout",
+  "text": ": Add to your mana pool one mana of any color that a land an opponent controls could produce.",
+  "expansion": "Planeshift",
+  "rarity": "Common",
+  "cardNumber": "90",
+  "artist": "Ron Spears",
+  "rating": "3.481",
+  "votes": "26"
+}

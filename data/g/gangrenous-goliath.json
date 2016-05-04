@@ -1,0 +1,13 @@
+{
+  "title": "Gangrenous Goliath",
+  "image": "../img/g/gangrenous-goliath.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Zombie Giant",
+  "text": "Tap three untapped Clerics you control: Return Gangrenous Goliath from your graveyard to your hand.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "150",
+  "artist": "Justin Sweet",
+  "rating": "3.180",
+  "votes": "25"
+}

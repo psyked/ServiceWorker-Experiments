@@ -1,0 +1,13 @@
+{
+  "title": "Invoke Prejudice",
+  "image": "../img/i/invoke-prejudice.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever an opponent casts a creature spell that doesn't share a color with a creature you control, counter that spell unless that player pays , where X is its converted mana cost.",
+  "expansion": "Legends",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Harold McNeill",
+  "rating": "4.408",
+  "votes": "71"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Reincarnation",
+  "image": "../img/r/reincarnation.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Choose target creature. When that creature dies this turn, return a creature card from its owner's graveyard to the battlefield under the control of that creature's owner.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "166",
+  "artist": "Steve Prescott",
+  "rating": "4.111",
+  "votes": "18"
+}

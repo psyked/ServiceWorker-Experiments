@@ -1,0 +1,13 @@
+{
+  "title": "Nicol Bolas, Planeswalker",
+  "image": "../img/n/nicol-bolasplaneswalker.jpg",
+  "convertedManaCost": "8",
+  "types": "Planeswalker  — Bolas",
+  "text": "+3: Destroy target noncreature permanent.−2: Gain control of target creature.−9: Nicol Bolas, Planeswalker deals 7 damage to target player. That player discards seven cards, then sacrifices seven permanents.",
+  "expansion": "Magic 2013",
+  "rarity": "Mythic Rare",
+  "cardNumber": "199",
+  "artist": "D. Alexander Gregory",
+  "rating": "4.132",
+  "votes": "212"
+}

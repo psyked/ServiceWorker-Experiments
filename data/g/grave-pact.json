@@ -1,0 +1,13 @@
+{
+  "title": "Grave Pact",
+  "image": "../img/g/grave-pact.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Whenever a creature you control dies, each other player sacrifices a creature.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Rare",
+  "cardNumber": "85",
+  "artist": "Puddnhead",
+  "rating": "4.396",
+  "votes": "125"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Gilt-Leaf Seer",
+  "image": "../img/g/gilt-leaf-seer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Elf Shaman",
+  "text": ", : Look at the top two cards of your library, then put them back in any order.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "215",
+  "artist": "Darrell Riche",
+  "rating": "3.295",
+  "votes": "39"
+}

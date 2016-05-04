@@ -1,0 +1,13 @@
+{
+  "title": "Hollow Specter",
+  "image": "../img/h/hollow-specter.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Specter",
+  "text": "FlyingWhenever Hollow Specter deals combat damage to a player, you may pay . If you do, that player reveals X cards from his or her hand and you choose one of them. That player discards that card.",
+  "expansion": "Legions",
+  "rarity": "Rare",
+  "cardNumber": "75",
+  "artist": "rk post",
+  "rating": "3.667",
+  "votes": "33"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ageless Entity",
+  "image": "../img/a/ageless-entity.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental",
+  "text": "Whenever you gain life, put that many +1/+1 counters on Ageless Entity.",
+  "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+  "rarity": "Rare",
+  "cardNumber": "18",
+  "artist": "Jeff Miracola",
+  "rating": "4.273",
+  "votes": "33"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Consecrated Sphinx",
+  "image": "../img/c/consecrated-sphinx.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Sphinx",
+  "text": "FlyingWhenever an opponent draws a card, you may draw two cards.",
+  "expansion": "Mirrodin Besieged",
+  "rarity": "Mythic Rare",
+  "cardNumber": "21",
+  "artist": "Mark Zug",
+  "rating": "4.054",
+  "votes": "277"
+}

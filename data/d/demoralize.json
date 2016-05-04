@@ -1,0 +1,13 @@
+{
+  "title": "Demoralize",
+  "image": "../img/d/demoralize.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "All creatures gain menace until end of turn. (They can't be blocked except by two or more creatures.)Threshold — If seven or more cards are in your graveyard, creatures can't block this turn.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "184",
+  "artist": "Greg & Tim Hildebrandt",
+  "rating": "3.196",
+  "votes": "23"
+}

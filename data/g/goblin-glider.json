@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Glider",
+  "image": "../img/g/goblin-glider.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Goblin",
+  "text": "FlyingGoblin Glider can't block.",
+  "expansion": "Eighth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "189",
+  "artist": "Patrick Faricy",
+  "rating": "1.912",
+  "votes": "34"
+}

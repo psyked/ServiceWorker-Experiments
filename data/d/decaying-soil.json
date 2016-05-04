@@ -1,0 +1,13 @@
+{
+  "title": "Decaying Soil",
+  "image": "../img/d/decaying-soil.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, exile a card from your graveyard.Threshold — As long as seven or more cards are in your graveyard, Decaying Soil has \"Whenever a nontoken creature is put into your graveyard from the battlefield, you may pay . If you do, return that card to your hand.\"",
+  "expansion": "Odyssey",
+  "rarity": "Rare",
+  "cardNumber": "127",
+  "artist": "Don Hazeltine",
+  "rating": "2.904",
+  "votes": "26"
+}

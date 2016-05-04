@@ -1,0 +1,13 @@
+{
+  "title": "Chorus of Might",
+  "image": "../img/c/chorus-ofmight.jpg",
+  "convertedManaCost": "4",
+  "types": "Instant",
+  "text": "Until end of turn, target creature gets +1/+1 for each creature you control and gains trample.",
+  "expansion": "Return to Ravnica",
+  "rarity": "Common",
+  "cardNumber": "119",
+  "artist": "Christopher Moeller",
+  "rating": "2.167",
+  "votes": "48"
+}

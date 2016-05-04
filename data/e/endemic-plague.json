@@ -1,0 +1,13 @@
+{
+  "title": "Endemic Plague",
+  "image": "../img/e/endemic-plague.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Endemic Plague, sacrifice a creature.Destroy all creatures that share a creature type with the sacrificed creature. They can't be regenerated.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "142",
+  "artist": "Nelson DeCastro",
+  "rating": "2.816",
+  "votes": "38"
+}

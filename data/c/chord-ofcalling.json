@@ -1,0 +1,13 @@
+{
+  "title": "Chord of Calling",
+  "image": "../img/c/chord-ofcalling.jpg",
+  "convertedManaCost": "3",
+  "types": "Instant",
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for  or one mana of that creature's color.)Search your library for a creature card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Rare",
+  "cardNumber": "172",
+  "artist": "Karl Kopinski",
+  "rating": "3.778",
+  "votes": "9"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Hellrider",
+  "image": "../img/h/hellrider.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Devil",
+  "text": "HasteWhenever a creature you control attacks, Hellrider deals 1 damage to defending player.",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Rare",
+  "cardNumber": "52",
+  "artist": "Svetlin Velinov",
+  "rating": "3.712",
+  "votes": "52"
+}

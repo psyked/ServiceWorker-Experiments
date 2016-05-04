@@ -1,0 +1,13 @@
+{
+  "title": "Blizzard Specter",
+  "image": "../img/b/blizzard-specter.jpg",
+  "convertedManaCost": "4",
+  "types": "Snow Creature  — Specter",
+  "text": "FlyingWhenever Blizzard Specter deals combat damage to a player, choose one —• That player returns a permanent he or she controls to its owner's hand.• That player discards a card.",
+  "expansion": "Coldsnap",
+  "rarity": "Uncommon",
+  "cardNumber": "126",
+  "artist": "Hideaki Takamura",
+  "rating": "4.172",
+  "votes": "90"
+}

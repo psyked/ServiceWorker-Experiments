@@ -1,0 +1,13 @@
+{
+  "title": "Befoul",
+  "image": "../img/b/befoul.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Destroy target land or nonblack creature. It can't be regenerated.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "102",
+  "artist": "Luca Zontini",
+  "rating": "3.500",
+  "votes": "43"
+}

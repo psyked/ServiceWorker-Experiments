@@ -1,0 +1,13 @@
+{
+  "title": "Dance of the Dead",
+  "image": "../img/d/dance-ofthedead.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creature card in a graveyardWhen Dance of the Dead enters the battlefield, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with Dance of the Dead.\" Put enchanted creature card onto the battlefield tapped under your control and attach Dance of the Dead to it. When Dance of the Dead leaves the battlefield, that creature's controller sacrifices it.Enchanted creature gets +1/+1 and doesn't untap during its controller's untap step.At the beginning of the upkeep of enchanted creature's controller, that player may pay . If he or she does, untap that creature.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "83",
+  "artist": "Randy Gallegos",
+  "rating": "4.465",
+  "votes": "57"
+}

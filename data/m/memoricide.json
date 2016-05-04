@@ -1,0 +1,13 @@
+{
+  "title": "Memoricide",
+  "image": "../img/m/memoricide.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Name a nonland card. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles his or her library.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Rare",
+  "cardNumber": "69",
+  "artist": "James Ryman",
+  "rating": "4.177",
+  "votes": "110"
+}

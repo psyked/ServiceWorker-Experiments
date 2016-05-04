@@ -1,0 +1,13 @@
+{
+  "title": "Leshrac's Sigil",
+  "image": "../img/l/leshracs-sigil.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Whenever an opponent casts a green spell, you may pay . If you do, look at that player's hand and choose a card from it. The player discards that card.: Return Leshrac's Sigil to its owner's hand.",
+  "expansion": "Ice Age",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Drew Tucker",
+  "rating": "3.632",
+  "votes": "34"
+}

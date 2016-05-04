@@ -1,0 +1,13 @@
+{
+  "title": "Lyev Skyknight",
+  "image": "../img/l/lyev-skyknight.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Knight",
+  "text": "FlyingWhen Lyev Skyknight enters the battlefield, detain target nonland permanent an opponent controls. (Until your next turn, that permanent can't attack or block and its activated abilities can't be activated.)",
+  "expansion": "Return to Ravnica",
+  "rarity": "Uncommon",
+  "cardNumber": "179",
+  "artist": "Johannes Voss",
+  "rating": "3.897",
+  "votes": "78"
+}

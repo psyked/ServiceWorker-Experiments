@@ -1,0 +1,13 @@
+{
+  "title": "Chancellor of the Dross",
+  "image": "../img/c/chancellor-ofthedross.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Vampire",
+  "text": "You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent loses 3 life, then you gain life equal to the life lost this way.Flying, lifelink",
+  "expansion": "New Phyrexia",
+  "rarity": "Rare",
+  "cardNumber": "54",
+  "artist": "Stephan Martiniere",
+  "rating": "3.627",
+  "votes": "126"
+}

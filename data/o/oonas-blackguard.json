@@ -1,0 +1,13 @@
+{
+  "title": "Oona's Blackguard",
+  "image": "../img/o/oonas-blackguard.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Faerie Rogue",
+  "text": "FlyingEach other Rogue creature you control enters the battlefield with an additional +1/+1 counter on it.Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, that player discards a card.",
+  "expansion": "Morningtide",
+  "rarity": "Uncommon",
+  "cardNumber": "72",
+  "artist": "Kev Walker",
+  "rating": "3.769",
+  "votes": "78"
+}

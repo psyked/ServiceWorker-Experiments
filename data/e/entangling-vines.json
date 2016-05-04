@@ -1,0 +1,13 @@
+{
+  "title": "Entangling Vines",
+  "image": "../img/e/entangling-vines.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant tapped creatureEnchanted creature doesn't untap during its controller's untap step.",
+  "expansion": "Magic 2010",
+  "rarity": "Common",
+  "cardNumber": "181",
+  "artist": "Thomas M. Baxa",
+  "rating": "2.025",
+  "votes": "59"
+}

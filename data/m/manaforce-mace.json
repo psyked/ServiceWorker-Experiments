@@ -1,0 +1,13 @@
+{
+  "title": "Manaforce Mace",
+  "image": "../img/m/manaforce-mace.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact  — Equipment",
+  "text": "Domain — Equipped creature gets +1/+1 for each basic land type among lands you control.Equip",
+  "expansion": "Conflux",
+  "rarity": "Uncommon",
+  "cardNumber": "139",
+  "artist": "Jeremy Jarvis",
+  "rating": "2.277",
+  "votes": "56"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Cobbled Wings",
+  "image": "../img/c/cobbled-wings.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact  — Equipment",
+  "text": "Equipped creature has flying.Equip  (: Attach to target creature you control. Equip only as a sorcery.)",
+  "expansion": "Duel Decks: Blessed vs. Cursed",
+  "rarity": "Common",
+  "cardNumber": "69",
+  "artist": "Matt Stewart",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Obliterate",
+  "image": "../img/o/obliterate.jpg",
+  "convertedManaCost": "8",
+  "types": "Sorcery",
+  "text": "Obliterate can't be countered.Destroy all artifacts, creatures, and lands. They can't be regenerated.",
+  "expansion": "Eighth Edition",
+  "rarity": "Rare",
+  "cardNumber": "204",
+  "artist": "Kev Walker",
+  "rating": "4.253",
+  "votes": "77"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Rings of Brighthearth",
+  "image": "../img/r/rings-ofbrighthearth.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": "Whenever you activate an ability, if it isn't a mana ability, you may pay . If you do, copy that ability. You may choose new targets for the copy.",
+  "expansion": "Lorwyn",
+  "rarity": "Rare",
+  "cardNumber": "259",
+  "artist": "Howard Lyon",
+  "rating": "4.355",
+  "votes": "117"
+}

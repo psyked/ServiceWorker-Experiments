@@ -1,0 +1,13 @@
+{
+  "title": "Baleful Strix",
+  "image": "../img/b/baleful-strix.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact Creature  — Bird",
+  "text": "Flying, deathtouchWhen Baleful Strix enters the battlefield, draw a card.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "243",
+  "artist": "Nils Hamm",
+  "rating": "4.333",
+  "votes": "3"
+}

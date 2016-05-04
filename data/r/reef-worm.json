@@ -1,0 +1,13 @@
+{
+  "title": "Reef Worm",
+  "image": "../img/r/reef-worm.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Worm",
+  "text": "When Reef Worm dies, put a 3/3 blue Fish creature token onto the battlefield with \"When this creature dies, put a 6/6 blue Whale creature token onto the battlefield with ‘When this creature dies, put a 9/9 blue Kraken creature token onto the battlefield.'\"",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "16",
+  "artist": "Dan Scott",
+  "rating": "5",
+  "votes": "0"
+}

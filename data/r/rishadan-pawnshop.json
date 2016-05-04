@@ -1,0 +1,13 @@
+{
+  "title": "Rishadan Pawnshop",
+  "image": "../img/r/rishadan-pawnshop.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": ", : Shuffle target nontoken permanent you control into its owner's library.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "311",
+  "artist": "Joel Biske",
+  "rating": "3.167",
+  "votes": "30"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Frost Giant",
+  "image": "../img/f/frost-giant.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Giant",
+  "text": "Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)",
+  "expansion": "Masters Edition III",
+  "rarity": "Uncommon",
+  "cardNumber": "101",
+  "artist": "Daniel Gelon",
+  "rating": "2.640",
+  "votes": "25"
+}

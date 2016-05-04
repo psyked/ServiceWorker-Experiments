@@ -1,0 +1,13 @@
+{
+  "title": "Deal Broker",
+  "image": "../img/d/deal-broker.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Construct",
+  "text": "Draft Deal Broker face up.Immediately after the draft, you may reveal a card in your card pool. Each other player may offer you one card in his or her card pool in exchange. You may accept any one offer.: Draw a card, then discard a card.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Rare",
+  "cardNumber": "61",
+  "artist": "Cliff Childs",
+  "rating": "3.944",
+  "votes": "9"
+}

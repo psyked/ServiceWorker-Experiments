@@ -1,0 +1,13 @@
+{
+  "title": "Magnivore",
+  "image": "../img/m/magnivore.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Lhurgoyf",
+  "text": "Haste (This creature can attack the turn it comes under your control.)Magnivore's power and toughness are each equal to the number of sorcery cards in all graveyards.",
+  "expansion": "Ninth Edition",
+  "rarity": "Rare",
+  "cardNumber": "202",
+  "artist": "Carl Critchlow",
+  "rating": "4.139",
+  "votes": "54"
+}

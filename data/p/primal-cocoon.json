@@ -1,0 +1,13 @@
+{
+  "title": "Primal Cocoon",
+  "image": "../img/p/primal-cocoon.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureAt the beginning of your upkeep, put a +1/+1 counter on enchanted creature.When enchanted creature attacks or blocks, sacrifice Primal Cocoon.",
+  "expansion": "Magic 2011",
+  "rarity": "Common",
+  "cardNumber": "191",
+  "artist": "Daniel Ljunggren",
+  "rating": "3.261",
+  "votes": "71"
+}

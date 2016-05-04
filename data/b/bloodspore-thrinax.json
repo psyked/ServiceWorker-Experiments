@@ -1,0 +1,13 @@
+{
+  "title": "Bloodspore Thrinax",
+  "image": "../img/b/bloodspore-thrinax.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Lizard",
+  "text": "Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)Each other creature you control enters the battlefield with an additional X +1/+1 counters on it, where X is the number of +1/+1 counters on Bloodspore Thrinax.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "33",
+  "artist": "Ralph Horsley",
+  "rating": "5",
+  "votes": "0"
+}

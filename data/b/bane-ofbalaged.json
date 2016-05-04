@@ -1,0 +1,13 @@
+{
+  "title": "Bane of Bala Ged",
+  "image": "../img/b/bane-ofbalaged.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Eldrazi",
+  "text": "Whenever Bane of Bala Ged attacks, defending player exiles two permanents he or she controls.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Uncommon",
+  "cardNumber": "1",
+  "artist": "Chase Stone",
+  "rating": "5",
+  "votes": "0"
+}

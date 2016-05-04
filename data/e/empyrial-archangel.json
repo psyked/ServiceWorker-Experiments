@@ -1,0 +1,13 @@
+{
+  "title": "Empyrial Archangel",
+  "image": "../img/e/empyrial-archangel.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Angel",
+  "text": "FlyingShroud (This creature can't be the target of spells or abilities.)All damage that would be dealt to you is dealt to Empyrial Archangel instead.",
+  "expansion": "Shards of Alara",
+  "rarity": "Mythic Rare",
+  "cardNumber": "166",
+  "artist": "Greg Staples",
+  "rating": "4.014",
+  "votes": "146"
+}

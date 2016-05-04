@@ -1,0 +1,13 @@
+{
+  "title": "Pyromancer's Swath",
+  "image": "../img/p/pyromancers-swath.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "If an instant or sorcery source you control would deal damage to a creature or player, it deals that much damage plus 2 to that creature or player instead.At the beginning of each end step, discard your hand.",
+  "expansion": "Modern Masters",
+  "rarity": "Rare",
+  "cardNumber": "125",
+  "artist": "Hideaki Takamura",
+  "rating": "3.656",
+  "votes": "16"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "River Delta",
+  "image": "../img/r/river-delta.jpg",
+  "convertedManaCost": "",
+  "types": "Land",
+  "text": "River Delta doesn't untap during your untap step if it has a depletion counter on it.At the beginning of your upkeep, remove a depletion counter from River Delta.: Add  or  to your mana pool. Put a depletion counter on River Delta.",
+  "expansion": "Ice Age",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Sandra Everingham",
+  "rating": "2.111",
+  "votes": "27"
+}

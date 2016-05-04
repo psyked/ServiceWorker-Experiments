@@ -1,0 +1,13 @@
+{
+  "title": "Butcher Ghoul",
+  "image": "../img/b/butcher-ghoul.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie",
+  "text": "Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+  "expansion": "Duel Decks: Blessed vs. Cursed",
+  "rarity": "Common",
+  "cardNumber": "53",
+  "artist": "Christopher Moeller",
+  "rating": "5",
+  "votes": "0"
+}

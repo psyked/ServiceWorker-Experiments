@@ -1,0 +1,13 @@
+{
+  "title": "Cephalid Sage",
+  "image": "../img/c/cephalid-sage.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Cephalid",
+  "text": "Threshold — As long as seven or more cards are in your graveyard, Cephalid Sage has \"When Cephalid Sage enters the battlefield, draw three cards, then discard two cards.\"",
+  "expansion": "Torment",
+  "rarity": "Uncommon",
+  "cardNumber": "29",
+  "artist": "Keith Garletts",
+  "rating": "2.500",
+  "votes": "24"
+}

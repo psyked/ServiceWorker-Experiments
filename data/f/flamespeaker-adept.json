@@ -1,0 +1,13 @@
+{
+  "title": "Flamespeaker Adept",
+  "image": "../img/f/flamespeaker-adept.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Shaman",
+  "text": "Whenever you scry, Flamespeaker Adept gets +2/+0 and gains first strike until end of turn.",
+  "expansion": "Theros",
+  "rarity": "Uncommon",
+  "cardNumber": "123",
+  "artist": "Lucas Graciano",
+  "rating": "3.490",
+  "votes": "49"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Hedonist's Trove",
+  "image": "../img/h/hedonists-trove.jpg",
+  "convertedManaCost": "7",
+  "types": "Enchantment",
+  "text": "When Hedonist's Trove enters the battlefield, exile all cards from target opponent's graveyard.You may play land cards exiled with Hedonist's Trove.You may cast nonland cards exiled with Hedonist's Trove. You can't cast more than one spell this way each turn.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Rare",
+  "cardNumber": "106",
+  "artist": "Peter Mohrbacher",
+  "rating": "5",
+  "votes": "0"
+}

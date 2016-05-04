@@ -1,0 +1,13 @@
+{
+  "title": "Dazzling Reflection",
+  "image": "../img/d/dazzling-reflection.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "You gain life equal to target creature's power. The next time that creature would deal damage this turn, prevent that damage.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Common",
+  "cardNumber": "17",
+  "artist": "David Palumbo",
+  "rating": "5",
+  "votes": "0"
+}

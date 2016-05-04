@@ -1,0 +1,13 @@
+{
+  "title": "Carrionette",
+  "image": "../img/c/carrionette.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Skeleton",
+  "text": ": Exile Carrionette and target creature unless that creature's controller pays . Activate this ability only if Carrionette is in your graveyard.",
+  "expansion": "Tempest",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Pete Venters",
+  "rating": "3.952",
+  "votes": "42"
+}

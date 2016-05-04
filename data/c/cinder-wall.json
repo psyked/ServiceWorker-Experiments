@@ -1,0 +1,13 @@
+{
+  "title": "Cinder Wall",
+  "image": "../img/c/cinder-wall.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Wall",
+  "text": "DefenderWhen Cinder Wall blocks, destroy it at end of combat.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Common",
+  "cardNumber": "140",
+  "artist": "Anthony S. Waters",
+  "rating": "3.250",
+  "votes": "4"
+}

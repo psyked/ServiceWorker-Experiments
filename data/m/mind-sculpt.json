@@ -1,0 +1,13 @@
+{
+  "title": "Mind Sculpt",
+  "image": "../img/m/mind-sculpt.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Target opponent puts the top seven cards of his or her library into his or her graveyard.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "70",
+  "artist": "Michael C. Hayes",
+  "rating": "2.250",
+  "votes": "6"
+}

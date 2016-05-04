@@ -1,0 +1,13 @@
+{
+  "title": "Flamewave Invoker",
+  "image": "../img/f/flamewave-invoker.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Mutant",
+  "text": ": Flamewave Invoker deals 5 damage to target player.",
+  "expansion": "Duel Decks Anthology, Jace vs. Chandra",
+  "rarity": "Uncommon",
+  "cardNumber": "40",
+  "artist": "Dave Dorman",
+  "rating": "5",
+  "votes": "0"
+}

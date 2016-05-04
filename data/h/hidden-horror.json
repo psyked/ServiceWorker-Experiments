@@ -1,0 +1,13 @@
+{
+  "title": "Hidden Horror",
+  "image": "../img/h/hidden-horror.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Horror",
+  "text": "When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.",
+  "expansion": "Premium Deck Series: Graveborn",
+  "rarity": "Uncommon",
+  "cardNumber": "2",
+  "artist": "Brom",
+  "rating": "3.948",
+  "votes": "29"
+}

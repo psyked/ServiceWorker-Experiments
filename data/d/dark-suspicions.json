@@ -1,0 +1,13 @@
+{
+  "title": "Dark Suspicions",
+  "image": "../img/d/dark-suspicions.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "At the beginning of each opponent's upkeep, that player loses X life, where X is the number of cards in that player's hand minus the number of cards in your hand.",
+  "expansion": "Planeshift",
+  "rarity": "Rare",
+  "cardNumber": "40",
+  "artist": "Matt Cavotta",
+  "rating": "3.786",
+  "votes": "35"
+}

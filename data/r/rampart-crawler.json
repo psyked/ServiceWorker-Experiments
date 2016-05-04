@@ -1,0 +1,13 @@
+{
+  "title": "Rampart Crawler",
+  "image": "../img/r/rampart-crawler.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Lizard Mercenary",
+  "text": "Rampart Crawler can't be blocked by Walls.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Common",
+  "cardNumber": "156",
+  "artist": "Pete Venters",
+  "rating": "2.192",
+  "votes": "39"
+}

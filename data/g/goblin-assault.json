@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Assault",
+  "image": "../img/g/goblin-assault.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "At the beginning of your upkeep, put a 1/1 red Goblin creature token with haste onto the battlefield.Goblin creatures attack each turn if able.",
+  "expansion": "Shards of Alara",
+  "rarity": "Rare",
+  "cardNumber": "101",
+  "artist": "Jaime Jones",
+  "rating": "2.976",
+  "votes": "85"
+}

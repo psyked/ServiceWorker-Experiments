@@ -1,0 +1,13 @@
+{
+  "title": "Pardic Swordsmith",
+  "image": "../img/p/pardic-swordsmith.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Dwarf",
+  "text": ", Discard a card at random: Pardic Swordsmith gets +2/+0 until end of turn.",
+  "expansion": "Odyssey",
+  "rarity": "Common",
+  "cardNumber": "213",
+  "artist": "Bob Petillo",
+  "rating": "1.441",
+  "votes": "34"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Barrin's Unmaking",
+  "image": "../img/b/barrins-unmaking.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Return target permanent to its owner's hand if that permanent shares a color with the most common color among all permanents or a color tied for most common.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "46",
+  "artist": "Luca Zontini",
+  "rating": "2.130",
+  "votes": "27"
+}

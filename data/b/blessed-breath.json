@@ -1,0 +1,13 @@
+{
+  "title": "Blessed Breath",
+  "image": "../img/b/blessed-breath.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant  — Arcane",
+  "text": "Target creature you control gains protection from the color of your choice until end of turn.Splice onto Arcane  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "1",
+  "artist": "Tsutomu Kawade",
+  "rating": "3.202",
+  "votes": "47"
+}

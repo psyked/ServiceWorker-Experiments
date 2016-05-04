@@ -1,0 +1,13 @@
+{
+  "title": "Descendant of Masumaro",
+  "image": "../img/d/descendant-ofmasumaro.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Monk",
+  "text": "At the beginning of your upkeep, put a +1/+1 counter on Descendant of Masumaro for each card in your hand, then remove a +1/+1 counter from Descendant of Masumaro for each card in target opponent's hand.",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Uncommon",
+  "cardNumber": "126",
+  "artist": "Rob Alexander",
+  "rating": "3.038",
+  "votes": "26"
+}

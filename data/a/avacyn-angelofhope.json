@@ -1,0 +1,13 @@
+{
+  "title": "Avacyn, Angel of Hope",
+  "image": "../img/a/avacyn-angelofhope.jpg",
+  "convertedManaCost": "8",
+  "types": "Legendary Creature  — Angel",
+  "text": "Flying, vigilance, indestructibleOther permanents you control have indestructible.",
+  "expansion": "From the Vault: Angels",
+  "rarity": "Mythic Rare",
+  "cardNumber": "5",
+  "artist": "Jason Chan",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Clone Legion",
+  "image": "../img/c/clone-legion.jpg",
+  "convertedManaCost": "9",
+  "types": "Sorcery",
+  "text": "For each creature target player controls, put a token onto the battlefield that's a copy of that creature.",
+  "expansion": "Dragons of Tarkir",
+  "rarity": "Mythic Rare",
+  "cardNumber": "48",
+  "artist": "Svetlin Velinov",
+  "rating": "5",
+  "votes": "0"
+}

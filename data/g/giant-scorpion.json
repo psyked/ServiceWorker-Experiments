@@ -1,0 +1,13 @@
+{
+  "title": "Giant Scorpion",
+  "image": "../img/g/giant-scorpion.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Scorpion",
+  "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "expansion": "Magic 2013",
+  "rarity": "Common",
+  "cardNumber": "94",
+  "artist": "Raymond Swanland",
+  "rating": "3.049",
+  "votes": "51"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Goblin Grappler",
+  "image": "../img/g/goblin-grappler.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Goblin",
+  "text": "Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)",
+  "expansion": "Legions",
+  "rarity": "Common",
+  "cardNumber": "100",
+  "artist": "Christopher Moeller",
+  "rating": "3.625",
+  "votes": "32"
+}

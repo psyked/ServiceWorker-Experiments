@@ -1,0 +1,13 @@
+{
+  "title": "Act of Authority",
+  "image": "../img/a/act-ofauthority.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "When Act of Authority enters the battlefield, you may exile target artifact or enchantment.At the beginning of your upkeep, you may exile target artifact or enchantment. If you do, its controller gains control of Act of Authority.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Rare",
+  "cardNumber": "1",
+  "artist": "Véronique Meignaud",
+  "rating": "3.750",
+  "votes": "22"
+}

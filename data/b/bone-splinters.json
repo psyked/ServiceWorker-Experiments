@@ -1,0 +1,13 @@
+{
+  "title": "Bone Splinters",
+  "image": "../img/b/bone-splinters.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "As an additional cost to cast Bone Splinters, sacrifice a creature.Destroy target creature.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Common",
+  "cardNumber": "105",
+  "artist": "Deruchenko Alexander",
+  "rating": "5",
+  "votes": "0"
+}

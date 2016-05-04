@@ -1,0 +1,13 @@
+{
+  "title": "Krosan Groundshaker",
+  "image": "../img/k/krosan-groundshaker.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Beast",
+  "text": ": Target Beast creature gains trample until end of turn.",
+  "expansion": "Onslaught",
+  "rarity": "Uncommon",
+  "cardNumber": "271",
+  "artist": "Wayne England",
+  "rating": "3.439",
+  "votes": "33"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Eldrazi Spawn",
+  "image": "../img/e/eldrazi-spawn.jpg",
+  "convertedManaCost": "",
+  "types": "Token Creature — Eldrazi Spawn",
+  "text": "Sacrifice this creature: Add  to your mana pool.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Common",
+  "cardNumber": "76",
+  "artist": "Aleksi Briclot",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Fire Servant",
+  "image": "../img/f/fire-servant.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Elemental",
+  "text": "If a red instant or sorcery spell you control would deal damage, it deals double that damage instead.",
+  "expansion": "Premium Deck Series: Fire and Lightning",
+  "rarity": "Uncommon",
+  "cardNumber": "15",
+  "artist": "Ryan Yee",
+  "rating": "3.562",
+  "votes": "97"
+}

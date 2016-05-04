@@ -1,0 +1,13 @@
+{
+  "title": "Purphoros, God of the Forge",
+  "image": "../img/p/purphoros-godoftheforge.jpg",
+  "convertedManaCost": "4",
+  "types": "Legendary Enchantment Creature  — God",
+  "text": "IndestructibleAs long as your devotion to red is less than five, Purphoros isn't a creature.Whenever another creature enters the battlefield under your control, Purphoros deals 2 damage to each opponent.: Creatures you control get +1/+0 until end of turn.",
+  "expansion": "Theros",
+  "rarity": "Mythic Rare",
+  "cardNumber": "135",
+  "artist": "Eric Deschamps",
+  "rating": "3.806",
+  "votes": "188"
+}

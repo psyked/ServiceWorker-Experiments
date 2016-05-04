@@ -1,0 +1,13 @@
+{
+  "title": "Feral Invocation",
+  "image": "../img/f/feral-invocation.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)Enchant creatureEnchanted creature gets +2/+2.",
+  "expansion": "Theros",
+  "rarity": "Common",
+  "cardNumber": "158",
+  "artist": "Mathias Kollros",
+  "rating": "3.370",
+  "votes": "27"
+}

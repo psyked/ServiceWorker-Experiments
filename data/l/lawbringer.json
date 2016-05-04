@@ -1,0 +1,13 @@
+{
+  "title": "Lawbringer",
+  "image": "../img/l/lawbringer.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Kor Rebel",
+  "text": ", Sacrifice Lawbringer: Exile target red creature.",
+  "expansion": "Nemesis",
+  "rarity": "Common",
+  "cardNumber": "10",
+  "artist": "Matt Cavotta",
+  "rating": "2.629",
+  "votes": "31"
+}

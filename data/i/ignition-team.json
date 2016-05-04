@@ -1,0 +1,13 @@
+{
+  "title": "Ignition Team",
+  "image": "../img/i/ignition-team.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Goblin Warrior",
+  "text": "Ignition Team enters the battlefield with X +1/+1 counters on it, where X is the number of tapped lands on the battlefield., Remove a +1/+1 counter from Ignition Team: Target land becomes a 4/4 red Elemental creature until end of turn. It's still a land.",
+  "expansion": "Magic: The Gathering—Conspiracy",
+  "rarity": "Rare",
+  "cardNumber": "34",
+  "artist": "Karl Kopinski",
+  "rating": "3.700",
+  "votes": "10"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Honored Hierarch",
+  "image": "../img/h/honored-hierarch.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Human Druid",
+  "text": "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)As long as Honored Hierarch is renowned, it has vigilance and \": Add one mana of any color to your mana pool.\"",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "182",
+  "artist": "Matt Stewart",
+  "rating": "5",
+  "votes": "0"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Rockcaster Platoon",
+  "image": "../img/r/rockcaster-platoon.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Rhino Soldier",
+  "text": ": Rockcaster Platoon deals 2 damage to each creature with flying and each player.",
+  "expansion": "Shards of Alara",
+  "rarity": "Uncommon",
+  "cardNumber": "23",
+  "artist": "David Palumbo",
+  "rating": "2.560",
+  "votes": "50"
+}

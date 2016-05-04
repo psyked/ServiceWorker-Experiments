@@ -1,0 +1,13 @@
+{
+  "title": "Lurking Informant",
+  "image": "../img/l/lurking-informant.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Rogue",
+  "text": "( can be paid with either  or .), : Look at the top card of target player's library. You may put that card into that player's graveyard.",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "249",
+  "artist": "Ron Spears",
+  "rating": "3.500",
+  "votes": "48"
+}

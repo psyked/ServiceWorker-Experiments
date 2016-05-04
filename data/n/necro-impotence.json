@@ -1,0 +1,13 @@
+{
+  "title": "Necro-Impotence",
+  "image": "../img/n/necro-impotence.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Skip your untap step.At the beginning of your upkeep, you may pay X life. If you do, untap X permanents.Pay ½ life: Remove the top card of your library from the game face down. Put that card into your hand at end of turn.",
+  "expansion": "Unhinged",
+  "rarity": "Rare",
+  "cardNumber": "60",
+  "artist": "Mark Tedin",
+  "rating": "4.521",
+  "votes": "47"
+}

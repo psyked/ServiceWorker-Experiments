@@ -1,0 +1,13 @@
+{
+  "title": "Binding Agony",
+  "image": "../img/b/binding-agony.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureWhenever enchanted creature is dealt damage, Binding Agony deals that much damage to that creature's controller.",
+  "expansion": "Mirage",
+  "rarity": "Common",
+  "cardNumber": "",
+  "artist": "Robert Bliss",
+  "rating": "2.770",
+  "votes": "37"
+}

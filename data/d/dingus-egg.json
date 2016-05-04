@@ -1,0 +1,13 @@
+{
+  "title": "Dingus Egg",
+  "image": "../img/d/dingus-egg.jpg",
+  "convertedManaCost": "4",
+  "types": "Artifact",
+  "text": "Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.",
+  "expansion": "Eighth Edition",
+  "rarity": "Rare",
+  "cardNumber": "297",
+  "artist": "Randy Gallegos",
+  "rating": "3.562",
+  "votes": "56"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Exploding Borders",
+  "image": "../img/e/exploding-borders.jpg",
+  "convertedManaCost": "4",
+  "types": "Sorcery",
+  "text": "Domain — Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Exploding Borders deals X damage to target player, where X is the number of basic land types among lands you control.",
+  "expansion": "Conflux",
+  "rarity": "Common",
+  "cardNumber": "106",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "rating": "2.968",
+  "votes": "63"
+}

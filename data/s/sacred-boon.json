@@ -1,0 +1,13 @@
+{
+  "title": "Sacred Boon",
+  "image": "../img/s/sacred-boon.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Prevent the next 3 damage that would be dealt to target creature this turn. At the beginning of the next end step, put a +0/+1 counter on that creature for each 1 damage prevented this way.",
+  "expansion": "Masters Edition II",
+  "rarity": "Uncommon",
+  "cardNumber": "33",
+  "artist": "Mike Raabe",
+  "rating": "3.167",
+  "votes": "33"
+}

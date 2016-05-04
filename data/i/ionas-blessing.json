@@ -1,0 +1,13 @@
+{
+  "title": "Iona's Blessing",
+  "image": "../img/i/ionas-blessing.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant creatureEnchanted creature gets +2/+2, has vigilance, and can block an additional creature.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "21",
+  "artist": "David Gaillet",
+  "rating": "5",
+  "votes": "0"
+}

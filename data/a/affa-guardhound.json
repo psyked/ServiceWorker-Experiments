@@ -1,0 +1,13 @@
+{
+  "title": "Affa Guard Hound",
+  "image": "../img/a/affa-guardhound.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Hound",
+  "text": "FlashWhen Affa Guard Hound enters the battlefield, target creature gets +0/+3 until end of turn.",
+  "expansion": "Duel Decks: Zendikar vs. Eldrazi",
+  "rarity": "Uncommon",
+  "cardNumber": "2",
+  "artist": "Ryan Pancoast",
+  "rating": "5",
+  "votes": "0"
+}

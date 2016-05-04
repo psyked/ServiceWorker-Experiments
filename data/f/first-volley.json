@@ -1,0 +1,13 @@
+{
+  "title": "First Volley",
+  "image": "../img/f/first-volley.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant  — Arcane",
+  "text": "First Volley deals 1 damage to target creature and 1 damage to that creature's controller.",
+  "expansion": "Betrayers of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "100",
+  "artist": "Glen Angus",
+  "rating": "1.765",
+  "votes": "34"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Conspiracy",
+  "image": "../img/c/conspiracy.jpg",
+  "convertedManaCost": "5",
+  "types": "Enchantment",
+  "text": "As Conspiracy enters the battlefield, choose a creature type.Creature cards you own that aren't on the battlefield, creature spells you control, and creatures you control are the chosen type.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "39",
+  "artist": "Jeff Easley",
+  "rating": "4.241",
+  "votes": "81"
+}

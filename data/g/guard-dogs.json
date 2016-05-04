@@ -1,0 +1,13 @@
+{
+  "title": "Guard Dogs",
+  "image": "../img/g/guard-dogs.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Hound",
+  "text": ", : Choose a permanent you control. Prevent all combat damage target creature would deal this turn if it shares a color with that permanent.",
+  "expansion": "Planeshift",
+  "rarity": "Uncommon",
+  "cardNumber": "5",
+  "artist": "Mike Raabe",
+  "rating": "2.659",
+  "votes": "22"
+}

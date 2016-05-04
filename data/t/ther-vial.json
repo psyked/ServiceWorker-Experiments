@@ -1,0 +1,13 @@
+{
+  "title": "Æther Vial",
+  "image": "../img/t/ther-vial.jpg",
+  "convertedManaCost": "1",
+  "types": "Artifact",
+  "text": "At the beginning of your upkeep, you may put a charge counter on Æther Vial.: You may put a creature card with converted mana cost equal to the number of charge counters on Æther Vial from your hand onto the battlefield.",
+  "expansion": "Modern Masters",
+  "rarity": "Rare",
+  "cardNumber": "197",
+  "artist": "Karl Kopinski",
+  "rating": "4.525",
+  "votes": "81"
+}

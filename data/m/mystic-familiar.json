@@ -1,0 +1,13 @@
+{
+  "title": "Mystic Familiar",
+  "image": "../img/m/mystic-familiar.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Bird",
+  "text": "FlyingThreshold — As long as seven or more cards are in your graveyard, Mystic Familiar gets +1/+1 and has protection from black.",
+  "expansion": "Torment",
+  "rarity": "Common",
+  "cardNumber": "11",
+  "artist": "Edward P. Beard, Jr.",
+  "rating": "3.438",
+  "votes": "32"
+}

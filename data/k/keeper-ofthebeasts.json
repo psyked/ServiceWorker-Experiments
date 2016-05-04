@@ -1,0 +1,13 @@
+{
+  "title": "Keeper of the Beasts",
+  "image": "../img/k/keeper-ofthebeasts.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Wizard",
+  "text": ", : Choose target opponent who controlled more creatures than you did as you activated this ability. Put a 2/2 green Beast creature token onto the battlefield.",
+  "expansion": "Exodus",
+  "rarity": "Uncommon",
+  "cardNumber": "112",
+  "artist": "rk post",
+  "rating": "3.621",
+  "votes": "29"
+}

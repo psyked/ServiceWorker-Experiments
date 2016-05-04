@@ -1,0 +1,13 @@
+{
+  "title": "Legion's Initiative",
+  "image": "../img/l/legions-initiative.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment",
+  "text": "Red creatures you control get +1/+0.White creatures you control get +0/+1., Exile Legion's Initiative: Exile all creatures you control. At the beginning of the next combat, return those cards to the battlefield under their owner's control and those creatures gain haste until end of turn.",
+  "expansion": "Dragon's Maze",
+  "rarity": "Mythic Rare",
+  "cardNumber": "81",
+  "artist": "Jaime Jones",
+  "rating": "3.821",
+  "votes": "92"
+}

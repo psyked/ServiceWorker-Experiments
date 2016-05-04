@@ -1,0 +1,13 @@
+{
+  "title": "Elvish Pioneer",
+  "image": "../img/e/elvish-pioneer.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Druid",
+  "text": "When Elvish Pioneer enters the battlefield, you may put a basic land card from your hand onto the battlefield tapped.",
+  "expansion": "Eighth Edition",
+  "rarity": "Common",
+  "cardNumber": "243",
+  "artist": "Thomas M. Baxa",
+  "rating": "3.804",
+  "votes": "46"
+}

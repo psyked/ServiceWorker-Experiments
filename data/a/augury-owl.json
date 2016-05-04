@@ -1,0 +1,13 @@
+{
+  "title": "Augury Owl",
+  "image": "../img/a/augury-owl.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Bird",
+  "text": "FlyingWhen Augury Owl enters the battlefield, scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "expansion": "Planechase 2012 Edition",
+  "rarity": "Common",
+  "cardNumber": "14",
+  "artist": "Jim Nelson",
+  "rating": "3.658",
+  "votes": "38"
+}

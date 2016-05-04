@@ -1,0 +1,13 @@
+{
+  "title": "Elder of Laurels",
+  "image": "../img/e/elder-oflaurels.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Advisor",
+  "text": ": Target creature gets +X/+X until end of turn, where X is the number of creatures you control.",
+  "expansion": "Innistrad",
+  "rarity": "Rare",
+  "cardNumber": "177",
+  "artist": "Terese Nielsen",
+  "rating": "3.509",
+  "votes": "53"
+}

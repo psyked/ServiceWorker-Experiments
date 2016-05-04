@@ -1,0 +1,13 @@
+{
+  "title": "Paradox Haze",
+  "image": "../img/p/paradox-haze.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant playerAt the beginning of enchanted player's first upkeep each turn, that player gets an additional upkeep step after this step.",
+  "expansion": "Time Spiral",
+  "rarity": "Uncommon",
+  "cardNumber": "71",
+  "artist": "Greg Staples",
+  "rating": "4.204",
+  "votes": "140"
+}

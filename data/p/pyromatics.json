@@ -1,0 +1,13 @@
+{
+  "title": "Pyromatics",
+  "image": "../img/p/pyromatics.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Replicate  (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)Pyromatics deals 1 damage to target creature or player.",
+  "expansion": "Duel Decks: Izzet vs. Golgari",
+  "rarity": "Common",
+  "cardNumber": "20",
+  "artist": "Glen Angus",
+  "rating": "2.694",
+  "votes": "18"
+}

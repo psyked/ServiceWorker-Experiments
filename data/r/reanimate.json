@@ -1,0 +1,13 @@
+{
+  "title": "Reanimate",
+  "image": "../img/r/reanimate.jpg",
+  "convertedManaCost": "1",
+  "types": "Sorcery",
+  "text": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.",
+  "expansion": "Tempest Remastered",
+  "rarity": "Uncommon",
+  "cardNumber": "112",
+  "artist": "Robert Bliss",
+  "rating": "5",
+  "votes": "0"
+}

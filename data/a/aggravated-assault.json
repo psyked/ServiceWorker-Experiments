@@ -1,0 +1,13 @@
+{
+  "title": "Aggravated Assault",
+  "image": "../img/a/aggravated-assault.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": ": Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate this ability only any time you could cast a sorcery.",
+  "expansion": "Onslaught",
+  "rarity": "Rare",
+  "cardNumber": "185",
+  "artist": "Greg Staples",
+  "rating": "4.289",
+  "votes": "45"
+}

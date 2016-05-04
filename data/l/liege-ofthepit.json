@@ -1,0 +1,13 @@
+{
+  "title": "Liege of the Pit",
+  "image": "../img/l/liege-ofthepit.jpg",
+  "convertedManaCost": "8",
+  "types": "Creature  — Demon",
+  "text": "Flying, trampleAt the beginning of your upkeep, sacrifice a creature other than Liege of the Pit. If you can't, Liege of the Pit deals 7 damage to you.Morph  (You may cast this card face down as a 2/2 creature for . Turn it face up any time for its morph cost.)",
+  "expansion": "Time Spiral",
+  "rarity": "Rare",
+  "cardNumber": "113",
+  "artist": "Jeremy Jarvis",
+  "rating": "3.830",
+  "votes": "56"
+}

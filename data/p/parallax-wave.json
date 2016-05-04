@@ -1,0 +1,13 @@
+{
+  "title": "Parallax Wave",
+  "image": "../img/p/parallax-wave.jpg",
+  "convertedManaCost": "4",
+  "types": "Enchantment",
+  "text": "Fading 5 (This enchantment enters the battlefield with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)Remove a fade counter from Parallax Wave: Exile target creature.When Parallax Wave leaves the battlefield, each player returns to the battlefield all cards he or she owns exiled with Parallax Wave.",
+  "expansion": "Vintage Masters",
+  "rarity": "Rare",
+  "cardNumber": "37",
+  "artist": "Greg Staples",
+  "rating": "4.000",
+  "votes": "1"
+}

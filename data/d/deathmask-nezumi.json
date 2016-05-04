@@ -1,0 +1,13 @@
+{
+  "title": "Deathmask Nezumi",
+  "image": "../img/d/deathmask-nezumi.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Rat Shaman",
+  "text": "As long as you have seven or more cards in hand, Deathmask Nezumi gets +2/+1 and has fear. (It can't be blocked except by artifact creatures and/or black creatures.)",
+  "expansion": "Saviors of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "66",
+  "artist": "Daren Bader",
+  "rating": "2.457",
+  "votes": "35"
+}

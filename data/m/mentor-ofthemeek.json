@@ -1,0 +1,13 @@
+{
+  "title": "Mentor of the Meek",
+  "image": "../img/m/mentor-ofthemeek.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Soldier",
+  "text": "Whenever another creature with power 2 or less enters the battlefield under your control, you may pay . If you do, draw a card.",
+  "expansion": "Commander 2014",
+  "rarity": "Rare",
+  "cardNumber": "79",
+  "artist": "Jana Schirmer & Johannes Voss",
+  "rating": "5",
+  "votes": "0"
+}

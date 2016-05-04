@@ -1,0 +1,13 @@
+{
+  "title": "Dandân",
+  "image": "../img/d/dandn.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Fish",
+  "text": "Dandân can't attack unless defending player controls an Island.When you control no Islands, sacrifice Dandân.",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "19",
+  "artist": "Drew Tucker",
+  "rating": "2.984",
+  "votes": "62"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Order of the Golden Cricket",
+  "image": "../img/o/order-ofthegoldencricket.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kithkin Knight",
+  "text": "Whenever Order of the Golden Cricket attacks, you may pay . If you do, it gains flying until end of turn.",
+  "expansion": "Morningtide",
+  "rarity": "Common",
+  "cardNumber": "19",
+  "artist": "Mark Zug",
+  "rating": "3.120",
+  "votes": "46"
+}

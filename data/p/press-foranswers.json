@@ -1,0 +1,13 @@
+{
+  "title": "Press for Answers",
+  "image": "../img/p/press-foranswers.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Tap target creature. It doesn't untap during its controller's next untap step.Investigate. (Put a colorless Clue artifact token onto the battlefield with \", Sacrifice this artifact: Draw a card.\")",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Common",
+  "cardNumber": "80",
+  "artist": "Steve Prescott",
+  "rating": "5",
+  "votes": "0"
+}

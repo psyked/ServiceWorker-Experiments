@@ -1,0 +1,13 @@
+{
+  "title": "Abzan Banner",
+  "image": "../img/a/abzan-banner.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact",
+  "text": ": Add , , or  to your mana pool., , Sacrifice Abzan Banner: Draw a card.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "215",
+  "artist": "Daniel Ljunggren",
+  "rating": "2.250",
+  "votes": "6"
+}

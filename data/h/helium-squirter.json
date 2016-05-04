@@ -1,0 +1,13 @@
+{
+  "title": "Helium Squirter",
+  "image": "../img/h/helium-squirter.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Beast Mutant",
+  "text": "Graft 3 (This creature enters the battlefield with three +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.): Target creature with a +1/+1 counter on it gains flying until end of turn.",
+  "expansion": "Modern Masters 2015 Edition",
+  "rarity": "Common",
+  "cardNumber": "47",
+  "artist": "Hideaki Takamura",
+  "rating": "5",
+  "votes": "0"
+}

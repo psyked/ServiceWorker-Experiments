@@ -1,0 +1,13 @@
+{
+  "title": "Belligerent Hatchling",
+  "image": "../img/b/belligerent-hatchling.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Elemental",
+  "text": "First strikeBelligerent Hatchling enters the battlefield with four -1/-1 counters on it.Whenever you cast a red spell, remove a -1/-1 counter from Belligerent Hatchling.Whenever you cast a white spell, remove a -1/-1 counter from Belligerent Hatchling.",
+  "expansion": "Eventide",
+  "rarity": "Uncommon",
+  "cardNumber": "134",
+  "artist": "Steve Prescott",
+  "rating": "3.440",
+  "votes": "50"
+}

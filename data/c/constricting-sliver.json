@@ -1,0 +1,13 @@
+{
+  "title": "Constricting Sliver",
+  "image": "../img/c/constricting-sliver.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Sliver",
+  "text": "Sliver creatures you control have \"When this creature enters the battlefield, you may exile target creature an opponent controls until this creature leaves the battlefield.\"",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Uncommon",
+  "cardNumber": "7",
+  "artist": "Karl Kopinski",
+  "rating": "3.688",
+  "votes": "8"
+}

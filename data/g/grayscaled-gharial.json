@@ -1,0 +1,13 @@
+{
+  "title": "Grayscaled Gharial",
+  "image": "../img/g/grayscaled-gharial.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Crocodile",
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)",
+  "expansion": "Ravnica: City of Guilds",
+  "rarity": "Common",
+  "cardNumber": "52",
+  "artist": "Chris Dien",
+  "rating": "2.594",
+  "votes": "53"
+}

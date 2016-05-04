@@ -1,0 +1,13 @@
+{
+  "title": "Funeral Charm",
+  "image": "../img/f/funeral-charm.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Choose one —• Target player discards a card.• Target creature gets +2/-1 until end of turn.• Target creature gains swampwalk until end of turn. (It can't be blocked as long as defending player controls a Swamp.)",
+  "expansion": "Time Spiral \"Timeshifted\"",
+  "rarity": "Special",
+  "cardNumber": "44",
+  "artist": "Greg Spalenka",
+  "rating": "4.284",
+  "votes": "67"
+}

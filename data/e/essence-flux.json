@@ -1,0 +1,13 @@
+{
+  "title": "Essence Flux",
+  "image": "../img/e/essence-flux.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Exile target creature you control, then return that card to the battlefield under its owner's control. If it's a Spirit, put a +1/+1 counter on it.",
+  "expansion": "Shadows over Innistrad",
+  "rarity": "Uncommon",
+  "cardNumber": "61",
+  "artist": "Seb McKinnon",
+  "rating": "5",
+  "votes": "0"
+}

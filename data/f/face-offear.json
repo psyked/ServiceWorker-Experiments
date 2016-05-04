@@ -1,0 +1,13 @@
+{
+  "title": "Face of Fear",
+  "image": "../img/f/face-offear.jpg",
+  "convertedManaCost": "6",
+  "types": "Creature  — Horror",
+  "text": ", Discard a card: Face of Fear gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",
+  "expansion": "Odyssey",
+  "rarity": "Uncommon",
+  "cardNumber": "134",
+  "artist": "Thomas M. Baxa",
+  "rating": "0.814",
+  "votes": "132"
+}

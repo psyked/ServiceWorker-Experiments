@@ -1,0 +1,13 @@
+{
+  "title": "Daru Spiritualist",
+  "image": "../img/d/daru-spiritualist.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Cleric",
+  "text": "Whenever a Cleric creature you control becomes the target of a spell or ability, it gets +0/+2 until end of turn.",
+  "expansion": "Scourge",
+  "rarity": "Common",
+  "cardNumber": "5",
+  "artist": "Dave Dorman",
+  "rating": "3.722",
+  "votes": "45"
+}

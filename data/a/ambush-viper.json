@@ -1,0 +1,13 @@
+{
+  "title": "Ambush Viper",
+  "image": "../img/a/ambush-viper.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Snake",
+  "text": "Flash (You may cast this spell any time you could cast an instant.)Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "expansion": "Innistrad",
+  "rarity": "Common",
+  "cardNumber": "169",
+  "artist": "Alan Pollack",
+  "rating": "3.963",
+  "votes": "218"
+}

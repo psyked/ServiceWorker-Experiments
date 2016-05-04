@@ -1,0 +1,13 @@
+{
+  "title": "Orochi Hatchery",
+  "image": "../img/o/orochi-hatchery.jpg",
+  "convertedManaCost": "0",
+  "types": "Artifact",
+  "text": "Orochi Hatchery enters the battlefield with X charge counters on it., : Put a 1/1 green Snake creature token onto the battlefield for each charge counter on Orochi Hatchery.",
+  "expansion": "Commander 2015",
+  "rarity": "Rare",
+  "cardNumber": "260",
+  "artist": "Alex Horley-Orlandelli",
+  "rating": "5",
+  "votes": "0"
+}

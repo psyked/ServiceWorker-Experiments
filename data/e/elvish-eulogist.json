@@ -1,0 +1,13 @@
+{
+  "title": "Elvish Eulogist",
+  "image": "../img/e/elvish-eulogist.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Elf Shaman",
+  "text": "Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.",
+  "expansion": "Duel Decks Anthology, Elves vs. Goblins",
+  "rarity": "Common",
+  "cardNumber": "3",
+  "artist": "Ben Thompson",
+  "rating": "5",
+  "votes": "0"
+}

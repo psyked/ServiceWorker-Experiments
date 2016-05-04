@@ -1,0 +1,13 @@
+{
+  "title": "Browbeat",
+  "image": "../img/b/browbeat.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Any player may have Browbeat deal 5 damage to him or her. If no one does, target player draws three cards.",
+  "expansion": "Duel Decks: Sorin vs. Tibalt",
+  "rarity": "Uncommon",
+  "cardNumber": "66",
+  "artist": "Chris Rahn",
+  "rating": "3.579",
+  "votes": "63"
+}

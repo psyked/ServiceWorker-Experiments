@@ -1,0 +1,13 @@
+{
+  "title": "Intervention Pact",
+  "image": "../img/i/intervention-pact.jpg",
+  "convertedManaCost": "0",
+  "types": "Instant",
+  "text": "The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.At the beginning of your next upkeep, pay . If you don't, you lose the game.",
+  "expansion": "Future Sight",
+  "rarity": "Rare",
+  "cardNumber": "8",
+  "artist": "Dave Kendall",
+  "rating": "3.640",
+  "votes": "43"
+}

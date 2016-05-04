@@ -1,0 +1,13 @@
+{
+  "title": "Living Totem",
+  "image": "../img/l/living-totem.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Plant Elemental",
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for  or one mana of that creature's color.)When Living Totem enters the battlefield, you may put a +1/+1 counter on another target creature.",
+  "expansion": "Magic 2015 Core Set",
+  "rarity": "Common",
+  "cardNumber": "184",
+  "artist": "Svetlin Velinov",
+  "rating": "2.429",
+  "votes": "7"
+}

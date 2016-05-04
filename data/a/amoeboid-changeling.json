@@ -1,0 +1,13 @@
+{
+  "title": "Amoeboid Changeling",
+  "image": "../img/a/amoeboid-changeling.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Shapeshifter",
+  "text": "Changeling (This card is every creature type.): Target creature gains all creature types until end of turn.: Target creature loses all creature types until end of turn.",
+  "expansion": "Premium Deck Series: Slivers",
+  "rarity": "Common",
+  "cardNumber": "3",
+  "artist": "Nils Hamm",
+  "rating": "3.804",
+  "votes": "56"
+}

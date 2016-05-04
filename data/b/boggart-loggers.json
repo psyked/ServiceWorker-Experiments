@@ -1,0 +1,13 @@
+{
+  "title": "Boggart Loggers",
+  "image": "../img/b/boggart-loggers.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Goblin Rogue",
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.), Sacrifice Boggart Loggers: Destroy target Treefolk or Forest.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "103",
+  "artist": "Jesper Ejsing",
+  "rating": "2.276",
+  "votes": "38"
+}

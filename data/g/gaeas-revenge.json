@@ -1,0 +1,13 @@
+{
+  "title": "Gaea's Revenge",
+  "image": "../img/g/gaeas-revenge.jpg",
+  "convertedManaCost": "7",
+  "types": "Creature  — Elemental",
+  "text": "Gaea's Revenge can't be countered.HasteGaea's Revenge can't be the target of nongreen spells or abilities from nongreen sources.",
+  "expansion": "Magic Origins",
+  "rarity": "Rare",
+  "cardNumber": "177",
+  "artist": "Kekai Kotaki",
+  "rating": "5",
+  "votes": "0"
+}

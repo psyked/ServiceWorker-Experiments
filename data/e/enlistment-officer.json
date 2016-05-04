@@ -1,0 +1,13 @@
+{
+  "title": "Enlistment Officer",
+  "image": "../img/e/enlistment-officer.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Human Soldier",
+  "text": "First strikeWhen Enlistment Officer enters the battlefield, reveal the top four cards of your library. Put all Soldier cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "9",
+  "artist": "Wayne England",
+  "rating": "4.261",
+  "votes": "44"
+}

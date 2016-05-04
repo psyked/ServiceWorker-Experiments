@@ -1,0 +1,13 @@
+{
+  "title": "Psychotic Fury",
+  "image": "../img/p/psychotic-fury.jpg",
+  "convertedManaCost": "2",
+  "types": "Instant",
+  "text": "Target multicolored creature gains double strike until end of turn.Draw a card.",
+  "expansion": "Dissension",
+  "rarity": "Common",
+  "cardNumber": "68",
+  "artist": "Kev Walker",
+  "rating": "4.017",
+  "votes": "59"
+}

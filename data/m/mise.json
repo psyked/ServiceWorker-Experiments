@@ -1,0 +1,13 @@
+{
+  "title": "Mise",
+  "image": "../img/m/mise.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Name a nonland card, then reveal the top card of your library. If that card is the named card, draw three cards.",
+  "expansion": "Unhinged",
+  "rarity": "Uncommon",
+  "cardNumber": "38",
+  "artist": "Matt Cavotta",
+  "rating": "3.200",
+  "votes": "25"
+}

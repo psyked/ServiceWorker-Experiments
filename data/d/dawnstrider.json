@@ -1,0 +1,13 @@
+{
+  "title": "Dawnstrider",
+  "image": "../img/d/dawnstrider.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Dryad Spellshaper",
+  "text": ", , Discard a card: Prevent all combat damage that would be dealt this turn.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "237",
+  "artist": "rk post",
+  "rating": "4.105",
+  "votes": "43"
+}

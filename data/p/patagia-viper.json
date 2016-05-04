@@ -1,0 +1,13 @@
+{
+  "title": "Patagia Viper",
+  "image": "../img/p/patagia-viper.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Snake",
+  "text": "FlyingWhen Patagia Viper enters the battlefield, put two 1/1 green and blue Snake creature tokens onto the battlefield.When Patagia Viper enters the battlefield, sacrifice it unless  was spent to cast it.",
+  "expansion": "Commander 2015",
+  "rarity": "Uncommon",
+  "cardNumber": "197",
+  "artist": "Christopher Moeller",
+  "rating": "5",
+  "votes": "0"
+}

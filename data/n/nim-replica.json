@@ -1,0 +1,13 @@
+{
+  "title": "Nim Replica",
+  "image": "../img/n/nim-replica.jpg",
+  "convertedManaCost": "3",
+  "types": "Artifact Creature  — Zombie",
+  "text": ", Sacrifice Nim Replica: Target creature gets -1/-1 until end of turn.",
+  "expansion": "Mirrodin",
+  "rarity": "Common",
+  "cardNumber": "220",
+  "artist": "Carl Critchlow",
+  "rating": "1.667",
+  "votes": "48"
+}

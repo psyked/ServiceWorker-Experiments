@@ -1,0 +1,13 @@
+{
+  "title": "Fledgling Dragon",
+  "image": "../img/f/fledgling-dragon.jpg",
+  "convertedManaCost": "4",
+  "types": "Creature  — Dragon",
+  "text": "FlyingThreshold — As long as seven or more cards are in your graveyard, Fledgling Dragon gets +3/+3 and has \": Fledgling Dragon gets +1/+0 until end of turn.\"",
+  "expansion": "Judgment",
+  "rarity": "Rare",
+  "cardNumber": "90",
+  "artist": "Greg Staples",
+  "rating": "4.057",
+  "votes": "53"
+}

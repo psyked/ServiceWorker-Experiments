@@ -1,0 +1,13 @@
+{
+  "title": "Channel",
+  "image": "../img/c/channel.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add  to your mana pool.",
+  "expansion": "Vintage Masters",
+  "rarity": "Mythic Rare",
+  "cardNumber": "200",
+  "artist": "Rebecca Guay",
+  "rating": "3.750",
+  "votes": "4"
+}

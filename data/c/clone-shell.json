@@ -1,0 +1,13 @@
+{
+  "title": "Clone Shell",
+  "image": "../img/c/clone-shell.jpg",
+  "convertedManaCost": "5",
+  "types": "Artifact Creature  — Shapeshifter",
+  "text": "Imprint — When Clone Shell enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library in any order.When Clone Shell dies, turn the exiled card face up. If it's a creature card, put it onto the battlefield under your control.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "143",
+  "artist": "Volkan Baga",
+  "rating": "2.988",
+  "votes": "80"
+}

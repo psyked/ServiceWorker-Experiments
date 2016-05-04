@@ -1,0 +1,13 @@
+{
+  "title": "Leaping Master",
+  "image": "../img/l/leaping-master.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Human Monk",
+  "text": ": Leaping Master gains flying until end of turn.",
+  "expansion": "Khans of Tarkir",
+  "rarity": "Common",
+  "cardNumber": "114",
+  "artist": "Anastasia Ovchinnikova",
+  "rating": "2.000",
+  "votes": "2"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Goldmeadow Dodger",
+  "image": "../img/g/goldmeadow-dodger.jpg",
+  "convertedManaCost": "1",
+  "types": "Creature  — Kithkin Rogue",
+  "text": "Goldmeadow Dodger can't be blocked by creatures with power 4 or greater.",
+  "expansion": "Lorwyn",
+  "rarity": "Common",
+  "cardNumber": "16",
+  "artist": "Omar Rayyan",
+  "rating": "2.671",
+  "votes": "35"
+}

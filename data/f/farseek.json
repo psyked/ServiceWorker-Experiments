@@ -1,0 +1,13 @@
+{
+  "title": "Farseek",
+  "image": "../img/f/farseek.jpg",
+  "convertedManaCost": "2",
+  "types": "Sorcery",
+  "text": "Search your library for a Plains, Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle your library.",
+  "expansion": "Magic 2013",
+  "rarity": "Common",
+  "cardNumber": "170",
+  "artist": "Martina Pilcerova",
+  "rating": "3.958",
+  "votes": "48"
+}

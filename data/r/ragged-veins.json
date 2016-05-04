@@ -1,0 +1,13 @@
+{
+  "title": "Ragged Veins",
+  "image": "../img/r/ragged-veins.jpg",
+  "convertedManaCost": "2",
+  "types": "Enchantment  — Aura",
+  "text": "FlashEnchant creatureWhenever enchanted creature is dealt damage, its controller loses that much life.",
+  "expansion": "Champions of Kamigawa",
+  "rarity": "Common",
+  "cardNumber": "139",
+  "artist": "Chippy",
+  "rating": "3.491",
+  "votes": "54"
+}

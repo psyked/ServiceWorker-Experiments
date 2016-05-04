@@ -1,0 +1,13 @@
+{
+  "title": "Angelic Captain",
+  "image": "../img/a/angelic-captain.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Angel Ally",
+  "text": "FlyingWhenever Angelic Captain attacks, it gets +1/+1 until end of turn for each other attacking Ally.",
+  "expansion": "Battle for Zendikar",
+  "rarity": "Rare",
+  "cardNumber": "208",
+  "artist": "Volkan Baga",
+  "rating": "5",
+  "votes": "0"
+}

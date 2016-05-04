@@ -1,0 +1,13 @@
+{
+  "title": "Banishing Knack",
+  "image": "../img/b/banishing-knack.jpg",
+  "convertedManaCost": "1",
+  "types": "Instant",
+  "text": "Until end of turn, target creature gains \": Return target nonland permanent to its owner's hand.\"",
+  "expansion": "Eventide",
+  "rarity": "Common",
+  "cardNumber": "17",
+  "artist": "Howard Lyon",
+  "rating": "3.426",
+  "votes": "61"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Curse of the Forsaken",
+  "image": "../img/c/curse-oftheforsaken.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment  — Aura Curse",
+  "text": "Enchant playerWhenever a creature attacks enchanted player, its controller gains 1 life.",
+  "expansion": "Commander 2013 Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "8",
+  "artist": "William Wu",
+  "rating": "3.021",
+  "votes": "24"
+}

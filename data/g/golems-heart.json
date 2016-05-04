@@ -1,0 +1,13 @@
+{
+  "title": "Golem's Heart",
+  "image": "../img/g/golems-heart.jpg",
+  "convertedManaCost": "2",
+  "types": "Artifact",
+  "text": "Whenever a player casts an artifact spell, you may gain 1 life.",
+  "expansion": "Scars of Mirrodin",
+  "rarity": "Uncommon",
+  "cardNumber": "161",
+  "artist": "Matt Cavotta",
+  "rating": "2.673",
+  "votes": "55"
+}

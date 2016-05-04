@@ -1,0 +1,13 @@
+{
+  "title": "Abomination",
+  "image": "../img/a/abomination.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Horror",
+  "text": "Whenever Abomination blocks or becomes blocked by a green or white creature, destroy that creature at end of combat.",
+  "expansion": "Fourth Edition",
+  "rarity": "Uncommon",
+  "cardNumber": "",
+  "artist": "Mark Tedin",
+  "rating": "2.867",
+  "votes": "49"
+}

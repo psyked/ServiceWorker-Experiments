@@ -1,0 +1,13 @@
+{
+  "title": "Idyllic Tutor",
+  "image": "../img/i/idyllic-tutor.jpg",
+  "convertedManaCost": "3",
+  "types": "Sorcery",
+  "text": "Search your library for an enchantment card, reveal it, and put it into your hand. Then shuffle your library.",
+  "expansion": "Morningtide",
+  "rarity": "Rare",
+  "cardNumber": "12",
+  "artist": "Howard Lyon",
+  "rating": "3.621",
+  "votes": "62"
+}

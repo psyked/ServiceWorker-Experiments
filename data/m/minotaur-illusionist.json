@@ -1,0 +1,13 @@
+{
+  "title": "Minotaur Illusionist",
+  "image": "../img/m/minotaur-illusionist.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Minotaur Wizard",
+  "text": ": Minotaur Illusionist gains shroud until end of turn. (It can't be the target of spells or abilities.), Sacrifice Minotaur Illusionist: Minotaur Illusionist deals damage equal to its power to target creature.",
+  "expansion": "Apocalypse",
+  "rarity": "Uncommon",
+  "cardNumber": "111",
+  "artist": "Mark Zug",
+  "rating": "3.184",
+  "votes": "38"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Mystic Might",
+  "image": "../img/m/mystic-might.jpg",
+  "convertedManaCost": "1",
+  "types": "Enchantment  — Aura",
+  "text": "Enchant land you controlCumulative upkeep  (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)Enchanted land has \": Target creature gets +2/+2 until end of turn.\"",
+  "expansion": "Ice Age",
+  "rarity": "Rare",
+  "cardNumber": "",
+  "artist": "Nicola Leonard",
+  "rating": "2.000",
+  "votes": "39"
+}

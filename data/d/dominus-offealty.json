@@ -1,0 +1,13 @@
+{
+  "title": "Dominus of Fealty",
+  "image": "../img/d/dominus-offealty.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit Avatar",
+  "text": "FlyingAt the beginning of your upkeep, you may gain control of target permanent until end of turn. If you do, untap it and it gains haste until end of turn.",
+  "expansion": "Magic: The Gathering-Commander",
+  "rarity": "Rare",
+  "cardNumber": "194",
+  "artist": "Kev Walker",
+  "rating": "4.090",
+  "votes": "78"
+}

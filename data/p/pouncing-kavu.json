@@ -1,0 +1,13 @@
+{
+  "title": "Pouncing Kavu",
+  "image": "../img/p/pouncing-kavu.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Kavu",
+  "text": "Kicker  (You may pay an additional  as you cast this spell.)First strikeIf Pouncing Kavu was kicked, it enters the battlefield with two +1/+1 counters on it and with haste.",
+  "expansion": "Invasion",
+  "rarity": "Common",
+  "cardNumber": "158",
+  "artist": "Adam Rex",
+  "rating": "3.224",
+  "votes": "38"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Bridge from Below",
+  "image": "../img/b/bridge-frombelow.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a nontoken creature is put into your graveyard from the battlefield, if Bridge from Below is in your graveyard, put a 2/2 black Zombie creature token onto the battlefield.When a creature is put into an opponent's graveyard from the battlefield, if Bridge from Below is in your graveyard, exile Bridge from Below.",
+  "expansion": "Modern Masters",
+  "rarity": "Rare",
+  "cardNumber": "74",
+  "artist": "Daarken",
+  "rating": "4.470",
+  "votes": "66"
+}

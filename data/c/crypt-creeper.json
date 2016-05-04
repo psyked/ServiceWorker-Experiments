@@ -1,0 +1,13 @@
+{
+  "title": "Crypt Creeper",
+  "image": "../img/c/crypt-creeper.jpg",
+  "convertedManaCost": "2",
+  "types": "Creature  — Zombie",
+  "text": "Sacrifice Crypt Creeper: Exile target card from a graveyard.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Common",
+  "cardNumber": "91",
+  "artist": "Scott Chou",
+  "rating": "3.028",
+  "votes": "36"
+}

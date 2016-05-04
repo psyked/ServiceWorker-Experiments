@@ -1,0 +1,13 @@
+{
+  "title": "Druids' Repository",
+  "image": "../img/d/druids-repository.jpg",
+  "convertedManaCost": "3",
+  "types": "Enchantment",
+  "text": "Whenever a creature you control attacks, put a charge counter on Druids' Repository.Remove a charge counter from Druids' Repository: Add one mana of any color to your mana pool.",
+  "expansion": "Avacyn Restored",
+  "rarity": "Rare",
+  "cardNumber": "176",
+  "artist": "Daarken",
+  "rating": "3.721",
+  "votes": "61"
+}

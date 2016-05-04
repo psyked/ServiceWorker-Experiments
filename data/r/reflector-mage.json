@@ -1,0 +1,13 @@
+{
+  "title": "Reflector Mage",
+  "image": "../img/r/reflector-mage.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Human Wizard",
+  "text": "When Reflector Mage enters the battlefield, return target creature an opponent controls to its owner's hand. That creature's owner can't cast spells with the same name as that creature until your next turn.",
+  "expansion": "Oath of the Gatewatch",
+  "rarity": "Uncommon",
+  "cardNumber": "157",
+  "artist": "Willian Murai",
+  "rating": "5",
+  "votes": "0"
+}

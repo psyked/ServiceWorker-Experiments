@@ -1,0 +1,13 @@
+{
+  "title": "Balefire Liege",
+  "image": "../img/b/balefire-liege.jpg",
+  "convertedManaCost": "5",
+  "types": "Creature  — Spirit Horror",
+  "text": "Other red creatures you control get +1/+1.Other white creatures you control get +1/+1.Whenever you cast a red spell, Balefire Liege deals 3 damage to target player.Whenever you cast a white spell, you gain 3 life.",
+  "expansion": "Planechase",
+  "rarity": "Rare",
+  "cardNumber": "97",
+  "artist": "Ralph Horsley",
+  "rating": "4.281",
+  "votes": "160"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Megatherium",
+  "image": "../img/m/megatherium.jpg",
+  "convertedManaCost": "3",
+  "types": "Creature  — Beast",
+  "text": "TrampleWhen Megatherium enters the battlefield, sacrifice it unless you pay  for each card in your hand.",
+  "expansion": "Mercadian Masques",
+  "rarity": "Rare",
+  "cardNumber": "259",
+  "artist": "Paolo Parente",
+  "rating": "3.161",
+  "votes": "28"
+}
